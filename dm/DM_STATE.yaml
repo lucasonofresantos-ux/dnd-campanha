@@ -1,0 +1,10 @@
+dm_state:
+  campaign_started: false
+  adventure_selected: false
+  secret_seed: null
+  hidden_npcs: []
+  hidden_locations: []
+  pending_consequences: []
+  notes:
+    - "Não revelar informação que o personagem não poderia conhecer."
+    - "Não proteger o protagonista de consequências legítimas."
