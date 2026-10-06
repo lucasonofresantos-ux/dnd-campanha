@@ -1,0 +1,28 @@
+campaign:
+  status: setup
+  title: null
+  system: "D&D 5E"
+  rules_reference: "SRD 5.2.1"
+  session_number: 0
+  current_location: null
+  current_time: null
+  active_quest: "Configuração do Projeto Mestre RPG"
+player_character:
+  status: draft
+  name: null
+  level: null
+  class: null
+  hp_current: null
+  hp_max: null
+  conditions: []
+world:
+  setting: null
+  discovered_locations: []
+  known_npcs: []
+flags:
+  campaign_started: false
+  character_finalized: false
+  no_protagonist_protection: true
+  strict_knowledge_separation: true
+  dice_fudging: false
+last_update: "2026-10-06"
