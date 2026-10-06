@@ -1,10 +1,14 @@
 dm_state:
   campaign_started: false
-  adventure_selected: false
-  secret_seed: null
+  adventure_selected: true
+  adventure_type: "original"
+  secret_seed: "prepared_in_dm/CAMPAIGN_PREP.md"
   hidden_npcs: []
   hidden_locations: []
   pending_consequences: []
+  preparation_status: "framework_ready_character_integration_pending"
   notes:
     - "Não revelar informação que o personagem não poderia conhecer."
     - "Não proteger o protagonista de consequências legítimas."
+    - "Campanha preparada em segredo; encontros mecânicos finais aguardam ficha final."
+    - "Fornecer gancho de criação somente quando solicitado, sem spoilers."
