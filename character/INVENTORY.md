@@ -1,15 +1,37 @@
 # Inventário — Eron River
 
-## Equipamento inicial
+## Equipamento atual
 - Armadura de couro
-- Espada curta
-- 2 adagas
-- Arco curto
+- Espada curta — revisada por Borin
+- 2 adagas — revisadas por Borin
+- Arco curto — revisado por Borin
 - 20 flechas
 - Aljava
 - Ferramentas de ladrão
 - Pacote de assaltante
-- 8 PO
+- Corda de cânhamo de reposição + gancho de escalada (parte da corda esteve sendo usada na contenção dos prisioneiros; confirmar recuperação após transferência)
+- 10 pitões de ferro
+- Pederneira
+
+## Suprimentos
+- Provisões de estrada para 1 dia
+- Cantil abastecido
+- Bandagens limpas + 1 rolo extra
+- Unguento para cortes e queimaduras leves
+- 1 antitoxina simples
+- Ervas para febre e dor
+
+## Pistas e documentos em posse
+- Disco de bronze com símbolo de três linhas verticais cortadas por uma diagonal
+- Caderno chamuscado recuperado da casa de Mira
+- Folha arrancada encontrada junto ao caderno (não é a folha original de instruções)
+- Carta original do contrato
+- Carta do encontro no moinho
+
+## Dinheiro
+- 6 PO
+- 5 PP
+- 3 PC
 
 ## Maestrias atuais
 - Espada curta — Vex
