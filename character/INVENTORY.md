@@ -9,7 +9,7 @@
 - Aljava
 - Ferramentas de ladrão
 - Pacote de assaltante
-- Corda de cânhamo de reposição + gancho de escalada (parte da corda esteve sendo usada na contenção dos prisioneiros; confirmar recuperação após transferência)
+- Corda de cânhamo de reposição completa + gancho de escalada
 - 10 pitões de ferro
 - Pederneira
 
