@@ -1,5 +1,18 @@
-# Inventário
+# Inventário — Eron River
 
-Ainda não definido.
+## Equipamento inicial
+- Armadura de couro
+- Espada curta
+- 2 adagas
+- Arco curto
+- 20 flechas
+- Aljava
+- Ferramentas de ladrão
+- Pacote de assaltante
+- 8 PO
 
-O inventário canônico será registrado após a criação do personagem e atualizado durante as sessões.
+## Maestrias atuais
+- Espada curta — Vex
+- Adaga — Nick
+
+Inventário sujeito a atualização durante a campanha.
