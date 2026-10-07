@@ -1,14 +1,14 @@
 campaign:
-  status: setup
+  status: active
   title: null
   system: "D&D 5E"
   rules_reference: "SRD 5.2.1"
-  session_number: 0
-  current_location: null
-  current_time: null
-  active_quest: "Gancho inicial e integração do background"
+  session_number: 1
+  current_location: "Estrada da Fronteira, aproximação de Vau do Corvo"
+  current_time: "Fim da tarde"
+  active_quest: "Investigar desaparecimentos e problemas nas rotas de Vau do Corvo"
 player_character:
-  status: finalized
+  status: active
   name: "Eron River"
   level: 1
   class: "Ladino"
@@ -16,11 +16,12 @@ player_character:
   hp_max: 10
   conditions: []
 world:
-  setting: null
-  discovered_locations: []
+  setting: "Região fronteiriça de Vau do Corvo"
+  discovered_locations:
+    - "Vau do Corvo"
   known_npcs: []
 flags:
-  campaign_started: false
+  campaign_started: true
   character_finalized: true
   no_protagonist_protection: true
   strict_knowledge_separation: true
