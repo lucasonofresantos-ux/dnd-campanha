@@ -6,14 +6,14 @@ campaign:
   session_number: 0
   current_location: null
   current_time: null
-  active_quest: "Configuração do Projeto Mestre RPG"
+  active_quest: "Gancho inicial e integração do background"
 player_character:
-  status: draft
-  name: null
-  level: null
-  class: null
-  hp_current: null
-  hp_max: null
+  status: finalized
+  name: "Eron River"
+  level: 1
+  class: "Ladino"
+  hp_current: 10
+  hp_max: 10
   conditions: []
 world:
   setting: null
@@ -21,7 +21,7 @@ world:
   known_npcs: []
 flags:
   campaign_started: false
-  character_finalized: false
+  character_finalized: true
   no_protagonist_protection: true
   strict_knowledge_separation: true
   dice_fudging: false
