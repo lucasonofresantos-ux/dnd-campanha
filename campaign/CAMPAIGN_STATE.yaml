@@ -4,9 +4,9 @@ campaign:
   system: "D&D 5E"
   rules_reference: "SRD 5.2.1"
   session_number: 1
-  current_location: "Estrada da Fronteira, aproximação de Vau do Corvo"
-  current_time: "Fim da tarde"
-  active_quest: "Investigar desaparecimentos e problemas nas rotas de Vau do Corvo"
+  current_location: "Forja de Borin, saída sul de Vau do Corvo"
+  current_time: "Manhã"
+  active_quest: "Investigar desaparecimentos, cargas ocultas e a rede ligada ao Escrivão; localizar Breno, Ivo e Edren Vael"
 player_character:
   status: active
   name: "Eron River"
@@ -14,16 +14,44 @@ player_character:
   class: "Ladino"
   hp_current: 10
   hp_max: 10
+  ac: 15
+  arrows: 20
+  money:
+    gp: 6
+    sp: 5
+    cp: 3
   conditions: []
 world:
   setting: "Região fronteiriça de Vau do Corvo"
   discovered_locations:
     - "Vau do Corvo"
-  known_npcs: []
+    - "Curtume abandonado"
+    - "Velho posto de inspeção"
+    - "Velho moinho d'água"
+  known_npcs:
+    - "Harlan"
+    - "Corvin"
+    - "Orven Taal"
+    - "Garran Vale"
+    - "Mira"
+    - "Davi"
+    - "Tomas Veller"
+    - "Breno"
+    - "Ivo"
+    - "Edren Vael"
+    - "Valen"
+    - "Mestra Elva"
+    - "Borin"
+  prisoners:
+    - "Savin"
+    - "Marrek"
+    - "Barek"
 flags:
   campaign_started: true
   character_finalized: true
   no_protagonist_protection: true
   strict_knowledge_separation: true
   dice_fudging: false
-last_update: "2026-10-06"
+  corvin_integrated: true
+  vigilia_contract_accepted_by_both: true
+last_update: "2026-10-07"
