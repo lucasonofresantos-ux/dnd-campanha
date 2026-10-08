@@ -4,9 +4,9 @@ campaign:
   system: "D&D 5E"
   rules_reference: "SRD 5.2.1"
   session_number: 1
-  current_location: "Forja de Borin, saída sul de Vau do Corvo"
-  current_time: "Manhã"
-  active_quest: "Investigar desaparecimentos, cargas ocultas e a rede ligada ao Escrivão; localizar Breno, Ivo e Edren Vael"
+  current_location: "Casa Cinzenta — interior"
+  current_time: "Fim da tarde / início da noite"
+  active_quest: "Resgatar Breno, investigar a Casa Cinzenta, rastrear Edren Vael e desarticular a rede ligada ao Escrivão"
 player_character:
   status: active
   name: "Eron River"
@@ -15,11 +15,11 @@ player_character:
   hp_current: 10
   hp_max: 10
   ac: 15
-  arrows: 20
+  arrows: 10
   money:
-    gp: 6
-    sp: 5
-    cp: 3
+    gp: 8
+    sp: 2
+    cp: 7
   conditions: []
 world:
   setting: "Região fronteiriça de Vau do Corvo"
@@ -28,6 +28,10 @@ world:
     - "Curtume abandonado"
     - "Velho posto de inspeção"
     - "Velho moinho d'água"
+    - "Marco sul"
+    - "Pedreira abandonada"
+    - "Antiga casa de apoio de carroceiros"
+    - "Casa Cinzenta"
   known_npcs:
     - "Harlan"
     - "Corvin"
@@ -37,15 +41,19 @@ world:
     - "Davi"
     - "Tomas Veller"
     - "Breno"
-    - "Ivo"
+    - "Ivo Maren"
     - "Edren Vael"
     - "Valen"
     - "Mestra Elva"
     - "Borin"
+    - "Teren"
   prisoners:
     - "Savin"
     - "Marrek"
     - "Barek"
+    - "Comandante da pedreira"
+    - "Lanceiro da pedreira"
+    - "Vigia sobrevivente da pedreira"
 flags:
   campaign_started: true
   character_finalized: true
@@ -54,4 +62,8 @@ flags:
   dice_fudging: false
   corvin_integrated: true
   vigilia_contract_accepted_by_both: true
-last_update: "2026-10-07"
+  ivo_found_alive: true
+  breno_found_alive: true
+  casa_cinzenta_reached: true
+  casa_cinzenta_known_hostiles_neutralized: true
+last_update: "2026-10-08"
