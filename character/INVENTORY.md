@@ -61,10 +61,12 @@
 - Registros da Casa Cinzenta com referências "E.V. — avaliador", "B. retido", "M.C. recolhe mensagens" e rota para o "poço velho"
 
 ## Dinheiro
-- 11 PO
-- 3 PP
-- 5 PC
-- O espólio monetário da Casa Cinzenta foi dividido igualmente entre Eron e Corvin
+- 21 PO
+- 6 PP
+- 7 PC
+- Inclui 11 PO recebidas de Borin pela venda de 2 espadas curtas, 2 adagas e 1 lança curta
+- Despesa anterior na taverna: 6 PP e 8 PC por refeição e duas bebidas
+- A compra de munição com Borin ainda não foi fechada
 
 ## Maestrias atuais
 - Espada curta — Vex
