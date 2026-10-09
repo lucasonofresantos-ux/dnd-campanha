@@ -10,15 +10,13 @@
 - Ferramentas de ladrão
 - Pacote de assaltante
 - Gancho de escalada
-- Corda de cânhamo principal: indisponível no momento; usada para manter Teren amarrado próximo ao marco sul
+- Corda de cânhamo principal: recuperada após a retirada de Teren do marco sul; disponível novamente
 - Pitões de ferro: conjunto disponível após recuperação das armadilhas
 - Pederneira
 - 1 besta leve capturada, separada para uso pessoal/armadilhas
-- Virotes para besta: 5 oriundos da pedreira (1 pode permanecer carregado na besta + 4 sobressalentes) e parte do lote comum recuperado na Casa Cinzenta
 - Barbante/cordão fino recuperado para armadilhas e amarras leves
 
 ## Suprimentos pessoais
-- Provisões de estrada remanescentes
 - Cantil abastecido
 - Bandagens limpas + 1 rolo extra
 - Unguento para cortes e queimaduras leves
@@ -26,19 +24,28 @@
 - Ervas para febre e dor
 - 1 Poção de Cura comum (2d4+2 PV)
 
-## Espólio conjunto / reserva do grupo no posto
-- 2 cavalos recuperados da Casa Cinzenta, procedência ainda não verificada
-- 2 bestas leves adicionais recuperadas na Casa Cinzenta
-- 12 virotes intactos recuperados na Casa Cinzenta
-- Lança(s) curta(s) e espadas curtas capturadas, quantidade exata a conferir antes de venda/divisão
-- Adagas e outras armas comuns capturadas, quantidade exata a conferir
-- Comida seca e mantimentos recuperados da pedreira e Casa Cinzenta
-- Cantis e água
+## Equipamento distribuído
+- Corvin: arco próprio, 14 flechas, 1 espada curta capturada e 2 adagas capturadas
+- Breno: 1 espada curta capturada e 1 adaga capturada
+- Ivo: 1 besta leve capturada, 17 virotes recuperados e 1 lança curta capturada
+
+## Reserva conjunta no esconderijo
+- 1 besta leve capturada adicional
+- Espadas curtas, lanças curtas, adagas e outras armas comuns capturadas: quantidade exata ainda pendente de contagem final
+- Cordames menores, cintos, bainhas, capas e ferramentas comuns
+- Material restante da maca de arrasto e improvisos de transporte
+- 2 cavalos recuperados da Casa Cinzenta; procedência ainda não verificada
+
+## Mantimentos e suprimentos do grupo
+- Após o desjejum e somadas as provisões recuperadas e as compras trazidas por Orven/Garran: aproximadamente 36 pessoa-dias de alimentação simples
+- Para 10 pessoas no esconderijo, isso cobre 3 dias completos e restam cerca de 6 rações-dia
+- Água disponível pela cisterna, sujeita a controle de qualidade e reposição
+- Forragem seca limitada para os 2 cavalos; pastagem e água próximas reduzem o consumo, mas não sustentam confinamento prolongado sem reposição
 - Óleo de lamparina e velas
 - Panos limpos e cobertores
 - Kit simples de primeiros socorros recuperado; parcialmente usado no tratamento de Karel, Halvek e Rovan
-- Cordames menores, cintos, bainhas, capas e ferramentas comuns
-- Material restante da maca de arrasto e improvisos de transporte
+- Material médico adicional trazido por Orven/Garran
+- Algemas, corrente curta e material de contenção trazidos por Orven/Garran
 
 ## Pistas e documentos em posse
 - Disco de bronze com símbolo de três linhas verticais cortadas por uma diagonal
