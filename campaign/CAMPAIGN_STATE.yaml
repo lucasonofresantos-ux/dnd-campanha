@@ -5,8 +5,8 @@ campaign:
   rules_reference: "SRD 5.2.1"
   session_number: 1
   current_location: "Posto abandonado da Vigília"
-  current_time: "Amanhecer"
-  active_quest: "Proteger Breno e Ivo; custodiar Karel, Halvek e Rovan; aguardar retorno de Orven e Garran; transferir o grupo para esconderijo seguro; rastrear Edren Vael e desarticular a rede ligada ao Escrivão"
+  current_time: "Manhã, aproximadamente 8h30"
+  active_quest: "Proteger Breno e Ivo; custodiar Karel, Halvek e Rovan; transferir o grupo para esconderijo seguro; rastrear Edren Vael e desarticular a rede ligada ao Escrivão"
 player_character:
   status: active
   name: "Eron River"
@@ -33,8 +33,10 @@ world:
     - "Antiga casa de apoio de carroceiros"
     - "Casa Cinzenta"
     - "Posto abandonado da Vigília"
+    - "Antiga casa de vigia de pastores"
   known_npcs:
     - "Harlan"
+    - "Hadrik"
     - "Corvin"
     - "Orven Taal"
     - "Garran Vale"
@@ -70,9 +72,11 @@ flags:
   breno_found_alive: true
   casa_cinzenta_reached: true
   casa_cinzenta_known_hostiles_neutralized: true
-  short_rest_completed_at_outpost: true
   long_rest_completed_at_outpost: true
   perimeter_alarms_set: true
   return_knock_signal: "3 batidas, pausa, 4 batidas"
-  orven_and_garran_on_external_logistics: true
+  orven_and_garran_returned: true
+  teren_recovered_alive: true
+  hadrik_reaction_not_suspicious: true
+  transport_and_supplies_ready: true
 last_update: "2026-10-09"
