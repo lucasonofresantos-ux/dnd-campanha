@@ -5,8 +5,8 @@ campaign:
   rules_reference: "SRD 5.2.1"
   session_number: 1
   current_location: "Posto abandonado da Vigília"
-  current_time: "Noite"
-  active_quest: "Proteger Breno e Ivo; custodiar prisioneiros da pedreira; trazer Orven e Garran; rastrear Edren Vael e desarticular a rede ligada ao Escrivão"
+  current_time: "Amanhecer"
+  active_quest: "Proteger Breno e Ivo; custodiar Karel, Halvek e Rovan; aguardar retorno de Orven e Garran; transferir o grupo para esconderijo seguro; rastrear Edren Vael e desarticular a rede ligada ao Escrivão"
 player_character:
   status: active
   name: "Eron River"
@@ -48,13 +48,16 @@ world:
     - "Mestra Elva"
     - "Borin"
     - "Teren"
+    - "Karel Voss"
+    - "Halvek"
+    - "Rovan"
   prisoners:
     - "Savin"
     - "Marrek"
     - "Barek"
-    - "Comandante da pedreira"
-    - "Lanceiro da pedreira"
-    - "Vigia sobrevivente da pedreira"
+    - "Karel Voss"
+    - "Halvek"
+    - "Rovan"
 flags:
   campaign_started: true
   character_finalized: true
@@ -68,5 +71,8 @@ flags:
   casa_cinzenta_reached: true
   casa_cinzenta_known_hostiles_neutralized: true
   short_rest_completed_at_outpost: true
-  corvin_sent_for_orven_and_garran: true
-last_update: "2026-10-08"
+  long_rest_completed_at_outpost: true
+  perimeter_alarms_set: true
+  return_knock_signal: "3 batidas, pausa, 4 batidas"
+  orven_and_garran_on_external_logistics: true
+last_update: "2026-10-09"
