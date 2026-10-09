@@ -6,7 +6,7 @@ campaign:
   session_number: 1
   current_location: "Antiga casa de vigia de pastores"
   current_time: "Manhã"
-  active_quest: "Proteger Breno e Ivo; custodiar Karel, Halvek, Rovan e Teren; estabelecer o esconderijo seguro; rastrear Edren Vael e desarticular a rede ligada ao Escrivão"
+  active_quest: "Proteger Breno e Ivo; custodiar Karel, Halvek, Rovan e Teren; consolidar o esconderijo; preparar ida discreta a Vau; rastrear Edren Vael e desarticular a rede ligada ao Escrivão"
 player_character:
   status: active
   name: "Eron River"
@@ -80,6 +80,14 @@ flags:
   teren_recovered_alive: true
   hadrik_reaction_not_suspicious: true
   transport_and_supplies_ready: true
-  relocation_to_shepherd_watch_house_started: true
   relocation_to_shepherd_watch_house_completed: true
+  planned_vau_trip: true
+  planned_vau_first_stop: "Taverna"
+  planned_vau_tasks:
+    - "Colher notícias"
+    - "Enviar carta a Valen"
+    - "Comprar suprimentos"
+    - "Falar com Borin"
+    - "Vender excedentes selecionados"
+  horse_provenance_check_delegated_to_orven_and_garran: true
 last_update: "2026-10-09"
