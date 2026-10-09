@@ -9,3 +9,7 @@
 
 ## Sessão 1
 - 2026-10-06: Eron aceitou o trabalho de investigação na região de fronteira e partiu em direção a Vau do Corvo. A campanha começou oficialmente.
+- Eron e Corvin avançaram na investigação de desaparecimentos e irregularidades de carga em Vau do Corvo, identificando uma rede compartimentada ligada a intermediários como Mão Curta, ao homem do broche, à Mesa, ao título Escrivão e à fonte interna chamada Sino.
+- Breno e Ivo foram encontrados vivos; Karel Voss, Halvek, Rovan e Teren permanecem sob custódia em esconderijo provisório fora de Vau.
+- Foram descobertos ou investigados o curtume abandonado, marco sul, pedreira, Casa Cinzenta, poço velho, Casa sem Sino e outras rotas/pontos secundários.
+- Eron preparou, no escritório privado de Borin, uma carta completa ao contratante relatando descobertas, nomes, locais, estrutura conhecida da rede, prisioneiros e situação operacional. Omitiu Borin, as compras particulares e o pagamento cobrado da Vigília. A carta também pergunta por um meio mais seguro de comunicação e eventual pedido de reforço sem depender de entradas e saídas frequentes de Vau.
