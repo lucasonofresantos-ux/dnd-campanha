@@ -1,11 +1,11 @@
 # Inventário — Eron River
 
-## Equipamento atual
+## Equipamento pessoal atual
 - Armadura de couro
 - Espada curta — revisada por Borin
-- 2 adagas — revisadas por Borin
+- 3 adagas: 2 originais revisadas por Borin + 1 capturada
 - Arco curto — revisado por Borin
-- 18 flechas no total após recolher 8 flechas comuns da Casa Cinzenta
+- 18 flechas
 - Aljava
 - Ferramentas de ladrão
 - Pacote de assaltante
@@ -13,12 +13,11 @@
 - Corda de cânhamo principal: indisponível no momento; usada para manter Teren amarrado próximo ao marco sul
 - Pitões de ferro: conjunto disponível após recuperação das armadilhas
 - Pederneira
-- Besta leve capturada, agora separada para uso montado
-- Virotes de besta: 12 intactos recuperados na Casa Cinzenta, além dos já trazidos da pedreira
-- Lança curta capturada
-- Armas adicionais capturadas na pedreira e na Casa Cinzenta, distribuídas entre o grupo/carga dos cavalos
+- 1 besta leve capturada, separada para uso pessoal/armadilhas
+- Virotes para besta: 5 oriundos da pedreira (1 pode permanecer carregado na besta + 4 sobressalentes) e parte do lote comum recuperado na Casa Cinzenta
+- Barbante/cordão fino recuperado para armadilhas e amarras leves
 
-## Suprimentos
+## Suprimentos pessoais
 - Provisões de estrada remanescentes
 - Cantil abastecido
 - Bandagens limpas + 1 rolo extra
@@ -26,9 +25,20 @@
 - 1 antitoxina simples
 - Ervas para febre e dor
 - 1 Poção de Cura comum (2d4+2 PV)
-- Suprimentos recuperados da pedreira: comida seca, cantis, óleo de lamparina, pano limpo, cobertores e kit simples de primeiros socorros
-- Mantimentos recuperados da Casa Cinzenta: equivalente a cerca de 5 dias para 1 pessoa, água, óleo de lamparina, velas e pano limpo
-- Barbante/cordão fino recuperado para uso em armadilhas e amarras leves
+
+## Espólio conjunto / reserva do grupo no posto
+- 2 cavalos recuperados da Casa Cinzenta, procedência ainda não verificada
+- 2 bestas leves adicionais recuperadas na Casa Cinzenta
+- 12 virotes intactos recuperados na Casa Cinzenta
+- Lança(s) curta(s) e espadas curtas capturadas, quantidade exata a conferir antes de venda/divisão
+- Adagas e outras armas comuns capturadas, quantidade exata a conferir
+- Comida seca e mantimentos recuperados da pedreira e Casa Cinzenta
+- Cantis e água
+- Óleo de lamparina e velas
+- Panos limpos e cobertores
+- Kit simples de primeiros socorros recuperado; parcialmente usado no tratamento de Karel, Halvek e Rovan
+- Cordames menores, cintos, bainhas, capas e ferramentas comuns
+- Material restante da maca de arrasto e improvisos de transporte
 
 ## Pistas e documentos em posse
 - Disco de bronze com símbolo de três linhas verticais cortadas por uma diagonal
