@@ -1,3 +1,4 @@
 id,sessao,tipo,expressao,dado_bruto,modificador,total,publico,motivo,observacao
 1,1,Intimidacao,"2d20kh1+1","2;20",1,21,sim,"Interrogatorio de Halvek no posto abandonado","Vantagem; 20 natural em teste de pericia nao e sucesso automatico, total 21"
 2,1,Percepcao,"1d20+6","19",6,25,sim,"Inspecao do perimetro do posto ao amanhecer","Busca por pegadas, alarmes acionados, aproximacao noturna e sinais junto aos cavalos"
+3,1,Percepcao,"1d20+6","5",6,11,sim,"Vigilancia durante deslocamento ao esconderijo","Eron observa a rota enquanto o grupo se desloca pela trilha secundaria"
