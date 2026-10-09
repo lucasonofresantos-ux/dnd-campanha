@@ -4,9 +4,9 @@ campaign:
   system: "D&D 5E"
   rules_reference: "SRD 5.2.1"
   session_number: 1
-  current_location: "Antiga casa de vigia de pastores"
-  current_time: "Manhã"
-  active_quest: "Proteger Breno e Ivo; custodiar Karel, Halvek, Rovan e Teren; consolidar o esconderijo; preparar ida discreta a Vau; rastrear Edren Vael e desarticular a rede ligada ao Escrivão"
+  current_location: "Beco próximo à entrada de Vau do Corvo"
+  current_time: "Início da tarde"
+  active_quest: "Investigar a mulher desconhecida que mandou seguir Eron; usar Darel Voss para chegar ao encontro no antigo depósito de lã; preservar o canal com Harlan; retornar ao esconderijo antes do anoitecer"
 player_character:
   status: active
   name: "Eron River"
@@ -18,8 +18,8 @@ player_character:
   arrows: 18
   money:
     gp: 11
-    sp: 3
-    cp: 5
+    sp: 1
+    cp: 7
   conditions: []
 world:
   setting: "Região fronteiriça de Vau do Corvo"
@@ -34,6 +34,7 @@ world:
     - "Casa Cinzenta"
     - "Posto abandonado da Vigília"
     - "Antiga casa de vigia de pastores"
+    - "Antigo depósito de lã no norte de Vau do Corvo"
   known_npcs:
     - "Harlan"
     - "Hadrik"
@@ -53,6 +54,7 @@ world:
     - "Karel Voss"
     - "Halvek"
     - "Rovan"
+    - "Darel Voss"
   prisoners:
     - "Savin"
     - "Marrek"
@@ -81,13 +83,11 @@ flags:
   hadrik_reaction_not_suspicious: true
   transport_and_supplies_ready: true
   relocation_to_shepherd_watch_house_completed: true
-  planned_vau_trip: true
-  planned_vau_first_stop: "Taverna"
-  planned_vau_tasks:
-    - "Colher notícias"
-    - "Enviar carta a Valen"
-    - "Comprar suprimentos"
-    - "Falar com Borin"
-    - "Vender excedentes selecionados"
   horse_provenance_check_delegated_to_orven_and_garran: true
+  darrel_follow_confirmed: true
+  darrel_hired_by_unknown_woman: true
+  darrel_advance_paid_gp: 2
+  darrel_balance_due_gp: 3
+  unknown_woman_knows_eron_name: true
+  meeting_at_old_wool_warehouse_planned: true
 last_update: "2026-10-09"
