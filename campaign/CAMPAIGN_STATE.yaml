@@ -4,9 +4,9 @@ campaign:
   system: "D&D 5E"
   rules_reference: "SRD 5.2.1"
   session_number: 1
-  current_location: "Casa Cinzenta — interior"
-  current_time: "Fim da tarde / início da noite"
-  active_quest: "Resgatar Breno, investigar a Casa Cinzenta, rastrear Edren Vael e desarticular a rede ligada ao Escrivão"
+  current_location: "Posto abandonado da Vigília"
+  current_time: "Noite"
+  active_quest: "Proteger Breno e Ivo; custodiar prisioneiros da pedreira; trazer Orven e Garran; rastrear Edren Vael e desarticular a rede ligada ao Escrivão"
 player_character:
   status: active
   name: "Eron River"
@@ -15,11 +15,11 @@ player_character:
   hp_current: 10
   hp_max: 10
   ac: 15
-  arrows: 10
+  arrows: 18
   money:
-    gp: 8
-    sp: 2
-    cp: 7
+    gp: 11
+    sp: 3
+    cp: 5
   conditions: []
 world:
   setting: "Região fronteiriça de Vau do Corvo"
@@ -32,6 +32,7 @@ world:
     - "Pedreira abandonada"
     - "Antiga casa de apoio de carroceiros"
     - "Casa Cinzenta"
+    - "Posto abandonado da Vigília"
   known_npcs:
     - "Harlan"
     - "Corvin"
@@ -66,4 +67,6 @@ flags:
   breno_found_alive: true
   casa_cinzenta_reached: true
   casa_cinzenta_known_hostiles_neutralized: true
+  short_rest_completed_at_outpost: true
+  corvin_sent_for_orven_and_garran: true
 last_update: "2026-10-08"
