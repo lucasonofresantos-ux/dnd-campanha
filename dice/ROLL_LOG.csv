@@ -4,4 +4,6 @@ id,sessao,tipo,expressao,dado_bruto,modificador,total,publico,motivo,observacao
 3,1,Percepcao,"1d20+6","5",6,11,sim,"Vigilancia durante deslocamento ao esconderijo","Eron observa a rota enquanto o grupo se desloca pela trilha secundaria"
 4,1,Percepcao,"2d20kh1+6","16;2",6,22,sim,"Reconhecimento do perimetro do esconderijo","Vantagem por ajuda direta de Corvin; avaliacao de acessos, pontos cegos e locais para alertas"
 5,1,Investigacao,"1d20+6","20",6,26,sim,"Inspecao detalhada dos dois cavalos recuperados da Casa Cinzenta","Busca por marcas de propriedade, ferraduras, cicatrizes de arreio e sinais de procedencia"
-6,1,Percepcao,"1d20+6","8",6,14,sim,"Checagem de cauda e entrada da taverna em Vau do Corvo","Eron procura sinais de seguimento ou vigilância antes de entrar"
+6,1,Percepcao,"1d20+6","8",6,14,sim,"Checagem de cauda e entrada da taverna em Vau do Corvo","Eron procura sinais de seguimento ou vigilancia antes de entrar"
+7,1,Furtividade,"1d20+6","20",6,26,sim,"Seguir Darel Voss ate o encontro","Eron acompanha Darel sem comprometer a vigilancia"
+8,1,Percepcao,"1d20+6","17",6,23,sim,"Contra-vigilancia durante seguimento de Darel","Eron procura outras pessoas acompanhando Darel ou observando a rota"
