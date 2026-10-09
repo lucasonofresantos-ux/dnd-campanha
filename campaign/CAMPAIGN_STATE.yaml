@@ -4,9 +4,9 @@ campaign:
   system: "D&D 5E"
   rules_reference: "SRD 5.2.1"
   session_number: 1
-  current_location: "Posto abandonado da Vigília"
-  current_time: "Manhã, aproximadamente 8h30"
-  active_quest: "Proteger Breno e Ivo; custodiar Karel, Halvek e Rovan; transferir o grupo para esconderijo seguro; rastrear Edren Vael e desarticular a rede ligada ao Escrivão"
+  current_location: "Em deslocamento para a antiga casa de vigia de pastores"
+  current_time: "Manhã, pouco depois das 8h30"
+  active_quest: "Proteger Breno e Ivo; custodiar Karel, Halvek, Rovan e Teren; transferir o grupo para esconderijo seguro; rastrear Edren Vael e desarticular a rede ligada ao Escrivão"
 player_character:
   status: active
   name: "Eron River"
@@ -60,6 +60,7 @@ world:
     - "Karel Voss"
     - "Halvek"
     - "Rovan"
+    - "Teren"
 flags:
   campaign_started: true
   character_finalized: true
@@ -79,4 +80,5 @@ flags:
   teren_recovered_alive: true
   hadrik_reaction_not_suspicious: true
   transport_and_supplies_ready: true
+  relocation_to_shepherd_watch_house_started: true
 last_update: "2026-10-09"
