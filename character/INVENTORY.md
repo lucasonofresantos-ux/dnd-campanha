@@ -68,12 +68,14 @@
 - Carta atual preparada para Valen, ainda a ser entregue por Harlan
 
 ## Dinheiro
-- 13 PO
+- 11 PO
 - 1 PP
 - 7 PC
 - Inclui venda de excedentes a Borin por 11 PO
 - Inclui 2 PO pagos a Borin por manutenção e cordas sobressalentes
 - Inclui 6 PO e 5 PP pagos a Maela Venn pelo conjunto médico após negociação
+- Inclui 2 PO adiantadas a Darel Voss pelo encontro com a mulher desconhecida
+- Restam 3 PO a pagar a Darel após o serviço, se cumprir o combinado
 - A compra de munição com Borin ainda não foi fechada
 
 ## Maestrias atuais
