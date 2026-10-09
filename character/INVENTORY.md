@@ -17,6 +17,7 @@
 - 1 besta leve capturada — revisada por Borin
 - 1 corda sobressalente para besta leve
 - Barbante/cordão fino para armadilhas e amarras leves
+- 1 manto simples sem forro, comprado de Harlan por 6 PP
 
 ## Suprimentos pessoais
 - Cantil abastecido
@@ -30,6 +31,7 @@
 - Pano limpo para curativos
 - 1 unguento adicional para feridas e queimaduras leves
 - Ervas adicionais para dor e febre
+- 1 garrafa pequena de cerveja escura e carne quente para Rikk, já pagas
 
 ## Equipamento distribuído
 - Corvin: arco próprio, 14 flechas, 1 espada curta capturada, 2 adagas capturadas e 1 corda sobressalente para arco
@@ -65,18 +67,18 @@
 - Apito metálico recuperado de vigia da Casa Cinzenta
 - Anotação de serviço da Casa Cinzenta
 - Registros da Casa Cinzenta com referências a E.V., B., M.C. e rota para o poço velho
-- Carta atual preparada para Valen, ainda a ser entregue por Harlan
+- Nova carta de resposta a Valen deixada com Harlan por canal discreto
 
 ## Dinheiro
-- 10 PO
-- 8 PP
+- 7 PO
+- 2 PP
 - 7 PC
 - Inclui venda de excedentes a Borin por 11 PO
 - Inclui 2 PO pagos a Borin por manutenção e cordas sobressalentes
 - Inclui 6 PO e 5 PP pagos a Maela Venn pelo conjunto médico após negociação
-- Inclui 2 PO adiantadas a Darel Voss pelo encontro com a mulher desconhecida
-- Inclui 3 PP pagos antecipadamente a Harlan por carne e bebida para Rikk; Eron pediu carne quente para retirar depois
-- Restam 3 PO a pagar a Darel após o serviço, se cumprir o combinado
+- Inclui 5 PO totais pagas a Darel Voss pelo serviço de encontro/vigilância
+- Inclui 3 PP pagos a Harlan por carne e bebida para Rikk
+- Inclui 6 PP pagos a Harlan pelo manto simples
 - A compra de munição com Borin ainda não foi fechada
 
 ## Maestrias atuais
