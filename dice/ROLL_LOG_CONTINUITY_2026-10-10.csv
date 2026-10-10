@@ -1,0 +1,4 @@
+id,sessao,tipo,expressao,dado_bruto,modificador,total,publico,motivo,observacao
+60,1,Investigacao,1d20+6,19,6,25,sim,Examinar pertences,Cilindro protegido e simbolo comum a anel e tatuagem
+61,1,Investigacao,1d20+6,18,6,24,sim,Conferir amarras,Identificadas folgas e mobilidade dos dedos; amarras reforcadas depois
+62,1,Investigacao,1d20+6,17,6,23,sim,Examinar livros e anotacoes,Documentos organizados; conteudo especifico ainda nao estabelecido; cilindro fechado
