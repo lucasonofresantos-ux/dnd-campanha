@@ -147,3 +147,11 @@ Anexo: image(7).png — captura do Roll20 com Shortsword Mastery e Dagger Master
 
 ## Pendência
 Resposta integral visível do Mestre ainda não sincronizada.
+
+## Mensagem 0021 — Jogador
+aqui humano 2024
+
+Anexo: image(8).png — captura do Roll20 na etapa Species, Human 2024 selecionado, características 30 Speed, Medium or Small Size, Resourceful, Skillful, Versatile. Arquivo original não arquivado no GitHub.
+
+## Pendência
+Resposta integral do Mestre ainda não sincronizada.
