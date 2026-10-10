@@ -97,3 +97,11 @@ Anexo: image(3).png — captura da tela Roll20 Characters com botão vermelho 'B
 
 ## Pendência
 Resposta integral visível do Mestre ainda não sincronizada.
+
+## Mensagem 0014 — Jogador
+aqui:
+
+Anexo: image(4).png — captura do criador Roll20 na etapa Class, com opções Paladin (sem etiqueta) e Paladin (2024). Original não arquivado no GitHub.
+
+## Pendência
+Resposta integral do Mestre ainda não sincronizada.
