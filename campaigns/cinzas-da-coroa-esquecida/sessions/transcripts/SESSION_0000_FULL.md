@@ -183,3 +183,38 @@ Anexo: image(20261010-173119).png — captura da etapa Background (3 de 8) do Ro
 
 ## Pendência
 Resposta integral do Mestre ainda não sincronizada.
+
+## Mensagem 0027 — Jogador
+vamos fazer do zero no www.dndbeyond.com, no roll 20 ele pediu para comprar o livro 2024, ou configurar o guard aqui o print, ou da de configurar aqui no roll20. melhor no www.dndbeyond.com
+
+Anexos: duas capturas do Roll20, mostrando Guard 2024 bloqueado por compra do Player's Handbook 2024 e opção Custom Background. Originais não arquivados.
+
+## Resposta do Mestre — texto visível
+Concordo. **Vamos usar o D&D Beyond para reconstruir a ficha de Eron River com as regras de D&D 5E 2024.**
+
+Pelas suas capturas, o Roll20 realmente está bloqueando o antecedente **Guard (Guarda)**, exigindo a compra do *Player's Handbook 2024* por US$ 29,99.
+
+O D&D Beyond é uma boa alternativa porque tem um criador de personagens oficial e permite começar gratuitamente. Porém, algumas opções do Livro do Jogador 2024 também podem exigir compra ou compartilhamento de conteúdo.
+
+Vamos manter as decisões já tomadas:
+
+- **Personagem:** Eron River.
+- **Espécie:** Humano 2024.
+- **Classe:** Ladino (Rogue), nível 1.
+- **Antecedente desejado:** Guarda (Guard) 2024.
+- **Maestrias:** Espada Curta e Adaga.
+- **Talento adicional desejado:** Vigoroso (Tough).
+- **Atributos:** vamos rolar novamente, sem aproveitar os valores da ficha antiga.
+- **História:** ex-oficial investigador, traído e exilado de Valdrén, proibido de retornar.
+
+## Primeiro passo no D&D Beyond
+
+Acesse https://www.dndbeyond.com/characters.
+
+Entre na sua conta e procure **Create a Character** (Criar Personagem).
+
+Escolha o criador padrão, se houver essa opção, e mantenha as regras de **2024**, não as versões Legacy de 2014.
+
+**Envie uma captura da primeira tela do criador.** Vou acompanhar cada etapa e conferir as opções disponíveis antes de decidirmos se precisamos de alguma configuração manual.
+
+Não precisamos comprar nenhum livro agora. Primeiro vamos verificar até onde conseguimos construir a ficha gratuitamente.
