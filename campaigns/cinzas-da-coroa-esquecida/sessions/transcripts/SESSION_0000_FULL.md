@@ -133,3 +133,9 @@ Anexo: image(6).png — captura do Roll20, Ladino 2024 nível 1, com duas escolh
 
 ## Pendência
 Resposta integral do Mestre desta interação ainda não sincronizada.
+
+## Mensagem 0019 — Jogador
+acho que vou de espada curta e adaga
+
+## Pendência
+Resposta integral do Mestre ainda não sincronizada.
