@@ -45,3 +45,10 @@ character_rebuild:
   awaiting: "rolagens do jogador"
   prior_mechanics_superseded: true
   campaign_not_started: true
+
+latest_character_decision:
+  class: Ladino
+  english_class: Rogue
+  ruleset: "2024"
+  paladin_choice_superseded: true
+  ability_rolls_pending: true
