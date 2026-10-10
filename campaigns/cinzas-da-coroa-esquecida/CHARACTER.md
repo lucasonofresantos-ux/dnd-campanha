@@ -17,3 +17,6 @@ Manter PV 10/10 no nível 1 apesar de Vigoroso (Tough) e CON 14. É uma exceçã
 
 ## Reconstrução autorizada — Paladino 2024
 Jogador decidiu refazer a ficha do zero como Paladino nível 1 usando D&D 2024/SRD 5.2.1, mantendo identidade e background de Eron. Atributos serão rolados pelo jogador com 4d6 descartando o menor, seis vezes. Dados mecânicos anteriores (ladino, Guarda/Alerta/Vigoroso, PV 10) são históricos, não a ficha ativa. Nova ficha ainda incompleta; não iniciar aventura antes de concluir.
+
+## Correção expressa do jogador — classe
+O jogador corrigiu a escolha anterior: Eron será LADINO (Rogue) 2024, NÃO Paladino. Recriar ficha do zero, atributos rolados no Roll20, preservando background. Escolhas anteriores de Paladino são superadas. Nenhuma rolagem ainda ocorreu.
