@@ -371,3 +371,26 @@ Na ficha, procure o campo **Deslocamento**, próximo à Classe de Armadura e à 
 Esse valor representa a distância que Eron pode percorrer normalmente usando seu movimento em combate. Ele também pode usar a ação Disparada para se deslocar mais.
 
 **Já anotou 9 m?** Depois passaremos ao próximo campo.
+
+
+---
+
+### Interação acessível — dados de vida (registro parcial)
+**Jogador:** sim
+
+**Mestre:** Perfeito! **Deslocamento de 9 metros confirmado.**
+
+### Próximo passo: Dados de Vida
+
+Como Eron é um **Ladino de nível 1**, ele possui:
+
+- **Dados de Vida:** 1d8
+- **Pontos de Vida máximos:** 10
+
+Os 10 PV vêm de 8 pontos iniciais da classe, mais 2 pelo modificador de Constituição.
+
+Na ficha, procure o campo **Dados de Vida** e escreva **1d8**.
+
+Esse dado poderá ser usado para recuperar pontos de vida durante um descanso curto, conforme as regras de descanso.
+
+**Já anotou 1d8?** Depois verificaremos os próximos campos da ficha.
