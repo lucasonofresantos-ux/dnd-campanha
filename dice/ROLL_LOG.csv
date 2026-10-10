@@ -9,3 +9,5 @@ id,sessao,tipo,expressao,dado_bruto,modificador,total,publico,motivo,observacao
 8,1,Percepcao,"1d20+6","17",6,23,sim,"Contra-vigilancia durante seguimento de Darel","Eron procura outras pessoas acompanhando Darel ou observando a rota"
 9,1,Percepcao,"1d20+6","18",6,24,sim,"Deslocamento aos currais do sul em busca de Rikk","Eron procura sinais de cauda enquanto segue para a area indicada por Borin"
 10,1,Percepcao,"1d20+6","17",6,23,sim,"Contra-vigilancia da taverna ate Borin e preparacao para saida de Vau","Eron observa se alguem acompanha ele, Corvin ou Seris"
+11,1,Percepcao,"1d20+6","17",6,23,sim,"Reconhecimento da aproximacao ao Marco Sul","Eron procura pessoas, vigilancia e sinais incomuns antes de se aproximar"
+12,1,Furtividade,"1d20+6","18",6,24,sim,"Aproximacao furtiva ao Marco Sul","Eron avanca usando cobertura e evitando exposicao"
