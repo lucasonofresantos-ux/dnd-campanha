@@ -351,3 +351,23 @@ Eron possui Destreza 16, portanto:
 Na ficha, escreva **+3** no campo **Iniciativa**.
 
 Não precisa rolar nenhum dado agora. A rolagem só acontece quando um combate começa.
+
+
+---
+
+### Interação acessível — deslocamento (registro parcial)
+**Jogador:** sim
+
+**Mestre:** Perfeito! **Iniciativa +3 confirmada.**
+
+### Próximo passo: Deslocamento
+
+Como Eron é um **Humano Padrão**, seu deslocamento é de **9 metros por turno** (30 pés), conforme o *Livro do Jogador de D&D 5E (2014)*.
+
+Na ficha, procure o campo **Deslocamento**, próximo à Classe de Armadura e à Iniciativa, e escreva:
+
+**9 m**
+
+Esse valor representa a distância que Eron pode percorrer normalmente usando seu movimento em combate. Ele também pode usar a ação Disparada para se deslocar mais.
+
+**Já anotou 9 m?** Depois passaremos ao próximo campo.
