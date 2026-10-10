@@ -161,3 +161,11 @@ aqui nessa agora é apertar em next correto?
 
 ## Pendência
 A resposta integral do Mestre ainda não foi sincronizada.
+
+## Mensagem 0024 — Jogador
+acho que é next para chegar la
+
+Anexo: image(10).png — captura da tela Species do Roll20, Human 2024, Medium Size selecionado, detalhes de Resourceful e Skillful expandidos, botão Next visível. Arquivo original não arquivado no GitHub.
+
+## Pendência
+Resposta integral do Mestre desta interação ainda não sincronizada.
