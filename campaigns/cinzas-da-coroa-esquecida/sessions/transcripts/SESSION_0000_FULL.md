@@ -246,3 +246,23 @@ Quando abrir a lista de classes, procure **Rogue (Ladino)**. Envie uma captura a
 Uma observação importante: no topo da página aparece **Create Account or Sign In**. Isso significa que você ainda não está conectado. Podemos explorar o criador assim, mas será necessário entrar na conta para salvar Eron.
 
 Vamos fazer uma etapa de cada vez.
+
+## Mensagem 0029 — Jogador
+aqui
+
+Anexo: image(20261010-173533).png — captura do D&D Beyond na seleção de espécie, com 5.5E selecionado e opção Human visível. Imagem original permanece na conversa, não arquivada no GitHub.
+
+## Resposta visível do Mestre
+Perfeito! Agora você está na tela **Choose a Species (Escolher Espécie)** do D&D Beyond.
+
+Na imagem, a versão **5.5E (regras de 2024)** já está selecionada, então estamos no caminho certo.
+
+**Faça o seguinte:**
+
+1. Localize **Human (Humano)**, na coluna esquerda, quarta linha.
+2. Clique em **SELECT (Selecionar)**, no canto inferior direito do quadro Human.
+3. Envie a próxima captura para conferirmos as características da espécie.
+
+Não precisa clicar em *Learn More (Saiba mais)*.
+
+Vamos manter Eron como Humano de tamanho Médio, com as características da versão 2024.
