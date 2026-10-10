@@ -100,11 +100,11 @@ flags:
   long_rest_completed_before_next_day: true
 current_scene:
   companions_present: ["Seris Vael", "Corvin"]
-  prisoners: "Dois visitantes capturados vivos, amarrados e despojados de equipamentos; possível conjurador amordaçado"
+  prisoners: "Dois visitantes vivos, desarmados, amarrados com reforço; ambos vendados, amordaçados e com ouvidos cobertos. Possível conjurador com mãos/dedos adicionalmente contidos; risco residual de magia"
   corvin_task: "Construindo armadilha de contenção no acesso do túnel; conclusão e eficácia ainda não confirmadas"
   investigation: "Eron e Seris examinam pertences dos prisioneiros"
   cylinder: "Cilindro metálico encontrado entre os pertences; mecanismo de proteção identificado; permanece fechado e não acionado"
   linked_markings: "Mesmo símbolo no cilindro, em anel e em tatuagem de um prisioneiro; significado desconhecido"
   last_player_roll: "Investigação: d20 bruto 19; resolução narrada, modificador/total não confirmados neste registro"
-  pending_player_decision: "Decidir o que fazer com o cilindro e os pertences"
+  pending_player_decision: "Decidir próximo passo após reforçar contenção; cilindro ainda fechado"
 last_update: "2026-10-10"
