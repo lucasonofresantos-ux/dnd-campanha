@@ -63,3 +63,4 @@ id,sessao,tipo,expressao,dado_bruto,modificador,total,publico,motivo,observacao
 59,1,Intimidacao,"1d20+1","16",1,17,sim,"Ameaca ao visitante magico contido no tunel","Eron mantem adaga no pescoco e exige imobilidade absoluta sob ameaca de morte imediata"
 59,1,Intimidacao,"1d20+1","16",1,17,sim,"Ameaca ao visitante magico no tunel","Eron mantem adaga no pescoco do visitante e ameaca mata-lo se ele tentar reagir ou usar magia"
 59,1,Intimidacao,"1d20+1","16",1,17,sim,"Ameaca ao visitante magico contido","Eron mantem adaga no pescoco e ameaca matar se o prisioneiro tentar reagir ou conjurar"
+59,1,Intimidacao,"1d20+1","16",1,17,sim,"Ameaca ao visitante magico contido no tunel","Eron pressiona a adaga no pescoco e avisa que qualquer reacao ou magia pode mata-lo"
