@@ -11,3 +11,6 @@ A imagem mostra divergências: tabela de cálculo de atributos não coincide com
 
 ## Decisão do jogador — revisão 2024
 Antecedente oficial: Guarda (Guard). História permanece ex-oficial investigador de Valdrén. Talento de Origem do antecedente: Alerta (Alert). Talento adicional do Humano 2024: Vigoroso (Tough). Resistência a veneno anteriormente indicada na imagem foi expressamente rejeitada pelo jogador. PV provisórios com CON +2: 12/12 (8+2+2). Atributos devem ser recalculados conforme antecedentes 2024 antes da validação final.
+
+## Exceção aprovada pelo jogador — PV iniciais
+Manter PV 10/10 no nível 1 apesar de Vigoroso (Tough) e CON 14. É uma exceção mecânica da Campanha 02; não somar mais 2 PV agora. Aplicar bônus do talento nos níveis seguintes conforme progressão aprovada. Ainda pendentes atributos, perícias, especializações, CA, maestrias e inventário.
