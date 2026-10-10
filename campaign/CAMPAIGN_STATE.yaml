@@ -4,9 +4,9 @@ campaign:
   system: "D&D 5E"
   rules_reference: "SRD 5.2.1"
   session_number: 1
-  current_location: "Casa Sem Sino — nível inferior, preparando reconhecimento do túnel oculto"
+  current_location: "Oculto junto à saída externa do túnel da Casa Sem Sino, emboscada montada"
   current_time: "Manhã"
-  active_quest: "Esconder os dois prisioneiros, reconhecer completamente o túnel oculto até a saída externa e então preparar uma emboscada para o visitante esperado antes do anoitecer"
+  active_quest: "Aguardar o visitante esperado da Casa Sem Sino, deixá-lo entrar no túnel e segui-lo até a curva para fechar a emboscada"
 player_character:
   status: active
   name: "Eron River"
