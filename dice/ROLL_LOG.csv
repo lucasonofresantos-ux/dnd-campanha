@@ -19,3 +19,4 @@ id,sessao,tipo,expressao,dado_bruto,modificador,total,publico,motivo,observacao
 17,1,Percepcao,"1d20+6","6",6,12,sim,"Observacao proxima da Ponte Velha","Eron observa a estrutura e arredores imediatos antes de investigar fisicamente"
 18,1,Furtividade,"1d20+6","11",6,17,sim,"Contorno lateral da Ponte Velha","Eron tenta reposicionar-se sem ser percebido para observar a anomalia na margem oposta"
 19,1,Percepcao,"1d20+6","17",6,23,sim,"Observacao da anomalia na margem oposta da Ponte Velha","Eron examina o ponto indicado por Corvin apos contornar a ponte"
+20,1,Investigacao,"1d20+6","16",6,22,sim,"Travessia investigativa da Ponte Velha","Eron atravessa como viajante comum e examina discretamente encaixes, pedras, marcas e sinais de uso recente"
