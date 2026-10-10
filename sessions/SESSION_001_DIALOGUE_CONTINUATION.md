@@ -96,3 +96,21 @@ Ela volta a observar a fechadura.
 > Seris: — Minha preferência? Exame cuidadoso primeiro. Nada de girar, puxar ou pressionar coisa alguma até entendermos o mecanismo.
 
 Estado: nenhum contato ou tentativa de abertura do cofre; Corvin ainda trabalhando; prisioneiros contidos.
+
+## Jogador — Eron
+> Bem e o feitiço que estava nele?
+
+## Mestre — narração e falas
+Seris franze a testa, voltando a atenção para o cofre.
+
+> Seris: — O feitiço que estava nele? Você tem razão, Eron. Eu estava considerando a possibilidade de uma proteção arcana, mas ainda não identifiquei qual encantamento seria.
+
+Ela observa novamente a superfície do cofre, mantendo a concentração em Detectar Magia.
+
+> Seris: — Se a magia estiver ativa e ao alcance do meu encantamento, devo conseguir perceber sua aura e, se ela estiver visível, identificar sua escola. Mas isso não significa que eu consiga descobrir exatamente qual feitiço foi lançado.
+
+Seris mantém as mãos afastadas da fechadura.
+
+> Seris: — Por enquanto, não vamos mexer nele. Precisamos distinguir o que sabemos do que apenas suspeitamos.
+
+Nota de continuidade: o jogador se refere a um feitiço anteriormente presente no cofre; tipo e efeitos não recuperados nos registros disponíveis. Não negar a existência prévia nem inventar sua natureza. Cofre intacto.
