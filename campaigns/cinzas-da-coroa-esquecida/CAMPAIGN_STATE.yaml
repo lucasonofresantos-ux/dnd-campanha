@@ -35,3 +35,13 @@ player_approved_override:
   hp_max: 10
   tough_feat_active: true
   reason: "Exceção explícita solicitada pelo jogador no nível 1"
+
+character_rebuild:
+  status: in_progress
+  new_class: Paladino
+  ruleset: "D&D 2024 / SRD 5.2.1"
+  level: 1
+  attribute_method: "6 vezes 4d6, descartar menor"
+  awaiting: "rolagens do jogador"
+  prior_mechanics_superseded: true
+  campaign_not_started: true
