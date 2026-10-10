@@ -169,3 +169,9 @@ Anexo: image(10).png — captura da tela Species do Roll20, Human 2024, Medium S
 
 ## Pendência
 Resposta integral do Mestre desta interação ainda não sincronizada.
+
+## Mensagem 0025 — Jogador
+aqui como eu faço
+
+## Pendência
+Resposta integral do Mestre ainda não sincronizada.
