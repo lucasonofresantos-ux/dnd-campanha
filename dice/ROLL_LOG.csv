@@ -16,3 +16,4 @@ id,sessao,tipo,expressao,dado_bruto,modificador,total,publico,motivo,observacao
 15,1,Percepcao,"1d20+6","10",6,16,sim,"Reconhecimento da aproximacao a Ponte Velha","Eron procura movimento, fumaca, cavalos, sentinelas e sinais de ocupacao antes de se aproximar"
 16,1,Furtividade,"1d20+6","15",6,21,sim,"Aproximacao furtiva a Ponte Velha","Eron avanca a pe enquanto Corvin busca cobertura elevada e Seris permanece na retaguarda"
 17,1,Percepcao,"1d20+6","6",6,12,sim,"Observacao imediata da Ponte Velha","Eron examina visualmente a ponte e arredores antes de investigar fisicamente"
+17,1,Percepcao,"1d20+6","6",6,12,sim,"Observacao proxima da Ponte Velha","Eron observa a estrutura e arredores imediatos antes de investigar fisicamente"
