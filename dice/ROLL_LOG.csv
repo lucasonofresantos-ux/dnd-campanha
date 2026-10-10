@@ -56,3 +56,5 @@ id,sessao,tipo,expressao,dado_bruto,modificador,total,publico,motivo,observacao
 54,1,Iniciativa,"1d20+2","13",2,15,sim,"Visitante da frente","Iniciativa do visitante associado a magia"
 55,1,Iniciativa,"1d20+2","11",2,13,sim,"Seris Vael","Iniciativa durante a emboscada no tunel"
 56,1,Iniciativa,"1d20+1","10",1,11,sim,"Visitante da retaguarda","Iniciativa do segundo visitante"
+57,1,Atletismo,"1d20+4","18",4,22,sim,"Contencao do visitante magico no tunel","Eron tenta agarrar o visitante da frente, controlar sua boca e manter adaga na garganta"
+58,1,Acrobacia,"1d20+2","2",2,4,sim,"Resistencia do visitante magico","Visitante tenta escapar da contencao de Eron"
