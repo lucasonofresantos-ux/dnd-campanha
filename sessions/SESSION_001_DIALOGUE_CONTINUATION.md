@@ -56,3 +56,17 @@ Seris permanece imóvel, examinando primeiro o cofre, depois o cilindro metálic
 O silêncio se prolonga enquanto ela observa os objetos. A magia permite perceber a presença de efeitos mágicos nas proximidades, mas não atravessa indiscriminadamente qualquer barreira: metal suficientemente espesso, por exemplo, pode bloquear sua detecção.
 
 Resultado específico da detecção ainda não determinado, não afirmar auras inexistentes. Cofre e cilindro permanecem fechados.
+
+## Jogador — Eron
+> Descobriu algo?
+
+## Mestre — narração e fala
+Seris mantém os olhos no cofre por mais alguns instantes antes de responder.
+
+> Seris: — Ainda não posso dizer que descobri o que há dentro dele, Eron. O encantamento revela a presença de magia, não o conteúdo de um recipiente fechado. E certas barreiras metálicas podem impedir que eu perceba qualquer coisa além delas.
+
+Ela desvia a atenção para o cilindro protegido, sem tocá-lo.
+
+> Seris: — Também não vou confundir uma proteção mecânica com um encantamento. São perigos diferentes. Precisamos ter certeza do que estamos enfrentando.
+
+Seris prossegue examinando os objetos ao alcance da magia. Ainda não há uma aura específica confirmada que permita identificar a natureza das proteções. Cofre e cilindro continuam fechados.
