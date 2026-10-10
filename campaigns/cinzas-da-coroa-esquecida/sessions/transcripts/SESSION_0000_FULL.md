@@ -307,3 +307,27 @@ Faça o seguinte:
 A opção **5.5E** aparece selecionada no topo, que corresponde às regras revisadas de D&D 2024.
 
 Estamos mantendo Eron River como **Humano, Ladino nível 1**, preservando sua história de ex-oficial investigador exilado de Valdrén.
+
+
+---
+
+### Registro literal parcial — interação atual (histórico anterior ainda requer reconciliação)
+**Jogador:** ladrão
+
+**Mestre:** Pacote de Ladrão confirmado para Eron!
+
+É uma escolha adequada ao estilo de investigação, furtividade e infiltração que estamos construindo.
+
+Na seção **Equipamentos** da ficha, escreva **Pacote de Ladrão (Assaltante)**. Ele inclui os objetos que acabamos de comparar, como pé de cabra, lanterna coberta, óleo, esferas de metal, corda e ferramentas de exploração.
+
+### Próximo passo: armadura
+
+Pelo equipamento inicial do Ladino, Eron também recebe uma **armadura de couro**.
+
+Agora podemos finalmente preencher a Classe de Armadura:
+
+\[CA = 11 + 3 = \boxed{14}\]
+
+Portanto, anote **14** no campo **Classe de Armadura (CA)**.
+
+Não precisa escolher ou comprar essa armadura: ela já faz parte do equipamento inicial da classe.
