@@ -117,3 +117,11 @@ não como ladino mesmo, não paladino
 
 ## Pendência
 Resposta integral do Mestre ainda não sincronizada.
+
+## Mensagem 0017 — Jogador
+apertei veio esse aqui:
+
+Anexo: image(5).png — captura Roll20 na seleção Rogue (2024), fonte Free Basic Rules (2024), com botão Select Class. Original não arquivado no GitHub.
+
+## Pendência
+Resposta integral visível do Mestre ainda não sincronizada.
