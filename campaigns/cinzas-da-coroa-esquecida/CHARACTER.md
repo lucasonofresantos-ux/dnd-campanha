@@ -14,3 +14,6 @@ Antecedente oficial: Guarda (Guard). História permanece ex-oficial investigador
 
 ## Exceção aprovada pelo jogador — PV iniciais
 Manter PV 10/10 no nível 1 apesar de Vigoroso (Tough) e CON 14. É uma exceção mecânica da Campanha 02; não somar mais 2 PV agora. Aplicar bônus do talento nos níveis seguintes conforme progressão aprovada. Ainda pendentes atributos, perícias, especializações, CA, maestrias e inventário.
+
+## Reconstrução autorizada — Paladino 2024
+Jogador decidiu refazer a ficha do zero como Paladino nível 1 usando D&D 2024/SRD 5.2.1, mantendo identidade e background de Eron. Atributos serão rolados pelo jogador com 4d6 descartando o menor, seis vezes. Dados mecânicos anteriores (ladino, Guarda/Alerta/Vigoroso, PV 10) são históricos, não a ficha ativa. Nova ficha ainda incompleta; não iniciar aventura antes de concluir.
