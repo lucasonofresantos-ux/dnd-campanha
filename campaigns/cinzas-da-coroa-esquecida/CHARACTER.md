@@ -8,3 +8,6 @@ Talento Fortitude: vantagem em testes de resistência contra envenenamento e res
 Ataque furtivo 1d6 uma vez por turno sob condições; ações ardilosas constam na imagem mas usualmente adquiridas no nível 2, pendente revisão.
 Armas: duas adagas (+5, 1d4+3), arco curto (+5, 1d6+3), 20 flechas; armadura de couro; mochila de aventureiro, ferramentas de ladrão, roupas, capuz, kit de disfarce simples, objetos de investigação.
 A imagem mostra divergências: tabela de cálculo de atributos não coincide com cabeçalho; CA 15 diverge de couro + DES 16 (14); nível 1 com Ações Ardilosas; algumas proficiências/perícias a confirmar. Não alterar sem validação do jogador.
+
+## Decisão do jogador — revisão 2024
+Antecedente oficial: Guarda (Guard). História permanece ex-oficial investigador de Valdrén. Talento de Origem do antecedente: Alerta (Alert). Talento adicional do Humano 2024: Vigoroso (Tough). Resistência a veneno anteriormente indicada na imagem foi expressamente rejeitada pelo jogador. PV provisórios com CON +2: 12/12 (8+2+2). Atributos devem ser recalculados conforme antecedentes 2024 antes da validação final.
