@@ -42,3 +42,4 @@ id,sessao,tipo,expressao,dado_bruto,modificador,total,publico,motivo,observacao
 40,1,Intimidacao,"2d20kh1+1","15;1",1,16,sim,"Interrogatorio imediato na Casa Sem Sino","Eron ameaca o prisioneiro e pergunta se ha mais alguem na casa"
 41,1,Intuicao,"1d20+6","13",6,19,sim,"Leitura dos prisioneiros na Casa Sem Sino","Eron tenta avaliar se os dois homens estao mentindo sobre haver mais alguem na casa"
 42,1,Investigacao,"2d20kh1+6","15;3",6,21,sim,"Busca sistematica na Casa Sem Sino","Eron e Corvin vasculham a estrutura por armadilhas, compartimentos, documentos, moedas, armas, frascos e objetos enquanto Seris acompanha fontes magicas"
+43,1,Ferramentas_de_Ladrao,"1d20+6","6",6,12,sim,"Desarmar alarme mecanico na escada da Casa Sem Sino","Eron tenta neutralizar discretamente o fio ligado a pecas metalicas antes de descer"
