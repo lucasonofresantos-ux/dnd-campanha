@@ -64,3 +64,4 @@ id,sessao,tipo,expressao,dado_bruto,modificador,total,publico,motivo,observacao
 59,1,Intimidacao,"1d20+1","16",1,17,sim,"Ameaca ao visitante magico no tunel","Eron mantem adaga no pescoco do visitante e ameaca mata-lo se ele tentar reagir ou usar magia"
 59,1,Intimidacao,"1d20+1","16",1,17,sim,"Ameaca ao visitante magico contido","Eron mantem adaga no pescoco e ameaca matar se o prisioneiro tentar reagir ou conjurar"
 59,1,Intimidacao,"1d20+1","16",1,17,sim,"Ameaca ao visitante magico contido no tunel","Eron pressiona a adaga no pescoco e avisa que qualquer reacao ou magia pode mata-lo"
+60,1,Investigacao,"1d20+6","19",6,25,sim,"Examinar pertences dos dois visitantes capturados na Casa Sem Sino","Resultado bruto 19 informado pelo jogador; modificador +6 conforme ficha canônica; cilindro protegido e simbolo comum a anel e tatuagem; cilindro nao aberto"
