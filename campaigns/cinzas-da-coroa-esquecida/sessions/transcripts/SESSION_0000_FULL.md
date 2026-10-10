@@ -29,3 +29,9 @@ Acho que o antecedente era guarda, que está na oficial, mas qual a diferença p
 
 ## Estado de sincronização
 A resposta do Mestre a esta mensagem ainda não foi registrada literalmente; a revisão permanece pendente de decisão do jogador.
+
+## Mensagem 0004 — Jogador
+Vamos para guarda e vigoroso, não tinha resistir a veneno
+
+## Nota de sincronização
+Respostas visíveis do Mestre ainda aguardam inclusão literal; não reconstruir de memória.
