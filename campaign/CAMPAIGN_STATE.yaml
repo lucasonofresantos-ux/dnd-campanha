@@ -4,9 +4,9 @@ campaign:
   system: "D&D 5E"
   rules_reference: "SRD 5.2.1"
   session_number: 1
-  current_location: "Oculto junto à saída externa do túnel da Casa Sem Sino, emboscada montada"
+  current_location: "Túnel oculto da Casa Sem Sino, além da curva, com dois visitantes rendidos"
   current_time: "Manhã"
-  active_quest: "Aguardar o visitante esperado da Casa Sem Sino, deixá-lo entrar no túnel e segui-lo até a curva para fechar a emboscada"
+  active_quest: "Conter com segurança os dois visitantes capturados, impedir conjuração do usuário de magia e interrogá-los sem perder o controle da Casa Sem Sino"
 player_character:
   status: active
   name: "Eron River"
