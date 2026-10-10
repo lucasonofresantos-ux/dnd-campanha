@@ -29,3 +29,9 @@ revision_2024:
   hp_current_provisional: 12
   hp_max_provisional: 12
   pending: "Redistribuição dos atributos e validação final"
+
+player_approved_override:
+  hp_current: 10
+  hp_max: 10
+  tough_feat_active: true
+  reason: "Exceção explícita solicitada pelo jogador no nível 1"
