@@ -49,3 +49,9 @@ Anexo: Eron River _ Roll20 Characters (1).pdf — ficha anterior, 5 páginas; or
 
 ## Pendência
 A resposta visível do Mestre nesta interação não está transcrita literalmente.
+
+## Mensagem 0007 — Jogador
+Vamos manter os 10/10 PV com o vigoroso pode ser? E oque mais precisa?
+
+## Pendência de sincronização
+A resposta integral visível do Mestre ainda não foi incluída literalmente.
