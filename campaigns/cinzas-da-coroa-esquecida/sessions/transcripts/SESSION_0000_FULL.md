@@ -61,3 +61,9 @@ Melhor vamos fazer a ficha dele do zero pode ser? Vamos tirar os atributos no da
 
 ## Pendência
 A resposta integral do Mestre nesta interação ainda aguarda sincronização.
+
+## Mensagem 0009 — Jogador
+Espera aí vou abrir o roll 20 e já faço lá, pode ser? Aí já tiramos a ficha dele pronta conforme dnd
+
+## Pendência
+Resposta integral visível do Mestre ainda não sincronizada.
