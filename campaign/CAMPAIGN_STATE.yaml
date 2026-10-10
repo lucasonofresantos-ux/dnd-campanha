@@ -6,7 +6,7 @@ campaign:
   session_number: 1
   current_location: "Antiga casa de vigia de pastores — esconderijo"
   current_time: "Noite"
-  active_quest: "Preparar a investigação do dia seguinte: Orven e Garran mantêm cobertura em Vau; Eron pretende explorar pontos ligados à rede, incluindo o posto velho, a Casa sem Sino e, se houver pista ou tempo, a rota dos dois marcos de pedra; preservar o esconderijo e os canais de informação"
+  active_quest: "Preparar a investigação do dia seguinte: Orven e Garran mantêm cobertura em Vau; Eron pretende explorar pontos ligados à rede, incluindo o poço velho, a ponte velha, a Casa sem Sino e, se houver pista ou tempo, a rota dos dois marcos de pedra; preservar o esconderijo e os canais de informação"
 player_character:
   status: active
   name: "Eron River"
@@ -35,6 +35,8 @@ world:
     - "Posto abandonado da Vigília"
     - "Antiga casa de vigia de pastores"
     - "Antigo depósito de lã no norte de Vau do Corvo"
+    - "Poço velho"
+    - "Ponte velha"
   known_npcs:
     - "Harlan"
     - "Hadrik"
