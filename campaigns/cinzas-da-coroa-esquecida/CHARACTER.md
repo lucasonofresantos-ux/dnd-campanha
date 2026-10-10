@@ -20,3 +20,6 @@ Jogador decidiu refazer a ficha do zero como Paladino nível 1 usando D&D 2024/S
 
 ## Correção expressa do jogador — classe
 O jogador corrigiu a escolha anterior: Eron será LADINO (Rogue) 2024, NÃO Paladino. Recriar ficha do zero, atributos rolados no Roll20, preservando background. Escolhas anteriores de Paladino são superadas. Nenhuma rolagem ainda ocorreu.
+
+## Escolha de maestrias (aguardando confirmação na interface)
+Jogador indicou preferência por espada curta (Shortsword, Vex) e adaga (Dagger, Nick) como as duas Maestrias em Armas do Ladino 2024. Ainda não há confirmação de seleção no Roll20.
