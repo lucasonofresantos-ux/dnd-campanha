@@ -26,3 +26,6 @@ Jogador indicou preferência por espada curta (Shortsword, Vex) e adaga (Dagger,
 
 ## Maestrias confirmadas por captura do Roll20
 Ladino 2024 nível 1: Shortsword Mastery (Vex) e Dagger Mastery (Nick), ambas selecionadas e validadas com indicador verde na interface. Atributos ainda não rolados.
+
+## Espécie — seleção no Roll20
+Imagem mostra Human com etiqueta 2024 selecionado na etapa Species, fonte Free Basic Rules (2024). Tamanho Médio recomendado; confirmação final pelo botão Select Species ainda pendente.
