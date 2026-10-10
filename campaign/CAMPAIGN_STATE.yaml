@@ -5,7 +5,7 @@ campaign:
   rules_reference: "SRD 5.2.1"
   session_number: 1
   current_location: "Antiga casa de vigia de pastores — esconderijo"
-  current_time: "Noite"
+  current_time: "Amanhecer"
   active_quest: "Preparar a investigação do dia seguinte: Orven e Garran mantêm cobertura em Vau; Eron pretende explorar pontos ligados à rede, incluindo o poço velho, a ponte velha, a Casa sem Sino e, se houver pista ou tempo, a rota dos dois marcos de pedra; preservar o esconderijo e os canais de informação"
 player_character:
   status: active
@@ -15,7 +15,7 @@ player_character:
   hp_current: 10
   hp_max: 10
   ac: 15
-  arrows: 18
+  arrows: 16
   money:
     gp: 11
     sp: 1
@@ -96,4 +96,5 @@ flags:
   meeting_at_old_wool_warehouse_planned: true
   next_day_orven_garran_stay_in_vau: true
   next_day_field_investigation_planned: true
+  long_rest_completed_before_next_day: true
 last_update: "2026-10-09"
