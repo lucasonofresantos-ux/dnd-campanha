@@ -18,3 +18,27 @@ Ela acompanha o olhar de Eron em direção ao cofre.
 > Seris: — E quanto a esse cofre, não seria prudente forçá-lo antes de procurar sinais de armadilha. Corvin ainda está ocupado no túnel.
 
 A lamparina treme com uma corrente de ar vinda da passagem. Os prisioneiros continuam contidos, o cilindro metálico segue fechado e o cofre ainda não foi aberto ou inspecionado nesta sequência. Eron está livre para decidir como abordá-lo.
+
+## Jogador — Eron
+> Tente usar detectar magia para ver se tem mais alguma coisa, Corvin como está indo aí
+
+## Mestre — narração e falas
+Seris ergue os olhos dos documentos quando Eron sugere o uso de magia.
+
+> Seris: — Detectar Magia? Sim. É uma boa ideia. Mas mantenha aquele cilindro fechado enquanto examino o restante.
+
+Ela afasta cuidadosamente alguns papéis, deixando espaço sobre a mesa. Em seguida, começa a preparar a conjuração, mantendo a atenção no cofre e nos objetos confiscados.
+
+A voz de Eron alcança Corvin pelo corredor do túnel.
+
+> Eron (fala narrada pelo Mestre, paráfrase do jogador): — Corvin, como está indo aí?
+
+O som das ferramentas cessa por um instante.
+
+> Corvin: — Estou terminando a parte mecânica! Mas ainda preciso testar o travamento. Não quero que a primeira vez que essa coisa funcione seja quando estivermos dependendo dela!
+
+O ruído metálico recomeça.
+
+> Seris: — Vou procurar auras mágicas. Se encontrar alguma coisa, digo exatamente onde está. Só não confunda ausência de magia com ausência de armadilhas.
+
+Seris prepara Detectar Magia; resultados ainda não determinados. Corvin informa que a parte mecânica está quase pronta, porém não testada. Cofre e cilindro fechados.
