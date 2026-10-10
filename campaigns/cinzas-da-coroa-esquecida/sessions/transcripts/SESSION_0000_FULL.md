@@ -41,3 +41,11 @@ Não era 10/10 PV, já com vigoroso que dava dois pontos, acho que eu já tinha 
 
 ## Pendência
 Resposta integral do Mestre desta interação ainda não sincronizada.
+
+## Mensagem 0006 — Jogador
+Esta era a ficha original antes das modificações que te mandei, aí fizemos as atualizações e acabou do jeito que te mandei lá em cima
+
+Anexo: Eron River _ Roll20 Characters (1).pdf — ficha anterior, 5 páginas; original não armazenado no GitHub. Na página 1 constam FOR 14, DES 18, CON 11, INT 17, SAB 14, CAR 13, CA 16 e PV 8.
+
+## Pendência
+A resposta visível do Mestre nesta interação não está transcrita literalmente.
