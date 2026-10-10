@@ -125,3 +125,11 @@ Anexo: image(5).png — captura Roll20 na seleção Rogue (2024), fonte Free Bas
 
 ## Pendência
 Resposta integral visível do Mestre ainda não sincronizada.
+
+## Mensagem 0018 — Jogador
+agora?
+
+Anexo: image(6).png — captura do Roll20, Ladino 2024 nível 1, com duas escolhas de Weapon Mastery pendentes e PV base 8. Referência ao anexo; arquivo original não copiado ao repositório.
+
+## Pendência
+Resposta integral do Mestre desta interação ainda não sincronizada.
