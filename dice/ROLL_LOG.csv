@@ -46,3 +46,4 @@ id,sessao,tipo,expressao,dado_bruto,modificador,total,publico,motivo,observacao
 44,1,Ferramentas_de_Ladrao,"1d20+6","19",6,25,sim,"Segunda tentativa de desarmar alarme mecanico na Casa Sem Sino","Eron ajusta o fio e neutraliza o mecanismo de alerta antes de descer"
 45,1,Percepcao,"1d20+6","19",6,25,sim,"Descida e leitura do nivel inferior da Casa Sem Sino","Eron desce sozinho procurando alarmes, presencas, passagens e sinais de uso recente antes de avancar"
 46,1,Investigacao,"1d20+6","20",6,26,sim,"Busca completa no nivel inferior da Casa Sem Sino","Eron vasculha sistematicamente o porao, incluindo caixa, parede suspeita, fendas, papéis, dinheiro, armas, fios e objetos banais"
+47,1,Investigacao,"1d20+6","13",6,19,sim,"Examinar mecanismo da passagem oculta na Casa Sem Sino","Eron estuda o nicho, a pedra-fecho e a estrutura da parede para descobrir como abrir a passagem sem forcar nem fazer barulho"
