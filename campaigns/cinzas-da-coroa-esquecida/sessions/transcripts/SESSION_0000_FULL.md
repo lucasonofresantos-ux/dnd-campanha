@@ -331,3 +331,23 @@ Agora podemos finalmente preencher a Classe de Armadura:
 Portanto, anote **14** no campo **Classe de Armadura (CA)**.
 
 Não precisa escolher ou comprar essa armadura: ela já faz parte do equipamento inicial da classe.
+
+
+---
+
+### Interação acessível — preenchimento de iniciativa (registro parcial)
+**Jogador:** ok
+
+**Mestre:** Perfeito! O inventário inicial de Eron está definido.
+
+Agora vamos preencher um campo simples que ainda falta: **Iniciativa**.
+
+A iniciativa determina a ordem em que os personagens agem durante o combate. Normalmente, você rola 1d20 e soma seu modificador de Destreza.
+
+Eron possui Destreza 16, portanto:
+
+\[\text{Iniciativa} = +3\]
+
+Na ficha, escreva **+3** no campo **Iniciativa**.
+
+Não precisa rolar nenhum dado agora. A rolagem só acontece quando um combate começa.
