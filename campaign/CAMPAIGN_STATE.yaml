@@ -4,9 +4,9 @@ campaign:
   system: "D&D 5E"
   rules_reference: "SRD 5.2.1"
   session_number: 1
-  current_location: "Túnel oculto da Casa Sem Sino, além da curva, com dois visitantes rendidos"
+  current_location: "Casa Sem Sino, junto ao acesso do túnel oculto; dois visitantes capturados e contidos"
   current_time: "Manhã"
-  active_quest: "Conter com segurança os dois visitantes capturados, impedir conjuração do usuário de magia e interrogá-los sem perder o controle da Casa Sem Sino"
+  active_quest: "Investigar pertences dos dois visitantes capturados, preservar contenção do possível conjurador e assegurar acessos da Casa Sem Sino"
 player_character:
   status: active
   name: "Eron River"
@@ -37,6 +37,7 @@ world:
     - "Antigo depósito de lã no norte de Vau do Corvo"
     - "Poço velho"
     - "Ponte velha"
+    - "Casa Sem Sino"
   known_npcs:
     - "Harlan"
     - "Hadrik"
@@ -97,4 +98,13 @@ flags:
   next_day_orven_garran_stay_in_vau: true
   next_day_field_investigation_planned: true
   long_rest_completed_before_next_day: true
-last_update: "2026-10-09"
+current_scene:
+  companions_present: ["Seris Vael", "Corvin"]
+  prisoners: "Dois visitantes capturados vivos, amarrados e despojados de equipamentos; possível conjurador amordaçado"
+  corvin_task: "Construindo armadilha de contenção no acesso do túnel; conclusão e eficácia ainda não confirmadas"
+  investigation: "Eron e Seris examinam pertences dos prisioneiros"
+  cylinder: "Cilindro metálico encontrado entre os pertences; mecanismo de proteção identificado; permanece fechado e não acionado"
+  linked_markings: "Mesmo símbolo no cilindro, em anel e em tatuagem de um prisioneiro; significado desconhecido"
+  last_player_roll: "Investigação: d20 bruto 19; resolução narrada, modificador/total não confirmados neste registro"
+  pending_player_decision: "Decidir o que fazer com o cilindro e os pertences"
+last_update: "2026-10-10"
