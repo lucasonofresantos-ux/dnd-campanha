@@ -139,3 +139,11 @@ acho que vou de espada curta e adaga
 
 ## Pendência
 Resposta integral do Mestre ainda não sincronizada.
+
+## Mensagem 0020 — Jogador
+esses?
+
+Anexo: image(7).png — captura do Roll20 com Shortsword Mastery e Dagger Mastery selecionadas, indicadores verdes na classe Rogue 2024. Arquivo original não arquivado no GitHub.
+
+## Pendência
+Resposta integral visível do Mestre ainda não sincronizada.
