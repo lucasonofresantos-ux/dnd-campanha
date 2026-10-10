@@ -5,7 +5,7 @@
 - Espada curta — revisada por Borin
 - 3 adagas: 2 originais + 1 capturada; revisadas por Borin
 - Arco curto — revisado por Borin
-- 16 flechas
+- 20 flechas
 - Aljava
 - 1 corda sobressalente para arco curto
 - Ferramentas de ladrão
@@ -34,7 +34,8 @@
 - 1 garrafa pequena de cerveja escura e carne quente para Rikk, já pagas
 
 ## Equipamento distribuído
-- Corvin: arco próprio, 16 flechas, 1 espada curta capturada, 2 adagas capturadas e 1 corda sobressalente para arco
+- Munição de campo adicional: 13 virotes comprados de Borin, separados para uso tático/armadilhas
+- Corvin: arco próprio, 20 flechas, 1 espada curta capturada, 2 adagas capturadas e 1 corda sobressalente para arco
 - Breno: 1 espada curta capturada e 1 adaga capturada
 - Ivo: 1 besta leve capturada, 10 virotes recuperados e 1 lança curta capturada
 
@@ -71,16 +72,16 @@
 - Nova carta de resposta a Valen deixada com Harlan por canal discreto
 
 ## Dinheiro
-- 7 PO
+- 6 PO
 - 2 PP
-- 7 PC
+- 2 PC
 - Inclui venda de excedentes a Borin por 11 PO
 - Inclui 2 PO pagos a Borin por manutenção e cordas sobressalentes
 - Inclui 6 PO e 5 PP pagos a Maela Venn pelo conjunto médico após negociação
 - Inclui 5 PO totais pagas a Darel Voss pelo serviço de encontro/vigilância
 - Inclui 3 PP pagos a Harlan por carne e bebida para Rikk
 - Inclui 6 PP pagos a Harlan pelo manto simples
-- A compra de munição com Borin ainda não foi fechada
+- Compra de munição com Borin concluída: 8 flechas + 13 virotes por 1 PO e 5 PC; as 8 flechas foram divididas em 4 para Eron e 4 para Corvin; os 13 virotes novos seguem com o grupo de campo para uso tático/armadilhas
 
 ## Maestrias atuais
 - Espada curta — Vex
