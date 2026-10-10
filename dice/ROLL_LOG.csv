@@ -30,3 +30,4 @@ id,sessao,tipo,expressao,dado_bruto,modificador,total,publico,motivo,observacao
 28,1,Percepcao,"1d20+6","19",6,25,sim,"Escuta e observacao pelas frestas da Casa Sem Sino","Eron procura uma brecha para espiar o interior e tenta ouvir movimentos ou vozes antes de entrar"
 29,1,Furtividade,"1d20+6","17",6,23,sim,"Reposicionamento ate a janela quebrada da Casa Sem Sino","Eron se desloca junto a parede ate a janela lateral evitando se expor diretamente ao interior"
 30,1,Percepcao,"1d20+6","19",6,25,sim,"Observacao pela janela lateral da Casa Sem Sino","Eron tenta identificar ocupantes, posicoes e atividade no fundo esquerdo da ruina antes de entrar"
+31,1,Furtividade,"1d20+6","20",6,26,sim,"Entrada furtiva na Casa Sem Sino durante distracao","Eron aproveita Ilusao Menor de Seris para se aproximar pelas costas de um dos dois ocupantes"
