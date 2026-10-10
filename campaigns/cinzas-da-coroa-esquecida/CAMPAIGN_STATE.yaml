@@ -20,3 +20,12 @@ dice_rolls: []
 character_sheet_source: "imagem fornecida no chat, PDF anexo não acessível na execução"
 mechanical_review_pending: true
 transcript_status: "Sessão 0: registro inicial parcial; conferir anexos e mensagens"
+
+revision_2024:
+  background: Guarda
+  origin_feat_background: Alerta
+  origin_feat_human: Vigoroso
+  poison_resistance: false
+  hp_current_provisional: 12
+  hp_max_provisional: 12
+  pending: "Redistribuição dos atributos e validação final"
