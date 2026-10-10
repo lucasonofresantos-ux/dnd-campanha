@@ -4,9 +4,9 @@ campaign:
   system: "D&D 5E"
   rules_reference: "SRD 5.2.1"
   session_number: 1
-  current_location: "Beco próximo à entrada de Vau do Corvo"
-  current_time: "Início da tarde"
-  active_quest: "Investigar a mulher desconhecida que mandou seguir Eron; usar Darel Voss para chegar ao encontro no antigo depósito de lã; preservar o canal com Harlan; retornar ao esconderijo antes do anoitecer"
+  current_location: "Antiga casa de vigia de pastores — esconderijo"
+  current_time: "Noite"
+  active_quest: "Preparar a investigação do dia seguinte: Orven e Garran mantêm cobertura em Vau; Eron pretende explorar pontos ligados à rede, incluindo o posto velho, a Casa sem Sino e, se houver pista ou tempo, a rota dos dois marcos de pedra; preservar o esconderijo e os canais de informação"
 player_character:
   status: active
   name: "Eron River"
@@ -55,6 +55,7 @@ world:
     - "Halvek"
     - "Rovan"
     - "Darel Voss"
+    - "Seris Vael"
   prisoners:
     - "Savin"
     - "Marrek"
@@ -89,5 +90,8 @@ flags:
   darrel_advance_paid_gp: 2
   darrel_balance_due_gp: 3
   unknown_woman_knows_eron_name: true
+  seris_identity_confirmed: true
   meeting_at_old_wool_warehouse_planned: true
+  next_day_orven_garran_stay_in_vau: true
+  next_day_field_investigation_planned: true
 last_update: "2026-10-09"
