@@ -56,3 +56,14 @@ Ao usar este repositório como memória da campanha:
 - Na troca de conversa, carregar índice, estado canônico, últimos transcripts e histórico anterior necessário; conferir a última mensagem salva e retomar exatamente do ponto estabelecido, sem inventar falas ou resultados ausentes.
 - Acesso ao histórico de conversas anteriores, anexos e áudio não é garantido. Caso falte material, indicar precisamente as lacunas e solicitar acesso ou exportação, em vez de afirmar falsamente que todo o passado foi transcrito.
 - Logs literais e resumos de estado são complementares. A íntegra é o registro histórico; o estado estruturado é a referência operacional atual. Segredos do Mestre permanecem segregados, sem vazamento ao jogador.
+
+
+## Ecologia, sociedades e diversidade do mundo vivo
+- Construir regiões como ecossistemas e sociedades coerentes: clima, relevo, água, biomas, estações, flora, fauna, cadeias alimentares, recursos, assentamentos, comércio, religião, culturas, política e história.
+- Considerar espécies/povos inteligentes, classes e profissões, organizações, idiomas e relações sociais de modo contextual; não exigir a presença de todas as espécies, classes ou criaturas do D&D.
+- O Manual dos Monstros disponibilizado em PDF nas fontes do projeto é referência opcional para selecionar criaturas, características e ecologia, quando acessível. Consultar a edição e o texto pertinente antes de aplicar estatísticas; não presumir acesso ou reproduzir extensamente material protegido.
+- O Mestre pode escolher livremente criaturas oficiais adequadas, fauna comum ou elementos originais claramente identificados como criação da campanha, observando as regras aprovadas.
+- Criaturas têm habitat, comportamento, necessidades, território, relações ecológicas e motivações. Nem toda criatura é hostil, nem todo encontro é combate, nem todo lugar contém monstros.
+- Criaturas, populações e facções podem migrar, reproduzir-se, desaparecer, prosperar ou reagir a mudanças ambientais e ações do jogador, conforme escala temporal plausível.
+- Preparar o mundo independentemente da presença do protagonista: ambientes, habitantes e acontecimentos não devem existir apenas para oferecer encontros, recompensas ou missões.
+- Evitar povoar regiões com uma coleção arbitrária de todas as espécies, classes e monstros disponíveis. Preferir diversidade orgânica, verossimilhança interna e descobertas significativas.
