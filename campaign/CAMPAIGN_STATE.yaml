@@ -4,9 +4,9 @@ campaign:
   system: "D&D 5E"
   rules_reference: "SRD 5.2.1"
   session_number: 1
-  current_location: "Rota discreta fora da estrada, aproximando-se do Marco Sul"
+  current_location: "Junto aos cavalos, afastados da Ponte Velha — preparando deslocamento para a Casa Sem Sino"
   current_time: "Manhã"
-  active_quest: "Preparar a investigação do dia seguinte: Orven e Garran mantêm cobertura em Vau; Eron pretende explorar pontos ligados à rede, incluindo o poço velho, a ponte velha, a Casa sem Sino e, se houver pista ou tempo, a rota dos dois marcos de pedra; preservar o esconderijo e os canais de informação"
+  active_quest: "Seguir até a Casa Sem Sino por rota não óbvia, mantendo cautela redobrada e planejamento antes de cada aproximação; Orven e Garran mantêm cobertura em Vau"
 player_character:
   status: active
   name: "Eron River"
