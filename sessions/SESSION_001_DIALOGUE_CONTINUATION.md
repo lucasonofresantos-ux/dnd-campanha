@@ -42,3 +42,17 @@ O ruído metálico recomeça.
 > Seris: — Vou procurar auras mágicas. Se encontrar alguma coisa, digo exatamente onde está. Só não confunda ausência de magia com ausência de armadilhas.
 
 Seris prepara Detectar Magia; resultados ainda não determinados. Corvin informa que a parte mecânica está quase pronta, porém não testada. Cofre e cilindro fechados.
+
+## Jogador — Eron
+> Espero seria terminar
+
+## Mestre — narração e fala
+Eron aguarda enquanto Seris conclui as palavras do encantamento. Os dedos dela traçam movimentos precisos no ar, e a última sílaba se desfaz num sussurro. Por um instante, seus olhos parecem refletir uma luz que não vem da lamparina.
+
+Seris permanece imóvel, examinando primeiro o cofre, depois o cilindro metálico e os demais pertences espalhados sobre a mesa. Ela se aproxima alguns passos, sem tocar em nada.
+
+> Seris: — Pronto. O encantamento está ativo. Agora vamos descobrir o que está escondido aqui...
+
+O silêncio se prolonga enquanto ela observa os objetos. A magia permite perceber a presença de efeitos mágicos nas proximidades, mas não atravessa indiscriminadamente qualquer barreira: metal suficientemente espesso, por exemplo, pode bloquear sua detecção.
+
+Resultado específico da detecção ainda não determinado, não afirmar auras inexistentes. Cofre e cilindro permanecem fechados.
