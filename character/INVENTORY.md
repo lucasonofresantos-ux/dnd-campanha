@@ -5,7 +5,7 @@
 - Espada curta — revisada por Borin
 - 3 adagas: 2 originais + 1 capturada; revisadas por Borin
 - Arco curto — revisado por Borin
-- 18 flechas
+- 16 flechas
 - Aljava
 - 1 corda sobressalente para arco curto
 - Ferramentas de ladrão
@@ -34,12 +34,13 @@
 - 1 garrafa pequena de cerveja escura e carne quente para Rikk, já pagas
 
 ## Equipamento distribuído
-- Corvin: arco próprio, 14 flechas, 1 espada curta capturada, 2 adagas capturadas e 1 corda sobressalente para arco
+- Corvin: arco próprio, 16 flechas, 1 espada curta capturada, 2 adagas capturadas e 1 corda sobressalente para arco
 - Breno: 1 espada curta capturada e 1 adaga capturada
-- Ivo: 1 besta leve capturada, 17 virotes recuperados e 1 lança curta capturada
+- Ivo: 1 besta leve capturada, 10 virotes recuperados e 1 lança curta capturada
 
 ## Reserva conjunta no esconderijo
 - 1 besta leve capturada adicional
+- 7 virotes reservados para a besta leve adicional
 - Espadas curtas, lanças curtas, adagas e outras armas comuns capturadas: quantidade exata ainda pendente de contagem final
 - Cordames menores, cintos, bainhas, capas e ferramentas comuns
 - Material restante da maca de arrasto e improvisos de transporte
