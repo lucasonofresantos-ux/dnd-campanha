@@ -70,3 +70,29 @@ Ela desvia a atenção para o cilindro protegido, sem tocá-lo.
 > Seris: — Também não vou confundir uma proteção mecânica com um encantamento. São perigos diferentes. Precisamos ter certeza do que estamos enfrentando.
 
 Seris prossegue examinando os objetos ao alcance da magia. Ainda não há uma aura específica confirmada que permita identificar a natureza das proteções. Cofre e cilindro continuam fechados.
+
+## Jogador — Eron
+> Bem então nosso problema agora é o cofre, oque você acha que podemos fazer
+
+## Mestre — narração e falas
+Seris cruza os braços, observando o cofre com uma expressão pensativa.
+
+> Seris: — Eu começaria pelo que sabemos fazer sem correr riscos desnecessários. Você tem experiência com fechaduras, mecanismos e investigação. Corvin entende de armadilhas melhor do que qualquer um de nós. E eu posso ajudar a identificar proteções arcanas, caso existam.
+
+Ela se aproxima do cofre, mas mantém as mãos afastadas.
+
+> Seris: — Primeiro examinamos as dobradiças, a fechadura, as junções e qualquer sinal de adulteração. Depois procuramos um mecanismo de disparo. Se estiver limpo, tentamos abrir a fechadura com ferramentas. Forçar seria minha última escolha: além do barulho, poderíamos destruir o que está guardado.
+
+Seris olha na direção do túnel.
+
+> Seris: — E eu esperaria Corvin terminar. Três pares de olhos são melhores que dois, especialmente quando um deles pertence a alguém que constrói armadilhas.
+
+Um sorriso discreto acompanha a última frase.
+
+> Seris: — Mas existe outra possibilidade: aqueles dois homens podem saber como abrir o cofre. Só não contaria com a boa vontade deles.
+
+Ela volta a observar a fechadura.
+
+> Seris: — Minha preferência? Exame cuidadoso primeiro. Nada de girar, puxar ou pressionar coisa alguma até entendermos o mecanismo.
+
+Estado: nenhum contato ou tentativa de abertura do cofre; Corvin ainda trabalhando; prisioneiros contidos.
