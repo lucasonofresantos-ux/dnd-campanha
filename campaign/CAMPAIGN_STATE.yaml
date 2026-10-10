@@ -4,8 +4,8 @@ campaign:
   system: "D&D 5E"
   rules_reference: "SRD 5.2.1"
   session_number: 1
-  current_location: "Antiga casa de vigia de pastores — esconderijo"
-  current_time: "Amanhecer"
+  current_location: "Arredores ao sul de Vau do Corvo — junto aos cavalos, preparando deslocamento de campo"
+  current_time: "Manhã"
   active_quest: "Preparar a investigação do dia seguinte: Orven e Garran mantêm cobertura em Vau; Eron pretende explorar pontos ligados à rede, incluindo o poço velho, a ponte velha, a Casa sem Sino e, se houver pista ou tempo, a rota dos dois marcos de pedra; preservar o esconderijo e os canais de informação"
 player_character:
   status: active
@@ -15,11 +15,11 @@ player_character:
   hp_current: 10
   hp_max: 10
   ac: 15
-  arrows: 16
+  arrows: 20
   money:
-    gp: 11
-    sp: 1
-    cp: 7
+    gp: 6
+    sp: 2
+    cp: 2
   conditions: []
 world:
   setting: "Região fronteiriça de Vau do Corvo"
