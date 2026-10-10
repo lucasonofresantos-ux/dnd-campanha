@@ -394,3 +394,25 @@ Na ficha, procure o campo **Dados de Vida** e escreva **1d8**.
 Esse dado poderá ser usado para recuperar pontos de vida durante um descanso curto, conforme as regras de descanso.
 
 **Já anotou 1d8?** Depois verificaremos os próximos campos da ficha.
+
+
+---
+
+### Interação acessível — pontos de vida atuais (registro parcial)
+**Jogador:** sim
+
+**Mestre:** Perfeito! **Dados de Vida: 1d8 confirmado.**
+
+### Próximo passo: Pontos de Vida Atuais
+
+Eron possui **10 pontos de vida máximos** e, como ainda não começou a aventura nem sofreu dano, também inicia com **10 pontos de vida atuais**.
+
+Na ficha, preencha:
+
+**Pontos de Vida Atuais: 10**
+
+Deixe o campo **Pontos de Vida Temporários** vazio, pois Eron não possui nenhum neste momento.
+
+Quando Eron sofrer dano ou receber cura durante a campanha, atualizaremos esses valores.
+
+**Já anotou os 10 PV atuais?**
