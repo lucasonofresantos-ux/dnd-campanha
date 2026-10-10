@@ -67,3 +67,11 @@ Espera aí vou abrir o roll 20 e já faço lá, pode ser? Aí já tiramos a fich
 
 ## Pendência
 Resposta integral visível do Mestre ainda não sincronizada.
+
+## Mensagem 0010 — Jogador
+qual desses eu escolho?
+
+Anexo: image.png — captura do Roll20 Characters mostrando as opções Dungeons & Dragons 5E NEW (2024 & 2014 Supported), 5E Classic, Pathfinder Second Edition e Daggerheart. Original não armazenado no GitHub.
+
+## Pendência
+Resposta visível integral do Mestre ainda não sincronizada.
