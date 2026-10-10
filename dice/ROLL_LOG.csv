@@ -58,3 +58,4 @@ id,sessao,tipo,expressao,dado_bruto,modificador,total,publico,motivo,observacao
 56,1,Iniciativa,"1d20+1","10",1,11,sim,"Visitante da retaguarda","Iniciativa do segundo visitante"
 57,1,Atletismo,"1d20+4","18",4,22,sim,"Contencao do visitante magico no tunel","Eron tenta agarrar o visitante da frente, controlar sua boca e manter adaga na garganta"
 58,1,Acrobacia,"1d20+2","2",2,4,sim,"Resistencia do visitante magico","Visitante tenta escapar da contencao de Eron"
+59,1,Intimidacao,"1d20+1","16",1,17,sim,"Ameaca ao visitante magico contido","Eron pressiona a adaga no pescoco e ameaca matar o visitante se ele tentar reagir ou usar magia"
