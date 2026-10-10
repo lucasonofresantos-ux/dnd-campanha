@@ -43,3 +43,16 @@ Ao usar este repositório como memória da campanha:
 - Em campanha já em andamento, primeiro recuperar o estado canônico e os transcripts acessíveis; não reiniciar, reescrever ou impor retrospectivamente uma nova trama. Construir arcos futuros a partir do que realmente ocorreu.
 - Segredos da bíblia e dos próximos arcos permanecem exclusivamente em `dm/`; não divulgar no chat, em resumos visíveis ou no bloco de memória do jogador.
 - Quando a consulta aos PDFs for possível, usá-los para fundamentar encontros e mecânicas, observando edição, hierarquia e direitos autorais. A indisponibilidade de uma fonte deve ser declarada, não ocultada.
+
+
+## Protocolo reforçado — arquivo integral por campanha, inclusive áudios
+- Esta obrigação vale para TODAS as campanhas e sessões deste projeto, inclusive quando a narrativa continuar em outra conversa. Manter identificador estável da campanha, índice de sessões e numeração sequencial de mensagens.
+- Registrar absolutamente todas as mensagens visíveis pertinentes à campanha, sem seleção por relevância: texto do jogador, texto do Mestre, falas de NPCs, narrações, descrições, ações, perguntas, respostas, decisões, retificações, comandos de jogo, testes solicitados, valores dos dados, modificadores, totais, iniciativa, dano, cura, inventário e consequências.
+- Registrar o texto integral exatamente como disponível, palavra por palavra, sem corrigir ortografia, resumir, reordenar ou eliminar repetições. Identificar autoria, ordem e, quando disponível, data/hora, canal e identificador de origem.
+- Para mensagens de voz, preservar transcrição literal quando o áudio ou a transcrição estiver acessível; sinalizar trechos inaudíveis/incertos, sem inventar palavras. Identificar a entrada como áudio. Preservar ou vincular o arquivo original somente quando tecnicamente disponível e permitido, sem afirmar que foi salvo quando não foi.
+- Se houver imagem, arquivo ou outra mídia, registrar a mensagem, nome/referência e descrição fiel do conteúdo acessível; preservar o original apenas quando houver acesso e mecanismo de armazenamento. Nunca confundir descrição com transcrição literal.
+- Manter um arquivo completo por sessão em `sessions/transcripts/` e um índice de campanhas/sessões que aponte para todos os arquivos. Não misturar campanhas nem sobrescrever o histórico anterior.
+- Para cada resposta do Mestre, tentar persistir a interação imediatamente e verificar o commit. Quando a resposta ainda não puder ser gravada integralmente no mesmo turno, marcar explicitamente a pendência e sincronizar antes de prosseguir; jamais alegar sucesso sem confirmação.
+- Na troca de conversa, carregar índice, estado canônico, últimos transcripts e histórico anterior necessário; conferir a última mensagem salva e retomar exatamente do ponto estabelecido, sem inventar falas ou resultados ausentes.
+- Acesso ao histórico de conversas anteriores, anexos e áudio não é garantido. Caso falte material, indicar precisamente as lacunas e solicitar acesso ou exportação, em vez de afirmar falsamente que todo o passado foi transcrito.
+- Logs literais e resumos de estado são complementares. A íntegra é o registro histórico; o estado estruturado é a referência operacional atual. Segredos do Mestre permanecem segregados, sem vazamento ao jogador.
