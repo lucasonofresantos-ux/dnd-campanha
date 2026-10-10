@@ -12,3 +12,4 @@ id,sessao,tipo,expressao,dado_bruto,modificador,total,publico,motivo,observacao
 11,1,Percepcao,"1d20+6","17",6,23,sim,"Reconhecimento da aproximacao ao Marco Sul","Eron procura pessoas, vigilancia e sinais incomuns antes de se aproximar"
 12,1,Furtividade,"1d20+6","18",6,24,sim,"Aproximacao furtiva ao Marco Sul","Eron avanca usando cobertura e evitando exposicao"
 13,1,Percepcao,"1d20+6","11",6,17,sim,"Inspecao proxima do Marco Sul","Eron examina o terreno a frente, rastros, possiveis observadores e sinais preparados ao redor do marco"
+14,1,Investigacao,"1d20+6","20",6,26,sim,"Inspecao fisica do Marco Sul","Eron procura recados, compartimentos e sinais de uso recente no marco"
