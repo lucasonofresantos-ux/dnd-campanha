@@ -218,3 +218,31 @@ Escolha o criador padrão, se houver essa opção, e mantenha as regras de **202
 **Envie uma captura da primeira tela do criador.** Vou acompanhar cada etapa e conferir as opções disponíveis antes de decidirmos se precisamos de alguma configuração manual.
 
 Não precisamos comprar nenhum livro agora. Primeiro vamos verificar até onde conseguimos construir a ficha gratuitamente.
+
+## Mensagem 0028 — Jogador
+ aqui vou em qual, e me guia que aqui esta em ingles
+
+Anexo: image(20261010-173453).png — tela inicial do criador D&D Beyond, com Class, Species, Background, Choose a name, e aviso para entrar na conta. Imagem original disponível na conversa; não arquivada no GitHub.
+
+## Resposta visível do Mestre
+Perfeito! Agora estamos no criador de personagens do **D&D Beyond**. Vou te orientar em português, traduzindo os botões e explicando cada escolha.
+
+Na sua imagem aparecem três partes principais:
+
+- **Class (Classe):** define as habilidades de Eron. Vamos escolher *Rogue (Ladino)*.
+- **Species (Espécie):** define a espécie. Vamos escolher *Human (Humano)*.
+- **Background (Antecedente):** define a formação anterior. Vamos procurar *Guard (Guarda)*.
+
+À direita temos **Choose a name (Escolha um nome)** e **Choose Portrait (Escolher retrato)**.
+
+### Vamos começar pela classe
+
+**Clique em “SEE OPTIONS” (Ver opções), no quadro “Class”, no canto superior esquerdo.**
+
+É o botão vermelho na sua captura.
+
+Quando abrir a lista de classes, procure **Rogue (Ladino)**. Envie uma captura antes de confirmar, para verificarmos se é a versão 2024.
+
+Uma observação importante: no topo da página aparece **Create Account or Sign In**. Isso significa que você ainda não está conectado. Podemos explorar o criador assim, mas será necessário entrar na conta para salvar Eron.
+
+Vamos fazer uma etapa de cada vez.
