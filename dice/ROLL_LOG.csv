@@ -35,3 +35,5 @@ id,sessao,tipo,expressao,dado_bruto,modificador,total,publico,motivo,observacao
 33,1,Iniciativa,"1d20+4","10",4,14,sim,"Inicio do confronto na Casa Sem Sino","Corvin reage ao plano de captura"
 34,1,Iniciativa,"2d20kl1+1","13;17",1,14,sim,"Inicio do confronto na Casa Sem Sino","Ocupante 1 pego de surpresa pela aproximacao oculta"
 35,1,Iniciativa,"2d20kl1+2","6;19",2,8,sim,"Inicio do confronto na Casa Sem Sino","Ocupante 2 pego de surpresa pela aproximacao oculta"
+36,1,Atletismo,"1d20+4","18",4,22,sim,"Tentativa de agarrar ocupante 1 na Casa Sem Sino","Eron tenta imobilizar o homem por tras com adaga na garganta"
+37,1,Acrobacia,"1d20+1","15",1,16,sim,"Resistencia ao agarrar na Casa Sem Sino","Ocupante 1 tenta se desvencilhar da imobilizacao de Eron"
