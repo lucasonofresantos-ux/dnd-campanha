@@ -14,3 +14,4 @@ id,sessao,tipo,expressao,dado_bruto,modificador,total,publico,motivo,observacao
 13,1,Percepcao,"1d20+6","11",6,17,sim,"Inspecao proxima do Marco Sul","Eron examina o terreno a frente, rastros, possiveis observadores e sinais preparados ao redor do marco"
 14,1,Investigacao,"1d20+6","20",6,26,sim,"Inspecao fisica do Marco Sul","Eron procura recados, compartimentos e sinais de uso recente no marco"
 15,1,Percepcao,"1d20+6","10",6,16,sim,"Reconhecimento da aproximacao a Ponte Velha","Eron procura movimento, fumaca, cavalos, sentinelas e sinais de ocupacao antes de se aproximar"
+16,1,Furtividade,"1d20+6","15",6,21,sim,"Aproximacao furtiva a Ponte Velha","Eron avanca a pe enquanto Corvin busca cobertura elevada e Seris permanece na retaguarda"
