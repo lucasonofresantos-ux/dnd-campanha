@@ -287,3 +287,23 @@ Agora vamos configurar a classe de Eron:
 Também percebi que a página está bastante reduzida. Você pode pressionar **Ctrl + 0** para restaurar o zoom do navegador a 100%, facilitando a leitura.
 
 Depois da classe, escolheremos o antecedente Guarda e faremos as rolagens dos atributos.
+
+## Mensagem 0031 — Jogador
+aqui
+
+Anexo: image(20261010-173645).png — tela Choose a Class do D&D Beyond, opção Rogue visível, filtro 5.5E. Imagem original permanece na conversa, não arquivada no GitHub.
+
+## Resposta visível do Mestre
+Perfeito! Agora estamos na tela **Choose a Class (Escolher uma Classe)**.
+
+O **Rogue (Ladino)** está na terceira linha, última coluna, no quadro azul com o personagem encapuzado.
+
+Faça o seguinte:
+
+1. Clique em **SELECT (Selecionar)**, no canto inferior direito do quadro **Rogue**.
+2. Aguarde voltar à tela principal do criador.
+3. Envie a próxima captura.
+
+A opção **5.5E** aparece selecionada no topo, que corresponde às regras revisadas de D&D 2024.
+
+Estamos mantendo Eron River como **Humano, Ladino nível 1**, preservando sua história de ex-oficial investigador exilado de Valdrén.
