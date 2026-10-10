@@ -23,3 +23,6 @@ O jogador corrigiu a escolha anterior: Eron será LADINO (Rogue) 2024, NÃO Pala
 
 ## Escolha de maestrias (aguardando confirmação na interface)
 Jogador indicou preferência por espada curta (Shortsword, Vex) e adaga (Dagger, Nick) como as duas Maestrias em Armas do Ladino 2024. Ainda não há confirmação de seleção no Roll20.
+
+## Maestrias confirmadas por captura do Roll20
+Ladino 2024 nível 1: Shortsword Mastery (Vex) e Dagger Mastery (Nick), ambas selecionadas e validadas com indicador verde na interface. Atributos ainda não rolados.
