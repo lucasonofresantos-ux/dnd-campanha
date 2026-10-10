@@ -55,3 +55,9 @@ Vamos manter os 10/10 PV com o vigoroso pode ser? E oque mais precisa?
 
 ## Pendência de sincronização
 A resposta integral visível do Mestre ainda não foi incluída literalmente.
+
+## Mensagem 0008 — Jogador
+Melhor vamos fazer a ficha dele do zero pode ser? Vamos tirar os atributos no dados e manter o background para paladino, assim já fazemos na nova versão de DnD
+
+## Pendência
+A resposta integral do Mestre nesta interação ainda aguarda sincronização.
