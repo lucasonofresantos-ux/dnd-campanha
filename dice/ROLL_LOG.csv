@@ -40,3 +40,4 @@ id,sessao,tipo,expressao,dado_bruto,modificador,total,publico,motivo,observacao
 38,1,Atletismo,"1d20+3","16",3,19,sim,"Corvin tenta imobilizar ocupante 2 na Casa Sem Sino","Corvin repete a manobra de captura por tras sem buscar dano letal"
 39,1,Acrobacia,"1d20+2","9",2,11,sim,"Resistencia do ocupante 2 a imobilizacao de Corvin","Ocupante 2 tenta girar e escapar do controle"
 40,1,Intimidacao,"2d20kh1+1","15;1",1,16,sim,"Interrogatorio imediato na Casa Sem Sino","Eron ameaca o prisioneiro e pergunta se ha mais alguem na casa"
+41,1,Intuicao,"1d20+6","13",6,19,sim,"Leitura dos prisioneiros na Casa Sem Sino","Eron tenta avaliar se os dois homens estao mentindo sobre haver mais alguem na casa"
