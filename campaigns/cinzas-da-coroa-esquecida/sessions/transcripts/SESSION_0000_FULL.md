@@ -155,3 +155,9 @@ Anexo: image(8).png — captura do Roll20 na etapa Species, Human 2024 seleciona
 
 ## Pendência
 Resposta integral do Mestre ainda não sincronizada.
+
+## Mensagem 0023 — Jogador
+aqui nessa agora é apertar em next correto?
+
+## Pendência
+A resposta integral do Mestre ainda não foi sincronizada.
