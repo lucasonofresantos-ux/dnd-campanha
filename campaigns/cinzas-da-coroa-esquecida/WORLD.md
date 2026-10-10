@@ -1,0 +1,2 @@
+# Mundo inicial
+Asterion: continente. Valdrén: reino natal de Eron; capital Vhaléria; cidade natal Riacho de Pedra. Caldria: reino vizinho proposto. Lorn: cidade comercial de fronteira, com caravanas, estalagens e rotas fluviais. Outono chuvoso; vales, colinas, bosques temperados e rio frio. Flora: carvalhos, faias, amieiros, samambaias. Fauna: cervos, javalis, raposas, lobos, corvos e peixes. Comércio: madeira, transporte, curtumes, moinhos. Culturas e facções precisam ser detalhadas antes do jogo.
