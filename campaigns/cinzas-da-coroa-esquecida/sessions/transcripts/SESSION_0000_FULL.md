@@ -266,3 +266,24 @@ Na imagem, a versão **5.5E (regras de 2024)** já está selecionada, então est
 Não precisa clicar em *Learn More (Saiba mais)*.
 
 Vamos manter Eron como Humano de tamanho Médio, com as características da versão 2024.
+
+## Mensagem 0030 — Jogador
+voltou aqui:
+
+Anexo: image(20261010-173612).png — captura do D&D Beyond na tela inicial do construtor, espécie Human já selecionada, classe e antecedente ainda sem seleção. Arquivo original não arquivado no GitHub.
+
+## Resposta visível do Mestre
+Isso mesmo! **Está tudo certo.** O D&D Beyond voltou à tela principal porque você concluiu a escolha da espécie.
+
+Na sua captura, o quadro **Human (Humano)** já aparece preenchido.
+
+Agora vamos configurar a classe de Eron:
+
+1. Localize **Class (Classe)**, no quadro superior esquerdo.
+2. Clique no botão vermelho **SEE OPTIONS (Ver opções)**.
+3. Na lista que abrir, procure **Rogue (Ladino)**.
+4. Envie uma captura da lista antes de selecionar, para conferirmos a versão das regras.
+
+Também percebi que a página está bastante reduzida. Você pode pressionar **Ctrl + 0** para restaurar o zoom do navegador a 100%, facilitando a leitura.
+
+Depois da classe, escolheremos o antecedente Guarda e faremos as rolagens dos atributos.
