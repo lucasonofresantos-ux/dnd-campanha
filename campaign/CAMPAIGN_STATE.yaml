@@ -4,7 +4,7 @@ campaign:
   system: "D&D 5E"
   rules_reference: "SRD 5.2.1"
   session_number: 1
-  current_location: "Junto aos cavalos, afastados da Ponte Velha — preparando deslocamento para a Casa Sem Sino"
+  current_location: "Trilha lateral imediatamente diante da Casa Sem Sino, sob cobertura"
   current_time: "Manhã"
   active_quest: "Seguir até a Casa Sem Sino por rota não óbvia, mantendo cautela redobrada e planejamento antes de cada aproximação; Orven e Garran mantêm cobertura em Vau"
 player_character:
