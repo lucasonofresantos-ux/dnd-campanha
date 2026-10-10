@@ -4,7 +4,7 @@ campaign:
   system: "D&D 5E"
   rules_reference: "SRD 5.2.1"
   session_number: 1
-  current_location: "Arredores ao sul de Vau do Corvo — junto aos cavalos, preparando deslocamento de campo"
+  current_location: "Rota discreta fora da estrada, aproximando-se do Marco Sul"
   current_time: "Manhã"
   active_quest: "Preparar a investigação do dia seguinte: Orven e Garran mantêm cobertura em Vau; Eron pretende explorar pontos ligados à rede, incluindo o poço velho, a ponte velha, a Casa sem Sino e, se houver pista ou tempo, a rota dos dois marcos de pedra; preservar o esconderijo e os canais de informação"
 player_character:
