@@ -23,3 +23,9 @@ Antes de narrar, confirme quais arquivos conseguiu ler e quais ainda precisam se
 - Ficha_Inicial_Eron_River_Rastreavel.pdf — arquivo indicado na conversa, bytes não disponíveis nesta execução; não transcrito.
 ## Mensagem 0002 — Mestre (pendente)
 A resposta visível do Mestre deve ser sincronizada literalmente antes da próxima interação. Não reconstruir como literal a partir de memória.
+
+## Mensagem 0003 — Jogador
+Acho que o antecedente era guarda, que está na oficial, mas qual a diferença para investigador? E não era fortitude era resistente ou algo assim
+
+## Estado de sincronização
+A resposta do Mestre a esta mensagem ainda não foi registrada literalmente; a revisão permanece pendente de decisão do jogador.
