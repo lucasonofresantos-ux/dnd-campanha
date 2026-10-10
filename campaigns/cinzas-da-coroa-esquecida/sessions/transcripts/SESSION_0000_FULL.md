@@ -111,3 +111,9 @@ Resposta integral do Mestre ainda não sincronizada.
 
 ## Pendência
 Resposta integral do Mestre desta interação ainda não sincronizada.
+
+## Mensagem 0016 — Jogador
+não como ladino mesmo, não paladino
+
+## Pendência
+Resposta integral do Mestre ainda não sincronizada.
