@@ -175,3 +175,11 @@ aqui como eu faço
 
 ## Pendência
 Resposta integral do Mestre ainda não sincronizada.
+
+## Mensagem 0026 — Jogador
+faltou o print de novo
+
+Anexo: image(20261010-173119).png — captura da etapa Background (3 de 8) do Roll20, com lista de antecedentes e campo Search Backgrounds; Guard ainda não selecionado. Arquivo original não arquivado no GitHub.
+
+## Pendência
+Resposta integral do Mestre ainda não sincronizada.
