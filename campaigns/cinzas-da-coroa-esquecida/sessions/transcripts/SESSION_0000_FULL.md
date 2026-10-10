@@ -81,3 +81,11 @@ aqui eu fecho? ou pesquiso alguma coisa?
 
 ## Pendência
 Resposta integral do Mestre ainda não sincronizada.
+
+## Mensagem 0012 — Jogador
+perdão esqueci de mandar o print
+
+Anexos: image(1).png e image(2).png — capturas da janela de ajuda do Roll20 Characters para Dungeons & Dragons Fifth Edition (2024), sobre a tela inicial de criação. Originais não arquivados no GitHub.
+
+## Pendência
+Resposta integral do Mestre ainda não sincronizada.
