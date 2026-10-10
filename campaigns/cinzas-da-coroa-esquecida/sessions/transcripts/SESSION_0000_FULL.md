@@ -416,3 +416,23 @@ Deixe o campo **Pontos de Vida Temporários** vazio, pois Eron não possui nenhu
 Quando Eron sofrer dano ou receber cura durante a campanha, atualizaremos esses valores.
 
 **Já anotou os 10 PV atuais?**
+
+
+---
+
+### Interação acessível — testes contra a morte (registro parcial)
+**Jogador:** sim
+
+**Mestre:** Perfeito! **Eron está com 10/10 PV**, e o campo de Pontos de Vida Temporários permanece vazio.
+
+### Próximo passo: Testes contra a Morte
+
+Na ficha, procure o campo **Testes Contra a Morte**, que possui três círculos de sucessos e três de falhas.
+
+**Não marque nenhum círculo agora.**
+
+Esses testes só serão realizados quando Eron estiver com **0 pontos de vida** e precisar verificar se consegue se estabilizar.
+
+Como Eron está com 10 PV, esse campo deve permanecer completamente vazio.
+
+**Está assim na sua ficha?**
