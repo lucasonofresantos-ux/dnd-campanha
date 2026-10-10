@@ -4,9 +4,9 @@ campaign:
   system: "D&D 5E"
   rules_reference: "SRD 5.2.1"
   session_number: 1
-  current_location: "Trilha lateral imediatamente diante da Casa Sem Sino, sob cobertura"
+  current_location: "Casa Sem Sino — nível inferior, preparando reconhecimento do túnel oculto"
   current_time: "Manhã"
-  active_quest: "Seguir até a Casa Sem Sino por rota não óbvia, mantendo cautela redobrada e planejamento antes de cada aproximação; Orven e Garran mantêm cobertura em Vau"
+  active_quest: "Esconder os dois prisioneiros, reconhecer completamente o túnel oculto até a saída externa e então preparar uma emboscada para o visitante esperado antes do anoitecer"
 player_character:
   status: active
   name: "Eron River"
