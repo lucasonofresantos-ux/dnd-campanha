@@ -48,3 +48,4 @@ id,sessao,tipo,expressao,dado_bruto,modificador,total,publico,motivo,observacao
 46,1,Investigacao,"1d20+6","20",6,26,sim,"Busca completa no nivel inferior da Casa Sem Sino","Eron vasculha sistematicamente o porao, incluindo caixa, parede suspeita, fendas, papéis, dinheiro, armas, fios e objetos banais"
 47,1,Investigacao,"1d20+6","13",6,19,sim,"Examinar mecanismo da passagem oculta na Casa Sem Sino","Eron estuda o nicho, a pedra-fecho e a estrutura da parede para descobrir como abrir a passagem sem forcar nem fazer barulho"
 48,1,Enganacao,"2d20kh1+3","19;2",3,22,sim,"Falso selo da verdade no interrogatorio","Eron tenta convencer o prisioneiro de que uma marca magica o desintegrara lentamente se mentir, com apoio visual de Seris"
+49,1,Enganacao,"2d20kh1+3","1;18",3,21,sim,"Falso selo da verdade no segundo interrogatorio","Eron repete a encenacao do selo magico com apoio visual de Seris para convencer o segundo prisioneiro"
