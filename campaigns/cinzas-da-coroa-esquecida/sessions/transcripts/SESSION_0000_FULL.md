@@ -75,3 +75,9 @@ Anexo: image.png — captura do Roll20 Characters mostrando as opções Dungeons
 
 ## Pendência
 Resposta visível integral do Mestre ainda não sincronizada.
+
+## Mensagem 0011 — Jogador
+aqui eu fecho? ou pesquiso alguma coisa?
+
+## Pendência
+Resposta integral do Mestre ainda não sincronizada.
