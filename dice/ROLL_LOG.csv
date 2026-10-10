@@ -21,3 +21,4 @@ id,sessao,tipo,expressao,dado_bruto,modificador,total,publico,motivo,observacao
 19,1,Percepcao,"1d20+6","17",6,23,sim,"Observacao da anomalia na margem oposta da Ponte Velha","Eron examina o ponto indicado por Corvin apos contornar a ponte"
 20,1,Investigacao,"1d20+6","16",6,22,sim,"Travessia investigativa da Ponte Velha","Eron atravessa como viajante comum e examina discretamente encaixes, pedras, marcas e sinais de uso recente"
 21,1,Furtividade,"1d20+6","19",6,25,sim,"Retorno furtivo pela mata apos atravessar a Ponte Velha","Eron abandona a estrada fora da vista, contorna pela mata e retorna discretamente ate Seris enquanto Corvin permanece observando a ponte"
+22,1,Sobrevivencia,"1d20+2","14",2,16,sim,"Rota alternativa ate a Casa Sem Sino","Eron conduz o grupo por caminho menos obvio, evitando a rota principal e a bifurcacao mais previsivel"
