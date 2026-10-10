@@ -89,3 +89,11 @@ Anexos: image(1).png e image(2).png — capturas da janela de ajuda do Roll20 Ch
 
 ## Pendência
 Resposta integral do Mestre ainda não sincronizada.
+
+## Mensagem 0013 — Jogador
+esta aqui neh?
+
+Anexo: image(3).png — captura da tela Roll20 Characters com botão vermelho 'Build A Character', 'Ready-To-Play Characters' e 'Edit Sheet Directly'. Original não arquivado no GitHub.
+
+## Pendência
+Resposta integral visível do Mestre ainda não sincronizada.
