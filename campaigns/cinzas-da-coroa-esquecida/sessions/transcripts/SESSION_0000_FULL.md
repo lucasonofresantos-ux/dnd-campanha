@@ -105,3 +105,9 @@ Anexo: image(4).png — captura do criador Roll20 na etapa Class, com opções P
 
 ## Pendência
 Resposta integral do Mestre ainda não sincronizada.
+
+## Mensagem 0015 — Jogador
+é o rogue com a etiqueta 2024 isso?
+
+## Pendência
+Resposta integral do Mestre desta interação ainda não sincronizada.
