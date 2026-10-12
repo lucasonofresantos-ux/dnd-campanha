@@ -1865,3 +1865,31 @@ Me dê o dado por favor
 Eron tenta posicionar a lâmina na garganta do desconhecido sem feri-lo. O resultado determinará se consegue executar a manobra antes de uma reação.
 
 Interface interativa de rolagem 1d20 +4 e envio do resultado ao Mestre.
+
+
+## Jogador
+
+Eu preparo a espada
+- Não quero dinheiro, quero saber por que está nos seguindo. E não grite, se tentar fazer isso, corto sua cabeça antes que consiga emitir um som
+
+## Mestre
+
+O aço da espada desliza para fora da bainha com um som metálico. Ao ouvir a ameaça, o homem de colete verde-escuro interrompe o movimento que fazia com a mão direita e a ergue novamente, deixando os dedos bem abertos.
+
+— Está bem... está bem. Não vou gritar — responde, baixando a voz. — Mas abaixe essa espada, pelos deuses.
+
+Ele engole em seco. Seus olhos procuram a saída do beco por um instante, antes de voltarem para Eron.
+
+— Vocês são os homens da carroça do anão, não são? Eu estava observando a entrega, sim. Mas não fui eu que mandei mexer naquela carroça.
+
+A última frase sai depressa, quase como se ele estivesse tentando se defender de uma acusação que Eron ainda não fez.
+
+— Mandaram-me descobrir se a caixa chegaria às mãos de Velkan. Só isso. Não me disseram o que havia dentro.
+
+O desconhecido mantém as mãos erguidas. Seu olhar desce brevemente até a bolsa onde guardou o papel dobrado.
+
+— Posso dizer quem me contratou. Mas preciso saber que não vai me matar depois.
+
+O barulho distante da praça continua. Por enquanto, ninguém aparece na entrada do beco.
+
+**Teste de Carisma (Intimidação): `1d20 +1`**, para determinar até que ponto a ameaça de Eron consegue pressioná-lo. O homem já revelou algumas informações; o teste decidirá como reage à exigência de continuar falando.
