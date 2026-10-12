@@ -1852,3 +1852,16 @@ No seu caso, Eron já conseguiu **Furtividade 22**, aproximou-se sem ser percebi
 **Vou corrigir minha decisão:** não exigirei Atletismo para a aproximação com a adaga. A abordagem será resolvida considerando a posição furtiva de Eron, a reação do homem e, se necessário, uma jogada de ataque com adaga usando **1d20 +4**. A rendição, porém, dependerá da reação do desconhecido; acertar com a arma não garante obediência.
 
 A cena permanece no instante anterior ao contato. Nenhum dado de Atletismo foi rolado e nenhuma consequência foi aplicada.
+
+
+## Jogador
+
+Me dê o dado por favor
+
+## Mestre
+
+**Teste de ataque com adaga — Destreza: `1d20 +4`**
+
+Eron tenta posicionar a lâmina na garganta do desconhecido sem feri-lo. O resultado determinará se consegue executar a manobra antes de uma reação.
+
+Interface interativa de rolagem 1d20 +4 e envio do resultado ao Mestre.
