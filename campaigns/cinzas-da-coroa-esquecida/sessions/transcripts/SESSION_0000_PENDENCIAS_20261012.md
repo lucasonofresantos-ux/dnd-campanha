@@ -398,3 +398,29 @@ Bromir para diante do quarto sete e ergue a chave.
 — Bem, companheiro. Vamos descobrir se essas camas valem oito pratas.
 
 **Despesa de Eron:** 4 PP. Saldo: **57 PO e 6 PP**, considerando a conversão de 10 PP por PO.
+
+
+## Jogador
+
+(Tente de novo)
+Bem vamos ver, preferia a companhia de uma bela mulher, mas bem, só espere que não ronque mais que seu tamanho
+
+## Mestre
+
+Bromir solta uma gargalhada tão alta que uma das portas do corredor se entreabre por um instante.
+
+— Uma bela mulher, é? Hah! Pois deveria ter negociado melhor antes de aceitar minha companhia! E quanto aos roncos, rapaz, minha falecida esposa dizia que eu fazia as vigas da casa tremerem. Sempre achei um exagero.
+
+O anão enfia a chave na fechadura e abre a porta do quarto sete. Lá dentro há duas camas estreitas, separadas por uma pequena mesa com uma vela apagada. Uma janela de venezianas fechadas dá para os fundos da estalagem. Junto à parede, uma bacia de cerâmica repousa sobre um suporte de madeira.
+
+Bromir entra primeiro, deposita a bolsa aos pés da cama mais próxima da janela e testa o colchão com a mão.
+
+— Já dormi em lugares piores. E paguei mais caro por isso.
+
+Nesse instante, três batidas secas soam em algum ponto do corredor. Segue-se uma voz masculina, abafada pela madeira:
+
+— Abra. Precisamos conversar.
+
+Bromir interrompe o movimento de tirar as botas. Pela posição de Eron, não é possível determinar com certeza em qual porta bateram.
+
+O anão olha para o corredor e depois para Eron, sem dizer nada.
