@@ -739,3 +739,24 @@ No pátio, o burro de Bromir está preso junto à carroça. A roda consertada pe
 Bromir para ao lado da carroça e confere a amarração de uma caixa.
 
 — Vamos pôr essa velha carroça em movimento, Eron. Com sorte, chegaremos a Caldria antes do meio-dia.
+
+
+## Jogador
+
+Vamos lá antes que apareça mais problemas e estou curioso do que está acontecendo, a guarda está muito agitada
+
+## Mestre
+
+Bromir dá um último puxão na corda que prende as caixas à carroça e sobe para o banco do cocheiro.
+
+— Agitada demais para o meu gosto — resmunga. — Quando os guardas começam a fazer perguntas em cada esquina, os comerciantes acabam pagando a conta. Estradas fechadas, mercadorias revistadas, entregas atrasadas... E tudo isso antes de eu conseguir reclamar daquele maldito ferreiro!
+
+O burro começa a puxar a carroça, fazendo as rodas rangerem sobre as pedras úmidas. Ao passarem pelos estábulos, Eron vê o sargento agachado junto a uma baia, examinando marcas no chão. O homem ergue os olhos brevemente para a carroça, mas não faz sinal para que parem. Pouco depois, o **Javali de Cobre** desaparece atrás de uma curva, e a estrada segue entre campos encharcados e pequenos bosques de carvalhos.
+
+Após algum tempo, Bromir aponta com o queixo para uma elevação adiante. Por entre a névoa, surgem os telhados de **Caldria**, cercados por uma muralha baixa de pedra. Há uma pequena fila de carroças diante do portão, onde dois guardas conversam com os viajantes. Um terceiro examina o conteúdo de um barril aberto.
+
+— Pelas barbas de Moradin... — Bromir suspira. — Parece que a curiosidade da guarda chegou antes de nós.
+
+A carroça avança lentamente até a fila. Bromir inclina-se um pouco na direção de Eron.
+
+— Se demorarem muito, talvez eu comece a cobrar deles pelo tempo perdido.
