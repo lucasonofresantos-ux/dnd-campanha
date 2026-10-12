@@ -231,3 +231,36 @@ Perto da lareira, o homem magro se levanta. Ele troca algumas palavras baixas co
 Bromir mergulha outro pedaço de pão no ensopado.
 
 — Mas diga uma coisa, Eron. Depois de Caldria, para onde pretende seguir? Ou está deixando a estrada decidir por você?
+
+
+## Jogador — fala literal
+
+Bem no momento quero ver oque o mundo me reserva
+Então falo mais baixo com o Bromir, de forma que só ele escute, mas vou te acompanhar amanhã, não me cairia bem o homem que me pagou a janta aparecer morto no outro dia.
+Então falo mais alto e quero uma cerveja sim
+
+## Mestre — resposta literal
+
+Bromir mastiga o último pedaço de pão enquanto escuta Eron. Quando o mercenário abaixa a voz, o anão inclina-se sobre a mesa para ouvi-lo. A menção à possibilidade de encontrá-lo morto na manhã seguinte faz sua expressão mudar por um instante.
+
+— Pelas barbas dos meus antepassados... — murmura, igualmente baixo. — Você tem uma maneira muito peculiar de agradecer uma refeição.
+
+Ele lança um olhar breve para o salão, depois retorna a atenção a Eron.
+
+— Mas agradeço a preocupação. E fico satisfeito que venha comigo amanhã. Embora, se aquele ferreiro tentar me matar, será porque finalmente descobriu o que penso do trabalho dele.
+
+Um sorriso discreto reaparece sob a barba.
+
+Quando Eron pede a cerveja em voz mais alta, Bromir ergue a própria caneca.
+
+— **Duas cervejas, então! E que a estrada nos reserve mais tavernas e menos rodas quebradas!**
+
+A criada chega pouco depois e deposita as bebidas sobre a mesa. A cerveja é escura, de espuma espessa e aroma levemente tostado. Bromir toma um gole generoso.
+
+Enquanto isso, o homem magro termina sua conversa com o estalajadeiro. O dono do estabelecimento aponta para a escada que leva aos quartos do andar superior. O homem parece fazer outra pergunta, mas o estalajadeiro apenas balança a cabeça. Em seguida, ele retorna à mesa do companheiro e lhe diz alguma coisa que Eron não consegue ouvir daquela distância.
+
+Bromir pousa a caneca.
+
+— Quanto ao mundo lhe reservar alguma coisa, rapaz... tenha cuidado com esse desejo. O mundo costuma entregar suas surpresas sem perguntar se estamos preparados.
+
+Ele volta ao ensopado, deixando Eron à vontade para terminar a refeição.
