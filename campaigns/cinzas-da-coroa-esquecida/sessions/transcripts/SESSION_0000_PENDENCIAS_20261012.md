@@ -641,3 +641,30 @@ Ele aponta um pedaço de pão para Eron.
 — E, para sua informação, uma bruxa da noite teria mais medo da minha esposa do que eu dela!
 
 Bromir volta a comer, mas mantém a voz baixa. Perto do balcão, o sargento continua conversando com Harl, que começa a consultar o livro de hóspedes.
+
+
+## Jogador
+
+Vou rolar percepção para tentar escutar a conversa sem que eles percebam
+
+Sua falecida esposa devia ser uma mulher muito boa, que não dormia direito pelo seu ronco, mas devia ser uma boa esposa pelo carinho que fala dela
+
+## Mestre
+
+Bromir interrompe a mastigação. Por um momento, o sorriso brincalhão desaparece de seu rosto.
+
+— Era, Eron. Helga era uma boa mulher. Teimosa como uma mula, corajosa como uma leoa e capaz de me fazer pedir desculpas mesmo quando eu tinha razão.
+
+Ele passa o polegar pela borda da caneca.
+
+— Foram trinta e dois anos juntos. Eu daria todas as moedas que já ganhei por mais uma manhã ouvindo-a reclamar dos meus roncos.
+
+O anão sorri discretamente e volta a partir o pão.
+
+— Mas chega de tristeza. Ela detestava me ver de cara comprida.
+
+Enquanto Bromir conversa, o sargento continua junto ao balcão, examinando o livro de hóspedes que Harl colocou diante dele. A distância, as conversas dos viajantes e o ruído das louças dificultam distinguir as palavras.
+
+**Teste de Sabedoria (Percepção): `1d20 +6`**
+
+Role **1d20** e me diga o resultado natural. Vou considerar que Eron continua conversando e comendo normalmente para não chamar atenção; não é necessário um teste separado de Furtividade neste momento.
