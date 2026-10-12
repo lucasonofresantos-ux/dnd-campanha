@@ -424,3 +424,35 @@ Nesse instante, três batidas secas soam em algum ponto do corredor. Segue-se um
 Bromir interrompe o movimento de tirar as botas. Pela posição de Eron, não é possível determinar com certeza em qual porta bateram.
 
 O anão olha para o corredor e depois para Eron, sem dizer nada.
+
+
+## Jogador
+
+(tente jogar tudo no registro da campanha por favor, assim fica num arquivo só)
+Eu olho para bromir e falo baixo, imaginei que fossem te matar amanhã, mas pelo jeito sua beleza os convenceu para virem hoje.
+Já deixo a adaga e a espada, prontas 
+E pergunto para bromir baixo de novo, queres uma adaga?
+
+## Mestre
+
+Bromir ergue uma sobrancelha diante do comentário de Eron.
+
+— Minha beleza? Rapaz, se vieram por isso, terão de pagar para admirar.
+
+Mas, ao perceber Eron preparando a adaga e a espada curta, o sorriso do anão desaparece. Ele olha para as armas, depois para a porta aberta do quarto.
+
+— Agradeço, mas tenho uma faca de trabalho na bolsa. E sei usá-la, se for preciso — responde em voz baixa.
+
+Bromir retira a faca da bainha presa à bolsa e a mantém junto à perna, fora da vista de quem passa pelo corredor.
+
+Lá fora, a voz masculina torna a soar:
+
+— Eu sei que está aí. Abra antes que alguém venha investigar o barulho.
+
+Uma segunda voz, mais abafada, responde algo incompreensível. Segue-se o ruído de uma fechadura e o ranger de uma porta abrindo, alguns passos adiante. As batidas, portanto, não eram no quarto sete.
+
+Bromir solta o ar lentamente.
+
+— Pelas forjas de Moradin... — murmura. — Acho que desta vez não era comigo.
+
+Ele não guarda a faca. No corredor, uma porta se fecha com um estalo seco.
