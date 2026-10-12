@@ -337,3 +337,9 @@ O homem dá um passo para o lado, deixando a passagem livre. Seu companheiro per
 Bromir estala a língua para o burro, mas ainda espera Eron antes de prosseguir.
 
 — Sangue, desaparecimentos, homens feridos... — murmura o anão. — Estou começando a achar que devíamos ter ficado reclamando de ferreiros.
+
+
+## Jogador — fala e solicitação literal
+
+(Tente novamente registrar se não for possível copiei as transcrições dessa campanha para uma nova e garanta que não de para bloquear dessa vez, e tente descobrir por que bloqueou)
+- vamos antes que sobre para a gente kkkk
