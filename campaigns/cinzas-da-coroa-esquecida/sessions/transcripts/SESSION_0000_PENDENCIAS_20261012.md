@@ -2109,3 +2109,24 @@ Sim. Este é o **layout tático aproximado do depósito de Velkan**, visto de ci
 A **porta de entrada**, atrás de Eron, conduz à oficina onde estão Bromir e Velkan. A **passagem ao fundo**, próxima do homem 3, pode servir de rota de fuga, mas Eron ainda não sabe aonde leva.
 
 A disposição é a última observada; os intrusos podem mudar de posição assim que alguma coisa chamar sua atenção.
+
+
+## Jogador
+
+Consigo saber quem deles é o líder com a percepção ou tenho que rolar intuição?
+
+## Mestre
+
+Com sua **Percepção 22**, Eron já notou um indício importante: o **homem 3, junto à passagem do fundo**, parece exercer autoridade sobre os outros.
+
+Ele não participa da busca, permanece atento à saída e foi quem deu a ordem:
+
+— Então procure de novo. Marek foi bastante claro.
+
+Isso sugere que ele está coordenando os três, mas não confirma que seja o líder.
+
+Para interpretar a hierarquia entre eles, a postura e a maneira como os outros reagem às suas ordens, o teste apropriado é **Sabedoria (Intuição)**.
+
+**Teste de Intuição de Eron: `1d20 +4`.** Sua Furtividade 26 continua válida enquanto observa em silêncio.
+
+Interface interativa de rolagem 1d20 +4, com envio do resultado ao Mestre.
