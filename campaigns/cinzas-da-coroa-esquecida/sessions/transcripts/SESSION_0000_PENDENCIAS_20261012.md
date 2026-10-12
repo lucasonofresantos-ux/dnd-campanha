@@ -264,3 +264,35 @@ Bromir pousa a caneca.
 — Quanto ao mundo lhe reservar alguma coisa, rapaz... tenha cuidado com esse desejo. O mundo costuma entregar suas surpresas sem perguntar se estamos preparados.
 
 Ele volta ao ensopado, deixando Eron à vontade para terminar a refeição.
+
+
+## Jogador — fala literal
+
+Bem, nas não podemos fugir dele, se bem que suas surpresas são muito peculiares kkkk
+Então falo baixo novamente, não me preocupa o ferreiro, mas acho que estão te esperando, é só um palpite
+
+## Mestre — resposta literal
+
+Bromir solta uma risada pelo nariz, mas ela desaparece quando Eron abaixa a voz e menciona a possibilidade de alguém estar esperando por ele.
+
+O anão não se vira imediatamente. Continua com a caneca junto aos lábios, olhando por cima da borda enquanto escuta.
+
+— Esperando por mim? — murmura. — Rapaz, metade dos meus clientes me espera para receber mercadorias. A outra metade me espera para reclamar delas.
+
+Ele pousa a caneca devagar.
+
+— Mas suponho que não esteja falando de negócios comuns.
+
+Sem olhar diretamente para os desconhecidos, Bromir desloca um pouco a cadeira, como quem procura uma posição mais confortável perto do fogo.
+
+— Aqueles dois perto da lareira? — pergunta em voz quase inaudível. — Não me lembro de ter negociado com nenhum deles. Mas já vi tanta gente nestas estradas que não apostaria minhas botas nisso.
+
+O homem magro está novamente sentado. Seu companheiro parece prestes a dizer alguma coisa quando a porta da estalagem se abre, trazendo uma rajada de vento frio. Uma mulher envolta numa capa encharcada entra, sacudindo a chuva dos ombros. O homem de ombros largos endireita-se imediatamente, mas relaxa ao perceber quem chegou.
+
+Bromir nota a reação. Seus olhos voltam lentamente para Eron.
+
+— Hum. Talvez seu palpite mereça atenção, afinal.
+
+Ele aproxima o rosto, mantendo a voz baixa.
+
+— Diga-me uma coisa: você acha que esses sujeitos querem falar comigo... ou fazer algo pior?
