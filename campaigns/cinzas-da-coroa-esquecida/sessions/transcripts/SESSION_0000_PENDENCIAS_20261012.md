@@ -1724,3 +1724,18 @@ De sua posição junto aos caixotes, Eron consegue observar a movimentação ger
 O homem de colete verde-escuro continua a aproximadamente seis metros, caminhando em direção à praça. Ele lança outro olhar para trás, mas Eron não consegue determinar se procura alguém especificamente ou apenas verifica o movimento da rua.
 
 O barulho das conversas, das rodas e dos vendedores praticamente encobre os sons mais distantes. **A multidão oferece boas oportunidades para se misturar aos transeuntes, mas também facilita uma fuga.**
+
+
+## Jogador
+
+Me dê os dados vou rolar furtividade para seguir ele, quero tentar me aproximar dele no beco longe das vistas
+
+## Mestre
+
+Eron permanece parcialmente encoberto pelos caixotes enquanto o homem de colete verde-escuro se afasta em direção à praça.
+
+Há uma dificuldade: **o desconhecido está seguindo para uma área movimentada, não para um beco**. Eron pode acompanhá-lo discretamente e aproveitar alguma passagem mais isolada caso surja uma oportunidade, mas ainda não sabe se o homem entrará em uma.
+
+**Teste de Destreza (Furtividade): `1d20 +6`.**
+
+Interface de rolagem interativa local de 1d20 com modificador +6, botão de rolar e envio do resultado ao Mestre.
