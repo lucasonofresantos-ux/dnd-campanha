@@ -43,7 +43,11 @@ narrative:
   accepted_quests: []
   discovered_plot_items: []
   allies_present: []
-  npcs_directly_in_scene: []
+  npcs_directly_in_scene:
+    - "Funcionário do pedágio, desconhecido"
+    - "Dois guardas da passagem, desconhecidos"
+    - "Carroceiro ruivo, desconhecido"
+    - "Menino junto à carroça, desconhecido"
   rolls_this_execution: []
   consumed_resources: []
   pending_action: "Primeira ação livre de Eron River"
@@ -57,5 +61,6 @@ transcript:
   current: "sessions/transcripts/SESSION_0001_FULL.md"
   index: "sessions/INDEX.md"
   previous: "sessions/transcripts/SESSION_0000_FULL.md"
-  literal_complete_current_execution: false
-  pending: "Registro da primeira mensagem do jogador e primeira resposta do Mestre a ser confirmado"
+  literal_complete_current_execution: true
+  last_confirmed_message: "0002 — Mestre"
+  pending: "Aguardar Mensagem 0003 — Jogador"
