@@ -1241,3 +1241,34 @@ O posto é uma construção robusta de pedra, com o brasão de Caldria sobre a e
 — Bom dia. Vieram registrar alguma ocorrência ou procuram alguém?
 
 Bromir olha de relance para Eron, deixando que ele responda.
+
+
+## Jogador
+
+Bem gostaria de falar com haldren
+
+## Mestre
+
+O guarda à porta examina Eron por um instante.
+
+— Sargento Haldren? Está no posto, sim. Mas anda ocupado desde o amanhecer.
+
+Ele olha para Bromir, que imediatamente abre um sorriso.
+
+— Não se preocupe, soldado. Não viemos vender nada. Pelo menos não por enquanto.
+
+— Que alívio — responde o guarda, sem sorrir.
+
+O soldado faz um gesto para que aguardem e entra no edifício. Pouco depois, retorna acompanhado de um homem de meia-idade, barba curta e uma cicatriz sobre a sobrancelha esquerda. Eron reconhece o sargento que estivera conversando com Harl no Javali de Cobre naquela manhã.
+
+Haldren observa os dois visitantes.
+
+— Vocês estavam na estalagem ontem à noite, não estavam? O anão comerciante e seu companheiro.
+
+Bromir confirma com a cabeça.
+
+— Bromir, às suas ordens. Este é Eron.
+
+— Lembro de vocês — diz o sargento. — Pois bem, senhores. O que os traz até mim?
+
+Do outro lado da praça, o homem de capa castanha continua perto da barraca de tecidos. Dali, não é possível saber se consegue ouvir a conversa.
