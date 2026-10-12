@@ -372,3 +372,29 @@ Bromir coça a barba, considerando a oferta.
 Perto da lareira, os dois desconhecidos se levantam. O homem magro deixa algumas moedas sobre a mesa, enquanto o companheiro recolhe uma bolsa do chão. Eles seguem em direção à escada, passando a alguns passos da mesa de Eron e Bromir. O homem magro lança um olhar breve ao anão, mas não diz nada.
 
 A criada permanece ao lado da mesa, aguardando a decisão sobre os quartos.
+
+
+## Jogador
+
+Bem vamos lá então, aceito sua proposta.
+(Se precisar de permissão para gravar pede) E confirma as transcrições por favor
+
+## Mestre
+
+Bromir abre um sorriso satisfeito.
+
+— Excelente! Quatro pratas para cada um, então. E nada de roncar como um urso das montanhas, rapaz!
+
+Ele entrega suas quatro moedas à criada e espera enquanto ela recebe as de Eron. Pouco depois, a mulher retorna com uma chave de ferro presa a uma pequena placa de madeira.
+
+— Quarto sete, no andar de cima. Duas camas. A segunda porta à direita, depois da escada.
+
+Bromir pega sua bolsa de viagem e se levanta. Ao chegar perto da escada, percebe que os dois homens desconhecidos já desapareceram no corredor superior. O anão não comenta; apenas aguarda Eron antes de subir.
+
+O salão continua aquecido pelo fogo, mas, no andar de cima, o ar é mais frio. As tábuas rangem sob os passos, e uma lamparina ilumina o corredor estreito. Algumas portas estão fechadas. Atrás de uma delas, ouve-se uma tosse abafada.
+
+Bromir para diante do quarto sete e ergue a chave.
+
+— Bem, companheiro. Vamos descobrir se essas camas valem oito pratas.
+
+**Despesa de Eron:** 4 PP. Saldo: **57 PO e 6 PP**, considerando a conversão de 10 PP por PO.
