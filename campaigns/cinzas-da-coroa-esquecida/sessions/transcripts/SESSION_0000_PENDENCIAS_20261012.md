@@ -60,3 +60,36 @@ O estalajadeiro aponta para uma mesa vazia junto à lareira.
 — Podem se acomodar. Já levo a comida.
 
 Enquanto Bromir se dirige à mesa, Eron percebe que um dos dois homens próximos ao fogo continua observando discretamente os recém-chegados por cima da borda de sua caneca.
+
+## Jogador — fala literal pendente
+
+Bem em fim uma notícia boa hoje, e bromir pelo jeito é conhecido na cidade, viaja muito por aqui?
+Vou fazer um teste para analisar o ambiente e os dois, quero tentar descobrir oque querem mas sem que eles percebam
+
+## Mestre — resposta pendente
+
+Bromir acomoda-se à mesa perto da lareira, pendura a capa molhada no encosto da cadeira e solta um suspiro satisfeito.
+
+— Conhecido? Ha! Viajo por estas estradas há quase vinte anos. Caldria, as aldeias do norte, os mercados do vale... Já vendi ferramentas, ferragens e utensílios a metade dos comerciantes desta região. O dono deste lugar, por exemplo, ainda me deve três moedas de prata de uma encomenda antiga.
+
+Ele inclina a cabeça na direção do balcão e acrescenta, num tom conspiratório:
+
+— Mas não conte que eu me lembro disso. Prefiro que ele continue servindo porções generosas.
+
+Enquanto Bromir conversa, Eron tem uma boa posição para observar os dois homens próximos à lareira. Um é largo de ombros, usa uma túnica escura e mantém a caneca entre as mãos. O outro é mais magro, de cabelos castanhos presos atrás da cabeça. Ambos interromperam a conversa quando vocês entraram.
+
+**Para avaliar o comportamento deles e tentar compreender suas intenções, faça um teste de Sabedoria (Intuição): 1d20 +4.**
+
+Eron pode observá-los sem abordá-los. O teste determinará o que consegue interpretar de seus gestos e reações, mas não revelará automaticamente seus pensamentos.
+
+## Jogador — pedido literal
+
+Pode me passar os dados
+
+## Mestre — resposta e controle interativo
+
+Aqui está o rolador para o teste de **Sabedoria (Intuição) de Eron**, com modificador **+4**.
+
+[Rolador interativo: 1d20 +4; botão Rolar d20; botão Enviar resultado ao Mestre.]
+
+Quando enviar o resultado, resolverei a observação discreta dos dois homens junto à lareira.
