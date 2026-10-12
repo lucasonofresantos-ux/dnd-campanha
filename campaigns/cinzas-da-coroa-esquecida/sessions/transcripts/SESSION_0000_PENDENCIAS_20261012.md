@@ -1831,3 +1831,24 @@ O trabalhador desaparece na direção da praça. O homem de colete verde-escuro 
 Eron deixa a cobertura e avança silenciosamente, com a adaga em mãos. São apenas três metros, mas o desconhecido pode perceber a aproximação ou reagir ao contato. **A Furtividade 22 anterior permitiu chegar até aqui sem ser descoberto; ela não garante que a rendição tenha sucesso.**
 
 Para tentar dominá-lo por trás e encostar a lâmina em sua garganta antes que reaja, faça um **teste de Força (Atletismo): `1d20 +3`**. Vou resolver a resistência do homem conforme as regras, sem antecipar o resultado.
+
+
+## Jogador
+
+Tem certeza que é atletismo e não destreza para a adaga?
+
+## Mestre
+
+Você tem razão em questionar. **Atletismo não é automaticamente o teste correto só porque Eron pretende render alguém.** Eu deveria ter distinguido melhor as duas ações.
+
+Pelas regras de D&D 5E 2024:
+
+- **Agarrar e imobilizar:** usa a mecânica de agarrão, que envolve um teste de resistência do alvo contra a CD apropriada, não necessariamente um teste de Atletismo de Eron.
+- **Atacar com adaga:** usa **Destreza**, pois a adaga possui a propriedade *Acuidade*. Eron tem **+4 na jogada de ataque** com ela.
+- **Encostar a adaga na garganta sem ferir:** é uma tentativa de ameaça e controle, não um ataque convencional com dano. O Mestre precisa decidir como resolver a situação conforme as circunstâncias.
+
+No seu caso, Eron já conseguiu **Furtividade 22**, aproximou-se sem ser percebido e quer colocar a adaga na garganta do homem para obrigá-lo a se render.
+
+**Vou corrigir minha decisão:** não exigirei Atletismo para a aproximação com a adaga. A abordagem será resolvida considerando a posição furtiva de Eron, a reação do homem e, se necessário, uma jogada de ataque com adaga usando **1d20 +4**. A rendição, porém, dependerá da reação do desconhecido; acertar com a arma não garante obediência.
+
+A cena permanece no instante anterior ao contato. Nenhum dado de Atletismo foi rolado e nenhuma consequência foi aplicada.
