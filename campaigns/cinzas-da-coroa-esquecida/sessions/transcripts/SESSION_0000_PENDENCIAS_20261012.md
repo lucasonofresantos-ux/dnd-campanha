@@ -566,3 +566,24 @@ Ele pega a bolsa, mas espera um instante antes de sair.
 — Vai querer desjejum também?
 
 **Descanso longo concluído.** Eron permanece com 11/11 PV, sem condições negativas ou recursos pendentes de recuperação.
+
+
+## Jogador
+
+Vou sim não tenha dúvidas, e mande um abraço para sua esposa, diga que tenho dó dela, ela foi gentil quando disse que roncava feito uma serra
+
+## Mestre
+
+Bromir abre a boca para responder, mas fica imóvel por um instante. Então solta uma risada baixa, diferente das gargalhadas da noite anterior.
+
+— Ah, rapaz... receio que terá de entregar esse abraço pessoalmente a Moradin. Minha esposa morreu há seis invernos.
+
+Ele termina de ajeitar a bolsa no ombro e observa Eron com um sorriso saudoso.
+
+— Mas teria gostado de você. Tinha a língua tão afiada quanto a sua. E, para ser justo, dizia que meus roncos pareciam uma serraria inteira, não apenas uma serra.
+
+O anão dá duas batidinhas no batente da porta.
+
+— Vamos descer. Falar de minha querida Helga me abriu o apetite. E não pense que vou pagar seu desjejum também, seu aproveitador!
+
+Ao abrirem a porta, o corredor está iluminado pela luz da manhã. Do andar inferior chegam o tilintar de pratos, conversas e o cheiro de pão quente com manteiga. Bromir começa a descer a escada, ainda sorrindo discretamente.
