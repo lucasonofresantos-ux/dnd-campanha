@@ -9,3 +9,6 @@ Perícias: antecedente Guarda Atletismo e Percepção; classe Ladino Furtividade
 Equipamento: espada curta substitui rapieira; com DES 15, espada curta +4 para acertar, 1d6+2 perfurante. Arco curto +4, 1d6+2; adagas +4, 1d4+2. Preservar arco curto, 20 flechas e duas adagas. Maestria Vex da espada curta depende de seleção da maestria da classe.
 
 Estado: RASCUNHO, não substituir arquivos da campanha ativa global nem a ficha 2014.
+
+## Escolha confirmada — Humano 2024
+Perícia adicional pela característica Habilidoso: **Sobrevivência**, bônus **+4** (SAB +2, proficiência +2). Escolha expressa pelo jogador. Talento de Origem adicional da característica Versátil ainda pendente.
