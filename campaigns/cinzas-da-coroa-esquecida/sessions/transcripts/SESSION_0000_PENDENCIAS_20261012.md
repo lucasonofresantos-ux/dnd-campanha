@@ -1514,3 +1514,33 @@ Eron observa o sargento Haldren enquanto aperta sua mão, tentando avaliar se é
 [Rolador interativo local: dado 1d20, modificador de Intuição +4, total calculado após rolagem; botões Rolar d20, Rolar novamente e Enviar resultado ao Mestre.]
 
 Rolagem interativa local. Envie o resultado para descobrir o que Eron percebe.
+
+
+## Jogador
+
+-Foi mais fácil do que eu pensei Garrik, romam tenham um bom dia.
+-Bromir foi um preço justo, agora vamos la
+-Garrik cuide desse pino, pode ter mais gente interessada nele do esperamos.
+Me de os dados vou rolar percepção para ver se alguém nos segue
+
+## Mestre
+
+Garrik solta uma risada ao ouvir Eron.
+
+— Mais fácil para você, que ficou assistindo! Mas tenha um bom dia, rapaz.
+
+Toman ergue a mão em despedida. Bromir, por sua vez, parece profundamente ofendido.
+
+— Preço justo? **Duas moedas de ouro!** Eron, começo a suspeitar que você está trabalhando para o ferreiro!
+
+Quando Eron menciona o pino, Garrik perde o sorriso. Ele olha para a peça danificada sobre a bancada.
+
+— Não se preocupe. Vou guardá-la dentro da oficina, longe dos curiosos. Só entregarei ao sargento ou a alguém enviado por ele.
+
+Bromir sobe à carroça e recolhe as rédeas.
+
+— Muito bem. Vamos encontrar esse Mestre Velkan e entregar a encomenda antes que você descubra outra maneira de me fazer perder dinheiro.
+
+A carroça deixa o pátio da ferraria e entra na rua movimentada. Eron aproveita a passagem entre as barracas e os transeuntes para observar discretamente os arredores, procurando alguém que mantenha distância constante ou acompanhe seus movimentos.
+
+**Faça um teste de Sabedoria (Percepção): `1d20 +6`.**
