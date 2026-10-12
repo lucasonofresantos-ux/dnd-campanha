@@ -869,3 +869,44 @@ A irritação de Bromir diminui um pouco diante da seriedade da resposta.
 Garrik limpa as mãos num pano.
 
 — Mostre-me onde ele falhou.
+
+
+## Jogador
+
+Eu observo eles conversando
+
+## Mestre
+
+Garrik acompanha Bromir até a lateral da carroça e se agacha junto à roda reparada. O anão aponta para o conjunto, explicando, com gestos exagerados, como a carroça cedeu na estrada.
+
+— Estávamos no meio do nada quando essa porcaria resolveu se desfazer! Se não fosse Eron, eu ainda estaria lá, discutindo com meu burro!
+
+— Isso eu pagaria para ver — responde Garrik, examinando a peça.
+
+— Concentre-se no eixo, seu desgraçado!
+
+O ferreiro passa os dedos pela região danificada e pede ao aprendiz uma pequena ferramenta de ferro. Com ela, raspa a sujeira acumulada perto do encaixe. Seu semblante muda.
+
+— Espere um instante...
+
+Bromir cruza os braços.
+
+— O quê? Finalmente percebeu que fez um trabalho ruim?
+
+— Não. — Garrik aproxima o rosto da peça. — Veja estas marcas.
+
+Ele aponta para dois sulcos estreitos no metal, próximos ao ponto onde o eixo falhou.
+
+— Isto não parece desgaste comum. Há marcas de ferramenta aqui.
+
+Bromir se inclina para observar.
+
+— Está dizendo que alguém mexeu na minha carroça?
+
+— Estou dizendo que preciso examinar melhor antes de afirmar qualquer coisa.
+
+Garrik ergue a cabeça e olha para Eron.
+
+— Você estava com ele quando a roda cedeu, não estava? Viu alguma coisa estranha no conjunto antes de fazerem o reparo?
+
+Bromir também se volta para Eron, aguardando sua resposta.
