@@ -154,3 +154,8 @@ Nesse momento, o estalajadeiro aproxima-se trazendo duas tigelas fumegantes e um
 — Não faço promessas! — responde o anão, puxando uma tigela para perto.
 
 O homem magro murmura alguma coisa ao companheiro. O de ombros largos lança mais um olhar à porta.
+
+
+## Jogador — rolagem literal
+
+Teste de Percepção de Eron para escutar os dois homens: 1d20 = 16, modificador +6, total 22.
