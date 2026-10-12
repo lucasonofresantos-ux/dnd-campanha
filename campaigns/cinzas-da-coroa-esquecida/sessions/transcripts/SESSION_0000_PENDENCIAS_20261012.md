@@ -1005,3 +1005,23 @@ Garrik ergue a cabeça.
 — Uma hora?! — exclama o anão. — Espero que não esteja cobrando por cada martelada!
 
 O ferreiro responde com outra martelada, deliberadamente mais forte.
+
+
+## Jogador
+
+(tente gravar as interações na sequência)
+Bem vamos lá então
+Vou rolar percepção para analisar se tem alguém nos seguindo até lá
+Me dê os dados
+
+## Mestre
+
+Bromir ajeita o cinturão e se despede de Garrik com um aceno.
+
+— Vamos, Eron. Uma hora longe daquela carroça talvez me faça bem. E quero ouvir o que Haldren tem a dizer.
+
+Vocês deixam a Forja do Martelo Rubro e seguem pelas ruas movimentadas de Caldria, em direção à praça central. Há vendedores, artesãos, carroças e guardas circulando pela cidade. Eron pode observar discretamente se alguém acompanha seus movimentos.
+
+**Teste de Sabedoria (Percepção): 1d20 + 6.** O resultado determinará o que Eron consegue perceber durante o trajeto.
+
+[Controle interativo de dado d20 disponibilizado ao jogador, com modificador +6 e envio do resultado.]
