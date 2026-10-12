@@ -107,3 +107,25 @@ O bosque, entretanto, é denso. A vegetação molhada e a luz cada vez mais frac
 Ele deposita a ferramenta ao lado da carroça.
 
 — Então, Eron, como pretende montar essa alavanca?
+
+## Jogador — ação literal
+
+Bem, vamos colocar as pedras o mais junto possível da carroça, e vou usar as tábuas para fazer a alavanca, assim minha força se multiplica pela distância e a gente não se mata aqui, e no lugar de eu ficar segurando, que tal levantar colocar um calço e aí a gente finalmente concerta isso sem a possibilidade de descer sobre a gente?
+
+## Mestre — resposta literal
+
+Bromir acompanha a explicação de Eron, olhando alternadamente para as tábuas, as pedras e a carroça inclinada. Quando entende a ideia, abre um sorriso sob a barba molhada.
+
+— Ha! Finalmente alguém que prefere usar a cabeça antes de quebrar as costas! Gostei de você, Eron.
+
+O anão se aproxima do marco de pedra e examina algumas rochas soltas.
+
+— Essas duas servem de apoio. E tenho uns blocos de madeira que uso para travar as rodas nas descidas. Podemos colocá-los debaixo do eixo assim que levantarmos a carroça. Mas vamos com cuidado: se a tábua partir ou a pedra escorregar nessa lama, teremos um problema maior que uma roda quebrada.
+
+Bromir começa a posicionar as pedras sobre um trecho de solo mais firme e traz uma tábua grossa, examinando-a em busca de rachaduras. Depois separa os calços e deixa a roda sobressalente ao alcance.
+
+— Pronto. Eu fico com os calços. Você controla a alavanca. Quando o eixo subir o suficiente, eu travo a carroça. Sem pressa.
+
+A montagem parece viável, e Bromir está preparado para ajudar. Entretanto, a lama, o peso da carga e a resistência da madeira tornam incerto o momento de erguer o eixo.
+
+**Faça um teste de Força (Atletismo): 1d20 +3.** A ajuda de Bromir concede **Vantagem**: role 2d20 e utilize o maior resultado, somando +3.
