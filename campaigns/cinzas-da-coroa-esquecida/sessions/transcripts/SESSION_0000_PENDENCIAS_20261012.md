@@ -1739,3 +1739,20 @@ Há uma dificuldade: **o desconhecido está seguindo para uma área movimentada,
 **Teste de Destreza (Furtividade): `1d20 +6`.**
 
 Interface de rolagem interativa local de 1d20 com modificador +6, botão de rolar e envio do resultado ao Mestre.
+
+
+## Jogador
+
+Teste de Destreza (Furtividade) de Eron para seguir discretamente o homem de colete verde-escuro e tentar se aproximar em local afastado: 1d20 = 16, modificador +6, total 22.
+
+## Mestre
+
+**Destreza (Furtividade): 1d20 → [16] +6 = 22**
+
+Eron abandona a proteção dos caixotes e acompanha o desconhecido, mantendo alguns transeuntes entre ambos. O homem de colete verde-escuro atravessa a borda da Praça dos Tecelões, desvia de dois carregadores e passa por uma banca de tinturas. Eron segue sem chamar atenção, aproveitando o ruído do mercado e os toldos que interrompem a visão de quem olha para trás.
+
+Pouco depois, o desconhecido deixa a praça por uma passagem estreita entre um depósito de lã e uma oficina de curtumes. O cheiro de couro tratado domina o ar. Ali, o movimento diminui consideravelmente. O homem caminha até uma pequena bifurcação, para junto de um barril vazio e olha de volta para a praça. **Não parece ter percebido Eron**, que permanece oculto atrás da quina do depósito.
+
+O beco está praticamente deserto. Há uma porta de serviço fechada à esquerda, alguns caixotes empilhados à direita e uma passagem adiante que contorna o curtume. O homem está de costas para Eron, a aproximadamente **quatro metros**, com uma das mãos apoiada no cinto.
+
+Por enquanto, Eron conseguiu a aproximação que pretendia, sem ser descoberto.
