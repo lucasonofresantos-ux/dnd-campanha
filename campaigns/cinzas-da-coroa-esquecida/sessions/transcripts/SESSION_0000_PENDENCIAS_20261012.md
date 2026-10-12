@@ -1893,3 +1893,28 @@ O desconhecido mantém as mãos erguidas. Seu olhar desce brevemente até a bols
 O barulho distante da praça continua. Por enquanto, ninguém aparece na entrada do beco.
 
 **Teste de Carisma (Intimidação): `1d20 +1`**, para determinar até que ponto a ameaça de Eron consegue pressioná-lo. O homem já revelou algumas informações; o teste decidirá como reage à exigência de continuar falando.
+
+
+## Jogador
+
+- Então quem tocou
+
+## Mestre
+
+O homem de colete verde-escuro aperta os lábios. Por um instante, parece considerar uma resposta, mas o aço na mão de Eron o faz desistir de qualquer movimento.
+
+— Não sei o nome de quem fez aquilo — murmura. — Marek não me disse.
+
+Ele respira fundo, mantendo as mãos à altura dos ombros.
+
+— Mas havia um sujeito com ele na Âncora Partida, antes de eu receber o pagamento. Um homem alto, de ombros largos, usando uma túnica escura. Ouvi Marek dizer que *a estrada precisava atrasar o anão*. O outro respondeu que cuidaria disso.
+
+O desconhecido olha rapidamente para a entrada do beco.
+
+— Não vi o que fizeram na estrada. E não posso jurar que foi aquele homem. Mas, se está procurando alguém que possa ter mexido na carroça, é por ele que eu começaria.
+
+Ele volta os olhos para Eron.
+
+— É tudo que posso lhe dizer sobre isso. Não vou inventar um nome só para me livrar da sua espada.
+
+A descrição lembra um dos homens observados na estalagem O Javali de Cobre, embora ainda não seja suficiente para confirmar que se trata da mesma pessoa.
