@@ -116,3 +116,16 @@ Enquanto Bromir conversa, Eron tem uma boa posição para observar os dois homen
 **Para avaliar o comportamento deles e tentar compreender suas intenções, faça um teste de Sabedoria (Intuição): 1d20 +4.**
 
 Eron pode observá-los sem abordá-los. O teste determinará o que consegue interpretar de seus gestos e reações, mas não revelará automaticamente seus pensamentos.
+
+
+## Jogador — solicitação literal
+
+Pode me passar os dados
+
+## Mestre — resposta
+
+[Mensagem do Mestre sem conteúdo textual visível.]
+
+## Jogador — resultado literal
+
+Teste de Intuição de Eron: 1d20 = 20, modificador +4, total 24.
