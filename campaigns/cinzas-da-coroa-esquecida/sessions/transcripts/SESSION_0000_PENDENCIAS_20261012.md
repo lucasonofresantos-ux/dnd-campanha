@@ -1373,3 +1373,56 @@ Ele volta à mesa e apoia as mãos sobre o pergaminho.
 O sargento observa Eron por um instante antes de perguntar:
 
 — **Qual era sua ocupação antes de começar a viajar?** E, se conseguir, descreva os dois homens e a mulher da estalagem. Quero saber exatamente o que você viu, não o que suspeita.
+
+
+## Jogador
+
+Bem não se preocupe com a minha segurança, mas de quem ousar se meter com os meus, não pretendo morrer nem deixar que matem este anão, por mais que eu achei que o mundo ficaria mais bonito
+
+## Mestre
+
+Bromir vira a cabeça lentamente para Eron, com uma expressão de profunda indignação.
+
+— **Mais bonito?!** Pelas barbas de Moradin, rapaz, você acabou de prometer proteger minha vida e, na mesma frase, insultou minha aparência! Não sei se devo agradecer ou cobrar uma indenização!
+
+O anão tenta manter a expressão severa, mas um sorriso escapa por entre a barba. Ele dá um leve soco no braço de Eron.
+
+— Pois saiba que pretendo continuar vivo por muitos invernos, nem que seja só para atormentar você!
+
+Haldren acompanha a troca de palavras sem interromper. Quando Bromir se aquieta, o sargento inclina-se sobre a mesa.
+
+— É bom ter alguém disposto a protegê-lo, Bromir. Mas há uma diferença entre enfrentar um assaltante na estrada e descobrir quem está por trás de uma sabotagem. O segundo pode não lhe dar a oportunidade de sacar uma espada.
+
+Antes que continue, três batidas firmes soam à porta.
+
+— Sargento? — chama a voz de Deren, do corredor. — O homem que mandou à praça voltou. Tem notícias.
+
+Haldren olha para Eron e Bromir, depois para a porta.
+
+— Entre.
+
+A porta se abre, revelando um guarda jovem, ainda recuperando o fôlego de uma caminhada apressada. Ele se aproxima da mesa, mas hesita ao perceber os dois visitantes.
+
+— Pode falar diante deles — determina Haldren. — Foram eles que identificaram o sujeito.
+
+O guarda endireita a postura.
+
+— O homem de capa castanha deixou a barraca de tecidos poucos instantes depois que entraram no posto. Seguiu pela Rua dos Oleiros e encontrou outro homem junto a uma carroça de carga. Conversaram brevemente. Não consegui ouvir o que disseram.
+
+— E depois? — pergunta Haldren.
+
+— Separaram-se. O segundo homem tomou a direção do mercado. O de capa castanha seguiu para o bairro leste. Não o acompanhei além da ponte pequena; estava sozinho e não quis ser percebido.
+
+Haldren franze a testa.
+
+— Conseguiu identificar algum deles?
+
+— Não, senhor. Mas a carroça tinha uma lona azul e uma das rodas estava pintada de branco.
+
+O sargento faz uma anotação e volta os olhos para Eron.
+
+— Parece que seu admirador tinha outros compromissos. Ainda não sabemos se isso tem relação com vocês, mas agora temos um lugar e uma carroça para procurar.
+
+Bromir resmunga:
+
+— Admirador? Pois que arranje outro. Já tenho um rapaz me insultando de graça.
