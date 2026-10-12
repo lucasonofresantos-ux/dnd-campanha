@@ -221,3 +221,48 @@ O vento sopra entre as árvores. Mais adiante, a estrada faz uma curva fechada, 
 Bromir olha para Eron, com uma expressão curiosa.
 
 — E você? Sempre viaja sozinho?
+
+## Jogador — fala literal
+
+Bandidos? Provavelmente isso caiu na mão de um preguiçoso que não quis se dar ao trabalho de investigar. Mas no momento não é problema meu.
+E espero que a sorte esteja a nosso favor nessa viagem, não estou com vontade de morrer hoje.
+Concordo uma boa refeição vai cair bem, e te ajudo a reclamar dos ferreiros kkkkk
+Na maioria do tempo viajo sozinho, mas vamos seguir em frente 
+
+## Mestre — resposta literal
+
+Bromir solta uma gargalhada que faz sua barba balançar.
+
+— Ha! Então temos três coisas em comum: gostamos de comer, desconfiamos dos ferreiros e não pretendemos morrer hoje! Já conheci companheiros de estrada com menos afinidades.
+
+Ele cospe para o lado, longe das próprias botas.
+
+— Quanto à investigação, talvez tenha razão. Ou talvez o responsável tenha encontrado alguma coisa que preferiu não contar. Seja como for, não pagam o suficiente a um comerciante para resolver mistérios.
+
+A conversa prossegue enquanto os dois contornam a curva. A chuva diminui até se transformar numa névoa fina. À esquerda, um riacho corre entre pedras cobertas de musgo; à direita, os carvalhos dão lugar a pinheiros altos. O cheiro de terra molhada mistura-se ao da lenha queimada.
+
+Pouco depois, Bromir aponta adiante com o queixo.
+
+— Olhe lá. Se meus olhos ainda prestam, aquela fumaça é do Javali de Cobre.
+
+Entre as árvores, Eron distingue uma construção de dois andares, com paredes de pedra e vigas escuras. Uma luz amarelada escapa pelas janelas do térreo. Há um estábulo ao lado e três cavalos amarrados sob uma cobertura.
+
+Mas, antes de alcançarem a entrada, uma voz masculina se ergue do outro lado da estrada.
+
+— **Parem aí!**
+
+Um homem de capa verde-escura sai de trás de uma árvore, segurando uma lança. Usa um distintivo metálico preso ao peito. Outro homem, igualmente armado, permanece alguns passos atrás, junto à cerca que delimita a propriedade.
+
+O primeiro levanta a mão aberta.
+
+— Patrulha da estrada de Caldria. Estamos verificando os viajantes que chegam depois do entardecer.
+
+Bromir suspira.
+
+— Pelas pedras de Moradin... Justamente quando começava a sentir o cheiro do jantar.
+
+O homem olha para a carroça, depois para as armas de Eron.
+
+— Seus nomes e de onde estão vindo, por favor.
+
+Bromir segura as rédeas e aguarda, sem fazer qualquer movimento brusco.
