@@ -1544,3 +1544,24 @@ Bromir sobe à carroça e recolhe as rédeas.
 A carroça deixa o pátio da ferraria e entra na rua movimentada. Eron aproveita a passagem entre as barracas e os transeuntes para observar discretamente os arredores, procurando alguém que mantenha distância constante ou acompanhe seus movimentos.
 
 **Faça um teste de Sabedoria (Percepção): `1d20 +6`.**
+
+
+## Jogador
+
+Teste de Sabedoria (Percepção) de Eron para verificar se alguém segue a carroça: 1d20 = 13, modificador +6, total 19.
+
+## Mestre
+
+**Teste de Sabedoria (Percepção): 1d20 → [13] +6 = 19.**
+
+A carroça avança pelas ruas de Caldria, acompanhada pelo rangido familiar das rodas e pelo barulho dos comerciantes anunciando suas mercadorias. Bromir conduz as rédeas, ainda resmungando sobre as duas moedas de ouro que deixou na ferraria.
+
+Eron observa os reflexos nas vitrines, as esquinas e os rostos que surgem entre a multidão. Desta vez, **não avista o homem de capa castanha** que os seguira anteriormente. Contudo, ao passarem por um pequeno largo, percebe outro detalhe: um homem de colete verde-escuro, parado junto a uma banca de cordas, acompanha a passagem da carroça com os olhos. Quando ela segue adiante, ele abandona a banca e toma a mesma direção, mantendo cerca de quarenta passos de distância.
+
+Na esquina seguinte, o desconhecido diminui o ritmo quando Bromir precisa desviar de um carro de feno. Não parece interessado nas outras mercadorias da rua. Ainda assim, Eron não consegue determinar se está realmente seguindo os dois ou se apenas percorre o mesmo caminho.
+
+Bromir percebe que Eron está atento à rua e pergunta em voz baixa:
+
+— Encontrou alguma coisa, rapaz? Ou está procurando outro ferreiro para me arruinar?
+
+À frente, a rua se divide: um caminho segue diretamente para a **Praça dos Tecelões**, enquanto outro contorna os armazéns pelo sul. O homem de colete verde permanece atrás, parcialmente encoberto pelos transeuntes.
