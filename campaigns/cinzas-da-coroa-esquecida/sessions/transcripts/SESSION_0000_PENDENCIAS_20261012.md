@@ -1937,3 +1937,25 @@ Para evitar ser seguido e perceber qualquer movimentação suspeita durante o re
 Interface interativa com dois dados d20 separados, modificadores +6 e botão para enviar ambos os resultados ao Mestre.
 
 A cena prosseguirá após os resultados, quando saberemos o que Eron consegue perceber durante o trajeto.
+
+
+## Jogador
+
+Eron retorna furtivamente à oficina de Mestre Velkan, observando se alguém o segue. Furtividade: 1d20 = 13, +6 = 19. Percepção: 1d20 = 18, +6 = 24.
+
+## Mestre
+
+**Resultados dos testes**
+
+- **Destreza (Furtividade):** 1d20 → [13] +6 = **19**
+- **Sabedoria (Percepção):** 1d20 → [18] +6 = **24**
+
+Eron abandona o beco dos curtumes por uma passagem lateral, misturando-se às sombras dos depósitos. Em vez de atravessar diretamente a praça, acompanha as fachadas das oficinas, aproveitando toldos, carroças estacionadas e grupos de trabalhadores para ocultar seus movimentos. Em dois momentos, interrompe a caminhada para observar a retaguarda. O homem de colete verde-escuro não aparece, e ninguém parece acompanhar suas mudanças de direção.
+
+Ao alcançar a Praça dos Tecelões, Eron percebe algo mais interessante: **a carroça de Bromir continua diante da oficina de Velkan, mas o homem de manto castanho que havia sido observado anteriormente não está à vista**. Perto da esquina oposta, um carregador conduz um carrinho de mão, enquanto dois aprendizes recolhem tecidos de uma banca. Nenhum deles demonstra interesse particular pela oficina. Entretanto, uma das janelas do mezanino de Velkan está ligeiramente aberta; Eron se recorda de que ela parecia fechada quando entrou no estabelecimento.
+
+Eron chega discretamente à entrada da oficina, sem identificar um perseguidor. Lá dentro, escuta a voz grave de Bromir:
+
+— Já lhe disse, mestre Velkan, não abro outra caixa dessas nem que me paguem o dobro!
+
+Velkan responde num tom mais baixo, e o ruído de uma peça metálica pousando sobre madeira interrompe a conversa. A porta da oficina está entreaberta. **Eron ainda não entrou e não consegue distinguir as palavras seguintes.**
