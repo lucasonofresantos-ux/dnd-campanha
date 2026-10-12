@@ -1,0 +1,55 @@
+# Cópia literal do estado imediatamente anterior à nova execução (2026-10-12). Histórico preservado; não é estado ativo.
+campaign_id: cinzas-da-coroa-esquecida
+campaign_number: 2
+title: As Cinzas da Coroa Esquecida
+status: sessao_zero_preparada_nao_iniciada
+session: 0
+location: "Lorn, Caldria (início proposto; chegada ainda não narrada)"
+character: Eron River
+level: 1
+hp_current: 10
+hp_max: 10
+armor_class: 15
+proficiency_bonus: 2
+movement_m: 9
+exile: "Proibido retornar a Valdrén"
+previous_campaign_isolated: true
+in_game_events: []
+active_quests: []
+npcs_present: []
+dice_rolls: []
+character_sheet_source: "imagem fornecida no chat, PDF anexo não acessível na execução"
+mechanical_review_pending: true
+transcript_status: "Sessão 0: registro inicial parcial; conferir anexos e mensagens"
+
+revision_2024:
+  background: Guarda
+  origin_feat_background: Alerta
+  origin_feat_human: Vigoroso
+  poison_resistance: false
+  hp_current_provisional: 12
+  hp_max_provisional: 12
+  pending: "Redistribuição dos atributos e validação final"
+
+player_approved_override:
+  hp_current: 10
+  hp_max: 10
+  tough_feat_active: true
+  reason: "Exceção explícita solicitada pelo jogador no nível 1"
+
+character_rebuild:
+  status: in_progress
+  new_class: Paladino
+  ruleset: "D&D 2024 / SRD 5.2.1"
+  level: 1
+  attribute_method: "6 vezes 4d6, descartar menor"
+  awaiting: "rolagens do jogador"
+  prior_mechanics_superseded: true
+  campaign_not_started: true
+
+latest_character_decision:
+  class: Ladino
+  english_class: Rogue
+  ruleset: "2024"
+  paladin_choice_superseded: true
+  ability_rolls_pending: true
