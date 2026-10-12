@@ -1217,3 +1217,27 @@ Bromir, aparentemente alheio à situação, comenta:
 — Estamos quase chegando, rapaz. O posto fica depois daquela esquina. Espero que Haldren seja mais agradável que os guardas do portão.
 
 O homem de capa castanha permanece junto ao cartaz. Ainda não percebeu que Eron o identificou.
+
+
+## Jogador
+
+Vou manter a percepção até lá 
+Bem, vai depender do que está acontecendo, mas sua cara não anima o dia de ninguém meu amigo
+
+## Mestre
+
+Bromir solta uma gargalhada e dá um tapa na própria barriga.
+
+— Minha cara?! Pelas barbas de Moradin, Eron, estou começando a achar que você só me acompanha porque encontrou alguém mais bonito para fazer você parecer um príncipe!
+
+Ele ajeita a barba com dignidade exagerada.
+
+— Helga dizia que eu tinha um rosto honesto. Um pouco amassado, talvez, mas honesto!
+
+Enquanto o anão continua resmungando sobre a falta de respeito dos jovens, Eron mantém a atenção nas ruas. Ao passarem pela esquina indicada, consegue avistar novamente o homem de capa castanha. Ele abandonou o cartaz e agora atravessa a praça, mantendo distância. Entretanto, quando vocês se aproximam do posto da guarda, o desconhecido diminui o passo e para junto a uma barraca de tecidos. Dali, observa a movimentação diante do edifício, sem continuar atrás de vocês.
+
+O posto é uma construção robusta de pedra, com o brasão de Caldria sobre a entrada. Dois guardas conversam junto à porta, enquanto uma mulher discute com um escrivão sobre mercadorias confiscadas. Um dos soldados percebe a aproximação de Eron e Bromir.
+
+— Bom dia. Vieram registrar alguma ocorrência ou procuram alguém?
+
+Bromir olha de relance para Eron, deixando que ele responda.
