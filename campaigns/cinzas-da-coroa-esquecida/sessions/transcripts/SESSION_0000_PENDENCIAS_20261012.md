@@ -1565,3 +1565,30 @@ Bromir percebe que Eron está atento à rua e pergunta em voz baixa:
 — Encontrou alguma coisa, rapaz? Ou está procurando outro ferreiro para me arruinar?
 
 À frente, a rua se divide: um caminho segue diretamente para a **Praça dos Tecelões**, enquanto outro contorna os armazéns pelo sul. O homem de colete verde permanece atrás, parcialmente encoberto pelos transeuntes.
+
+
+## Jogador
+
+- Vamos logo, quanto antes chegarmos lá melhor. E pare de reclamar das duas moedas o eixo era bom, se não fosse o pino ia durar muito tempo, pelas fornalhas dos anões até você sabe que foi um preço justo e o homem tem que comer
+
+## Mestre
+
+Bromir estala as rédeas, fazendo a carroça avançar pela rua que leva à Praça dos Tecelões.
+
+— **Pelas fornalhas dos anões?!** Agora você está invocando meus ancestrais para defender o preço de um ferreiro humano? Eron, estou começando a questionar seriamente suas amizades!
+
+O anão lança um olhar de soslaio para o companheiro, mas não consegue esconder o sorriso.
+
+— Está bem, está bem! Garrik fez um bom trabalho. O eixo era resistente, e a culpa não foi dele. Mas duas moedas de ouro continuam sendo duas moedas de ouro! Um homem pode reconhecer um serviço honesto e lamentar o preço ao mesmo tempo.
+
+A carroça entra na Praça dos Tecelões. Toldos de linho tingido balançam sobre as bancas, e o cheiro de lã úmida se mistura ao de pão recém-assado. Ao fundo, o som ritmado dos teares escapa pelas janelas abertas das oficinas. Bromir reduz a marcha, procurando as placas dos estabelecimentos.
+
+— Velkan trabalha perto daqui. Se não mudou de endereço, sua oficina fica numa travessa atrás da praça.
+
+Enquanto a carroça atravessa o movimento do mercado, Eron ainda consegue distinguir o homem de colete verde-escuro entre os pedestres. Ele chegou à entrada da praça, mas parou junto a uma banca de tecidos. Dali, observa o movimento sem se aproximar. A distância e a multidão impedem Eron de concluir se o sujeito continua interessado na carroça.
+
+Bromir aponta para uma travessa estreita, onde uma placa de madeira exibe o desenho de uma engrenagem.
+
+— Ali! **Oficina de Mestre Velkan.** Vamos descobrir por que Odran fez tanta questão de mandar aquela arca para cá.
+
+A entrada da oficina está aberta. Lá dentro, alguém trabalha com uma ferramenta de metal, produzindo pequenos golpes secos. A carroça ainda está na rua, a poucos passos da porta.
