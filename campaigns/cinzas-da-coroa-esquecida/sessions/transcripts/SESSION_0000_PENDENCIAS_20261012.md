@@ -516,3 +516,26 @@ Eu executo a rolagem e apresento o dado individual, o modificador e o total, por
 Também pode pedir vantagem (`2d20kh1`), desvantagem (`2d20kl1`), dano (`2d6+3`) ou várias rolagens. Para NPCs, o Mestre pode rolar automaticamente quando necessário, inclusive em segredo.
 
 **Não precisa pedir o botão de dados:** basta autorizar a rolagem em sua mensagem. Se preferir rolar você mesmo, continuo aguardando os valores que informar.
+
+
+## Jogador
+
+Bem vamos trancar está porta e vamos dormir, melhor garantir que as janelas estão bem trancadas também, vou com você para o ferreiro amanhã, se não fosse aquele eixo dormiria melhor hoje sem um anão roncando feito uma trovoada
+
+## Mestre
+
+Bromir solta uma gargalhada enquanto se levanta para ajudá-lo.
+
+— Ah, então a culpa é minha? Se aquele maldito ferreiro tivesse feito um eixo decente, eu estaria dormindo na minha própria cama, e você continuaria pela estrada, sozinho com essa sua simpatia!
+
+O anão examina a fechadura enquanto Eron confere as venezianas. A janela possui duas folhas de madeira e uma tranca interna de ferro. O encaixe está firme, embora o vento faça a madeira vibrar. A porta também tem um ferrolho pelo lado de dentro. Depois de verificarem ambos, Bromir corre o ferrolho e coloca a bolsa junto à cabeceira.
+
+— Pronto. Se alguém quiser entrar, terá de bater com muita educação.
+
+Ele apaga a vela e se acomoda sob o cobertor. A chuva continua tamborilando no telhado, misturada ao vento que passa pelas frestas. Por alguns minutos, o quarto permanece silencioso.
+
+Então vem o primeiro ronco.
+
+É um som grave, prolongado, semelhante ao de uma serra atravessando madeira úmida. Bromir dorme profundamente. Uma pausa... e outro ronco, ainda mais alto.
+
+Apesar do barulho, a noite prossegue sem nenhuma interrupção imediata. A estalagem vai ficando quieta, e o corredor já não apresenta o movimento de antes.
