@@ -1818,3 +1818,16 @@ O homem de colete verde guarda rapidamente o papel na bolsa e endireita o corpo.
 O trabalhador observa-o por um instante, dá de ombros e segue em direção à praça, passando pelo outro lado do beco. O homem de colete verde espera que ele se afaste antes de voltar a olhar para a passagem adiante.
 
 **Eron continua oculto, a aproximadamente três metros.** Não percebeu ninguém à sua retaguarda, e o trabalhador que surgiu não demonstrou reconhecer o desconhecido.
+
+
+## Jogador
+
+Vou me aproximar do homem de colete verde e vou colocar a adaga na garganta dele, quero render ele
+
+## Mestre
+
+O trabalhador desaparece na direção da praça. O homem de colete verde-escuro permanece junto à escada externa, de costas para os barris, aparentemente ocupado em observar a passagem adiante.
+
+Eron deixa a cobertura e avança silenciosamente, com a adaga em mãos. São apenas três metros, mas o desconhecido pode perceber a aproximação ou reagir ao contato. **A Furtividade 22 anterior permitiu chegar até aqui sem ser descoberto; ela não garante que a rendição tenha sucesso.**
+
+Para tentar dominá-lo por trás e encostar a lâmina em sua garganta antes que reaja, faça um **teste de Força (Atletismo): `1d20 +3`**. Vou resolver a resistência do homem conforme as regras, sem antecipar o resultado.
