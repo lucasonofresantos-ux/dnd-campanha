@@ -2023,3 +2023,24 @@ Nesse instante, um ruído seco vem de trás da porta: **um leve toque de metal c
 Bromir interrompe a resposta que estava prestes a dar. Velkan fica imóvel.
 
 A porta continua fechada. Eron não consegue ver quem — ou o que — produziu o som.
+
+
+## Jogador
+
+Bem Bromir você fala de mais de um martelo, espero que saiba usar, eu vou ver oque é isso, me dê os dados para furtividade
+
+## Mestre
+
+Bromir lança um olhar para a porta dos fundos e depois para Eron.
+
+— Sei usar um martelo, rapaz. E garanto que não é só para endireitar ferraduras.
+
+O anão apanha um martelo pesado da bancada de Velkan e o experimenta na mão. O artesão abre a boca para protestar, mas outro ruído abafado vindo do depósito o faz desistir.
+
+— Vá com cuidado — murmura Bromir. — Se houver alguém lá dentro, não conte com a boa educação dele.
+
+Eron se aproxima da área dos fundos, aproveitando as bancadas e as sombras projetadas pelas lamparinas. A porta permanece fechada. Ainda não é possível determinar a origem do ruído.
+
+**Teste de Destreza (Furtividade): `1d20 +6`**, para se aproximar sem alertar quem eventualmente esteja no depósito.
+
+Interface interativa de rolagem d20 +6 e envio do resultado ao Mestre.
