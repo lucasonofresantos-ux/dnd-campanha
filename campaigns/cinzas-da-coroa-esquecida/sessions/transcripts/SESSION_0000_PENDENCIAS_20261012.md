@@ -482,3 +482,37 @@ Como você pediu os dados para rolar, vou aguardar seus resultados antes de dete
 [Interface interativa de dados: dois d20, Percepção +6 e Furtividade +6; sorteio local via Math.random; botão Enviar resultados ao Mestre.]
 
 Os botões usam um sorteio local da interface, não o rolador Python com `secrets.randbelow` do projeto. Você também pode usar dados físicos e informar os resultados.
+
+
+## Jogador
+
+Eu fecho a porta ainda com a furtividade e volto, bem até agora não. Mas essa cidade vai ser animada pelo jeito
+(Como eu faço para rolar os dados da instrução)
+
+## Mestre
+
+Eron fecha a porta com cuidado, evitando que a fechadura estale, e retorna ao interior do quarto.
+
+Bromir guarda a faca, embora a deixe ao alcance da cama.
+
+— Animada? — O anão solta uma risada curta. — Eu pretendia apenas vender umas mercadorias, reclamar de um ferreiro e voltar para casa com meus bolsos mais pesados. Mas, desde que encontrei você, até dormir numa estalagem parece uma aventura.
+
+Ele se senta para tirar as botas.
+
+— Se chegarmos vivos a Caldria, vou cobrar de você uma história que justifique todo esse suspense.
+
+O vento faz as venezianas vibrarem. No corredor, os passos já desapareceram, e a estalagem parece voltar à tranquilidade habitual.
+
+## Como rolar os dados conforme a instrução do projeto
+
+A instrução prevê um **rolador Python com `secrets.randbelow()`**, que produz sorteios reais executados por código, sem escolher ou alterar resultados.
+
+Você pode simplesmente escrever:
+
+> Mestre, role 1d20+6 para a Percepção de Eron usando Python e `secrets.randbelow()`.
+
+Eu executo a rolagem e apresento o dado individual, o modificador e o total, por exemplo: `1d20 → [14] +6 = 20`. Esse número é apenas um exemplo, não uma rolagem realizada.
+
+Também pode pedir vantagem (`2d20kh1`), desvantagem (`2d20kl1`), dano (`2d6+3`) ou várias rolagens. Para NPCs, o Mestre pode rolar automaticamente quando necessário, inclusive em segredo.
+
+**Não precisa pedir o botão de dados:** basta autorizar a rolagem em sua mensagem. Se preferir rolar você mesmo, continuo aguardando os valores que informar.
