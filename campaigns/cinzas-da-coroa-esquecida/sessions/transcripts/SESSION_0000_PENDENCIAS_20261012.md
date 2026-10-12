@@ -129,3 +129,28 @@ Pode me passar os dados
 ## Jogador — resultado literal
 
 Teste de Intuição de Eron: 1d20 = 20, modificador +4, total 24.
+
+
+## Mestre — resposta literal
+
+Teste de Sabedoria (Intuição): 24
+
+`1d20 → [20] +4 = 24` — **20 natural!**
+
+Eron mantém a atenção em Bromir enquanto observa os dois homens pelo canto dos olhos. Sua experiência como investigador permite distinguir pequenos gestos que passariam despercebidos à maioria dos viajantes.
+
+O homem de ombros largos não parece particularmente interessado em Eron. Seu olhar se dirige repetidamente à entrada, e seus dedos apertam a caneca sempre que alguém passa pela porta. Há tensão em sua postura, mas não a disposição imediata de quem pretende iniciar uma briga.
+
+O companheiro magro é diferente. Ele observou Eron quando entrou, mas seus olhos se detiveram principalmente em **Bromir**. Quando o anão mencionou os anos de comércio pela região, o homem inclinou discretamente a cabeça para escutar melhor. Agora evita olhar diretamente para a mesa de vocês.
+
+Eron percebe também que os dois não estão inteiramente à vontade um com o outro. O homem largo parece inquieto e impaciente; o magro conserva uma calma deliberada, embora mantenha uma das mãos fora da vista, sob a mesa.
+
+A impressão mais forte é que **eles aguardam alguma coisa ou alguém**. O homem magro pode ter reconhecido Bromir, ou pelo menos demonstrado interesse por sua presença. Não há evidência suficiente para concluir que pretendam atacar vocês.
+
+Nesse momento, o estalajadeiro aproxima-se trazendo duas tigelas fumegantes e uma cesta de pão.
+
+— Aqui está. E nada de discutir negócios antes de comer, Bromir!
+
+— Não faço promessas! — responde o anão, puxando uma tigela para perto.
+
+O homem magro murmura alguma coisa ao companheiro. O de ombros largos lança mais um olhar à porta.
