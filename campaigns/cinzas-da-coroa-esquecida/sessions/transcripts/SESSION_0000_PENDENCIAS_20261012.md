@@ -1304,3 +1304,37 @@ O sargento apoia os antebraços sobre a mesa. Sua expressão agora é séria.
 ## Jogador
 
 (faça a conferência do git Hub e registrei oque falta registrar)
+
+
+## Jogador
+
+Estava falando com o sargento haldren
+-antes de tudo oque está acontecendo exatamente, sei que a patrulha não está agitada por nada
+
+## Mestre
+
+Haldren permanece em silêncio por alguns instantes. Seus dedos batem duas vezes na madeira da mesa antes de ele se inclinar para a frente.
+
+— Não, Eron. Não estamos mobilizando patrulhas por causa de alguns ladrões de estrada.
+
+O sargento lança um olhar para Bromir e continua, em tom mais baixo:
+
+— Há cerca de duas semanas, uma caravana desapareceu na estrada do norte. Três carroças, seis homens e dois guardas contratados. Encontramos uma das carroças abandonada, mas nenhum sinal dos homens ou dos animais. Até agora, ninguém apareceu para reclamar a carga ou pedir notícias dos desaparecidos.
+
+Ele se recosta na cadeira.
+
+— Depois, tivemos o caso de uma propriedade ao norte de Caldria. O proprietário desapareceu. Encontramos sangue e marcas de algo sendo arrastado pelo chão. Estamos procurando dois homens vistos nas proximidades, um deles mancando. Ainda não temos provas de que sejam responsáveis.
+
+Bromir deixa de brincar com a ponta da barba.
+
+— Pelas pedras ancestrais... Oito homens desaparecidos, e agora mais um?
+
+— Pelo menos nove pessoas, se contarmos o proprietário — responde Haldren. — E ontem encontramos um cavalo sem cavaleiro, com a correia da sela rompida. Estamos tentando descobrir de onde veio.
+
+O sargento volta a encarar Eron.
+
+— É por isso que estamos verificando viajantes, estalagens e mercadorias. Não sabemos se estamos diante de crimes relacionados ou de acontecimentos distintos. E, enquanto não soubermos, prefiro que meus homens façam perguntas demais a encontrar outra carroça abandonada.
+
+Ele entrelaça os dedos sobre a mesa.
+
+— Agora me diga uma coisa, Eron: por que um viajante que chegou ontem à cidade se interessou tanto pela movimentação da guarda?
