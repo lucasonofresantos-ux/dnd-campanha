@@ -202,3 +202,32 @@ O homem largo abaixa a cabeça. Seu companheiro toma um gole da caneca, encerran
 — Pelas barbas de Moradin, isto está bom! — exclama. — Se não comer logo, rapaz, vou acabar pedindo a sua porção também.
 
 A comida ainda fumega sobre a mesa. Os dois desconhecidos permanecem junto à lareira, e nenhum deles parece ter percebido que Eron escutou a conversa.
+
+
+## Jogador — fala literal
+
+Anão ganancioso, deixe eu comer o meu em paz, não íamos reclamar dos ferreiros?
+
+## Mestre — resposta literal
+
+Bromir interrompe a colherada e encara Eron com uma expressão de profunda indignação.
+
+— Ganancioso?! Eu ofereço jantar, companhia e a sabedoria acumulada de quase vinte anos de comércio, e é assim que sou tratado?
+
+Ele sustenta a expressão por dois segundos antes de cair na gargalhada.
+
+— Muito bem! Falemos dos ferreiros. Conheci um sujeito em Caldria que jurava fazer os melhores eixos de carroça de todo o vale. Cobrou-me o preço de uma pequena propriedade por aquele maldito eixo. E veja só onde fui parar: atolado na estrada, dependendo de um mercenário esfomeado para não passar a noite na lama!
+
+O anão aponta a colher para Eron.
+
+— Amanhã vou encontrar esse charlatão. E você devia vir comigo. Quero uma testemunha quando ele tentar dizer que a culpa foi da estrada!
+
+Uma criada passa trazendo canecas de cerveja. Bromir aproveita para pedir duas, mas acrescenta:
+
+— Uma para mim e outra para o rapaz, se ele quiser. E ponha na minha conta, antes que ele me chame de avarento também!
+
+Perto da lareira, o homem magro se levanta. Ele troca algumas palavras baixas com o companheiro, ajeita a túnica e caminha até o balcão, onde passa a conversar com o estalajadeiro. O homem de ombros largos permanece sentado, olhando ocasionalmente para a porta.
+
+Bromir mergulha outro pedaço de pão no ensopado.
+
+— Mas diga uma coisa, Eron. Depois de Caldria, para onde pretende seguir? Ou está deixando a estrada decidir por você?
