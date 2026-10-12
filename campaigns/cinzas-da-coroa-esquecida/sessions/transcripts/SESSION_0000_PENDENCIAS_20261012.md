@@ -1611,3 +1611,34 @@ O anão desce os olhos para a arca lacrada na carroça.
 Da oficina vem uma sequência de batidas metálicas, seguida pelo ruído de uma ferramenta sendo pousada sobre madeira.
 
 — Seja lá o que for — acrescenta Bromir —, espero que Velkan esteja em casa e tenha o pagamento pronto. Já gastei ouro demais nesta cidade.
+
+
+## Jogador
+
+(nos entramos e eu fico em silêncio observando, rolê percepção para mim com o python do Github, quero analisar a oficina e se tem alguém espiando)
+
+## Mestre
+
+**Sabedoria (Percepção): 1d20 → [17] +6 = 23**
+
+Rolagem real executada em Python, com o código do rolador do GitHub e `secrets.randbelow()`.
+
+Eron e Bromir atravessam a soleira carregando a arca. A oficina é estreita, porém profunda, iluminada por janelas altas e duas lamparinas. Sobre as bancadas repousam engrenagens de bronze, molas, fechaduras desmontadas e ferramentas de precisão. Há uma porta fechada nos fundos e uma escada que sobe para um pequeno mezanino, onde caixas de madeira se acumulam sob um pano empoeirado.
+
+Enquanto Bromir conversa com Velkan, Eron examina o ambiente em silêncio. Com sua atenção aguçada, percebe que **há duas canecas sobre a bancada lateral**: uma ainda contém um pouco de bebida, e a outra está quase cheia. Perto da porta dos fundos, marcas recentes de sola atravessam a poeira do chão. Nada disso prova que exista outra pessoa ali, mas sugere atividade além do trabalho solitário que Velkan aparentava realizar.
+
+O detalhe mais importante, porém, está do lado de fora. Pela janela lateral, Eron distingue por um instante **o mesmo colete verde-escuro** entre os tecidos pendurados numa banca. O homem mudou de posição desde a última observação e agora consegue enxergar a entrada da oficina sem permanecer diretamente diante dela. Quando um freguês passa, o desconhecido recua para trás dos panos.
+
+Velkan indica uma bancada reforçada.
+
+— Coloquem aqui, por gentileza.
+
+Bromir acomoda sua extremidade da arca sobre a madeira e olha para o artesão.
+
+— Entrega de Odran, conforme combinado. Imagino que queira conferir o lacre antes de me pagar.
+
+Velkan aproxima a lamparina e examina a marca de cera, sem ainda rompê-la.
+
+— Sim. Primeiro preciso verificar uma coisa.
+
+Ele passa o polegar pela borda do lacre. Seu rosto permanece sério.
