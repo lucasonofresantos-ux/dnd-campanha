@@ -2161,3 +2161,24 @@ A resposta encerra a discussão.
 Isso não significa necessariamente que seja o chefe de toda a organização. Pelo que disseram, **Marek continua sendo uma autoridade acima dele**, ou ao menos a pessoa que lhes deu a missão.
 
 O homem 3 permanece a aproximadamente **9 metros de Eron**, com uma lâmina curta no cinturão. Nenhum dos intrusos percebeu sua presença.
+
+
+## Jogador
+
+Vem cá eu consigo atirar uma flecha no pé dele, acredito que deve ser assoalho de madeira, uma flecha no pé vai virar um prego pois vai doença na madeira, ele não vai conseguir se mover depois disso
+
+## Mestre
+
+É uma manobra possível, Eron. E sua ideia tem fundamento: **o piso do depósito é de tábuas de madeira**, e uma flecha que atravesse o pé e se enterre no assoalho poderia dificultar bastante a movimentação do homem.
+
+Há, porém, três fatores importantes.
+
+Primeiro, o líder está a aproximadamente **9 metros**, distância perfeitamente adequada ao seu arco curto. Segundo, Eron está oculto, e o homem ainda não percebeu sua presença, o que pode conceder **vantagem no ataque**. Terceiro, neste momento Eron está segurando a espada curta e a adaga: precisaria guardá-las ou soltá-las para empunhar o arco e disparar.
+
+**Pelas regras de D&D 5E, acertar um ataque não imobiliza automaticamente o alvo.** Atingir especificamente o pé e prendê-lo ao assoalho seria uma manobra especial, adjudicada pelo Mestre, e não um efeito padrão do arco.
+
+Posso permitir a tentativa com estas condições: um ataque à distância contra o pé, mais difícil que um disparo comum; se acertar, a flecha causará dano e poderá prender temporariamente o pé ao piso. O homem ainda poderá tentar libertar-se, arrancar a flecha ou receber ajuda. Não há garantia de imobilização permanente.
+
+E há outro risco: **o disparo provavelmente denunciará a presença de Eron**, mesmo que acerte.
+
+O líder permanece junto à passagem dos fundos, sem perceber o perigo. Eron ainda está oculto, com a espada curta e a adaga nas mãos. **Nenhum disparo foi realizado.**
