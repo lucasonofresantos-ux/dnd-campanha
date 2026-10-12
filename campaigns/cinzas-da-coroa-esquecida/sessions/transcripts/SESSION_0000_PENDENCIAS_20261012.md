@@ -910,3 +910,40 @@ Garrik ergue a cabeça e olha para Eron.
 — Você estava com ele quando a roda cedeu, não estava? Viu alguma coisa estranha no conjunto antes de fazerem o reparo?
 
 Bromir também se volta para Eron, aguardando sua resposta.
+
+
+## Jogador
+
+Não, quando eu o encontrei ele já estava reclamando, bem ele sempre reclama mas dessa vez era da carroça ter quebrado
+
+## Mestre
+
+Bromir leva a mão ao peito, fingindo estar profundamente ofendido.
+
+— Eu não reclamo! Apenas faço observações muito pertinentes sobre a incompetência alheia!
+
+Garrik solta uma risada pelo nariz, mas continua examinando o eixo.
+
+— Conheço esse anão há vinte anos, Eron. Posso garantir que você está sendo generoso.
+
+— Dois contra um? Na minha própria reclamação? — resmunga Bromir.
+
+O ferreiro pede ao aprendiz que traga uma lamparina e a aproxima dos sulcos no metal. Com a ponta de uma ferramenta, acompanha cuidadosamente uma das marcas.
+
+— Escutem. Não posso dizer quando isto aconteceu, mas alguém parece ter trabalhado neste encaixe depois que saiu da minha oficina. A marca é estreita e profunda demais para ter sido causada apenas pelo movimento da roda.
+
+Ele se endireita, limpando a fuligem dos dedos.
+
+— Bromir, onde deixou essa carroça nos últimos dias? Em algum pátio, armazém ou estábulo?
+
+O anão franze a testa.
+
+— Em vários lugares. Fiz entregas em Pulgueiro, passei por duas aldeias e dormi em estalagens pelo caminho. Não fico vigiando minha carroça a noite inteira!
+
+Garrik cruza os braços.
+
+— Então ainda não sabemos o que aconteceu. Posso desmontar o encaixe e examinar a peça por dentro. Vai levar algum tempo, mas talvez consiga descobrir se houve apenas desgaste ou alguma intervenção.
+
+Bromir olha para o eixo, depois para Eron.
+
+— Pois parece que nossa visita vai demorar mais do que eu esperava...
