@@ -1299,3 +1299,8 @@ Bromir acomoda-se numa cadeira, que range sob seu peso.
 O sargento apoia os antebraços sobre a mesa. Sua expressão agora é séria.
 
 — Estamos a portas fechadas, Eron. **O que deseja me contar?**
+
+
+## Jogador
+
+(faça a conferência do git Hub e registrei oque falta registrar)
