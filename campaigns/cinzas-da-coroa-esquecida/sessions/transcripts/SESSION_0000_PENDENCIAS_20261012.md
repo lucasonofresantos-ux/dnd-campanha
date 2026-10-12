@@ -668,3 +668,12 @@ Enquanto Bromir conversa, o sargento continua junto ao balcão, examinando o liv
 **Teste de Sabedoria (Percepção): `1d20 +6`**
 
 Role **1d20** e me diga o resultado natural. Vou considerar que Eron continua conversando e comendo normalmente para não chamar atenção; não é necessário um teste separado de Furtividade neste momento.
+
+
+## Jogador
+
+Os dados por favor
+
+## Mestre — transcrição textual da resposta com controle interativo
+
+Teste de Sabedoria (Percepção) — Eron. Role 1d20. Seu modificador é +6. O resultado determinará quanto Eron consegue ouvir da conversa entre o sargento e Harl. Foi disponibilizado um botão interativo de d20, com opção de enviar o resultado ao Mestre. O botão usa sorteio local; para Python com secrets.randbelow(), o jogador pode pedir ao Mestre que role.
