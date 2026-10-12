@@ -1028,6 +1028,51 @@ Bromir lança um olhar desconfortável para a carga coberta pela lona.
 
 ## Jogador
 
+Venha cá oque trás aqui para alguém querer te colocar de baixo de uma carroça 
+
+## Mestre
+
+Bromir olha para Eron, depois para a lona que cobre a carga.
+
+— Debaixo de uma carroça? Rapaz, se alguém quiser me matar, espero que tenha a decência de usar um método menos humilhante!
+
+Ele solta uma risada breve, mas percebe que a pergunta merece uma resposta séria.
+
+— Trago o de sempre. Ferramentas, ferragens, tecidos, alguns utensílios de cozinha e encomendas de comerciantes. Nada que justifique uma tentativa de assassinato, pelo menos não pelos preços que cobro!
+
+Garrik ergue uma sobrancelha.
+
+— Isso depende de quem está pagando.
+
+— Muito engraçado, Garrik.
+
+Bromir aproxima-se da carroça e levanta uma ponta da lona. Sob ela, Eron vê caixas de madeira, dois fardos envolvidos em tecido encerado e um pequeno baú reforçado com tiras de ferro.
+
+— A maior parte vai para três comerciantes daqui de Caldria. O baú contém peças de metal encomendadas por um artesão. Está fechado desde que o recebi em Pulgueiro.
+
+Ele torna a cobrir a carga.
+
+— Não transporto joias de reis nem tesouros de dragões, Eron. E, se transportasse, cobraria muito mais!
+
+Garrik cruza os braços.
+
+— Quem lhe entregou esse baú?
+
+Bromir hesita por um instante, procurando lembrar.
+
+— Um homem chamado **Odran**. Trabalha como intermediário de mercadorias em Pulgueiro. Já fiz entregas para ele antes.
+
+O ferreiro olha para Eron, depois para o baú.
+
+— Então talvez seja prudente conferir se a encomenda corresponde ao que lhe disseram.
+
+Bromir esfrega a barba.
+
+— Hm. Isso, ou alguém simplesmente me odeia mais do que eu imaginava.
+
+
+## Jogador
+
 Bem acho que aqui vai demorar um pouco, qual era o nome mesmo do chef da patrulha? E pelos deuses você não tentou estorqui ele com os seus preços
 
 ## Mestre
