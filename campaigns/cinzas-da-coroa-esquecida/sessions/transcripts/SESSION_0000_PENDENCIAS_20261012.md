@@ -1769,3 +1769,29 @@ Eron permanece agachado atrás dos barris, a cerca de três metros do homem de c
 **Teste de Sabedoria (Percepção): `1d20 +6`.**
 
 Interface interativa local para rolar 1d20, somar +6 e enviar o resultado ao Mestre.
+
+
+## Jogador
+
+Teste de Sabedoria (Percepção) de Eron para analisar o beco e verificar se há alguém vigiando: 1d20 = 20, modificador +6, total 26.
+
+## Mestre
+
+**Sabedoria (Percepção): 1d20 → [20] +6 = 26**
+
+20 natural — resultado excepcional.
+
+Agachado atrás dos barris, Eron deixa os olhos percorrerem lentamente o beco. A luz da tarde alcança apenas a parte superior das paredes, deixando o chão entre faixas de sombra. O gotejar da calha, o ranger distante dos teares e os passos ocasionais na rua ajudam a distinguir qualquer som fora do lugar.
+
+Com sua atenção aguçada, Eron identifica vários detalhes:
+
+- **À esquerda:** o muro de pedra dá para um pátio de curtimento. Não há ninguém visível atrás dele, mas o portão de acesso fica além da esquina.
+- **À direita:** a porta de serviço está fechada. A poeira acumulada junto à soleira não apresenta marcas recentes de passagem.
+- **Acima:** uma janela entreaberta no segundo andar oferece visão parcial do beco. A cortina está imóvel, e Eron não identifica nenhuma pessoa ali.
+- **Adiante:** a passagem contorna o curtume. Há marcas recentes de botas no chão úmido, mas não é possível determinar quantas pessoas passaram por ali.
+
+O homem de colete verde-escuro continua junto à escada externa, a aproximadamente três metros. Agora, porém, Eron percebe algo que havia passado despercebido: **ele está segurando um pequeno papel dobrado**, retirado da bolsa do cinto. Examina-o rapidamente e depois olha para a passagem adiante.
+
+Mais importante: ao prestar atenção aos sons, Eron distingue passos do outro lado da esquina, além do desconhecido. São passos de alguém caminhando sem pressa, ainda fora de vista. Não há indícios suficientes para saber se essa pessoa tem alguma ligação com o homem.
+
+**Neste trecho do beco, Eron não identifica nenhum vigia escondido nem alguém apontando uma arma para ele.** Sua posição continua discreta, mas a aproximação de outra pessoa pode alterar a situação em poucos instantes.
