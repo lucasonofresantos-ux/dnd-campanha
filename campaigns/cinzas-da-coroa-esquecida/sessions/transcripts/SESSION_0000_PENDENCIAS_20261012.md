@@ -587,3 +587,38 @@ O anão dá duas batidinhas no batente da porta.
 — Vamos descer. Falar de minha querida Helga me abriu o apetite. E não pense que vou pagar seu desjejum também, seu aproveitador!
 
 Ao abrirem a porta, o corredor está iluminado pela luz da manhã. Do andar inferior chegam o tilintar de pratos, conversas e o cheiro de pão quente com manteiga. Bromir começa a descer a escada, ainda sorrindo discretamente.
+
+
+## Jogador
+
+Sem problema, depois de salvar sua vida eu cobro kkkkk, mas vamos logo, não quero ver se seu estômago ronca tão alto quanto sua boca
+
+## Mestre
+
+Bromir desce os últimos degraus soltando uma gargalhada.
+
+— Salvar minha vida? Pelas barbas de Moradin, agora está cobrando por serviços que ainda nem prestou! Você daria um excelente comerciante, Eron. Um péssimo amigo, mas um excelente comerciante!
+
+O salão do **Javali de Cobre** está bem mais tranquilo que na noite anterior. A luz da manhã atravessa as janelas, iluminando as mesas de madeira. O estalajadeiro serve pão fresco, queijo, ovos e cerveja fraca a alguns viajantes. Os dois homens que Eron observou na noite anterior não estão à vista. Perto da entrada, um cocheiro conversa com uma mulher de cabelos grisalhos sobre as condições da estrada para Caldria.
+
+Bromir escolhe uma mesa próxima à janela e se acomoda.
+
+— Dois desjejuns! — anuncia ao estalajadeiro. Depois olha para Eron. — Cada um paga o seu, naturalmente. Não pretendo financiar sua vida inteira.
+
+O estalajadeiro aproxima-se, limpando as mãos no avental.
+
+— Pão, queijo, ovos e uma bebida quente. **Três peças de prata por pessoa.** A estrada para Caldria está razoável, mas ouvi dizer que a patrulha está fazendo perguntas desde ontem.
+
+Bromir ergue uma sobrancelha.
+
+— Perguntas? Sobre o quê?
+
+O homem olha rapidamente para os outros hóspedes antes de responder:
+
+— Dois sujeitos desaparecidos, pelo que dizem. E parece que encontraram sangue numa propriedade ao norte da estrada. Mas não sei muito mais que isso.
+
+Bromir troca um olhar com Eron, reconhecendo a descrição dos acontecimentos mencionados pelos patrulheiros na noite anterior.
+
+— Hum... Então ainda estão procurando aqueles homens.
+
+O estalajadeiro permanece junto à mesa, aguardando o pedido.
