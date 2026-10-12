@@ -12,3 +12,6 @@ Estado: RASCUNHO, não substituir arquivos da campanha ativa global nem a ficha 
 
 ## Escolha confirmada — Humano 2024
 Perícia adicional pela característica Habilidoso: **Sobrevivência**, bônus **+4** (SAB +2, proficiência +2). Escolha expressa pelo jogador. Talento de Origem adicional da característica Versátil ainda pendente.
+
+## Escolha confirmada — Talento de Origem do Humano
+**Tenaz (Tough)** escolhido expressamente pelo jogador para a característica Versátil do Humano 2024. Acrescenta +2 PV máximos por nível. Ladino nível 1 com CON 13 (+1): PV base 8+1=9, Tenaz +2, **PV máximos 11/11**. Não possui Sortudo. Antecedente Guarda concede Alerta separadamente.
