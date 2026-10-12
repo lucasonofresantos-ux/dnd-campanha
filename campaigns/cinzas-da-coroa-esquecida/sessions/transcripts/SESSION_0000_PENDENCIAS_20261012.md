@@ -2000,3 +2000,26 @@ Ele aponta para uma linha quase invisível junto ao encaixe hexagonal.
 — Ainda não sei o que isso significa. Mas alguém parece ter tentado manipulá-lo antes de chegar às minhas mãos.
 
 Eron não vê nenhuma pessoa escondida na parte térrea da oficina. O mezanino, porém, está parcialmente encoberto pelas caixas e pela estrutura da escada; não é possível verificar todos os seus cantos dali.
+
+
+## Jogador
+
+E quem está lá trás?
+
+## Mestre
+
+Velkan acompanha o olhar de Eron até a porta dos fundos.
+
+— Lá atrás? — Ele franze a testa. — Ninguém deveria estar lá. É meu depósito de materiais. Eu estava trabalhando aqui com Bromir.
+
+O anão descruza os braços e olha na mesma direção.
+
+— Eu ouvi alguma coisa enquanto você estava fora, rapaz. Madeira rangendo, talvez uma porta. Pensei que fosse o velho subindo as escadas.
+
+— E eu pensei que fosse você mexendo nas caixas — retruca Velkan.
+
+Nesse instante, um ruído seco vem de trás da porta: **um leve toque de metal contra madeira**.
+
+Bromir interrompe a resposta que estava prestes a dar. Velkan fica imóvel.
+
+A porta continua fechada. Eron não consegue ver quem — ou o que — produziu o som.
