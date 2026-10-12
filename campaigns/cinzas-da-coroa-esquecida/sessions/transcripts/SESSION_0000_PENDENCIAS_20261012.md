@@ -456,3 +456,29 @@ Bromir solta o ar lentamente.
 — Pelas forjas de Moradin... — murmura. — Acho que desta vez não era comigo.
 
 Ele não guarda a faca. No corredor, uma porta se fecha com um estalo seco.
+
+
+## Jogador
+
+(tente novamente)
+Bem mas acho bom dormir com a adaga no travesseiro, vou dar uma espiada no corredor.
+Vou jogar percepção 1d20+6 e furtividade também, me dê os dados conforme a instrução do projeto 
+
+## Mestre
+
+Bromir lança um olhar para a adaga de Eron.
+
+— Debaixo do travesseiro? Boa ideia. Mas cuidado para não acordar com a orelha furada, rapaz.
+
+O anão permanece no quarto, com a faca ao alcance da mão, enquanto Eron se prepara para espiar o corredor. A lamparina continua acesa lá fora, e as tábuas antigas podem ranger sob qualquer passo descuidado.
+
+Para observar sem chamar atenção, faça dois testes:
+
+- **Sabedoria (Percepção): `1d20 + 6`** — identificar movimentos, vozes e detalhes no corredor.
+- **Destreza (Furtividade): `1d20 + 6`** — aproximar-se e observar sem ser notado.
+
+Como você pediu os dados para rolar, vou aguardar seus resultados antes de determinar o que Eron descobre.
+
+[Interface interativa de dados: dois d20, Percepção +6 e Furtividade +6; sorteio local via Math.random; botão Enviar resultados ao Mestre.]
+
+Os botões usam um sorteio local da interface, não o rolador Python com `secrets.randbelow` do projeto. Você também pode usar dados físicos e informar os resultados.
