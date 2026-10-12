@@ -760,3 +760,32 @@ Após algum tempo, Bromir aponta com o queixo para uma elevação adiante. Por e
 A carroça avança lentamente até a fila. Bromir inclina-se um pouco na direção de Eron.
 
 — Se demorarem muito, talvez eu comece a cobrar deles pelo tempo perdido.
+
+
+## Jogador
+
+Bem acho que era mais que só dois desaparecidos, Bromir a cada cinco palavras suas duas são de moedas
+
+## Mestre
+
+Bromir vira o rosto para Eron, fingindo indignação.
+
+— Duas em cada cinco? Que absurdo! Pelo menos três, rapaz. Tenho uma reputação a zelar!
+
+O anão solta uma gargalhada, mas logo observa a fila à frente.
+
+— Quanto aos desaparecidos... talvez tenha razão. Nunca vi tantos guardas preocupados com dois homens. Mas não vou me meter em assunto de patrulha sem necessidade.
+
+A carroça à frente finalmente avança. Um guarda de cota de malha abre espaço para que o próximo veículo se aproxime, enquanto outro anota alguma coisa numa tabuleta. Perto do portão, uma mulher discute com um soldado, apontando para dois sacos de farinha abertos durante a inspeção.
+
+Bromir estala as rédeas suavemente. O burro puxa a carroça até a barreira, onde um guarda jovem, com o rosto marcado por sardas, ergue a mão.
+
+— Bom dia. Nome, procedência e motivo da visita.
+
+— Bromir, mercador. Venho das estradas de Pulgueiro. Tenho entregas na cidade e uma reclamação a fazer a um ferreiro incompetente.
+
+O guarda não sorri. Seus olhos passam das caixas amarradas à carroça para Eron.
+
+— E seu acompanhante? Viajam juntos desde onde?
+
+Bromir olha de lado para Eron, deixando que ele responda por si.
