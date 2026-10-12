@@ -970,3 +970,38 @@ O ferreiro balança a cabeça, sorrindo, e retorna ao trabalho. O aprendiz come�
 Bromir se aproxima um pouco de Eron e fala num tom menos brincalhão:
 
 — Por que a pergunta, rapaz? Está pensando em me visitar ou acha que devo voltar para casa enquanto essa confusão não passa?
+
+
+## Jogador
+
+Bem acho que aqui vai demorar um pouco, qual era o nome mesmo do chef da patrulha? E pelos deuses você não tentou estorqui ele com os seus preços
+
+## Mestre
+
+Bromir observa Garrik e Toman trabalhando sob a carroça, depois se volta para Eron.
+
+— **Haldren**, rapaz. Sargento Haldren. É ele quem está comandando essa investigação, pelo que ouvimos. Se pretende falar com a guarda, o posto fica perto da praça central.
+
+Ao ouvir a segunda pergunta, o anão leva a mão ao peito, indignado.
+
+— **Extorquir?!** Pelas barbas de Moradin! Eu sou um comerciante honesto!
+
+Garrik solta uma gargalhada sem tirar os olhos do eixo.
+
+— Honesto? Na última vez que veio aqui, tentou me vender uma caixa de pregos pelo dobro do preço!
+
+— Pregos de excelente qualidade! — protesta Bromir. — E você queria pagar como se fossem gravetos enferrujados!
+
+— Eram pregos que você comprou de mim na semana anterior!
+
+Toman não consegue conter o riso. Bromir aponta um dedo acusador para Garrik, mas acaba rindo também.
+
+— Está bem, está bem! Talvez eu tenha tentado conseguir um pequeno lucro. Mas nunca vendi nada ao sargento Haldren, que eu me lembre.
+
+Garrik ergue a cabeça.
+
+— Se quiserem procurar o sargento, podem ir. Vou precisar de pelo menos mais uma hora para terminar o reparo. Só não deixem a carroça aqui até o inverno, Bromir.
+
+— Uma hora?! — exclama o anão. — Espero que não esteja cobrando por cada martelada!
+
+O ferreiro responde com outra martelada, deliberadamente mais forte.
