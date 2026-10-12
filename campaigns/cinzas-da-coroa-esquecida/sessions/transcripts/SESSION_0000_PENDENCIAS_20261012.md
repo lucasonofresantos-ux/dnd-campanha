@@ -2088,3 +2088,24 @@ As duas vozes continuam discutindo em tom baixo. Uma delas parece vir de perto d
 **Você pode aproveitar a Furtividade 26 já obtida para tentar entrar.** Não vou exigir outra rolagem imediatamente, pois Eron ainda está realizando a mesma aproximação furtiva. Isso não garante que permanecerá oculto caso atravesse uma área iluminada ou entre no campo de visão dos intrusos.
 
 Eron continua junto à porta, sem ser detectado. A decisão de atravessá-la permanece com você.
+
+
+## Jogador
+
+Consegue me mandar um layout com a posição deles e a saída e os objetos?
+
+## Mestre
+
+Sim. Este é o **layout tático aproximado do depósito de Velkan**, visto de cima, com base na Percepção 22 de Eron. As distâncias são estimadas; as estantes e os caixotes bloqueiam parcialmente a visão.
+
+**Depósito — vista superior (esquema visual):** planta retangular com passagem desconhecida coberta por cortina de lona na parede do fundo; duas estantes laterais; mesa com lamparina ao fundo à direita; baú aberto na porção central-esquerda; pilhas de caixotes na porção próxima à entrada; Eron oculto atrás dos caixotes, junto à porta que conduz à oficina. Homem 1 perto do baú, homem 2 perto da estante à direita, homem 3 junto à passagem ao fundo. Esquema sem escala exata.
+
+| Pessoa | Posição | Distância de Eron |
+|---|---|---|
+| 1 — Casaco castanho | Próximo ao baú aberto, punhal | 4 m |
+| 2 — Gibão escuro | Próximo às estantes, espada curta | 6 m |
+| 3 — Homem ao fundo | Junto à passagem com cortina, lâmina curta | 9 m |
+
+A **porta de entrada**, atrás de Eron, conduz à oficina onde estão Bromir e Velkan. A **passagem ao fundo**, próxima do homem 3, pode servir de rota de fuga, mas Eron ainda não sabe aonde leva.
+
+A disposição é a última observada; os intrusos podem mudar de posição assim que alguma coisa chamar sua atenção.
