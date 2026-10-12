@@ -364,3 +364,20 @@ Bromir detém o burro junto ao estábulo e se volta para Eron.
 A porta da estalagem se abre, deixando escapar uma onda de calor, cheiro de pão assado e vozes animadas. Um homem de cabelos grisalhos sai, ajeitando a capa sobre os ombros, e segue pelo pátio sem prestar atenção aos recém-chegados.
 
 Bromir começa a desatrelar o burro, assobiando baixinho.
+
+
+## Jogador — ação literal
+
+Vou rolar um teste de percepção para ver se alguém nos segue ou se tem algo de interessante aí redor assim tenho uma leitura do ambiente
+
+## Mestre — resposta e interface de rolagem
+
+Eron permanece no pátio do **Javali de Cobre**, enquanto Bromir cuida do burro. A luz das janelas ilumina parte do chão enlameado, mas os estábulos, a estrada e as árvores ao redor já estão mergulhados nas sombras do anoitecer.
+
+Para observar discretamente o movimento dos hóspedes, procurar sinais de alguém seguindo a carroça e identificar detalhes incomuns nas proximidades, faça um **teste de Sabedoria (Percepção)**.
+
+**Role 1d20 +6**, conforme a ficha de Eron.
+
+[Rolador interativo exibido: Percepção de Eron, 1d20 +6, botão Rolar d20 e Enviar resultado ao Mestre.]
+
+O resultado determinará o que Eron consegue perceber. **Ainda não há confirmação de que alguém esteja seguindo vocês.**
