@@ -1592,3 +1592,22 @@ Bromir aponta para uma travessa estreita, onde uma placa de madeira exibe o dese
 — Ali! **Oficina de Mestre Velkan.** Vamos descobrir por que Odran fez tanta questão de mandar aquela arca para cá.
 
 A entrada da oficina está aberta. Lá dentro, alguém trabalha com uma ferramenta de metal, produzindo pequenos golpes secos. A carroça ainda está na rua, a poucos passos da porta.
+
+
+## Jogador
+
+- Com oque Velkan trabalha mesmo?
+
+## Mestre
+
+Bromir olha para a placa da engrenagem enquanto prende as rédeas.
+
+— Velkan? É um **artesão especializado em mecanismos e peças de precisão**. Engrenagens, fechaduras, pequenos dispositivos... Trabalhos delicados demais para um ferreiro comum.
+
+O anão desce os olhos para a arca lacrada na carroça.
+
+— Nunca negociei diretamente com ele. Foi Odran quem me entregou essa encomenda em Pulgueiro e pediu que a trouxesse até aqui. Não faço ideia do que há dentro.
+
+Da oficina vem uma sequência de batidas metálicas, seguida pelo ruído de uma ferramenta sendo pousada sobre madeira.
+
+— Seja lá o que for — acrescenta Bromir —, espero que Velkan esteja em casa e tenha o pagamento pronto. Já gastei ouro demais nesta cidade.
