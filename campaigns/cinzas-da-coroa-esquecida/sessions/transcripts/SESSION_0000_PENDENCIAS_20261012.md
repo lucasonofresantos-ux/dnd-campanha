@@ -1756,3 +1756,16 @@ Pouco depois, o desconhecido deixa a praça por uma passagem estreita entre um d
 O beco está praticamente deserto. Há uma porta de serviço fechada à esquerda, alguns caixotes empilhados à direita e uma passagem adiante que contorna o curtume. O homem está de costas para Eron, a aproximadamente **quatro metros**, com uma das mãos apoiada no cinto.
 
 Por enquanto, Eron conseguiu a aproximação que pretendia, sem ser descoberto.
+
+
+## Jogador
+
+Me dê os dados vou rolar percepção para analisar o ambiente e se tem alguém vigiando
+
+## Mestre
+
+Eron permanece agachado atrás dos barris, a cerca de três metros do homem de colete verde-escuro. Antes de se aproximar, examina o beco, as janelas, a escada externa e as possíveis rotas de fuga, procurando qualquer sinal de alguém escondido ou mantendo vigilância.
+
+**Teste de Sabedoria (Percepção): `1d20 +6`.**
+
+Interface interativa local para rolar 1d20, somar +6 e enviar o resultado ao Mestre.
