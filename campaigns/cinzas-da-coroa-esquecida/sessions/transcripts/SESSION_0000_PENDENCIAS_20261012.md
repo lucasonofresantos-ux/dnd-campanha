@@ -947,3 +947,26 @@ Garrik cruza os braços.
 Bromir olha para o eixo, depois para Eron.
 
 — Pois parece que nossa visita vai demorar mais do que eu esperava...
+
+
+## Jogador
+
+Nada que você já não tenha dito, mas está estranho de mais isso, bromir você mora aonde?
+
+## Mestre
+
+Bromir, que observava Toman posicionar os cavaletes sob a carroça, volta a cabeça para Eron.
+
+— Moro em **Pedra do Carvalho**, um vilarejo a dois dias de viagem daqui, seguindo pela estrada do oeste. Tenho uma casa pequena, um depósito e um jardim que Helga insistia em cultivar. — Ele coça a barba. — Depois que ela morreu, passei a ficar mais tempo nas estradas do que em casa.
+
+Garrik ergue os olhos do eixo.
+
+— Mais tempo? Bromir, você praticamente mora nessa carroça.
+
+— E você praticamente mora nessa fornalha! Ao menos eu vejo o sol de vez em quando!
+
+O ferreiro balança a cabeça, sorrindo, e retorna ao trabalho. O aprendiz começa a erguer cuidadosamente a lateral da carroça.
+
+Bromir se aproxima um pouco de Eron e fala num tom menos brincalhão:
+
+— Por que a pergunta, rapaz? Está pensando em me visitar ou acha que devo voltar para casa enquanto essa confusão não passa?
