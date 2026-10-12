@@ -1025,3 +1025,26 @@ Vocês deixam a Forja do Martelo Rubro e seguem pelas ruas movimentadas de Caldr
 **Teste de Sabedoria (Percepção): 1d20 + 6.** O resultado determinará o que Eron consegue perceber durante o trajeto.
 
 [Controle interativo de dado d20 disponibilizado ao jogador, com modificador +6 e envio do resultado.]
+
+
+## Jogador
+
+Rolei 13 no d20 para Percepção de Eron. Com +6, total 19.
+
+## Mestre
+
+**1d20 → 13 + 6 = 19 — Sucesso.**
+
+A caminho da praça central, Eron mantém o passo ao lado de Bromir, observando discretamente os reflexos nas vitrines, as entradas das vielas e os rostos que surgem entre os transeuntes. O ruído das rodas sobre as pedras e os pregões dos mercadores oferecem uma boa cobertura para quem queira passar despercebido.
+
+Depois de atravessarem uma pequena praça de mercado, Eron percebe algo: **um homem de capa castanha apareceu em três pontos diferentes do percurso**. Primeiro, junto a uma banca de frutas; depois, parado diante de uma oficina de couro; agora, cerca de trinta passos atrás, próximo a uma fonte. Ele não parece apressado, mas mantém distância semelhante à medida que vocês avançam.
+
+Quando Bromir para brevemente para deixar uma carroça cruzar a rua, o desconhecido também interrompe o passo. Em vez de olhar diretamente para vocês, abaixa a cabeça e finge examinar um cartaz pregado numa parede.
+
+Há algo mais: sob a capa, Eron distingue o volume de uma arma curta na cintura do homem. Não consegue identificar qual.
+
+Bromir, aparentemente alheio à situação, comenta:
+
+— Estamos quase chegando, rapaz. O posto fica depois daquela esquina. Espero que Haldren seja mais agradável que os guardas do portão.
+
+O homem de capa castanha permanece junto ao cartaz. Ainda não percebeu que Eron o identificou.
