@@ -296,3 +296,26 @@ Bromir nota a reação. Seus olhos voltam lentamente para Eron.
 Ele aproxima o rosto, mantendo a voz baixa.
 
 — Diga-me uma coisa: você acha que esses sujeitos querem falar comigo... ou fazer algo pior?
+
+
+## Jogador — fala literal
+
+Não sei ao certo, pode não ser nada, mas o seguro morreu de velho
+Vou rolar percepção para a mulher e os dois, e intuição também se for possível me passe os dados
+
+## Mestre — resposta e interface de dados
+
+Bromir concorda com um movimento discreto da cabeça.
+
+— Minha avó dizia a mesma coisa. E viveu cento e quarenta e três anos, apesar de ter se casado com meu avô.
+
+O anão volta a atenção para o ensopado, deixando Eron observar o salão sem atrair olhares.
+
+Você pode fazer **os dois testes**, sem precisar se aproximar dos desconhecidos:
+
+- **Sabedoria (Percepção), 1d20 +6:** observar a mulher recém-chegada, os dois homens, seus movimentos e possíveis sinais de ligação entre eles.
+- **Sabedoria (Intuição), 1d20 +4:** interpretar o comportamento, o nervosismo e as possíveis intenções dos três.
+
+[Interface interativa de rolagem: Percepção 1d20 +6; Intuição 1d20 +4; botões Rolar d20 e Enviar os dois resultados ao Mestre.]
+
+Aguardo os resultados para determinar o que Eron consegue descobrir, sem revelar informações que não poderia conhecer.
