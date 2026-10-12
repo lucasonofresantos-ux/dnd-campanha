@@ -1705,3 +1705,22 @@ O homem vira ligeiramente a cabeça.
 Eron consegue alcançar a entrada de uma passagem lateral antes que o sujeito se volte por completo, mas não tem certeza de que passou despercebido. O desconhecido permanece imóvel por um instante, depois começa a caminhar em direção à praça, olhando de relance por cima do ombro.
 
 **Eron está a cerca de seis metros dele, parcialmente encoberto pelos caixotes.** O homem ainda não sacou nenhuma arma nem fez qualquer movimento abertamente hostil.
+
+
+## Jogador
+
+Rolê percepção para mim tem muita gente na praça?
+
+## Mestre
+
+**Sabedoria (Percepção): 1d20 → [2] +6 = 8**
+
+Rolagem real em Python, utilizando o código do GitHub e `secrets.randbelow()`.
+
+A Praça dos Tecelões está bastante movimentada. **Há algumas dezenas de pessoas circulando**, entre compradores, artesãos, carregadores e vendedores. Carroças atravessam lentamente as ruas, obrigando os pedestres a se desviar. As bancas de tecidos e seus toldos formam corredores estreitos, onde é fácil perder alguém de vista.
+
+De sua posição junto aos caixotes, Eron consegue observar a movimentação geral, mas não distinguir todos os rostos nem identificar possíveis cúmplices do desconhecido.
+
+O homem de colete verde-escuro continua a aproximadamente seis metros, caminhando em direção à praça. Ele lança outro olhar para trás, mas Eron não consegue determinar se procura alguém especificamente ou apenas verifica o movimento da rua.
+
+O barulho das conversas, das rodas e dos vendedores praticamente encobre os sons mais distantes. **A multidão oferece boas oportunidades para se misturar aos transeuntes, mas também facilita uma fuga.**
