@@ -347,3 +347,28 @@ O anão olha para a escada que leva ao andar superior.
 — Acho que vou perguntar quanto custa um quarto. Não pretendo passar outra noite dormindo em cima de sacos de ferramentas.
 
 A mulher permanece junto ao balcão. Os dois homens continuam à mesa perto do fogo, e a estalagem segue movimentada.
+
+
+## Jogador
+
+Bem vou terminar minha refeição então e beber está cerveja também, e quanto está o quarto aqui?
+
+## Mestre
+
+Eron termina o ensopado enquanto o calor da lareira afasta o frio acumulado durante a viagem. A carne está macia, o caldo é espesso e a cerveja escura deixa um agradável amargor no paladar. Bromir observa a tigela vazia com satisfação.
+
+— Viu? Uma boa refeição resolve metade dos problemas da estrada. A outra metade costuma exigir um martelo.
+
+Quando Eron pergunta pelo quarto, Bromir chama a criada que recolhe as tigelas.
+
+— Quanto estão cobrando por uma cama esta noite, moça?
+
+— **Cinco peças de prata por um quarto individual**, senhor. Tem cama, cobertor e uma bacia com água limpa. Se quiserem dividir um quarto com duas camas, são oito peças de prata pelos dois. O desjejum é cobrado à parte.
+
+Bromir coça a barba, considerando a oferta.
+
+— Oito pratas por duas camas... Nada mal. Posso pagar metade, Eron, já que vamos seguir juntos amanhã. Mas, se prefere um quarto só seu, não vou discutir.
+
+Perto da lareira, os dois desconhecidos se levantam. O homem magro deixa algumas moedas sobre a mesa, enquanto o companheiro recolhe uma bolsa do chão. Eles seguem em direção à escada, passando a alguns passos da mesa de Eron e Bromir. O homem magro lança um olhar breve ao anão, mas não diz nada.
+
+A criada permanece ao lado da mesa, aguardando a decisão sobre os quartos.
