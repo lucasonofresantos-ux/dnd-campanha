@@ -539,3 +539,30 @@ Então vem o primeiro ronco.
 É um som grave, prolongado, semelhante ao de uma serra atravessando madeira úmida. Bromir dorme profundamente. Uma pausa... e outro ronco, ainda mais alto.
 
 Apesar do barulho, a noite prossegue sem nenhuma interrupção imediata. A estalagem vai ficando quieta, e o corredor já não apresenta o movimento de antes.
+
+
+## Jogador
+
+Eu durmo
+
+## Mestre
+
+A chuva continua caindo sobre o telhado do **Javali de Cobre**. Entre o crepitar distante da lareira e os roncos monumentais de Bromir, Eron acaba adormecendo.
+
+A noite transcorre sem que nada perturbe seu descanso.
+
+Quando a claridade pálida da manhã atravessa as frestas das venezianas, o cheiro de pão recém-assado já sobe do salão. No pátio, ouvem-se ferraduras batendo nas pedras e o ranger de uma carroça sendo preparada para partir.
+
+Bromir está acordado, sentado na beira da cama, tentando calçar uma bota.
+
+— Bom dia, rapaz! Dormiu bem? — pergunta com um sorriso. — Eu dormi como uma pedra. Melhor cama que encontrei em semanas!
+
+O anão termina de calçar a bota e se levanta.
+
+— Vou descer para ver como está o burro e comer alguma coisa. Depois seguimos para Caldria. Aquele ferreiro ainda me deve explicações.
+
+Ele pega a bolsa, mas espera um instante antes de sair.
+
+— Vai querer desjejum também?
+
+**Descanso longo concluído.** Eron permanece com 11/11 PV, sem condições negativas ou recursos pendentes de recuperação.
