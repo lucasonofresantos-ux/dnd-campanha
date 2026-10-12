@@ -1499,3 +1499,18 @@ O sargento esboça um sorriso, mas Eron aproveita a proximidade para observar me
 Esse teste permitirá avaliar se Haldren parece confiável, se demonstra sinais de ocultar informações ou se há motivos concretos para desconfiar de suas intenções. Mesmo um resultado elevado não revelará automaticamente tudo o que ele sabe.
 
 Role o d20 e me diga o resultado natural. Vou aguardar antes de revelar a impressão de Eron.
+
+
+## Jogador
+
+Me dê os dados
+
+## Mestre — texto e interface interativa
+
+D&D 5E · Teste de Sabedoria (Intuição)
+
+Eron observa o sargento Haldren enquanto aperta sua mão, tentando avaliar se é alguém em quem pode confiar.
+
+[Rolador interativo local: dado 1d20, modificador de Intuição +4, total calculado após rolagem; botões Rolar d20, Rolar novamente e Enviar resultado ao Mestre.]
+
+Rolagem interativa local. Envie o resultado para descobrir o que Eron percebe.
