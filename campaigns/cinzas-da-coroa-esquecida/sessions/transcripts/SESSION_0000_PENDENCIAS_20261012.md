@@ -1795,3 +1795,26 @@ O homem de colete verde-escuro continua junto à escada externa, a aproximadamen
 Mais importante: ao prestar atenção aos sons, Eron distingue passos do outro lado da esquina, além do desconhecido. São passos de alguém caminhando sem pressa, ainda fora de vista. Não há indícios suficientes para saber se essa pessoa tem alguma ligação com o homem.
 
 **Neste trecho do beco, Eron não identifica nenhum vigia escondido nem alguém apontando uma arma para ele.** Sua posição continua discreta, mas a aproximação de outra pessoa pode alterar a situação em poucos instantes.
+
+
+## Jogador
+
+Vou aguardar um pouco, e atrás tem alguma coisa ou alguém
+
+## Mestre
+
+Eron permanece imóvel atrás dos barris, deixando o homem de colete verde-escuro acreditar que está sozinho. Sem abandonar sua posição, volta a atenção para a passagem às suas costas.
+
+Atrás dele, o beco retorna em direção à Praça dos Tecelões. Há caixotes empilhados contra a parede do depósito de lã, uma calha de madeira e a passagem pela qual Eron chegou. **Não há ninguém visível nesse trecho**, nem passos se aproximando por trás. Os sons da praça continuam distantes.
+
+À frente, porém, os passos que Eron havia escutado ficam mais próximos.
+
+O homem de colete verde guarda rapidamente o papel na bolsa e endireita o corpo. Da esquina surge um sujeito magro, de barba curta e avental manchado de tintura. Ele carrega um balde vazio e para ao encontrar o desconhecido.
+
+— Está procurando alguém? — pergunta o homem do avental.
+
+— Não. Só esperando um conhecido.
+
+O trabalhador observa-o por um instante, dá de ombros e segue em direção à praça, passando pelo outro lado do beco. O homem de colete verde espera que ele se afaste antes de voltar a olhar para a passagem adiante.
+
+**Eron continua oculto, a aproximadamente três metros.** Não percebeu ninguém à sua retaguarda, e o trabalhador que surgiu não demonstrou reconhecer o desconhecido.
