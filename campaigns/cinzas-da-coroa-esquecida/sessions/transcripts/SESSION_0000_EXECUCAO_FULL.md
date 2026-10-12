@@ -266,3 +266,8 @@ O homem olha para a carroça, depois para as armas de Eron.
 — Seus nomes e de onde estão vindo, por favor.
 
 Bromir segura as rédeas e aguarda, sem fazer qualquer movimento brusco.
+
+
+## Jogador — fala literal
+
+Bem eu Eron, e este é bromir eu estou vindo do pulgueiro e só quero comer e dormir hoje
