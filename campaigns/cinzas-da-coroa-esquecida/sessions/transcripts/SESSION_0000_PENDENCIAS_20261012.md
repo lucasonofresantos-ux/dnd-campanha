@@ -93,3 +93,9 @@ Aqui está o rolador para o teste de **Sabedoria (Intuição) de Eron**, com mod
 [Rolador interativo: 1d20 +4; botão Rolar d20; botão Enviar resultado ao Mestre.]
 
 Quando enviar o resultado, resolverei a observação discreta dos dois homens junto à lareira.
+
+
+## Jogador — fala literal
+
+Bem em fim uma notícia boa hoje, e bromir pelo jeito é conhecido na cidade, viaja muito por aqui?
+Vou fazer um teste para analisar o ambiente e os dois, quero tentar descobrir oque querem mas sem que eles percebam
