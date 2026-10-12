@@ -1426,3 +1426,24 @@ O sargento faz uma anotação e volta os olhos para Eron.
 Bromir resmunga:
 
 — Admirador? Pois que arranje outro. Já tenho um rapaz me insultando de graça.
+
+
+## Jogador
+
+A carroça estava na frente do ferreiro?
+
+## Mestre
+
+O guarda balança a cabeça.
+
+— Não, senhor. A carroça de lona azul estava parada na **Rua dos Oleiros**, perto do cruzamento que leva ao mercado. Foi lá que o homem de capa castanha encontrou o outro sujeito.
+
+Haldren consulta rapidamente suas anotações.
+
+— Portanto, não sabemos se aquela carroça passou pela ferraria ou se tem alguma ligação com a sabotagem. Por enquanto, é apenas uma pista.
+
+Bromir esfrega a barba.
+
+— Uma roda pintada de branco... Não é exatamente a coisa mais discreta do mundo.
+
+— Justamente — responde Haldren. — Se ainda estiver circulando pela cidade, talvez consigamos encontrá-la.
