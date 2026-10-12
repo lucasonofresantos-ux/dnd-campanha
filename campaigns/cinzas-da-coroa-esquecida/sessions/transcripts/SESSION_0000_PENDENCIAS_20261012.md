@@ -1642,3 +1642,36 @@ Velkan aproxima a lamparina e examina a marca de cera, sem ainda rompê-la.
 — Sim. Primeiro preciso verificar uma coisa.
 
 Ele passa o polegar pela borda do lacre. Seu rosto permanece sério.
+
+
+## Jogador
+
+Eu vou continuar observando?
+
+## Mestre
+
+Velkan corta cuidadosamente o lacre de cera. O estalo da tampa ao se soltar parece particularmente alto no silêncio da oficina.
+
+Bromir inclina a cabeça, curioso.
+
+— Finalmente. Já estava começando a pensar que Odran tinha me feito transportar um tesouro real.
+
+Velkan ergue a tampa alguns centímetros. Lá dentro, acomodado entre camadas de tecido escuro, há um **cilindro de bronze do comprimento de um antebraço**, com anéis concêntricos e pequenas inscrições gravadas ao longo da superfície. Uma das extremidades apresenta um encaixe hexagonal; a outra está fechada por uma placa de metal.
+
+O artesão não toca imediatamente no objeto.
+
+— Havia alguma outra instrução de Odran? Alguma mensagem?
+
+— Apenas entregar a você, pessoalmente — responde Bromir. — E receber o pagamento, naturalmente.
+
+Velkan assente devagar.
+
+Enquanto os dois conversam, Eron mantém a vigilância. Pela janela, percebe uma mudança: **o homem de colete verde-escuro deixou a banca de tecidos e agora caminha em direção à travessa da oficina**. Não corre nem parece carregar uma arma à vista. Ele desaparece do campo de visão quando passa pela parede lateral do edifício.
+
+Quase ao mesmo tempo, Eron ouve um ruído abafado vindo da região dos fundos da oficina: madeira rangendo sob algum peso. A porta permanece fechada. Velkan não reage visivelmente ao som.
+
+— Preciso conferir os anéis — diz o artesão, aproximando as mãos do cilindro. — Depois acertamos o pagamento.
+
+Bromir olha para o objeto e coça a barba.
+
+— Seja o que for, espero que valha a viagem.
