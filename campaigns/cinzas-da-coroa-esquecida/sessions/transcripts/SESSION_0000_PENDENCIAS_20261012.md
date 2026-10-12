@@ -319,3 +319,31 @@ Você pode fazer **os dois testes**, sem precisar se aproximar dos desconhecidos
 [Interface interativa de rolagem: Percepção 1d20 +6; Intuição 1d20 +4; botões Rolar d20 e Enviar os dois resultados ao Mestre.]
 
 Aguardo os resultados para determinar o que Eron consegue descobrir, sem revelar informações que não poderia conhecer.
+
+
+## Jogador — rolagens literais
+
+Eron observa discretamente a mulher e os dois homens. Percepção: 1d20 = 5, +6, total 11. Intuição: 1d20 = 1, +4, total 5.
+
+## Mestre — resultado e narração literal
+
+**Resultados dos testes**
+
+- **Percepção:** `1d20 → [5] +6 = 11`
+- **Intuição:** `1d20 → [1] +4 = 5` — 1 natural.
+
+Eron continua a conversar com Bromir enquanto acompanha discretamente a movimentação do salão. A mulher recém-chegada tira a capa molhada e aproxima-se do balcão. Sob a luz das velas, parece uma viajante comum: botas enlameadas, roupas de viagem e uma pequena bolsa presa à cintura. Ela pede alguma coisa ao estalajadeiro, mas suas palavras se perdem entre as conversas e o barulho da lareira.
+
+Quando Eron volta os olhos para os dois homens, o mais magro está inclinado sobre a mesa, falando com o companheiro. O homem de ombros largos mantém a atenção na porta, como antes. Uma criada passa entre as mesas carregando uma bandeja e bloqueia a visão por alguns instantes. Quando ela se afasta, a conversa dos dois já terminou.
+
+Eron **não consegue identificar qualquer sinal concreto de ligação entre a mulher e os homens**. Tampouco obtém uma leitura confiável das intenções deles. O comportamento pode ter uma explicação inocente ou não; por enquanto, as observações não permitem distinguir uma possibilidade da outra.
+
+Bromir termina a cerveja e limpa a espuma da barba.
+
+— Sabe, Eron, se continuar olhando para a comida sem terminar de comer, ela vai acabar esfriando. E isso, sim, seria uma tragédia.
+
+O anão olha para a escada que leva ao andar superior.
+
+— Acho que vou perguntar quanto custa um quarto. Não pretendo passar outra noite dormindo em cima de sacos de ferramentas.
+
+A mulher permanece junto ao balcão. Os dois homens continuam à mesa perto do fogo, e a estalagem segue movimentada.
