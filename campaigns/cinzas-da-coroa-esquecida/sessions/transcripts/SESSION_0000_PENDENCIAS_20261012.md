@@ -1073,6 +1073,49 @@ Bromir esfrega a barba.
 
 ## Jogador
 
+(confirme senas gravações estão ocorrendo) bem acho que deveríamos primeiro ver está caixa misteriosa, mas se abrir aqui quem encomendo pode reclamar, oque acha de levarmos lá e abrirmos com ele?
+
+## Mestre
+
+**Sobre as gravações:** a conexão com o GitHub funcionou em algumas interações anteriores, mas as últimas quatro tentativas foram bloqueadas. Portanto, não posso afirmar que todo o histórico esteja sincronizado. Vou tentar registrar esta interação e confirmar o resultado.
+
+---
+
+Bromir olha para o pequeno baú sob a lona e concorda com um movimento de cabeça.
+
+— Finalmente alguém nesta oficina que entende de negócios! Se eu abrir uma encomenda lacrada sem o comprador presente, depois vão dizer que roubei alguma coisa. E não vou pagar por mercadoria que nem é minha!
+
+Garrik apoia as mãos na cintura.
+
+— É sensato. Mas eu terminaria o reparo antes. Se alguém mexeu no eixo, não quero que saiam daqui com outra peça prestes a partir.
+
+— Concordo — responde Bromir. — Eron, o destinatário é um artesão chamado **Mestre Velkan**, que trabalha perto da praça dos Tecelões. Já entreguei encomendas para ele antes. Podemos levar o baú diretamente à oficina dele, pedir que confira o conteúdo diante de nós e, se houver alguma coisa errada, teremos uma testemunha.
+
+O anão observa Garrik voltar ao trabalho e acrescenta, em voz mais baixa:
+
+— Só espero que essa história termine com uma entrega e algumas moedas no meu bolso. Já estou ficando velho para surpresas.
+
+O som do martelo de Toman volta a preencher a oficina, enquanto Garrik prepara uma peça nova para substituir o pino danificado.
+
+## Mestre
+
+**Confirmação:** a tentativa de gravação desta interação também foi bloqueada. O último commit confirmado continua sendo `7f0f9aa`. As interações posteriores permanecem pendentes de sincronização.
+
+**[LOG DE MEMÓRIA DA CAMPANHA]**
+
+- **Localização Atual:** Forja do Martelo Rubro, Caldria.
+- **NPCs Presentes e Relação:** Bromir, amigo; Garrik, ferreiro; Toman, aprendiz.
+- **Linha de Missão Ativa:** Reparar a carroça e verificar a encomenda diante de Mestre Velkan.
+- **Eventos Cruciais Ocorridos:** Bromir concordou em não abrir o baú sem o destinatário presente. Garrik continua o reparo.
+- **Condições do Jogador:** 11/11 PV, CA 13, 57 PO e 3 PP; sem condições.
+
+## Jogador
+
+(tente novamente)
+
+
+## Jogador
+
 Bem acho que aqui vai demorar um pouco, qual era o nome mesmo do chef da patrulha? E pelos deuses você não tentou estorqui ele com os seus preços
 
 ## Mestre
