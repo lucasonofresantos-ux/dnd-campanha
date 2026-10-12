@@ -186,3 +186,38 @@ Ele observa o céu escurecendo entre as copas das árvores.
 Bromir recolhe as ferramentas e olha para os calços que sustentam a carroça.
 
 — Só falta baixarmos esta velha senhora. Depois disso, se quiser companhia na estrada, será bem-vindo. E, considerando o que fez por mim, a primeira refeição fica por minha conta.
+
+## Jogador — fala e ação literal
+
+Vamos colocar essa velha senhora para trabalhar então, aceito a refeição, e se tem tanto medo de saqueadores me permita te acompanhar 
+Eu ajudo a abaixar a carroça
+
+## Mestre — resposta literal
+
+Bromir abre um sorriso satisfeito e bate uma das mãos grossas na lateral da carroça.
+
+— Então está combinado! Você mantém os salteadores longe das minhas mercadorias, e eu garanto que não precisará caçar esquilos para jantar. Um acordo bastante justo, se quer minha opinião!
+
+Com a roda nova devidamente presa, o anão se posiciona junto aos calços. Eron retoma a alavanca e, trabalhando em conjunto, os dois erguem o eixo apenas o suficiente para retirar os apoios. A carroça desce lentamente até a roda tocar o chão. Bromir empurra a lateral do veículo, examina o eixo e dá uma volta completa ao redor dele.
+
+— Firme como uma muralha anã! Bem... quase.
+
+O burro recebe um afago no pescoço antes de voltar a puxar a carroça. As rodas começam a girar pela estrada lamacenta, produzindo um rangido ritmado. Bromir caminha ao lado de Eron, segurando as rédeas, enquanto a encruzilhada desaparece atrás deles.
+
+— Sabe, Eron, não é exatamente dos salteadores que tenho medo. Já atravessei estradas piores. O problema é que, ultimamente, alguns viajantes simplesmente não chegam ao destino.
+
+O anão lança um olhar para o bosque à direita.
+
+— Há umas duas semanas, uma caravana saiu de Caldria com destino às aldeias do norte. Três carroças, seis homens e dois guardas contratados. Ninguém voltou a vê-los. Encontraram uma das carroças abandonada, mas nem sinal dos animais ou das pessoas.
+
+Ele permanece calado por alguns passos.
+
+— As autoridades dizem que foram bandidos. Talvez tenham razão. Mas conheço bandidos, rapaz. Normalmente levam a mercadoria e deixam alguma coisa para trás.
+
+O vento sopra entre as árvores. Mais adiante, a estrada faz uma curva fechada, ocultando o caminho além dela.
+
+— Enfim, espero que não seja assunto nosso. Prefiro chegar à estalagem, comer um bom ensopado e reclamar da qualidade dos ferreiros.
+
+Bromir olha para Eron, com uma expressão curiosa.
+
+— E você? Sempre viaja sozinho?
