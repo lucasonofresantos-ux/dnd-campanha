@@ -677,3 +677,38 @@ Os dados por favor
 ## Mestre — transcrição textual da resposta com controle interativo
 
 Teste de Sabedoria (Percepção) — Eron. Role 1d20. Seu modificador é +6. O resultado determinará quanto Eron consegue ouvir da conversa entre o sargento e Harl. Foi disponibilizado um botão interativo de d20, com opção de enviar o resultado ao Mestre. O botão usa sorteio local; para Python com secrets.randbelow(), o jogador pode pedir ao Mestre que role.
+
+
+## Jogador
+
+Rolei 9 no d20 para Percepção de Eron. Com +6, total 15.
+
+## Mestre
+
+Sabedoria (Percepção): 1d20 → [9] +6 = 15
+
+Eron continua comendo e conversando com Bromir, sem demonstrar interesse pelo sargento. Entre uma frase e outra, porém, consegue distinguir trechos da conversa junto ao balcão.
+
+— ...o cavalo estava solto, sem cavaleiro — diz o sargento. — A sela tinha uma correia rasgada. Havia marcas escuras no couro.
+
+Harl passa o dedo pelas linhas do livro de hóspedes.
+
+— Ontem chegaram alguns viajantes depois do anoitecer. Um deles deixou um cavalo nos estábulos, mas não sei dizer se é o mesmo.
+
+— Preciso dos nomes. Principalmente de quem saiu durante a madrugada.
+
+O estalajadeiro começa a responder, mas o tilintar de uma travessa cobre suas primeiras palavras. Eron ainda consegue ouvir:
+
+— ...dois homens ficaram no andar de cima. Não os vi descer para o desjejum.
+
+O sargento fecha o livro com cuidado.
+
+— Quero examinar os estábulos antes de falar com os hóspedes.
+
+Eron não consegue distinguir quais nomes Harl mencionou, nem confirmar se o cavalo encontrado é aquele que observou na noite anterior. Entretanto, a descrição da correia rasgada coincide com um detalhe que havia notado.
+
+Bromir, alheio às palavras que Eron conseguiu captar, termina seu pão.
+
+— Então, rapaz, ainda pretende me acompanhar até aquele ferreiro? Porque, se demorarmos muito, vou acabar precisando de outro desjejum!
+
+O sargento permanece no balcão por mais alguns instantes, enquanto Harl procura uma chave.
