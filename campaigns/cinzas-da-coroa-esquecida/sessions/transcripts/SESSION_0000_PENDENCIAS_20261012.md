@@ -159,3 +159,46 @@ O homem magro murmura alguma coisa ao companheiro. O de ombros largos lança mai
 ## Jogador — rolagem literal
 
 Teste de Percepção de Eron para escutar os dois homens: 1d20 = 16, modificador +6, total 22.
+
+
+## Mestre — resposta literal
+
+**Teste de Sabedoria (Percepção): 22**
+
+`1d20 → [16] +6 = 22` — **Sucesso.**
+
+O ruído das conversas e o crepitar da lenha encobrem quase todas as palavras dos dois desconhecidos. Mas Eron, acostumado a ouvir depoimentos em salas movimentadas e a reconhecer conversas que não deveriam ser escutadas, consegue separar as vozes do restante do salão.
+
+O homem de ombros largos fala primeiro, quase entre os dentes:
+
+— ...já passou da hora. Ele devia ter chegado antes de escurecer.
+
+O companheiro magro responde, mantendo os olhos na própria caneca:
+
+— Fale mais baixo. Não sabemos quem está ouvindo.
+
+— E se não vier?
+
+— Então esperamos até amanhã. Não vou sair procurando por ele nesta estrada, depois do que aconteceu ontem.
+
+O homem mais largo aperta a mandíbula.
+
+— Os patrulheiros já estão fazendo perguntas.
+
+— Eu sei. Por isso você vai parar de olhar para a maldita porta a cada instante.
+
+Uma cadeira arrasta perto do balcão, abafando algumas palavras. Quando Eron volta a distinguir a voz do homem magro, escuta:
+
+— ...o anão conhece as estradas. Talvez saiba alguma coisa.
+
+— E o sujeito com ele?
+
+— Não conheço. Deixe os dois comerem.
+
+O homem largo abaixa a cabeça. Seu companheiro toma um gole da caneca, encerrando a conversa por enquanto.
+
+À frente de Eron, Bromir parte um pedaço de pão e mergulha-o no ensopado.
+
+— Pelas barbas de Moradin, isto está bom! — exclama. — Se não comer logo, rapaz, vou acabar pedindo a sua porção também.
+
+A comida ainda fumega sobre a mesa. Os dois desconhecidos permanecem junto à lareira, e nenhum deles parece ter percebido que Eron escutou a conversa.
