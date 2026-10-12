@@ -1447,3 +1447,32 @@ Bromir esfrega a barba.
 — Uma roda pintada de branco... Não é exatamente a coisa mais discreta do mundo.
 
 — Justamente — responde Haldren. — Se ainda estiver circulando pela cidade, talvez consigamos encontrá-la.
+
+
+## Jogador
+
+Aí já não é problema nosso, e haldren se eu aparecer carregando uma cabeça, saiba que foi para me defender
+
+## Mestre
+
+Haldren ergue lentamente os olhos do pergaminho. A expressão do sargento endurece, embora sua voz permaneça controlada.
+
+— Eron, vou lhe dar um conselho. Se alguém tentar matá-lo, defenda-se. Não espero que um homem aceite uma lâmina no peito para poupar trabalho à guarda. Mas, se aparecer aqui carregando a cabeça de alguém, teremos uma conversa muito diferente desta. **Legítima defesa não é licença para executar um inimigo derrotado.**
+
+Bromir solta uma gargalhada curta.
+
+— Pelas pedras ancestrais! Eu o conheço há pouco mais de um dia e já estamos discutindo o que fazer caso ele apareça carregando cabeças pela cidade!
+
+Haldren olha para o anão.
+
+— E você parece estranhamente tranquilo com isso.
+
+— Tranquilo? Estou preocupado com a possibilidade de ele usar minha carroça para transportá-las! Acabei de pagar pelo conserto!
+
+Até Haldren deixa escapar um breve sorriso. Então o sargento recolhe suas anotações e se levanta.
+
+— Bem, não vou prendê-los aqui. Garrik ainda deve estar trabalhando no eixo. Quanto ao homem de capa castanha, meus guardas cuidarão de procurá-lo. Se descobrirmos algo que represente perigo imediato para vocês, mandarei avisar.
+
+Ele estende a mão a Eron.
+
+— E procure não me dar motivos para conhecer seu talento com lâminas, investigador.
