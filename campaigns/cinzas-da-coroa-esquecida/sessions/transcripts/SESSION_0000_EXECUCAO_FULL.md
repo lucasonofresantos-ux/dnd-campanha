@@ -59,3 +59,27 @@ A chuva recomeça em gotas espaçadas sobre o telhado do abrigo. Bromir espera a
 - Linha de Missão Ativa: Nenhuma missão formal; oportunidade de ajudar Bromir com a carroça.
 - Eventos Cruciais Ocorridos: Eron ofereceu ajuda; Bromir explicou o problema da roda e apresentou-se.
 - Condições do Jogador: Ladino 1, 11/11 PV, CA 13, 58 PO, sem condições.
+
+## Jogador — mensagem seguinte (literal)
+
+-Bem, eu sou Eron, e não creio que tenho forças suficiente para levantar está carroça, está me confundindo com um orc?
+Mas podemos fazer uma alavanca e aí sim posso te ajudar. Agora vamos resolver isso antes da janta.
+Eu uso percepção para ver se tem mais alguém ou se o homem ainda está em cima do telhado
+
+## Mestre — resposta seguinte (literal)
+
+Bromir solta uma risada rouca.
+
+— Um orc? Não. Um sujeito com ideias melhores que meus braços, talvez. Uma alavanca serve. Tenho um pé de cabra e algumas tábuas, se não estiverem encharcadas demais.
+
+O anão se inclina para procurar as ferramentas junto à carroça. **Ele nunca esteve em cima do telhado**: desde o início estava agachado sob o abrigo, junto à roda quebrada. Não há outro homem visível sobre a cobertura. Quanto à possibilidade de alguém estar escondido nas proximidades, Eron precisa observar melhor a estrada, o abrigo e a orla do bosque.
+
+**Role 1d20 para Sabedoria (Percepção), com +6 de modificador, e me informe o resultado do dado.** Enquanto observa, Bromir não começa a levantar a carroça sem sua ajuda.
+
+**[LOG DE MEMÓRIA DA CAMPANHA]**
+
+- **Localização Atual:** Encruzilhada rural a leste de Pulgueiro.
+- **NPCs Presentes e Relação:** Bromir, anão viajante; cordial, disposto a cooperar.
+- **Linha de Missão Ativa:** Ajuda informal para reparar a carroça.
+- **Eventos Cruciais Ocorridos:** Eron se apresentou, sugeriu usar uma alavanca e procura sinais de outras pessoas; teste de Percepção solicitado.
+- **Condições do Jogador:** Ladino 1; 11/11 PV, CA 13, 58 PO; sem condições.
