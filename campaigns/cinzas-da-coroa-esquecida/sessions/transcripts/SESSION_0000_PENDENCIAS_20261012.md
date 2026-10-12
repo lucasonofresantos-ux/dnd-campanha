@@ -1959,3 +1959,44 @@ Eron chega discretamente à entrada da oficina, sem identificar um perseguidor. 
 — Já lhe disse, mestre Velkan, não abro outra caixa dessas nem que me paguem o dobro!
 
 Velkan responde num tom mais baixo, e o ruído de uma peça metálica pousando sobre madeira interrompe a conversa. A porta da oficina está entreaberta. **Eron ainda não entrou e não consegue distinguir as palavras seguintes.**
+
+
+## Jogador
+
+Teste de Sabedoria (Percepção) de Eron dentro da oficina de Velkan, examinando alterações, a janela do mezanino e o que acontece na bancada: 1d20 = 17, modificador +6, total 23.
+
+## Mestre
+
+**Sabedoria (Percepção): 1d20 → [17] +6 = 23**
+
+Sucesso — observação minuciosa.
+
+Eron entra na oficina, e Bromir ergue a cabeça ao reconhecê-lo.
+
+— Ah, finalmente! Já estava pensando em sair para procurar você, rapaz.
+
+Mas, antes de responder, Eron examina o ambiente. Seus olhos percorrem a bancada, as ferramentas, a escada do mezanino e a porta dos fundos. Há diferenças em relação ao que viu antes de sair.
+
+A **janela do mezanino está aberta por dentro**, com a trava levantada. Uma das lonas que cobriam as caixas foi deslocada, deixando à mostra a borda de um caixote. No piso de madeira próximo à janela, Eron identifica uma marca úmida de sola. A posição da marca sugere que alguém esteve ali recentemente, mas não permite concluir se entrou ou saiu pela janela.
+
+A porta dos fundos continua fechada. Perto dela, as marcas de botas que Eron havia observado antes permanecem visíveis. Uma pequena mancha escura no chão, entretanto, parece recente.
+
+Na bancada principal, **o cilindro de bronze está fora da caixa**, apoiado sobre um tecido grosso. Dois de seus anéis concêntricos foram deslocados de posição. Ao lado, repousam uma ferramenta fina de metal e um pedaço de pergaminho coberto de anotações.
+
+Velkan acompanha o olhar de Eron até o mezanino.
+
+— Se está olhando para aquela janela, não fui eu quem a abriu — diz o artesão, tirando os óculos. — Ouvi um ruído lá em cima enquanto examinava a peça. Quando fui verificar, encontrei a janela aberta. Não vi ninguém.
+
+Bromir cruza os braços.
+
+— E foi justamente depois disso que ele me disse que não gostou do que encontrou dentro da caixa.
+
+Velkan volta-se para Eron.
+
+— Este cilindro não é apenas um mecanismo de precisão. Alguém alterou a posição de seus anéis recentemente. E há marcas de uma ferramenta que não é minha.
+
+Ele aponta para uma linha quase invisível junto ao encaixe hexagonal.
+
+— Ainda não sei o que isso significa. Mas alguém parece ter tentado manipulá-lo antes de chegar às minhas mãos.
+
+Eron não vê nenhuma pessoa escondida na parte térrea da oficina. O mezanino, porém, está parcialmente encoberto pelas caixas e pela estrutura da escada; não é possível verificar todos os seus cantos dali.
