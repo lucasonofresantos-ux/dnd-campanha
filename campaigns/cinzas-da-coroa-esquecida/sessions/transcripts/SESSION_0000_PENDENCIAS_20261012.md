@@ -2130,3 +2130,34 @@ Para interpretar a hierarquia entre eles, a postura e a maneira como os outros r
 **Teste de Intuição de Eron: `1d20 +4`.** Sua Furtividade 26 continua válida enquanto observa em silêncio.
 
 Interface interativa de rolagem 1d20 +4, com envio do resultado ao Mestre.
+
+
+## Jogador
+
+Teste de Sabedoria (Intuição) de Eron para identificar quem exerce a liderança entre os três intrusos: 1d20 = 19, modificador +4, total 23.
+
+## Mestre
+
+**Sabedoria (Intuição): 1d20 → [19] +4 = 23. Sucesso — leitura precisa do comportamento dos intrusos.**
+
+Oculto atrás dos caixotes, Eron observa os três homens com a atenção de quem passou anos interrogando suspeitos e identificando relações de autoridade.
+
+O homem de casaco castanho continua vasculhando o baú. Quando encontra apenas ferramentas antigas, olha imediatamente para o sujeito junto à passagem do fundo, como se esperasse instruções. O homem de gibão escuro demonstra impaciência, mas também aguarda a reação daquele terceiro indivíduo antes de mudar de lugar.
+
+O sujeito ao fundo não precisa erguer a voz. Um movimento discreto de sua mão basta para fazer o homem do baú retomar a busca.
+
+— Verifique o fundo falso — ordena ele. — Se não encontrar nada, passamos à próxima sala.
+
+O homem de gibão escuro hesita.
+
+— E o artesão? Ele pode ter ouvido alguma coisa.
+
+— Deixe o artesão comigo. Você cuide do que mandei.
+
+A resposta encerra a discussão.
+
+**Conclusão de Eron:** o **homem 3, junto à passagem dos fundos, é quem comanda a operação dentro do depósito**, com elevado grau de confiança. Os outros dois seguem suas ordens, embora o homem de gibão escuro pareça menos disciplinado.
+
+Isso não significa necessariamente que seja o chefe de toda a organização. Pelo que disseram, **Marek continua sendo uma autoridade acima dele**, ou ao menos a pessoa que lhes deu a missão.
+
+O homem 3 permanece a aproximadamente **9 metros de Eron**, com uma lâmina curta no cinturão. Nenhum dos intrusos percebeu sua presença.
