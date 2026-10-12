@@ -2044,3 +2044,30 @@ Eron se aproxima da área dos fundos, aproveitando as bancadas e as sombras proj
 **Teste de Destreza (Furtividade): `1d20 +6`**, para se aproximar sem alertar quem eventualmente esteja no depósito.
 
 Interface interativa de rolagem d20 +6 e envio do resultado ao Mestre.
+
+
+## Jogador
+
+Teste de Destreza (Furtividade) de Eron para se aproximar da porta do depósito sem ser percebido: 1d20 = 20, modificador +6, total 26.
+
+## Mestre
+
+**Destreza (Furtividade): 1d20 → [20] +6 = 26**
+
+Sucesso excepcional — Eron se aproxima sem ser percebido.
+
+Eron desliza entre as bancadas com passos tão leves que nem as tábuas antigas denunciam sua passagem. Atrás dele, Bromir permanece junto à bancada, segurando o martelo, enquanto Velkan observa a porta dos fundos com o rosto tenso.
+
+A poucos centímetros da porta, Eron percebe que ela não está completamente encaixada no batente. Uma fresta estreita deixa passar o cheiro de couro úmido e madeira guardada. Do outro lado, alguma coisa raspa suavemente contra o chão.
+
+Então vem uma voz masculina, baixa e irritada:
+
+— Maldição... onde foi que o velho guardou aquilo?
+
+Uma segunda voz, mais distante, responde:
+
+— Procure direito. Não temos a noite inteira.
+
+Pela fresta, Eron distingue parte de uma estante e a sombra de alguém se movendo entre caixotes. **Há pelo menos duas pessoas no depósito**, e nenhuma parece ter percebido sua aproximação.
+
+A porta continua fechada o suficiente para ocultá-lo. Os intrusos estão ocupados procurando alguma coisa, mas Eron ainda não sabe o quê.
