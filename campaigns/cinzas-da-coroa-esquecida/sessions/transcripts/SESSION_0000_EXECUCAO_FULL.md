@@ -294,3 +294,9 @@ Bromir olha de relance para Eron.
 — Além de uma roda quebrada e muita lama, eu não vi nada digno de nota.
 
 O primeiro patrulheiro aguarda a resposta de Eron. Atrás dos homens, a luz das janelas do **Javali de Cobre** parece ainda mais convidativa com o vento frio que começa a soprar.
+
+
+## Jogador — fala literal
+
+Não vi nada pelo caminho a não ser um anão resmungando, mas isso é mais comum do que parece, se quiser pode conferir, minha espada está limpa.
+Mas não abusando da vontade de um bom homem, oque estes dois aprontaram para um estar ferido?
