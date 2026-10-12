@@ -343,3 +343,24 @@ Bromir estala a língua para o burro, mas ainda espera Eron antes de prosseguir.
 
 (Tente novamente registrar se não for possível copiei as transcrições dessa campanha para uma nova e garanta que não de para bloquear dessa vez, e tente descobrir por que bloqueou)
 - vamos antes que sobre para a gente kkkk
+
+
+## Mestre — resposta literal
+
+Bromir ri e dá um leve puxão nas rédeas.
+
+— Finalmente uma decisão sensata! Não pretendo descobrir se os guardas de Caldria precisam de ajuda para fazer o próprio trabalho.
+
+— Boa noite, senhores! — despede-se o anão, acenando para os patrulheiros.
+
+A carroça avança pelo último trecho da estrada. Atrás deles, os dois homens retomam seus postos, e o rangido das rodas logo se mistura ao som da água correndo pela vala.
+
+O **Javali de Cobre** está mais movimentado do que parecia à distância. Risadas e conversas escapam pelas janelas iluminadas. Um rapaz conduz um cavalo para dentro do estábulo, enquanto uma mulher de avental atravessa o pátio carregando um balde.
+
+Bromir detém o burro junto ao estábulo e se volta para Eron.
+
+— Vou providenciar água e feno para este velho companheiro. Entre, se quiser. Peça dois ensopados e diga que Bromir paga. Só não deixe que cobrem preço de nobre por uma tigela de carne!
+
+A porta da estalagem se abre, deixando escapar uma onda de calor, cheiro de pão assado e vozes animadas. Um homem de cabelos grisalhos sai, ajeitando a capa sobre os ombros, e segue pelo pátio sem prestar atenção aos recém-chegados.
+
+Bromir começa a desatrelar o burro, assobiando baixinho.
