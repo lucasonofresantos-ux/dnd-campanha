@@ -2182,3 +2182,22 @@ Posso permitir a tentativa com estas condições: um ataque à distância contra
 E há outro risco: **o disparo provavelmente denunciará a presença de Eron**, mesmo que acerte.
 
 O líder permanece junto à passagem dos fundos, sem perceber o perigo. Eron ainda está oculto, com a espada curta e a adaga nas mãos. **Nenhum disparo foi realizado.**
+
+
+## Jogador
+
+Iniciativa de Eron no combate do depósito: 1d20 = 20, modificador +4, total 24.
+
+## Mestre
+
+Iniciativa de Eron: 1d20 → [20] +4 = 24. 20 natural! Eron reage com rapidez extraordinária.
+
+O líder permanece junto à passagem dos fundos, com a flecha cravada no tornozelo e no assoalho. Seu grito ainda ecoa entre as estantes quando os outros dois homens sacam as armas.
+
+Eron mantém o arco em mãos, protegido parcialmente pelos caixotes. O homem de casaco castanho está a cerca de 4 metros; o de gibão escuro, a 6 metros; e o líder ferido, a 9 metros.
+
+O disparo alertou os três, mas nenhum deles identificou com precisão a posição do arqueiro. Eron ainda pode aproveitar a cobertura, embora sua posição não esteja garantida por muito tempo.
+
+Ordem de iniciativa: 1. Eron 24; 2. Homem de casaco castanho 15; 3. Homem de gibão escuro 12; 4. Líder ferido 11. Iniciativas dos três inimigos roladas com Python secrets.randbelow: d20 → [15], [12], [11], respectivamente, sem modificadores conhecidos aplicados.
+
+Rodada 1 — turno de Eron. Você age primeiro. O líder continua com o pé preso, os outros dois estão armados, e Bromir permanece na oficina com o martelo. Ainda não há movimento dos inimigos nesta rodada.
