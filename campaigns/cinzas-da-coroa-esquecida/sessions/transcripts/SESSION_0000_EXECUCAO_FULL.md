@@ -155,3 +155,34 @@ Ele retira a roda danificada e examina o encaixe do eixo. Sua expressão satisfe
 Bromir abre uma pequena caixa de ferro e começa a procurar.
 
 — Já que me ajudou a salvar a carroça, Eron, diga-me uma coisa: está seguindo para Caldria ou apenas procurando um lugar onde passar a noite?
+
+## Jogador — fala e ação literal
+
+Só quero um lugar para repousar sem ser devorado por um urso, e para onde estás indo?
+Vamos aproveitar que a carroça está levantada e já arrumar isso também, me admira um anão não identificar um trabalho mal feito de um ferreiro
+
+## Mestre — resposta literal
+
+Bromir ergue os olhos da caixa de ferramentas e solta uma gargalhada tão forte que o burro interrompe a mastigação.
+
+— Ha! Um urso? Nesta estrada, eu me preocuparia mais com os salteadores. Pelo menos um urso não tenta vender de volta aquilo que roubou!
+
+Ao ouvir a provocação sobre o ferreiro, o anão estreita os olhos e aponta um dedo grosso para Eron.
+
+— Escute aqui, rapaz. Sou comerciante, não ferreiro! Sei reconhecer uma boa lâmina, uma dobradiça decente e um preço desonesto. Mas não tenho o hábito de desmontar cada eixo que compro para descobrir se o artesão estava bêbado quando o fez.
+
+Ele finalmente encontra um pino de ferro no fundo da caixa.
+
+— E, para sua informação, a peça parecia excelente quando a comprei. Se encontrar aquele maldito ferreiro novamente, vou fazê-lo engolir a garantia.
+
+Bromir encaixa o pino novo, ajusta a roda sobressalente e a faz girar com as mãos. Ela completa várias voltas sem oscilar. Satisfeito, ele confere a fixação mais uma vez.
+
+— Estou indo para **Caldria**. Tenho mercadorias para entregar e algumas moedas para receber. Pretendia alcançar uma hospedaria antes do anoitecer, mas esta carroça resolveu ter outros planos.
+
+Ele observa o céu escurecendo entre as copas das árvores.
+
+— Conheço uma estalagem adiante, chamada **O Javali de Cobre**. Tem camas secas, comida quente e portas suficientemente grossas para manter os ursos do lado de fora. Se a estrada não piorou desde minha última passagem, ainda podemos chegar lá esta noite.
+
+Bromir recolhe as ferramentas e olha para os calços que sustentam a carroça.
+
+— Só falta baixarmos esta velha senhora. Depois disso, se quiser companhia na estrada, será bem-vindo. E, considerando o que fez por mim, a primeira refeição fica por minha conta.
