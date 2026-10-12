@@ -300,3 +300,40 @@ O primeiro patrulheiro aguarda a resposta de Eron. Atrás dos homens, a luz das 
 
 Não vi nada pelo caminho a não ser um anão resmungando, mas isso é mais comum do que parece, se quiser pode conferir, minha espada está limpa.
 Mas não abusando da vontade de um bom homem, oque estes dois aprontaram para um estar ferido?
+
+
+## Mestre — resposta literal
+
+Bromir solta um resmungo indignado.
+
+— Mais comum do que parece? Ora, seu...
+
+Mas a gargalhada que lhe escapa desfaz qualquer tentativa de parecer ofendido.
+
+O patrulheiro da frente não acompanha a brincadeira. Seus olhos descem brevemente até a espada de Eron, sem exigir que ele a desembainhe.
+
+— Guarde sua lâmina onde está. Não estamos acusando ninguém.
+
+Ele troca um olhar com o companheiro antes de responder.
+
+— Ainda não sabemos exatamente o que fizeram. Dois homens foram vistos deixando uma propriedade ao norte, ontem à noite. Pouco depois, encontraram sangue perto do portão e sinais de que alguém havia sido arrastado pela estrada. O proprietário não estava lá para explicar.
+
+O segundo patrulheiro acrescenta:
+
+— Um dos suspeitos mancava, segundo uma testemunha. É tudo o que podemos afirmar.
+
+— Então vocês procuram dois homens por causa de sangue e uma propriedade vazia? — pergunta Bromir, franzindo a testa.
+
+— Procuramos respostas, mestre anão — replica o primeiro. — E preferimos encontrá-las antes que haja mais sangue.
+
+Ele volta a atenção para Eron.
+
+— Se não viram ninguém, não há motivo para retê-los. Mas, caso escutem alguma coisa na estalagem, procurem o sargento **Haldren**, no posto de Caldria.
+
+O homem dá um passo para o lado, deixando a passagem livre. Seu companheiro permanece junto à cerca.
+
+— Boa noite. E mantenham os olhos abertos.
+
+Bromir estala a língua para o burro, mas ainda espera Eron antes de prosseguir.
+
+— Sangue, desaparecimentos, homens feridos... — murmura o anão. — Estou começando a achar que devíamos ter ficado reclamando de ferreiros.
