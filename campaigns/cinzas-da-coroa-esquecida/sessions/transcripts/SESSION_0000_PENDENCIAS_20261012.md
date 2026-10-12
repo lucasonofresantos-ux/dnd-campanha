@@ -822,3 +822,50 @@ O guarda volta a atenção para Eron.
 — Última pergunta. Passaram a noite no Javali de Cobre? Estamos verificando quem esteve naquela estrada desde ontem à tarde.
 
 Ele mantém a tabuleta apoiada no antebraço, aguardando a resposta. Atrás da carroça, outros viajantes começam a demonstrar impaciência.
+
+
+## Jogador
+
+Vamos lá mas tente ser educado pelo menos, as vezes você pediu um eixo parecido com você, ai ele não tem culpa da sua falta de beleza kkkk
+
+## Mestre
+
+Bromir solta uma gargalhada tão estrondosa que uma mulher carregando um cesto de nabos se vira para encará-lo.
+
+— Um eixo parecido comigo?! Pelas barbas de Moradin, rapaz, se aquele ferreiro tivesse feito um eixo com metade da minha resistência, essa carroça duraria mais cem anos!
+
+Ele afaga a própria barba, fingindo vaidade.
+
+— E quanto à beleza, saiba que Helga me considerava o anão mais bonito de três fortalezas!
+
+— Ela conhecia muitos anões? — pergunta um carregador que passa ao lado da carroça.
+
+Bromir encara o homem.
+
+— Cuide dos seus sacos de farinha!
+
+O carregador segue adiante, rindo.
+
+Poucos minutos depois, a carroça alcança uma oficina de pedra escurecida pela fuligem. Acima da entrada, uma placa de ferro representa um martelo envolto em chamas vermelhas. O calor da forja escapa pelas portas abertas, acompanhado do cheiro de carvão e metal aquecido.
+
+Um jovem aprendiz, de avental chamuscado, trabalha junto à bigorna. Mais ao fundo, um homem largo de ombros, com cabelos grisalhos presos atrás da cabeça, examina uma peça de ferro sob a luz.
+
+Bromir estaciona a carroça e desce.
+
+— **Garrik!** Seu velho destruidor de carroças! Vim devolver uma obra-prima sua!
+
+O ferreiro ergue os olhos lentamente.
+
+— Bromir? — Ele pousa a peça na bancada. — Pelos deuses... A roda quebrou?
+
+— O eixo quase me matou!
+
+Garrik franze a testa. Seu olhar passa do anão para Eron e depois para a carroça.
+
+— Isso não deveria ter acontecido. Fiz aquele eixo há menos de um mês.
+
+A irritação de Bromir diminui um pouco diante da seriedade da resposta.
+
+Garrik limpa as mãos num pano.
+
+— Mostre-me onde ele falhou.
