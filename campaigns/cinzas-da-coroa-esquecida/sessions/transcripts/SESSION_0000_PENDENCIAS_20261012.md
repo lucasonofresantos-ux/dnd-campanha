@@ -712,3 +712,30 @@ Bromir, alheio às palavras que Eron conseguiu captar, termina seu pão.
 — Então, rapaz, ainda pretende me acompanhar até aquele ferreiro? Porque, se demorarmos muito, vou acabar precisando de outro desjejum!
 
 O sargento permanece no balcão por mais alguns instantes, enquanto Harl procura uma chave.
+
+
+## Jogador
+
+Sim vou sim, não tenho muito oque fazer agora, então vamos lá, deixe eu pagar o meu desejum e pague o seu também
+
+## Mestre
+
+Bromir termina a infusão e pousa a caneca com um suspiro satisfeito.
+
+— Ora, veja só! Finalmente concordamos em alguma coisa. E não se preocupe, rapaz, ainda tenho moedas suficientes para pagar meus próprios ovos!
+
+O anão se levanta e acompanha Eron até o balcão. Harl recebe **três peças de prata de cada um** e agradece pela estadia. Eron fica com **57 peças de ouro e 3 peças de prata**.
+
+O sargento já não está junto ao livro de hóspedes. Pela janela, Eron consegue vê-lo atravessando o pátio em direção aos estábulos, acompanhado pelo rapaz que cuida dos cavalos. Harl recolhe as moedas e comenta:
+
+— Se vão para Caldria, aproveitem a manhã. A estrada fica ruim quando chove mais forte.
+
+Bromir ajeita o cinto e se dirige à porta.
+
+— É justamente o que pretendo fazer. Tenho um ferreiro para atormentar!
+
+No pátio, o burro de Bromir está preso junto à carroça. A roda consertada permanece no lugar, embora a madeira ainda esteja marcada pelo barro da estrada. O sargento conversa com o rapaz dos estábulos a poucos passos dali, examinando uma das baias.
+
+Bromir para ao lado da carroça e confere a amarração de uma caixa.
+
+— Vamos pôr essa velha carroça em movimento, Eron. Com sorte, chegaremos a Caldria antes do meio-dia.
