@@ -271,3 +271,26 @@ Bromir segura as rédeas e aguarda, sem fazer qualquer movimento brusco.
 ## Jogador — fala literal
 
 Bem eu Eron, e este é bromir eu estou vindo do pulgueiro e só quero comer e dormir hoje
+
+
+## Mestre — resposta literal
+
+O homem da lança observa Eron por um instante, depois volta os olhos para Bromir.
+
+— Pulgueiro, hein? Uma boa caminhada até aqui.
+
+— E uma caminhada ainda pior empurrando uma carroça quebrada — resmunga Bromir. — Sou comerciante. Ele me ajudou na estrada. Agora, se não houver nenhuma lei contra comer um ensopado quente, gostaríamos de seguir.
+
+O patrulheiro mais próximo não sorri. Examina rapidamente a roda nova, as roupas molhadas dos viajantes e as armas de Eron.
+
+— Não há lei contra jantar, mestre anão. Mas estamos procurando dois homens que podem ter passado por esta estrada. Um deles estaria ferido. Recebemos ordens de perguntar a todos os viajantes.
+
+O segundo guarda se aproxima alguns passos da cerca, mantendo a lança apontada para o chão.
+
+— Viram alguém entre Pulgueiro e esta estalagem? Algum viajante a pé, carroça abandonada ou sinais de luta?
+
+Bromir olha de relance para Eron.
+
+— Além de uma roda quebrada e muita lama, eu não vi nada digno de nota.
+
+O primeiro patrulheiro aguarda a resposta de Eron. Atrás dos homens, a luz das janelas do **Javali de Cobre** parece ainda mais convidativa com o vento frio que começa a soprar.
