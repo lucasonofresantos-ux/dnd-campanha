@@ -21,3 +21,8 @@ Do interior do **Javali de Cobre** chegam risadas, o tilintar de canecas e uma d
 Bromir termina de soltar as correias do burro e percebe que Eron está examinando o lugar.
 
 — Encontrou alguma coisa interessante, rapaz? Ou está tentando descobrir de onde vem o cheiro do ensopado?
+
+## Jogador — mensagem literal
+
+(Faça o registro e se precisar peça a permissão que eu libero)
+Precaução nunca é de mais, e precisa de ajuda com alguma coisa aí, vamos logo que estou com fome e cede
