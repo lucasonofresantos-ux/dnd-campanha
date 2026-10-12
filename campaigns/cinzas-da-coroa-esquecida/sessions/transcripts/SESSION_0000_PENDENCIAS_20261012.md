@@ -789,3 +789,36 @@ O guarda não sorri. Seus olhos passam das caixas amarradas à carroça para Ero
 — E seu acompanhante? Viajam juntos desde onde?
 
 Bromir olha de lado para Eron, deixando que ele responda por si.
+
+
+## Jogador
+
+Venho do pulgueiro também, mas encontrei ele precisando de ajuda com a roda da carroça, diz ele que a roda dele não anda muito boa, vou acompanha lo até o ferreiro
+
+## Mestre
+
+O guarda de rosto sardento escuta Eron e lança um olhar para a roda consertada. A madeira nova e as marcas do reparo ainda são visíveis sob a lama seca.
+
+— Entendo. Então não saíram juntos de Pulgueiro. Encontraram-se na estrada.
+
+Ele anota algumas palavras na tabuleta.
+
+Bromir inclina-se sobre o banco da carroça, ofendido.
+
+— A roda está ótima agora, graças a ele! O problema foi o eixo, feito por um sujeito que aparentemente aprendeu ferraria batendo em panelas!
+
+O guarda ergue uma sobrancelha.
+
+— Senhor, estou tentando fazer meu trabalho.
+
+— E eu estou tentando chegar ao ferreiro antes que minha barba fique branca!
+
+— Sua barba *já* é branca.
+
+Por um instante, Bromir fica sem resposta. Um dos soldados próximos disfarça uma risada.
+
+O guarda volta a atenção para Eron.
+
+— Última pergunta. Passaram a noite no Javali de Cobre? Estamos verificando quem esteve naquela estrada desde ontem à tarde.
+
+Ele mantém a tabuleta apoiada no antebraço, aguardando a resposta. Atrás da carroça, outros viajantes começam a demonstrar impaciência.
