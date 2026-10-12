@@ -1675,3 +1675,33 @@ Quase ao mesmo tempo, Eron ouve um ruído abafado vindo da região dos fundos da
 Bromir olha para o objeto e coça a barba.
 
 — Seja o que for, espero que valha a viagem.
+
+
+## Jogador
+
+- Bem Bromir me espera aqui, vou ver a carroça.
+(Rola furtividade para mim, e eu vou me aproximar por trás do homem do colete)
+
+## Mestre
+
+**Destreza (Furtividade): 1d20 → [9] +6 = 15**
+
+Rolagem executada em Python com `secrets.randbelow()`, seguindo o código do rolador do GitHub.
+
+— Vou ficar de olho na carroça — diz Eron.
+
+Bromir, ocupado observando Velkan examinar o cilindro de bronze, responde sem desviar os olhos:
+
+— Muito bem. E veja se ninguém resolve cobrar pelo estacionamento!
+
+Eron deixa a oficina e passa junto à carroça, como se estivesse apenas conferindo as amarras da carga. A travessa é estreita, com caixotes empilhados contra as paredes e algumas passagens entre os edifícios. O movimento da praça oferece oportunidades para se misturar aos pedestres, mas também dificulta manter alguém à vista.
+
+O homem de colete verde-escuro está alguns passos adiante, próximo à esquina. Eron contorna uma pilha de caixotes e procura aproximar-se por trás, aproveitando o barulho das rodas e das conversas.
+
+A poucos metros do desconhecido, porém, uma tábua solta range sob a bota de Eron.
+
+O homem vira ligeiramente a cabeça.
+
+Eron consegue alcançar a entrada de uma passagem lateral antes que o sujeito se volte por completo, mas não tem certeza de que passou despercebido. O desconhecido permanece imóvel por um instante, depois começa a caminhar em direção à praça, olhando de relance por cima do ombro.
+
+**Eron está a cerca de seis metros dele, parcialmente encoberto pelos caixotes.** O homem ainda não sacou nenhuma arma nem fez qualquer movimento abertamente hostil.
