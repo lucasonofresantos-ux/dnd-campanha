@@ -622,3 +622,22 @@ Bromir troca um olhar com Eron, reconhecendo a descrição dos acontecimentos me
 — Hum... Então ainda estão procurando aqueles homens.
 
 O estalajadeiro permanece junto à mesa, aguardando o pedido.
+
+
+## Jogador
+
+Você traz mais azar que um (o nome de uma criatura que traga azar em DnD)
+
+## Mestre
+
+— Você traz mais azar que um **gato preto de uma bruxa da noite**, Bromir! — comenta Eron, olhando de relance para o sargento junto ao balcão.
+
+O anão quase engasga com o pão.
+
+— Eu?! Foi você quem apareceu na minha estrada! Antes disso, meu maior problema era uma roda quebrada. Agora tem patrulheiro entrando em toda estalagem por onde passamos!
+
+Ele aponta um pedaço de pão para Eron.
+
+— E, para sua informação, uma bruxa da noite teria mais medo da minha esposa do que eu dela!
+
+Bromir volta a comer, mas mantém a voz baixa. Perto do balcão, o sargento continua conversando com Harl, que começa a consultar o livro de hóspedes.
