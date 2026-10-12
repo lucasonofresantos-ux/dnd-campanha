@@ -1,0 +1,7 @@
+campaign_id,session_id,order,context,roller,dice_original,drop,result,modifier,total,occurred_in_current_session,notes
+cinzas-da-coroa-esquecida,criacao_historica,1,atributos_4d6_descartar_menor,jogador,"6 4 3 2",2,13,0,13,false,"Resultado informado anteriormente; nenhuma rolagem nesta execução"
+cinzas-da-coroa-esquecida,criacao_historica,2,atributos_4d6_descartar_menor,jogador,"6 6 1 1",1,13,0,13,false,"Um dos dois dados iguais a 1 descartado"
+cinzas-da-coroa-esquecida,criacao_historica,3,atributos_4d6_descartar_menor,jogador,"6 5 3 2",2,14,0,14,false,"Sem atribuição individual de sequência a atributo"
+cinzas-da-coroa-esquecida,criacao_historica,4,atributos_4d6_descartar_menor,jogador,"6 5 1 1",1,12,0,12,false,"Um dos dois dados iguais a 1 descartado"
+cinzas-da-coroa-esquecida,criacao_historica,5,atributos_4d6_descartar_menor,jogador,"5 5 5 3",3,15,0,15,false,"Dados históricos de criação"
+cinzas-da-coroa-esquecida,criacao_historica,6,atributos_4d6_descartar_menor,jogador,"4 4 4 4",4,12,0,12,false,"Um dos quatro dados iguais a 4 descartado"
