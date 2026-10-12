@@ -999,6 +999,35 @@ Bromir encara o metal por mais alguns instantes.
 
 ## Jogador
 
+Não se preocupe, e ninguém perguntou por onde ia? Nada, acredito que isso tenha sido feito no mesmo dia que a carroça quebrou, estou certo Garrik?
+
+## Mestre
+
+Garrik ergue o pino danificado até a altura dos olhos e o gira lentamente entre os dedos.
+
+— Não necessariamente, Eron. O corte pode ter sido feito no dia em que a carroça quebrou, mas também um ou dois dias antes. A peça foi enfraquecida; o movimento e o peso da carga terminaram o serviço. — Ele aponta para a superfície partida. — Consigo distinguir o corte feito por ferramenta da parte que se rompeu durante a viagem. Mas não tenho como dizer quando alguém usou essa ferramenta.
+
+Bromir passa a mão pela barba, pensativo.
+
+— Perguntaram por onde eu ia? Ora, isso é comum. Mercadores vivem falando de rotas. — Ele franze a testa. — Mas aquele comprador de Pulgueiro... depois da discussão, perguntou se eu seguiria para Caldria ou tomaria a estrada do oeste. Achei que ainda estivesse tentando negociar a entrega.
+
+Garrik deposita o pino sobre um pano limpo.
+
+— E o que você respondeu?
+
+— Que tinha negócios em Caldria, naturalmente. Não era segredo.
+
+O ferreiro olha para Eron.
+
+— Se alguém pretendia provocar um acidente, precisava ter acesso à carroça, não necessariamente saber onde ela quebraria. E ainda não sabemos se o alvo era Bromir, a mercadoria ou outra coisa.
+
+Bromir lança um olhar desconfortável para a carga coberta pela lona.
+
+— Pois agora começo a me perguntar se vale a pena ser tão conversador...
+
+
+## Jogador
+
 Bem acho que aqui vai demorar um pouco, qual era o nome mesmo do chef da patrulha? E pelos deuses você não tentou estorqui ele com os seus preços
 
 ## Mestre
