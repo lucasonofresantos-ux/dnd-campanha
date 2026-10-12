@@ -2071,3 +2071,20 @@ Uma segunda voz, mais distante, responde:
 Pela fresta, Eron distingue parte de uma estante e a sombra de alguém se movendo entre caixotes. **Há pelo menos duas pessoas no depósito**, e nenhuma parece ter percebido sua aproximação.
 
 A porta continua fechada o suficiente para ocultá-lo. Os intrusos estão ocupados procurando alguma coisa, mas Eron ainda não sabe o quê.
+
+
+## Jogador
+
+Eu consigo entrar sem querer eles perceba utilizando a furtividade?
+
+## Mestre
+
+**Sim, Eron pode tentar entrar furtivamente no depósito.** Com seu resultado de Furtividade **26**, os dois intrusos ainda não perceberam sua presença.
+
+Pela fresta da porta, Eron consegue distinguir uma estante e caixotes que oferecem alguma cobertura. Entretanto, a porta precisa ser aberta um pouco mais para permitir sua passagem, e o movimento pode chamar atenção.
+
+As duas vozes continuam discutindo em tom baixo. Uma delas parece vir de perto da estante; a outra, de algum ponto mais afastado do depósito.
+
+**Você pode aproveitar a Furtividade 26 já obtida para tentar entrar.** Não vou exigir outra rolagem imediatamente, pois Eron ainda está realizando a mesma aproximação furtiva. Isso não garante que permanecerá oculto caso atravesse uma área iluminada ou entre no campo de visão dos intrusos.
+
+Eron continua junto à porta, sem ser detectado. A decisão de atravessá-la permanece com você.
