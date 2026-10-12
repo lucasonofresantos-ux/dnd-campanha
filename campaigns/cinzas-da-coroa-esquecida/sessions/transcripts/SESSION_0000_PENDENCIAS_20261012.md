@@ -1338,3 +1338,38 @@ O sargento volta a encarar Eron.
 Ele entrelaça os dedos sobre a mesa.
 
 — Agora me diga uma coisa, Eron: por que um viajante que chegou ontem à cidade se interessou tanto pela movimentação da guarda?
+
+
+## Jogador
+
+Quando a patrulha se agita costuma ser problema, e eu prefiro estar preparado, oque posso te falar é que encontrei Bromir na estrada com a carroça quebrada, depois fomos jantar, lá tinha dois homens conversando e interessados em perguntar algo ao bromir, e esperando alguém, relaxaram quando entrou uma mulher suja de lama na taverna, depois fomos dormir, escutamos dois homens batendo na porta do quarto ao lado dizendo que queriam conversar com alguém que estava lá, e que sabiam que estava ali dentro e a conversa era de interesse dele, chegamos aqui descobrimos que o eixo da carroça tinha sido sabotado e tem um cara de capa castanha seguindo a gente desde a ferraria. Fora isso o meu dia está sendo bom tirando as reclamações do anão
+
+## Mestre
+
+Haldren escuta sem interromper. À medida que Eron relata os acontecimentos da estalagem, o sargento puxa uma folha de pergaminho e começa a fazer anotações. Quando ouve sobre o eixo sabotado, interrompe a escrita. Ao ouvir sobre o homem de capa castanha, pousa a pena.
+
+— Um momento. Está me dizendo que o ferreiro encontrou sinais de sabotagem, e que alguém os acompanhou desde a oficina até aqui?
+
+Bromir cruza os braços.
+
+— Exatamente. E eu gostaria de registrar que minhas reclamações são perfeitamente justificadas.
+
+— Bromir, por favor — responde Haldren, sem desviar os olhos de Eron.
+
+O anão resmunga alguma coisa sobre a falta de respeito pelos comerciantes honestos, mas se cala.
+
+Haldren se levanta e vai até a porta. Abre-a apenas o suficiente para chamar um guarda.
+
+— Deren. Mande um homem discretamente à praça. Há um sujeito de capa castanha nas proximidades de uma barraca de tecidos. Quero saber se ainda está lá, para onde vai e se encontra alguém. **Nada de abordá-lo por enquanto.** E peça que alguém vá à Forja do Martelo Rubro. Preciso falar com Garrik e preservar aquela peça danificada.
+
+O guarda confirma e se afasta. Haldren fecha a porta.
+
+— Quanto aos homens da estalagem, preciso de mais detalhes. Mas há uma coisa que me interessa particularmente: você disse que eles pareciam esperar alguém e ficaram mais tranquilos quando uma mulher coberta de lama entrou. Isso pode significar alguma coisa ou absolutamente nada. Não vou tratar coincidências como provas.
+
+Ele volta à mesa e apoia as mãos sobre o pergaminho.
+
+— Você prestou atenção em coisas que muitos viajantes ignorariam, Eron. E não parece surpreso com a possibilidade de alguém tentar matá-los.
+
+O sargento observa Eron por um instante antes de perguntar:
+
+— **Qual era sua ocupação antes de começar a viajar?** E, se conseguir, descreva os dois homens e a mulher da estalagem. Quero saber exatamente o que você viu, não o que suspeita.
