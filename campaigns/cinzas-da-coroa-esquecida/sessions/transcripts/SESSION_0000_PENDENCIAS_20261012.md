@@ -1272,3 +1272,30 @@ Bromir confirma com a cabeça.
 — Lembro de vocês — diz o sargento. — Pois bem, senhores. O que os traz até mim?
 
 Do outro lado da praça, o homem de capa castanha continua perto da barraca de tecidos. Dali, não é possível saber se consegue ouvir a conversa.
+
+
+## Jogador
+
+Bem sargento se importa de conversamos em uma sala?
+
+## Mestre
+
+Haldren estreita ligeiramente os olhos. Seu olhar passa de Eron para Bromir e, por um instante, para a praça movimentada atrás deles.
+
+— Uma sala reservada? — pergunta, em voz baixa. — Muito bem. Imagino que não tenham vindo apenas reclamar da fiscalização nas estradas.
+
+Ele se vira para o guarda da entrada.
+
+— Deren, assuma a recepção. Não quero ser interrompido, a menos que seja urgente.
+
+O sargento conduz os dois por um corredor de pedra até uma sala pequena, iluminada por uma janela estreita. Há uma mesa de carvalho, três cadeiras, um armário fechado e um mapa da região preso à parede. Haldren fecha a porta depois que todos entram.
+
+Bromir acomoda-se numa cadeira, que range sob seu peso.
+
+— Espero que não cobrem pelo uso da sala — murmura o anão.
+
+— Não cobramos — responde Haldren, puxando a própria cadeira. — Embora eu esteja começando a considerar a ideia.
+
+O sargento apoia os antebraços sobre a mesa. Sua expressão agora é séria.
+
+— Estamos a portas fechadas, Eron. **O que deseja me contar?**
