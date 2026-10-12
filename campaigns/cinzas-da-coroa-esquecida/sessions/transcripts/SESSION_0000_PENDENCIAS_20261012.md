@@ -974,6 +974,31 @@ Bromir se aproxima um pouco de Eron e fala num tom menos brincalhão:
 
 ## Jogador
 
+Bem, você irritou alguém? Mas que o normal pelo menos, e sim então somos amigos, você falou isso por que eu disse que ia cobrar se salva se a sua vida neh? Assim como amigo eu não posso cobrar, anão avarento
+
+## Mestre
+
+Bromir arregala os olhos e solta uma gargalhada que ecoa pela oficina.
+
+— **AH! ENTÃO ERA ISSO!** Você descobriu meu plano, Eron! Chamei você de amigo para escapar de uma cobrança futura!
+
+Ele enxuga uma lágrima de riso com o dorso da mão.
+
+— Mas escute bem, seu malandro: se salvar minha vida, pago uma cerveja. Se salvar duas vezes, pago duas. Na terceira, começamos a negociar um desconto por fidelidade!
+
+Garrik balança a cabeça, divertindo-se, mas Bromir logo volta a atenção para o pino cortado sobre a bancada. O sorriso desaparece aos poucos.
+
+— Quanto a irritar alguém... sou mercador, rapaz. Já discuti preços com metade das pessoas entre Pulgueiro e Caldria. Mas ameaças? Não me lembro de nenhuma. — Ele pensa por um momento. — Há três dias, tive uma discussão com um comprador em Pulgueiro. Queria levar uma encomenda sem pagar o restante. Mandei-o embora. Não seria a primeira vez que alguém me chamasse de ladrão por exigir o que me devem.
+
+— Uma discussão por dinheiro não significa que ele tenha feito isso — observa Garrik, apontando para o pino. — Mas eu levaria a peça à guarda. E não colocaria essa carroça na estrada antes de substituir o conjunto.
+
+Bromir encara o metal por mais alguns instantes.
+
+— Pois bem... — Ele olha para Eron. — Parece que ganhei um amigo e um problema no mesmo dia. Só espero que você seja mais barato de manter do que a carroça!
+
+
+## Jogador
+
 Bem acho que aqui vai demorar um pouco, qual era o nome mesmo do chef da patrulha? E pelos deuses você não tentou estorqui ele com os seus preços
 
 ## Mestre
