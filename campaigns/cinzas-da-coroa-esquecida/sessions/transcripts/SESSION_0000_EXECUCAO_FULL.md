@@ -129,3 +129,29 @@ Bromir começa a posicionar as pedras sobre um trecho de solo mais firme e traz 
 A montagem parece viável, e Bromir está preparado para ajudar. Entretanto, a lama, o peso da carga e a resistência da madeira tornam incerto o momento de erguer o eixo.
 
 **Faça um teste de Força (Atletismo): 1d20 +3.** A ajuda de Bromir concede **Vantagem**: role 2d20 e utilize o maior resultado, somando +3.
+
+## Jogador — rolagem literal
+
+Minha rolagem de Atletismo: 14 e 8 (vantagem); dado utilizado = 14 | modificador +3 | Total = 17.
+
+## Mestre — resolução da rolagem
+
+**Teste de Força (Atletismo) — Sucesso!**
+
+Dados com vantagem: 14 / 8. Modificador: +3. Total: 17.
+
+Eron pressiona a extremidade da tábua. A madeira geme sob a tensão, enquanto a pedra usada como apoio afunda ligeiramente na terra úmida. Por um instante, nada acontece. Então a lateral da carroça começa a subir, centímetro por centímetro.
+
+— Isso! Continue! — exclama Bromir, ajoelhando-se junto ao eixo.
+
+O anão introduz o primeiro calço, depois o segundo. Dá uma pancada firme em cada um e se afasta para verificar a estabilidade. A carroça permanece suspensa, apoiada na madeira e nas pedras, sem que Eron precise continuar sustentando seu peso.
+
+— Pelas forjas de Moradin! Funcionou! — Bromir passa a mão pela barba. — Agora podemos trocar essa roda sem acabar esmagados debaixo da minha própria mercadoria.
+
+Ele retira a roda danificada e examina o encaixe do eixo. Sua expressão satisfeita desaparece um pouco.
+
+— Hm. A roda nova serve, mas o pino de fixação antigo entortou. Tenho um sobressalente em algum lugar entre minhas ferramentas.
+
+Bromir abre uma pequena caixa de ferro e começa a procurar.
+
+— Já que me ajudou a salvar a carroça, Eron, diga-me uma coisa: está seguindo para Caldria ou apenas procurando um lugar onde passar a noite?
