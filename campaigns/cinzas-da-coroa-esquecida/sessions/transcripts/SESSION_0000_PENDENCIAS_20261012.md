@@ -1476,3 +1476,26 @@ Até Haldren deixa escapar um breve sorriso. Então o sargento recolhe suas anot
 Ele estende a mão a Eron.
 
 — E procure não me dar motivos para conhecer seu talento com lâminas, investigador.
+
+
+## Jogador
+
+Eu pego a mão dele, eu também espero isso, e não trabalho de graça, peguei o péssimo costume de minha companhia de não fazer coisas de graça
+
+Vou rolar intuição para avaliar se o sargento é de segurança
+
+## Mestre
+
+Haldren aperta a mão de Eron com firmeza.
+
+— Então você e Bromir têm mais em comum do que imaginava.
+
+— **Eu ouvi isso!** — protesta o anão. — E gostaria de esclarecer que cobrar pelo próprio trabalho é sinal de inteligência, não um péssimo costume!
+
+O sargento esboça um sorriso, mas Eron aproveita a proximidade para observar melhor o homem: sua postura, a maneira como responde às provocações e, sobretudo, como conduziu a conversa sobre os desaparecimentos.
+
+**Teste de Sabedoria (Intuição): `1d20 +4`.**
+
+Esse teste permitirá avaliar se Haldren parece confiável, se demonstra sinais de ocultar informações ou se há motivos concretos para desconfiar de suas intenções. Mesmo um resultado elevado não revelará automaticamente tudo o que ele sabe.
+
+Role o d20 e me diga o resultado natural. Vou aguardar antes de revelar a impressão de Eron.
