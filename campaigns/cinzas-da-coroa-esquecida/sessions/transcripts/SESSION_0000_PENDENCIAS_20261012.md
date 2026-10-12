@@ -1918,3 +1918,22 @@ Ele volta os olhos para Eron.
 — É tudo que posso lhe dizer sobre isso. Não vou inventar um nome só para me livrar da sua espada.
 
 A descrição lembra um dos homens observados na estalagem O Javali de Cobre, embora ainda não seja suficiente para confirmar que se trata da mesma pessoa.
+
+
+## Jogador
+
+Eu pego o bilhete e saio de costas, guardo a arma quando não estiver mais ao alcance dele, e saio furtivamente e vigiando se alguém me segue e vou até a oficia do mestre Velkan 
+Me dê dados para furtividade e percepção
+
+## Mestre
+
+Eron recolhe o bilhete dos dedos trêmulos do desconhecido e recua sem lhe dar as costas. O homem permanece junto à escada, com as mãos erguidas. Quando a distância é suficiente, Eron guarda a arma e se prepara para retornar à oficina de Mestre Velkan pelas passagens próximas à Praça dos Tecelões.
+
+Para evitar ser seguido e perceber qualquer movimentação suspeita durante o retorno, faça dois testes:
+
+1. **Destreza (Furtividade): 1d20 +6** — Deslocar-se discretamente até a oficina.
+2. **Sabedoria (Percepção): 1d20 +6** — Observar se alguém acompanha Eron ou vigia a oficina.
+
+Interface interativa com dois dados d20 separados, modificadores +6 e botão para enviar ambos os resultados ao Mestre.
+
+A cena prosseguirá após os resultados, quando saberemos o que Eron consegue perceber durante o trajeto.
