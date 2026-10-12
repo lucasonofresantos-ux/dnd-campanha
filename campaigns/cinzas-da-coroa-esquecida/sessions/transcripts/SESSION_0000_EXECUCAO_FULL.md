@@ -83,3 +83,27 @@ O anão se inclina para procurar as ferramentas junto à carroça. **Ele nunca e
 - **Linha de Missão Ativa:** Ajuda informal para reparar a carroça.
 - **Eventos Cruciais Ocorridos:** Eron se apresentou, sugeriu usar uma alavanca e procura sinais de outras pessoas; teste de Percepção solicitado.
 - **Condições do Jogador:** Ladino 1; 11/11 PV, CA 13, 58 PO; sem condições.
+
+## Jogador — rolagem literal
+
+Minha rolagem de 1d20: dados = 4 | modificador +5 | Total = 9.
+
+## Mestre — resolução literal
+
+**Teste de Sabedoria (Percepção)**
+
+- Dado: **4**
+- Modificador informado: **+5**
+- Total informado: **9**
+
+A ficha de Eron registra Percepção **+6**, devido à Especialização. Portanto, o resultado correto do teste é **10**.
+
+A chuva escorre pelas bordas do abrigo enquanto Eron examina a encruzilhada. O burro permanece tranquilo, mastigando capim, e Bromir continua procurando suas ferramentas. Nenhuma pessoa aparece na estrada ou sobre o telhado.
+
+O bosque, entretanto, é denso. A vegetação molhada e a luz cada vez mais fraca dificultam enxergar além das primeiras árvores. Eron não identifica ninguém escondido, mas também não consegue garantir que estejam sozinhos.
+
+— Achei! — exclama Bromir, retirando um pé de cabra debaixo de uma lona. — Agora precisamos de um apoio firme. Aquelas pedras junto ao marco talvez sirvam.
+
+Ele deposita a ferramenta ao lado da carroça.
+
+— Então, Eron, como pretende montar essa alavanca?
