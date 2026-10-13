@@ -1306,3 +1306,24 @@ Varen permanece na sombra de um muro, a alguns passos de Eron.
 Eron consegue observar melhor: o guarda usa equipamento semelhante ao dos patrulheiros que acompanharam o sargento Haldren. À distância, porém, ainda não distingue seu rosto.
 
 A aproximação furtiva foi bem-sucedida. Nenhum dos transeuntes parece ter percebido o deslocamento da dupla, e Eron não identificou ninguém que os tenha acompanhado até a oficina.
+
+
+## Jogador
+Eu olho para ver se vejo o homem de casaco marrom
+
+## Mestre
+Eron permanece protegido pela sombra da passagem e volta sua atenção para o caminho que acabaram de percorrer.
+
+Com o olhar ainda atento após seu excelente teste de Percepção (25), examina o cruzamento, as portas das oficinas e os poucos transeuntes que passam sob a luz dos lampiões.
+
+O homem de casaco marrom não está à vista.
+
+Entretanto, Eron percebe algo que poderia passar despercebido: no cruzamento mais distante, uma figura acaba de se recolher para trás da esquina, justamente quando um carregador atravessa a rua. A distância e a iluminação não permitem distinguir suas roupas ou seu rosto.
+
+Varen acompanha a direção do olhar de Eron.
+
+— Viu alguma coisa?
+
+A figura não reaparece imediatamente. A oficina de Velkan permanece a poucos passos, com o possível patrulheiro junto à entrada.
+
+Eron pode continuar observando sem abandonar seu esconderijo; por enquanto, não há evidência suficiente para afirmar que aquela figura seja o homem de casaco marrom.
