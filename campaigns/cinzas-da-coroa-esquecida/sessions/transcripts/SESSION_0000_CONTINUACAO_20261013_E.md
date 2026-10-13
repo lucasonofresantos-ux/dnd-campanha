@@ -123,3 +123,75 @@ Transcrição confirmada no [GitHub](https://github.com/lucasonofresantos-ux/dnd
 - Referência: arquivo D, onde Varen permaneceu na oficina junto a Haldren, Velkan e Eron.
 - Sem novos dados, gasto de recursos, deslocamento ou avanço de relógios.
 - Aguardar a resposta livre de Eron.
+
+
+## Mensagem 0007 — Jogador (literal)
+
+Mestre, antes de continuarmos, consulte novamente as instruções atualizadas do projeto Mestre RPG e os arquivos pertinentes do repositório GitHub "lucasonofresantos-ux/dnd-campanha".
+
+A partir de agora, aplique as novas regras de rolagem de dados:
+
+- Utilize Python e o rolador "skills/dice-roller/dice_roller.py" quando houver execução disponível.
+- Execute automaticamente as rolagens necessárias de NPCs, aliados, inimigos e monstros, sem solicitar minha autorização a cada teste.
+- Para meu personagem, continue aguardando minhas rolagens ou minha autorização para executá-las.
+- Realize verificações ocultas quando as regras permitirem, sem revelar informações que meu personagem desconhece.
+- Nunca invente ou manipule resultados. Registre as rolagens conforme as instruções do projeto.
+
+IMPORTANTE: estamos continuando a campanha atual. Não reinicie a aventura, não recrie acontecimentos, não altere decisões anteriores nem modifique retroativamente resultados.
+
+Confira o estado canônico, o histórico integral e a última interação registrada no GitHub. Preserve a continuidade exata da história, dos personagens, das relações e das consequências.
+
+Essas mudanças são exclusivamente operacionais e passam a valer daqui para frente.
+
+Confirme que compreendeu as novas instruções, informe se o rolador Python está acessível e retome exatamente do ponto onde paramos, sem avançar a narrativa antes da minha próxima ação.
+
+## Mensagem 0008 — Mestre (texto da resposta visível)
+
+**Mestre do Santuário — instruções compreendidas.**
+
+Consultei novamente o repositório privado e confirmei o estado da campanha **As Cinzas da Coroa Esquecida — Sessão 0, com Eron e Bromir**.
+
+**Rolador Python disponível e verificado**
+
+O teste técnico confirmou:
+
+- Python 3.13.5 acessível.
+- Código `skills/dice-roller/dice_roller.py` copiado fielmente do GitHub, com SHA correspondente.
+- Script executado com sucesso no modo de ajuda, sem lançar dados.
+- Gerador `secrets.randbelow()` disponível no código.
+
+### Novo protocolo de rolagens
+
+A partir de agora, executarei automaticamente as rolagens necessárias dos NPCs, aliados, adversários e monstros. Para Eron, continuarei aguardando seus resultados ou sua autorização para utilizar Python.
+
+As rolagens públicas apresentarão dados individuais, modificadores e total. As ocultas permanecerão reservadas, com registro separado quando necessário.
+
+**Nenhuma rolagem da campanha foi realizada nesta verificação.** Nenhum resultado anterior foi alterado.
+
+### Continuidade preservada
+
+O último momento confirmado permanece na oficina de Velkan, em Caldria. **Haldren, Varen e Velkan estão presentes**, e Bromir não está nesta cena. A caixa continua fechada sob os cuidados de Velkan.
+
+A última fala de Varen a Eron foi:
+
+> — Estou ouvindo. Está esperando que eu faça alguma coisa?
+
+Eron continua com **8/11 PV, CA 13**, braço suturado, sem novas condições ou despesas registradas. Nenhum NPC agiu novamente, nenhum relógio avançou e nenhum teste foi exigido.
+
+O [protocolo operacional](https://github.com/lucasonofresantos-ux/dnd-campanha/blob/main/campaigns/cinzas-da-coroa-esquecida/sessions/PROTOCOLO_DADOS_20261013.md) foi salvo e verificado no GitHub (commit `667cbb3005800f5de2308c63590442e52319d865`).
+
+**A campanha está pausada exatamente nesse ponto, aguardando a próxima ação ou fala de Eron.**
+
+**[LOG DE MEMÓRIA DA CAMPANHA]**
+
+- **Localização Atual:** Oficina de Mestre Velkan, Caldria.
+- **NPCs Presentes e Relação:** Haldren, sargento e contratante; Varen, aliado circunstancial; Velkan, artesão. Bromir está ausente.
+- **Linha de Missão Ativa:** Investigar Marek, a caixa recuperada e os envolvidos no curtume.
+- **Eventos Cruciais Ocorridos:** Apenas atualização operacional das rolagens. Nenhum acontecimento novo na história.
+- **Condições do Jogador:** Eron River, Ladino nível 1; 8/11 PV, CA 13; braço suturado.
+
+## Controle técnico
+
+- Documento operacional salvo em `sessions/PROTOCOLO_DADOS_20261013.md`.
+- Os testes de executor usaram a ajuda do CLI e compilação de sintaxe; nenhuma rolagem foi efetuada.
+- Não houve avanço da aventura, nem recurso consumido.
