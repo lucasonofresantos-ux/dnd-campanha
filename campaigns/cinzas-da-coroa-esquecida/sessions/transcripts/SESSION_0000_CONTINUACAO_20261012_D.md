@@ -1283,3 +1283,26 @@ Eron e Varen estão prestes a seguir pelas passagens laterais de Caldria, evitan
 Vamos fazer dois testes separados: Furtividade 1d20 + 6, mover-se sem chamar atenção; Percepção 1d20 + 6, identificar possíveis perseguidores. Controles interativos para informar os resultados naturais de dois d20 físicos e enviar os totais ao Mestre.
 
 Varen espera junto à entrada da passagem, observando a rua. Ele não parece disposto a permanecer parado por muito tempo.
+
+
+## Jogador
+Furtividade: 1d20 [17] + 6 = 23. Percepção: 1d20 [19] + 6 = 25. Eron e Varen seguem discretamente para a oficina de Velkan.
+
+## Mestre
+Furtividade 23 (1d20 [17] + 6). Percepção 25 (1d20 [19] + 6).
+
+O crepúsculo envolve Caldria quando Eron e Varen deixam a Rua dos Oleiros. Seguindo pelas passagens estreitas entre oficinas, atravessam os trechos iluminados apenas quando o movimento dos transeuntes lhes oferece cobertura. Varen demonstra conhecer bem o bairro: evita uma rua patrulhada e escolhe um caminho atrás dos depósitos de madeira.
+
+Com sua percepção aguçada, Eron nota algo durante a travessia. Um homem de casaco marrom aparece duas vezes nas ruas que acabam de deixar. Na primeira, está parado diante de uma banca fechada; na segunda, surge no cruzamento seguinte, olhando para os dois lados. Quando Eron e Varen mudam novamente de direção, ele não reaparece. Pode ter sido um perseguidor, mas não há confirmação.
+
+Mais adiante, Varen ergue dois dedos, pedindo silêncio. Passos ecoam além de um portão. Eron identifica pelo som duas pessoas caminhando e conversando sobre o fechamento de uma oficina. Os passos se afastam sem se aproximarem da dupla.
+
+Pouco depois, alcançam a rua de Velkan por uma passagem lateral. A oficina ainda apresenta luz nas janelas. A porta principal está fechada, e Eron reconhece a silhueta de uma pessoa próxima à entrada, aparentemente montando guarda.
+
+Varen permanece na sombra de um muro, a alguns passos de Eron.
+
+— Chegamos sem trazer companhia que eu tenha percebido — murmura. — Mas aquele homem diante da oficina... é alguém de sua confiança?
+
+Eron consegue observar melhor: o guarda usa equipamento semelhante ao dos patrulheiros que acompanharam o sargento Haldren. À distância, porém, ainda não distingue seu rosto.
+
+A aproximação furtiva foi bem-sucedida. Nenhum dos transeuntes parece ter percebido o deslocamento da dupla, e Eron não identificou ninguém que os tenha acompanhado até a oficina.
