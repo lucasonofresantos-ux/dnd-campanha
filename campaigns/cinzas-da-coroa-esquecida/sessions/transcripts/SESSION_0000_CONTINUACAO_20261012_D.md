@@ -1543,3 +1543,16 @@ Varen recupera o equilíbrio e se coloca entre o homem e a saída para a rua.
 O homem alto, sob a adaga de Eron, estremece com o grito do companheiro. Apesar disso, permanece em silêncio, com a mão livre erguida.
 
 A situação agora: Eron mantém o homem alto intimidado, mas não agarrado; Varen bloqueia a fuga do homem de casaco marrom, que está alerta e ainda armado. O confronto não terminou.
+
+
+## Jogador
+?
+
+## Mestre
+Eron conseguiu intimidar o homem alto com um resultado de 19. Ele permanece em silêncio, com a adaga de Eron contra o pescoço.
+
+Entretanto, Varen falhou ao tentar dominar o segundo vigia: tirou 1 natural. O homem de casaco marrom escapou, gritou e levou a mão à arma. Varen está entre ele e a saída para a rua.
+
+O grito pode ter alertado alguém atrás da porta entreaberta.
+
+O próximo turno é de Eron, na segunda rodada. Ele ainda mantém a vantagem sobre o homem alto, mas não o imobilizou fisicamente. O outro vigia está alerta.
