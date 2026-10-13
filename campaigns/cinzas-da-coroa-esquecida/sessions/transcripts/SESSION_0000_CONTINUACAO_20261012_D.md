@@ -1424,3 +1424,22 @@ Há mais um detalhe: a porta de serviço atrás do homem alto está apenas encos
 Varen permanece próximo, parcialmente protegido pelos caixotes. Ao perceber que Eron terminou de examinar o ambiente, inclina discretamente a cabeça, aguardando sua iniciativa.
 
 Os dois homens continuam conversando, sem demonstrar que perceberam a presença da dupla.
+
+
+## Jogador
+Furtividade: 1d20 [20] + 6 = 26. Eron tenta alcançar furtivamente o homem alto pelas costas para dominá-lo com a adaga na garganta. Varen está preparado para avançar sobre o vigia de casaco marrom quando Eron iniciar a abordagem.
+
+## Mestre
+Furtividade: 26 — 20 natural! 1d20 [20] + 6 = 26. Excelente resultado; um 20 natural em teste de perícia não representa sucesso crítico automático.
+
+Eron desliza pela lateral dos caixotes, aproveitando o instante em que o homem alto volta a atenção para o companheiro. Nenhuma tábua range, nenhuma pedra se desloca sob suas botas. O cheiro forte do curtume encobre até a proximidade de outro corpo.
+
+Quando o vigia percebe um movimento pelo canto do olho, Eron já está atrás dele, ao alcance da adaga.
+
+— Você acha que eles... — começa o homem.
+
+A frase morre quando ele sente a presença de Eron às suas costas. Sua mão ainda segura o pequeno objeto metálico.
+
+Varen, oculto mais adiante, percebe que Eron alcançou a posição combinada. Seus músculos se contraem, pronto para avançar sobre o homem de casaco marrom assim que a abordagem começar.
+
+Eron conseguiu aproximar-se sem ser detectado. Para colocar a adaga na garganta do vigia e mantê-lo sob controle, ainda precisamos resolver a tentativa de agarrá-lo. Como a situação pode desencadear um confronto, primeiro determinaremos a iniciativa, sem conceder automaticamente a imobilização.
