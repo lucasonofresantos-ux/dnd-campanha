@@ -1327,3 +1327,35 @@ Varen acompanha a direção do olhar de Eron.
 A figura não reaparece imediatamente. A oficina de Velkan permanece a poucos passos, com o possível patrulheiro junto à entrada.
 
 Eron pode continuar observando sem abandonar seu esconderijo; por enquanto, não há evidência suficiente para afirmar que aquela figura seja o homem de casaco marrom.
+
+
+## Jogador
+(eu falo oque vi)
+Acho interessante esperarmos mais um pouco para ver se ele reaparece, vamos esperar 5 minutos, se não aparecer vamos até o beco em que ele estava conferir 
+
+## Mestre
+Varen escuta a descrição de Eron e dirige os olhos para o cruzamento distante.
+
+— Uma figura que se esconde justamente quando alguém passa... Pode ser coincidência. Mas já tivemos coincidências demais por hoje.
+
+Ele recua para junto de uma porta fechada, onde a sombra do beiral o protege da luz dos lampiões.
+
+— Cinco minutos. Sem movimentos desnecessários.
+
+Os dois permanecem ocultos. O primeiro minuto passa com o ruído distante de rodas sobre pedras. No segundo, uma mulher atravessa o cruzamento carregando um cesto. No terceiro, um aprendiz fecha as venezianas de uma oficina próxima.
+
+No quarto minuto, Eron percebe movimento no mesmo ponto: uma cabeça surge brevemente além da esquina, observa a rua da oficina de Velkan e desaparece. A distância impede identificar o rosto ou a cor do casaco, mas o comportamento é deliberadamente cauteloso.
+
+Varen também percebe o movimento.
+
+— Agora temos um motivo para investigar — sussurra.
+
+O quinto minuto termina sem que a figura volte a aparecer.
+
+À frente, o caminho até o cruzamento está momentaneamente vazio. O beco fica além da esquina, fora do campo de visão de Eron.
+
+Varen verifica a posição da espada sob a capa.
+
+— Podemos nos aproximar pelas sombras do lado esquerdo. Eu cubro a retaguarda.
+
+Ele espera Eron iniciar o avanço, conforme haviam combinado.
