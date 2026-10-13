@@ -88,3 +88,35 @@ A resposta original do Mestre não foi substituída por texto criado agora. Isso
 
 - Recuperação documental persistida e confirmada no commit `d53fa5dfd970fca661cb4d6ca62f31aef023cd8d`.
 - Nenhuma rolagem, mudança de estado ou novo turno narrativo.
+
+
+## Mensagem 0005 — Jogador (literal)
+
+Ok, e vamos continuar então
+Eu olho para Haldren e digo cadê o Varen que está demorando?
+
+## Mensagem 0006 — Mestre (literal)
+
+Haldren ergue os olhos, acompanhando a direção do olhar de Eron. A luz amarelada das lamparinas recorta o rosto do sargento enquanto ele inclina discretamente a cabeça para o outro lado da mesa.
+
+— **Varen? Ele está aqui, Eron. Não saiu da oficina.**
+
+Próximo à cadeira em que se apoiara, Varen endireita o corpo. As cicatrizes nos dedos ficam visíveis quando afasta a mão do encosto. Ele olha primeiro para Haldren, depois para Eron.
+
+— Estou ouvindo — diz, sem elevar a voz. — Está esperando que eu faça alguma coisa?
+
+Velkan continua junto à bancada, examinando a caixa ainda fechada. O sargento deixa a pergunta anterior em suspenso, aguardando para entender a que Eron se refere.
+
+**[LOG DE MEMÓRIA DA CAMPANHA]**
+
+- **Localização Atual:** Oficina de Velkan, Caldria.
+- **NPCs Presentes e Relação:** Haldren, sargento e contratante; Varen, colaborador de intenções parcialmente desconhecidas; Velkan, artesão. Bromir não está presente.
+- **Linha de Missão Ativa:** Investigar Marek, a caixa recuperada e os envolvidos no curtume.
+- **Eventos Cruciais Ocorridos:** Eron perguntou por Varen; Haldren confirmou que ele permanece na oficina. Nenhum tempo significativo passou.
+- **Condições do Jogador:** Eron, Ladino nível 1, **8/11 PV**, CA 13; braço suturado, sem recuperação de PV documentada.
+
+## Controle da interação
+
+- Referência: arquivo D, onde Varen permaneceu na oficina junto a Haldren, Velkan e Eron.
+- Sem novos dados, gasto de recursos, deslocamento ou avanço de relógios.
+- Aguardar a resposta livre de Eron.
