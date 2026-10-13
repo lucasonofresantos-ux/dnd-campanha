@@ -23,3 +23,35 @@ Ainda estão incompletos o diálogo antigo entre Eron e Bromir e alguns elemento
 - **Linha de Missão Ativa:** Caixa e operação no armazém dos Oleiros.
 - **Eventos Cruciais Ocorridos:** Histórico 01.02 restaurado, Varen fora da oficina; caixa fechada.
 - **Condições do Jogador:** Eron, Ladino 1, 8/11 PV, CA 13 e 19 flechas.
+
+
+## Mensagem 0017 — Jogador (literal)
+
+-Fala nisso, cade o Velkan que não vem
+
+## Mensagem 0018 — Mestre (literal)
+
+Haldren lança um olhar pela porta da cozinha. Do outro lado, ouve-se o atrito suave de uma ferramenta contra madeira e o tilintar ocasional de metal sobre a bancada.
+
+— Está na oficina, onde o deixamos — responde o sargento. — E, conhecendo aquele homem, não vai largar o trabalho só porque estamos impacientes.
+
+— **E continuo ouvindo vocês!** — protesta Velkan, sem aparecer à porta. — Estou ajustando a cunha para manter a mola imóvel. A caixa ainda está fechada. Se eu apressar esse serviço, podemos descobrir da pior maneira para que serve aquele pino.
+
+Haldren ergue ligeiramente as sobrancelhas, como quem considera a resposta suficiente. Da bancada, Velkan acrescenta:
+
+— Eron, quando terminar de comer, venha até aqui com suas ferramentas. Vou precisar da sua ajuda antes de mexer nas correias.
+
+**[LOG DE MEMÓRIA DA CAMPANHA]**
+
+- **Localização Atual:** Cozinha dos fundos da oficina de Velkan, Caldria.
+- **NPCs Presentes e Relação:** Haldren conversa com Eron; Velkan trabalha na oficina adjacente; Varen está no curtume buscando informações; Bromir está ausente.
+- **Linha de Missão Ativa:** Examinar a caixa e preparar a operação no armazém dos Oleiros.
+- **Eventos Cruciais Ocorridos:** Velkan confirmou que ainda trabalha na cunha e não abriu a caixa; solicitou a ajuda de Eron. Nenhuma badalada nova foi narrada.
+- **Condições do Jogador:** Eron, Ladino nível 1; 8/11 PV, CA 13, 19 flechas; durante a refeição, sem novas condições.
+
+*Interação registrada e conferida no GitHub.*
+
+## Controle
+
+- Continuidade: Velkan permanece na oficina, Varen ausente em diligência.
+- Caixa não aberta, sem rolagens e sem avanço de relógios.
