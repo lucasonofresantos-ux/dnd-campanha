@@ -1506,3 +1506,40 @@ Teste de Carisma (Intimidação): 1d20 + 1.
 Controle interativo de d20 para Intimidação de Eron: toque para rolar, Carisma +1 e botão Enviar resultado ao Mestre.
 
 O resultado determinará como o homem reage à ameaça renovada. Ainda estamos no turno de Eron, na primeira rodada.
+
+
+## Jogador
+Intimidação: 1d20 [18] + 1 = 19. Eron pressiona a adaga contra o pescoço do homem alto e reafirma a ordem para que ele permaneça em silêncio.
+
+## Mestre
+Intimidação: 19 — sucesso. 1d20 [18] + 1 = 19.
+
+O fio da adaga pressiona a pele do homem alto. Ele sente a ponta fria do aço e interrompe imediatamente qualquer tentativa de falar. Seus ombros enrijecem, e a mão que segura o pequeno objeto metálico fica suspensa junto ao corpo.
+
+Os olhos do vigia se arregalam. Ele ergue lentamente a mão livre, mostrando a palma vazia, e faz um aceno quase imperceptível.
+
+Ele compreendeu a ameaça e decidiu obedecer. Por enquanto, não pretende gritar nem resistir abertamente. Isso não significa que esteja fisicamente imobilizado.
+
+À frente, o homem de casaco marrom começa a se virar.
+
+— O que foi? Por que ficou...
+
+Nesse instante, Varen sai das sombras dos caixotes e avança sobre ele, conforme o combinado.
+
+Varen tenta alcançar o braço do homem antes que ele possa sacar a arma. Mas sua bota encontra uma pedra solta, e o movimento sai desajeitado.
+
+Manobra de Varen: 1d20 [1] + 2 = 3. O vigia percebe a aproximação e escapa da tentativa. Rolagem Python secrets.randbelow; rolagem adicional do vigia: 1d20 [18] + 1 = 19.
+
+O homem de casaco marrom recua bruscamente, levando a mão à arma.
+
+— Mas que diabos?!
+
+O grito ecoa pelo beco. A porta entreaberta atrás de Eron continua imóvel, mas agora existe o risco de alguém no interior ter ouvido.
+
+Varen recupera o equilíbrio e se coloca entre o homem e a saída para a rua.
+
+— Não faça nenhuma estupidez — adverte, mantendo a mão próxima da espada.
+
+O homem alto, sob a adaga de Eron, estremece com o grito do companheiro. Apesar disso, permanece em silêncio, com a mão livre erguida.
+
+A situação agora: Eron mantém o homem alto intimidado, mas não agarrado; Varen bloqueia a fuga do homem de casaco marrom, que está alerta e ainda armado. O confronto não terminou.
