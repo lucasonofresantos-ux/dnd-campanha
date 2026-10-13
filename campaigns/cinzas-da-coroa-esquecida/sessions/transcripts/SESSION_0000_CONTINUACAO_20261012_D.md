@@ -1556,3 +1556,33 @@ Entretanto, Varen falhou ao tentar dominar o segundo vigia: tirou 1 natural. O h
 O grito pode ter alertado alguém atrás da porta entreaberta.
 
 O próximo turno é de Eron, na segunda rodada. Ele ainda mantém a vantagem sobre o homem alto, mas não o imobilizou fisicamente. O outro vigia está alerta.
+
+
+## Jogador
+Eu falo para o homem que estou com a faca no pescoço, sem alguém sair dessa porta vou ter que girar rápido, e isso vai cortar sua jugular, então só vou perguntar está vez, tem alguém aqui dentro?
+Deixo a reação pronta se alguém sair da porta corto a garganta dele
+
+## Mestre
+O homem alto sente a pressão da adaga aumentar enquanto Eron fala junto ao seu ouvido:
+
+— Sem alguém sair dessa porta vou ter que girar rápido, e isso vai cortar sua jugular, então só vou perguntar está vez, tem alguém aqui dentro?
+
+O vigia lança um olhar desesperado para a porta entreaberta. Seus lábios tremem. Ele parece dividido entre o medo de responder e o medo de permanecer calado.
+
+Por fim, sussurra:
+
+— Tem... tem um homem lá dentro. Talvez dois. Não sei se o outro já saiu pelos fundos.
+
+Antes que consiga dizer mais, um ruído seco vem do interior: madeira raspando contra pedra, como um móvel sendo arrastado.
+
+A faixa de luz sob a porta é interrompida por uma sombra.
+
+O homem alto percebe o movimento e fecha os olhos por um instante.
+
+— Pelos deuses... — murmura quase sem voz.
+
+À frente, Varen mantém o homem de casaco marrom ocupado. Os dois se encaram, separados por poucos passos, enquanto o vigia procura uma abertura para sacar a arma.
+
+Eron prepara sua reação: caso alguém saia pela porta antes do início de seu próximo turno, tentará golpear o homem que mantém sob a adaga. A ação preparada consome sua reação quando o gatilho ocorrer. O golpe exigirá uma jogada de ataque; a posição da lâmina não garante automaticamente um ferimento fatal.
+
+Por enquanto, ninguém atravessou a porta.
