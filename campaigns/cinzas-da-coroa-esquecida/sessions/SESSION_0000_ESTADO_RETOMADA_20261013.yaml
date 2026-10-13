@@ -1,0 +1,40 @@
+campaign_id: cinzas-da-coroa-esquecida
+branch: sessao_0000_bromir_velkan
+status: active_for_resume
+source_of_truth: sessions/transcripts/SESSION_0000_CONTINUACAO_20261012_D.md
+scope: "Continuidade da Sessão 0, distinta da abertura alternativa da Sessão 0001 em Lorn"
+location: "Oficina de Mestre Velkan, Caldria"
+time: "Noite, após incidente no curtume e retorno a Velkan; a cronologia exata deve ser conferida ao prosseguir"
+character:
+  name: Eron River
+  class: Ladino
+  level: 1
+  hp_current: 8
+  hp_max: 11
+  ac: 13
+  wound: "Braço limpo e suturado por Orsik; sem recuperação de PV registrada depois"
+  money: "Saldo exato atualizado não confirmado; não importar 58 PO iniciais da outra execução"
+  conditions_confirmed: []
+present:
+  - "Haldren, sargento"
+  - "Varen, colaborador de identidade parcial"
+  - "Velkan, artesão"
+  - "Eron River"
+bromir_status: "Em segurança planejada na hospedaria Carvalho Cinzento; não consta presente na conversa final"
+objects:
+  - "Caixa pequena de madeira escura, de correias: entregue por Eron a Velkan na cena final, ainda fechada"
+  - "Imitação da peça de bronze: concluída por Velkan, acondicionada em bolsa de couro sobre a bancada; não declarada entregue a Eron"
+  - "Mecanismo/peça original de bronze em custódia de Velkan; manter separado da caixa"
+unresolved:
+  - "Origem e função da caixa e símbolo das três linhas convergindo num círculo"
+  - "Objetivos de Marek e conexão com os homens do curtume"
+  - "Vínculo de Varen com autoridades, ainda não demonstrado"
+  - "Situação exata dos capturados no curtume após ordem de Haldren para buscar atendimento e guardas"
+  - "Operação e pagamento pactuados com Haldren: 25 PO por capturados e 25 PO pela operação, sujeitos às condições; quitação não presumida"
+last_player_message_exact: "A forma que ele se porta e fala, as vestes também, é bem treinado, tem várias cicatrizes sobre os dedos, aquilo é de treinamento, e já vi agentes reais ou de nobres ele me lembra eles"
+last_gm_prompt: "Só há uma coisa que eu gostaria de entender: onde você teve contato com agentes da Coroa e de casas nobres?"
+next: "Aguardar fala ou ação livre de Eron; sem avançar relógios enquanto aguarda"
+transcription:
+  completeness: incomplete
+  audit: sessions/transcripts/AUDITORIA_CONTINUIDADE_20261013.md
+  current_historical_end: sessions/transcripts/SESSION_0000_CONTINUACAO_20261012_D.md
