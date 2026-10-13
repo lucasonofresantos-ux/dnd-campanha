@@ -345,3 +345,20 @@ Para atacar o homem corpulento pelas costas, você tem vantagem.
 [Interface interativa de rolagem: Ataque — Espada curta, 2d20kh1 +4; dois dados d20, botão Rolar os 2d20 e botão Enviar resultado ao Mestre.]
 
 Se acertar, rolaremos o dano: 1d6 +2 da espada curta, mais 1d6 de Ataque Furtivo.
+
+
+## Jogador
+Ataque de Eron com espada curta e vantagem contra o joelho do homem corpulento: 2d20kh1 → [13, 7] → 13 +4 = 17.
+
+## Mestre
+Ataque com espada curta: 17 — Acerto.
+
+2d20kh1 → [13, 7] → 13 +4 = 17
+
+A espada de Eron corta o ar na direção da parte posterior do joelho do homem corpulento. O vigia não percebe o ataque a tempo de se defender: a lâmina encontra sua perna.
+
+O golpe acertou, mas ainda precisamos determinar sua gravidade. O homem não teve oportunidade de reagir antes do impacto.
+
+Role o dano: 2d6 +2, sendo 1d6 da espada curta e 1d6 do Ataque Furtivo.
+
+[Interface interativa: rolar dois d6, exibir soma com +2 e enviar resultado ao Mestre.]
