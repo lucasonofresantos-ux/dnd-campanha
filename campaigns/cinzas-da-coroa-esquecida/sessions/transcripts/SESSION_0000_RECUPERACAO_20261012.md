@@ -246,3 +246,30 @@ Da posição atual, Eron está oculto no corredor, a poucos passos da porta entr
 Com sua Percepção 21, Eron identifica que a porta abre para o beco, mas ainda não consegue confirmar se existe cobertura imediatamente do lado de fora.
 
 Por enquanto, os dois homens não perceberam sua presença. Eron pode tentar espiar pela fresta para examinar o espaço antes de atravessar, ou arriscar a saída diretamente. A decisão é sua.
+
+
+## Jogador
+Eu saco a espada e a adaga e saio furtivamente, tomando cuidado para a espada e a adaga não refletir luz ou brilho
+
+## Mestre
+Eron mantém a espada curta e a adaga próximas ao corpo, com as lâminas inclinadas para baixo, evitando que suas superfícies polidas reflitam a luz que atravessa o beco.
+
+A porta cede lentamente. O ar frio da noite traz cheiro de chuva antiga, carvão e resíduos de curtume. Com a cautela de quem conhece o valor de cada passo, Eron atravessa a soleira, aproveitando a sombra projetada pela parede da oficina.
+
+**Furtividade mantida: 26.**
+
+O beco é estreito, com pouco mais de três metros de largura. À esquerda, uma pilha de barris e caixotes oferece cobertura. À direita, a cerca de oito metros, estão os dois homens.
+
+Um deles é largo de ombros, usa um gibão de couro escuro e mantém uma das mãos próxima à espada embainhada. O outro, mais magro, veste um manto cinzento e segura uma pequena lanterna coberta, cuja luz escapa apenas por uma abertura estreita.
+
+Ambos estão voltados para a extremidade oposta do beco, aparentemente atentos à rua.
+
+— Não gosto desse silêncio — murmura o homem mais largo.
+
+— Então fique quieto e escute — responde o outro.
+
+O homem da lanterna levanta ligeiramente a cabeça, mas não olha na direção de Eron.
+
+A aproximadamente dois metros da porta, os caixotes formam um abrigo junto à parede. Há também uma passagem entre dois edifícios mais adiante, depois dos homens, mas Eron ainda não consegue determinar aonde leva.
+
+**Os dois continuam sem perceber sua presença.** Eron está na sombra junto à saída da oficina, com as armas desembainhadas.
