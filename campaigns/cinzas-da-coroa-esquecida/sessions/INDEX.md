@@ -83,3 +83,6 @@ Arquivos produzidos nesta conferência: `transcripts/AUDITORIA_CONTINUIDADE_2026
 **Ressalva:** o arquivo anexado registra Haldren afirmando que **o primeiro toque noturno ainda não havia soado** num momento anterior à sua saída para a cozinha. O TXT termina **sem narrar uma primeira badalada**. O jogador recorda a badalada em continuação posterior; esse momento ainda não tem transcrição literal neste arquivo, e sua cronologia exata permanece pendente. A resposta equivocada no transcript E, que situou Varen na oficina, não é fato desta continuidade.
 
 **Prioridade documental:** preservar textos históricos dos arquivos D/E/F, mesmo quando contêm erros; considerar o TXT literal a fonte primária de cenas abrangidas e o estado isolado corrigido a fonte operacional para retomada. `../CAMPAIGN_STATE.yaml` pertence ao ramo alternativo em Lorn; não mesclar campanhas ou sessões.
+
+
+**Mensagem com o anexo e resposta desta recuperação:** [SESSION_0000_CONTINUACAO_20261013_G.md](transcripts/SESSION_0000_CONTINUACAO_20261013_G.md). Preserva solicitação do jogador, referência ao anexo e resposta do Mestre sem alterar a fonte literal original.
