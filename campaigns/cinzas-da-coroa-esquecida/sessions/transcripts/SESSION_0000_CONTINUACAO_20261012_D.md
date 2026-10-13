@@ -1146,3 +1146,22 @@ Uma mulher carregando um cesto de roupas atravessa a esquina. Varen espera que e
 — Podemos ir separadamente. A passagem termina num pequeno pátio atrás da casa do tanoeiro. Você chega primeiro, se preferir. Assim não precisa confiar suas costas a mim.
 
 Ele mantém a distância, deixando a escolha com Eron.
+
+
+## Jogador
+Concordo, nos encontramos lá em 5 minutos
+
+## Mestre
+Varen inclina a cabeça em concordância.
+
+— Cinco minutos, então. Atrás da casa do tanoeiro.
+
+Ele lança um último olhar à fachada do armazém e se afasta do beiral, tomando a direção da rua principal.
+
+— Eron... — acrescenta, antes de partir. — Se encontrar alguém naquele pátio antes de mim, não presuma que foi enviado por minha ordem.
+
+Sem esperar resposta, mistura-se aos transeuntes e desaparece depois da esquina.
+
+O sino de uma oficina próxima anuncia o fim da jornada de alguns trabalhadores. A luz do entardecer se alonga sobre as pedras da Rua dos Oleiros. A passagem indicada por Varen fica a pouca distância: estreita, sombreada e parcialmente oculta por barris vazios.
+
+O encontro está combinado para daqui a cinco minutos. Eron permanece junto à oficina, livre para escolher como aproveitar esse intervalo.
