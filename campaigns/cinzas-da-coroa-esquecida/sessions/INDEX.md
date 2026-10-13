@@ -110,3 +110,6 @@ Arquivos produzidos nesta conferência: `transcripts/AUDITORIA_CONTINUIDADE_2026
 **Retomada após bloqueio de gravação:** [SESSION_0000_CONTINUACAO_20261013_O.md](transcripts/SESSION_0000_CONTINUACAO_20261013_O.md) — fala 0037 e resposta 0038, arquivadas após sincronização da cópia local anterior. O sino ainda não tinha confirmação.
 
 **Espera e retorno:** [SESSION_0000_CONTINUACAO_20261013_P.md](transcripts/SESSION_0000_CONTINUACAO_20261013_P.md) — mensagens 0039 e 0040, Eron espera por Varen, que regressa com relatos dos prisioneiros, informações atribuídas a Neris e notícia de uma badalada cuja posição permanece desconhecida. Sem rolagens.
+
+
+[SESSION_0000_CONTINUACAO_20261013_Q.md](transcripts/SESSION_0000_CONTINUACAO_20261013_Q.md) — mensagens 0041–0042: réplica de bronze em bolsa na bancada; Varen recorda a senha e Haldren confirma a resposta; sem nova rolagem.
