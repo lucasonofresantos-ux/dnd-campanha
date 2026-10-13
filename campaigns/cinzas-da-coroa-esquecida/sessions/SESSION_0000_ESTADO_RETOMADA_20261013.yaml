@@ -42,3 +42,11 @@ last_verified_transcript: sessions/transcripts/SESSION_0000_CONTINUACAO_20261013
 
 operational_dice_protocol: sessions/PROTOCOLO_DADOS_20261013.md
 no_new_rolls_or_scene_advancement_on_protocol_update: true
+
+recovery_pending_20261013:
+  note: sessions/NOTA_PENDENCIA_0102_20261013.md
+  original_transcript_end: sessions/transcripts/SESSION_0000_CONTINUACAO_20261012_D.md
+  prisoner_count_at_curtume: "3 prisioneiros vivos e 1 morto (correcao confirmada pelo jogador)"
+  varen_after_missing_continuation: "Segundo o jogador, foi ao curtume buscar informacoes; contradiz a cena incorreta no transcript E"
+  first_bell: "Ja soou segundo o jogador; faltam falas originais para posicionar horario preciso"
+  pause: "Nao avancar ate receber documentacao ausente ou orientacao expressa do jogador"
