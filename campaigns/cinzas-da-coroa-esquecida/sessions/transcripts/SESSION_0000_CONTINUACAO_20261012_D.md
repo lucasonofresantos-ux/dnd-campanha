@@ -839,3 +839,31 @@ Me dê os dados
 
 ## Mestre
 Teste de Sabedoria (Percepção) para Eron examinar as cocheiras e procurar possíveis ameaças. Percepção — Carvalho Cinzento: 1d20 + 6. Controle interativo de rolagem apresentado ao jogador; aguardando resultado.
+
+
+## Jogador
+Percepção nas cocheiras: 1d20 [4] + 6 = 10.
+
+## Mestre
+Sabedoria (Percepção): 10
+1d20 [4] + 6 = 10
+
+Eron percorre o pátio com os olhos, procurando movimentos suspeitos nas janelas e entre as baias. O ruído dos cascos, o ranger do portão e as vozes vindas da cozinha dificultam distinguir sons mais distantes.
+
+A porta entreaberta que liga as cocheiras à estalagem agora está imóvel. Eron não vê ninguém atravessá-la. Nas janelas superiores, as cortinas estão fechadas; não há rostos visíveis.
+
+Nenhuma ameaça evidente chama sua atenção, mas isso não basta para garantir que o local esteja seguro. Tampouco há sinal do homem de capa cinzenta.
+
+O tratador termina de fechar o portão e passa a corrente pelo ferrolho.
+
+— Pronto. A carroça fica aqui até amanhã. Só sai com autorização do proprietário.
+
+Bromir observa a fechadura, dá um puxão discreto no portão para conferir se está firme e se aproxima de Eron.
+
+— Bem, a velha senhora está acomodada. Agora falta resolver onde eu vou passar a noite.
+
+Ele abaixa um pouco a voz.
+
+— Você viu alguma coisa no caminho, não viu? Estava atento demais para ser só preocupação com a carroça.
+
+O anão mantém uma das mãos próxima ao martelo preso ao cinto, aguardando a resposta.
