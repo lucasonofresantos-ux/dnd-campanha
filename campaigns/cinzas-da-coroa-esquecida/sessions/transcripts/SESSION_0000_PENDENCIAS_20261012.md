@@ -2233,3 +2233,40 @@ Nenhum responde imediatamente.
 **Teste de Carisma (Intimidação): `1d20 +1`.** A flecha que mantém o líder preso e a aproximação de Bromir tornam a ameaça bastante concreta; vou considerar essas circunstâncias ao determinar a reação dos homens.
 
 Interface interativa de rolagem 1d20 +1 e envio do resultado ao Mestre.
+
+
+## Jogador
+
+-Bromir, Primeiro vamos amarrar os dois, acredito que aquele ali não vai a lugar nenhum com uma flecha prendendo o tornozelo ao assoalho, oque acha e cadê o Velkan.
+- Velkan venha aqui e fique na porta, e tens corda ou algemas? A e isso vai te custar umas moedas, afinal peguei 3 ladrões na sua oficina
+- e vocês não se mexam
+
+## Mestre
+
+Bromir observa o homem preso ao assoalho, depois os outros dois.
+
+— Concordo. Aquele ali não vai passear tão cedo. Mas primeiro quero ver essa espada no chão — diz, apontando o martelo para o homem de gibão escuro. — Devagar.
+
+O homem hesita, olha para o companheiro que já se rendeu e finalmente deposita a espada entre duas tábuas. Bromir a afasta com a bota, sem tirar os olhos dele.
+
+— Velkan! — chama Eron.
+
+O artesão aparece à entrada do depósito, mas para abruptamente ao ver o sangue espalhado junto à bota do líder.
+
+— Pelas engrenagens de Gond... O que fizeram com a minha oficina?
+
+Ao ouvir o pedido de cordas ou algemas, Velkan aponta para uma prateleira próxima da porta.
+
+— Tenho corda de cânhamo. Uso para suspender peças pesadas. Algemas, não. Há também arame, mas não recomendo usá-lo para amarrar pessoas.
+
+Ele encara os intrusos, depois Eron.
+
+— Quanto às moedas... se realmente impediram que levassem alguma coisa daqui, teremos uma conversa sobre recompensa. Mas primeiro quero saber como esses homens entraram.
+
+Bromir recolhe um rolo de corda da prateleira e o estende a Eron.
+
+— Você vigia, eu amarro. Um de cada vez.
+
+O homem de casaco castanho ergue as mãos e permanece imóvel. O de gibão escuro mantém os braços junto ao corpo, contrariado, mas não tenta recuperar a espada. O líder continua apoiado na estante, respirando com dificuldade.
+
+Bromir aproxima-se do primeiro prisioneiro, com a corda nas mãos, enquanto Velkan permanece na entrada, como solicitado. A passagem dos fundos, atrás do líder, continua coberta pela cortina pesada.
