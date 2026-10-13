@@ -29,14 +29,14 @@ unresolved:
   - "Vínculo de Varen com autoridades, ainda não demonstrado"
   - "Situação exata dos capturados no curtume após ordem de Haldren para buscar atendimento e guardas"
   - "Operação e pagamento pactuados com Haldren: 25 PO por capturados e 25 PO pela operação, sujeitos às condições; quitação não presumida"
-last_player_message_exact: "Me gere um campo para eu rolar os dados aqui na conversa"
-last_gm_prompt: "Campo interativo para Percepcao 1d20+6 entregue; jogador pode informar d20 ou pedir Python. Teste segue pendente."
-next: "Aguardar resultado do d20 de Percepcao ou pedido de rolagem automatica pelo campo; nao resolver antes."
+last_player_message_exact: "Role 1d20+6 para meu teste de Percepção com Python e secrets.randbelow; mostre o dado e continue a cena."
+last_gm_prompt: "Rolagem Percepção 1d20 [8]+6=14 preservada em V; observação descrita em W: nenhum perseguidor confirmado ou descartado, lanterna ainda procura origem do ruído. Aguarda ação de Eron."
+next: "Aguardar decisão/ação de Eron no pátio; não repetir teste de Percepção 14, não avançar sino ou relógios gratuitamente."
 transcription:
   completeness: "TXT 01.02 recuperado integralmente como enviado; história anterior e UI do chat ainda podem ter lacunas"
   audit: sessions/transcripts/AUDITORIA_CONTINUIDADE_20261013.md
   current_historical_end: sessions/transcripts/SESSION_0000_FONTE_LITERAL_0102_20261013.txt
-last_verified_transcript: sessions/transcripts/SESSION_0000_CONTINUACAO_20261013_V.md
+last_verified_transcript: sessions/transcripts/SESSION_0000_CONTINUACAO_20261013_W.md
 
 operational_dice_protocol: sessions/PROTOCOLO_DADOS_20261013.md
 no_new_rolls_or_scene_advancement_on_protocol_update: true
@@ -80,3 +80,16 @@ travel_checks_20261013:
   lantern_person: "Figura desconhecida no pátio, voltou luz para ruído de Varen; avistamento não confirmado"
   route_position: "Travessa lateral próxima do armazém, entrada dos fundos visível"
   transcript: "sessions/transcripts/SESSION_0000_CONTINUACAO_20261013_S.md"
+
+latest_perception_20261013:
+  original_die: 8
+  modifier: 6
+  total: 14
+  rolled_in: sessions/transcripts/SESSION_0000_CONTINUACAO_20261013_V.md
+  narrated_in: sessions/transcripts/SESSION_0000_CONTINUACAO_20261013_W.md
+  new_rolls_this_resume: false
+  pursuer_confirmed: false
+  pursuer_ruled_out: false
+  lamp_figure_not_identified: true
+  any_new_bell: false
+  new_player_action_pending: true
