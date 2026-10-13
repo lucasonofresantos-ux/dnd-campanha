@@ -114,3 +114,66 @@ Velkan baixa a voz.
 Bromir volta-se para Eron.
 
 — Conhecemos o sargento Haldren. Pelo menos ele já sabe da sabotagem da carroça. Não significa que possamos confiar em toda a patrulha, mas é um começo.
+
+
+## Jogador
+-O sargento me parece íntegro mas não boto a mão no fogo, ele realmente estava procurando resposta na taverna ontem. Chameo e avise que Eron pediu que viesse sozinho e diga que tenho os 5 (alguma coisa que não chame atenção e também que o haldren entenda que são cinco detidos)
+Mas Velkan vá você eu e Bromir ficamos vigiando, e vou cobrar pelo serviço, já que impedi um roubo e talvez a sua morte.
+Olho para o que está com a flecha no tornozelo, vocês iam mata lo se ele viesse aqui ou não acha se a dita peça não é mesmo acha se a dita peça não é mesmo?
+
+## Mestre
+Velkan escuta Eron até o fim, lançando um olhar preocupado aos cinco homens amarrados.
+
+— Sozinho, então. Procurarei Haldren pessoalmente. Direi que Eron solicita sua presença para tratar de cinco volumes recuperados de uma entrega irregular. Se ele se lembrar da carroça de Bromir, entenderá que não estou falando de mercadorias comuns.
+
+Bromir balança a cabeça.
+
+— Cinco volumes? Haldren é investigador, não adivinho. Diga que encontramos os cinco responsáveis por uma certa encomenda que ele já investiga. Sem nomes, sem detalhes, e peça que venha discretamente. Isso deve bastar.
+
+Velkan considera a sugestão e concorda.
+
+— Farei assim. Quanto à recompensa, Eron, reconheço que impediu um roubo na minha oficina, possivelmente algo pior. Não vou fingir que isso não merece pagamento. Mas prefiro acertarmos o valor quando estes homens estiverem sob custódia.
+
+Ele recolhe o núcleo de bronze na bandeja, cobre-o e o guarda num armário de sua bancada, fechando a porta com uma pequena chave.
+
+— Não demorarei mais que o necessário.
+
+O artesão deixa a oficina pela entrada principal. O som da porta se fechando ecoa pelo corredor.
+
+Bromir assume posição junto à entrada do depósito, martelo em mãos.
+
+— Muito bem. Agora somos dois vigiando cinco. Já tivemos dias de trabalho mais tranquilos.
+
+Eron volta a atenção para Darric Venn, cujo tornozelo permanece atravessado pela flecha e preso ao assoalho.
+
+À pergunta sobre o destino de Velkan, o prisioneiro inicialmente não responde. Seus olhos se desviam para o lugar onde o artesão estava.
+
+— Marek disse que ninguém deveria morrer se tudo corresse como planejado — afirma, por fim.
+
+Bromir estreita os olhos.
+
+— Isso não responde à pergunta.
+
+Darric aperta os dentes.
+
+— A ordem era encontrar o núcleo e sair. Se Velkan cooperasse, ficaria vivo. Se não cooperasse... — Ele interrompe a frase.
+
+— Continue — exige Bromir.
+
+— Marek disse que não podíamos deixar testemunhas capazes de identificar os homens que levassem a peça. Não falou expressamente em matar o artesão, mas também não proibiu.
+
+O silêncio que se segue é pesado.
+
+— E se não encontrassem o núcleo? — pergunta Bromir.
+
+Darric olha para Eron.
+
+— Eu deveria interrogar Velkan. Fazer o necessário para descobrir onde estava. Não recebi ordens para deixá-lo vivo depois disso.
+
+Bromir abaixa lentamente o martelo, sem soltá-lo.
+
+— Então ele tinha bons motivos para temer por sua vida.
+
+Do lado de fora, o movimento distante da praça continua. Rodas rangem sobre pedras, vendedores chamam fregueses e um sino toca em algum lugar da cidade.
+
+Velkan está a caminho do posto da patrulha. Haldren ainda não chegou, e os cinco prisioneiros permanecem sob a vigilância de Eron e Bromir.
