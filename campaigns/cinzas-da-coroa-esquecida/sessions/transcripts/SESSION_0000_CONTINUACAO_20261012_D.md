@@ -1025,3 +1025,20 @@ Eron não consegue ouvir a conversa. Também não vê qualquer sinal inequívoco
 Com Furtividade 24, Eron completa o circuito de observação sem perceber qualquer reação dirigida ao seu deslocamento. Isso não garante que todos os possíveis observadores tenham falhado em notá-lo.
 
 Ao terminar, Eron está protegido atrás de um muro baixo da olaria desativada, de onde consegue ver parte da viela dos fundos e a esquina onde permanece o homem de capa cinzenta. A tarde continua avançando.
+
+
+## Jogador
+Eu vou me cobrir com o capuz, e vou até do lado do homem da capa cinza, não tenho onde render ele aqui, então a melhor saída é uma abordagem discreta, quero falar com ele
+
+## Mestre
+Eron ergue o capuz, ocultando parte do rosto, e abandona a proteção do muro da olaria. Em vez de seguir diretamente para o desconhecido, mistura-se aos trabalhadores que atravessam a Rua dos Oleiros. Uma carroça passa entre ele e o armazém, oferecendo alguns instantes de cobertura.
+
+O homem de capa cinzenta permanece sob o beiral da oficina. De perto, Eron percebe que a capa está puída nas bordas, embora as botas sejam de couro bem conservado. O desconhecido mantém as mãos escondidas sob o tecido e observa alternadamente a viela e a porta principal do armazém.
+
+Quando Eron chega ao seu lado, o homem nota sua presença pelo canto dos olhos. Não se afasta imediatamente.
+
+— Está esperando alguém? — pergunta em voz baixa, sem virar completamente a cabeça.
+
+Uma carroça range ao longe. Do armazém, não vem qualquer reação perceptível.
+
+O desconhecido permanece ao lado de Eron, aguardando sua resposta. A proximidade permite uma conversa discreta, mas ambos ainda estão numa rua pública, ao alcance da vista das janelas do armazém.
