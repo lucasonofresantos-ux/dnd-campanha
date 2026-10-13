@@ -1,0 +1,4 @@
+campaign_id,session_id,order,roller,context,expression,individual_dice,discarded_die,modifier,total,provenance
+"cinzas-da-coroa-esquecida","0000_arquivo_0102",1,"Jogador","Percepcao_deposito_curtidor_Roll20","Teste Sabedoria Percepcao; resultado total informado","","","nao_informado",19,"historico perdido.txt linhas 445-458; jogador relatou total 19 no Roll20; resultado individual desconhecido; sem nova rolagem"
+"cinzas-da-coroa-esquecida","0000_arquivo_0102",2,"Mestre_com_autorizacao_jogador","Medicina_torniquete_fugitivo","1d20+2","15","","2",17,"historico perdido.txt linhas 799-839; Mestre afirmou uso de Python; execucao historica nao revalidada, sem nova rolagem"
+"cinzas-da-coroa-esquecida","0000_arquivo_0102",3,"Jogador","Investigacao_pino_mola_fecho","1d20+4","18","","4",22,"historico perdido.txt linhas 1294-1344; jogador disse Rolei 18; Mestre interpretou bruto 18 e aplicou +4; sem nova rolagem"
