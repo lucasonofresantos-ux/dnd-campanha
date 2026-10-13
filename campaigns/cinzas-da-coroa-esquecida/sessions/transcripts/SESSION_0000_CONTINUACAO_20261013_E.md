@@ -51,3 +51,40 @@ O sargento aguarda a resposta, sem insistir. Eron decide o que dizer ou fazer.
 - Sequência desta conversa: mensagens 0001 e 0002. A Sessão 0 anterior encontra-se nos arquivos vinculados no índice.
 - A lacuna indicada na auditoria continua pendente; não há recuperação fictícia.
 - Não foi feita rolagem nova, nem avançado o tempo narrativo.
+
+
+## Mensagem 0003 — Jogador (literal)
+
+Mas tente registrar oque conseguiu para não se perder da conversa de Eron com Bromir
+
+## Mensagem 0004 — Mestre (literal; resposta visível em duas partes)
+
+Consegui recuperar mais detalhes da conversa entre Eron e Bromir.
+
+O trecho anterior está preservado, incluindo as brincadeiras sobre a caixa de ferramentas, as duas moedas de ouro perdidas com o conserto da carroça e o momento em que Bromir admite que poderia ter caído numa emboscada se estivesse viajando sozinho.
+
+Também confirmei que Eron pediu ao Mestre um diálogo em que questionava por que Bromir parecia tão à vontade naquela situação, enquanto aguardavam o retorno de Velkan com Haldren.
+
+**O texto exato da resposta a esse último pedido ainda não foi recuperado.** Mas há informações suficientes para documentar o contexto, a relação entre os personagens e a sequência dos acontecimentos sem inventar falas.
+
+**O complemento foi gravado no GitHub e conferido após o commit.** Ele reúne as falas comprovadas, o pedido original de Eron e o contexto do encontro, indicando exatamente onde está a lacuna.
+
+- [Recuperação da conversa entre Eron e Bromir](https://github.com/lucasonofresantos-ux/dnd-campanha/blob/main/campaigns/cinzas-da-coroa-esquecida/sessions/transcripts/RECUPERACAO_ERON_BROMIR_20261013.md)
+- [Índice atualizado da campanha](https://github.com/lucasonofresantos-ux/dnd-campanha/blob/main/campaigns/cinzas-da-coroa-esquecida/sessions/INDEX.md)
+
+**Commit do registro:** `d53fa5dfd970fca661cb4d6ca62f31aef023cd8d`.
+
+A resposta original do Mestre não foi substituída por texto criado agora. Isso preserva a continuidade sem apresentar reconstrução como transcrição literal. O ponto atual de Eron permanece na oficina de Velkan, diante da pergunta de Haldren.
+
+**[LOG DE MEMÓRIA DA CAMPANHA]**
+
+- **Localização Atual:** Oficina de Velkan, Caldria.
+- **NPCs Presentes e Relação:** Haldren, Varen e Velkan; Bromir está fora desta cena.
+- **Linha de Missão Ativa:** Investigação sobre Marek, a caixa recuperada e a operação combinada com Haldren.
+- **Eventos Cruciais Ocorridos:** Diálogo anterior de Eron e Bromir documentado; lacuna da resposta do Mestre sinalizada. Nenhum acontecimento novo na aventura.
+- **Condições do Jogador:** Eron, Ladino nível 1, 8/11 PV, CA 13; braço suturado, sem cura adicional documentada.
+
+## Controle desta interação
+
+- Recuperação documental persistida e confirmada no commit `d53fa5dfd970fca661cb4d6ca62f31aef023cd8d`.
+- Nenhuma rolagem, mudança de estado ou novo turno narrativo.
