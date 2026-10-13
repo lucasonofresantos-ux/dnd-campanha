@@ -288,3 +288,59 @@ O prisioneiro respira fundo.
 — É tudo que sei sobre a carroça. Juro.
 
 A ameaça ainda pesa sobre ele. Para determinar se a pressão faz o homem revelar algo mais — ou se ele se fecha por medo — faça um teste de Carisma (Intimidação), 1d20 +1, com vantagem, considerando o ferimento, a rendição e a flecha apontada.
+
+
+## Jogador
+Intimidação de Eron contra o líder ferido: 2d20kh1 → [19, 12] → 19 +1 = 20.
+
+## Mestre
+Carisma (Intimidação): 20 — Sucesso
+2d20kh1 → [19, 12] → 19 +1 = 20.
+
+O líder mantém os olhos fixos na ponta da flecha. O suor escorre por sua testa, e a respiração se torna curta. Ele tenta sustentar o olhar de Eron, mas acaba cedendo.
+
+— Está bem! Está bem, eu vou falar!
+
+Bromir permanece ao lado da estante, observando em silêncio.
+
+— Marek não é o homem que manda em tudo. Ele recebe ordens, organiza os pagamentos e contrata gente como nós. Não sei quem está acima dele. Nunca vi essa pessoa.
+
+O prisioneiro hesita. A flecha continua apontada para seu pé.
+
+— Quanto à carroça... Marek mandou atrasar o anão. Ouvi quando combinou o serviço com um sujeito grande, de ombros largos, que usava uma túnica escura. Não sei o nome dele. Marek disse que precisava de pelo menos um dia para preparar a entrada na oficina.
+
+Bromir aperta o cabo do martelo.
+
+— Um dia inteiro... — murmura. — E quase conseguimos isso quando a roda começou a ceder.
+
+O homem continua, agora falando depressa:
+
+— O sujeito disse que conhecia a estrada e que conseguiria fazer parecer um acidente. Não ouvi como pretendia fazer. Só soube depois que a carroça tinha sido atrasada.
+
+Ele engole em seco.
+
+— Marek também mandou que ninguém quebrasse o cilindro. Queria uma peça que fica dentro dele, perto do encaixe de seis lados. Disse que era pequena, mas que valia mais que todo o resto.
+
+Nesse momento, passos se aproximam pelo corredor.
+
+Velkan aparece à porta, trazendo uma bandeja de madeira coberta por um pano. Seu rosto está tenso.
+
+— Eron. Bromir. Encontrei algo.
+
+Ele coloca a bandeja sobre a mesa, afastada dos pertences dos prisioneiros, e retira o pano.
+
+Ali repousa uma pequena peça de bronze, pouco maior que a ponta de um polegar, com seis faces e um sulco fino ao redor do centro. Uma das extremidades apresenta um encaixe delicado, feito para receber outra peça ainda menor.
+
+— Estava alojada no interior do cilindro, atrás do conjunto de anéis — explica Velkan. — Não é uma engrenagem comum. E há algo mais.
+
+O artesão vira a peça cuidadosamente, revelando uma marca gravada em uma das faces: três linhas convergindo para um pequeno círculo.
+
+O líder reconhece o objeto. Sua expressão muda imediatamente.
+
+— Pelos deuses... — sussurra.
+
+Bromir percebe.
+
+— Conhece essa marca?
+
+O homem não responde. Mas, pela primeira vez desde que começou a falar, seu medo parece estar dirigido a alguma coisa além da flecha de Eron.
