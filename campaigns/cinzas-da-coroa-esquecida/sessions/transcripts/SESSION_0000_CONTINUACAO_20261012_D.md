@@ -1864,3 +1864,57 @@ Quanto aos conhecidos, precisamos distinguir duas coisas:
 Não vou inventar uma história anterior para essa relação nem revelar informações que Eron ainda não descobriu.
 
 A cena permanece na oficina, com a caixa em poder de Eron, Haldren aguardando explicações e Orsik prestes a partir para socorrer o ferido.
+
+
+## Jogador
+Eu não sei, mas foi dito para não ficar perto de bronze, você pode identificar?
+E vem cá como você conhece Varen e visse versa?
+
+## Mestre
+A oficina fica em silêncio por um instante.
+
+— Eu não sei o que tem aqui — diz Eron, mantendo a caixa consigo. — Mas me disseram que não podia ficar perto de bronze. Velkan, você consegue identificar?
+
+O artesão deixa a bancada e se aproxima apenas o suficiente para examinar o objeto, sem tocá-lo.
+
+— Talvez. Mas não aqui, ao lado do armário. Se o aviso for verdadeiro, não pretendo descobrir suas consequências por acidente.
+
+Velkan aponta para uma mesa vazia, afastada das ferramentas e do armário onde está guardado o mecanismo de bronze.
+
+— Coloque-a ali quando quiser. Primeiro examinarei a madeira, as correias e qualquer marca externa. Não vou abri-la antes de saber se existe algum mecanismo de proteção.
+
+Então Eron volta os olhos para Haldren e Varen.
+
+— E venham cá... como vocês se conhecem? E vice-versa?
+
+Haldren ergue uma sobrancelha. Varen, até então encostado junto à porta, descruza os braços.
+
+— Conhecer é uma palavra um tanto generosa — responde o sargento. — Já tivemos assuntos em comum.
+
+— E opiniões diferentes sobre como resolvê-los — acrescenta Varen.
+
+Haldren lança-lhe um olhar seco.
+
+— Você apareceu em Caldria há alguns meses, fez perguntas sobre pessoas que eu também investigava e mostrou informações que não explicou de onde vieram.
+
+— Informações corretas — observa Varen.
+
+— Nem todas — rebate o sargento.
+
+Varen esboça um sorriso discreto, mas não insiste.
+
+— Digamos que Haldren já me ajudou a evitar problemas. E que, em outra ocasião, eu o ajudei a encontrar alguém que procurava.
+
+— Isso não responde quem você é — diz Haldren.
+
+— E você nunca gostou das minhas respostas.
+
+O sargento volta-se para Eron.
+
+— Sei que ele tem contatos e que sabe investigar. Não sei para quem trabalha atualmente. Se está acompanhando você, recomendo que faça suas próprias perguntas.
+
+Varen não demonstra surpresa. Apenas olha para Eron.
+
+— Parece que temos mais de uma coisa a esclarecer esta noite.
+
+Do outro lado da oficina, Velkan aguarda, observando a caixa ainda nas mãos de Eron.
