@@ -2024,3 +2024,38 @@ Haldren torna a olhar para Eron.
 — Só há uma coisa que eu gostaria de entender: **onde você teve contato com agentes da Coroa e de casas nobres?** Não é uma experiência comum para um viajante armado.
 
 A pergunta vem sem acusação, mas o sargento aguarda a resposta com atenção. Sobre a mesa, o pão, a carne fria e o queijo continuam à disposição de Eron.
+
+
+## Jogador
+A história é longa e faz muito tempo, e estamos sem tempo, sim eu insinuei "oque a coroa queria aqui?" E ele arregalou os olhos, tentando saber se era uma certeza ou se eu estava só blefando, fala isso enquanto como.
+
+## Mestre
+Haldren permanece em silêncio enquanto Eron come. A luz amarelada da lamparina ilumina a mesa, e o cheiro da carne fria se mistura ao de óleo e madeira vindo da oficina.
+
+— A história é longa e faz muito tempo, e estamos sem tempo — diz Eron entre uma garfada e outra. — Sim, eu insinuei: “O que a Coroa queria aqui?” E ele arregalou os olhos, tentando saber se era uma certeza ou se eu estava só blefando.
+
+O sargento deixa o pedaço de pão sobre a mesa.
+
+— Ah... então você o provocou deliberadamente.
+
+Ele reflete por alguns instantes, passando o polegar pela barba.
+
+— Isso é mais interessante do que as cicatrizes. Mas cuidado com a conclusão. Se Varen trabalha para a Coroa, sua pergunta pode tê-lo surpreendido porque você chegou perto da verdade. Se não trabalha, talvez tenha se assustado por perceber que você suspeita dele.
+
+Haldren se inclina, falando mais baixo.
+
+— O que importa é o que aconteceu depois. Ele tentou descobrir quanto você sabia? Mudou de assunto? Ficou defensivo? Um homem treinado pode controlar a expressão, mas nem sempre consegue controlar a pergunta seguinte.
+
+O sargento observa Eron por um momento.
+
+— Não vou pressioná-lo sobre seu passado esta noite. Mas há uma diferença entre um viajante que já viu agentes reais e alguém que sabe reconhecê-los pelo comportamento. Você parece pertencer ao segundo grupo.
+
+Da oficina, ouve-se o som delicado de metal sendo ajustado contra madeira. Velkan continua preparando a cunha, sem mexer no fecho da caixa.
+
+Haldren recolhe o mapa que deixara sobre uma cadeira próxima.
+
+— Termine sua refeição. Quando Velkan estiver pronto, precisamos decidir se levaremos a réplica ao armazém ou se a usaremos apenas para descobrir quem está esperando a entrega.
+
+Ele se levanta, mas permanece à porta.
+
+— E, Eron... se Varen realmente serve a alguém poderoso, talvez seja mais útil descobrir **o que ele pretende fazer com essa informação** do que obrigá-lo a confessar para quem trabalha.
