@@ -953,3 +953,18 @@ Serão necessários dois testes, realizados durante o deslocamento:
 - Sabedoria (Percepção): 1d20 + 6 — para examinar os arredores, perceber movimentações suspeitas e procurar sinais de alguém seguindo Eron.
 
 Controles interativos para rolar ambos os testes apresentados ao jogador; resultados pendentes.
+
+
+## Jogador
+Eu consigo ver se tem alguém me vigiando?
+
+## Mestre
+Da posição atrás das telhas, Eron consegue observar a fachada e as janelas altas do armazém sem precisar sair de sua cobertura.
+
+A silhueta que apareceu atrás da veneziana já desapareceu. Eron não viu ninguém apontando diretamente para seu esconderijo, fazendo sinais ou se aproximando dele. Entretanto, a janela parcialmente aberta oferece uma boa posição de vigilância sobre a rua.
+
+Com a Percepção 18 anterior, Eron identificou alguém observando a área, mas ainda não sabe se essa pessoa percebeu sua chegada ou está especificamente vigiando-o.
+
+Para descobrir mais, pode examinar cuidadosamente as janelas, os telhados e as pessoas nas proximidades, procurando olhares repetidos ou sinais de comunicação.
+
+Teste de Sabedoria (Percepção): 1d20 + 6. Eron pode realizá-lo sem abandonar a cobertura.
