@@ -1069,3 +1069,28 @@ Sua voz baixa ainda mais.
 — Então vou lhe fazer uma pergunta simples: o que você sabe sobre a roda branca pintada naquela porta?
 
 Não há movimento perceptível vindo do armazém. O homem espera a resposta, mantendo o corpo ligeiramente voltado para a rua.
+
+
+## Jogador
+Estranho, eu nem tinha reparado nela, e para alguém que diz que não me seguia sabe muito para onde eu estava vendo, e como está o Malek?
+
+## Mestre
+O sorriso desaparece do rosto do desconhecido.
+
+Por um instante, ele não responde. Seus olhos permanecem fixos em Eron, enquanto o polegar da mão esquerda esfrega lentamente a costura da capa.
+
+— Você faz muitas perguntas para alguém que não reparou na roda — murmura.
+
+Ao ouvir o nome de Marek, porém, sua expressão muda. É uma reação breve: os olhos se estreitam e ele lança um olhar rápido para a rua, como se procurasse alguém entre os transeuntes.
+
+— Marek? — repete, pronunciando o nome com cuidado. — Não conheço nenhum Malek.
+
+Ele se aproxima um pouco, sem tocar em Eron.
+
+— Mas, se está falando do homem da Âncora Partida, talvez tenhamos assuntos em comum.
+
+Uma porta bate no outro lado da rua. O desconhecido interrompe a frase até o ruído cessar.
+
+— Diga-me uma coisa: você veio até aqui por ordem dele... ou está procurando por ele?
+
+A pergunta vem num tom controlado. O homem ainda não revelou seu nome, tampouco explicou por que conhece Marek.
