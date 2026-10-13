@@ -401,3 +401,46 @@ O homem volta a encarar Eron.
 — É tudo que posso dizer. Não sei quem manda em Marek, não conheço aquela marca e nunca vi essa chave funcionando.
 
 A pequena peça permanece imóvel sobre a bandeja. Velkan não parece disposto a experimentar seu encaixe sem compreender melhor o mecanismo.
+
+
+## Jogador
+Me descreva esse outro homem
+
+## Mestre
+O líder franze a testa, tentando recordar. Seus olhos passam da flecha apontada para ele ao pequeno núcleo de bronze sobre a mesa.
+
+— O homem das luvas? Vi-o apenas uma vez, na Âncora Partida. Era alto, mais alto que Marek, e bastante magro. Usava um manto cinza-escuro, de tecido bom, com o capuz abaixado.
+
+Ele faz uma pausa.
+
+— Tinha o rosto comprido, pele muito pálida e cabelos pretos, lisos, presos atrás da cabeça. Não parecia velho, mas também não era jovem. Talvez uns quarenta anos. Não saberia dizer.
+
+Bromir estreita os olhos.
+
+— E as luvas?
+
+— Couro preto, bem ajustadas. Não as tirou nem quando Marek lhe ofereceu vinho. Lembro disso porque achei estranho.
+
+O prisioneiro engole em seco.
+
+— Falava baixo, com uma voz rouca. Não reconheci o sotaque. Tinha um jeito de pronunciar certas palavras como alguém que aprendeu nossa língua longe daqui.
+
+Velkan interrompe:
+
+— Alguma marca? Cicatriz? Joia?
+
+— Havia um broche no manto, perto do ombro esquerdo. Prateado. Não vi direito o desenho. E ele carregava uma bolsa estreita de couro, dessas usadas para documentos.
+
+O líder volta a encarar Eron.
+
+— Quando saiu, Marek ficou olhando para a porta durante um bom tempo. Depois mandou que ninguém fizesse perguntas sobre o visitante.
+
+Bromir coça a barba.
+
+— Um desconhecido que dá ordens a Marek e usa um símbolo que ninguém reconhece. Estamos fazendo uma bela coleção de problemas.
+
+O prisioneiro baixa a voz.
+
+— Tem outra coisa. Quando o homem passou por mim, senti um cheiro estranho. Não era perfume. Parecia ferro molhado... e alguma erva amarga. Mas não sei dizer qual.
+
+Ele se cala, aguardando a reação de Eron.
