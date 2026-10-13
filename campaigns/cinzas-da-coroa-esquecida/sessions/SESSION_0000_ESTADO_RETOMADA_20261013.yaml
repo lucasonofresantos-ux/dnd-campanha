@@ -4,7 +4,7 @@ status: active_for_resume
 source_of_truth: "sessions/transcripts/SESSION_0000_FONTE_LITERAL_0102_20261013.txt"
 scope: "Continuidade da Sessão 0, distinta da abertura alternativa da Sessão 0001 em Lorn"
 location: "Travessa lateral com vista para pátio e entrada dos fundos do Armazém dos Oleiros, Caldria"
-time: "Noite, antes do terceiro toque exigido para a entrega. Varen ouviu uma badalada no retorno; ordem da badalada não confirmada."
+time: "Noite; após uma badalada ouvida por Varen no retorno e outra junto ao armazém; sequência e ocorrência do terceiro toque ainda não confirmadas."
 character:
   name: Eron River
   class: Ladino
@@ -29,14 +29,14 @@ unresolved:
   - "Vínculo de Varen com autoridades, ainda não demonstrado"
   - "Situação exata dos capturados no curtume após ordem de Haldren para buscar atendimento e guardas"
   - "Operação e pagamento pactuados com Haldren: 25 PO por capturados e 25 PO pela operação, sujeitos às condições; quitação não presumida"
-last_player_message_exact: "Role 1d20+6 para meu teste de Percepção com Python e secrets.randbelow; mostre o dado e continue a cena."
-last_gm_prompt: "Rolagem Percepção 1d20 [8]+6=14 preservada em V; observação descrita em W: nenhum perseguidor confirmado ou descartado, lanterna ainda procura origem do ruído. Aguarda ação de Eron."
-next: "Aguardar decisão/ação de Eron no pátio; não repetir teste de Percepção 14, não avançar sino ou relógios gratuitamente."
+last_player_message_exact: "Bem vamos esperar mais um pouco, e mantenha os olhos abertos, análise se alguém nos observa e se ver alguma coisa diferente me avise Varen"
+last_gm_prompt: "Varen avisou a Eron que uma veneziana no piso superior do Armazém dos Oleiros abriu por dentro e uma silhueta recuou; ninguém identificado e não está confirmado que Eron ou Varen tenham sido vistos."
+next: "Aguardar decisão/ação de Eron sobre a observação de Varen; não confirmar terceiro toque, detecção dos aliados ou identidade do ocupante do armazém sem evidência."
 transcription:
   completeness: "TXT 01.02 recuperado integralmente como enviado; história anterior e UI do chat ainda podem ter lacunas"
   audit: sessions/transcripts/AUDITORIA_CONTINUIDADE_20261013.md
   current_historical_end: sessions/transcripts/SESSION_0000_FONTE_LITERAL_0102_20261013.txt
-last_verified_transcript: sessions/transcripts/SESSION_0000_CONTINUACAO_20261013_W.md
+last_verified_transcript: sessions/transcripts/SESSION_0000_CONTINUACAO_20261013_Y.md
 
 operational_dice_protocol: sessions/PROTOCOLO_DADOS_20261013.md
 no_new_rolls_or_scene_advancement_on_protocol_update: true
@@ -91,5 +91,19 @@ latest_perception_20261013:
   pursuer_confirmed: false
   pursuer_ruled_out: false
   lamp_figure_not_identified: true
-  any_new_bell: false
+  any_new_bell: true
   new_player_action_pending: true
+
+current_scene_update_20261013:
+  transcript_previous: sessions/transcripts/SESSION_0000_CONTINUACAO_20261013_X.md
+  transcript_last: sessions/transcripts/SESSION_0000_CONTINUACAO_20261013_Y.md
+  last_player_instruction: "Esperar mais um pouco; Varen deve vigiar e alertar movimentos diferentes."
+  elapsed: "Alguns minutos; duração exata não determinada."
+  bell: "Uma nova badalada foi ouvida no transcript X; ordem na sequência permanece indeterminada; nenhuma nova em Y."
+  lamp_person: "Caminhou até abrigo de alpendre; não identificado e sem avistamento comprovado de Eron ou Varen."
+  suspicious_movement: "Varen notou veneziana superior do armazém abrindo de dentro e silhueta recuando; identidade e intenção desconhecidas; observação dos aliados pelo vulto não confirmada."
+  back_door: "Fechada, não foi atravessada."
+  companions: "Eron e Varen continuam ocultos; Varen com réplica na bolsa."
+  hp: "8/11; CA 13; 19 flechas, sem novos recursos consumidos."
+  reserved_npc_check: "Resultado executado em Python nesta conversa; registro privado local pendente de commit em dm/."
+  pending_player_action: true
