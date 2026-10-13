@@ -794,3 +794,41 @@ Ele estreita os olhos.
 — Se você rir, rapaz, juro que cobro pelo ensopado quando chegarmos à minha casa.
 
 O tratador aguarda a resposta. A carroça permanece diante do portão, ainda sem ter sido entregue à cocheira.
+
+
+## Jogador
+Percepção no trajeto da oficina de Velkan até a cocheira: 1d20 [16] + 6 = 22.
+
+## Mestre
+Sabedoria (Percepção): 22
+1d20 [16] + 6 = 22 — sucesso.
+
+Enquanto Bromir discute o preço da cocheira, Eron recorda alguns detalhes do percurso que não lhe passaram despercebidos.
+
+Na Rua da Fonte, um homem de capa cinzenta estava encostado junto à banca de um vendedor de maçãs. Não comprou nada. Quando a carroça passou, afastou-se da banca e seguiu pela mesma rua.
+
+Duas esquinas depois, Eron tornou a vê-lo, desta vez parado diante de uma oficina fechada. O homem tinha a cabeça baixa, mas levantou os olhos quando ouviu as rodas da carroça.
+
+A terceira vez foi mais reveladora.
+
+Pouco antes de chegarem ao Carvalho Cinzento, o desconhecido surgiu na entrada de uma travessa, a aproximadamente trinta passos de distância. Ao perceber que Eron examinava os arredores, virou-se e desapareceu entre os pedestres.
+
+Eron tem bons motivos para suspeitar que foram seguidos. Não conseguiu ver o rosto do homem com clareza, nem confirmar se ele trabalha para Marek. Também não o viu entrar na estalagem ou aproximar-se das cocheiras.
+
+***
+
+— Quatro pratas, então — resmunga Bromir, tirando as moedas da bolsa.
+
+O tratador recebe o pagamento e começa a abrir o portão.
+
+— Podem entrar. Há uma baia livre ao fundo.
+
+Bromir volta-se para Eron.
+
+— Que foi, rapaz? Está olhando para a rua como se tivesse visto um cobrador de impostos.
+
+O anão acompanha discretamente a direção do olhar de Eron.
+
+— Algum problema?
+
+A carroça ainda está diante do portão aberto. O homem da capa cinzenta não está à vista.
