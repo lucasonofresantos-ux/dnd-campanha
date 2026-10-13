@@ -73,3 +73,22 @@ O homem ferido, ainda caído, murmura entre os dentes:
 — Não seja idiota... Ele já pegou os outros...
 
 **A ação de Eron está preparada.** O segundo vigia ainda não fez um novo ataque.
+
+
+## Jogador
+Vou rolar intimidação
+É meu último avião renda se, se correr morre, se me atacar morre, se você se render eu te deixo viver mais um pouco, então largue a espada
+Me dê os dados
+
+## Mestre
+Eron mantém a espada apontada para o vigia, sem aliviar a guarda. Sua voz corta o silêncio do beco:
+
+— É meu último aviso. Renda-se. Se correr, morre. Se me atacar, morre. Se você se render, eu te deixo viver mais um pouco. Então largue a espada!
+
+O homem observa a lâmina ensanguentada, depois olha rapidamente para o companheiro caído. Seus dedos apertam o cabo da própria arma.
+
+**Teste de Carisma (Intimidação): `1d20 +1`.**
+
+A ameaça é convincente pelas circunstâncias, mas a decisão do vigia dependerá do resultado. Sua ação de ataque preparada permanece válida até o início do próximo turno de Eron, caso o gatilho ocorra.
+
+[Interface interativa de rolagem 1d20+1 com botão para enviar resultado ao Mestre.]
