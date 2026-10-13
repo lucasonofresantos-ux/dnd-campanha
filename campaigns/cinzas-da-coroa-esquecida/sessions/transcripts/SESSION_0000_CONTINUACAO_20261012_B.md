@@ -125,3 +125,38 @@ Resultado: apesar de a Intimidação 12 não ser excepcional, a situação concr
 O homem permanece de pé, a aproximadamente um metro de Eron, com as mãos visíveis. Seu companheiro continua caído, consciente e incapaz de apoiar a perna ferida.
 
 A ação preparada de Eron não foi acionada, pois o vigia não voltou a atacá-lo.
+
+
+## Jogador
+Eu amarro ele e o amigo e os arrasto para dentro até bromir e velkar
+
+## Mestre
+O homem da lanterna não oferece resistência quando Eron se aproxima para amarrá-lo. Com a espada ainda ao alcance, Eron recolhe a arma abandonada e utiliza corda do próprio equipamento para prender os pulsos do vigia atrás das costas, depois os tornozelos. O prisioneiro permanece imóvel.
+
+— Eu me rendi. Não precisa apertar tanto — murmura ele.
+
+O segundo homem é mais difícil de mover. Quando Eron começa a amarrá-lo, o ferido contrai o rosto e prende a respiração. A perna atingida continua sangrando, e ele não consegue apoiar o pé. Ainda assim, não tenta resistir.
+
+Arrastá-los pelo corredor estreito exige duas viagens. Primeiro, Eron conduz o homem ileso até o depósito e o deixa sob a vigilância de Bromir. Depois retorna pelo ferido, que solta gemidos a cada movimento.
+
+Quando Eron reaparece com o segundo prisioneiro, Bromir arregala os olhos.
+
+— Pelas barbas de Moradin! Mais dois? — O anão olha para os três homens que já estavam presos no depósito. — Eron, começamos esta viagem com uma carroça de mercadorias. Agora estamos montando uma coleção de bandidos!
+
+Velkan se afasta para abrir espaço entre as caixas.
+
+— Cinco homens na minha oficina... — murmura o artesão, visivelmente perturbado. — Isto já passou de uma simples tentativa de furto.
+
+Bromir mantém o martelo à mão enquanto examina o ferimento na perna do recém-chegado.
+
+— Esse precisa de um curandeiro ou de alguém que saiba estancar sangue. Não vai durar muito se continuar perdendo assim.
+
+O homem que se rendeu olha para os três comparsas presos e abaixa a cabeça.
+
+— Marek vai nos matar...
+
+O líder, ainda com o tornozelo preso ao assoalho pela flecha, ergue os olhos para ele.
+
+— Cale a boca.
+
+O depósito fica em silêncio por um instante. Cinco prisioneiros estão agora reunidos na oficina, sendo dois gravemente feridos. Bromir mantém a vigilância; Velkan permanece junto à porta.
