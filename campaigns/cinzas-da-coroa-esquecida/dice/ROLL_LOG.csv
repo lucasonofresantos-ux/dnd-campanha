@@ -14,3 +14,5 @@ cinzas-da-coroa-esquecida,0000_recuperacao,6,furtividade_corredor,jogador,20,,20
 cinzas-da-coroa-esquecida,0000_recuperacao,7,percepcao_corredor,jogador,15,,15,6,21,true,"Vozes de duas pessoas no beco"
 cinzas-da-coroa-esquecida,0000_recuperacao,8,percepcao_beco,jogador,1,,1,6,7,true,"1 natural; nao confirmou outras pessoas; furtividade 26 mantida"
 cinzas-da-coroa-esquecida,0000_recuperacao,9,ataque_espada_beco,jogador,2d20kh1,,13,4,17,true,"dados [13 7]; vantagem; acerto; dano pendente"
+cinzas-da-coroa-esquecida,0000_recuperacao,9,ataque_espada_vantagem,jogador,2d20kh1,7,13,4,17,true,"dados 13 e 7; acerto no homem corpulento"
+cinzas-da-coroa-esquecida,0000_recuperacao,10,dano_espada_e_furtivo,jogador,2d6,,10,2,12,true,"espada 4 e ataque furtivo 6; homem cai sem conseguir apoiar perna"
