@@ -297,3 +297,52 @@ Ele estende a mão, sem exigir que Eron a aperte.
 Velkan já separa uma pequena lima, uma peça de bronze bruto e instrumentos de gravação. O símbolo permanece desenhado num pedaço de pergaminho ao lado da bancada.
 
 Do depósito, Darric acompanha a conversa em silêncio, visivelmente atento à possibilidade de uma operação naquela noite.
+
+
+## Jogador
+Recebi 25 pelos 5 que, o de hoje a noite é mais importante e perigoso mas faço por mais 25
+Estendo a mão para ele e falo
+Fechado?
+
+## Mestre
+Haldren observa a mão estendida de Eron. Por um instante, parece calcular se vale a pena discutir mais dez moedas de ouro. Então olha para Darric, para os demais prisioneiros e, finalmente, para o bilhete que marca o encontro no armazém.
+
+— Vinte e cinco pela captura dos cinco. Mais vinte e cinco pela operação desta noite.
+
+Ele segura firmemente a mão de Eron.
+
+— Fechado. Cinquenta peças de ouro ao todo. Os primeiros vinte e cinco serão pagos quando os prisioneiros estiverem formalmente sob custódia. Os outros vinte e cinco, após sua participação na operação, conforme o combinado.
+
+Bromir arregala os olhos.
+
+— Cinquenta?!
+
+O anão olha de Eron para Haldren, balançando a cabeça.
+
+— Eu passei anos ensinando mercadores a negociar e esse desgraçado aprendeu tudo em dois dias!
+
+Haldren solta a mão de Eron.
+
+— Há uma condição: enquanto estiver trabalhando comigo, não atacará alguém apenas por suspeita. Precisamos de respostas e testemunhas, não de cadáveres. Se houver perigo imediato, naturalmente poderá se defender.
+
+Ele aponta para o depósito.
+
+— Agora precisamos retirar esses homens daqui sem transformar a praça num espetáculo. Vou buscar um cirurgião e dois agentes de minha confiança. Não revelarei a eles os detalhes da entrega.
+
+Velkan ergue a cabeça da bancada.
+
+— E eu vou precisar de aproximadamente uma hora para terminar a réplica.
+
+Haldren assente.
+
+— Então temos uma hora para organizar a custódia, estudar o armazém e decidir como abordar o encontro.
+
+Bromir se aproxima de Eron e comenta, suficientemente alto para Haldren ouvir:
+
+— Cinquenta moedas de ouro... Se você continuar assim, rapaz, vou começar a cobrar comissão por ter lhe ensinado a negociar.
+
+Haldren guarda a caderneta.
+
+— Só mais uma coisa, Eron. Nosso acordo é por esta investigação, não um alistamento permanente. Quando terminarmos, estaremos livres para discutir outro contrato.
+
+O sargento parece satisfeito com os termos. Darric, entretanto, acompanha a conversa com expressão cada vez mais fechada.
