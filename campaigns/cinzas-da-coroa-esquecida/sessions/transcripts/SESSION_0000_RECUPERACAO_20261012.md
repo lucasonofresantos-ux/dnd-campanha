@@ -304,3 +304,16 @@ Ele consegue confirmar o que já havia observado: dois homens estão a aproximad
 Um ruído breve, semelhante ao atrito de uma sola contra pedra, mistura-se ao som distante da cidade. Eron não consegue determinar de onde veio.
 
 Não é possível confirmar se há mais pessoas escondidas no beco. Os dois homens visíveis ainda não demonstraram perceber Eron, e sua Furtividade 26 permanece válida.
+
+
+## Jogador
+Gera um layout para mim da disposição deles e do que eu observei
+
+## Mestre
+Segue a disposição vista de cima, considerando apenas o que Eron conseguiu observar. As posições são aproximadas, não uma planta exata.
+
+[Diagrama vetorial visível: beco estreito; Eron (E) junto à porta dos fundos da oficina de Velkan, com caixotes à esquerda a aproximadamente 2 m; dois homens (1, corpulento com espada, e 2, magro com lanterna coberta) a aproximadamente 8 m, voltados à direção da rua; passagem lateral mais adiante, depois dos homens. O diagrama indica que não está em escala exata.]
+
+O homem 1 é o mais corpulento, com espada embainhada; o 2 é o mais magro, com lanterna coberta. Os dois estão voltados aproximadamente para a rua.
+
+A passagem lateral e as áreas encobertas pelos caixotes não foram examinadas suficientemente para descartar outras pessoas. A distância entre os dois homens e a localização exata da passagem são apenas ilustrativas.
