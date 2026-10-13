@@ -317,3 +317,20 @@ Segue a disposição vista de cima, considerando apenas o que Eron conseguiu obs
 O homem 1 é o mais corpulento, com espada embainhada; o 2 é o mais magro, com lanterna coberta. Os dois estão voltados aproximadamente para a rua.
 
 A passagem lateral e as áreas encobertas pelos caixotes não foram examinadas suficientemente para descartar outras pessoas. A distância entre os dois homens e a localização exata da passagem são apenas ilustrativas.
+
+
+## Jogador
+Eu avanço até o cara com a espada, e golpeio a parte de trás do joelho dele, minha intenção é que ele não consiga ficar mais em pé com os tendões cortados ou com a perna amputada
+
+## Mestre
+Eron abandona a sombra da porta e avança rente à parede, mantendo a espada curta baixa e a adaga recolhida junto ao corpo. Seus passos são cuidadosamente distribuídos entre as pedras úmidas do beco. O homem corpulento continua de costas, atento à rua; seu companheiro mantém a lanterna voltada para a direção oposta.
+
+Ao alcançar a distância de ataque, Eron prepara um golpe horizontal contra a parte posterior do joelho do homem armado, buscando inutilizar sua perna antes que ele consiga reagir.
+
+Ataque furtivo: sua Furtividade 26 foi suficiente para aproximá-lo sem ser percebido. Como o alvo ainda não detectou Eron, o ataque terá vantagem.
+
+Pelas regras de D&D 5E, acertar a região escolhida não garante automaticamente cortar tendões ou amputar a perna. Vou considerar a intenção de incapacitá-lo ao resolver o golpe, levando em conta o acerto, o dano e a resistência do adversário. Uma lesão permanente não será presumida apenas pela descrição do ataque.
+
+Role 2d20kh1 +4 para atacar com a espada curta.
+
+Se acertar, o golpe também poderá receber Ataque Furtivo de +1d6, pois Eron ataca com vantagem. A situação poderá iniciar combate imediatamente.
