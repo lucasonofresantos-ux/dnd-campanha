@@ -1390,3 +1390,14 @@ Outra voz responde, ainda mais abafada:
 Varen para atrás de uma pilha de caixotes e olha para Eron. Pela posição das vozes, há pelo menos duas pessoas além da esquina, fora de vista. Não é possível afirmar que alguma delas seja o homem de casaco marrom.
 
 Eron está a poucos passos da entrada do beco. As vozes continuam baixas, aparentemente sem perceber sua aproximação.
+
+
+## Jogador
+Me dê os dados que nem o último
+
+## Mestre
+Role o dado de Furtividade de Eron, como no último teste.
+
+Furtividade — Destreza: contornar o depósito sem alertar os dois homens. Controle interativo d20 para rolar; modificador +6; botão para enviar resultado ao Mestre.
+
+Varen acompanha Eron pela passagem de serviço e fará seu próprio teste, sem que você precise rolar por ele.
