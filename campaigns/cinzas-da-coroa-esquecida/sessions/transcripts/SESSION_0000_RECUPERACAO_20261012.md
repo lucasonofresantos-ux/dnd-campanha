@@ -153,3 +153,81 @@ Velkan continua:
 — O corredor faz uma curva à esquerda antes da porta. Daqui não dá para enxergar o beco. E, para ser sincero, não sei se esses três vieram por ali ou se alguém abriu a passagem para eles.
 
 O homem ferido mantém a boca fechada. Os outros dois, amarrados junto à estante, evitam olhar para a cortina.
+
+
+## Jogador
+Bem fiquem de olhos neles, Bromir, se algum deles tentar alguma coisa esmague a cabeça deles, e se aquele ali quiser fazer algo, esmague o outro pé dele, e pegue a arma dele.
+
+Eu pego o arco coloco de volta nas costas, e vou furtivamente checar o resto e vou usando percepção, então me dê os dados
+
+## Mestre
+Bromir escuta as ordens de Eron, olha para os dois homens amarrados e depois para o líder ferido.
+
+— Entendido. Mas prefiro que fiquem quietos e inteiros. Mortos não respondem perguntas.
+
+O anão recolhe a lâmina curta da cintura do líder, que protesta com um movimento brusco e imediatamente se arrepende quando a flecha repuxa seu tornozelo.
+
+— Nem pense nisso — adverte Bromir, afastando a arma. — E vocês dois, olhos no chão e nada de esperteza.
+
+Velkan permanece junto à entrada do depósito, visivelmente incomodado com a situação.
+
+Eron recolhe o arco do chão e o coloca às costas. A passagem sob a cortina está a aproximadamente nove metros de sua posição inicial, atrás do líder ferido. Uma corrente de ar frio movimenta discretamente a borda inferior do tecido; além dele, o corredor de serviço faz uma curva à esquerda, impedindo a visão direta da porta externa.
+
+Para avançar silenciosamente e examinar a passagem, serão necessários dois testes:
+
+- **Destreza (Furtividade): `1d20 +6`** — para verificar se Eron consegue avançar sem alertar alguém que possa estar no corredor ou no beco.
+- **Sabedoria (Percepção): `1d20 +6`** — para identificar ruídos, movimentos, vestígios ou possíveis perigos.
+
+Os resultados determinarão o que Eron consegue perceber enquanto avança. Ainda não há confirmação de que exista alguém além da cortina.
+
+[Interface interativa para rolar dois testes de 1d20+6 e enviar resultados.]
+
+## Jogador
+Testes de Eron ao investigar furtivamente a passagem dos fundos: Furtividade 1d20 = 20, +6, total 26; Percepção 1d20 = 15, +6, total 21.
+
+## Mestre
+Furtividade: 20 +6 = 26
+
+Percepção: 15 +6 = 21
+
+Eron passa pela cortina sem produzir mais que um leve movimento no tecido. O corredor de serviço é estreito, construído entre duas paredes de pedra úmida. O cheiro de carvão e madeira velha mistura-se ao ar frio que entra pela saída dos fundos. A luz do depósito desaparece quase inteiramente quando ele alcança a curva à esquerda.
+
+Com passos cuidadosamente distribuídos sobre as pedras, Eron se aproxima da porta externa. Ela está **entreaberta**, deixando passar uma faixa de luz azulada do anoitecer. A fechadura não apresenta sinais evidentes de arrombamento; alguém parece ter destrancado a porta normalmente.
+
+A poucos passos da saída, sua atenção distingue três detalhes:
+
+- **Pegadas recentes:** marcas de botas atravessam a poeira do corredor, vindas do beco em direção ao depósito. Há também marcas voltando para fora.
+- **Um fragmento de tecido escuro:** preso a uma farpa da moldura da porta, aproximadamente à altura de um ombro.
+- **Vozes no beco:** duas pessoas conversam em tom baixo, fora do campo de visão de Eron.
+
+Uma das vozes, masculina e impaciente, chega com clareza:
+
+— Já deveriam ter terminado. Quanto tempo leva para encontrar uma peça?
+
+A segunda voz responde, mais abafada:
+
+— Marek disse para esperar o sinal. Se entrarmos antes, estragamos tudo.
+
+O primeiro homem solta uma imprecação.
+
+— E se alguma coisa deu errado lá dentro?
+
+— Então vamos descobrir quando alguém sair.
+
+As vozes parecem vir de algum ponto à direita da porta, no beco. **Nenhum dos dois demonstrou perceber Eron.** Da posição atual, ele consegue ouvir a conversa sem se expor, mas não pode ver os interlocutores.
+
+Ao longe, vindo do depósito, ouve-se uma reclamação abafada do líder ferido, seguida da voz grave de Bromir ordenando silêncio.
+
+## Jogador
+Confira os registros do git Hub e as transcrições se estiver faltando algo corrija e registre
+
+## Mestre — auditoria
+Conferi os dois arquivos de transcrição da Sessão 0 no repositório `lucasonofresantos-ux/dnd-campanha`.
+
+**Encontrei lacunas reais.** O arquivo principal termina ainda na chegada à estalagem *O Javali de Cobre*. O arquivo complementar contém a continuação da aventura, mas termina na ordem de Eron para amarrar os invasores. Portanto, várias interações posteriores ainda não estão registradas.
+
+Também identifiquei uma questão de organização: o histórico está dividido entre um arquivo principal e outro de pendências. Isso exige um índice confiável para que nenhuma parte seja ignorada ao continuar a campanha.
+
+Vou preservar os registros existentes e acrescentar as mensagens recuperáveis, sem substituir falas literais por reconstruções.
+
+[O restante da resposta de auditoria será concluído após a verificação dos commits.]
