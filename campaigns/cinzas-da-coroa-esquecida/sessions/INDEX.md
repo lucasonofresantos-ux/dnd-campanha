@@ -122,3 +122,6 @@ Arquivos produzidos nesta conferência: `transcripts/AUDITORIA_CONTINUIDADE_2026
 
 
 [SESSION_0000_CONTINUACAO_20261013_T.md](transcripts/SESSION_0000_CONTINUACAO_20261013_T.md) — mensagens 0047–0048; Eron pediu teste de Percepção para examinar arredores e possível perseguição a Varen. 1d20+6 solicitado, ainda sem lançamento nem resultado. O teste anterior Percepção 12 permanece válido para o deslocamento.
+
+
+[SESSION_0000_CONTINUACAO_20261013_U.md](transcripts/SESSION_0000_CONTINUACAO_20261013_U.md) — mensagens 0049–0050: campo de rolagem para Percepção 1d20+6, manual ou automática; nenhuma rolagem executada, aguardando o jogador.
