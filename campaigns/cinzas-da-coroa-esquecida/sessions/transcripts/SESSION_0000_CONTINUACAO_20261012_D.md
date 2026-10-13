@@ -1722,3 +1722,18 @@ Atrás dos barris, junto à escada, a segunda figura se ergue de repente. Eron d
 O depósito inteiro parece ficar silencioso por um instante, exceto pela respiração ofegante do homem caído.
 
 Eron acertou o fugitivo, mas agora há um homem armado com uma besta junto à escada.
+
+
+## Jogador
+Eu corro abaixado usando os barris como proteção até o que está caído, e cravo a espada na outra perna dele para garantir que não vai fugir, e já pego a daga de novo e a caixa no chão, e me preparo para lugar contra o da besta
+
+## Mestre
+Eron abaixa o corpo e dispara pelo corredor, aproveitando os barris e as prateleiras como cobertura. O homem de cabelos claros acompanha seu movimento com a besta, procurando uma abertura entre os obstáculos.
+
+O fugitivo ferido vê Eron se aproximar e tenta se arrastar para trás. A caixa de madeira escura está caída ao alcance dele, mas sua atenção se volta imediatamente para a espada na mão de Eron.
+
+— Não! Espera! — grita, erguendo um braço para se proteger.
+
+Eron alcança o homem caído. Para cravar a espada na outra perna, será necessário um ataque corpo a corpo. Como o fugitivo está caído, Eron tem vantagem no ataque a até 1,5 metro.
+
+A caixa e a adaga poderão ser recuperadas depois do golpe, conforme o tempo e as ações disponíveis. O homem da besta continua sendo uma ameaça imediata.
