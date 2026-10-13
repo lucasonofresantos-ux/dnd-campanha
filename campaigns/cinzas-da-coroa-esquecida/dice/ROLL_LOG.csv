@@ -5,10 +5,10 @@ cinzas-da-coroa-esquecida,criacao_historica,3,atributos_4d6_descartar_menor,joga
 cinzas-da-coroa-esquecida,criacao_historica,4,atributos_4d6_descartar_menor,jogador,"6 5 1 1",1,12,0,12,false,"Um dos dois dados iguais a 1 descartado"
 cinzas-da-coroa-esquecida,criacao_historica,5,atributos_4d6_descartar_menor,jogador,"5 5 5 3",3,15,0,15,false,"Dados históricos de criação"
 cinzas-da-coroa-esquecida,criacao_historica,6,atributos_4d6_descartar_menor,jogador,"4 4 4 4",4,12,0,12,false,"Um dos quatro dados iguais a 4 descartado"
-cinzas-da-coroa-esquecida,0000_recuperacao,1,ataque_arco_vantagem,jogador,14 19,14,19,4,true,23
-cinzas-da-coroa-esquecida,0000_recuperacao,2,dano_arco,jogador,5,,5,2,true,7
-cinzas-da-coroa-esquecida,0000_recuperacao,3,ataque_furtivo_dano,jogador,2,,2,0,true,2
-cinzas-da-coroa-esquecida,0000_recuperacao,4,iniciativa_eron,jogador,20,,20,4,true,24
-cinzas-da-coroa-esquecida,0000_recuperacao,5,intimidacao_rendicao,jogador,16,,16,1,true,17
-cinzas-da-coroa-esquecida,0000_recuperacao,6,furtividade_corredor,jogador,20,,20,6,true,26
-cinzas-da-coroa-esquecida,0000_recuperacao,7,percepcao_corredor,jogador,15,,15,6,true,21
+cinzas-da-coroa-esquecida,0000_recuperacao,1,ataque_arco_vantagem,jogador,14 19,14,19,4,23,true,"Acerto no tornozelo do lider; maior dado mantido"
+cinzas-da-coroa-esquecida,0000_recuperacao,2,dano_arco,jogador,5,,5,2,7,true,"Dano arco curto antes do Ataque Furtivo"
+cinzas-da-coroa-esquecida,0000_recuperacao,3,ataque_furtivo_dano,jogador,2,,2,0,2,true,"Dano extra furtivo; total combinado 9"
+cinzas-da-coroa-esquecida,0000_recuperacao,4,iniciativa_eron,jogador,20,,20,4,24,true,"20 natural na iniciativa"
+cinzas-da-coroa-esquecida,0000_recuperacao,5,intimidacao_rendicao,jogador,16,,16,1,17,true,"Rendicao parcial dos tres intrusos"
+cinzas-da-coroa-esquecida,0000_recuperacao,6,furtividade_corredor,jogador,20,,20,6,26,true,"Exploracao do corredor de servico"
+cinzas-da-coroa-esquecida,0000_recuperacao,7,percepcao_corredor,jogador,15,,15,6,21,true,"Vozes de duas pessoas no beco"
