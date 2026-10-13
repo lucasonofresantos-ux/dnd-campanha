@@ -1165,3 +1165,49 @@ Sem esperar resposta, mistura-se aos transeuntes e desaparece depois da esquina.
 O sino de uma oficina próxima anuncia o fim da jornada de alguns trabalhadores. A luz do entardecer se alonga sobre as pedras da Rua dos Oleiros. A passagem indicada por Varen fica a pouca distância: estreita, sombreada e parcialmente oculta por barris vazios.
 
 O encontro está combinado para daqui a cinco minutos. Eron permanece junto à oficina, livre para escolher como aproveitar esse intervalo.
+
+
+## Jogador
+ Não estou com muita sorte agora, gato chegou a me assutar, deve ser fome tenho que comer alguma coisa.
+Eu não sabia que era da coroa, pro menos não até agora, mas pude supor pelas vestes e o modo que falou, sem falar que mencionei o nome errado e me corrigiu, e está me seguindo desde que eu saí da oficina do artesão, esqueci o nome dele, e você é muito bem treinado, as cicatrizes no seu dedo dizem isso, e parece que é mais que um caso de uma carroça e outra desaparecida, sua posição em relação a coroa francamente não sei, devo me curvar por acaso?
+E você já sabia o meu nome só não quis entregar.
+Agora me conta qual o interesse da coroa nisso?
+
+## Mestre
+Varen escuta sem interromper. À menção do gato, um canto de sua boca se ergue, mas o sorriso desaparece conforme Eron enumera suas suspeitas. Quando ele termina, o homem olha para as próprias mãos, examinando por um instante as pequenas cicatrizes nos nós dos dedos.
+
+— Você fala bastante para um homem faminto, Eron.
+
+Ele ergue os olhos.
+
+— E observa mais do que deixa transparecer. Mas está juntando fatos e suposições como se fossem a mesma coisa. Isso costuma ser perigoso.
+
+Varen se afasta da cisterna e caminha até uma parede onde a luz do entardecer ainda alcança as pedras. Não se aproxima de Eron.
+
+— O artesão se chama Velkan. E não, você não precisa se curvar. Nem diante de mim, nem de qualquer homem que alegue servir à Coroa sem apresentar suas credenciais.
+
+A última frase sai com uma secura inesperada.
+
+— Quanto ao seu nome... ouvi alguém pronunciá-lo perto da oficina. Não foi necessário arrancá-lo de um prisioneiro ou consultar um registro secreto.
+
+Ele faz uma pausa, deixando o silêncio ocupar o pátio.
+
+— Sobre Marek, você tem razão. Corrigi seu nome depressa demais. Conheço o homem, ou pelo menos conheço o suficiente sobre suas atividades para saber que não convém tratá-lo como um simples comerciante dos cais.
+
+Varen cruza os braços.
+
+— Agora, quanto à Coroa...
+
+Seu olhar se fixa em Eron.
+
+— Ainda não confirmei que trabalho para ela. E você ainda não me disse o que sabe. Se eu estivesse investigando por ordem de alguém, seria imprudente revelar meu mandante a um desconhecido que acabou de me abordar na rua.
+
+Ele inclina ligeiramente a cabeça.
+
+— Mas posso lhe dizer o que me interessa: cargas que desaparecem, homens pagos para vigiar artesãos e um armazém que recebe mercadorias sem registrá-las. Isso vai além de uma carroça.
+
+A expressão de Varen endurece.
+
+— Você esteve na oficina de Velkan. Houve confusão por lá, e agora está investigando aquele armazém. Portanto, vou lhe fazer uma proposta simples: diga-me o que aconteceu na oficina, e eu lhe direi o que sei sobre as entregas dos fundos.
+
+Varen espera, sem exigir que Eron aceite a troca.
