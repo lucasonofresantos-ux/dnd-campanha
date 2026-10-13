@@ -50,3 +50,8 @@ Arquivos produzidos nesta conferência: `transcripts/AUDITORIA_CONTINUIDADE_2026
 ## Continuação da conversa de retomada — 2026-10-13
 
 [SESSION_0000_CONTINUACAO_20261013_E.md](transcripts/SESSION_0000_CONTINUACAO_20261013_E.md) — pedido literal do jogador para auditoria, resultado da conferência e reapresentação da cena em que Haldren aguarda Eron. Sem rolagens novas ou mudança de situação.
+
+
+## Recuperação específica da conversa Eron–Bromir (2026-10-13)
+
+[RECUPERACAO_ERON_BROMIR_20261013.md](transcripts/RECUPERACAO_ERON_BROMIR_20261013.md) preserva o pedido literal de Eron para uma conversa enquanto Velkan buscava Haldren e reúne falas comprovadas de Bromir no diálogo anterior. Inclui a ponte factual entre os trechos C e D, **explicitamente não literal**. A resposta específica do Mestre ao pedido permanece ausente; não houve adição de cena, rolagem ou retcon. O último ponto jogado continua sendo a pergunta de Haldren sobre os agentes da Coroa na cena mais recente.
