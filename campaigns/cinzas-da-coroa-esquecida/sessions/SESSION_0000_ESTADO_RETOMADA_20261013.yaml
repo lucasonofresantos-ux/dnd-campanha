@@ -30,14 +30,14 @@ unresolved:
   - "Vínculo de Varen com autoridades, ainda não demonstrado"
   - "Situação exata dos capturados no curtume após ordem de Haldren para buscar atendimento e guardas"
   - "Operação e pagamento pactuados com Haldren: 25 PO por capturados e 25 PO pela operação, sujeitos às condições; quitação não presumida"
-last_player_message_exact: "A história é longa e faz muito tempo, e estamos sem tempo, sim eu insinuei \"oque a coroa queria aqui?\" E ele arregalou os olhos, tentando saber se era uma certeza ou se eu estava só blefando, fala isso enquanto como."
-last_gm_prompt: "Haldren aconselhou Eron a observar o comportamento de Varen e propôs decidir, quando Velkan estiver pronto, se levarão a réplica ao armazém ou apenas a usarão para identificar o destinatário."
-next: "Aguardar próxima fala ou ação de Eron durante a refeição, sem avançar o relógio narrativo."
+last_player_message_exact: "-Fala nisso, cade o Velkan que não vem"
+last_gm_prompt: "Velkan disse que ainda ajusta a cunha para conter a mola e pediu a ajuda de Eron e suas ferramentas após a refeição."
+next: "Aguardar a resposta ou ação de Eron durante a refeição ou na oficina; caixa continua fechada."
 transcription:
   completeness: "TXT 01.02 recuperado integralmente como enviado; história anterior e UI do chat ainda podem ter lacunas"
   audit: sessions/transcripts/AUDITORIA_CONTINUIDADE_20261013.md
   current_historical_end: sessions/transcripts/SESSION_0000_FONTE_LITERAL_0102_20261013.txt
-last_verified_transcript: "sessions/transcripts/SESSION_0000_FONTE_LITERAL_0102_20261013.txt"
+last_verified_transcript: sessions/transcripts/SESSION_0000_CONTINUACAO_20261013_H.md
 
 operational_dice_protocol: sessions/PROTOCOLO_DADOS_20261013.md
 no_new_rolls_or_scene_advancement_on_protocol_update: true
