@@ -908,3 +908,28 @@ A mulher arqueia uma sobrancelha.
 — Excelente. Já começamos bem.
 
 Eron ainda não identificou o homem de capa cinzenta entre os presentes. Dali, porém, não consegue examinar simultaneamente todos os hóspedes, a escada e as saídas do salão.
+
+
+## Jogador
+Vou de percepção de novo rolê para mim
+
+## Mestre
+Teste de Sabedoria (Percepção): 1d20 [7] + 6 = 13. Rolagem real executada em Python com secrets.randbelow(20) + 1.
+
+Eron examina discretamente os hóspedes enquanto Bromir conversa com a proprietária. Os dois viajantes continuam debruçados sobre seu mapa; os trabalhadores comem sem demonstrar interesse nos recém-chegados. O homem idoso junto à lareira ergue a cabeça por um instante, mas logo retorna à caneca.
+
+Perto da escada, uma mulher de avental atravessa o corredor carregando toalhas limpas. Uma porta se fecha no andar superior.
+
+Nenhum dos rostos visíveis corresponde a alguém que Eron reconheça como perseguidor. Contudo, o homem de capa cinzenta nunca mostrou claramente o rosto, e o movimento constante dos funcionários impede uma avaliação completa dos acessos.
+
+— Um quarto individual custa cinco peças de prata — informa a proprietária a Bromir. — Com jantar, sete.
+
+O anão fecha os olhos por um instante.
+
+— Sete... Pelas pedras profundas, nesta cidade até o sono custa caro.
+
+Ele olha para Eron.
+
+— Acho que vou pagar pelo jantar. Pelo menos assim ninguém poderá dizer que passei fome enquanto você estava correndo atrás de criminosos.
+
+A proprietária aguarda as moedas. Bromir ainda não pagou nem recebeu a chave.
