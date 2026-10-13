@@ -1211,3 +1211,41 @@ A expressão de Varen endurece.
 — Você esteve na oficina de Velkan. Houve confusão por lá, e agora está investigando aquele armazém. Portanto, vou lhe fazer uma proposta simples: diga-me o que aconteceu na oficina, e eu lhe direi o que sei sobre as entregas dos fundos.
 
 Varen espera, sem exigir que Eron aceite a troca.
+
+
+## Jogador
+Bem vamos fazer um acordo melhor, digo oque sei e você diz oque sabe, e não esconda sei que trabalha para a coroa ou para algum nobre da corte, poucos tem essa habilidade e costuma ser de treinamento militar.
+Oque acha?
+
+## Mestre
+Varen permanece em silêncio por alguns instantes. Depois descruza os braços e solta uma risada baixa.
+
+— Você tem uma curiosa maneira de negociar, Eron. Propõe uma troca justa e, antes que eu aceite, insiste em dizer quem sou e a quem sirvo.
+
+Ele passa o polegar por uma das cicatrizes da mão.
+
+— Treinamento militar? Talvez. Mas já vi soldados incapazes de perceber uma emboscada a dez passos e ladrões que se moviam melhor que os batedores de um rei. Não confunda habilidade com lealdade.
+
+O homem aproxima-se da cisterna e apoia uma mão na borda de pedra.
+
+— Ainda assim, aceito. O que você sabe pelo que eu sei. Sem exigir que um de nós entregue tudo primeiro.
+
+Ele ergue um dedo.
+
+— Mas estabeleçamos uma condição: se não pudermos revelar alguma coisa, diremos isso claramente, em vez de inventar uma mentira. Não lhe prometo confiança, apenas uma negociação honesta.
+
+Uma rajada de vento atravessa o pátio, agitando a borda de sua capa.
+
+— E, para demonstrar boa vontade, começo com algo que talvez ainda não saiba.
+
+Varen baixa a voz.
+
+— Há três noites, uma carroça entrou pelos fundos daquele armazém depois do último toque do sino. Não levava sacos de argila nem ferramentas. Transportava um caixote comprido, reforçado com ferro, e os homens que o descarregaram usavam luvas apesar do calor.
+
+Ele observa atentamente Eron.
+
+— Não vi o conteúdo. Mas ouvi um deles dizer que a peça principal ainda não havia chegado.
+
+Varen faz uma pausa.
+
+— Agora é sua vez. O que aconteceu na oficina de Velkan?
