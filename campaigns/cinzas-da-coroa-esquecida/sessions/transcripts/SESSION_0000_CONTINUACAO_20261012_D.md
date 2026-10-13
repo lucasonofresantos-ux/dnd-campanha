@@ -1764,3 +1764,40 @@ O homem de cabelos claros mantém a arma apontada na direção de Eron, mas os b
 — Afaste-se dele! — ordena, com a voz trêmula.
 
 Ele ainda não disparou.
+
+
+## Jogador
+Ah cale a boca e abaixe isso enquanto eu estou pensando em te deixar vivo
+Enquanto isso pego a adaga e a caixa
+(Cadê o Varen, ele já está demorando)
+
+## Mestre
+— Ah, cale a boca e abaixe isso enquanto ainda estou pensando em te deixar vivo!
+
+A voz de Eron ecoa entre os barris e as vigas do depósito.
+
+O besteiro mantém a arma erguida por mais um instante. Seus olhos passam da espada ensanguentada ao companheiro caído, que geme junto à porta. Então ele hesita e abaixa lentamente a ponta da besta, sem soltá-la.
+
+— Está bem... Está bem. Só não se aproxime.
+
+Eron se agacha, arranca a adaga da perna do fugitivo e recolhe a pequena caixa de madeira escura. O homem solta outro grito, mas não tenta resistir. A caixa é pesada para seu tamanho, tem duas tiras de couro apertadas em volta e não apresenta fechadura visível. Algo sólido se desloca discretamente em seu interior quando Eron a levanta.
+
+Do lado de fora, um estrondo interrompe o silêncio: madeira quebrando, seguido por passos arrastados.
+
+— ERON! — A voz de Varen vem do beco. — O DESGRAÇADO TENTOU FUGIR!
+
+Ouvem-se mais alguns passos, depois Varen aparece na porta de serviço, respirando com dificuldade. Há sangue na manga de seu casaco e sua espada está desembainhada.
+
+Ele observa o fugitivo no chão, a caixa nas mãos de Eron e o homem com a besta.
+
+— Pelos deuses... Você encontrou mais companhia.
+
+Varen permanece junto à entrada, atento ao besteiro.
+
+— O homem do casaco marrom está vivo. Amarrei os pulsos dele, mas não consegui amordaçá-lo ainda. Está caído atrás dos caixotes, no beco. O outro, aquele que você atingiu na garganta, parou de se mexer.
+
+O besteiro olha para Varen e aperta a arma com as duas mãos, embora continue apontando-a para baixo.
+
+— Vocês não entendem — murmura. — Aquilo não pode sair daqui.
+
+Seus olhos estão fixos na caixa que Eron segura.
