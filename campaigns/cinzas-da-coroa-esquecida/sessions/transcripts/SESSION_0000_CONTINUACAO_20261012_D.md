@@ -1801,3 +1801,50 @@ O besteiro olha para Varen e aperta a arma com as duas mãos, embora continue ap
 — Vocês não entendem — murmura. — Aquilo não pode sair daqui.
 
 Seus olhos estão fixos na caixa que Eron segura.
+
+
+## Jogador
+Vamos logo, antes que o outro morra, não quero Harlem dizendo que fiz uma chacina na cidade dele
+
+## Mestre
+— Vamos logo, antes que o outro morra. Não quero Haldren dizendo que fiz uma chacina na cidade dele.
+
+Varen solta uma risada curta, sem humor.
+
+— Um morto, três prisioneiros e sangue espalhado por um curtume inteiro... Eu diria que já teremos bastante coisa para explicar ao sargento. Vamos.
+
+Ele lança um último olhar aos três homens amarrados. Neris acompanha os movimentos dos dois com os olhos; o homem ferido permanece deitado, pálido, com a respiração curta. Varen fecha a porta de serviço ao sair, mas não a tranca.
+
+Vocês seguem apressadamente pelas ruas de Caldria. O crepúsculo cobre os telhados, e as primeiras lanternas começam a aparecer diante das lojas. Varen caminha ao lado de Eron, atento aos cruzamentos. A caixa escura permanece fechada, longe de qualquer outra peça do mecanismo.
+
+Quando chegam à oficina de Mestre Velkan, encontram luz nas janelas. A porta da frente está fechada, mas há vozes lá dentro.
+
+Varen bate com força.
+
+— Haldren! Abra! Temos feridos e precisamos de Orsik!
+
+O som de uma cadeira arrastando-se precede passos rápidos. A porta se abre parcialmente, revelando Maela, uma das patrulheiras. Ela reconhece Eron e Varen, observa a caixa e franze a testa.
+
+— O sargento ainda está aqui. Entrem.
+
+No interior, Haldren se ergue de uma mesa coberta de anotações. Velkan está junto à bancada, e Orsik, o médico que havia tratado o braço de Eron, fecha sua bolsa de instrumentos ao ouvir a notícia.
+
+— Feridos? Quantos? — pergunta Orsik imediatamente.
+
+Haldren, porém, fixa os olhos na caixa.
+
+— Eron... o que aconteceu desta vez?
+
+Varen responde antes que o sargento prossiga:
+
+— Três homens capturados no curtume. Um gravemente ferido, dois amarrados. Há também um morto. Precisamos mandar homens para lá agora.
+
+O rosto de Haldren endurece.
+
+— Maela, chame Iven e mais dois guardas. Orsik, vá com eles.
+
+O médico já recolhe sua bolsa.
+
+— Quero saber exatamente onde está o ferido e o que fizeram para conter o sangramento — exige, dirigindo-se a Eron enquanto ajusta a alça no ombro.
+
+Haldren permanece diante da mesa, esperando uma explicação. Velkan observa a caixa, mas não se aproxima dela.
