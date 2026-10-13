@@ -45,3 +45,8 @@ Interpretação operacional: as lacunas da criação do personagem não precisam
 A Sessão 0 com Bromir, Velkan, Haldren e Varen é o ramo a retomar. O arquivo `../CAMPAIGN_STATE.yaml` ainda corresponde à abertura alternativa em Lorn, não ao último ponto deste ramo. Não apagar a Sessão 0001 nem mesclar os dois ramos. A integridade literal da Sessão 0 permanece **parcial**, com pelo menos uma resposta inteira substituída por aviso de pendência em `SESSION_0000_CONTINUACAO_20261012_D.md` e interfaces descritas em vez de representadas integralmente.
 
 Arquivos produzidos nesta conferência: `transcripts/AUDITORIA_CONTINUIDADE_20261013.md`, `SESSION_0000_ESTADO_RETOMADA_20261013.yaml` e `../dice/ROLL_LOG_SESSAO_0000_SUPLEMENTO_20261013.csv`. As novas interações deste chat devem ser acrescentadas em transcript próprio, sem alterar as falas anteriores.
+
+
+## Continuação da conversa de retomada — 2026-10-13
+
+[SESSION_0000_CONTINUACAO_20261013_E.md](transcripts/SESSION_0000_CONTINUACAO_20261013_E.md) — pedido literal do jogador para auditoria, resultado da conferência e reapresentação da cena em que Haldren aguarda Eron. Sem rolagens novas ou mudança de situação.
