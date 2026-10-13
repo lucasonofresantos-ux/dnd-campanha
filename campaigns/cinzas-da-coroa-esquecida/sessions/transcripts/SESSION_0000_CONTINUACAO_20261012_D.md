@@ -236,3 +236,64 @@ Bromir coça a barba.
 — Uma peça falsa, um encontro secreto e um sargento que talvez consiga recuperar minhas duas moedas... Começo a gostar desse plano.
 
 Haldren mantém o olhar em Eron, aguardando sua avaliação.
+
+
+## Jogador
+Velkan não esqueça do símbolo
+Haldren se não vou ficar com os pertences como espólio da luta, eu quero uma recompensa pelos 5, andei de mais com este anão para não cobrar meu serviço, estou pegando o péssimo hábito dele.
+E por hoje a noite não será de graça também, a partir de agora sou contratado da patrulha, e temos que decidir um valor, e quanto ao armazém cheio de assassinos, pode ser divertido
+
+## Mestre
+Velkan, que já examinava algumas ferramentas sobre a bancada, ergue a cabeça.
+
+— Não esquecerei o símbolo. Três linhas convergindo para um pequeno círculo. Vou reproduzi-lo na posição correta, inclusive as marcas de desgaste. Mas preciso de tempo e não garanto que a peça falsa resista a uma inspeção minuciosa.
+
+Bromir observa Eron negociar com Haldren e abre um sorriso cada vez maior.
+
+— Pelas barbas de Moradin... Ouçam esse homem! Há dois dias mal nos conhecíamos, e agora ele já está cobrando por cabeça, negociando contratos e reclamando de trabalhar de graça.
+
+O anão enxuga uma lágrima imaginária.
+
+— Estou orgulhoso, rapaz. Muito orgulhoso.
+
+Haldren, entretanto, não se deixa distrair.
+
+— Cinco prisioneiros capturados, uma tentativa de homicídio evitada e informações sobre uma organização criminosa. Reconheço o valor do que fez, Eron. Mas há uma diferença entre recompensar um cidadão e contratar alguém em nome da patrulha.
+
+Ele guarda a caderneta e apoia as mãos na mesa.
+
+— Não tenho autoridade para nomeá-lo patrulheiro. Posso, porém, contratar um colaborador civil para uma investigação específica, usando os fundos reservados a informantes e serviços extraordinários. O pagamento terá de ser registrado, mesmo que os detalhes da operação permaneçam confidenciais.
+
+Bromir levanta um dedo.
+
+— E antes que esqueça: o colaborador civil também conhece um mercador que perdeu duas moedas de ouro.
+
+— Não esqueci, Bromir — responde Haldren, com uma paciência visivelmente testada.
+
+O sargento volta-se para Eron.
+
+— Posso oferecer **25 peças de ouro pela captura dos cinco homens**, desde que sejam entregues vivos à custódia, e **mais 15 peças de ouro pela operação desta noite**, caso aceite atuar como colaborador civil. Quarenta moedas ao todo. As despesas extraordinárias comprovadas poderão ser discutidas separadamente.
+
+Ele faz uma pausa.
+
+— Não vou condicionar seu pagamento a matar alguém. O objetivo é identificar quem recebe a peça, reunir provas e, se possível, efetuar prisões. Não espero que morra por quinze moedas.
+
+Bromir solta um assobio baixo.
+
+— Quarenta moedas... E eu preocupado com duas.
+
+— O senhor continua preocupado com duas — observa Velkan.
+
+— Porque são minhas!
+
+Haldren prossegue, mais sério:
+
+— Quanto ao armazém cheio de assassinos ser divertido, espero que continue achando graça quando estiver diante deles. Não conhecemos o número de homens lá dentro, nem suas armas. E, se realmente houver alguém da patrulha trabalhando para Marek, uma intervenção precipitada pode comprometer tudo.
+
+Ele estende a mão, sem exigir que Eron a aperte.
+
+— **Quarenta peças de ouro pelos dois serviços.** É a proposta que posso autorizar. Se quiser negociar, estou ouvindo.
+
+Velkan já separa uma pequena lima, uma peça de bronze bruto e instrumentos de gravação. O símbolo permanece desenhado num pedaço de pergaminho ao lado da bancada.
+
+Do depósito, Darric acompanha a conversa em silêncio, visivelmente atento à possibilidade de uma operação naquela noite.
