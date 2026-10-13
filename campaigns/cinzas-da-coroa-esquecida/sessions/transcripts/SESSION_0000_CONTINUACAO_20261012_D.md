@@ -1359,3 +1359,34 @@ Varen verifica a posição da espada sob a capa.
 — Podemos nos aproximar pelas sombras do lado esquerdo. Eu cubro a retaguarda.
 
 Ele espera Eron iniciar o avanço, conforme haviam combinado.
+
+
+## Jogador
+Então vamos
+
+## Mestre
+Varen responde com um breve aceno e desliza a mão para perto do punho da espada, mantendo a lâmina embainhada.
+
+— Vou cuidar de nossas costas.
+
+Os dois deixam a proteção da passagem. O ar cheira a lenha úmida e argila, enquanto o último brilho do entardecer desaparece entre os telhados. Eron avança junto às paredes das oficinas, aproveitando barris empilhados, portas recuadas e trechos de sombra. Varen mantém alguns passos de distância, atento à retaguarda.
+
+Ao se aproximarem do cruzamento, Eron percebe que a esquina oferece uma visão limitada do beco: uma passagem estreita, ladeada por um muro de tijolos e pelo depósito de um curtidor. Há marcas recentes de lama junto à entrada, embora a rua principal esteja quase seca.
+
+Então, de dentro do beco, vem um ruído discreto.
+
+Clac.
+
+Parece o som de uma pequena peça metálica tocando a pedra.
+
+Logo depois, uma voz masculina, baixa e irritada, chega até Eron:
+
+— ...já devia ter saído dali.
+
+Outra voz responde, ainda mais abafada:
+
+— Então espera. Não vou me mostrar naquela rua.
+
+Varen para atrás de uma pilha de caixotes e olha para Eron. Pela posição das vozes, há pelo menos duas pessoas além da esquina, fora de vista. Não é possível afirmar que alguma delas seja o homem de casaco marrom.
+
+Eron está a poucos passos da entrada do beco. As vozes continuam baixas, aparentemente sem perceber sua aproximação.
