@@ -89,3 +89,28 @@ O vigia da lanterna acrescenta, em voz baixa:
 Bromir olha para o núcleo de bronze, depois para Eron.
 
 — Temos um nome, uma história possível e uma senha. Falta descobrir se os homens do armazém aceitarão tudo isso.
+
+
+## Jogador
+Bem, é melhor que nada, estamos muito longe da base da patrulha?
+
+## Mestre
+Bromir olha para Velkan.
+
+— Onde fica o posto principal da patrulha? Perto da Praça dos Tecelões?
+
+O artesão confirma com um movimento de cabeça.
+
+— Não muito longe. Fica junto à Praça da Fonte Velha, a uns dez minutos a pé daqui, talvez quinze com as ruas movimentadas. Há também uma pequena guarita no mercado, mais próxima, mas o posto principal é onde costumam manter os detidos.
+
+Bromir observa os cinco homens amarrados, especialmente os dois feridos.
+
+— Dez minutos não são nada para nós. Mas transportar esses sujeitos é outra história. Um está com a perna arruinada e aquele ali continua pregado ao chão.
+
+Velkan baixa a voz.
+
+— Se vocês pretendem chamar a patrulha, eu procuraria o sargento responsável. Não entregaria o núcleo nem contaria tudo ao primeiro guarda que aparecesse, considerando o que acabamos de ouvir.
+
+Bromir volta-se para Eron.
+
+— Conhecemos o sargento Haldren. Pelo menos ele já sabe da sabotagem da carroça. Não significa que possamos confiar em toda a patrulha, mas é um começo.
