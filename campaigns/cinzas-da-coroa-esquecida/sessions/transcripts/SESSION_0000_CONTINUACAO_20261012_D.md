@@ -1467,3 +1467,24 @@ O homem sente a ameaça, mas não está completamente dominado. Sua respiração
 Varen abandona sua cobertura no mesmo instante, avançando para interceptá-lo.
 
 A abordagem desencadeou um confronto. Eron agiu primeiro, aproveitando a aproximação furtiva, mas ainda não conseguiu agarrar mecanicamente o vigia. A ameaça o fez hesitar, não se render. A reação do outro homem e a tentativa de Varen serão resolvidas pela ordem de iniciativa.
+
+
+## Jogador
+Me passa oque acontece agora
+
+## Mestre
+Beco do curtume — Primeiro confronto
+
+O homem alto permanece rígido, sentindo o aço da adaga junto ao pescoço. Seu companheiro começa a virar a cabeça, mas ainda não compreendeu o que está acontecendo.
+
+Eron tem a iniciativa: 12. A aproximação furtiva foi bem-sucedida e a ameaça já foi feita. A lâmina está posicionada, mas o homem ainda não está agarrado ou imobilizado.
+
+A mão do vigia continua fechada sobre o pequeno objeto metálico. Seus olhos se deslocam na direção da porta entreaberta.
+
+— Está bem... — murmura. — Só não aperte essa lâmina.
+
+Varen se prepara para interceptar o homem de casaco marrom, conforme combinado, mas ainda não chegou a ele.
+
+Ordem de iniciativa — Rodada 1: Eron 12 — turno atual; homem alto 11; Varen 6; casaco marrom 3.
+
+Eron está em posição favorável para tentar agarrar o homem, pressioná-lo a se render ou agir de outra maneira. A próxima ação é sua; depois dela, os demais agirão na ordem estabelecida.
