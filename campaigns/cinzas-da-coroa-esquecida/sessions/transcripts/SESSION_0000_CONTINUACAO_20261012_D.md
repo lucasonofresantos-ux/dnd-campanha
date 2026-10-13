@@ -704,3 +704,93 @@ Bromir olha para Eron, indignado.
 Orsik dá um último ajuste na faixa.
 
 — Está pago pela patrulha, então. Eron não me deve nada.
+
+
+## Jogador
+Muito obrigado Orsik, e muito obrigado Haldren
+Bromir vamos logo levar está carroça e achar um lugar seguro para você eu tenho que investigar esse armazem e voltar aqui, e não tenho o tempo que gostaria, e ainda quero comer um ensopado em sua casa. Você pelo menos tem um martelo decente para manter consigo? E antes que me esqueça recebeu do Velkan pela entrega, não quero que saia chorando por umas moedas depois de eu te deixar lá 
+
+## Mestre
+Orsik responde com um breve aceno, já voltando sua atenção aos feridos.
+
+— Procure não arrancar esses pontos antes de amanhã, rapaz. E boa sorte.
+
+Haldren aperta o antebraço de Eron, tomando cuidado com o curativo.
+
+— Traga informações, não ferimentos novos. Estarei aqui antes do anoitecer.
+
+Bromir, entretanto, parece mais interessado na última parte da conversa.
+
+— Chorando por umas moedas?! Eron, um homem que não cuida das próprias moedas logo descobre que precisa cuidar das moedas dos outros!
+
+Ele bate no martelo pesado que ainda carrega.
+
+— Quanto a isto, é uma excelente ferramenta para quebrar ossos... e uma péssima coisa para roubar de um artesão.
+
+Velkan ergue a cabeça imediatamente.
+
+— Fico satisfeito que tenha percebido.
+
+Bromir devolve o martelo à bancada e aponta para a própria carroça, visível pela janela.
+
+— Tenho um martelo de viagem guardado sob o banco, junto das ferramentas. Cabe numa mão e já me serviu para convencer dois ladrões de estrada a reconsiderarem suas profissões. Não pretendo sair desarmado.
+
+Quando Eron menciona o pagamento da entrega, o anão para.
+
+— Ah, isso, sim, é assunto importante!
+
+Ele se volta para Velkan.
+
+— Mestre artesão, recebemos a caixa, entregamos a caixa, quase morremos por causa da caixa... Mas, se minha memória não me trai, ainda não acertamos o pagamento do transporte.
+
+Velkan pousa a lima.
+
+— Não acertamos. O senhor Odran deixou instruções para que eu lhe pagasse pela entrega. Estava justamente esperando terminarmos de lidar com os intrusos.
+
+O artesão abre uma gaveta sob a bancada, retira uma pequena bolsa de couro e conta seis peças de ouro, colocando-as diante de Bromir.
+
+— Seis moedas, conforme o combinado com Odran.
+
+Bromir confere cada uma, primeiro com os olhos e depois com os dedos.
+
+— Uma... duas... três... quatro... cinco... seis.
+
+Ele guarda a bolsa com uma satisfação quase solene.
+
+— Excelente. Agora, sim, podemos dizer que esta entrega foi concluída.
+
+Velkan olha para o chão ensanguentado do depósito.
+
+— Eu diria que foi concluída com algumas complicações.
+
+— Detalhes, meu caro. Detalhes.
+
+***
+
+Pouco depois, Bromir sobe ao banco da carroça. Antes de guardar o martelo de viagem ao alcance da mão, verifica o pino do eixo reparado na Forja do Martelo Rubro.
+
+— Está firme. Garrik fez um serviço decente. Caro, mas decente.
+
+O anão toma as rédeas e conduz a carroça pelas ruas movimentadas de Caldria. O cheiro de carvão e ferro das oficinas vai cedendo ao de pão recém-assado, cerveja e lenha úmida.
+
+Duas ruas adiante, surge a Estalagem do Carvalho Cinzento, um edifício de pedra clara e vigas escuras. Uma tabuleta com a figura de um carvalho balança sobre a entrada. Ao lado, um corredor largo conduz a um pátio cercado por muros, com cocheiras cobertas e um portão de madeira reforçado.
+
+Um tratador de cabelos ruivos sai de uma das baias, limpando as mãos num pano.
+
+— Boa tarde. Vieram deixar a carroça ou procuram hospedagem?
+
+Bromir examina o portão, as dobradiças e o homem, nessa ordem.
+
+— Depende. Quanto custa manter uma carroça e o animal aqui até amanhã?
+
+— Quatro peças de prata, incluindo água, feno e vigilância durante a noite — responde o tratador.
+
+Bromir vira lentamente a cabeça para Eron.
+
+— Quatro pratas...
+
+Ele estreita os olhos.
+
+— Se você rir, rapaz, juro que cobro pelo ensopado quando chegarmos à minha casa.
+
+O tratador aguarda a resposta. A carroça permanece diante do portão, ainda sem ter sido entregue à cocheira.
