@@ -933,3 +933,23 @@ Ele olha para Eron.
 — Acho que vou pagar pelo jantar. Pelo menos assim ninguém poderá dizer que passei fome enquanto você estava correndo atrás de criminosos.
 
 A proprietária aguarda as moedas. Bromir ainda não pagou nem recebeu a chave.
+
+
+## Jogador
+Bem agora acho que ele vai ficar bem.
+Agora vou até o armazém.
+Vou usando furtividade e percepção, furtividade para não ser visto e percepção para varrer os arredores e ver se alguém me acompanha ou acho o homem da capa cinzenta
+
+## Mestre
+Eron deixa para trás o calor do Carvalho Cinzento. A rua está movimentada, mas a tarde avança e as sombras começam a se alongar entre os edifícios de Caldria. O cheiro de pão e ensopado desaparece gradualmente, substituído pelo odor de barro úmido, fumaça de fornos e água estagnada que chega da região dos cais.
+
+Seguindo as indicações de Haldren, o caminho passa pela Rua da Fonte, pelo poço de pedra e pela Passagem dos Curtidores, antes de alcançar a Rua dos Oleiros. Há carroceiros, trabalhadores e comerciantes suficientes para oferecer cobertura, mas também muitas janelas, becos e esquinas de onde alguém poderia observar um viajante.
+
+Eron pretende avançar discretamente, mantendo atenção especial a possíveis perseguidores, ao homem de capa cinzenta e aos acessos do armazém.
+
+Serão necessários dois testes, realizados durante o deslocamento:
+
+- Destreza (Furtividade): 1d20 + 6 — para evitar chamar atenção e ser identificado por possíveis observadores.
+- Sabedoria (Percepção): 1d20 + 6 — para examinar os arredores, perceber movimentações suspeitas e procurar sinais de alguém seguindo Eron.
+
+Controles interativos para rolar ambos os testes apresentados ao jogador; resultados pendentes.
