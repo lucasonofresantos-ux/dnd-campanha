@@ -671,3 +671,36 @@ Orsik guarda a agulha e volta-se para seus outros pacientes.
 — Seu ferimento está fechado e protegido, mas você ainda precisa descansar para se recuperar completamente.
 
 Regra de jogo: o atendimento estabiliza o ferimento narrativamente, sem recuperar pontos de vida. Eron permanece com 8/11 PV. Não foi necessário teste, pois Orsik dispõe de instrumentos, tempo e condições adequadas para tratar um corte superficial.
+
+
+## Jogador
+Quanto deu o tratamento?
+
+## Mestre
+Orsik termina de guardar seus instrumentos e olha para Eron.
+
+— Pela limpeza, os pontos e a faixa? Cinco peças de prata. Material incluído.
+
+Bromir imediatamente se intromete:
+
+— Cinco pratas?! Eron, você devia ter pedido desconto antes de deixar o homem costurá-lo!
+
+Orsik ergue uma sobrancelha.
+
+— Posso retirar os pontos e começarmos a negociação do zero, se preferirem.
+
+O anão fecha a boca por um instante.
+
+— Pensando bem, parece um preço justo.
+
+Haldren, que acompanha a conversa, intervém:
+
+— Como esse ferimento foi sofrido durante a captura dos homens que agora estão sob minha custódia, posso registrar o tratamento como despesa da investigação. A patrulha cobrirá as cinco pratas.
+
+Bromir olha para Eron, indignado.
+
+— Ah, maravilhoso! O homem consegue cinquenta moedas de ouro, tratamento gratuito e ainda me chama de mão de vaca!
+
+Orsik dá um último ajuste na faixa.
+
+— Está pago pela patrulha, então. Eron não me deve nada.
