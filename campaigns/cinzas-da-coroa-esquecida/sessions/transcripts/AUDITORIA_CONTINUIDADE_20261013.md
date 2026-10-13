@@ -30,3 +30,8 @@ Em 2026-10-12, o jogador esclareceu que a Sessão 0 com Bromir e Velkan é a con
 
 ## Ramo narrativo e proteção de estado
 O `CAMPAIGN_STATE.yaml` principal da pasta da campanha aponta para a execução alternativa da Sessão 0001 em Lorn, sem as ações de Bromir. **Não utilizá-lo para resumir a Sessão 0**, nem apagá-lo retroativamente. Estado operacional específico desta Sessão 0 em `sessions/SESSION_0000_ESTADO_RETOMADA_20261013.yaml`; rolagens suplementares em `dice/ROLL_LOG_SESSAO_0000_SUPLEMENTO_20261013.csv`. Nenhuma informação dos arquivos `dm/` é incluída nesta auditoria.
+
+
+## Complemento de recuperação — 2026-10-13
+
+Foi produzido `sessions/transcripts/RECUPERACAO_ERON_BROMIR_20261013.md` com falas literais comprovadas de Bromir antes da lacuna, o pedido literal do jogador e uma ponte narrativa **não literal**. A resposta original à solicitação de conversa segue sem acesso e não foi substituída por criação nova. O registro não interfere na cronologia, na situação dos personagens ou no ponto mais recente da campanha.
