@@ -39,3 +39,6 @@ transcription:
   audit: sessions/transcripts/AUDITORIA_CONTINUIDADE_20261013.md
   current_historical_end: sessions/transcripts/SESSION_0000_CONTINUACAO_20261012_D.md
 last_verified_transcript: sessions/transcripts/SESSION_0000_CONTINUACAO_20261013_E.md
+
+operational_dice_protocol: sessions/PROTOCOLO_DADOS_20261013.md
+no_new_rolls_or_scene_advancement_on_protocol_update: true
