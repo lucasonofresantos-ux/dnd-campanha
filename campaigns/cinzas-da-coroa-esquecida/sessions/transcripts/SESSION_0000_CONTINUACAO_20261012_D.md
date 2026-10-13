@@ -346,3 +346,66 @@ Haldren guarda a caderneta.
 — Só mais uma coisa, Eron. Nosso acordo é por esta investigação, não um alistamento permanente. Quando terminarmos, estaremos livres para discutir outro contrato.
 
 O sargento parece satisfeito com os termos. Darric, entretanto, acompanha a conversa com expressão cada vez mais fechada.
+
+
+## Jogador
+Eu entendo, e pelos deuses não esqueça das duas moedas de ouro do Bromir, o homem está inconformado
+
+Bem eu vou aguardar seus homens virem buscar eles, assim que eles entrarem aqui eu considero entregue, mas venha junto, vai que são dois enviados pelo Malek, difícil mas pode acontecer
+
+## Mestre
+Bromir leva a mão ao peito, teatralmente comovido.
+
+— Finalmente! Alguém compreende a profundidade da injustiça que sofri! Duas moedas de ouro, sargento. Duas!
+
+Haldren fecha os olhos por um breve instante.
+
+— Bromir, se eu esquecer essas duas moedas, tenho certeza de que o senhor aparecerá na minha casa para me lembrar.
+
+— Na sua casa, no quartel, na taverna... Onde for necessário!
+
+Velkan solta uma risada abafada enquanto trabalha na réplica.
+
+O sargento volta-se para Eron, retomando a seriedade.
+
+— Sua preocupação é razoável. Não sabemos até onde chegam os contatos de Marek. Voltarei pessoalmente com os dois agentes e um cirurgião. Não mandarei ninguém à frente, e os prisioneiros permanecerão sob sua guarda até eu confirmar a identidade dos homens que trouxer.
+
+Ele olha para Darric.
+
+— Além disso, não quero que ninguém entre aqui anunciando que veio buscar cinco criminosos. Isso chamaria atenção desnecessária.
+
+Haldren aproxima-se da porta e ajusta o manto sobre a armadura.
+
+— Os agentes que pretendo trazer são Iven e Maela. Já trabalharam comigo em investigações delicadas. Confio neles, embora isso não signifique que você deva baixar a guarda.
+
+Bromir ergue o martelo ligeiramente.
+
+— Não se preocupe. Se aparecer alguém que não conhecemos, terá de passar por mim.
+
+— É justamente o que espero evitar — responde Haldren.
+
+Antes de sair, o sargento acrescenta:
+
+— Quanto ao pagamento, concordo que a custódia se considera transferida quando eu retornar, identificar os agentes e eles assumirem formalmente os cinco prisioneiros. Registrarei isso diante de você. Os vinte e cinco devidos pela captura serão liberados nessa ocasião.
+
+Haldren deixa a oficina discretamente.
+
+***
+
+A espera se prolonga por algum tempo. Velkan trabalha com pequenas ferramentas, alternando entre a peça de bronze bruto e um desenho do símbolo. O ruído fino da lima mistura-se aos sons distantes da praça.
+
+Bromir permanece junto à entrada do depósito, de onde consegue observar os prisioneiros. Darric continua imóvel, com o rosto marcado pela dor. Os demais conversam pouco.
+
+Por fim, ouvem-se passos na rua e três batidas espaçadas na porta principal.
+
+— Velkan? É Haldren.
+
+O artesão interrompe o trabalho e se aproxima da entrada. Pela pequena abertura da porta, vê o sargento acompanhado de dois patrulheiros e de um homem mais velho carregando uma bolsa de couro própria de cirurgião.
+
+Haldren fala antes que alguém entre:
+
+— Trouxe Iven, Maela e o cirurgião Orsik. Como prometido, voltei com eles. Podemos entrar?
+
+Bromir lança um olhar para Eron, mas não abandona sua posição junto aos prisioneiros.
+
+A porta permanece apenas entreaberta, à espera da autorização.
