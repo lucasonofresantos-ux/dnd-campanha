@@ -1443,3 +1443,27 @@ A frase morre quando ele sente a presença de Eron às suas costas. Sua mão ain
 Varen, oculto mais adiante, percebe que Eron alcançou a posição combinada. Seus músculos se contraem, pronto para avançar sobre o homem de casaco marrom assim que a abordagem começar.
 
 Eron conseguiu aproximar-se sem ser detectado. Para colocar a adaga na garganta do vigia e mantê-lo sob controle, ainda precisamos resolver a tentativa de agarrá-lo. Como a situação pode desencadear um confronto, primeiro determinaremos a iniciativa, sem conceder automaticamente a imobilização.
+
+
+## Jogador
+Eu falo para ele, se emitir um barulho se quer corto sua garganta
+Role os dados para mim
+
+## Mestre
+Eron aproxima a adaga da garganta do homem alto e sussurra, com a voz firme:
+
+— Se emitir um barulho se quer corto sua garganta.
+
+O homem enrijece imediatamente. O pequeno objeto metálico para de girar entre seus dedos.
+
+Rolagens executadas em Python: Iniciativa de Eron: 1d20 [8] + 4 = 12. Carisma (Intimidação): 1d20 [11] + 1 = 12. Iniciativa do vigia alto: 1d20 [10] + 1 = 11; vigia marrom: 1d20 [2] + 1 = 3; Varen: 1d20 [4] + 2 = 6.
+
+O homem sente a ameaça, mas não está completamente dominado. Sua respiração acelera; por um instante, os dedos se contraem ao redor do objeto metálico. Então ele responde, num sussurro quase inaudível:
+
+— Calma... não precisa fazer isso.
+
+À frente, o homem de casaco marrom começa a virar a cabeça, aparentemente estranhando a interrupção da conversa.
+
+Varen abandona sua cobertura no mesmo instante, avançando para interceptá-lo.
+
+A abordagem desencadeou um confronto. Eron agiu primeiro, aproveitando a aproximação furtiva, mas ainda não conseguiu agarrar mecanicamente o vigia. A ameaça o fez hesitar, não se render. A reação do outro homem e a tentativa de Varen serão resolvidas pela ordem de iniciativa.
