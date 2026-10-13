@@ -2201,3 +2201,35 @@ O disparo alertou os três, mas nenhum deles identificou com precisão a posiç�
 Ordem de iniciativa: 1. Eron 24; 2. Homem de casaco castanho 15; 3. Homem de gibão escuro 12; 4. Líder ferido 11. Iniciativas dos três inimigos roladas com Python secrets.randbelow: d20 → [15], [12], [11], respectivamente, sem modificadores conhecidos aplicados.
 
 Rodada 1 — turno de Eron. Você age primeiro. O líder continua com o pé preso, os outros dois estão armados, e Bromir permanece na oficina com o martelo. Ainda não há movimento dos inimigos nesta rodada.
+
+
+## Jogador
+
+Eu largo o arco puxo a espada e a adaga e me levanto, não adianta mais permanecer oculto, eu grito para Bromir
+- achei três ratos aqui atrás, queres me ajudar a esmagar algum deles?
+- eu vou dar a oportunidade de se renderem, mas não estou de bom humor e faz tempo que não mato ninguém, então por favor escolham a segunda opção para eu eu possa matalos e meu amigo também está querendo descarregar a raiva, nesse momento, não estou preso com vocês, vocês estão presos comigo
+Me dê o dado para elas intimidação
+
+## Mestre
+
+Eron deixa o arco cair atrás dos caixotes, desembainha a espada curta e a adaga e se ergue à vista dos três homens.
+
+— **Achei três ratos aqui atrás, queres me ajudar a esmagar algum deles?** — grita para Bromir.
+
+Da oficina vem a resposta imediata do anão:
+
+— **Três?! Pelas barbas dos meus ancestrais, você não sabe encontrar uma encrenca pequena?!**
+
+O som de botas pesadas se aproxima da porta.
+
+Eron encara os intrusos e lhes oferece a rendição, deixando claro que preferiria enfrentá-los. Sua ameaça termina com as palavras:
+
+— **Nesse momento, não estou preso com vocês. Vocês estão presos comigo.**
+
+O homem de casaco castanho aperta o cabo do punhal. O de gibão escuro interrompe o movimento em direção a Eron. Junto à passagem dos fundos, o líder ferido sustenta o próprio peso contra a estante, com o rosto contraído pela dor.
+
+Nenhum responde imediatamente.
+
+**Teste de Carisma (Intimidação): `1d20 +1`.** A flecha que mantém o líder preso e a aproximação de Bromir tornam a ameaça bastante concreta; vou considerar essas circunstâncias ao determinar a reação dos homens.
+
+Interface interativa de rolagem 1d20 +1 e envio do resultado ao Mestre.
