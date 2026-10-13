@@ -832,3 +832,10 @@ O anão acompanha discretamente a direção do olhar de Eron.
 — Algum problema?
 
 A carroça ainda está diante do portão aberto. O homem da capa cinzenta não está à vista.
+
+
+## Jogador
+Me dê os dados
+
+## Mestre
+Teste de Sabedoria (Percepção) para Eron examinar as cocheiras e procurar possíveis ameaças. Percepção — Carvalho Cinzento: 1d20 + 6. Controle interativo de rolagem apresentado ao jogador; aguardando resultado.
