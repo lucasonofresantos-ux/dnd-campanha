@@ -1123,3 +1123,26 @@ O homem inclina ligeiramente a cabeça.
 — Pode me chamar de Varen, por enquanto. E você? Tem um nome, ou devo continuar chamando-o de homem do anão?
 
 Varen não se move em direção à passagem. Aguarda a resposta de Eron.
+
+
+## Jogador
+Não falei isso perto dele se não vai achar que sou propriedade dele e vai querer me vender. Pode me chamar de Eron
+
+## Mestre
+Varen solta uma risada curta, abafando-a com o dorso da mão.
+
+— Ah, então o anão é desses? — murmura, com um brilho divertido nos olhos. — Conheci um mercador em Mirabar que tentou vender a própria sela enquanto ainda estava montado nela. Imagino que os dois teriam muito sobre o que conversar.
+
+Ele observa Eron por mais um instante.
+
+— Muito bem, Eron. Varen basta por enquanto.
+
+A expressão bem-humorada desaparece quando uma dobradiça range no armazém. Varen olha discretamente para a janela do andar superior e depois indica, com um movimento quase imperceptível do queixo, a passagem entre os edifícios.
+
+— Prefiro não ficar aqui até que alguém resolva contar quantas vezes olhamos para aquela porta.
+
+Uma mulher carregando um cesto de roupas atravessa a esquina. Varen espera que ela passe antes de acrescentar:
+
+— Podemos ir separadamente. A passagem termina num pequeno pátio atrás da casa do tanoeiro. Você chega primeiro, se preferir. Assim não precisa confiar suas costas a mim.
+
+Ele mantém a distância, deixando a escolha com Eron.
