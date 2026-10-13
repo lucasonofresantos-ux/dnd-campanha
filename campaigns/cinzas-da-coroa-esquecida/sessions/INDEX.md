@@ -116,3 +116,6 @@ Arquivos produzidos nesta conferência: `transcripts/AUDITORIA_CONTINUIDADE_2026
 
 
 **Deslocamento ao armazém, mensagens 0043–0044:** [transcrição R](transcripts/SESSION_0000_CONTINUACAO_20261013_R.md), [travessa — parte 1](transcripts/SESSION_0000_CONTINUACAO_20261013_R_DESLOCAMENTO.md), [travessa — parte 2](transcripts/SESSION_0000_CONTINUACAO_20261013_R_DESLOCAMENTO_2.md), [testes e log final](transcripts/SESSION_0000_CONTINUACAO_20261013_R_TESTES.md). Eron e Varen saíram da oficina; Varen levou a réplica; peças verdadeiras ficaram com Velkan. Atravessam rumo à entrada dos fundos do armazém. Aguardam rolagens de Eron: Furtividade 1d20+7 e Percepção 1d20+6. Nenhum perseguidor detectado ou descartado, nenhuma nova badalada.
+
+
+[SESSION_0000_CONTINUACAO_20261013_S.md](transcripts/SESSION_0000_CONTINUACAO_20261013_S.md) — mensagens 0045–0046, duas rolagens reais de Eron (Furtividade 18+7=25; Percepção 6+6=12), deslocamento furtivo próximo ao armazém. Figura com lanterna voltou-se após ruído de Varen; ninguém foi declarado descoberto. Resultados públicos no [ROLL_LOG_SESSAO_0000_SUPLEMENTO_20261013.csv](../dice/ROLL_LOG_SESSAO_0000_SUPLEMENTO_20261013.csv); rolagem reservada de Varen em dm/. Nenhuma badalada nova.
