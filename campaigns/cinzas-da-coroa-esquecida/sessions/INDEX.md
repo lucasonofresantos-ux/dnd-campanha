@@ -119,3 +119,6 @@ Arquivos produzidos nesta conferência: `transcripts/AUDITORIA_CONTINUIDADE_2026
 
 
 [SESSION_0000_CONTINUACAO_20261013_S.md](transcripts/SESSION_0000_CONTINUACAO_20261013_S.md) — mensagens 0045–0046, duas rolagens reais de Eron (Furtividade 18+7=25; Percepção 6+6=12), deslocamento furtivo próximo ao armazém. Figura com lanterna voltou-se após ruído de Varen; ninguém foi declarado descoberto. Resultados públicos no [ROLL_LOG_SESSAO_0000_SUPLEMENTO_20261013.csv](../dice/ROLL_LOG_SESSAO_0000_SUPLEMENTO_20261013.csv); rolagem reservada de Varen em dm/. Nenhuma badalada nova.
+
+
+[SESSION_0000_CONTINUACAO_20261013_T.md](transcripts/SESSION_0000_CONTINUACAO_20261013_T.md) — mensagens 0047–0048; Eron pediu teste de Percepção para examinar arredores e possível perseguição a Varen. 1d20+6 solicitado, ainda sem lançamento nem resultado. O teste anterior Percepção 12 permanece válido para o deslocamento.
