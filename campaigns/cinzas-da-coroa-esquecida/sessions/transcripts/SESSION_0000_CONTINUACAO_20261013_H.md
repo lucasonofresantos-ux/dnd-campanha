@@ -55,3 +55,31 @@ Haldren ergue ligeiramente as sobrancelhas, como quem considera a resposta sufic
 
 - Continuidade: Velkan permanece na oficina, Varen ausente em diligência.
 - Caixa não aberta, sem rolagens e sem avanço de relógios.
+
+
+## Mensagem 0019 — Jogador (literal)
+
+-Confundi Velkan com Varen, os nomes são parecidos
+
+## Mensagem 0020 — Mestre (literal)
+
+Entendido. Eron estava perguntando por **Varen**, não por Velkan.
+
+Haldren esclarece, sem sair da porta da cozinha:
+
+— Varen foi ao curtume procurar Maela ou Iven e conseguir respostas de Neris. Ainda não voltou.
+
+**Velkan** permanece na oficina preparando a cunha para o mecanismo da caixa. A resposta anterior sobre Velkan fica preservada como uma interpretação do nome trocado, não como retorno de Varen ou avanço da investigação.
+
+**[LOG DE MEMÓRIA DA CAMPANHA]**
+
+- **Localização Atual:** Cozinha dos fundos da oficina de Velkan, Caldria.
+- **NPCs Presentes e Relação:** Haldren com Eron; Velkan trabalhando na oficina; Varen ausente em diligência no curtume; Bromir ausente.
+- **Linha de Missão Ativa:** Investigar a caixa e preparar a operação no armazém dos Oleiros.
+- **Eventos Cruciais Ocorridos:** Corrigida a referência de Velkan para Varen na pergunta anterior. Nenhuma rolagem ou avanço significativo do tempo.
+- **Condições do Jogador:** Eron, Ladino nível 1; 8/11 PV, CA 13; 19 flechas.
+
+## Controle da correção
+
+- Referência anterior `Velkan` no diálogo da Mensagem 0017 corrigida pelo jogador para `Varen` sem apagar a mensagem original.
+- Nenhuma rolagem realizada; Varen não retornou à oficina, caixa ainda fechada.
