@@ -444,3 +444,24 @@ O prisioneiro baixa a voz.
 — Tem outra coisa. Quando o homem passou por mim, senti um cheiro estranho. Não era perfume. Parecia ferro molhado... e alguma erva amarga. Mas não sei dizer qual.
 
 Ele se cala, aguardando a reação de Eron.
+
+
+## Jogador
+Ele era humano, elfo... Era oque?
+
+## Mestre
+O prisioneiro ergue os olhos para Eron.
+
+— Humano, eu diria. Pelo menos parecia. Não vi orelhas pontudas nem qualquer traço que me fizesse pensar num elfo ou meio-elfo.
+
+Ele hesita, franzindo a testa.
+
+— Mas havia algo estranho nele. A pele era pálida demais para alguém que circula pelas docas, e os olhos... eram muito claros. Talvez cinzentos. Não consegui vê-los direito naquela iluminação.
+
+Bromir cruza os braços.
+
+— Então você acha que era humano.
+
+— Sim — responde o homem. — Mas não apostaria minha vida nisso.
+
+Velkan observa o núcleo sobre a bandeja, sem acrescentar nada. A identidade do visitante permanece incerta.
