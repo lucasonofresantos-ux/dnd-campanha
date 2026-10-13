@@ -30,14 +30,14 @@ unresolved:
   - "Vínculo de Varen com autoridades, ainda não demonstrado"
   - "Situação exata dos capturados no curtume após ordem de Haldren para buscar atendimento e guardas"
   - "Operação e pagamento pactuados com Haldren: 25 PO por capturados e 25 PO pela operação, sujeitos às condições; quitação não presumida"
-last_player_message_exact: "Já estou de barriga cheia, então vou conferir meu equipamento, e perdi uma flecha, é bom pegar outra para repor"
-last_gm_prompt: "Eron verificou seu equipamento, confirmou 19 flechas; Haldren não tem flechas consigo e poderá perguntar aos patrulheiros quando retornarem. Nenhuma reposição foi obtida."
-next: "Aguardar ação livre de Eron; Varen ausente, Velkan ainda preparando a cunha, caixa fechada."
+last_player_message_exact: "Eu confiro o meu equipamento, e pergunto para Velkan se precisa de ajuda em alguma coisa"
+last_gm_prompt: "Velkan pediu que Eron traga suas ferramentas para manter a mola do fecho firme enquanto ele ajusta a cunha de madeira. Nenhuma intervencao iniciada; caixa fechada."
+next: "Aguardar Eron se aproximar da bancada e iniciar, se desejar, a assistencia com ferramentas; Varen ausente."
 transcription:
   completeness: "TXT 01.02 recuperado integralmente como enviado; história anterior e UI do chat ainda podem ter lacunas"
   audit: sessions/transcripts/AUDITORIA_CONTINUIDADE_20261013.md
   current_historical_end: sessions/transcripts/SESSION_0000_FONTE_LITERAL_0102_20261013.txt
-last_verified_transcript: sessions/transcripts/SESSION_0000_CONTINUACAO_20261013_I.md
+last_verified_transcript: sessions/transcripts/SESSION_0000_CONTINUACAO_20261013_J.md
 
 operational_dice_protocol: sessions/PROTOCOLO_DADOS_20261013.md
 no_new_rolls_or_scene_advancement_on_protocol_update: true
