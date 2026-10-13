@@ -573,3 +573,64 @@ Bromir ajeita o cinto e olha para Eron.
 — Muito bem. Uma cocheira, uma estalagem e talvez alguma coisa quente para comer. Desde que não me cobre cinquenta moedas para me acompanhar até lá, estou pronto.
 
 A oficina continua ocupada: Orsik trabalha nos ferimentos de Darric, Iven prepara a retirada dos presos, Maela observa a passagem dos fundos e Velkan prossegue com a réplica. O desenho entregue por Haldren indica o caminho até a Rua dos Oleiros, mas a localização exata do armazém ainda precisa ser descoberta.
+
+
+## Jogador
+Ei o da flecha, qual armazém é quero mais informações sobre isso, oque você sabe do local
+
+## Mestre
+Darric Venn ergue lentamente a cabeça. O cirurgião Orsik interrompe por um instante o trabalho na bota ensanguentada.
+
+— Fique imóvel — adverte Orsik. — Ou vai perder mais sangue do que já perdeu.
+
+Darric olha primeiro para Eron, depois para Haldren.
+
+— O armazém... Fica quase no fim da Rua dos Oleiros, do lado que desce para as docas. É um prédio comprido, de tijolos escurecidos, com telhado de duas águas. Tem uma roda de carroça pintada de branco na porta principal. Não é uma placa de comércio. É só uma marca velha na madeira.
+
+Ele engole em seco.
+
+— A entrada dos fundos dá para um beco estreito, entre o armazém e uma antiga olaria. A porta é reforçada com duas travessas de ferro. É ali que fazem as entregas.
+
+Haldren aproxima-se.
+
+— Você já esteve dentro?
+
+— Uma vez. Faz algumas semanas. Marek mandou levar um embrulho. Entrei pela porta dos fundos e fiquei numa sala onde guardavam sacos de argila e caixotes. Havia outra porta, mais para dentro, mas não me deixaram passar.
+
+— Quem recebeu o embrulho?
+
+— Um homem com uma cicatriz no pescoço. Grande, cabelo raspado. Não sei o nome. Foi ele quem perguntou a senha naquela ocasião.
+
+Darric respira fundo quando Orsik começa a cortar o couro da bota.
+
+— Não sei se será o mesmo esta noite. Também não sei quantos homens estarão lá. Quando fui, vi dois lá dentro. Ouvi outras vozes atrás da segunda porta, mas não vi quem eram.
+
+Haldren aponta para o esboço que entregou a Eron.
+
+— Há algum acesso além das portas da frente e dos fundos?
+
+Darric hesita.
+
+— Vi janelas altas na parede voltada para a olaria. E uma escada de madeira dentro do depósito, perto dos caixotes. Não subi. Não sei aonde leva.
+
+— E Marek estará lá?
+
+— Não sei. Nunca o vi naquele armazém. As ordens vieram dele, mas ele não costuma acompanhar as entregas.
+
+Orsik termina de abrir a lateral da bota e examina a flecha sem removê-la.
+
+Darric volta os olhos para Eron.
+
+— É tudo que conheço do lugar. Se pretende entrar lá com essa peça, saiba de uma coisa: o homem que recebeu minha última entrega olhou o embrulho antes de deixar que eu saísse. Não abriu, mas apalpou o conteúdo. Se a sua peça falsa tiver tamanho ou peso muito diferente, talvez percebam.
+
+Velkan interrompe o movimento da lima.
+
+— Então precisarei acertar o peso também.
+
+Haldren encara Darric por mais um momento, avaliando as respostas, mas não declara que sejam verdadeiras.
+
+— Agora temos um prédio identificável. Ainda precisaremos confirmar a marca na porta e observar o beco antes de confiar no restante.
+
+Bromir, encostado à parede, comenta em voz baixa:
+
+— Uma roda branca, uma porta nos fundos e gente que gosta de examinar embrulhos. Pelo menos sabemos que não é uma entrega comum de batatas.
