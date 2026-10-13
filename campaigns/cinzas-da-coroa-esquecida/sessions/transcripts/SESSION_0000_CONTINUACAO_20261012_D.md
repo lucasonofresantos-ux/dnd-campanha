@@ -979,3 +979,18 @@ Teste de Sabedoria (Percepção): 1d20 + 6.
 Eron permanece escondido atrás das telhas, observando possíveis vigias nas janelas, nos telhados e na rua.
 
 Controle interativo de 1d20 + 6 disponibilizado ao jogador para enviar o resultado ao Mestre. Resultado pendente.
+
+
+## Jogador
+Eu quero me aproximar e afastar e olhar de diversos ângulos quero aproveitar a percepção que já rolei a furtividade vou rolar de novo
+
+## Mestre
+Perfeito. Mantemos sua Percepção 23 (1d20 [17] + 6) para o reconhecimento do armazém.
+
+Como Eron pretende se aproximar, afastar e mudar de cobertura para observar o edifício de vários ângulos, faremos um novo teste de Destreza (Furtividade): 1d20 + 6.
+
+O resultado valerá para essa sequência de movimentações, desde que não ocorra uma mudança significativa nas circunstâncias.
+
+Controle interativo de Furtividade — reconhecimento do armazém: 1d20 + 6, com botão de rolar e envio do resultado ao Mestre.
+
+Eron ainda está protegido atrás das telhas. A carroça de barro passa lentamente pela rua, enquanto o homem de capa cinzenta permanece nas proximidades da esquina. O movimento para o reconhecimento começa após a rolagem.
