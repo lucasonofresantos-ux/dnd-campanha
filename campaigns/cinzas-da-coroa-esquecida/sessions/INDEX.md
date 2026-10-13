@@ -55,3 +55,8 @@ Arquivos produzidos nesta conferência: `transcripts/AUDITORIA_CONTINUIDADE_2026
 ## Recuperação específica da conversa Eron–Bromir (2026-10-13)
 
 [RECUPERACAO_ERON_BROMIR_20261013.md](transcripts/RECUPERACAO_ERON_BROMIR_20261013.md) preserva o pedido literal de Eron para uma conversa enquanto Velkan buscava Haldren e reúne falas comprovadas de Bromir no diálogo anterior. Inclui a ponte factual entre os trechos C e D, **explicitamente não literal**. A resposta específica do Mestre ao pedido permanece ausente; não houve adição de cena, rolagem ou retcon. O último ponto jogado continua sendo a pergunta de Haldren sobre os agentes da Coroa na cena mais recente.
+
+
+## Atualização operacional de rolagens — 2026-10-13
+
+[PROTOCOLO_DADOS_20261013.md](PROTOCOLO_DADOS_20261013.md) — rolagens automáticas para NPCs e aliados, opção de rolar Eron somente com autorização, sorteios auditáveis via Python e verificações ocultas quando necessárias. Não modifica a narrativa ou resultados anteriores. Solicitação e resposta registradas em [SESSION_0000_CONTINUACAO_20261013_E.md](transcripts/SESSION_0000_CONTINUACAO_20261013_E.md), mensagens 0007 e 0008.
