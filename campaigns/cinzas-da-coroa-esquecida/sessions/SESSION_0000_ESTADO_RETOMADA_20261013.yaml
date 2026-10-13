@@ -29,9 +29,9 @@ unresolved:
   - "Vínculo de Varen com autoridades, ainda não demonstrado"
   - "Situação exata dos capturados no curtume após ordem de Haldren para buscar atendimento e guardas"
   - "Operação e pagamento pactuados com Haldren: 25 PO por capturados e 25 PO pela operação, sujeitos às condições; quitação não presumida"
-last_player_message_exact: "- Bem eu vou esperar o Varen, é melhor que ir sozinho até lá.\n- Velkan faca no seu tempo e não se machuque.\n(Eu vou esperar o Varen retornar)"
-last_gm_prompt: "Varen retornou do curtume, sem ferimentos visíveis, trazendo relato de Neris sobre intermediário no armazém. Ouviu uma badalada, mas não sabe qual. Velkan mediu as peças separadamente."
-next: "Varen regressou à oficina e aguarda Eron; caixa aberta, peças separadas; sequência do sino incerta."
+last_player_message_exact: "Então vamos, e vamos cuidando para ninguém nos seguir ou não sermos vistos, e também vamos analisando se não estamos sendo seguido, vamos logo esperar as badaladas do sino lá.\nE vou com uma flecha a menos mesmo. E Varen, esteja preparado, não pretendo matar ninguém, mas se for necessário, nenhum deles vai ver a luz de um novo dia."
+last_gm_prompt: "Atravessar trecho exposto exige Furtividade 1d20+7 e Percepção 1d20+6; resultados pendentes; Varen acompanha Eron com a réplica."
+next: "Aguardar dois d20 de Eron; ainda não resolver passagem furtiva ou possível perseguição."
 transcription:
   completeness: "TXT 01.02 recuperado integralmente como enviado; história anterior e UI do chat ainda podem ter lacunas"
   audit: sessions/transcripts/AUDITORIA_CONTINUIDADE_20261013.md
