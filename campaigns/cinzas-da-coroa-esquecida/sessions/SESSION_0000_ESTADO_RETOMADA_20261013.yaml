@@ -3,7 +3,7 @@ branch: sessao_0000_bromir_velkan
 status: active_for_resume
 source_of_truth: "sessions/transcripts/SESSION_0000_FONTE_LITERAL_0102_20261013.txt"
 scope: "Continuidade da Sessão 0, distinta da abertura alternativa da Sessão 0001 em Lorn"
-location: "Travessa entre oficinas, a caminho do armazém dos Oleiros, Caldria"
+location: "Travessa lateral com vista para pátio e entrada dos fundos do Armazém dos Oleiros, Caldria"
 time: "Noite, antes do terceiro toque exigido para a entrega. Varen ouviu uma badalada no retorno; ordem da badalada não confirmada."
 character:
   name: Eron River
@@ -29,14 +29,14 @@ unresolved:
   - "Vínculo de Varen com autoridades, ainda não demonstrado"
   - "Situação exata dos capturados no curtume após ordem de Haldren para buscar atendimento e guardas"
   - "Operação e pagamento pactuados com Haldren: 25 PO por capturados e 25 PO pela operação, sujeitos às condições; quitação não presumida"
-last_player_message_exact: "Então vamos, e vamos cuidando para ninguém nos seguir ou não sermos vistos, e também vamos analisando se não estamos sendo seguido, vamos logo esperar as badaladas do sino lá.\nE vou com uma flecha a menos mesmo. E Varen, esteja preparado, não pretendo matar ninguém, mas se for necessário, nenhum deles vai ver a luz de um novo dia."
-last_gm_prompt: "Atravessar trecho exposto exige Furtividade 1d20+7 e Percepção 1d20+6; resultados pendentes; Varen acompanha Eron com a réplica."
-next: "Aguardar dois d20 de Eron; ainda não resolver passagem furtiva ou possível perseguição."
+last_player_message_exact: "Role os dados para mim"
+last_gm_prompt: "Furtividade Eron 18+7=25, Percepção Eron 6+6=12. Eron se move sem ser notado; barulho provocado por Varen chama atenção de figura com lanterna junto ao pátio; ainda sem detecção confirmada."
+next: "Eron tem vista para entrada dos fundos; Varen esta atrás de carroça; figura desconhecida com lanterna tenta localizar ruído. Aguardar ação de Eron."
 transcription:
   completeness: "TXT 01.02 recuperado integralmente como enviado; história anterior e UI do chat ainda podem ter lacunas"
   audit: sessions/transcripts/AUDITORIA_CONTINUIDADE_20261013.md
   current_historical_end: sessions/transcripts/SESSION_0000_FONTE_LITERAL_0102_20261013.txt
-last_verified_transcript: sessions/transcripts/SESSION_0000_CONTINUACAO_20261013_R.md
+last_verified_transcript: sessions/transcripts/SESSION_0000_CONTINUACAO_20261013_S.md
 
 operational_dice_protocol: sessions/PROTOCOLO_DADOS_20261013.md
 no_new_rolls_or_scene_advancement_on_protocol_update: true
@@ -70,3 +70,13 @@ recent_roll_20261013:
   result: "sucesso; mola imobilizada, caixa ainda fechada"
   source: sessions/transcripts/SESSION_0000_CONTINUACAO_20261013_L.md
   dice_log: dice/ROLL_LOG_SESSAO_0000_SUPLEMENTO_20261013.csv
+
+travel_checks_20261013:
+  stealth_eron: "1d20 [18] +7 =25"
+  perception_eron: "1d20 [6] +6 =12"
+  stealth_npc_secret_file: "dm/ROLLS_SECRETOS_20261013.md"
+  extra_bell_heard: false
+  pursuer_identified: false
+  lantern_person: "Figura desconhecida no pátio, voltou luz para ruído de Varen; avistamento não confirmado"
+  route_position: "Travessa lateral próxima do armazém, entrada dos fundos visível"
+  transcript: "sessions/transcripts/SESSION_0000_CONTINUACAO_20261013_S.md"
