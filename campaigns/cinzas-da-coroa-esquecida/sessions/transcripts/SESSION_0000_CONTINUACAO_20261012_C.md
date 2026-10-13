@@ -225,3 +225,34 @@ Ele olha para o arco de Eron, depois para os prisioneiros.
 — De todo modo, acho que podemos concordar numa coisa: nenhum desses cinco parece interessado em outra demonstração de suas habilidades.
 
 A oficina permanece tranquila por enquanto. Velkan ainda não retornou com Haldren.
+
+
+## Jogador
+Não vamos deixar ele aqui por enquanto, depois pego minha flecha, e alguém tem que te reembolsar pelo conserto da carroça, ou se não você vai chorar mais um ano pelas 2 moedas de ouro
+
+## Mestre
+Bromir solta uma gargalhada tão forte que precisa apoiar a mão numa das estantes.
+
+— DUAS MOEDAS DE OURO, ERON! Duas! Sabe quantas canecas de cerveja decente se compram com isso?
+
+Ele ergue dois dedos grossos diante do rosto de Eron.
+
+— E ainda tive de pagar por um conserto que só foi necessário porque algum miserável resolveu sabotar minha carroça! Se acha que vou esquecer essas moedas em um ano, está muito enganado. Vou me lembrar delas até no leito de morte!
+
+O homem do casaco marrom não consegue conter uma risada. Até o vigia da lanterna esboça um sorriso, que desaparece quando Darric lhe dirige um olhar furioso.
+
+Bromir aponta o martelo para os prisioneiros.
+
+— Quanto ao reembolso, concordo plenamente. Alguém vai pagar pelo estrago. Preferencialmente Marek, que parece ter moedas suficientes para contratar metade dos desocupados de Caldria.
+
+O anão olha para Darric, ainda preso ao assoalho.
+
+— E você pode esperar pelo curandeiro. Não vamos arrancar essa flecha e transformar meu amigo em responsável por mais uma poça de sangue.
+
+Darric cerra os dentes, mas permanece calado.
+
+Bromir volta a encostar-se à estante, observando Eron com um sorriso de canto.
+
+— Agora, se conseguirmos recuperar minhas duas moedas, talvez eu até lhe pague uma cerveja. Uma pequena, naturalmente. Não sou feito de ouro.
+
+Do lado de fora, passos atravessam a rua, acompanhados pelo ranger de rodas sobre a pedra. Nenhum deles se aproxima da entrada da oficina. Velkan ainda não retornou.
