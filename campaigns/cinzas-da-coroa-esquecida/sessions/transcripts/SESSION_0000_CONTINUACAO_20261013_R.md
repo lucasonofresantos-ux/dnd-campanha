@@ -14,3 +14,7 @@ Varen sustenta o olhar de Eron por um instante e ajusta o cinto da espada.
 Velkan interrompe o trabalho para indicar a bolsa de couro na bancada.
 
 — A cópia. Não esqueçam por que vieram até aqui.
+
+Varen recolhe a bolsa com a réplica, mantendo-a fechada e separada das duas peças verdadeiras, que permanecem na oficina. Haldren os acompanha até a saída lateral.
+
+— A entrada dos fundos do armazém dos Oleiros é o ponto da entrega. Não confundam o homem que aparecer com quem está comandando isso. E não contem com uma badalada que não tenham ouvido.
