@@ -1488,3 +1488,21 @@ Varen se prepara para interceptar o homem de casaco marrom, conforme combinado, 
 Ordem de iniciativa — Rodada 1: Eron 12 — turno atual; homem alto 11; Varen 6; casaco marrom 3.
 
 Eron está em posição favorável para tentar agarrar o homem, pressioná-lo a se render ou agir de outra maneira. A próxima ação é sua; depois dela, os demais agirão na ordem estabelecida.
+
+
+## Jogador
+Vou apertar a adaga no pescoço dele e falar de novo eu avisei para não falar
+E vou rolar intimidação de novo, me dê os dados como o último
+
+## Mestre
+Eron pressiona a adaga um pouco mais contra o pescoço do homem alto. O vigia prende a respiração quando sente o fio da lâmina.
+
+— Eu avisei para não falar.
+
+O homem fica imóvel. Uma gota de suor escorre por sua têmpora, enquanto sua mão permanece fechada sobre o pequeno objeto metálico.
+
+Teste de Carisma (Intimidação): 1d20 + 1.
+
+Controle interativo de d20 para Intimidação de Eron: toque para rolar, Carisma +1 e botão Enviar resultado ao Mestre.
+
+O resultado determinará como o homem reage à ameaça renovada. Ainda estamos no turno de Eron, na primeira rodada.
