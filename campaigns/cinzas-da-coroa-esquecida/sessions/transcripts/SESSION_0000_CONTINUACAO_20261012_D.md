@@ -409,3 +409,51 @@ Haldren fala antes que alguém entre:
 Bromir lança um olhar para Eron, mas não abandona sua posição junto aos prisioneiros.
 
 A porta permanece apenas entreaberta, à espera da autorização.
+
+
+## Jogador
+Bromir garanta que a porta dos fundos está devidamente fechada e vá falando alto se você parar de falar eu entendo que algo deu errado e vou lá
+Velkan, confirme se é mesmo o sargento.
+Eu saco da espada e da adaga.
+Se não for se esconda e eu me viro
+
+## Mestre
+Bromir ergue uma sobrancelha ao ouvir as instruções.
+
+— Quer que eu fique falando sozinho? Pelas barbas de Moradin, finalmente encontrou uma utilidade para minha conversa!
+
+O anão se dirige à passagem de serviço, levando o martelo. Sua voz continua ecoando pelo depósito:
+
+— Pois muito bem! Estou indo verificar a maldita porta. E, enquanto isso, gostaria de lembrar que uma fechadura decente custa menos que uma carroça nova...
+
+Os prisioneiros acompanham seus movimentos em silêncio.
+
+Eron desembainha a espada curta e a adaga. O aço produz um ruído seco ao deixar as bainhas.
+
+Velkan, junto à entrada principal, mantém a porta entreaberta.
+
+— Sargento Haldren? — pergunta, examinando o homem à sua frente. — O senhor se lembra de quem estava comigo quando examinamos a carroça de Bromir?
+
+Haldren franze a testa.
+
+— Garrik, o ferreiro, examinou a carroça. Eu estava investigando o caso. E, se não me engano, o senhor nem estava presente quando conversamos sobre o eixo.
+
+Velkan observa o rosto do sargento por mais alguns instantes. Reconhece a voz, os traços e o modo de falar.
+
+— Sim. É ele — confirma, voltando-se para Eron. — Reconheço o sargento.
+
+Do corredor dos fundos, a voz de Bromir continua:
+
+— ...e ainda digo que um bom ferrolho deveria durar pelo menos vinte anos! Não essas porcarias que vendem hoje em dia...
+
+Ouve-se o ruído metálico de um ferrolho sendo testado.
+
+— Porta fechada! O ferrolho está no lugar e não vejo sinais de que tenha sido forçado desde que passamos por aqui. Agora estou voltando, antes que você resolva cobrar ingresso para me ouvir falar!
+
+Haldren permanece do lado de fora, sem tentar atravessar a entrada.
+
+— Tudo em ordem, Eron? — pergunta, notando as armas desembainhadas. — Não me incomoda que tome precauções. Mas prefiro que meu cirurgião não entre numa sala onde alguém possa confundi-lo com um inimigo.
+
+Atrás dele, Iven e Maela aguardam imóveis. Orsik segura sua bolsa de couro com ambas as mãos.
+
+Velkan mantém a porta aberta apenas o suficiente para conversar. Ninguém entrou ainda.
