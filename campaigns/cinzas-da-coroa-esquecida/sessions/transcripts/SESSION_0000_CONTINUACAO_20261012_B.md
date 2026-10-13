@@ -344,3 +344,60 @@ Bromir percebe.
 — Conhece essa marca?
 
 O homem não responde. Mas, pela primeira vez desde que começou a falar, seu medo parece estar dirigido a alguma coisa além da flecha de Eron.
+
+
+## Jogador
+Continue falando, me diga para que é isso, oque é isso, que símbolo é esse e me descreva este tal de Marek, e sabe quem está acima dele?
+
+## Mestre
+O líder acompanha o movimento da flecha com os olhos. Quando Eron exige respostas, ele ergue as mãos amarradas até onde consegue.
+
+— Eu vou falar! Só... mantenha essa coisa longe do meu outro pé.
+
+Ele olha para a pequena peça de bronze sobre a bandeja de Velkan.
+
+— Não sei o nome daquilo. Marek chamava de núcleo. Disse que precisava ser retirado inteiro, sem quebrar os anéis que o protegiam. Falou que era uma espécie de chave, mas não uma chave de fechadura comum. Não explicou o que ela abre.
+
+Velkan aproxima a lamparina da bandeja e examina o encaixe hexagonal.
+
+— Uma chave mecânica, talvez. Mas ainda não posso confirmar. O trabalho é preciso demais para uma simples peça de reposição.
+
+— E o símbolo? — insiste Bromir, olhando para as três linhas gravadas.
+
+O prisioneiro hesita.
+
+— Vi essa marca num papel que Marek recebeu. O homem que trouxe o papel usava luvas, mesmo dentro da estalagem. Marek ficou de pé quando ele entrou. Nunca o vi fazer isso por nenhum outro visitante.
+
+Ele umedece os lábios.
+
+— Não sei o nome do símbolo. Nem quem era aquele homem. Só sei que Marek ficou nervoso depois da visita.
+
+Bromir cruza os braços.
+
+— Então descreva Marek. E desta vez sem rodeios.
+
+— Humano. Uns quarenta anos, talvez um pouco mais. Altura mediana, corpo magro. Cabelo castanho já grisalho nas têmporas, penteado para trás. Tem uma cicatriz curta atravessando a sobrancelha esquerda. Usa um anel de prata no indicador direito, com uma pedra escura. Fala baixo. Nunca precisa gritar.
+
+O homem faz uma pausa, buscando o fôlego.
+
+— Costuma ocupar uma sala no andar de cima da Âncora Partida, perto das docas. Mas não fica lá o tempo todo. E não sei onde mora.
+
+Bromir olha para Eron.
+
+— Pelo menos agora sabemos quem procurar.
+
+O líder sacode a cabeça, alarmado.
+
+— Vocês não entenderam. Marek tem medo de quem lhe deu esse trabalho. Eu ouvi uma discussão através da porta. Alguém disse que, se o núcleo não fosse recuperado, a entrega aconteceria mesmo assim. Marek respondeu que precisava de mais tempo.
+
+Velkan ergue lentamente os olhos da peça.
+
+— Que entrega?
+
+— Não sei! Não ouvi mais nada. A porta foi fechada.
+
+O homem volta a encarar Eron.
+
+— É tudo que posso dizer. Não sei quem manda em Marek, não conheço aquela marca e nunca vi essa chave funcionando.
+
+A pequena peça permanece imóvel sobre a bandeja. Velkan não parece disposto a experimentar seu encaixe sem compreender melhor o mecanismo.
