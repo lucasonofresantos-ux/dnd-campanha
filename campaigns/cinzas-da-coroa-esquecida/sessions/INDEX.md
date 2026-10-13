@@ -60,3 +60,8 @@ Arquivos produzidos nesta conferência: `transcripts/AUDITORIA_CONTINUIDADE_2026
 ## Atualização operacional de rolagens — 2026-10-13
 
 [PROTOCOLO_DADOS_20261013.md](PROTOCOLO_DADOS_20261013.md) — rolagens automáticas para NPCs e aliados, opção de rolar Eron somente com autorização, sorteios auditáveis via Python e verificações ocultas quando necessárias. Não modifica a narrativa ou resultados anteriores. Solicitação e resposta registradas em [SESSION_0000_CONTINUACAO_20261013_E.md](transcripts/SESSION_0000_CONTINUACAO_20261013_E.md), mensagens 0007 e 0008.
+
+
+## Pendência da conversa 01.02 e correção do curtume (2026-10-13)
+
+[NOTA_PENDENCIA_0102_20261013.md](NOTA_PENDENCIA_0102_20261013.md) — referência ao último turno original realmente salvo no transcript D; correção do jogador para **3 prisioneiros e 1 morto** no curtume; saída de Varen e primeira badalada relatadas, cuja literalidade ainda depende da exportação original. A narração posterior que manteve Varen na oficina não deve ser tomada como estado canônico da continuação ausente.
