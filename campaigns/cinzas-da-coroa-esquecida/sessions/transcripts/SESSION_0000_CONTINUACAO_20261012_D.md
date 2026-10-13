@@ -1401,3 +1401,26 @@ Role o dado de Furtividade de Eron, como no último teste.
 Furtividade — Destreza: contornar o depósito sem alertar os dois homens. Controle interativo d20 para rolar; modificador +6; botão para enviar resultado ao Mestre.
 
 Varen acompanha Eron pela passagem de serviço e fará seu próprio teste, sem que você precise rolar por ele.
+
+
+## Jogador
+Vou usar percepção para estudar o ambiente e o posicionamento dos dois e se tem mais alguém escondido
+Role os dados para mim
+
+## Mestre
+Sabedoria (Percepção): 1d20 [13] + 6 = 19. Rolagem executada em Python com secrets.randbelow.
+
+Eron permanece imóvel entre os muros, estudando o beco antes de se arriscar. O ar traz o cheiro acre dos tanques de curtume, e a luz de um lampião distante mal alcança os dois homens.
+
+A observação revela alguns detalhes importantes:
+
+- Homem do casaco marrom: está a aproximadamente oito metros, mais próximo da saída para a rua. Mantém uma mão perto do cinto, onde Eron distingue o cabo de uma arma curta.
+- Homem alto de gibão: encontra-se cerca de dois metros mais ao fundo, junto à porta de serviço. Tem uma espada curta na cintura e continua manipulando um pequeno objeto metálico.
+- Terreno: caixotes empilhados oferecem cobertura parcial à esquerda. À direita, o muro do curtume limita os movimentos. A passagem entre os dois homens é estreita, mas permite que caminhem lado a lado.
+- Outras presenças: Eron não identifica nenhum terceiro homem nas janelas, junto à porta ou nas sombras visíveis. Entretanto, não consegue enxergar o interior do depósito nem o trecho da rua além da saída do beco.
+
+Há mais um detalhe: a porta de serviço atrás do homem alto está apenas encostada, deixando escapar uma fina linha de luz por baixo. Nenhuma voz ou movimento vem de seu interior durante a observação.
+
+Varen permanece próximo, parcialmente protegido pelos caixotes. Ao perceber que Eron terminou de examinar o ambiente, inclina discretamente a cabeça, aguardando sua iniciativa.
+
+Os dois homens continuam conversando, sem demonstrar que perceberam a presença da dupla.
