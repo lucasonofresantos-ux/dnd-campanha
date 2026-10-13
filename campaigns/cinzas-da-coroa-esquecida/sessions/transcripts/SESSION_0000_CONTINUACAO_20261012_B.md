@@ -92,3 +92,36 @@ O homem observa a lâmina ensanguentada, depois olha rapidamente para o companhe
 A ameaça é convincente pelas circunstâncias, mas a decisão do vigia dependerá do resultado. Sua ação de ataque preparada permanece válida até o início do próximo turno de Eron, caso o gatilho ocorra.
 
 [Interface interativa de rolagem 1d20+1 com botão para enviar resultado ao Mestre.]
+
+
+## Jogador
+Teste de Carisma (Intimidação) de Eron contra o vigia armado: 1d20 = 11, +1, total 12. Eron exige que ele largue a espada e se renda.
+
+## Mestre
+Carisma (Intimidação): 11 +1 = 12.
+
+O vigia mantém a espada erguida por mais alguns instantes. Sua respiração está acelerada, e os olhos alternam entre Eron e o companheiro caído.
+
+— Você... você não pode simplesmente sair matando todo mundo! — protesta, mas sua voz falha na última palavra.
+
+A lâmina desce alguns centímetros.
+
+— Marek disse que seria um trabalho simples. Vigiar a porta, esperar o sinal... Não falou nada sobre enfrentar um maldito assassino!
+
+O homem ferido solta um gemido e aperta a perna ensanguentada.
+
+— Larga essa porcaria, idiota! — rosna para o companheiro. — Não vale a pena!
+
+O vigia olha para ele. Depois, lentamente, afasta a espada do corpo.
+
+— Está bem... Está bem! Não vou lutar!
+
+A espada cai sobre as pedras com um ruído metálico. O homem ergue a mão vazia e mantém a outra afastada da cintura.
+
+— Eu me rendo. Mas você disse que me deixaria viver.
+
+Resultado: apesar de a Intimidação 12 não ser excepcional, a situação concreta — o companheiro gravemente ferido e Eron ainda armado — foi suficiente para convencê-lo a se render.
+
+O homem permanece de pé, a aproximadamente um metro de Eron, com as mãos visíveis. Seu companheiro continua caído, consciente e incapaz de apoiar a perna ferida.
+
+A ação preparada de Eron não foi acionada, pois o vigia não voltou a atacá-lo.
