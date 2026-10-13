@@ -516,3 +516,60 @@ Haldren ouve perfeitamente.
 — Ah! Excelente sargento. Homem de palavra!
 
 Enquanto Orsik prepara seus instrumentos, Velkan continua trabalhando na réplica do núcleo. Ainda há algum tempo até a terceira badalada após o anoitecer, mas a operação no armazém permanece por organizar.
+
+
+## Jogador
+Eu guardo a espada e a adaga
+Haldren, você se vira aqui? Eu tenho que achar este armazém antes do horário, seria bom alguém ficar vigiando o Velkan caso haja outro problema, e quero acompanhar Bromir até um lugar seguro, uma estalagem ou taberna, ele também precisa deixar a carroça em algum lugar seguro, e depois eu volto aqui para pegar a peça falsificada e ir ao encontro.
+Algum problema ou conselho? E pode me indicar onde fica este armazém e algo mais que eu precise saber?
+
+## Mestre
+O som das lâminas retornando às bainhas faz Haldren erguer os olhos do registro de custódia. Ele escuta o plano de Eron sem interrompê-lo.
+
+— Consigo cuidar dos prisioneiros. Orsik tratará os feridos, e Iven organizará a retirada. Quanto a Velkan, concordo que deixá-lo sozinho seria imprudente. Maela permanecerá aqui, discretamente, até encerrarmos a operação. Não quero outro grupo entrando pela janela enquanto discutimos o primeiro.
+
+Velkan, ocupado com a pequena peça de bronze, comenta:
+
+— Agradeço a consideração. Preferiria terminar meu trabalho sem mais homens armados pisando nos meus instrumentos.
+
+Bromir cruza os braços.
+
+— E finalmente alguém se preocupa com a segurança da minha carroça! Já começava a achar que ela só servia para atrair criminosos.
+
+Haldren puxa uma folha limpa e desenha algumas linhas rápidas.
+
+— Sobre o armazém: a Rua dos Oleiros fica no setor oriental de Caldria, entre as antigas oficinas de cerâmica e os depósitos que recebem mercadorias das docas. Saindo da Praça dos Tecelões, siga pela Rua da Fonte até o cruzamento do poço de pedra. Dali, tome a passagem dos Curtidores e continue até sentir o cheiro dos fornos de argila. A Rua dos Oleiros fica logo adiante.
+
+Ele assinala um trecho no desenho.
+
+— Há vários armazéns naquela rua. Ainda não identificamos com certeza qual deles está sendo usado por Marek. Seu bilhete não traz número, apenas a entrada pelos fundos. Você terá de reconhecer o local antes de decidir como se aproximar.
+
+O sargento continua:
+
+— Três conselhos. Primeiro: não entre sozinho para explorar o interior antes do encontro. Observe acessos, janelas, possíveis vigias e caminhos de retirada. Segundo: não presuma que o homem que receberá a peça conhece Darric. Isso pode favorecer um disfarce, mas também pode ser uma armadilha. Terceiro: não leve o núcleo verdadeiro. Se Velkan conseguir concluir a réplica, use-a; se não conseguir, precisaremos rever a abordagem.
+
+Bromir inclina-se sobre o desenho.
+
+— E onde estaciono minha carroça sem que outro desgraçado resolva desmontá-la?
+
+— Há um pátio de cocheiras atrás da Estalagem do Carvalho Cinzento, a duas ruas daqui — responde Haldren. — É cercado, possui portão e costuma manter um tratador de serviço até tarde. Não posso garantir que seja impenetrável, mas é preferível deixá-la na rua. Recomendo avisar ao responsável que ninguém deve retirá-la sem a autorização de Bromir.
+
+O anão considera a sugestão.
+
+— Cocheira cercada, portão e alguém tomando conta... Parece aceitável. Dependendo do preço.
+
+— Naturalmente — murmura Velkan.
+
+Haldren dobra o esboço e o entrega a Eron.
+
+— Posso encontrá-lo novamente aqui, antes do anoitecer, para acertarmos os detalhes. Mas, se descobrir algo suspeito durante o reconhecimento, não se aproxime apenas para satisfazer a curiosidade. Traga a informação. Ainda temos uma vantagem: Marek não sabe que conhecemos o encontro.
+
+Ele hesita um instante.
+
+— Ou, pelo menos, não temos motivo para acreditar que saiba.
+
+Bromir ajeita o cinto e olha para Eron.
+
+— Muito bem. Uma cocheira, uma estalagem e talvez alguma coisa quente para comer. Desde que não me cobre cinquenta moedas para me acompanhar até lá, estou pronto.
+
+A oficina continua ocupada: Orsik trabalha nos ferimentos de Darric, Iven prepara a retirada dos presos, Maela observa a passagem dos fundos e Velkan prossegue com a réplica. O desenho entregue por Haldren indica o caminho até a Rua dos Oleiros, mas a localização exata do armazém ainda precisa ser descoberta.
