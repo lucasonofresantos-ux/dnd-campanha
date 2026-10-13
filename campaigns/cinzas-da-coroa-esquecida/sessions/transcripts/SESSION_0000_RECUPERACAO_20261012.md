@@ -273,3 +273,16 @@ O homem da lanterna levanta ligeiramente a cabeça, mas não olha na direção d
 A aproximadamente dois metros da porta, os caixotes formam um abrigo junto à parede. Há também uma passagem entre dois edifícios mais adiante, depois dos homens, mas Eron ainda não consegue determinar aonde leva.
 
 **Os dois continuam sem perceber sua presença.** Eron está na sombra junto à saída da oficina, com as armas desembainhadas.
+
+
+## Jogador
+Percepção, quero analisar o espaço e a distribuição dos inimigos e quantos são se tem mas algum
+
+## Mestre
+Eron permanece imóvel junto à parede da oficina, mantendo a espada e a adaga fora do alcance da luz da lanterna. Dali, consegue observar os dois homens sem abandonar a cobertura, mas os barris, as sombras e a passagem entre os edifícios impedem uma visão completa do beco.
+
+Para analisar cuidadosamente as posições, as distâncias, as possíveis rotas de fuga e procurar outros indivíduos escondidos, faça um **teste de Sabedoria (Percepção)**.
+
+**Role `1d20 +6`.** Sua Furtividade 26 permanece válida enquanto Eron continuar oculto.
+
+[Interface interativa de rolagem de 1d20+6, com botão de envio do resultado ao Mestre.]
