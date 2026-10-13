@@ -1042,3 +1042,30 @@ Quando Eron chega ao seu lado, o homem nota sua presença pelo canto dos olhos. 
 Uma carroça range ao longe. Do armazém, não vem qualquer reação perceptível.
 
 O desconhecido permanece ao lado de Eron, aguardando sua resposta. A proximidade permite uma conversa discreta, mas ambos ainda estão numa rua pública, ao alcance da vista das janelas do armazém.
+
+
+## Jogador
+talvez pelo mesmo motivo que você...
+
+## Mestre
+O homem de capa cinzenta deixa escapar um sorriso discreto, sem humor.
+
+— Talvez — responde.
+
+Ele observa o armazém por alguns instantes. Uma das venezianas altas range ao vento.
+
+— Mas há uma diferença entre nós. Eu ainda não sei se você está aqui para impedir alguma coisa... ou para ajudar a fazê-la acontecer.
+
+O desconhecido se afasta meio passo do beiral, o suficiente para enxergar melhor a rua. A mão direita continua escondida sob a capa.
+
+— Aquele edifício tem recebido visitantes estranhos. Homens que chegam separados, cargas que entram pelos fundos e nenhuma mercadoria que pareça sair pela frente.
+
+Ele torna a olhar para Eron.
+
+— E agora aparece você, que primeiro acompanha um anão até uma estalagem e depois passa um bom tempo examinando o mesmo armazém.
+
+Sua voz baixa ainda mais.
+
+— Então vou lhe fazer uma pergunta simples: o que você sabe sobre a roda branca pintada naquela porta?
+
+Não há movimento perceptível vindo do armazém. O homem espera a resposta, mantendo o corpo ligeiramente voltado para a rua.
