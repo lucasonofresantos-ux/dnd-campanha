@@ -4,7 +4,7 @@ status: active_for_resume
 source_of_truth: "sessions/transcripts/SESSION_0000_FONTE_LITERAL_0102_20261013.txt"
 scope: "Continuidade da Sessão 0, distinta da abertura alternativa da Sessão 0001 em Lorn"
 location: "Bancada da oficina de Mestre Velkan, Caldria"
-time: "Início da noite; Haldren afirmou que primeiro toque ainda não soara antes da saída de Varen. Jogador relata primeira badalada posterior, mas não consta no TXT."
+time: "Noite, antes do terceiro toque exigido para a entrega. Varen ouviu uma badalada no retorno; ordem da badalada não confirmada."
 character:
   name: Eron River
   class: Ladino
@@ -16,9 +16,9 @@ character:
   money: "Saldo exato atualizado não confirmado; não importar 58 PO iniciais da outra execução"
   conditions_confirmed: []
 present:
-  - "Haldren, sargento, conversando com Eron na cozinha"
-  - "Velkan, artesão, trabalhando na oficina adjacente"
-  - "Eron River, na cozinha dos fundos"
+  - "Haldren, sargento, na oficina"
+  - "Velkan, artesão, na bancada da oficina"
+  - "Eron River, na oficina"
 bromir_status: "Em segurança planejada na hospedaria Carvalho Cinzento; não consta presente na conversa final"
 objects:
   - "Caixa aberta por Velkan; agulha contida; peça cinzenta com três anéis e eixo ainda no feltro"
@@ -49,14 +49,14 @@ recovery_20261013:
   status: "TXT anexado preservado integralmente; algumas partes anteriores continuam pendentes"
   prisioneiros_curtume_vivos: 3
   mortes_curtume: 1
-  varen: "Saiu pela porta lateral para localizar Maela ou Iven e buscar respostas de Neris no curtume; não está na oficina"
-  caixas: "Caixa escura fechada com mola agora imobilizada por cunha (1d20 [13]+4=17); original de bronze separado; réplica pronta."
+  varen: "Retornou à oficina sem ferimentos visíveis; relata Maela/Iven guardando prisioneiros e Orsik atendendo ferido. Segundo Neris, intermediário desconhecido receberá caixa pela porta dos fundos."
+  caixas: "Caixa aberta; agulha contida; peça cinzenta no feltro; original de bronze mantido separado; réplica pronta."
   eron_flechas: 19
   eron_alimentando_se: false
   eron_refeicao_concluida: true
   flechas_em_posse: 19
   flechas_reposicao_pendente: 1
-  sino: "Primeira badalada mencionada pelo jogador em conversa de retomada, mas não descrita no TXT recebido; não inventar posicionamento"
+  sino: "Varen ouviu uma badalada ao voltar, mas não identificou qual número na sequência; terceiro toque ainda não confirmado."
   personagem_nao_reiniciado: true
   evento_novo_desde_ultima_fala_original: false
   continua_a_partir: "Resposta final de Haldren enquanto Eron come, após a pergunta de Eron sobre a Coroa"
