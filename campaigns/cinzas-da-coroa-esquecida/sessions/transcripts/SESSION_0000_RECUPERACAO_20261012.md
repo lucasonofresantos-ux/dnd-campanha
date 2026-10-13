@@ -231,3 +231,18 @@ Também identifiquei uma questão de organização: o histórico está dividido 
 Vou preservar os registros existentes e acrescentar as mensagens recuperáveis, sem substituir falas literais por reconstruções.
 
 [O restante da resposta de auditoria será concluído após a verificação dos commits.]
+
+
+## Jogador
+Eu consigo sair sem que eles vejam com minha furtividade atual
+
+## Mestre
+Sim, Eron pode tentar sair sem ser visto, e sua Furtividade 26 continua válida. Não é necessário rolar novamente apenas por atravessar a porta.
+
+Entretanto, existe uma diferença entre não fazer barulho e não ser visto.
+
+Da posição atual, Eron está oculto no corredor, a poucos passos da porta entreaberta. Os dois homens conversam à direita, fora de seu campo de visão. Se houver cobertura ou sombras suficientes no beco, ele poderá continuar furtivo. Se sair diretamente para um espaço iluminado e exposto, poderá ser visto mesmo sem produzir ruído.
+
+Com sua Percepção 21, Eron identifica que a porta abre para o beco, mas ainda não consegue confirmar se existe cobertura imediatamente do lado de fora.
+
+Por enquanto, os dois homens não perceberam sua presença. Eron pode tentar espiar pela fresta para examinar o espaço antes de atravessar, ou arriscar a saída diretamente. A decisão é sua.
