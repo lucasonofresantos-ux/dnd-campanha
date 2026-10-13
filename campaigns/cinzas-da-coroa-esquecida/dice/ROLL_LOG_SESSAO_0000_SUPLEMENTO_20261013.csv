@@ -23,3 +23,4 @@ campaign_id,session_id,order,roller,context,expression,individual_dice,discarded
 "cinzas-da-coroa-esquecida","0000_D_suplemento","22","Mestre","Dano_critico_adaga","2d4+2","4 1","","2","7","D linha 1712; Mestre afirmou execucao Python; nao reverificada"
 "cinzas-da-coroa-esquecida","0000_D_suplemento","23","Jogador","Ataque_espada_curta_vantagem","2d20kh1+4","6 20","6","4","24","D linha 1742; 20 natural mantido"
 "cinzas-da-coroa-esquecida","0000_D_suplemento","24","Mestre","Dano_critico_espada_curta","2d6+2","3 4","","2","9","D linha 1750; Mestre afirmou execucao Python; nao reverificada"
+"cinzas-da-coroa-esquecida","0000_D_suplemento","25","Mestre_solicitado_pelo_jogador","Destreza_ferramentas_ladrao_trava_mola_velkan","1d20+4","13","","4","17","L mensagem 0031; Python script real secrets.randbelow executado 2026-10-13; sucesso"
