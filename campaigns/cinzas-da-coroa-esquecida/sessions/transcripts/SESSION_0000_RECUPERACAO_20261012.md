@@ -334,3 +334,14 @@ Pelas regras de D&D 5E, acertar a região escolhida não garante automaticamente
 Role 2d20kh1 +4 para atacar com a espada curta.
 
 Se acertar, o golpe também poderá receber Ataque Furtivo de +1d6, pois Eron ataca com vantagem. A situação poderá iniciar combate imediatamente.
+
+
+## Jogador
+Me dê os dados para rolar
+
+## Mestre
+Para atacar o homem corpulento pelas costas, você tem vantagem.
+
+[Interface interativa de rolagem: Ataque — Espada curta, 2d20kh1 +4; dois dados d20, botão Rolar os 2d20 e botão Enviar resultado ao Mestre.]
+
+Se acertar, rolaremos o dano: 1d6 +2 da espada curta, mais 1d6 de Ataque Furtivo.
