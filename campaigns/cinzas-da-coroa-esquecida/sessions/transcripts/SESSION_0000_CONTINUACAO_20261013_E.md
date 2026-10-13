@@ -115,6 +115,9 @@ Velkan continua junto à bancada, examinando a caixa ainda fechada. O sargento d
 - **Eventos Cruciais Ocorridos:** Eron perguntou por Varen; Haldren confirmou que ele permanece na oficina. Nenhum tempo significativo passou.
 - **Condições do Jogador:** Eron, Ladino nível 1, **8/11 PV**, CA 13; braço suturado, sem recuperação de PV documentada.
 
+Transcrição confirmada no [GitHub](https://github.com/lucasonofresantos-ux/dnd-campanha/blob/main/campaigns/cinzas-da-coroa-esquecida/sessions/transcripts/SESSION_0000_CONTINUACAO_20261013_E.md) (commit `bc2f0438314e37b77162c49e07618588656101b9`).
+
+
 ## Controle da interação
 
 - Referência: arquivo D, onde Varen permaneceu na oficina junto a Haldren, Velkan e Eron.
