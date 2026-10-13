@@ -18,7 +18,13 @@ Os arquivos a seguir são partes de uma continuidade jogada na estrada, em Caldr
 2. [SESSION_0000_PENDENCIAS_20261012.md](transcripts/SESSION_0000_PENDENCIAS_20261012.md) — grande continuação, com registros que não estão integralmente ordenados e lacunas identificadas.
 3. [SESSION_0000_RECUPERACAO_20261012.md](transcripts/SESSION_0000_RECUPERACAO_20261012.md) — recuperação de interações visíveis ausentes, com referências a trechos já registrados no suplemento.
 
-**Último ponto comprovado desta continuidade:** Eron, Furtividade 26 e Percepção 21, permanece oculto junto à porta entreaberta do corredor de serviço da oficina de Velkan, ouvindo duas pessoas do lado direito do beco falarem sobre Marek. Bromir vigia três invasores no depósito, dois amarrados e o líder ferido com flecha prendendo o tornozelo ao piso.
+**Ponto anteriormente comprovado (superado pelos arquivos B/C/D):** Eron, Furtividade 26 e Percepção 21, estava oculto junto à porta entreaberta do corredor de serviço da oficina de Velkan, ouvindo duas pessoas do lado direito do beco falarem sobre Marek. Bromir vigiava três invasores no depósito. Esse NÃO é o último ponto jogado.
+
+4. [SESSION_0000_CONTINUACAO_20261012_B.md](transcripts/SESSION_0000_CONTINUACAO_20261012_B.md) — confronto no beco e interrogatório.
+5. [SESSION_0000_CONTINUACAO_20261012_C.md](transcripts/SESSION_0000_CONTINUACAO_20261012_C.md) — desdobramentos e passagem para encontro com Haldren.
+6. [SESSION_0000_CONTINUACAO_20261012_D.md](transcripts/SESSION_0000_CONTINUACAO_20261012_D.md) — registro histórico mais adiantado; termina com pergunta de Haldren a Eron sobre contato prévio com agentes da Coroa e de nobres. Contém uma resposta inicial explicitamente pendente, não literal.
+
+**Último ponto confirmado da Sessão 0:** oficina de Mestre Velkan, após o confronto no curtume; caixa fechada entregue a Velkan para inspeção, Varen e Haldren presentes. A última mensagem do Mestre solicita que Eron explique onde conheceu agentes da Coroa e da nobreza. Eron está registrado com 8/11 PV após tratamento de Orsik, sem cura de PV. Veja [auditoria de 2026-10-13](transcripts/AUDITORIA_CONTINUIDADE_20261013.md), [estado isolado da retomada](SESSION_0000_ESTADO_RETOMADA_20261013.yaml) e [suplemento de rolagens](../dice/ROLL_LOG_SESSAO_0000_SUPLEMENTO_20261013.csv).
 
 **Aviso de divergência canônica:** `../CAMPAIGN_STATE.yaml` aponta para Sessão 0001 em Lorn e não representa esta continuidade de Sessão 0. Não mesclar cronologias nem substituir silenciosamente o estado da Sessão 0001. Antes de retomar a continuidade de Bromir, selecionar explicitamente seu ramo/estado e reconciliar os arquivos de ficha e rolagens.
 
@@ -32,3 +38,10 @@ Mensagem literal do jogador:
 Da criação d personagem tranquilo, e estamos nessa sessão 0 para fazer a ligação para ir para born
 
 Interpretação operacional: as lacunas da criação do personagem não precisam ser recuperadas; a aventura em andamento com Bromir e Velkan é a Sessão 0, destinada a criar ligação narrativa para a cidade da Sessão 1. O nome escrito pelo jogador nesta mensagem foi "born"; os registros anteriores nomeiam a cidade "Lorn". Preservar ambas as grafias e confirmar o destino se houver dúvida; não transformar a abertura de Sessão 1 já escrita em evento vivido nem forçar viagem. Manter Sessão 0 como continuidade ativa.
+
+
+## Auditoria de retomada — 2026-10-13
+
+A Sessão 0 com Bromir, Velkan, Haldren e Varen é o ramo a retomar. O arquivo `../CAMPAIGN_STATE.yaml` ainda corresponde à abertura alternativa em Lorn, não ao último ponto deste ramo. Não apagar a Sessão 0001 nem mesclar os dois ramos. A integridade literal da Sessão 0 permanece **parcial**, com pelo menos uma resposta inteira substituída por aviso de pendência em `SESSION_0000_CONTINUACAO_20261012_D.md` e interfaces descritas em vez de representadas integralmente.
+
+Arquivos produzidos nesta conferência: `transcripts/AUDITORIA_CONTINUIDADE_20261013.md`, `SESSION_0000_ESTADO_RETOMADA_20261013.yaml` e `../dice/ROLL_LOG_SESSAO_0000_SUPLEMENTO_20261013.csv`. As novas interações deste chat devem ser acrescentadas em transcript próprio, sem alterar as falas anteriores.
