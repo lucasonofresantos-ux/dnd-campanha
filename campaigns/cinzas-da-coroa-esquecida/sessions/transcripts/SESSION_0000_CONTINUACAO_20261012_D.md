@@ -1737,3 +1737,30 @@ O fugitivo ferido vê Eron se aproximar e tenta se arrastar para trás. A caixa 
 Eron alcança o homem caído. Para cravar a espada na outra perna, será necessário um ataque corpo a corpo. Como o fugitivo está caído, Eron tem vantagem no ataque a até 1,5 metro.
 
 A caixa e a adaga poderão ser recuperadas depois do golpe, conforme o tempo e as ações disponíveis. O homem da besta continua sendo uma ameaça imediata.
+
+
+## Jogador
+Ataque com espada curta e vantagem: 2d20kh1 [6, 20] → 20 + 4 = 24. Eron tenta atingir a outra perna do fugitivo caído.
+
+## Mestre
+Acerto crítico! 20 natural.
+
+Ataque com espada curta: 2d20kh1 → [6, 20] → 20 + 4 = 24.
+
+Dano crítico: 2d6 → [3, 4] + 2 de Destreza = 9 pontos de dano perfurante. Rolagem executada em Python com secrets.randbelow().
+
+Eron alcança o fugitivo caído e desfere uma estocada precisa contra a perna ainda intacta. A lâmina atravessa o tecido e penetra profundamente na coxa. O homem grita, contrai o corpo e tenta se afastar, mas suas pernas já não lhe oferecem apoio.
+
+— AAAAAH! PARE! EU NÃO VOU FUGIR!
+
+O homem deixa de tentar alcançar a caixa. Está gravemente ferido, consciente por enquanto e incapaz de se levantar sem ajuda. Isso não garante que sobreviverá sem atendimento.
+
+Eron ainda precisa recuperar a adaga cravada na primeira perna e apanhar a caixa, que está ao alcance de sua mão.
+
+Então, junto à escada, ouve-se o estalo seco do mecanismo de uma besta.
+
+O homem de cabelos claros mantém a arma apontada na direção de Eron, mas os barris entre eles dificultam a linha de tiro.
+
+— Afaste-se dele! — ordena, com a voz trêmula.
+
+Ele ainda não disparou.
