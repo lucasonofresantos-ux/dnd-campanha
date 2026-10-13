@@ -1650,3 +1650,33 @@ O homem de casaco marrom continua de pé, encurralado entre Varen e o muro. A or
 Atrás de Eron, o vigia ferido permanece caído junto ao batente, enquanto os ruídos dentro do edifício se tornam mais distantes.
 
 A iniciativa retorna a Eron. Ele tem a espada desembainhada e pode agir antes que o ocupante do edifício desapareça de vista.
+
+
+## Jogador
+Cuide dele se o render amarre e amordaça ele, e depois venha, se o matar venha depois vou ver quem está aqui, e entro porta adentro atrás dos que estiverem ali, rolei percepção pelo roll20 de 19, quero localizar quem está fugindo e quantos são.
+Eu vou em disparada para dentro com a espada em uma mão e a adaga na outra
+
+## Mestre
+— Cuide dele! Se render, amarre e amordace. Se tiver que matá-lo, faça isso e venha depois. Vou ver quem está lá dentro!
+
+Varen responde sem desviar os olhos do adversário:
+
+— Entendido! Mas não se meta numa armadilha!
+
+Eron deixa o confronto para trás e atravessa a porta de serviço, espada curta em uma mão e adaga na outra. O batente está manchado pelo sangue do vigia caído. Lá dentro, o cheiro de couro curtido dá lugar ao de madeira úmida, óleo de lamparina e poeira.
+
+Percepção: 19, resultado informado por você, obtido no Roll20. Vou considerá-lo como resultado total do teste.
+
+A primeira sala é um depósito comprido, iluminado por duas lamparinas. Barris e prateleiras formam corredores estreitos. À esquerda há uma bancada de trabalho; à direita, uma escada de madeira sobe para um pavimento superior. Na parede oposta, uma segunda porta está aberta.
+
+Eron identifica imediatamente um homem de avental escuro, o mesmo que apareceu na porta. Ele corre pelo corredor além do depósito, aproximadamente quinze metros à frente, segurando alguma coisa contra o peito.
+
+Mas há outro movimento.
+
+Atrás de uma fileira de barris, perto da escada, Eron distingue uma segunda pessoa, parcialmente encoberta. A figura parece estar abaixada e permanece imóvel quando ele entra.
+
+Portanto, Eron localizou duas pessoas no interior: uma fugindo pelo corredor e outra escondida junto à escada. Não há sinal visível de uma terceira, embora o andar superior e as salas além do corredor ainda não tenham sido examinados.
+
+A figura escondida percebe que Eron a avistou. Sua mão desaparece lentamente atrás de um barril.
+
+Eron está em movimento, com as duas armas empunhadas. O fugitivo continua correndo em direção à porta ao fundo; a segunda pessoa ainda não revelou suas intenções.
