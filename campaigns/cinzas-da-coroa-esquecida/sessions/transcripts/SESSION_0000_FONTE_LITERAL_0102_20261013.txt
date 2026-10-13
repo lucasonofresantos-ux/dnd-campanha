@@ -1,0 +1,1471 @@
+hora 0:07
+eu mandei:
+Vou usar percepção para estudar o ambiente e o posicionamento dos dois e se tem mais alguém escondido
+Role os dados para mim
+chatgpt:
+Sabedoria (Percepção)
+
+# 19
+
+1d20 [13] + 6 = 19
+
+Eron permanece imóvel entre os muros, estudando o beco antes de se arriscar. O ar traz o cheiro acre dos tanques de curtume, e a luz de um lampião distante mal alcança os dois homens.
+
+A observação revela alguns detalhes importantes:
+
+- Homem do casaco marrom: está a aproximadamente oito metros, mais próximo da saída para a rua. Mantém uma mão perto do cinto, onde Eron distingue o cabo de uma arma curta.
+- Homem alto de gibão: encontra-se cerca de dois metros mais ao fundo, junto à porta de serviço. Tem uma espada curta na cintura e continua manipulando um pequeno objeto metálico.
+- Terreno: caixotes empilhados oferecem cobertura parcial à esquerda. À direita, o muro do curtume limita os movimentos. A passagem entre os dois homens é estreita, mas permite que caminhem lado a lado.
+- Outras presenças: Eron não identifica nenhum terceiro homem nas janelas, junto à porta ou nas sombras visíveis. Entretanto, não consegue enxergar o interior do depósito nem o trecho da rua além da saída do beco.
+
+Há mais um detalhe: a porta de serviço atrás do homem alto está apenas encostada, deixando escapar uma fina linha de luz por baixo. Nenhuma voz ou movimento vem de seu interior durante a observação.
+
+Varen permanece próximo, parcialmente protegido pelos caixotes. Ao perceber que Eron terminou de examinar o ambiente, inclina discretamente a cabeça, aguardando sua iniciativa.
+
+Os dois homens continuam conversando, sem demonstrar que perceberam a presença da dupla.
+
+[LOG DE MEMÓRIA DA CAMPANHA]
+
+- Localização Atual: Retaguarda do beco, junto ao depósito do curtidor.
+- NPCs Presentes e Relação: Varen, aliado circunstancial; dois vigias aparentemente ligados a Marek.
+- Linha de Missão Ativa: Investigar os vigias e retornar à oficina de Velkan.
+- Eventos Cruciais Ocorridos: Percepção 19. Eron identificou armas, posições, coberturas e uma porta entreaberta. Nenhum terceiro indivíduo foi detectado nas áreas visíveis.
+- Condições do Jogador: 8/11 PV; CA 13; oculto; 19 flechas.
+
+Transcrição confirmada no GitHub. Commit `ce2b4b4`. Pendências anteriores permanecem.
+
+eu:
+Me dá um layout do ambiente e a posição dos dois e da porta
+
+chatgpt:
+## Mapa tático — Beco do curtume
+
+Vista superior esquemática, baseada no que Eron conseguiu observar. As distâncias são aproximadas; não é um mapa em escala exata.
+
+E
+
+Eron
+
+V
+
+Varen
+
+1
+
+Casaco marrom
+
+2
+
+Homem alto
+
+Distâncias e posicionamento conhecidos: o homem de casaco marrom está a aproximadamente 8 metros de Eron, mais próximo da saída para a rua. O homem alto está cerca de 2 metros além dele, junto à porta de serviço entreaberta. Ambos estão de costas para a posição de Eron e Varen.
+
+Os caixotes oferecem cobertura parcial. A porta deixa escapar luz, mas seu interior permanece desconhecido. Nenhuma outra pessoa foi detectada nas áreas visíveis, o que não garante que estejam sozinhos.
+
+[LOG DE MEMÓRIA DA CAMPANHA]
+
+- Localização Atual: Retaguarda do beco, junto ao depósito do curtidor.
+- NPCs Presentes e Relação: Varen, aliado circunstancial; dois vigias ligados aparentemente a Marek.
+- Linha de Missão Ativa: Investigar a vigilância antes de retornar à oficina de Velkan.
+- Eventos Cruciais Ocorridos: Eron estudou o posicionamento dos vigias e recebeu o mapa esquemático do local.
+- Condições do Jogador: 8/11 PV; CA 13; oculto; 19 flechas.
+
+O GitHub bloqueou a atualização. O registro desta interação permanece pendente.
+
+eu:
+Olho para varen, e sussurro de modo que os dois não escutem, você é rápido o bastante para alcançar o da frente e eu pego o de trás ou prefere trocar?
+
+chatgpt:Varen inclina a cabeça para ouvir o sussurro de Eron. Seus olhos passam rapidamente de um vigia ao outro, avaliando a distância e os obstáculos.
+
+— Prefiro o da frente — responde quase sem mover os lábios. — Está mais próximo da rua. Se tentar fugir ou gritar, posso cortar o caminho dele. Você fica com o homem alto, junto à porta.
+
+Ele observa o objeto metálico nas mãos do segundo vigia.
+
+— Mas atenção àquela porta. Não sabemos quem pode estar do outro lado.
+
+Varen afrouxa discretamente a espada na bainha, sem desembainhá-la.
+
+— Se quisermos interrogá-los, é melhor mantê-los vivos. Posso tentar dominar o meu antes que alcance a rua, mas não prometo silêncio absoluto.
+
+Um dos homens solta uma risada abafada. O outro responde alguma coisa que Eron não consegue distinguir.
+
+Varen volta os olhos para Eron.
+
+— Dê o sinal quando estiver pronto.
+
+Ele permanece agachado atrás dos caixotes, aguardando a iniciativa de Eron. Os dois vigias continuam sem perceber a presença deles.
+
+[LOG DE MEMÓRIA DA CAMPANHA]
+
+- Localização Atual: Retaguarda do beco do curtume, Caldria.
+- NPCs Presentes e Relação: Varen, aliado circunstancial; dois vigias aparentemente ligados a Marek.
+- Linha de Missão Ativa: Investigar os vigias e proteger o mecanismo na oficina de Velkan.
+- Eventos Cruciais Ocorridos: Varen concordou em abordar o vigia de casaco marrom, deixando o homem alto para Eron. Nenhuma abordagem foi iniciada.
+- Condições do Jogador: 8/11 PV; CA 13; oculto; 19 flechas.
+
+Atualização do GitHub bloqueada. Esta interação permanece pendente de transcrição.
+
+eu:
+Me acompanhe assim que eu abordar o de trás você vai pro da frente
+E saio furtivamente, minha ideia é me aproximar pelas costas e colocar a adaga na garganta dele sei que vou ter que jogar dados então me manda igual o último
+
+eu:
+Furtividade: 1d20 [20] + 6 = 26. Eron tenta alcançar furtivamente o homem alto pelas costas para dominá-lo com a adaga na garganta. Varen está preparado para avançar sobre o vigia de casaco marrom quando Eron iniciar a abordagem.
+
+chatgpt:
+Furtividade: 26 — 20 natural!
+
+1d20 [20] + 6 = 26. Excelente resultado; um 20 natural em teste de perícia não representa sucesso crítico automático.
+
+Eron desliza pela lateral dos caixotes, aproveitando o instante em que o homem alto volta a atenção para o companheiro. Nenhuma tábua range, nenhuma pedra se desloca sob suas botas. O cheiro forte do curtume encobre até a proximidade de outro corpo.
+
+Quando o vigia percebe um movimento pelo canto do olho, Eron já está atrás dele, ao alcance da adaga.
+
+— Você acha que eles... — começa o homem.
+
+A frase morre quando ele sente a presença de Eron às suas costas. Sua mão ainda segura o pequeno objeto metálico.
+
+Varen, oculto mais adiante, percebe que Eron alcançou a posição combinada. Seus músculos se contraem, pronto para avançar sobre o homem de casaco marrom assim que a abordagem começar.
+
+Eron conseguiu aproximar-se sem ser detectado. Para colocar a adaga na garganta do vigia e mantê-lo sob controle, ainda precisamos resolver a tentativa de agarrá-lo. Como a situação pode desencadear um confronto, primeiro determinaremos a iniciativa, sem conceder automaticamente a imobilização.
+
+[LOG DE MEMÓRIA DA CAMPANHA]
+
+- Localização Atual: Beco do curtume, atrás do homem alto.
+- NPCs Presentes e Relação: Varen, aliado circunstancial; dois vigias aparentemente ligados a Marek.
+- Linha de Missão Ativa: Capturar e interrogar os vigias antes de retornar à oficina de Velkan.
+- Eventos Cruciais Ocorridos: Eron obteve 20 natural em Furtividade, total 26, e alcançou o homem alto sem ser detectado. Varen aguarda o início da abordagem.
+- Condições do Jogador: 8/11 PV; CA 13; 19 flechas; nenhuma nova condição. Iniciativa pendente.
+
+Transcrição confirmada no GitHub. Commit `8139620`. Pendências anteriores permanecem.
+
+eu:
+Eu falo para ele, se emitir um barulho se quer corto sua garganta
+Role os dados para mim
+
+chatgpt:
+Eron aproxima a adaga da garganta do homem alto e sussurra, com a voz firme:
+
+— Se emitir um barulho se quer corto sua garganta.
+
+O homem enrijece imediatamente. O pequeno objeto metálico para de girar entre seus dedos.
+
+Rolagens executadas em Python
+
+| Iniciativa de Eron    | 1d20 [8] + 4 = 12  |
+| --------------------- | ------------------ |
+| Carisma (Intimidação) | 1d20 [11] + 1 = 12 |
+
+O homem sente a ameaça, mas não está completamente dominado. Sua respiração acelera; por um instante, os dedos se contraem ao redor do objeto metálico. Então ele responde, num sussurro quase inaudível:
+
+— Calma... não precisa fazer isso.
+
+À frente, o homem de casaco marrom começa a virar a cabeça, aparentemente estranhando a interrupção da conversa.
+
+Varen abandona sua cobertura no mesmo instante, avançando para interceptá-lo.
+
+A abordagem desencadeou um confronto. Eron agiu primeiro, aproveitando a aproximação furtiva, mas ainda não conseguiu agarrar mecanicamente o vigia. A ameaça o fez hesitar, não se render. A reação do outro homem e a tentativa de Varen serão resolvidas pela ordem de iniciativa.
+
+[LOG DE MEMÓRIA DA CAMPANHA]
+
+- Localização Atual: Beco do curtume, junto à porta de serviço.
+- NPCs Presentes e Relação: Varen, aliado circunstancial; dois vigias aparentemente ligados a Marek.
+- Linha de Missão Ativa: Capturar e interrogar os vigias.
+- Eventos Cruciais Ocorridos: Eron ameaçou o homem alto. Intimidação 12; o vigia hesitou, mas não se rendeu. Iniciativa estabelecida: Eron 12, homem alto 11, Varen 6, homem de casaco marrom 3.
+- Condições do Jogador: 8/11 PV; CA 13; 19 flechas; adaga posicionada junto ao pescoço do vigia, sem agarrão confirmado.
+
+Transcrição confirmada no GitHub. Commit `7384fd8`. Pendências anteriores permanecem.
+
+eu:
+Me passa oque acontece agora
+
+chatgpt:
+## Beco do curtume — Primeiro confronto
+
+O homem alto permanece rígido, sentindo o aço da adaga junto ao pescoço. Seu companheiro começa a virar a cabeça, mas ainda não compreendeu o que está acontecendo.
+
+Eron tem a iniciativa: 12. A aproximação furtiva foi bem-sucedida e a ameaça já foi feita. A lâmina está posicionada, mas o homem ainda não está agarrado ou imobilizado.
+
+A mão do vigia continua fechada sobre o pequeno objeto metálico. Seus olhos se deslocam na direção da porta entreaberta.
+
+— Está bem... — murmura. — Só não aperte essa lâmina.
+
+Varen se prepara para interceptar o homem de casaco marrom, conforme combinado, mas ainda não chegou a ele.
+
+Ordem de iniciativa — Rodada 1
+
+| Eron          | 12 — turno atual |
+| ------------- | ---------------- |
+| Homem alto    | 11               |
+| Varen         | 6                |
+| Casaco marrom | 3                |
+
+Eron está em posição favorável para tentar agarrar o homem, pressioná-lo a se render ou agir de outra maneira. A próxima ação é sua; depois dela, os demais agirão na ordem estabelecida.
+
+[LOG DE MEMÓRIA DA CAMPANHA]
+
+- Localização Atual: Beco do curtume, junto à porta de serviço.
+- NPCs Presentes e Relação: Varen, aliado circunstancial; dois vigias aparentemente ligados a Marek.
+- Linha de Missão Ativa: Capturar e interrogar os vigias.
+- Eventos Cruciais Ocorridos: A ameaça de Eron fez o homem alto hesitar. Iniciativa definida; primeiro turno de Eron pendente.
+- Condições do Jogador: 8/11 PV; CA 13; 19 flechas; adaga junto ao pescoço do vigia, sem agarrão confirmado.
+
+Transcrição confirmada no GitHub. Commit `bab59d7`. Pendências anteriores permanecem.
+
+eu:
+Vou apertar a adaga no pescoço dele e falar de novo eu avisei para não falar
+E vou rolar intimidação de novo, me dê os dados como o último
+
+chatgpt:
+Eron pressiona a adaga um pouco mais contra o pescoço do homem alto. O vigia prende a respiração quando sente o fio da lâmina.
+
+— Eu avisei para não falar.
+
+O homem fica imóvel. Uma gota de suor escorre por sua têmpora, enquanto sua mão permanece fechada sobre o pequeno objeto metálico.
+
+Teste de Carisma (Intimidação): 1d20 + 1.
+
+## Intimidação de Eron
+
+Pressionar o vigia a obedecer e permanecer em silêncio
+
+d20Toque para rolar
+
+Carisma +1
+
+# —
+
+Enviar resultado ao Mestre
+
+O resultado determinará como o homem reage à ameaça renovada. Ainda estamos no turno de Eron, na primeira rodada.
+
+[LOG DE MEMÓRIA DA CAMPANHA]
+
+- Localização Atual: Beco do curtume, junto à porta de serviço.
+- NPCs Presentes e Relação: Varen, aliado circunstancial; dois vigias aparentemente ligados a Marek.
+- Linha de Missão Ativa: Capturar e interrogar os vigias.
+- Eventos Cruciais Ocorridos: Eron reforçou a ameaça com a adaga. Novo teste de Intimidação aguardando resultado.
+- Condições do Jogador: 8/11 PV; CA 13; 19 flechas; adaga pressionada contra o pescoço do vigia.
+
+Transcrição confirmada no GitHub. Commit `32746b6`. Pendências anteriores permanecem.
+
+eu:
+Intimidação: 1d20 [18] + 1 = 19. Eron pressiona a adaga contra o pescoço do homem alto e reafirma a ordem para que ele permaneça em silêncio.
+
+eu:
+?
+
+chatgpt:
+Eron conseguiu intimidar o homem alto com um resultado de 19. Ele permanece em silêncio, com a adaga de Eron contra o pescoço.
+
+Entretanto, Varen falhou ao tentar dominar o segundo vigia: tirou 1 natural. O homem de casaco marrom escapou, gritou e levou a mão à arma. Varen está entre ele e a saída para a rua.
+
+O grito pode ter alertado alguém atrás da porta entreaberta.
+
+O próximo turno é de Eron, na segunda rodada. Ele ainda mantém a vantagem sobre o homem alto, mas não o imobilizou fisicamente. O outro vigia está alerta.
+
+[LOG DE MEMÓRIA DA CAMPANHA]
+
+- Localização Atual: Beco do curtume, Caldria.
+- NPCs Presentes e Relação: Varen, aliado circunstancial; dois vigias aparentemente ligados a Marek.
+- Linha de Missão Ativa: Capturar e interrogar os vigias.
+- Eventos Cruciais Ocorridos: Intimidação 19; homem alto intimidado. Varen falhou na abordagem; segundo vigia gritou.
+- Condições do Jogador: 8/11 PV; CA 13; 19 flechas; adaga junto ao pescoço do homem alto.
+
+Registro confirmado no GitHub. Commit `4ceead5`. Pendências anteriores permanecem.
+
+eu:
+Eu falo para o homem que estou com a faca no pescoço, sem alguém sair dessa porta vou ter que girar rápido, e isso vai cortar sua jugular, então só vou perguntar está vez, tem alguém aqui dentro?
+Deixo a reação pronta se alguém sair da porta corto a garganta dele
+
+chatgpt:
+O homem alto sente a pressão da adaga aumentar enquanto Eron fala junto ao seu ouvido:
+
+— Sem alguém sair dessa porta vou ter que girar rápido, e isso vai cortar sua jugular, então só vou perguntar está vez, tem alguém aqui dentro?
+
+O vigia lança um olhar desesperado para a porta entreaberta. Seus lábios tremem. Ele parece dividido entre o medo de responder e o medo de permanecer calado.
+
+Por fim, sussurra:
+
+— Tem... tem um homem lá dentro. Talvez dois. Não sei se o outro já saiu pelos fundos.
+
+Antes que consiga dizer mais, um ruído seco vem do interior: madeira raspando contra pedra, como um móvel sendo arrastado.
+
+A faixa de luz sob a porta é interrompida por uma sombra.
+
+O homem alto percebe o movimento e fecha os olhos por um instante.
+
+— Pelos deuses... — murmura quase sem voz.
+
+À frente, Varen mantém o homem de casaco marrom ocupado. Os dois se encaram, separados por poucos passos, enquanto o vigia procura uma abertura para sacar a arma.
+
+Eron prepara sua reação: caso alguém saia pela porta antes do início de seu próximo turno, tentará golpear o homem que mantém sob a adaga. A ação preparada consome sua reação quando o gatilho ocorrer. O golpe exigirá uma jogada de ataque; a posição da lâmina não garante automaticamente um ferimento fatal.
+
+Por enquanto, ninguém atravessou a porta.
+
+[LOG DE MEMÓRIA DA CAMPANHA]
+
+- Localização Atual: Beco do curtume, junto à porta de serviço.
+- NPCs Presentes e Relação: Varen, aliado circunstancial; dois vigias, além de possíveis ocupantes do edifício.
+- Linha de Missão Ativa: Capturar os vigias e investigar a ligação com Marek.
+- Eventos Cruciais Ocorridos: O homem alto afirmou haver pelo menos um homem no interior, possivelmente dois. Uma sombra surgiu junto à porta. Eron preparou um ataque condicionado à saída de alguém.
+- Condições do Jogador: 8/11 PV; CA 13; 19 flechas; adaga contra o pescoço do vigia; ação preparada.
+
+Transcrição confirmada no GitHub. Commit `720ceb5`. Pendências anteriores permanecem.
+
+eu:
+Role os dados para mim, mas não me diga que passar uma adaga na garganta de um homem não o mata
+
+chatgpt:
+Você tem razão quanto à gravidade do ferimento: uma adaga que efetivamente corta a jugular pode matar um homem. O ponto que precisamos resolver pelos dados é se Eron consegue executar esse corte enquanto o vigia está sob ameaça, mas ainda não está fisicamente imobilizado.
+
+A sombra atrás da porta se move. Uma mão surge na fresta e empurra a madeira para fora.
+
+O gatilho da ação preparada de Eron é ativado.
+
+Ataque preparado — Adaga
+
+| Jogada de ataque | 1d20 [13] + 4 = 17 |
+| ---------------- | ------------------ |
+| Dano da adaga    | 1d4 [2] + 2 = 4    |
+
+Rolagens realizadas com Python e `secrets.randbelow`.
+
+O homem alto percebe a porta se abrindo e tenta instintivamente recuar. Mas Eron já está atrás dele. A lâmina desliza pelo lado de seu pescoço, abrindo um corte profundo.
+
+O vigia leva as mãos à garganta. Sangue escorre entre seus dedos e mancha o gibão. Ele cambaleia contra o batente, incapaz de formar uma palavra, e desaba de joelhos.
+
+O homem está gravemente ferido e fora de combate. A extensão exata da lesão vascular não é visível para Eron naquele instante. Sem socorro, sua vida corre sério risco.
+
+A porta se abre mais alguns centímetros.
+
+Do outro lado, um homem de barba rala e avental escuro vê o companheiro ensanguentado. Seu rosto perde a cor.
+
+— Pelos Nove Infernos...
+
+Ele recua imediatamente para o interior.
+
+À frente, Varen e o homem de casaco marrom continuam em confronto. O barulho da queda faz ambos olharem por um instante na direção de Eron.
+
+Varen tenta aproveitar a distração para segurar o braço armado do vigia, mas o homem se esquiva e recua até a parede.
+
+— Largue essa arma! — ordena Varen.
+
+O homem de casaco marrom não obedece. Em vez disso, olha para o sangue junto à porta e parece medir a distância até a saída do beco.
+
+Eron está novamente com a iniciativa. O homem alto caiu junto ao batente; o ocupante que abriu a porta recuou para dentro, e o segundo vigia continua resistindo a Varen.
+
+[LOG DE MEMÓRIA DA CAMPANHA]
+
+- Localização Atual: Beco do curtume, junto à porta de serviço.
+- NPCs Presentes e Relação: Varen, aliado circunstancial; vigia de casaco marrom hostil; homem de avental no interior; vigia alto gravemente ferido.
+- Linha de Missão Ativa: Investigar os homens ligados a Marek e a vigilância sobre Velkan.
+- Eventos Cruciais Ocorridos: Ataque preparado de Eron acertou (17), causando 4 pontos de dano. O vigia alto caiu, gravemente ferido. Um ocupante do edifício testemunhou o ataque.
+- Condições do Jogador: 8/11 PV; CA 13; 19 flechas; adaga ensanguentada; próximo turno disponível.
+
+Registro confirmado no GitHub. Commit `6d4058b`. Pendências anteriores permanecem.
+
+eu:
+Eu saco a espada olho para ele e digo péssima idéia, deixo a reação engatilhada se ele vier para cima de mim eu o ataco
+
+chatgpt:
+O aço desliza da bainha com um som seco.
+
+Eron encara o homem de casaco marrom, que ainda procura uma oportunidade para escapar de Varen.
+
+— Péssima ideia.
+
+O vigia olha para a espada, depois para o companheiro caído junto à porta. Sua expressão muda. Ele já não parece tão disposto a enfrentar os dois.
+
+— Vocês não sabem com quem estão se metendo — rosna, mas sua voz vacila.
+
+Varen mantém a posição entre ele e a saída.
+
+— Então largue a arma e explique.
+
+O homem não responde. Em vez disso, começa a recuar lateralmente, procurando espaço entre os caixotes e a parede. Ele não avança contra Eron. Portanto, o gatilho do ataque preparado não ocorre.
+
+Do interior do edifício vem o ruído de passos apressados, afastando-se da porta.
+
+A lâmina de Eron permanece pronta. O homem de casaco marrom continua armado, mas hesitante. Varen acompanha seus movimentos, sem lhe oferecer as costas.
+
+Resolução da rodada: Eron sacou a espada e preparou um ataque para o caso de o vigia avançar contra ele. O vigia não avançou; nenhuma rolagem de ataque foi necessária. A ação preparada permanece válida até o início do próximo turno de Eron.
+
+[LOG DE MEMÓRIA DA CAMPANHA]
+
+- Localização Atual: Beco do curtume, Caldria.
+- NPCs Presentes e Relação: Varen, aliado circunstancial; vigia de casaco marrom hostil; vigia alto gravemente ferido; ocupante desconhecido no edifício.
+- Linha de Missão Ativa: Investigar os vigias ligados a Marek.
+- Eventos Cruciais Ocorridos: Eron sacou a espada e preparou um ataque. O vigia não avançou; passos foram ouvidos no interior.
+- Condições do Jogador: 8/11 PV; CA 13; 19 flechas; espada em mãos; nenhuma nova lesão.
+
+O GitHub bloqueou a atualização. Esta interação permanece pendente de transcrição.
+
+eu:
+Mate ele logo temos problemas maiores awui, não podemos deixar estes merdas avisarem mais ninguém.
+
+chatgpt:
+— Mate ele logo! Temos problemas maiores aqui. Não podemos deixar estes merdas avisarem mais ninguém! — ordena Eron a Varen.
+
+O homem de casaco marrom empalidece. Sua mão finalmente alcança o cabo da arma.
+
+Varen lança um olhar breve para Eron. A expressão endurece.
+
+— Droga...
+
+Ele desembainha a espada e avança, tentando impedir que o vigia escape. O homem recua contra a parede e ergue a própria lâmina para se defender.
+
+O choque de aço ressoa pelo beco.
+
+A porta de serviço continua entreaberta. Lá dentro, os passos apressados se afastam, acompanhados por um ruído de metal batendo contra madeira. Alguém pode estar tentando fugir ou alcançar outra saída.
+
+Ataque de Varen: 1d20 [6] + 4 = 10 — não acerta. O dado de dano não é aplicado.
+
+O vigia desvia o golpe e tenta abrir caminho com a espada, mas Varen consegue apará-la. Nenhum dos dois é atingido nessa troca.
+
+— Não vou deixar que fuja! — rosna Varen.
+
+O homem de casaco marrom continua de pé, encurralado entre Varen e o muro. A ordem de Eron ainda não foi cumprida.
+
+Atrás de Eron, o vigia ferido permanece caído junto ao batente, enquanto os ruídos dentro do edifício se tornam mais distantes.
+
+A iniciativa retorna a Eron. Ele tem a espada desembainhada e pode agir antes que o ocupante do edifício desapareça de vista.
+
+[LOG DE MEMÓRIA DA CAMPANHA]
+
+- Localização Atual: Beco do curtume, Caldria.
+- NPCs Presentes e Relação: Varen, aliado circunstancial; vigia de casaco marrom hostil; vigia alto gravemente ferido; ocupante desconhecido no interior.
+- Linha de Missão Ativa: Impedir que os vigias alertem seus superiores e investigar o edifício.
+- Eventos Cruciais Ocorridos: Eron ordenou a Varen que matasse o vigia. Varen atacou, mas errou. Alguém continua se afastando pelo interior.
+- Condições do Jogador: 8/11 PV; CA 13; 19 flechas; espada desembainhada; turno disponível.
+
+Transcrição confirmada no GitHub. Commit `173bedf`. Pendências anteriores permanecem.
+
+eu:
+Cuide dele se o render amarre e amordaça ele, e depois venha, se o matar venha depois vou ver quem está aqui, e entro porta adentro atrás dos que estiverem ali, rolei percepção pelo roll20 de 19, quero localizar quem está fugindo e quantos são.
+Eu vou em disparada para dentro com a espada em uma mão e a adaga na outra
+
+chatgpt:
+— Cuide dele! Se render, amarre e amordace. Se tiver que matá-lo, faça isso e venha depois. Vou ver quem está lá dentro!
+
+Varen responde sem desviar os olhos do adversário:
+
+— Entendido! Mas não se meta numa armadilha!
+
+Eron deixa o confronto para trás e atravessa a porta de serviço, espada curta em uma mão e adaga na outra. O batente está manchado pelo sangue do vigia caído. Lá dentro, o cheiro de couro curtido dá lugar ao de madeira úmida, óleo de lamparina e poeira.
+
+Percepção: 19, resultado informado por você, obtido no Roll20. Vou considerá-lo como resultado total do teste.
+
+A primeira sala é um depósito comprido, iluminado por duas lamparinas. Barris e prateleiras formam corredores estreitos. À esquerda há uma bancada de trabalho; à direita, uma escada de madeira sobe para um pavimento superior. Na parede oposta, uma segunda porta está aberta.
+
+Eron identifica imediatamente um homem de avental escuro, o mesmo que apareceu na porta. Ele corre pelo corredor além do depósito, aproximadamente quinze metros à frente, segurando alguma coisa contra o peito.
+
+Mas há outro movimento.
+
+Atrás de uma fileira de barris, perto da escada, Eron distingue uma segunda pessoa, parcialmente encoberta. A figura parece estar abaixada e permanece imóvel quando ele entra.
+
+Portanto, Eron localizou duas pessoas no interior: uma fugindo pelo corredor e outra escondida junto à escada. Não há sinal visível de uma terceira, embora o andar superior e as salas além do corredor ainda não tenham sido examinados.
+
+A figura escondida percebe que Eron a avistou. Sua mão desaparece lentamente atrás de um barril.
+
+Eron está em movimento, com as duas armas empunhadas. O fugitivo continua correndo em direção à porta ao fundo; a segunda pessoa ainda não revelou suas intenções.
+
+[LOG DE MEMÓRIA DA CAMPANHA]
+
+- Localização Atual: Interior do depósito do curtidor, Caldria.
+- NPCs Presentes e Relação: Homem de avental fugindo; segunda figura escondida junto à escada. Varen permanece no beco enfrentando o vigia.
+- Linha de Missão Ativa: Impedir a fuga dos suspeitos e descobrir sua ligação com Marek.
+- Eventos Cruciais Ocorridos: Eron entrou armado no depósito. Percepção 19 identificou duas pessoas, uma delas parcialmente oculta.
+- Condições do Jogador: 8/11 PV; CA 13; 19 flechas; espada curta e adaga empunhadas. Nenhum dano novo.
+
+Transcrição confirmada no GitHub. Commit `b5c5a61`. Pendências anteriores permanecem.
+
+eu:
+Eu lanço a adaga no que está correndo, tento acertar a perna dele, me dê os dados como no último
+
+chatgpt:
+Eron avista o homem de avental correndo pelo corredor, a aproximadamente 15 metros, com um objeto apertado contra o peito.
+
+A espada curta permanece em sua mão esquerda enquanto ele prepara a adaga para arremessá-la contra a perna do fugitivo.
+
+Ataque à distância com adaga: 1d20 + 4. A adaga tem alcance normal de 6 metros e alcance longo de 18 metros. Como o alvo está a cerca de 15 metros, o ataque será feito com desvantagem, usando o menor resultado de dois d20.
+
+Acertar a perna não provoca imobilização automática pelas regras normais de D&D 5E. O ferimento e a reação do fugitivo dependerão da resolução do ataque.
+
+## Arremesso de adaga
+
+Ataque com desvantagem — 2d20, mantém o menor
+
+Dado 120Dado 220Toque para rolar os dois dados
+
+Menor dado +4
+
+# 24
+
+Enviar resultado ao Mestre
+
+A figura escondida junto à escada continua parcialmente encoberta pelos barris. Eron ainda não sabe o que ela segura atrás deles.
+
+[LOG DE MEMÓRIA DA CAMPANHA]
+
+- Localização Atual: Interior do depósito do curtidor, Caldria.
+- NPCs Presentes e Relação: Homem de avental fugindo; figura escondida junto à escada; Varen no beco.
+- Linha de Missão Ativa: Impedir a fuga dos suspeitos e investigar a ligação com Marek.
+- Eventos Cruciais Ocorridos: Eron iniciou um arremesso de adaga contra a perna do fugitivo. Resultado do ataque pendente.
+- Condições do Jogador: 8/11 PV; CA 13; 19 flechas; espada curta empunhada.
+
+Transcrição confirmada no GitHub. Commit `5bd72dc`. Pendências anteriores permanecem.
+
+eu:
+Ataque de adaga arremessada com desvantagem: 2d20kl1 [20, 20] → 20 + 4 = 24. Eron tenta atingir a perna do homem de avental que está fugindo pelo corredor.
+
+chatgpt:
+20 natural, mesmo com desvantagem! Acerto crítico.
+
+2d20kl1 → [20, 20] → 20 + 4 = 24
+
+A adaga deixa os dedos de Eron e corta o ar do depósito. Apesar da distância, a lâmina atravessa o corredor entre as prateleiras e atinge a perna do fugitivo no instante em que ele se prepara para passar pela porta ao fundo.
+
+Dano crítico — Adaga
+
+| Dados da arma | 2d4 → [4, 1] = 5 |
+| ------------- | ---------------- |
+| Destreza      | +2               |
+| Dano total    | 7 perfurante     |
+
+Dados de dano executados com Python e `secrets.randbelow`.
+
+O homem solta um grito e perde o apoio da perna atingida. Seu corpo se choca contra o batente, e o objeto que carregava escapa de seus braços: uma pequena caixa de madeira escura, presa por duas tiras de couro.
+
+A caixa bate no chão e desliza alguns palmos, sem se abrir.
+
+O fugitivo cai de lado, tentando se arrastar para alcançá-la. A adaga permanece cravada em sua perna. Ele está consciente, mas claramente ferido.
+
+Atrás dos barris, junto à escada, a segunda figura se ergue de repente. Eron distingue um homem magro, de cabelos claros e rosto encovado. Ele segura uma besta leve, que começa a apontar na direção de Eron.
+
+O depósito inteiro parece ficar silencioso por um instante, exceto pela respiração ofegante do homem caído.
+
+Eron acertou o fugitivo, mas agora há um homem armado com uma besta junto à escada.
+
+[LOG DE MEMÓRIA DA CAMPANHA]
+
+- Localização Atual: Interior do depósito do curtidor, Caldria.
+- NPCs Presentes e Relação: Fugitivo ferido junto à porta do fundo; homem armado com besta junto à escada; Varen no beco.
+- Linha de Missão Ativa: Impedir a fuga dos suspeitos e descobrir sua ligação com Marek.
+- Eventos Cruciais Ocorridos: Eron obteve dois 20 naturais, acertou criticamente a perna do fugitivo e causou 7 pontos de dano. Uma caixa de madeira escura caiu no corredor.
+- Condições do Jogador: 8/11 PV; CA 13; 19 flechas; espada curta em mãos; uma adaga cravada na perna do fugitivo.
+
+Transcrição confirmada no GitHub. Commit `64b0f1c`. Pendências anteriores permanecem.
+
+eu:
+Eu corro abaixado usando os barris como proteção até o que está caído, e cravo a espada na outra perna dele para garantir que não vai fugir, e já pego a daga de novo e a caixa no chão, e me preparo para lugar contra o da besta
+
+chatgpt:
+Eron abaixa o corpo e dispara pelo corredor, aproveitando os barris e as prateleiras como cobertura. O homem de cabelos claros acompanha seu movimento com a besta, procurando uma abertura entre os obstáculos.
+
+O fugitivo ferido vê Eron se aproximar e tenta se arrastar para trás. A caixa de madeira escura está caída ao alcance dele, mas sua atenção se volta imediatamente para a espada na mão de Eron.
+
+— Não! Espera! — grita, erguendo um braço para se proteger.
+
+Eron alcança o homem caído. Para cravar a espada na outra perna, será necessário um ataque corpo a corpo. Como o fugitivo está caído, Eron tem vantagem no ataque a até 1,5 metro.
+
+A caixa e a adaga poderão ser recuperadas depois do golpe, conforme o tempo e as ações disponíveis. O homem da besta continua sendo uma ameaça imediata.
+
+Ataque com espada curta — vantagem
+
+2d20kh1 + 4 contra o fugitivo caído
+
+d20d20Toque para rolar
+
+Maior dado +4
+
+# —
+
+Enviar resultado ao Mestre
+
+[LOG DE MEMÓRIA DA CAMPANHA]
+
+- Localização Atual: Junto ao fugitivo caído, no corredor do depósito.
+- NPCs Presentes e Relação: Fugitivo ferido; homem hostil com besta junto à escada; Varen no beco.
+- Linha de Missão Ativa: Impedir a fuga e recuperar a caixa.
+- Eventos Cruciais Ocorridos: Eron avançou até o fugitivo usando cobertura. Ataque com espada pendente.
+- Condições do Jogador: 8/11 PV; CA 13; espada em mãos; adaga ainda na perna do fugitivo; caixa no chão.
+
+Registro confirmado no GitHub. Commit `7374f2a`. Pendências anteriores permanecem.
+
+eu:
+Ataque com espada curta e vantagem: 2d20kh1 [6, 20] → 20 + 4 = 24. Eron tenta atingir a outra perna do fugitivo caído.
+
+chatgpt:
+Acerto crítico! 20 natural.
+
+Ataque com espada curta: 2d20kh1 → [6, 20] → 20 + 4 = 24.
+
+Dano crítico: 2d6 → [3, 4] + 2 de Destreza = 9 pontos de dano perfurante. Rolagem executada em Python com `secrets.randbelow()`.
+
+Eron alcança o fugitivo caído e desfere uma estocada precisa contra a perna ainda intacta. A lâmina atravessa o tecido e penetra profundamente na coxa. O homem grita, contrai o corpo e tenta se afastar, mas suas pernas já não lhe oferecem apoio.
+
+— AAAAAH! PARE! EU NÃO VOU FUGIR!
+
+O homem deixa de tentar alcançar a caixa. Está gravemente ferido, consciente por enquanto e incapaz de se levantar sem ajuda. Isso não garante que sobreviverá sem atendimento.
+
+Eron ainda precisa recuperar a adaga cravada na primeira perna e apanhar a caixa, que está ao alcance de sua mão.
+
+Então, junto à escada, ouve-se o estalo seco do mecanismo de uma besta.
+
+O homem de cabelos claros mantém a arma apontada na direção de Eron, mas os barris entre eles dificultam a linha de tiro.
+
+— Afaste-se dele! — ordena, com a voz trêmula.
+
+Ele ainda não disparou.
+
+[LOG DE MEMÓRIA DA CAMPANHA]
+
+- Localização Atual: Corredor do depósito do curtidor, Caldria.
+- NPCs Presentes e Relação: Fugitivo gravemente ferido aos pés de Eron; homem hostil armado com besta junto à escada; Varen no beco.
+- Linha de Missão Ativa: Recuperar a caixa e impedir que os suspeitos alertem Marek.
+- Eventos Cruciais Ocorridos: Segundo acerto crítico de Eron contra o fugitivo. Dano de 9 pontos na outra perna. O besteiro exige que Eron se afaste.
+- Condições do Jogador: 8/11 PV; CA 13; 19 flechas; espada curta em mãos; adaga cravada na perna do fugitivo; caixa ao alcance.
+
+Transcrição confirmada no GitHub. Commit `836d12a`. Pendências anteriores permanecem.
+
+eu:
+Ah cale a boca e abaixe isso enquanto eu estou pensando em te deixar vivo
+Enquanto isso pego a adaga e a caixa
+(Cadê o Varen, ele já está demorando)
+
+chatgpt:
+— Ah, cale a boca e abaixe isso enquanto ainda estou pensando em te deixar vivo!
+
+A voz de Eron ecoa entre os barris e as vigas do depósito.
+
+O besteiro mantém a arma erguida por mais um instante. Seus olhos passam da espada ensanguentada ao companheiro caído, que geme junto à porta. Então ele hesita e abaixa lentamente a ponta da besta, sem soltá-la.
+
+— Está bem... Está bem. Só não se aproxime.
+
+Eron se agacha, arranca a adaga da perna do fugitivo e recolhe a pequena caixa de madeira escura. O homem solta outro grito, mas não tenta resistir. A caixa é pesada para seu tamanho, tem duas tiras de couro apertadas em volta e não apresenta fechadura visível. Algo sólido se desloca discretamente em seu interior quando Eron a levanta.
+
+Do lado de fora, um estrondo interrompe o silêncio: madeira quebrando, seguido por passos arrastados.
+
+— ERON! — A voz de Varen vem do beco. — O DESGRAÇADO TENTOU FUGIR!
+
+Ouvem-se mais alguns passos, depois Varen aparece na porta de serviço, respirando com dificuldade. Há sangue na manga de seu casaco e sua espada está desembainhada.
+
+Ele observa o fugitivo no chão, a caixa nas mãos de Eron e o homem com a besta.
+
+— Pelos deuses... Você encontrou mais companhia.
+
+Varen permanece junto à entrada, atento ao besteiro.
+
+— O homem do casaco marrom está vivo. Amarrei os pulsos dele, mas não consegui amordaçá-lo ainda. Está caído atrás dos caixotes, no beco. O outro, aquele que você atingiu na garganta, parou de se mexer.
+
+O besteiro olha para Varen e aperta a arma com as duas mãos, embora continue apontando-a para baixo.
+
+— Vocês não entendem — murmura. — Aquilo não pode sair daqui.
+
+Seus olhos estão fixos na caixa que Eron segura.
+
+[LOG DE MEMÓRIA DA CAMPANHA]
+
+- Localização Atual: Depósito do curtidor, Caldria.
+- NPCs Presentes e Relação: Varen, aliado; besteiro armado e hesitante; fugitivo gravemente ferido. Dois vigias permanecem no beco.
+- Linha de Missão Ativa: Investigar os suspeitos e a caixa recuperada.
+- Eventos Cruciais Ocorridos: Eron recuperou a adaga e a caixa. Varen retornou, informando que amarrou o vigia de casaco marrom. O besteiro afirmou que a caixa não pode sair do edifício.
+- Condições do Jogador: 8/11 PV; CA 13; 19 flechas; espada e adaga recuperadas; caixa em mãos.
+
+Transcrição confirmada no GitHub. Commit `20955d8`. Pendências anteriores permanecem.
+
+eu:
+- Bem temos duas opções vocês nos contam oque tem na caixa, nós tratamos este aqui e vejo se o outro está vivo, e você sai ileso, claro vamos te amarrar e prender, mas vai sair vivo e a gente sai com a caixa, ou, não nos contam e matamos todos vocês de maneiras bem criativas e saímos daqui com a caixa igual, se escolher a primeira largue a besta, se demorar para larga lá eu vou entender que é a segunda.
+Faço isso puxando o arco e ajeitando uma flecha nele.
+- Hoje estou a fim de brincar de tiro ao alvo
+
+chatgpt:
+Eron coloca a caixa junto de si e, sem tirar os olhos do besteiro, guarda a espada, empunha o arco e encaixa uma flecha na corda.
+
+— Bem, temos duas opções...
+
+A voz de Eron atravessa o depósito enquanto ele apresenta as condições: colaboração, tratamento dos feridos e prisão, ou morte para todos. Quando termina, ergue ligeiramente o arco.
+
+— Hoje estou a fim de brincar de tiro ao alvo.
+
+O homem de cabelos claros olha para a ponta da flecha. Depois, para Varen, que permanece próximo à entrada com a espada desembainhada. Seus dedos apertam a coronha da besta.
+
+— Espere... — ele murmura.
+
+A besta começa a baixar.
+
+— Não dispare!
+
+Ele se agacha devagar e deposita a arma sobre as tábuas, à frente dos próprios pés. Em seguida, levanta as mãos abertas.
+
+— Pronto. Está no chão.
+
+Varen avança dois passos, recolhe a besta e a afasta do alcance do homem.
+
+— Agora fale — exige.
+
+O besteiro engole em seco.
+
+— Não sei tudo o que há nessa caixa. Fui contratado para impedir que ela saísse daqui antes da transferência. Disseram que era uma peça de uma máquina antiga... que precisava ser entregue inteira.
+
+O homem ferido junto à porta solta um gemido.
+
+— Cale a boca, Neris... — murmura ele.
+
+Varen volta a espada na direção do homem caído.
+
+— Não parece que você esteja em posição de dar ordens.
+
+O besteiro, agora identificado como Neris, continua:
+
+— O sujeito que trouxe a caixa disse que ela não podia ficar perto de outra peça de bronze. Falou de anéis, de um eixo... Não entendi. Mas ontem ouvi uma discussão. Um dos homens disse que Marek estava apressando a entrega e que alguém poderia morrer se montassem aquilo antes da hora.
+
+Neris olha novamente para a caixa.
+
+— Eu não sei se era verdade. Só sei que não quero morrer por causa dela.
+
+O silêncio que se segue é quebrado pela respiração difícil do homem ferido. Varen olha para Eron.
+
+— Ele largou a arma. Posso amarrá-lo. Mas, se pretende cumprir sua parte do acordo, precisamos cuidar daquele homem logo.
+
+O besteiro mantém as mãos erguidas. Ainda parece assustado, mas não tenta resistir.
+
+[LOG DE MEMÓRIA DA CAMPANHA]
+
+- Localização Atual: Depósito do curtidor, Caldria.
+- NPCs Presentes e Relação: Varen, aliado; Neris, besteiro rendido; fugitivo gravemente ferido; dois vigias no beco.
+- Linha de Missão Ativa: Investigar a caixa e sua possível ligação com o mecanismo de Velkan e Marek.
+- Eventos Cruciais Ocorridos: Neris largou a besta e revelou informações sobre uma máquina antiga, peças de bronze e uma entrega apressada por Marek.
+- Condições do Jogador: 8/11 PV; CA 13; arco preparado com uma flecha; 19 flechas ainda no inventário, uma delas encaixada; caixa recuperada.
+
+O GitHub bloqueou esta tentativa de gravação. A transcrição desta interação permanece pendente de sincronização; não houve commit confirmado.
+
+eu:
+-Primeiro amarre ele depois vamos fazer um torniquete nesse, mas antes quero que ele me diga onde conseguiu está caixa, vocês pegaram do Velkan?
+E aponto a flecha para o braço dele
+- você já vai estar manco, quer ficar cotoco?
+
+chatgpt:
+— Primeiro amarre ele. Depois vamos fazer um torniquete nesse. Mas antes quero saber onde conseguiu esta caixa. Vocês pegaram do Velkan?
+
+A ponta da flecha desce lentamente até se alinhar com o braço do homem caído.
+
+— Você já vai estar manco. Quer ficar cotoco?
+
+O fugitivo empalidece. Tenta recuar, mas a dor nas duas pernas o impede. Sua respiração se acelera.
+
+— Não! Não fomos nós! — responde, quase engasgando. — Eu nunca entrei na oficina desse Velkan!
+
+Varen conduz Neris até uma das vigas do depósito, obriga-o a se ajoelhar e começa a amarrar seus pulsos atrás das costas. Neris não oferece resistência, mas observa o companheiro ferido com crescente inquietação.
+
+— Então de onde veio? — pergunta Varen, apertando o nó.
+
+O homem no chão engole em seco.
+
+— Trouxeram ontem à noite. Um carroceiro deixou a caixa pela entrada dos fundos. Eu só devia guardá-la até receberem ordens para levar tudo ao armazém dos Oleiros.
+
+Ele olha para a flecha.
+
+— Disseram que vinha de uma oficina perto do mercado... mas não sei se era a de Velkan. Juro! Não vi quem colocou aquilo lá dentro!
+
+Neris ergue a cabeça.
+
+— Foi o homem de luvas pretas que deu as ordens — acrescenta, hesitante. — Não Marek. Marek estava lá, mas não parecia mandar nele.
+
+Varen interrompe o movimento das mãos por um instante.
+
+— Luvas pretas?
+
+— Sim. E uma capa escura. Não vi direito o rosto.
+
+O homem ferido geme novamente. O sangue continua escurecendo o tecido de suas calças. Varen termina de prender Neris à viga, testa as amarras e se volta para Eron.
+
+— Está preso. Mas precisamos estancar esse sangramento agora. Se demorarmos mais, talvez ele não consiga responder a nenhuma outra pergunta.
+
+A flecha de Eron continua apontada para o braço do prisioneiro. A caixa permanece ao alcance, no chão ao lado dele.
+
+[LOG DE MEMÓRIA DA CAMPANHA]
+
+- Localização Atual: Depósito do curtidor, Caldria.
+- NPCs Presentes e Relação: Varen, aliado; Neris, rendido e amarrado; fugitivo gravemente ferido.
+- Linha de Missão Ativa: Descobrir a origem da caixa e sua ligação com Marek, Velkan e o armazém dos Oleiros.
+- Eventos Cruciais Ocorridos: O fugitivo afirmou que a caixa chegou ontem por um carroceiro. Neris mencionou um homem de luvas pretas que aparentemente dava ordens a Marek. São depoimentos ainda não verificados.
+- Condições do Jogador: 8/11 PV; CA 13; arco com flecha preparada; caixa recuperada e próxima de Eron.
+
+O GitHub voltou a bloquear a gravação. Esta interação e a anterior permanecem pendentes de sincronização; nenhum novo commit foi confirmado.
+
+eu:
+Vamos parar este sangramento me ajuda aqui, e faço um torniquete joguei os dados para mim
+
+chatgpt:
+— Vamos parar esse sangramento. Me ajuda aqui!
+
+Varen se ajoelha ao lado de Eron, arranca uma faixa de tecido resistente de um saco próximo e ajuda a improvisar um torniquete acima do ferimento mais grave.
+
+— Segure firme. Vou apertar — diz Varen.
+
+O homem ferido solta um grito quando a pressão aumenta. O sangue já encharcou parte das tábuas.
+
+Teste de Sabedoria (Medicina)
+
+# 17
+
+1d20 → [15] + 2 = 17
+
+Rolagem real executada com Python e `secrets.randbelow()`.
+
+Eron ajusta a faixa enquanto Varen mantém a pressão sobre o ferimento. Depois de alguns instantes tensos, o sangramento diminui consideravelmente.
+
+— Está funcionando — observa Varen. — Mas ele precisa de um cirurgião. E depressa.
+
+O fugitivo está pálido, suando e respirando com dificuldade. Continua consciente, embora enfraquecido. O torniquete controla a hemorragia por enquanto; não recupera seus pontos de vida nem resolve os ferimentos nas pernas.
+
+Neris, ainda amarrado à viga, observa em silêncio. Quando percebe que Eron realmente está tentando salvar o companheiro, abaixa a cabeça.
+
+— Obrigado... — murmura.
+
+Varen olha para a entrada do depósito.
+
+— Ainda temos dois homens lá fora, um deles em estado muito pior. Se quisermos levar todos vivos à guarda, precisamos chamar ajuda.
+
+[LOG DE MEMÓRIA DA CAMPANHA]
+
+- Localização Atual: Depósito do curtidor, Caldria.
+- NPCs Presentes e Relação: Varen, aliado; Neris, prisioneiro amarrado; fugitivo gravemente ferido.
+- Linha de Missão Ativa: Investigar a caixa e providenciar a custódia dos suspeitos.
+- Eventos Cruciais Ocorridos: Eron obteve 17 em Medicina e, com a ajuda de Varen, conseguiu controlar temporariamente a hemorragia do fugitivo.
+- Condições do Jogador: 8/11 PV; CA 13; caixa recuperada; nenhuma nova lesão.
+
+O GitHub bloqueou novamente a gravação. Esta interação e as duas anteriores continuam pendentes. Mantive uma cópia local desta interação, ainda sem commit confirmado.
+
+eu:
+- Vamos trazer o outro que está amarrado lá fora para cá, e vamos prendelo aqui, e garantir que não vão fugir, vamos ver se eles não tem algo para se soltar, garantir que não vão fugir amordaça Los, e vamos para a oficina do Velkan com está caixa, lembra que não pode ter cobre em volta se tivermos sorte (o nome do cirurgião) ainda vai estar lá.
+Mas vamos fazer isso rápido
+
+chatgpt:
+— Vamos trazer o outro que está amarrado lá fora para cá. Revistem todos, tirem qualquer coisa que possam usar para se soltar e amordacem os prisioneiros. Depois vamos à oficina de Velkan com esta caixa. Lembra que não podemos aproximá-la daquela peça de bronze. Com sorte, o cirurgião ainda estará lá. Mas temos de ser rápidos!
+
+Varen assente imediatamente.
+
+— Orsik. O nome do médico é Orsik. Se ainda estiver com o sargento Haldren, poderá nos ajudar.
+
+Ele recolhe a besta de Neris e a coloca longe dos prisioneiros. Em seguida, verifica suas amarras e revista suas roupas, encontrando uma pequena faca escondida na bota. Confisca a arma e amordaça o homem com uma tira de tecido.
+
+— Não tente nenhuma estupidez — adverte.
+
+Varen sai para o beco e retorna pouco depois arrastando o vigia de casaco marrom, que caminha com dificuldade. O homem tem o rosto machucado, mas está consciente. Varen o faz sentar junto à viga, verifica suas roupas e botas e reforça as amarras antes de amordaçá-lo.
+
+O fugitivo de avental continua deitado, com as duas pernas feridas. Varen evita movê-lo desnecessariamente. Com a ajuda de Eron, prende seus pulsos e retira uma pequena lâmina encontrada sob o avental. O homem não resiste.
+
+Durante a revista, nenhum dos três apresenta outra arma aparente. Varen testa os nós e examina os pontos de fixação, mas não há como garantir que permaneçam presos indefinidamente sem vigilância.
+
+Ao voltar à porta do beco, Varen se agacha junto ao vigia que Eron atingiu na garganta. Examina-o por alguns instantes e retorna com a expressão fechada.
+
+— Está morto, Eron. Não há nada que Orsik possa fazer por ele.
+
+O depósito fica silencioso.
+
+Varen olha para o homem ferido no chão e depois para a caixa.
+
+— Os três estão presos, mas deixar aquele homem sangrando aqui pode custar a vida dele. E não sabemos quanto tempo levará até alguém encontrar este lugar.
+
+Ele aponta para a caixa de madeira escura.
+
+— Quanto a isso, Neris falou de bronze, não especificamente de cobre. Melhor manter a caixa fechada e afastada do mecanismo de Velkan até entendermos o risco.
+
+Do lado de fora, a rua parece tranquila. A oficina de Velkan fica a uma curta caminhada, mas os prisioneiros permaneceriam sem guarda caso ambos partissem.
+
+[LOG DE MEMÓRIA DA CAMPANHA]
+
+- Localização Atual: Depósito do curtidor, Caldria.
+- NPCs Presentes e Relação: Varen, aliado; Neris, vigia de casaco marrom e fugitivo ferido, todos presos; vigia alto morto no beco.
+- Linha de Missão Ativa: Levar a caixa a Velkan, localizar Orsik e informar Haldren sobre os prisioneiros.
+- Eventos Cruciais Ocorridos: Três suspeitos foram revistados, desarmados, amarrados e amordaçados. Confirmada a morte do vigia atingido na garganta.
+- Condições do Jogador: 8/11 PV; CA 13; 19 flechas; caixa de madeira escura sob sua custódia.
+
+A gravação no GitHub foi novamente bloqueada. Esta interação e as três anteriores permanecem pendentes de sincronização.
+
+eu:
+Vamos logo, antes que o outro morra, não quero Harlem dizendo que fiz uma chacina na cidade dele
+
+chatgpt:
+— Vamos logo, antes que o outro morra. Não quero Haldren dizendo que fiz uma chacina na cidade dele.
+
+Varen solta uma risada curta, sem humor.
+
+— Um morto, três prisioneiros e sangue espalhado por um curtume inteiro... Eu diria que já teremos bastante coisa para explicar ao sargento. Vamos.
+
+Ele lança um último olhar aos três homens amarrados. Neris acompanha os movimentos dos dois com os olhos; o homem ferido permanece deitado, pálido, com a respiração curta. Varen fecha a porta de serviço ao sair, mas não a tranca.
+
+Vocês seguem apressadamente pelas ruas de Caldria. O crepúsculo cobre os telhados, e as primeiras lanternas começam a aparecer diante das lojas. Varen caminha ao lado de Eron, atento aos cruzamentos. A caixa escura permanece fechada, longe de qualquer outra peça do mecanismo.
+
+Quando chegam à oficina de Mestre Velkan, encontram luz nas janelas. A porta da frente está fechada, mas há vozes lá dentro.
+
+Varen bate com força.
+
+— Haldren! Abra! Temos feridos e precisamos de Orsik!
+
+O som de uma cadeira arrastando-se precede passos rápidos. A porta se abre parcialmente, revelando Maela, uma das patrulheiras. Ela reconhece Eron e Varen, observa a caixa e franze a testa.
+
+— O sargento ainda está aqui. Entrem.
+
+No interior, Haldren se ergue de uma mesa coberta de anotações. Velkan está junto à bancada, e Orsik, o médico que havia tratado o braço de Eron, fecha sua bolsa de instrumentos ao ouvir a notícia.
+
+— Feridos? Quantos? — pergunta Orsik imediatamente.
+
+Haldren, porém, fixa os olhos na caixa.
+
+— Eron... o que aconteceu desta vez?
+
+Varen responde antes que o sargento prossiga:
+
+— Três homens capturados no curtume. Um gravemente ferido, dois amarrados. Há também um morto. Precisamos mandar homens para lá agora.
+
+O rosto de Haldren endurece.
+
+— Maela, chame Iven e mais dois guardas. Orsik, vá com eles.
+
+O médico já recolhe sua bolsa.
+
+— Quero saber exatamente onde está o ferido e o que fizeram para conter o sangramento — exige, dirigindo-se a Eron enquanto ajusta a alça no ombro.
+
+Haldren permanece diante da mesa, esperando uma explicação. Velkan observa a caixa, mas não se aproxima dela.
+
+[LOG DE MEMÓRIA DA CAMPANHA]
+
+- Localização Atual: Oficina de Mestre Velkan, Caldria.
+- NPCs Presentes e Relação: Varen, aliado; Haldren, sargento da guarda; Velkan, artesão; Orsik, médico; Maela, patrulheira.
+- Linha de Missão Ativa: Investigar a caixa e a ligação com o armazém dos Oleiros; socorrer os prisioneiros.
+- Eventos Cruciais Ocorridos: Eron e Varen chegaram à oficina. Haldren ordenou o envio de guardas e do médico ao curtume.
+- Condições do Jogador: 8/11 PV; CA 13; 19 flechas; caixa recuperada sob sua custódia.
+
+Esta interação foi registrada no GitHub. Commit `46b2f12`. Quatro interações anteriores continuam pendentes de sincronização.
+
+eu:
+(Varen conhecia o sargento e maela conhecia Varen) e a caixa estava comigo correto?
+
+chatgpt:
+Sim, a caixa estava com Eron. Você a recolheu do chão do depósito depois de recuperar a adaga e a manteve sob sua custódia durante o trajeto até a oficina de Velkan. Em nenhum momento a entregou a Varen, Haldren ou Velkan.
+
+Quanto aos conhecidos, precisamos distinguir duas coisas:
+
+- Maela conhecia Varen: na cena anterior, ela reconheceu os dois quando abriu a porta. Portanto, isso já está estabelecido na narração.
+- Varen conhecia Haldren: Varen o chamou pelo nome ao bater na porta, demonstrando familiaridade com sua identidade. Entretanto, ainda não foi estabelecido como se conheceram nem qual é a relação entre eles.
+
+Não vou inventar uma história anterior para essa relação nem revelar informações que Eron ainda não descobriu.
+
+A cena permanece na oficina, com a caixa em poder de Eron, Haldren aguardando explicações e Orsik prestes a partir para socorrer o ferido.
+
+[LOG DE MEMÓRIA DA CAMPANHA]
+
+- Localização Atual: Oficina de Velkan, Caldria.
+- NPCs Presentes e Relação: Varen, aliado; Haldren, sargento; Maela, patrulheira; Velkan, artesão; Orsik, médico.
+- Linha de Missão Ativa: Investigar a caixa e socorrer os prisioneiros do curtume.
+- Eventos Cruciais Ocorridos: Confirmada a posse da caixa por Eron. Reconhecimento prévio entre Maela e Varen; natureza da relação entre Varen e Haldren ainda desconhecida.
+- Condições do Jogador: 8/11 PV; CA 13; caixa sob sua custódia.
+
+Registro confirmado no GitHub. Commit `0d29ca9`. Quatro interações anteriores ainda pendentes.
+
+eu:
+Ele está com dois cortes na perna fiz um torniquete para conter o sangramento, se acalme sargento, eu matava ou morria, e o da perna eu não podia deixar escapar
+
+chatgpt:
+— Ele está com dois cortes na perna. Fiz um torniquete para conter o sangramento. Se acalme, sargento. Eu matava ou morria, e o da perna eu não podia deixar escapar.
+
+Orsik escuta atentamente, já com a bolsa de instrumentos sobre o ombro.
+
+— Duas perfurações, uma em cada perna? — pergunta, franzindo a testa. — Preciso ver esse homem imediatamente. Se o torniquete está segurando a hemorragia, não o afrouxem até eu avaliar o ferimento.
+
+Ele se volta para Maela.
+
+— Vamos. E tragam uma maca.
+
+A patrulheira parte com o médico, enquanto Haldren permanece diante de Eron. O sargento apoia as mãos na mesa, respira fundo e responde num tom controlado:
+
+— Não estou dizendo que deveria ter se deixado matar, Eron. Mas quatro homens caídos, um deles morto, exigem explicações. É minha obrigação investigar o que aconteceu, inclusive quando quem empunhou a espada está trabalhando comigo.
+
+Varen cruza os braços.
+
+— Eu estava lá, sargento. O primeiro homem foi atingido quando alguém apareceu pela porta. O segundo tentou escapar. Dentro do depósito havia mais dois, um deles armado com uma besta. Não foi uma briga de taverna.
+
+Haldren encara Varen por alguns instantes.
+
+— Então também quero seu depoimento. Separadamente.
+
+— Como preferir — responde Varen.
+
+O sargento volta a atenção para Eron.
+
+— Se os homens representavam uma ameaça e você agiu para impedir uma fuga, examinaremos os fatos. Mas quero saber quem eram, por que estavam ali e o que pretendiam.
+
+Nesse momento, Velkan, que permanecia calado junto à bancada, aponta discretamente para a caixa nas mãos de Eron.
+
+— Sargento... antes de qualquer coisa, seria prudente não colocar aquilo perto do meu armário.
+
+Haldren acompanha o gesto e estreita os olhos.
+
+— O que há nessa caixa, Eron?
+
+[LOG DE MEMÓRIA DA CAMPANHA]
+
+- Localização Atual: Oficina de Mestre Velkan, Caldria.
+- NPCs Presentes e Relação: Haldren, sargento cauteloso; Varen, aliado e testemunha; Velkan, artesão. Orsik e Maela partiram para socorrer os prisioneiros.
+- Linha de Missão Ativa: Investigar a caixa, esclarecer o confronto no curtume e descobrir a ligação com Marek.
+- Eventos Cruciais Ocorridos: Eron explicou os ferimentos do prisioneiro e justificou suas ações. Haldren exigiu esclarecimentos; Velkan alertou sobre a proximidade da caixa com seu armário.
+- Condições do Jogador: 8/11 PV; CA 13; 19 flechas; caixa ainda em seu poder.
+
+O GitHub bloqueou a gravação desta interação. Ela permanece pendente, juntamente com quatro interações anteriores.
+
+eu:
+Eu não sei, mas foi dito para não ficar perto de bronze, você pode identificar?
+E vem cá como você conhece Varen e visse versa?
+
+chatgpt:
+A oficina fica em silêncio por um instante.
+
+— Eu não sei o que tem aqui — diz Eron, mantendo a caixa consigo. — Mas me disseram que não podia ficar perto de bronze. Velkan, você consegue identificar?
+
+O artesão deixa a bancada e se aproxima apenas o suficiente para examinar o objeto, sem tocá-lo.
+
+— Talvez. Mas não aqui, ao lado do armário. Se o aviso for verdadeiro, não pretendo descobrir suas consequências por acidente.
+
+Velkan aponta para uma mesa vazia, afastada das ferramentas e do armário onde está guardado o mecanismo de bronze.
+
+— Coloque-a ali quando quiser. Primeiro examinarei a madeira, as correias e qualquer marca externa. Não vou abri-la antes de saber se existe algum mecanismo de proteção.
+
+Então Eron volta os olhos para Haldren e Varen.
+
+— E venham cá... como vocês se conhecem? E vice-versa?
+
+Haldren ergue uma sobrancelha. Varen, até então encostado junto à porta, descruza os braços.
+
+— Conhecer é uma palavra um tanto generosa — responde o sargento. — Já tivemos assuntos em comum.
+
+— E opiniões diferentes sobre como resolvê-los — acrescenta Varen.
+
+Haldren lança-lhe um olhar seco.
+
+— Você apareceu em Caldria há alguns meses, fez perguntas sobre pessoas que eu também investigava e mostrou informações que não explicou de onde vieram.
+
+— Informações corretas — observa Varen.
+
+— Nem todas — rebate o sargento.
+
+Varen esboça um sorriso discreto, mas não insiste.
+
+— Digamos que Haldren já me ajudou a evitar problemas. E que, em outra ocasião, eu o ajudei a encontrar alguém que procurava.
+
+— Isso não responde quem você é — diz Haldren.
+
+— E você nunca gostou das minhas respostas.
+
+O sargento volta-se para Eron.
+
+— Sei que ele tem contatos e que sabe investigar. Não sei para quem trabalha atualmente. Se está acompanhando você, recomendo que faça suas próprias perguntas.
+
+Varen não demonstra surpresa. Apenas olha para Eron.
+
+— Parece que temos mais de uma coisa a esclarecer esta noite.
+
+Do outro lado da oficina, Velkan aguarda, observando a caixa ainda nas mãos de Eron.
+
+[LOG DE MEMÓRIA DA CAMPANHA]
+
+- Localização Atual: Oficina de Mestre Velkan, Caldria.
+- NPCs Presentes e Relação: Haldren, sargento; Varen, aliado de identidade ainda parcialmente desconhecida; Velkan, artesão.
+- Linha de Missão Ativa: Identificar a caixa e investigar a ligação entre Marek, o mecanismo de bronze e o armazém dos Oleiros.
+- Eventos Cruciais Ocorridos: Velkan propôs examinar a caixa longe do mecanismo. Haldren confirmou que conhece Varen de investigações anteriores, mas desconhece seu empregador atual.
+- Condições do Jogador: 8/11 PV; CA 13; 19 flechas; caixa ainda nas mãos de Eron.
+
+Interação registrada no GitHub. Commit `4d1bad5`. Cinco interações anteriores permanecem pendentes de sincronização.
+
+eu:
+Eu entrego a caixa para o Velkan e pergunto se está pronta a imitação.
+
+Olho para Varen, e digo agora se identifique, e sei que não é militar, não pelo fiasco que fez naquele beco, e você já matou alguém antes?
+
+chatgpt:
+Velkan observa a caixa nas mãos de Eron e indica a mesa afastada do armário.
+
+— Aqui, por favor. E mantenham as ferramentas de bronze longe dela.
+
+Quando Eron lhe entrega a caixa, o artesão a recebe cuidadosamente, apoiando-a sobre a madeira. Sem desfazer as correias, examina as junções da tampa e passa os dedos pelas marcas nas laterais.
+
+— Quanto à imitação, sim. Terminei há pouco.
+
+Ele aponta para uma pequena bolsa de couro sobre a bancada.
+
+— Está ali, envolvida em tecido e pronta para ser levada. Reproduzi as dimensões, o peso e os detalhes externos que consegui observar. Mas não posso garantir que engane alguém que conheça o funcionamento da peça original.
+
+Velkan volta a atenção para a caixa.
+
+— Esta, porém, é outra questão. Antes de abri-la, quero ter certeza de que não há nenhum dispositivo escondido nas correias.
+
+Eron então se vira para Varen.
+
+— Agora se identifique. E sei que não é militar, não pelo fiasco que fez naquele beco. E você já matou alguém antes?
+
+Haldren ergue ligeiramente a cabeça. Varen, por sua vez, olha para Eron durante alguns segundos antes de responder.
+
+— O fiasco no beco? — Ele solta uma risada seca. — Justo. Aquele desgraçado me escapou das mãos. Não foi meu melhor momento.
+
+O sorriso desaparece.
+
+— Meu nome é Varen. Quanto a ser militar, você acertou. Não sirvo a nenhum exército.
+
+Ele se afasta da porta e apoia uma mão no encosto de uma cadeira.
+
+— Já trabalhei como investigador particular, escolta e intermediário. Às vezes para mercadores. Outras vezes para pessoas que preferiam não aparecer nos registros.
+
+Haldren observa-o em silêncio.
+
+— E sim, Eron. Já matei.
+
+Varen não desvia o olhar.
+
+— Mais de uma vez. Algumas em defesa própria. Outras porque alguém pagou para que eu estivesse num lugar perigoso. Não me orgulho de todas.
+
+O sargento cruza os braços.
+
+— Essa última parte é novidade.
+
+— Você nunca perguntou — responde Varen.
+
+Haldren estreita os olhos.
+
+— Perguntei muitas coisas. Você é que escolhe quais responder.
+
+Varen ignora a provocação e continua olhando para Eron.
+
+— Mas, se está tentando descobrir se sou um assassino contratado para vigiar você, a resposta é não. Não recebi dinheiro para segui-lo nem para protegê-lo. Estou atrás de Marek por motivos meus.
+
+Ele faz uma pausa.
+
+— E ainda não confio em você o bastante para contar todos eles.
+
+Atrás dos dois, Velkan interrompe brevemente seu exame da caixa.
+
+— Senhores... se terminaram de discutir quem matou quem, talvez queiram prestar atenção nisto.
+
+O artesão aponta para uma pequena marca entalhada sob uma das correias. Três linhas convergem para um círculo.
+
+— É o mesmo símbolo da peça que guardei.
+
+Ele não abre a caixa.
+
+[LOG DE MEMÓRIA DA CAMPANHA]
+
+- Localização Atual: Oficina de Mestre Velkan, Caldria.
+- NPCs Presentes e Relação: Velkan, artesão; Haldren, sargento; Varen, aliado de passado parcialmente desconhecido.
+- Linha de Missão Ativa: Investigar a caixa e preparar a operação no armazém dos Oleiros.
+- Eventos Cruciais Ocorridos: Eron entregou a caixa a Velkan. A réplica do mecanismo está pronta, mas ainda sobre a bancada. Varen revelou parte de seu passado e confirmou já ter matado. Velkan identificou na caixa o símbolo das três linhas convergentes.
+- Condições do Jogador: 8/11 PV; CA 13; 19 flechas; caixa sob os cuidados de Velkan.
+
+Registro confirmado no GitHub. Commit `978dd58`. Cinco interações anteriores permanecem pendentes de sincronização.
+
+eu:
+Bem temos que saber oque tem aí, faça o seu melhor.
+
+Velkan não perguntamos quem levaria para os do armazém o horário de entrega ou pegaria.
+
+E haldren temos quanto tempo até o encontro, depois vocês né explicando melhor essa história de se conhecerem, estamos sem tempo, e haldren posso confiar nele para ne apoiar hoje?
+
+chatgpt:
+Velkan inclina a cabeça diante da caixa de madeira escura.
+
+— Farei o possível, Eron. Mas não vou abrir algo desconhecido às pressas, sobretudo depois desse aviso sobre o bronze.
+
+Ele pega uma lente de aumento e aproxima uma lamparina, mantendo a chama a uma distância segura. Começa a examinar as correias, os encaixes e o símbolo entalhado na madeira.
+
+— Quanto à entrega, não. Você não me disse quem viria buscá-la, e eu não conheço o responsável. Se está falando do armazém dos Oleiros, precisamos distinguir o que sabemos do que estamos supondo.
+
+Haldren abre o mapa sobre a mesa.
+
+— A entrega está marcada para o terceiro toque do sino depois do anoitecer. A senha que recuperamos é: “A roda continua girando?” E a resposta: “Enquanto o eixo permanecer inteiro.”
+
+Ele aponta para a entrada dos fundos do armazém.
+
+— Pelo depoimento de Darric, é ali que esperam receber a peça. Mas não sabemos quem fará a entrega nem quem estará esperando. Era justamente isso que pretendíamos descobrir antes de executar a operação.
+
+O sargento olha para a janela, onde o último clarão do crepúsculo desaparece entre os telhados.
+
+— Ainda não ouvimos o primeiro toque noturno. Temos algum tempo, mas não o suficiente para desperdiçar. Preciso que Maela e Iven retornem do curtume ou que outros homens assumam suas posições antes de avançarmos.
+
+Quando Eron pergunta se pode confiar em Varen, o sargento demora um instante a responder.
+
+— Para apoiá-lo numa luta? Sim, acredito que ele não o abandonará deliberadamente. Já o vi enfrentar situações perigosas e cumprir compromissos. Um erro naquele beco não apaga isso.
+
+Varen ergue uma sobrancelha, mas permanece calado.
+
+— Agora, confiar nele com informações que possam comprometer toda a operação? — continua Haldren. — Isso é diferente. Ele ainda não explicou quem o enviou atrás de Marek, e eu não colocaria todos os meus homens sob suas ordens.
+
+Varen finalmente intervém:
+
+— Não pedi para comandar ninguém. Quero impedir que Marek entregue aquela máquina a quem está esperando por ela.
+
+— Então começará seguindo minhas instruções — responde Haldren.
+
+— Desde que sejam sensatas.
+
+O sargento lança-lhe um olhar cansado.
+
+Nesse momento, Velkan interrompe o exame da caixa.
+
+— Encontrei algo.
+
+Ele aponta para uma das tiras de couro.
+
+— A correia não está simplesmente amarrada. Há um pequeno pino metálico preso sob ela. Pode ser parte do fecho... ou pode acionar alguma coisa quando a correia for retirada. Ainda não consigo determinar.
+
+O artesão afasta cuidadosamente as mãos.
+
+— Não vou puxá-lo sem antes examinar o mecanismo. Se quiserem descobrir o conteúdo, precisarei de alguns minutos e de alguém que saiba lidar com fechaduras e armadilhas delicadas.
+
+Haldren olha para Eron.
+
+— Você tem ferramentas de ladrão, não tem?
+
+[LOG DE MEMÓRIA DA CAMPANHA]
+
+- Localização Atual: Oficina de Mestre Velkan, Caldria.
+- NPCs Presentes e Relação: Haldren, sargento; Varen, aliado sob reserva; Velkan, artesão.
+- Linha de Missão Ativa: Preparar a operação no armazém dos Oleiros e investigar a caixa.
+- Eventos Cruciais Ocorridos: Confirmado o horário da entrega: terceiro toque noturno. Haldren considera Varen confiável em combate, mas não inteiramente quanto às suas informações. Velkan identificou um pino suspeito sob uma correia da caixa.
+- Condições do Jogador: 8/11 PV; CA 13; 19 flechas; ferramentas de ladrão disponíveis; réplica pronta, ainda na bancada.
+
+A gravação no GitHub foi bloqueada. Esta interação permanece pendente, juntamente com cinco anteriores.
+
+eu:
+Tenho sim, Varen a gente não perguntou pro da besta quem ia levar o recado para ele entregar a caixa neh, e sabe quem é o homem da luva preta?
+
+E se o motivo de você está aqui é impedir que levem oque tem no depósito da roda branca, é melhor me ajudar
+
+Velkan oque precisa?
+
+chatgpt:
+Varen passa a mão pela barba curta, refletindo sobre a pergunta de Eron.
+
+— Não. Perguntamos a Neris sobre a caixa, sobre Marek e sobre quem dava as ordens. Mas não perguntamos quem viria buscá-la nem quem levaria a mensagem para autorizar a entrega. É uma informação que nos falta.
+
+Haldren franze a testa.
+
+— Neris é o homem da besta?
+
+— Sim — responde Varen. — Está amarrado no curtume. Se os guardas o encontrarem onde o deixamos, poderemos interrogá-lo novamente.
+
+À menção do homem das luvas pretas, Varen fica mais sério.
+
+— Sei que Marek responde a alguém acima dele. Já ouvi descrições de um sujeito de luvas negras, mas nunca consegui confirmar seu nome. Não vou fingir que sei quem é.
+
+Eron deixa claro que espera sua ajuda para impedir que retirem o que estiver no depósito da roda branca.
+
+Varen sustenta seu olhar.
+
+— Você terá minha ajuda. Não porque Haldren mandou, nem porque me deve alguma coisa. Quero descobrir quem está por trás disso tanto quanto você. Mas, se encontrarmos esse homem, não me peça para agir sem pensar. Precisamos dele vivo para responder às perguntas.
+
+Haldren intervém, apontando para o mapa:
+
+— E precisamos chegar ao armazém antes da entrega. Se conseguirmos identificar o destinatário, talvez descubramos mais do que invadindo o lugar às cegas.
+
+Enquanto os dois conversam, Velkan coloca a lente sobre a mesa e chama Eron para junto da caixa.
+
+— Preciso dos seus olhos e das suas ferramentas, não da sua força.
+
+O artesão ilumina a região sob a correia com a lamparina.
+
+— Veja este pino. Não sei se prende apenas o fecho ou se está ligado a algo dentro da tampa. Quero que examine a fresta e tente identificar alguma ligação mecânica, sem puxar, girar ou remover nada por enquanto. Eu seguro a luz e observo a outra extremidade.
+
+A madeira apresenta uma fenda estreita, suficiente para introduzir uma ponta fina das ferramentas de ladrão. O pino permanece imóvel. Nada na superfície revela ainda o que existe dentro da caixa.
+
+Teste solicitado: Inteligência (Investigação), +4. O objetivo é compreender o funcionamento aparente do fecho antes de tentar abri-lo. Pode rolar seu d20 ou pedir que eu faça a rolagem.
+
+[LOG DE MEMÓRIA DA CAMPANHA]
+
+- Localização Atual: Oficina de Velkan, Caldria.
+- NPCs Presentes e Relação: Velkan, artesão cooperativo; Haldren, sargento; Varen, aliado que confirmou seu apoio.
+- Linha de Missão Ativa: Examinar a caixa e preparar a investigação no armazém da roda branca.
+- Eventos Cruciais Ocorridos: Identificada uma lacuna no interrogatório de Neris; Varen não confirmou a identidade do homem das luvas pretas; Velkan solicitou ajuda para examinar o fecho.
+- Condições do Jogador: 8/11 PV; CA 13; 19 flechas; ferramentas de ladrão disponíveis. Teste de Investigação +4 aguardando rolagem.
+
+A gravação desta interação foi bloqueada pelo GitHub. Ela e seis interações anteriores permanecem pendentes de sincronização.
+
+eu:
+Rolei 18, Varen vai lá e tenta pegar estas informações enquanto eu ajudo aqui, Haldren tem algo para comer tenho que repor minhas energias
+A e Varen estás bem, vi você manchado de sangue, e se for no cortumez cuide para não ser seguido e para que não te vejam
+
+chatgpt:
+Investigação: 18 + 4 = 22.
+
+A ponta fina da ferramenta desliza pela fresta sem deslocar o pino. Sob a luz firme de Velkan, Eron percebe algo que escapara ao artesão: o pino não está ligado diretamente à fechadura. Ele sustenta uma pequena lâmina de mola, quase invisível, pressionada contra a parte interna da tampa.
+
+— Espere... — murmura Velkan, acompanhando a posição da ferramenta. — Agora estou vendo.
+
+Com o resultado da investigação, Eron identifica que soltar a correia antes de imobilizar a mola faria o pino recuar e acionaria um mecanismo oculto. A caixa pode ser aberta com maior segurança se a mola for travada primeiro. Entretanto, o que o mecanismo efetivamente provoca continua desconhecido.
+
+Velkan busca uma pequena cunha de madeira.
+
+— Muito bem observado. Podemos tentar imobilizá-la com isto, mas será um trabalho delicado.
+
+Enquanto isso, Varen escuta as instruções de Eron e olha para a própria manga. Há manchas escuras de sangue seco perto do punho.
+
+— Estou inteiro. O sangue não é meu — responde. — Quanto ao curtume, vou pelo caminho das oficinas, longe da rua principal. Se perceber alguém me seguindo, não vou conduzi-lo até os prisioneiros.
+
+Haldren intervém antes que ele alcance a porta:
+
+— Encontre Maela ou Iven primeiro. Não entre sozinho. Se os prisioneiros já estiverem sob custódia, interrogue Neris na presença dos guardas. Quero saber quem buscaria a caixa, quem daria a ordem de entrega e se ele conhece o homem das luvas pretas.
+
+Varen concorda com um movimento de cabeça.
+
+— Voltarei assim que tiver respostas.
+
+Ele sai pela porta lateral, deixando Eron com Haldren e Velkan.
+
+Ao ouvir o pedido de comida, o sargento parece recordar que nenhum deles parou para jantar.
+
+— Há pão, queijo curado e carne fria na cozinha dos fundos. Velkan, espero que não se importe.
+
+— Desde que não deixem migalhas sobre minhas peças — responde o artesão, sem tirar os olhos da caixa.
+
+Haldren traz um prato de madeira e uma caneca de água, deixando-os sobre uma mesa limpa, ao alcance de Eron.
+
+— Coma. Ainda temos uma noite longa pela frente.
+
+O alimento ajuda a aliviar a fome, mas não recupera pontos de vida automaticamente. A caixa continua fechada, com o mecanismo identificado e a cunha preparada para a próxima etapa.
+
+[LOG DE MEMÓRIA DA CAMPANHA]
+
+- Localização Atual: Oficina de Velkan, Caldria.
+- NPCs Presentes e Relação: Velkan, artesão; Haldren, sargento. Varen saiu para procurar os guardas e interrogar Neris.
+- Linha de Missão Ativa: Abrir a caixa com segurança e preparar a operação no armazém.
+- Eventos Cruciais Ocorridos: Investigação 22 revelou uma mola ligada a um mecanismo oculto. Varen confirmou não estar ferido e saiu com instruções de cautela. Haldren providenciou comida.
+- Condições do Jogador: 8/11 PV; CA 13; 19 flechas; comida disponível; ferramentas de ladrão em uso.
+
+A tentativa de registro no GitHub foi bloqueada. Esta interação e sete anteriores continuam pendentes.
+
+eu:
+Precisa de mais alguma coisa Velkan ou posso ir colocar algo no estômago
+
+Haldren tem certeza que este Varen não trabalha para a coroa?
+
+chatgpt:
+Velkan mantém a pequena cunha de madeira entre os dedos, observando a mola escondida sob a correia.
+
+— Pode comer, Eron. Já identificamos o que não devemos tocar. Vou preparar uma peça para manter essa mola imóvel, mas não tentarei abrir a caixa sem você. Afinal, foram seus olhos que descobriram o mecanismo.
+
+O artesão afasta a lamparina, deixando a caixa intacta sobre a mesa. O cheiro de pão fresco e queijo curado vem da cozinha dos fundos.
+
+Haldren acompanha Eron até a porta da cozinha. Ao ouvir a pergunta sobre Varen, diminui a voz.
+
+— Não. Não tenho certeza de que ele não trabalhe para a Coroa.
+
+O sargento lança um olhar para o corredor, verificando se estão sozinhos.
+
+— Ele sabe coisas que um simples investigador particular dificilmente descobriria. Conhece rotas comerciais, nomes de intermediários e movimentos de gente importante. E, quando pergunto de onde vêm essas informações, desconversa.
+
+Haldren encosta o ombro no batente.
+
+— Isso não prova que seja um agente real. Pode trabalhar para uma casa mercante, algum nobre ou uma organização que prefira permanecer nas sombras. Também pode simplesmente ter bons informantes.
+
+Ele observa Eron por um instante antes de continuar:
+
+— Mas há algo que posso lhe dizer: nas ocasiões em que trabalhei com Varen, ele cumpriu a palavra. Isso não significa que tenha contado toda a verdade.
+
+O sargento baixa ainda mais a voz.
+
+— Você tem algum motivo específico para suspeitar da Coroa, Eron?
+
+Da oficina vem o ruído discreto das ferramentas de Velkan. Lá fora, as ruas de Caldria escurecem, aproximando a hora da entrega.
+
+[LOG DE MEMÓRIA DA CAMPANHA]
+
+- Localização Atual: Cozinha dos fundos da oficina de Velkan, Caldria.
+- NPCs Presentes e Relação: Haldren, sargento e colaborador; Velkan, trabalhando na oficina; Varen, ausente em diligência.
+- Linha de Missão Ativa: Investigar a caixa e preparar a operação no armazém dos Oleiros.
+- Eventos Cruciais Ocorridos: Velkan autorizou uma pausa para Eron comer. Haldren admitiu não saber se Varen trabalha para a Coroa e perguntou a razão da suspeita.
+- Condições do Jogador: 8/11 PV; CA 13; 19 flechas; refeição disponível; caixa permanece fechada sob os cuidados de Velkan.
+
+Registro no GitHub bloqueado. Esta interação e oito anteriores permanecem pendentes de sincronização.
+
+eu:
+Haldren escuta sem interromper. Quando Eron menciona as cicatrizes nos dedos de Varen, o sargento ergue ligeiramente as sobrancelhas.
+
+— Você tem bons olhos. Eu também reparei nas mãos dele, mas nunca dei muita importância.
+
+Ele puxa uma cadeira e se senta diante de Eron, mantendo a voz baixa.
+
+— A postura, a maneira de observar as saídas, o cuidado com as palavras... sim, reconheço esses hábitos. Mas já conheci mercenários e guarda-costas de casas nobres com o mesmo treinamento.
+
+Haldren parte um pedaço de pão, mas não chega a comê-lo.
+
+— Há uma coisa que me incomoda mais. Varen sabe quando fazer perguntas, mas raramente permite que lhe façam as perguntas certas. E, quando alguém menciona a autoridade de um nobre ou da Coroa, ele nunca demonstra surpresa. Como se estivesse acostumado a lidar com ambos.
+
+O sargento se inclina um pouco.
+
+— Você disse que já viu agentes reais. Então sabe que um homem assim pode estar trabalhando para alguém sem que nem mesmo seus companheiros saibam. Não tenho provas contra Varen, e não vou prendê-lo por suspeitas. Mas também não lhe entregarei o comando da operação.
+
+Ele olha brevemente para a porta da cozinha.
+
+— Por enquanto, mantenha-o por perto. Observe o que ele faz quando encontrarmos Marek ou o homem das luvas pretas. Talvez as escolhas dele nos digam mais do que suas palavras.
+
+Haldren torna a olhar para Eron.
+
+— Só há uma coisa que eu gostaria de entender: onde você teve contato com agentes da Coroa e de casas nobres? Não é uma experiência comum para um viajante armado.
+
+A pergunta vem sem acusação, mas o sargento aguarda a resposta com atenção. Sobre a mesa, o pão, a carne fria e o queijo continuam à disposição de Eron.
+
+[LOG DE MEMÓRIA DA CAMPANHA]
+
+- Localização Atual: Cozinha da oficina de Velkan, Caldria.
+- NPCs Presentes e Relação: Haldren, sargento; Velkan, na oficina; Varen, ausente.
+- Linha de Missão Ativa: Investigar a caixa e preparar a operação no armazém dos Oleiros.
+- Eventos Cruciais Ocorridos: Eron apresentou suas suspeitas sobre o treinamento de Varen. Haldren reconheceu os indícios, mas não possui provas de ligação com a Coroa. Perguntou sobre o passado de Eron.
+- Condições do Jogador: 8/11 PV; CA 13; 19 flechas; refeição à disposição.
+
+Interação registrada no GitHub. Commit `b85ab45`. Nove interações anteriores ainda estão pendentes de sincronização.
+
+eu:
+A história é longa e faz muito tempo, e estamos sem tempo, sim eu insinuei "oque a coroa queria aqui?" E ele arregalou os olhos, tentando saber se era uma certeza ou se eu estava só blefando, fala isso enquanto como.
+
+chatgpt:
+Haldren permanece em silêncio enquanto Eron come. A luz amarelada da lamparina ilumina a mesa, e o cheiro da carne fria se mistura ao de óleo e madeira vindo da oficina.
+
+— A história é longa e faz muito tempo, e estamos sem tempo — diz Eron entre uma garfada e outra. — Sim, eu insinuei: “O que a Coroa queria aqui?” E ele arregalou os olhos, tentando saber se era uma certeza ou se eu estava só blefando.
+
+O sargento deixa o pedaço de pão sobre a mesa.
+
+— Ah... então você o provocou deliberadamente.
+
+Ele reflete por alguns instantes, passando o polegar pela barba.
+
+— Isso é mais interessante do que as cicatrizes. Mas cuidado com a conclusão. Se Varen trabalha para a Coroa, sua pergunta pode tê-lo surpreendido porque você chegou perto da verdade. Se não trabalha, talvez tenha se assustado por perceber que você suspeita dele.
+
+Haldren se inclina, falando mais baixo.
+
+— O que importa é o que aconteceu depois. Ele tentou descobrir quanto você sabia? Mudou de assunto? Ficou defensivo? Um homem treinado pode controlar a expressão, mas nem sempre consegue controlar a pergunta seguinte.
+
+O sargento observa Eron por um momento.
+
+— Não vou pressioná-lo sobre seu passado esta noite. Mas há uma diferença entre um viajante que já viu agentes reais e alguém que sabe reconhecê-los pelo comportamento. Você parece pertencer ao segundo grupo.
+
+Da oficina, ouve-se o som delicado de metal sendo ajustado contra madeira. Velkan continua preparando a cunha, sem mexer no fecho da caixa.
+
+Haldren recolhe o mapa que deixara sobre uma cadeira próxima.
+
+— Termine sua refeição. Quando Velkan estiver pronto, precisamos decidir se levaremos a réplica ao armazém ou se a usaremos apenas para descobrir quem está esperando a entrega.
+
+Ele se levanta, mas permanece à porta.
+
+— E, Eron... se Varen realmente serve a alguém poderoso, talvez seja mais útil descobrir o que ele pretende fazer com essa informação do que obrigá-lo a confessar para quem trabalha.
+
+[LOG DE MEMÓRIA DA CAMPANHA]
+
+- Localização Atual: Cozinha da oficina de Velkan, Caldria.
+- NPCs Presentes e Relação: Haldren, colaborador cauteloso; Velkan, trabalhando na oficina; Varen, ausente.
+- Linha de Missão Ativa: Investigar a caixa e preparar a operação no armazém dos Oleiros.
+- Eventos Cruciais Ocorridos: Eron revelou ter provocado Varen mencionando a Coroa. Haldren considera a reação suspeita, mas não conclusiva.
+- Condições do Jogador: 8/11 PV; CA 13; 19 flechas; Eron está se alimentando.
+
+Registro confirmado no GitHub. Commit `96d4866`. Nove interações anteriores continuam pendentes de sincronização.
+
+terminou aquia conversa 01.02 As Cinzas da Coroa Esquecida
