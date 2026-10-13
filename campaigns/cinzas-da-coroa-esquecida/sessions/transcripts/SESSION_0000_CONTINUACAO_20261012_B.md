@@ -185,3 +185,60 @@ Quanto à revista, Bromir concorda prontamente:
 Ele começa pelos dois homens amarrados junto à estante, examinando cintos, botas, mangas e bolsos, enquanto mantém o martelo ao alcance. Velkan observa os prisioneiros da porta.
 
 Até agora, estão visíveis as armas que já haviam sido retiradas: uma adaga, uma espada curta e uma lâmina curta dos três invasores, além da espada do vigia que se rendeu. A revista completa poderá revelar outros objetos; ainda não está concluída.
+
+
+## Jogador
+Teste de Sabedoria (Medicina) de Eron, com ajuda de Bromir, para controlar a hemorragia do vigia: 2d20kh1 → [4, 17] → 17 +2 = 19. Depois continuamos a revista dos cinco prisioneiros.
+
+## Mestre
+Medicina: 19 — Sucesso. 2d20kh1 → [4, 17] → 17 +2 = 19.
+
+Bromir mantém a perna do prisioneiro imóvel enquanto Eron ajusta o torniquete acima do ferimento. O homem solta um gemido, mas, pouco a pouco, o sangue deixa de escorrer pelas tábuas.
+
+— Está funcionando — observa Bromir. — Mas ele ainda precisa de um curandeiro. E logo.
+
+O prisioneiro respira com dificuldade. Sua perna continua inutilizada pelo ferimento, mas a hemorragia está controlada por enquanto.
+
+— Obrigado... — murmura ele, sem conseguir encarar Eron.
+
+## A revista dos cinco prisioneiros
+
+Com a ajuda de Bromir, Eron reúne as armas retiradas e examina sistematicamente os cintos, bolsos, botas, mangas e costuras dos cinco homens. Os prisioneiros permanecem amarrados e, diante das armas de Eron e do martelo do anão, não oferecem resistência.
+
+Bromir deposita os objetos sobre uma mesa vazia, separando-os por proprietário.
+
+| Prisioneiro | Objetos encontrados |
+|---|---|
+| Homem 1 — casaco marrom | 1 adaga, 8 PP, um pedaço de giz branco |
+| Homem 2 — gibão escuro | 1 espada curta, 1 pequena faca escondida na bota, 6 PP |
+| Homem 3 — líder, tornozelo ferido | 1 lâmina curta, 1 chave de ferro, 14 PP, um bilhete dobrado |
+| Homem 4 — vigia corpulento, perna ferida | 1 espada, 9 PP, um pequeno apito de metal |
+| Homem 5 — vigia da lanterna | 1 espada curta, 7 PP, uma tira de tecido verde amarrada ao pulso |
+
+PP = peças de prata. Todos os objetos foram separados; nada foi automaticamente incorporado ao inventário de Eron.
+
+Bromir examina a pequena chave de ferro.
+
+— Isto não parece chave de porta comum. Pequena demais. Talvez de uma caixa, gaveta ou fechadura de armário.
+
+Velkan se aproxima, interessado, mas não a toca.
+
+— Posso examiná-la depois. Primeiro quero saber como esses homens entraram na minha oficina.
+
+O bilhete encontrado com o líder está dobrado duas vezes e apresenta marcas de umidade. Quando Eron o abre, encontra uma instrução escrita em tinta escura:
+
+> Quando o artesão abrir a caixa, recuperem a peça menor. Não danifiquem os anéis. O restante pode ficar. — M.
+
+O homem do tornozelo perfurado observa o papel nas mãos de Eron. Seu maxilar se contrai.
+
+— Isso não prova nada.
+
+Bromir solta um resmungo.
+
+— Claro que não. Cinco homens armados invadindo uma oficina para procurar uma peça de metal é só uma coincidência muito elaborada.
+
+Velkan olha imediatamente na direção da sala onde deixou o cilindro de bronze.
+
+— A peça menor... — repete, pensativo. — Preciso conferir uma coisa.
+
+Ele não se afasta ainda. Os cinco homens continuam sob vigilância, e os objetos estão sobre a mesa.
