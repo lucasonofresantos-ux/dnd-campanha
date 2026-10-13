@@ -23,3 +23,12 @@ Os arquivos a seguir são partes de uma continuidade jogada na estrada, em Caldr
 **Aviso de divergência canônica:** `../CAMPAIGN_STATE.yaml` aponta para Sessão 0001 em Lorn e não representa esta continuidade de Sessão 0. Não mesclar cronologias nem substituir silenciosamente o estado da Sessão 0001. Antes de retomar a continuidade de Bromir, selecionar explicitamente seu ramo/estado e reconciliar os arquivos de ficha e rolagens.
 
 **Pendências da transcrição literal:** existem mensagens não gravadas entre as cenas do depósito e o ataque, e outras respostas antigas indicadas como ausentes em SESSION_0000_FULL.md. Sem o texto integral acessível, não reconstruir essas respostas como literais. Alguns textos de interface de rolagem estão descritos, não preservados como código ou conteúdo visual integral.
+
+
+## Esclarecimento do jogador — 2026-10-12
+
+Mensagem literal do jogador:
+
+Da criação d personagem tranquilo, e estamos nessa sessão 0 para fazer a ligação para ir para born
+
+Interpretação operacional: as lacunas da criação do personagem não precisam ser recuperadas; a aventura em andamento com Bromir e Velkan é a Sessão 0, destinada a criar ligação narrativa para a cidade da Sessão 1. O nome escrito pelo jogador nesta mensagem foi "born"; os registros anteriores nomeiam a cidade "Lorn". Preservar ambas as grafias e confirmar o destino se houver dúvida; não transformar a abertura de Sessão 1 já escrita em evento vivido nem forçar viagem. Manter Sessão 0 como continuidade ativa.
