@@ -160,3 +160,28 @@ O líder, ainda com o tornozelo preso ao assoalho pela flecha, ergue os olhos pa
 — Cale a boca.
 
 O depósito fica em silêncio por um instante. Cinco prisioneiros estão agora reunidos na oficina, sendo dois gravemente feridos. Bromir mantém a vigilância; Velkan permanece junto à porta.
+
+
+## Jogador
+Eu faço um torniquete no que está sangrando, e pego a arma de todos eles, e também já revisto todos eles, peço a ajuda de bromir para isso
+
+## Mestre
+Eron se ajoelha junto ao homem ferido no beco. O sangue ainda escorre do corte profundo atrás do joelho, manchando as tábuas do depósito. Ao perceber que Eron pretende tratar o ferimento, o prisioneiro se encolhe.
+
+— Vai... vai arrancar minha perna?
+
+Bromir se aproxima e segura o homem pelos ombros para impedir movimentos bruscos.
+
+— Fique quieto, rapaz. Já teve emoção suficiente por hoje.
+
+Eron improvisa um torniquete com uma tira resistente de tecido, posicionando-o acima do ferimento. Bromir mantém a perna imóvel enquanto ele prepara o aperto necessário para conter a hemorragia.
+
+Teste de Sabedoria (Medicina): 1d20 +2. O resultado determinará se Eron consegue controlar o sangramento sem agravar o ferimento. Bromir está ajudando, portanto o teste terá vantagem.
+
+Quanto à revista, Bromir concorda prontamente:
+
+— Com prazer. Cinco homens, dez mãos e uma quantidade inconveniente de lugares para esconder facas. Vamos fazer isso direito.
+
+Ele começa pelos dois homens amarrados junto à estante, examinando cintos, botas, mangas e bolsos, enquanto mantém o martelo ao alcance. Velkan observa os prisioneiros da porta.
+
+Até agora, estão visíveis as armas que já haviam sido retiradas: uma adaga, uma espada curta e uma lâmina curta dos três invasores, além da espada do vigia que se rendeu. A revista completa poderá revelar outros objetos; ainda não está concluída.
