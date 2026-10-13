@@ -30,14 +30,14 @@ unresolved:
   - "Vínculo de Varen com autoridades, ainda não demonstrado"
   - "Situação exata dos capturados no curtume após ordem de Haldren para buscar atendimento e guardas"
   - "Operação e pagamento pactuados com Haldren: 25 PO por capturados e 25 PO pela operação, sujeitos às condições; quitação não presumida"
-last_player_message_exact: "Role os dados para mim 1d20+4"
-last_gm_prompt: "Rolagem 1d20 [13] +4 = 17, sucesso. Mola imobilizada com cunha de madeira por Eron e Velkan; caixa ainda fechada; Velkan inspeciona as correias."
-next: "Aguardar ação ou fala de Eron diante da caixa; nenhuma correia retirada nem tampa aberta."
+last_player_message_exact: "-Só tem um jeito de descobrir\nE olho o Velkan trabalhar "
+last_gm_prompt: "Velkan abriu a caixa: armadilha de agulha imobilizada; peça cinzenta com três anéis e eixo permanece dentro."
+next: "Aguardar a próxima ação de Eron após ver a caixa aberta."
 transcription:
   completeness: "TXT 01.02 recuperado integralmente como enviado; história anterior e UI do chat ainda podem ter lacunas"
   audit: sessions/transcripts/AUDITORIA_CONTINUIDADE_20261013.md
   current_historical_end: sessions/transcripts/SESSION_0000_FONTE_LITERAL_0102_20261013.txt
-last_verified_transcript: sessions/transcripts/SESSION_0000_CONTINUACAO_20261013_L.md
+last_verified_transcript: sessions/transcripts/SESSION_0000_CONTINUACAO_20261013_M.md
 
 operational_dice_protocol: sessions/PROTOCOLO_DADOS_20261013.md
 no_new_rolls_or_scene_advancement_on_protocol_update: true
