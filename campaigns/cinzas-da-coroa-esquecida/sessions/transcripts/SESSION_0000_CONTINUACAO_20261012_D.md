@@ -1249,3 +1249,26 @@ Ele observa atentamente Eron.
 Varen faz uma pausa.
 
 — Agora é sua vez. O que aconteceu na oficina de Velkan?
+
+
+## Jogador
+a peça princípial é um pequeno mecanismo
+
+## Mestre
+Varen ergue ligeiramente as sobrancelhas. A mão que repousava sobre a cisterna fica imóvel.
+
+— Um pequeno mecanismo?
+
+Ele olha para Eron com renovada atenção.
+
+— Então talvez estejamos falando de partes de uma mesma coisa. Um caixote grande demais para uma peça tão pequena... a menos que o restante já esteja lá dentro.
+
+Varen passa a língua pelos lábios, pensativo.
+
+— Sabe como esse mecanismo se encaixa? Ou para que serve?
+
+Ele hesita antes de acrescentar:
+
+— Eron, se o que você diz for verdade, precisamos descobrir o que pretendem montar naquele armazém. Mas não vou fingir que sei a resposta. Ainda não vi o conteúdo daquele caixote.
+
+O homem espera, deixando que Eron decida quanto revelar.
