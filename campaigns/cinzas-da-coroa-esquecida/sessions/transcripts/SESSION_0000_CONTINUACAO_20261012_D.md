@@ -1094,3 +1094,32 @@ Uma porta bate no outro lado da rua. O desconhecido interrompe a frase até o ru
 — Diga-me uma coisa: você veio até aqui por ordem dele... ou está procurando por ele?
 
 A pergunta vem num tom controlado. O homem ainda não revelou seu nome, tampouco explicou por que conhece Marek.
+
+
+## Jogador
+Bem só acho que aqui não é lugar para conversar, principalmente para falar com alguém enviado pela coroa
+
+## Mestre
+O homem de capa cinzenta fica imóvel.
+
+A menção à Coroa provoca uma mudança sutil em sua postura. Seus olhos percorrem o rosto de Eron, procurando alguma indicação de que a afirmação seja mais do que uma provocação.
+
+— Enviado pela Coroa? — repete, quase sem mover os lábios. — É uma acusação ainda mais perigosa do que me chamar de espião.
+
+Ele olha para as janelas altas do armazém.
+
+— E tem razão quanto a uma coisa. Esta rua não é lugar para certas conversas.
+
+O desconhecido recua um passo, mantendo as mãos à vista pela primeira vez. São mãos estreitas, com pequenas cicatrizes nos nós dos dedos.
+
+— Há uma passagem entre a oficina e a antiga casa do tanoeiro, depois daquela esquina. Não dá diretamente para o armazém. Podemos conversar lá, longe das janelas.
+
+Ele faz uma pausa.
+
+— Mas não vou conduzir um estranho armado para um lugar isolado sem saber com quem estou tratando.
+
+O homem inclina ligeiramente a cabeça.
+
+— Pode me chamar de Varen, por enquanto. E você? Tem um nome, ou devo continuar chamando-o de homem do anão?
+
+Varen não se move em direção à passagem. Aguarda a resposta de Eron.
