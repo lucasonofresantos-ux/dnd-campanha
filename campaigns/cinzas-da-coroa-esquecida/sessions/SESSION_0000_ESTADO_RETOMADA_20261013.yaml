@@ -16,13 +16,12 @@ character:
   money: "Saldo exato atualizado não confirmado; não importar 58 PO iniciais da outra execução"
   conditions_confirmed: []
 present:
-  - "Haldren, sargento, na oficina"
-  - "Velkan, artesão, na bancada da oficina"
-  - "Eron River, na oficina"
+  - "Eron River, na travessa"
+  - "Varen, acompanha Eron e carrega a bolsa com a réplica"
 bromir_status: "Em segurança planejada na hospedaria Carvalho Cinzento; não consta presente na conversa final"
 objects:
   - "Caixa aberta por Velkan; agulha contida; peça cinzenta com três anéis e eixo ainda no feltro"
-  - "Imitação da peça de bronze: concluída por Velkan, acondicionada em bolsa de couro sobre a bancada; não declarada entregue a Eron"
+  - "Réplica do bronze: envolvida em tecido, dentro de bolsa de couro transportada por Varen"
   - "Mecanismo/peça original de bronze em custódia de Velkan; manter separado da caixa"
 unresolved:
   - "Origem e função da caixa e símbolo das três linhas convergindo num círculo"
