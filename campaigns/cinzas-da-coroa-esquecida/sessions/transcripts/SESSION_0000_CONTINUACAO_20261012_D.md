@@ -1697,3 +1697,28 @@ Acertar a perna não provoca imobilização automática pelas regras normais de 
 Controle interativo de dados: Arremesso de adaga. Ataque com desvantagem — 2d20, mantém o menor; modificador +4. Botão para rolar dois dados e enviar resultado ao Mestre.
 
 A figura escondida junto à escada continua parcialmente encoberta pelos barris. Eron ainda não sabe o que ela segura atrás deles.
+
+
+## Jogador
+Ataque de adaga arremessada com desvantagem: 2d20kl1 [20, 20] → 20 + 4 = 24. Eron tenta atingir a perna do homem de avental que está fugindo pelo corredor.
+
+## Mestre
+20 natural, mesmo com desvantagem! Acerto crítico.
+
+2d20kl1 → [20, 20] → 20 + 4 = 24
+
+A adaga deixa os dedos de Eron e corta o ar do depósito. Apesar da distância, a lâmina atravessa o corredor entre as prateleiras e atinge a perna do fugitivo no instante em que ele se prepara para passar pela porta ao fundo.
+
+Dano crítico — Adaga: dados da arma 2d4 → [4, 1] = 5; Destreza +2; dano total 7 perfurante. Dados de dano executados com Python e secrets.randbelow.
+
+O homem solta um grito e perde o apoio da perna atingida. Seu corpo se choca contra o batente, e o objeto que carregava escapa de seus braços: uma pequena caixa de madeira escura, presa por duas tiras de couro.
+
+A caixa bate no chão e desliza alguns palmos, sem se abrir.
+
+O fugitivo cai de lado, tentando se arrastar para alcançá-la. A adaga permanece cravada em sua perna. Ele está consciente, mas claramente ferido.
+
+Atrás dos barris, junto à escada, a segunda figura se ergue de repente. Eron distingue um homem magro, de cabelos claros e rosto encovado. Ele segura uma besta leve, que começa a apontar na direção de Eron.
+
+O depósito inteiro parece ficar silencioso por um instante, exceto pela respiração ofegante do homem caído.
+
+Eron acertou o fugitivo, mas agora há um homem armado com uma besta junto à escada.
