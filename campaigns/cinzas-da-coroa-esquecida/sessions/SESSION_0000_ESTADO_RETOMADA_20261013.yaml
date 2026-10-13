@@ -29,14 +29,14 @@ unresolved:
   - "Vínculo de Varen com autoridades, ainda não demonstrado"
   - "Situação exata dos capturados no curtume após ordem de Haldren para buscar atendimento e guardas"
   - "Operação e pagamento pactuados com Haldren: 25 PO por capturados e 25 PO pela operação, sujeitos às condições; quitação não presumida"
-last_player_message_exact: "Me dê os dados para rolar percepção, quero avaliar os arredores e ver se tem alguém nos vigiando ou se alguém conseguiu seguir o Varen"
-last_gm_prompt: "Teste de Percepção 1d20+6 solicitado para observação focada do pátio e do trajeto de Varen; jogador ainda vai rolar."
-next: "Aguardar resultado bruto do d20 de Percepção de Eron; não revelar observadores antes da rolagem."
+last_player_message_exact: "Me gere um campo para eu rolar os dados aqui na conversa"
+last_gm_prompt: "Campo interativo para Percepcao 1d20+6 entregue; jogador pode informar d20 ou pedir Python. Teste segue pendente."
+next: "Aguardar resultado do d20 de Percepcao ou pedido de rolagem automatica pelo campo; nao resolver antes."
 transcription:
   completeness: "TXT 01.02 recuperado integralmente como enviado; história anterior e UI do chat ainda podem ter lacunas"
   audit: sessions/transcripts/AUDITORIA_CONTINUIDADE_20261013.md
   current_historical_end: sessions/transcripts/SESSION_0000_FONTE_LITERAL_0102_20261013.txt
-last_verified_transcript: sessions/transcripts/SESSION_0000_CONTINUACAO_20261013_T.md
+last_verified_transcript: sessions/transcripts/SESSION_0000_CONTINUACAO_20261013_U.md
 
 operational_dice_protocol: sessions/PROTOCOLO_DADOS_20261013.md
 no_new_rolls_or_scene_advancement_on_protocol_update: true
