@@ -3,7 +3,7 @@ branch: sessao_0000_bromir_velkan
 status: active_for_resume
 source_of_truth: "sessions/transcripts/SESSION_0000_FONTE_LITERAL_0102_20261013.txt"
 scope: "Continuidade da Sessão 0, distinta da abertura alternativa da Sessão 0001 em Lorn"
-location: "Cozinha dos fundos da oficina de Velkan, Caldria"
+location: "Bancada da oficina de Mestre Velkan, Caldria"
 time: "Início da noite; Haldren afirmou que primeiro toque ainda não soara antes da saída de Varen. Jogador relata primeira badalada posterior, mas não consta no TXT."
 character:
   name: Eron River
@@ -21,7 +21,7 @@ present:
   - "Eron River, na cozinha dos fundos"
 bromir_status: "Em segurança planejada na hospedaria Carvalho Cinzento; não consta presente na conversa final"
 objects:
-  - "Caixa pequena de madeira escura, de correias: em custódia de Velkan, ainda fechada, com pino e mola de mecanismo desconhecido identificados; cunha em preparo"
+  - "Caixa pequena de madeira escura, de correias: sob cuidados de Velkan, ainda fechada; mola presa com cunha de madeira após sucesso 17 de Eron em Ferramentas de Ladrão; demais riscos desconhecidos"
   - "Imitação da peça de bronze: concluída por Velkan, acondicionada em bolsa de couro sobre a bancada; não declarada entregue a Eron"
   - "Mecanismo/peça original de bronze em custódia de Velkan; manter separado da caixa"
 unresolved:
@@ -30,14 +30,14 @@ unresolved:
   - "Vínculo de Varen com autoridades, ainda não demonstrado"
   - "Situação exata dos capturados no curtume após ordem de Haldren para buscar atendimento e guardas"
   - "Operação e pagamento pactuados com Haldren: 25 PO por capturados e 25 PO pela operação, sujeitos às condições; quitação não presumida"
-last_player_message_exact: "Eu confiro o meu equipamento, e pergunto para Velkan se precisa de ajuda em alguma coisa"
-last_gm_prompt: "Velkan pediu que Eron traga suas ferramentas para manter a mola do fecho firme enquanto ele ajusta a cunha de madeira. Nenhuma intervencao iniciada; caixa fechada."
-next: "Aguardar Eron se aproximar da bancada e iniciar, se desejar, a assistencia com ferramentas; Varen ausente."
+last_player_message_exact: "Role os dados para mim 1d20+4"
+last_gm_prompt: "Rolagem 1d20 [13] +4 = 17, sucesso. Mola imobilizada com cunha de madeira por Eron e Velkan; caixa ainda fechada; Velkan inspeciona as correias."
+next: "Aguardar ação ou fala de Eron diante da caixa; nenhuma correia retirada nem tampa aberta."
 transcription:
   completeness: "TXT 01.02 recuperado integralmente como enviado; história anterior e UI do chat ainda podem ter lacunas"
   audit: sessions/transcripts/AUDITORIA_CONTINUIDADE_20261013.md
   current_historical_end: sessions/transcripts/SESSION_0000_FONTE_LITERAL_0102_20261013.txt
-last_verified_transcript: sessions/transcripts/SESSION_0000_CONTINUACAO_20261013_J.md
+last_verified_transcript: sessions/transcripts/SESSION_0000_CONTINUACAO_20261013_L.md
 
 operational_dice_protocol: sessions/PROTOCOLO_DADOS_20261013.md
 no_new_rolls_or_scene_advancement_on_protocol_update: true
@@ -50,7 +50,7 @@ recovery_20261013:
   prisioneiros_curtume_vivos: 3
   mortes_curtume: 1
   varen: "Saiu pela porta lateral para localizar Maela ou Iven e buscar respostas de Neris no curtume; não está na oficina"
-  caixas: "Original de bronze separado da caixa fechada; réplica pronta; investigação da mola com 18 + 4 = 22"
+  caixas: "Caixa escura fechada com mola agora imobilizada por cunha (1d20 [13]+4=17); original de bronze separado; réplica pronta."
   eron_flechas: 19
   eron_alimentando_se: false
   eron_refeicao_concluida: true
@@ -61,3 +61,13 @@ recovery_20261013:
   evento_novo_desde_ultima_fala_original: false
   continua_a_partir: "Resposta final de Haldren enquanto Eron come, após a pergunta de Eron sobre a Coroa"
   narrative_error_in_E: "Fala posterior equivocada que colocou Varen na oficina: registrar como erro, não como acontecimento"
+
+recent_roll_20261013:
+  action: "Destreza com ferramentas de ladrão para segurar mola enquanto Velkan encaixa cunha"
+  expression: "1d20+4"
+  die: 13
+  modifier: 4
+  total: 17
+  result: "sucesso; mola imobilizada, caixa ainda fechada"
+  source: sessions/transcripts/SESSION_0000_CONTINUACAO_20261013_L.md
+  dice_log: dice/ROLL_LOG_SESSAO_0000_SUPLEMENTO_20261013.csv
