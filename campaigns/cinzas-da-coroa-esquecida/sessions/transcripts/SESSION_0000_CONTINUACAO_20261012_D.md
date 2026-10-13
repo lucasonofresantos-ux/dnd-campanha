@@ -634,3 +634,40 @@ Haldren encara Darric por mais um momento, avaliando as respostas, mas não decl
 Bromir, encostado à parede, comenta em voz baixa:
 
 — Uma roda branca, uma porta nos fundos e gente que gosta de examinar embrulhos. Pelo menos sabemos que não é uma entrega comum de batatas.
+
+
+## Jogador
+Bom, e Sr. orsik pode me limpar isso e dar um ponto, não posso sangrar lá, ele não vai a lugar nenhum
+
+## Mestre
+Orsik ergue os olhos da bota de Darric e observa o braço ferido de Eron.
+
+— Ah, então o homem que anda pregando criminosos no assoalho também sangra? Que descoberta extraordinária.
+
+Bromir solta uma gargalhada.
+
+— Cuidado, doutor. Se cobrar pela consulta, ele vai querer negociar o preço dos pontos!
+
+Orsik examina o corte no braço de Eron, afastando cuidadosamente o tecido.
+
+— Não parece profundo. As bordas estão próximas, mas o movimento pode fazê-lo abrir novamente. Vou limpar, fechar e enfaixar. E recomendo que não use esse braço para aparar golpes esta noite.
+
+Ele olha para Darric.
+
+— Quanto a você, não tente sair do lugar. Ainda não terminei.
+
+O cirurgião chama Iven para vigiar o prisioneiro, lava as mãos numa bacia trazida por Velkan e prepara água limpa, panos, agulha e fio.
+
+O líquido usado na limpeza arde sobre o ferimento. Orsik trabalha com mãos firmes, aproxima as bordas do corte com alguns pontos e cobre a região com uma faixa limpa.
+
+— Pronto. O sangramento está controlado. Os pontos podem se romper se você forçar demais o braço, portanto não confunda isso com uma cura milagrosa.
+
+Bromir observa o curativo.
+
+— Ficou bonito. Quase parece um aventureiro responsável.
+
+Orsik guarda a agulha e volta-se para seus outros pacientes.
+
+— Seu ferimento está fechado e protegido, mas você ainda precisa descansar para se recuperar completamente.
+
+Regra de jogo: o atendimento estabiliza o ferimento narrativamente, sem recuperar pontos de vida. Eron permanece com 8/11 PV. Não foi necessário teste, pois Orsik dispõe de instrumentos, tempo e condições adequadas para tratar um corte superficial.
