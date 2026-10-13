@@ -968,3 +968,14 @@ Com a Percepção 18 anterior, Eron identificou alguém observando a área, mas 
 Para descobrir mais, pode examinar cuidadosamente as janelas, os telhados e as pessoas nas proximidades, procurando olhares repetidos ou sinais de comunicação.
 
 Teste de Sabedoria (Percepção): 1d20 + 6. Eron pode realizá-lo sem abandonar a cobertura.
+
+
+## Jogador
+Me dê os dados para eu jogar
+
+## Mestre
+Teste de Sabedoria (Percepção): 1d20 + 6.
+
+Eron permanece escondido atrás das telhas, observando possíveis vigias nas janelas, nos telhados e na rua.
+
+Controle interativo de 1d20 + 6 disponibilizado ao jogador para enviar o resultado ao Mestre. Resultado pendente.
