@@ -95,3 +95,10 @@ Arquivos produzidos nesta conferência: `transcripts/AUDITORIA_CONTINUIDADE_2026
 
 
 [SESSION_0000_CONTINUACAO_20261013_J.md](transcripts/SESSION_0000_CONTINUACAO_20261013_J.md) — mensagens 0025–0026: Eron conferiu equipamento (19 flechas) e ofereceu ajuda para estabilizar o fecho da caixa; Velkan solicitou ferramentas; nenhum teste novo nem abertura da caixa.
+
+
+## Recuperação do arquivo K e rolagem atual — 2026-10-13
+
+[SESSION_0000_CONTINUACAO_20261013_K.md](transcripts/SESSION_0000_CONTINUACAO_20261013_K.md) — fonte literal da resposta de Velkan restaurada da cópia local pendente; não houve abertura da caixa na mensagem 0028. O histórico anterior K01 e K02 são fragmentos da mesma resposta; não duplicar ações.
+
+[SESSION_0000_CONTINUACAO_20261013_L.md](transcripts/SESSION_0000_CONTINUACAO_20261013_L.md) — mensagens 0029–0032, pedido de rolagem e execução real: 1d20 [13] +4 = 17 (Ferramentas de Ladrão); Velkan encaixou a cunha e imobilizou a mola. Caixa fechada. A rolagem foi registrada em [ROLL_LOG_SESSAO_0000_SUPLEMENTO_20261013.csv](../dice/ROLL_LOG_SESSAO_0000_SUPLEMENTO_20261013.csv), linha de ordem 25.
