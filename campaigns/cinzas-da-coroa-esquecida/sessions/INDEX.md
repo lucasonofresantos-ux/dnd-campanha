@@ -89,3 +89,6 @@ Arquivos produzidos nesta conferência: `transcripts/AUDITORIA_CONTINUIDADE_2026
 
 
 [SESSION_0000_CONTINUACAO_20261013_H.md](transcripts/SESSION_0000_CONTINUACAO_20261013_H.md) — confirmação da retomada a partir da última cena restaurada; sem novos acontecimentos.
+
+
+[SESSION_0000_CONTINUACAO_20261013_I.md](transcripts/SESSION_0000_CONTINUACAO_20261013_I.md) — mensagens 0021–0024: preocupação de Eron com Varen, refeição concluída, conferência de equipamento e 19 flechas confirmadas; uma flecha de reposição ainda não obtida. Inclui recuperação da interação cujo commit fora bloqueado na conversa anterior.
