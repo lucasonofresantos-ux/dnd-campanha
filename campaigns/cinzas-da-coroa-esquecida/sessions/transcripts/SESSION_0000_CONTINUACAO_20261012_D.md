@@ -867,3 +867,44 @@ Ele abaixa um pouco a voz.
 — Você viu alguma coisa no caminho, não viu? Estava atento demais para ser só preocupação com a carroça.
 
 O anão mantém uma das mãos próxima ao martelo preso ao cinto, aguardando a resposta.
+
+
+## Jogador
+Vi um homem de capa cinza, aparentemente estava nos seguindo o motivo eu não sei, agora deixe eu te acompanhar até dentro, quero garantir que não tem ninguém esperando
+
+## Mestre
+Bromir perde o sorriso.
+
+— Um homem de capa cinzenta... Três vezes na mesma estrada, depois de tudo que aconteceu hoje? Não gosto disso.
+
+Ele ajusta o martelo no cinto e lança um último olhar à carroça.
+
+— Muito bem. Vamos entrar. Mas, se aquele sujeito estiver esperando por nós, espero que tenha trazido amigos. Estou ficando cansado de gente tentando estragar minhas viagens.
+
+O tratador indica a porta lateral, que conduz diretamente à estalagem.
+
+— Por aqui, senhores. O salão fica depois do corredor. Se quiserem um quarto, falem com a proprietária no balcão.
+
+Ao atravessarem a porta, o cheiro de feno dá lugar ao aroma de cebolas refogadas, carne cozida e pão quente. O corredor é estreito, iluminado por duas lamparinas. À esquerda, uma porta fechada deixa escapar o ruído de panelas. À direita, uma escada de madeira sobe para o andar dos quartos.
+
+Mais adiante, o salão da estalagem se abre diante deles. Há cerca de uma dúzia de pessoas distribuídas entre as mesas: dois viajantes discutem um mapa, três trabalhadores comem junto à lareira, um homem idoso dormita sobre uma caneca e outros hóspedes conversam em voz baixa.
+
+Atrás do balcão, uma mulher de cabelos castanhos presos num coque ergue os olhos.
+
+— Boa tarde, senhores. Procuram quartos?
+
+Bromir aproxima-se de Eron e murmura, sem olhar diretamente para ele:
+
+— Você cuida dos olhos. Eu cuido da conversa.
+
+O anão então responde à proprietária:
+
+— Um quarto para esta noite, senhora. Preferencialmente com uma porta que tranque direito.
+
+A mulher arqueia uma sobrancelha.
+
+— Todas as nossas portas trancam direito, mestre anão.
+
+— Excelente. Já começamos bem.
+
+Eron ainda não identificou o homem de capa cinzenta entre os presentes. Dali, porém, não consegue examinar simultaneamente todos os hóspedes, a escada e as saídas do salão.
