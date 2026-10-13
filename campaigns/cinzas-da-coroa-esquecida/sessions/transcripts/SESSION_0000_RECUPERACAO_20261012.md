@@ -286,3 +286,21 @@ Para analisar cuidadosamente as posições, as distâncias, as possíveis rotas 
 **Role `1d20 +6`.** Sua Furtividade 26 permanece válida enquanto Eron continuar oculto.
 
 [Interface interativa de rolagem de 1d20+6, com botão de envio do resultado ao Mestre.]
+
+
+## Jogador
+Teste de Sabedoria (Percepção) de Eron para analisar o beco, as posições e distâncias dos inimigos e procurar outros indivíduos: 1d20 = 1, modificador +6, total 7.
+
+## Mestre
+Sabedoria (Percepção): 1 +6 = 7
+1 natural — resultado insuficiente para uma avaliação completa do beco.
+
+Eron examina o beco a partir das sombras, mas a iluminação irregular dificulta distinguir detalhes. A lanterna do homem mais magro projeta reflexos sobre as pedras úmidas, enquanto os barris e caixotes interrompem sua visão da passagem lateral.
+
+Ele consegue confirmar o que já havia observado: dois homens estão a aproximadamente oito metros, próximos um do outro. O mais corpulento permanece com a mão perto da espada embainhada; o outro segura a lanterna coberta. Ambos continuam atentos à rua, não à porta da oficina.
+
+À esquerda de Eron, os caixotes oferecem cobertura a cerca de dois metros. Mais adiante, depois dos homens, existe uma passagem entre edifícios, mas sua profundidade permanece indistinta.
+
+Um ruído breve, semelhante ao atrito de uma sola contra pedra, mistura-se ao som distante da cidade. Eron não consegue determinar de onde veio.
+
+Não é possível confirmar se há mais pessoas escondidas no beco. Os dois homens visíveis ainda não demonstraram perceber Eron, e sua Furtividade 26 permanece válida.
