@@ -1586,3 +1586,36 @@ O homem alto percebe o movimento e fecha os olhos por um instante.
 Eron prepara sua reação: caso alguém saia pela porta antes do início de seu próximo turno, tentará golpear o homem que mantém sob a adaga. A ação preparada consome sua reação quando o gatilho ocorrer. O golpe exigirá uma jogada de ataque; a posição da lâmina não garante automaticamente um ferimento fatal.
 
 Por enquanto, ninguém atravessou a porta.
+
+
+## Jogador
+Role os dados para mim, mas não me diga que passar uma adaga na garganta de um homem não o mata
+
+## Mestre
+Você tem razão quanto à gravidade do ferimento: uma adaga que efetivamente corta a jugular pode matar um homem. O ponto que precisamos resolver pelos dados é se Eron consegue executar esse corte enquanto o vigia está sob ameaça, mas ainda não está fisicamente imobilizado.
+
+A sombra atrás da porta se move. Uma mão surge na fresta e empurra a madeira para fora. O gatilho da ação preparada de Eron é ativado.
+
+Ataque preparado — Adaga: jogada de ataque 1d20 [13] + 4 = 17; dano 1d4 [2] + 2 = 4. Rolagens realizadas com Python e secrets.randbelow.
+
+O homem alto percebe a porta se abrindo e tenta instintivamente recuar. Mas Eron já está atrás dele. A lâmina desliza pelo lado de seu pescoço, abrindo um corte profundo.
+
+O vigia leva as mãos à garganta. Sangue escorre entre seus dedos e mancha o gibão. Ele cambaleia contra o batente, incapaz de formar uma palavra, e desaba de joelhos.
+
+O homem está gravemente ferido e fora de combate. A extensão exata da lesão vascular não é visível para Eron naquele instante. Sem socorro, sua vida corre sério risco.
+
+A porta se abre mais alguns centímetros. Do outro lado, um homem de barba rala e avental escuro vê o companheiro ensanguentado. Seu rosto perde a cor.
+
+— Pelos Nove Infernos...
+
+Ele recua imediatamente para o interior.
+
+À frente, Varen e o homem de casaco marrom continuam em confronto. O barulho da queda faz ambos olharem por um instante na direção de Eron.
+
+Varen tenta aproveitar a distração para segurar o braço armado do vigia, mas o homem se esquiva e recua até a parede.
+
+— Largue essa arma! — ordena Varen.
+
+O homem de casaco marrom não obedece. Em vez disso, olha para o sangue junto à porta e parece medir a distância até a saída do beco.
+
+Eron está novamente com a iniciativa. O homem alto caiu junto ao batente; o ocupante que abriu a porta recuou para dentro, e o segundo vigia continua resistindo a Varen.
