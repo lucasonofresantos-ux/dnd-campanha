@@ -1,0 +1,1 @@
+Eron permanece imóvel na escuridão da travessa, examinando os telhados, as janelas e, principalmente, o caminho por onde Varen chegou. O homem da lanterna parece concentrado no ruído próximo à carroça. Ele começa a se aproximar lentamente, procurando algo no chão.
