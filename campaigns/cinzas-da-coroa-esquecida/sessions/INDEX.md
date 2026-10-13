@@ -125,3 +125,9 @@ Arquivos produzidos nesta conferência: `transcripts/AUDITORIA_CONTINUIDADE_2026
 
 
 [SESSION_0000_CONTINUACAO_20261013_U.md](transcripts/SESSION_0000_CONTINUACAO_20261013_U.md) — mensagens 0049–0050: campo de rolagem para Percepção 1d20+6, manual ou automática; nenhuma rolagem executada, aguardando o jogador.
+
+[SESSION_0000_CONTINUACAO_20261013_V.md](transcripts/SESSION_0000_CONTINUACAO_20261013_V.md) — mensagens 0051–0052; Percepção focada 1d20 [8] +6=14 feita em Python na conversa original, já registrada no log de dados, sem narrativa resolutiva no próprio V.
+
+## Retomada em novo chat — 2026-10-13
+
+[SESSION_0000_CONTINUACAO_20261013_W.md](transcripts/SESSION_0000_CONTINUACAO_20261013_W.md) — mensagens 0053–0054: solicitação integral de recuperação pelo jogador; auditoria pública breve e narração do efeito perceptivo da rolagem 14 anterior. Eron e Varen continuam junto ao Armazém dos Oleiros; figura da lanterna não identificada; nenhuma nova badalada. Aguardar ação do jogador. Fonte operacional: `SESSION_0000_ESTADO_RETOMADA_20261013.yaml`. Lacunas anteriores continuam assinaladas; `CAMPAIGN_STATE.yaml` corresponde à execução alternativa.
