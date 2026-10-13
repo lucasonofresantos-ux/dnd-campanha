@@ -1272,3 +1272,14 @@ Ele hesita antes de acrescentar:
 — Eron, se o que você diz for verdade, precisamos descobrir o que pretendem montar naquele armazém. Mas não vou fingir que sei a resposta. Ainda não vi o conteúdo daquele caixote.
 
 O homem espera, deixando que Eron decida quanto revelar.
+
+
+## Jogador
+Vou com teste de furtividade e percepção para ver se alguém nos segue, me dê os dados
+
+## Mestre
+Eron e Varen estão prestes a seguir pelas passagens laterais de Caldria, evitando as ruas mais movimentadas.
+
+Vamos fazer dois testes separados: Furtividade 1d20 + 6, mover-se sem chamar atenção; Percepção 1d20 + 6, identificar possíveis perseguidores. Controles interativos para informar os resultados naturais de dois d20 físicos e enviar os totais ao Mestre.
+
+Varen espera junto à entrada da passagem, observando a rua. Ele não parece disposto a permanecer parado por muito tempo.
