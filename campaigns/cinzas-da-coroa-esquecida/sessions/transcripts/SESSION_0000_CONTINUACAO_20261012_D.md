@@ -1619,3 +1619,34 @@ Varen tenta aproveitar a distração para segurar o braço armado do vigia, mas 
 O homem de casaco marrom não obedece. Em vez disso, olha para o sangue junto à porta e parece medir a distância até a saída do beco.
 
 Eron está novamente com a iniciativa. O homem alto caiu junto ao batente; o ocupante que abriu a porta recuou para dentro, e o segundo vigia continua resistindo a Varen.
+
+
+## Jogador
+Mate ele logo temos problemas maiores awui, não podemos deixar estes merdas avisarem mais ninguém.
+
+## Mestre
+— Mate ele logo! Temos problemas maiores aqui. Não podemos deixar estes merdas avisarem mais ninguém! — ordena Eron a Varen.
+
+O homem de casaco marrom empalidece. Sua mão finalmente alcança o cabo da arma.
+
+Varen lança um olhar breve para Eron. A expressão endurece.
+
+— Droga...
+
+Ele desembainha a espada e avança, tentando impedir que o vigia escape. O homem recua contra a parede e ergue a própria lâmina para se defender.
+
+O choque de aço ressoa pelo beco.
+
+A porta de serviço continua entreaberta. Lá dentro, os passos apressados se afastam, acompanhados por um ruído de metal batendo contra madeira. Alguém pode estar tentando fugir ou alcançar outra saída.
+
+Ataque de Varen: 1d20 [6] + 4 = 10 — não acerta. O dado de dano não é aplicado.
+
+O vigia desvia o golpe e tenta abrir caminho com a espada, mas Varen consegue apará-la. Nenhum dos dois é atingido nessa troca.
+
+— Não vou deixar que fuja! — rosna Varen.
+
+O homem de casaco marrom continua de pé, encurralado entre Varen e o muro. A ordem de Eron ainda não foi cumprida.
+
+Atrás de Eron, o vigia ferido permanece caído junto ao batente, enquanto os ruídos dentro do edifício se tornam mais distantes.
+
+A iniciativa retorna a Eron. Ele tem a espada desembainhada e pode agir antes que o ocupante do edifício desapareça de vista.
