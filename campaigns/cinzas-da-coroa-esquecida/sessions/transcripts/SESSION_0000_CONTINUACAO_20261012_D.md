@@ -1993,3 +1993,34 @@ O artesão aponta para uma pequena marca entalhada sob uma das correias. Três l
 — É o mesmo símbolo da peça que guardei.
 
 Ele não abre a caixa.
+
+
+## Jogador
+A forma que ele se porta e fala, as vestes também, é bem treinado, tem várias cicatrizes sobre os dedos, aquilo é de treinamento, e já vi agentes reais ou de nobres ele me lembra eles
+
+## Mestre
+Haldren escuta sem interromper. Quando Eron menciona as cicatrizes nos dedos de Varen, o sargento ergue ligeiramente as sobrancelhas.
+
+— Você tem bons olhos. Eu também reparei nas mãos dele, mas nunca dei muita importância.
+
+Ele puxa uma cadeira e se senta diante de Eron, mantendo a voz baixa.
+
+— A postura, a maneira de observar as saídas, o cuidado com as palavras... sim, reconheço esses hábitos. Mas já conheci mercenários e guarda-costas de casas nobres com o mesmo treinamento.
+
+Haldren parte um pedaço de pão, mas não chega a comê-lo.
+
+— Há uma coisa que me incomoda mais. Varen sabe quando fazer perguntas, mas raramente permite que lhe façam as perguntas certas. E, quando alguém menciona a autoridade de um nobre ou da Coroa, ele nunca demonstra surpresa. Como se estivesse acostumado a lidar com ambos.
+
+O sargento se inclina um pouco.
+
+— Você disse que já viu agentes reais. Então sabe que um homem assim pode estar trabalhando para alguém sem que nem mesmo seus companheiros saibam. Não tenho provas contra Varen, e não vou prendê-lo por suspeitas. Mas também não lhe entregarei o comando da operação.
+
+Ele olha brevemente para a porta da cozinha.
+
+— Por enquanto, mantenha-o por perto. Observe o que ele faz quando encontrarmos Marek ou o homem das luvas pretas. Talvez as escolhas dele nos digam mais do que suas palavras.
+
+Haldren torna a olhar para Eron.
+
+— Só há uma coisa que eu gostaria de entender: **onde você teve contato com agentes da Coroa e de casas nobres?** Não é uma experiência comum para um viajante armado.
+
+A pergunta vem sem acusação, mas o sargento aguarda a resposta com atenção. Sobre a mesa, o pão, a carne fria e o queijo continuam à disposição de Eron.
