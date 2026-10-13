@@ -102,3 +102,6 @@ Arquivos produzidos nesta conferência: `transcripts/AUDITORIA_CONTINUIDADE_2026
 [SESSION_0000_CONTINUACAO_20261013_K.md](transcripts/SESSION_0000_CONTINUACAO_20261013_K.md) — fonte literal da resposta de Velkan restaurada da cópia local pendente; não houve abertura da caixa na mensagem 0028. O histórico anterior K01 e K02 são fragmentos da mesma resposta; não duplicar ações.
 
 [SESSION_0000_CONTINUACAO_20261013_L.md](transcripts/SESSION_0000_CONTINUACAO_20261013_L.md) — mensagens 0029–0032, pedido de rolagem e execução real: 1d20 [13] +4 = 17 (Ferramentas de Ladrão); Velkan encaixou a cunha e imobilizou a mola. Caixa fechada. A rolagem foi registrada em [ROLL_LOG_SESSAO_0000_SUPLEMENTO_20261013.csv](../dice/ROLL_LOG_SESSAO_0000_SUPLEMENTO_20261013.csv), linha de ordem 25.
+
+
+[SESSION_0000_CONTINUACAO_20261013_M.md](transcripts/SESSION_0000_CONTINUACAO_20261013_M.md) — mensagens 0033–0034; Velkan abriu a caixa após a cunha prender a mola; identificou agulha de aço e peça cinzenta de três anéis ainda no feltro, sem nova rolagem.
