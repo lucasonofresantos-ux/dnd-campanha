@@ -65,3 +65,6 @@ Arquivos produzidos nesta conferência: `transcripts/AUDITORIA_CONTINUIDADE_2026
 ## Pendência da conversa 01.02 e correção do curtume (2026-10-13)
 
 [NOTA_PENDENCIA_0102_20261013.md](NOTA_PENDENCIA_0102_20261013.md) — referência ao último turno original realmente salvo no transcript D; correção do jogador para **3 prisioneiros e 1 morto** no curtume; saída de Varen e primeira badalada relatadas, cuja literalidade ainda depende da exportação original. A narração posterior que manteve Varen na oficina não deve ser tomada como estado canônico da continuação ausente.
+
+
+[SESSION_0000_CONTINUACAO_20261013_F.md](transcripts/SESSION_0000_CONTINUACAO_20261013_F.md) — mensagens desta conversa após o alerta sobre Varen e a correção dos três prisioneiros e um morto; não substitui o trecho original ainda ausente da conversa 01.02.
