@@ -177,3 +177,51 @@ Bromir abaixa lentamente o martelo, sem soltá-lo.
 Do lado de fora, o movimento distante da praça continua. Rodas rangem sobre pedras, vendedores chamam fregueses e um sino toca em algum lugar da cidade.
 
 Velkan está a caminho do posto da patrulha. Haldren ainda não chegou, e os cinco prisioneiros permanecem sob a vigilância de Eron e Bromir.
+
+
+## Jogador
+-Bem, tem 3 amarrados inteiros, um com a perna inutilizada e um outro com o tornozelo pregado no chão
+Acho que não teremos problema.
+E recolhi a flecha e guardo o arco, recolho oque é meu.
+- e os 3 viram oque fiz sozinho, duvidam que vão querer saber oque posso fazer com um companheiro, e acho que se você não chega se com essa carroça eles iam te pegar na estrada, e ia precisar de um caixão. (Olho para Bromir de cima a baixo) Ou uma caixa de ferramentas já dava
+
+## Mestre
+Bromir olha para os cinco homens espalhados pelo depósito. Os três ilesos permanecem sentados contra a estante, com pulsos e tornozelos amarrados. O vigia corpulento está deitado, a perna imobilizada, enquanto Darric continua preso ao assoalho pela flecha.
+
+Quando Eron começa a recolher seus pertences, o anão solta uma risada curta.
+
+— Hah! Uma caixa de ferramentas?
+
+Ele passa a mão pela barba, fingindo considerar a ideia.
+
+— Talvez uma caixa grande. Mas duvido que encontrassem madeira suficientemente resistente para carregar minha dignidade.
+
+Bromir se aproxima de Eron e baixa um pouco a voz.
+
+— Quanto à estrada... talvez tenha razão. O pino da carroça não se cortou sozinho, e aqueles desgraçados sabiam exatamente quando devíamos chegar.
+
+O sorriso desaparece por um instante.
+
+— Se eu estivesse sozinho, talvez tivesse parado no lugar errado, na hora errada.
+
+Ele dá uma palmada no próprio peito.
+
+— Mas ainda estou aqui, rapaz. E pretendo continuar por muitos invernos. Principalmente para ver se você aprende a contar uma piada que não envolva meu funeral.
+
+O homem do casaco marrom deixa escapar uma risada involuntária. Darric lança-lhe um olhar severo, e ele imediatamente se cala.
+
+Quando Eron se aproxima da flecha que prende o tornozelo de Darric, o prisioneiro enrijece.
+
+— Espere! — diz, com a voz apertada. — Se vai tirá-la, faça com cuidado.
+
+A haste atravessa o tornozelo e penetra a madeira. Arrancá-la diretamente poderia provocar uma nova hemorragia. A ponta está presa ao assoalho, mas a haste pode ser cortada ou solta da madeira antes de se tratar o ferimento.
+
+Bromir percebe a dificuldade.
+
+— Melhor não puxar como se fosse um prego. Temos ferramentas aqui e o ferimento ainda precisa de cuidados.
+
+Ele olha para o arco de Eron, depois para os prisioneiros.
+
+— De todo modo, acho que podemos concordar numa coisa: nenhum desses cinco parece interessado em outra demonstração de suas habilidades.
+
+A oficina permanece tranquila por enquanto. Velkan ainda não retornou com Haldren.
