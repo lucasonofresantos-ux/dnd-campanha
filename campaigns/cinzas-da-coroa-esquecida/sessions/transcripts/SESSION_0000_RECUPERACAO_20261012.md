@@ -362,3 +362,28 @@ O golpe acertou, mas ainda precisamos determinar sua gravidade. O homem não tev
 Role o dano: 2d6 +2, sendo 1d6 da espada curta e 1d6 do Ataque Furtivo.
 
 [Interface interativa: rolar dois d6, exibir soma com +2 e enviar resultado ao Mestre.]
+
+
+## Jogador
+Dano do ataque de Eron contra o joelho do homem corpulento: espada curta 1d6 = 4, Ataque Furtivo 1d6 = 6, +2 de Destreza, total 12 de dano perfurante.
+
+## Mestre
+Acerto confirmado — 12 pontos de dano perfurante.
+
+Espada curta: 4 + Ataque Furtivo: 6 + Destreza: 2 = 12 de dano.
+
+A lâmina de Eron atinge violentamente a parte posterior do joelho do homem corpulento. O couro da proteção se abre, seguido por um corte profundo. A perna cede imediatamente sob o peso do vigia.
+
+— AAAAAH! MINHA PERNA!
+
+Ele despenca sobre um joelho e depois cai de lado nas pedras molhadas. A espada permanece embainhada. Ao tentar apoiar o pé ferido, solta outro grito e desiste. Por enquanto, ele não consegue se levantar nem sustentar o próprio peso. Ainda está consciente, mas gravemente ferido. Não é possível afirmar que a perna foi amputada ou que os tendões foram completamente seccionados.
+
+O segundo homem se sobressalta. A lanterna oscila em sua mão, lançando luz sobre Eron e o companheiro caído.
+
+— Pelos deuses! Quem é você?!
+
+Ele recua instintivamente, levando a mão livre à cintura.
+
+O elemento surpresa terminou. Eron está ao lado do homem ferido; o segundo vigia permanece a poucos passos. Ainda não sabemos se alguém mais ouviu o grito.
+
+Agora começa o combate. Precisamos determinar a iniciativa antes de qualquer nova ação.
