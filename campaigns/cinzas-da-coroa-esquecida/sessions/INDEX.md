@@ -68,3 +68,18 @@ Arquivos produzidos nesta conferência: `transcripts/AUDITORIA_CONTINUIDADE_2026
 
 
 [SESSION_0000_CONTINUACAO_20261013_F.md](transcripts/SESSION_0000_CONTINUACAO_20261013_F.md) — mensagens desta conversa após o alerta sobre Varen e a correção dos três prisioneiros e um morto; não substitui o trecho original ainda ausente da conversa 01.02.
+
+
+## Recuperação integral do TXT da conversa 01.02 — 2026-10-13 (mais recente)
+
+**Fonte literal preservada integralmente:** [SESSION_0000_FONTE_LITERAL_0102_20261013.txt](transcripts/SESSION_0000_FONTE_LITERAL_0102_20261013.txt), cópia byte a byte de `historico perdido.txt` fornecido pelo jogador (1.471 linhas, 82.189 bytes). SHA de blob `e5f94cae6b6d3e950763bb1b40776efb9a313583`. Importação confirmada no commit `77bc8fcd2a8e8ba0e68fb702e707696d9a84b432`.
+
+**Comparação e ponto jogável:** [RECUPERACAO_INTEGRAL_0102_20261013.md](../RECUPERACAO_INTEGRAL_0102_20261013.md). O TXT inclui conversas parcialmente repetidas do arquivo D; não duplicar eventos. Contém diálogos e rolagens que faltavam em D, inclusive Varen deixando a oficina para localizar Maela/Iven e interrogar Neris no curtume; Velkan examinando fecho armado da caixa; Eron alimentando-se e Haldren perguntando sobre a Coroa. A última mensagem do Mestre apresenta conselho de Haldren a Eron **durante a refeição na cozinha dos fundos**. A versão D foi complementada por commit independente no mesmo período; conferir sobreposições.
+
+**Estado operacional corrigido:** [SESSION_0000_ESTADO_RETOMADA_20261013.yaml](SESSION_0000_ESTADO_RETOMADA_20261013.yaml). Haldren está com Eron na cozinha; Velkan trabalha na oficina; **Varen está ausente** em diligência. Eron 8/11 PV, CA 13, 19 flechas. Caixa fechada, pino e mola identificados; réplica pronta. Três detidos vivos e um morto no curtume. Não avançar relógios ou criar diálogo sem ação do jogador.
+
+**Rolagens históricas recuperadas:** [ROLL_LOG_IMPORTACAO_0102_20261013.csv](../dice/ROLL_LOG_IMPORTACAO_0102_20261013.csv). Inclui Percepção 19 (total Roll20 sem dado bruto), Medicina 15+2=17 e Investigação 18+4=22. Nunca executar novamente esses resultados.
+
+**Ressalva:** o arquivo anexado registra Haldren afirmando que **o primeiro toque noturno ainda não havia soado** num momento anterior à sua saída para a cozinha. O TXT termina **sem narrar uma primeira badalada**. O jogador recorda a badalada em continuação posterior; esse momento ainda não tem transcrição literal neste arquivo, e sua cronologia exata permanece pendente. A resposta equivocada no transcript E, que situou Varen na oficina, não é fato desta continuidade.
+
+**Prioridade documental:** preservar textos históricos dos arquivos D/E/F, mesmo quando contêm erros; considerar o TXT literal a fonte primária de cenas abrangidas e o estado isolado corrigido a fonte operacional para retomada. `../CAMPAIGN_STATE.yaml` pertence ao ramo alternativo em Lorn; não mesclar campanhas ou sessões.
