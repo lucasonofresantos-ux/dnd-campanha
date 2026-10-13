@@ -31,10 +31,11 @@ unresolved:
   - "Vínculo de Varen com autoridades, ainda não demonstrado"
   - "Situação exata dos capturados no curtume após ordem de Haldren para buscar atendimento e guardas"
   - "Operação e pagamento pactuados com Haldren: 25 PO por capturados e 25 PO pela operação, sujeitos às condições; quitação não presumida"
-last_player_message_exact: "A forma que ele se porta e fala, as vestes também, é bem treinado, tem várias cicatrizes sobre os dedos, aquilo é de treinamento, e já vi agentes reais ou de nobres ele me lembra eles"
-last_gm_prompt: "Só há uma coisa que eu gostaria de entender: onde você teve contato com agentes da Coroa e de casas nobres?"
-next: "Aguardar fala ou ação livre de Eron; sem avançar relógios enquanto aguarda"
+last_player_message_exact: "Ok, e vamos continuar então\nEu olho para Haldren e digo cadê o Varen que está demorando?"
+last_gm_prompt: "Varen permanece na oficina e pergunta a Eron se está esperando que ele faça alguma coisa."
+next: "Aguardar a reação livre de Eron à presença de Varen, sem avanço de tempo."
 transcription:
   completeness: incomplete
   audit: sessions/transcripts/AUDITORIA_CONTINUIDADE_20261013.md
   current_historical_end: sessions/transcripts/SESSION_0000_CONTINUACAO_20261012_D.md
+last_verified_transcript: sessions/transcripts/SESSION_0000_CONTINUACAO_20261013_E.md
