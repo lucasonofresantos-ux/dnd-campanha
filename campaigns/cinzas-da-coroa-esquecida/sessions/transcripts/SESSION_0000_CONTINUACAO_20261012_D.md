@@ -457,3 +457,62 @@ Haldren permanece do lado de fora, sem tentar atravessar a entrada.
 Atrás dele, Iven e Maela aguardam imóveis. Orsik segura sua bolsa de couro com ambas as mãos.
 
 Velkan mantém a porta aberta apenas o suficiente para conversar. Ninguém entrou ainda.
+
+
+## Jogador
+Sem problema, só queria garantir a segurança do artesão e do mão de vaca
+
+## Mestre
+— Mão de vaca?!
+
+A voz de Bromir ecoa do depósito antes mesmo de o anão reaparecer.
+
+— Eu arrisco minha vida, ajudo a capturar cinco criminosos, vigio uma porta que poderia estar cheia de assassinos e é assim que sou tratado?
+
+Ele surge à entrada do corredor, martelo apoiado no ombro.
+
+— Eron, existe uma diferença entre ser avarento e saber o valor de uma moeda. Uma diferença enorme!
+
+Velkan abre a porta para Haldren e seus acompanhantes, disfarçando um sorriso.
+
+— Sargento, entre. Acredito que já estamos suficientemente seguros.
+
+Haldren entra primeiro. Iven, um patrulheiro de cabelos escuros e expressão reservada, acompanha-o; Maela, de cabelos presos numa trança curta, permanece um instante junto à entrada, observando a rua antes de fechar a porta. O cirurgião Orsik entra por último.
+
+— Cuidar da segurança dos seus companheiros é sensato — comenta Haldren. — Embora eu recomende alguma diplomacia quando estiver protegendo o bolso deles.
+
+— Meu bolso agradece — resmunga Bromir.
+
+Ao chegarem ao depósito, o humor desaparece do rosto do cirurgião. Orsik vê o homem com o joelho ferido e, depois, Darric, ainda preso ao assoalho pela flecha.
+
+— Pelos deuses... Quem foi que deixou esse homem pregado no chão?
+
+Bromir aponta o polegar para Eron.
+
+— Nosso recém-contratado especialista em negociações.
+
+Orsik ajoelha-se diante de Darric.
+
+— Vou precisar cortar parte da bota. E ninguém vai puxar essa flecha antes que eu examine o ferimento.
+
+Haldren identifica os cinco prisioneiros, confere as amarras e entrega a Iven uma folha com a relação dos objetos apreendidos. Maela permanece perto da passagem de serviço, atenta aos acessos.
+
+Depois de conferir os rostos, o sargento declara:
+
+— Iven, Maela: a partir deste momento, estes cinco homens estão sob custódia da patrulha de Caldria, sob minha responsabilidade direta.
+
+Iven registra a transferência. Haldren assina e mostra o documento a Eron.
+
+— Conforme nosso acordo, sua parte na captura está concluída. Os vinte e cinco ouros estão reconhecidos como devidos. Vou providenciar o pagamento pela tesouraria; não trouxe essa quantia comigo.
+
+Bromir inclina-se para Eron e murmura:
+
+— Vinte e cinco moedas ganhas. Agora só faltam as minhas duas.
+
+Haldren ouve perfeitamente.
+
+— E as duas moedas do eixo estão registradas, Bromir.
+
+— Ah! Excelente sargento. Homem de palavra!
+
+Enquanto Orsik prepara seus instrumentos, Velkan continua trabalhando na réplica do núcleo. Ainda há algum tempo até a terceira badalada após o anoitecer, mas a operação no armazém permanece por organizar.
