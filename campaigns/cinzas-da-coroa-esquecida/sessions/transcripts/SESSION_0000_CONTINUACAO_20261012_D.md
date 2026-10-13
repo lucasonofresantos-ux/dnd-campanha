@@ -1848,3 +1848,19 @@ O médico já recolhe sua bolsa.
 — Quero saber exatamente onde está o ferido e o que fizeram para conter o sangramento — exige, dirigindo-se a Eron enquanto ajusta a alça no ombro.
 
 Haldren permanece diante da mesa, esperando uma explicação. Velkan observa a caixa, mas não se aproxima dela.
+
+
+## Jogador
+(Varen conhecia o sargento e maela conhecia Varen) e a caixa estava comigo correto?
+
+## Mestre
+Sim, a caixa estava com Eron. Você a recolheu do chão do depósito depois de recuperar a adaga e a manteve sob sua custódia durante o trajeto até a oficina de Velkan. Em nenhum momento a entregou a Varen, Haldren ou Velkan.
+
+Quanto aos conhecidos, precisamos distinguir duas coisas:
+
+- Maela conhecia Varen: na cena anterior, ela reconheceu os dois quando abriu a porta. Portanto, isso já está estabelecido na narração.
+- Varen conhecia Haldren: Varen o chamou pelo nome ao bater na porta, demonstrando familiaridade com sua identidade. Entretanto, ainda não foi estabelecido como se conheceram nem qual é a relação entre eles.
+
+Não vou inventar uma história anterior para essa relação nem revelar informações que Eron ainda não descobriu.
+
+A cena permanece na oficina, com a caixa em poder de Eron, Haldren aguardando explicações e Orsik prestes a partir para socorrer o ferido.
