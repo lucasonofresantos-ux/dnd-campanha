@@ -1918,3 +1918,78 @@ Varen não demonstra surpresa. Apenas olha para Eron.
 — Parece que temos mais de uma coisa a esclarecer esta noite.
 
 Do outro lado da oficina, Velkan aguarda, observando a caixa ainda nas mãos de Eron.
+
+
+## Jogador
+Eu entrego a caixa para o Velkan e pergunto se está pronta a imitação.
+
+Olho para Varen, e digo agora se identifique, e sei que não é militar, não pelo fiasco que fez naquele beco, e você já matou alguém antes?
+
+## Mestre
+Velkan observa a caixa nas mãos de Eron e indica a mesa afastada do armário.
+
+— Aqui, por favor. E mantenham as ferramentas de bronze longe dela.
+
+Quando Eron lhe entrega a caixa, o artesão a recebe cuidadosamente, apoiando-a sobre a madeira. Sem desfazer as correias, examina as junções da tampa e passa os dedos pelas marcas nas laterais.
+
+— Quanto à imitação, sim. Terminei há pouco.
+
+Ele aponta para uma pequena bolsa de couro sobre a bancada.
+
+— Está ali, envolvida em tecido e pronta para ser levada. Reproduzi as dimensões, o peso e os detalhes externos que consegui observar. Mas não posso garantir que engane alguém que conheça o funcionamento da peça original.
+
+Velkan volta a atenção para a caixa.
+
+— Esta, porém, é outra questão. Antes de abri-la, quero ter certeza de que não há nenhum dispositivo escondido nas correias.
+
+Eron então se vira para Varen.
+
+— Agora se identifique. E sei que não é militar, não pelo fiasco que fez naquele beco. E você já matou alguém antes?
+
+Haldren ergue ligeiramente a cabeça. Varen, por sua vez, olha para Eron durante alguns segundos antes de responder.
+
+— O fiasco no beco? — Ele solta uma risada seca. — Justo. Aquele desgraçado me escapou das mãos. Não foi meu melhor momento.
+
+O sorriso desaparece.
+
+— Meu nome é Varen. Quanto a ser militar, você acertou. Não sirvo a nenhum exército.
+
+Ele se afasta da porta e apoia uma mão no encosto de uma cadeira.
+
+— Já trabalhei como investigador particular, escolta e intermediário. Às vezes para mercadores. Outras vezes para pessoas que preferiam não aparecer nos registros.
+
+Haldren observa-o em silêncio.
+
+— E sim, Eron. Já matei.
+
+Varen não desvia o olhar.
+
+— Mais de uma vez. Algumas em defesa própria. Outras porque alguém pagou para que eu estivesse num lugar perigoso. Não me orgulho de todas.
+
+O sargento cruza os braços.
+
+— Essa última parte é novidade.
+
+— Você nunca perguntou — responde Varen.
+
+Haldren estreita os olhos.
+
+— Perguntei muitas coisas. Você é que escolhe quais responder.
+
+Varen ignora a provocação e continua olhando para Eron.
+
+— Mas, se está tentando descobrir se sou um assassino contratado para vigiar você, a resposta é não. Não recebi dinheiro para segui-lo nem para protegê-lo. Estou atrás de Marek por motivos meus.
+
+Ele faz uma pausa.
+
+— E ainda não confio em você o bastante para contar todos eles.
+
+Atrás dos dois, Velkan interrompe brevemente seu exame da caixa.
+
+— Senhores... se terminaram de discutir quem matou quem, talvez queiram prestar atenção nisto.
+
+O artesão aponta para uma pequena marca entalhada sob uma das correias. Três linhas convergem para um círculo.
+
+— É o mesmo símbolo da peça que guardei.
+
+Ele não abre a caixa.
