@@ -465,3 +465,51 @@ Bromir cruza os braços.
 — Sim — responde o homem. — Mas não apostaria minha vida nisso.
 
 Velkan observa o núcleo sobre a bandeja, sem acrescentar nada. A identidade do visitante permanece incerta.
+
+
+## Jogador
+Já é melhor que nada.
+Onde você ia entregar isso, para quem, e Marek tem gente na patrulha
+
+## Mestre
+O líder desvia os olhos da flecha e observa a pequena peça de bronze na bandeja.
+
+— A entrega seria no armazém da Rua dos Oleiros, depois do terceiro sino da noite. Pelos fundos. Marek mandou que levássemos a peça até lá, mas não disse quem viria buscá-la.
+
+Bromir ergue uma sobrancelha.
+
+— E esperava que vocês entregassem algo tão valioso a um desconhecido?
+
+— Havia uma senha — responde o prisioneiro. — Quem viesse receber perguntaria: “A roda continua girando?” Nós deveríamos responder: “Enquanto o eixo permanecer inteiro.”
+
+O anão olha para Eron.
+
+— Uma escolha de palavras bastante infeliz, considerando o que fizeram à minha carroça.
+
+Eron pergunta sobre a patrulha. O líder demora mais a responder.
+
+— Não sei se Marek tem guardas comprados. Nunca vi um deles recebendo dinheiro. Mas...
+
+Ele lança um olhar rápido aos outros prisioneiros.
+
+— Ouvi Marek dizer que não precisávamos nos preocupar com uma inspeção no armazém naquela noite. Disse que a patrulha estaria ocupada em outro lugar.
+
+— Como ele sabia disso? — pergunta Bromir.
+
+— Não explicou. Pode ter pago alguém, pode conhecer as rondas. Não sei.
+
+O homem baixa a voz.
+
+— Uma vez vi Marek conversar com alguém usando uma capa de patrulheiro, perto da entrada dos fundos da Âncora Partida. Estava escuro. Não vi o rosto nem a insígnia. Também não ouvi o que disseram.
+
+Bromir aperta os lábios.
+
+— Então não sabemos se há um traidor na guarda. Mas seria imprudente contar nossos planos a qualquer soldado que apareça.
+
+Velkan mantém a bandeja próxima de si.
+
+— E esse encontro no armazém... se os homens de Marek não aparecerem, alguém certamente perceberá.
+
+O líder concorda com um movimento cauteloso da cabeça.
+
+— Sim. E Marek não costuma perdoar quem falha.
