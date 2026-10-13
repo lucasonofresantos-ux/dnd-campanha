@@ -242,3 +242,49 @@ Velkan olha imediatamente na direção da sala onde deixou o cilindro de bronze.
 — A peça menor... — repete, pensativo. — Preciso conferir uma coisa.
 
 Ele não se afasta ainda. Os cinco homens continuam sob vigilância, e os objetos estão sobre a mesa.
+
+
+## Jogador
+Velkan, Confira e traga aqui se achar.
+Bem o da flecha no tornozelo, (eu puxo do arco coloco mais uma flecha e miro no outro pé dele, comece a me contar quem é Marek, e por que sabotaram a carroça do Bromir ou eu coloco uma flecha no seu outro pé 
+
+## Mestre
+Velkan lança um olhar ao arco de Eron e ao homem preso ao assoalho. Por um instante, parece prestes a protestar, mas acaba assentindo.
+
+— Vou conferir o cilindro. Se encontrar a peça que procuram, trago-a aqui. Bromir, fique atento.
+
+O artesão atravessa a porta em direção à bancada de trabalho. O som de seus passos desaparece na sala principal.
+
+Eron retira outra flecha da aljava, encaixa-a na corda e aponta a ponta de ferro para o pé ainda ileso do líder.
+
+— Comece a me contar quem é Marek, e por que sabotaram a carroça do Bromir, ou eu coloco uma flecha no seu outro pé.
+
+O homem acompanha a ponta da flecha com os olhos. Seu rosto está pálido, e a perna presa começa a tremer.
+
+— Eu não toquei naquela maldita carroça! — responde, depressa demais. — Não fui eu!
+
+Bromir se aproxima, mantendo o martelo apoiado no ombro.
+
+— Curioso. Ninguém perguntou se foi você quem cortou o pino.
+
+O prisioneiro fecha a boca. Os outros quatro permanecem imóveis.
+
+— Marek nos contratou para entrar depois que o artesão abrisse a caixa — admite finalmente. — Queria uma peça pequena, não o cilindro inteiro. Disse que o anão precisava chegar atrasado, para que seus homens estivessem posicionados antes da entrega.
+
+Bromir franze o cenho.
+
+— Então a sabotagem fazia parte do plano.
+
+— Eu sei que foi planejada! — retruca o homem. — Mas não sei quem fez o serviço na estrada. Marek tratou disso com outra pessoa.
+
+Ele engole em seco e torna a olhar para a flecha.
+
+— Marek é quem organiza os trabalhos. Paga, escolhe os homens e diz onde devemos estar. Costuma receber gente na Âncora Partida, perto das docas. Não sei o sobrenome dele. Nunca perguntou o meu.
+
+A revelação é compatível com parte do que Eron ouviu anteriormente do homem de gibão verde, mas ainda não esclarece quem sabotou pessoalmente a carroça.
+
+O prisioneiro respira fundo.
+
+— É tudo que sei sobre a carroça. Juro.
+
+A ameaça ainda pesa sobre ele. Para determinar se a pressão faz o homem revelar algo mais — ou se ele se fecha por medo — faça um teste de Carisma (Intimidação), 1d20 +1, com vantagem, considerando o ferimento, a rendição e a flecha apontada.
