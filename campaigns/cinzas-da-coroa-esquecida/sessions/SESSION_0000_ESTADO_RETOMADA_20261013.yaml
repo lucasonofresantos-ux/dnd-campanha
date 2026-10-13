@@ -1,10 +1,10 @@
 campaign_id: cinzas-da-coroa-esquecida
 branch: sessao_0000_bromir_velkan
 status: active_for_resume
-source_of_truth: sessions/transcripts/SESSION_0000_CONTINUACAO_20261012_D.md
+source_of_truth: "sessions/transcripts/SESSION_0000_FONTE_LITERAL_0102_20261013.txt"
 scope: "Continuidade da Sessão 0, distinta da abertura alternativa da Sessão 0001 em Lorn"
-location: "Oficina de Mestre Velkan, Caldria"
-time: "Noite, após incidente no curtume e retorno a Velkan; a cronologia exata deve ser conferida ao prosseguir"
+location: "Cozinha dos fundos da oficina de Velkan, Caldria"
+time: "Início da noite; Haldren afirmou que primeiro toque ainda não soara antes da saída de Varen. Jogador relata primeira badalada posterior, mas não consta no TXT."
 character:
   name: Eron River
   class: Ladino
@@ -16,13 +16,12 @@ character:
   money: "Saldo exato atualizado não confirmado; não importar 58 PO iniciais da outra execução"
   conditions_confirmed: []
 present:
-  - "Haldren, sargento"
-  - "Varen, colaborador de identidade parcial"
-  - "Velkan, artesão"
-  - "Eron River"
+  - "Haldren, sargento, conversando com Eron na cozinha"
+  - "Velkan, artesão, trabalhando na oficina adjacente"
+  - "Eron River, na cozinha dos fundos"
 bromir_status: "Em segurança planejada na hospedaria Carvalho Cinzento; não consta presente na conversa final"
 objects:
-  - "Caixa pequena de madeira escura, de correias: entregue por Eron a Velkan na cena final, ainda fechada"
+  - "Caixa pequena de madeira escura, de correias: em custódia de Velkan, ainda fechada, com pino e mola de mecanismo desconhecido identificados; cunha em preparo"
   - "Imitação da peça de bronze: concluída por Velkan, acondicionada em bolsa de couro sobre a bancada; não declarada entregue a Eron"
   - "Mecanismo/peça original de bronze em custódia de Velkan; manter separado da caixa"
 unresolved:
@@ -31,22 +30,31 @@ unresolved:
   - "Vínculo de Varen com autoridades, ainda não demonstrado"
   - "Situação exata dos capturados no curtume após ordem de Haldren para buscar atendimento e guardas"
   - "Operação e pagamento pactuados com Haldren: 25 PO por capturados e 25 PO pela operação, sujeitos às condições; quitação não presumida"
-last_player_message_exact: "Ok, e vamos continuar então\nEu olho para Haldren e digo cadê o Varen que está demorando?"
-last_gm_prompt: "Varen permanece na oficina e pergunta a Eron se está esperando que ele faça alguma coisa."
-next: "Aguardar a reação livre de Eron à presença de Varen, sem avanço de tempo."
+last_player_message_exact: "A história é longa e faz muito tempo, e estamos sem tempo, sim eu insinuei \"oque a coroa queria aqui?\" E ele arregalou os olhos, tentando saber se era uma certeza ou se eu estava só blefando, fala isso enquanto como."
+last_gm_prompt: "Haldren aconselhou Eron a observar o comportamento de Varen e propôs decidir, quando Velkan estiver pronto, se levarão a réplica ao armazém ou apenas a usarão para identificar o destinatário."
+next: "Aguardar próxima fala ou ação de Eron durante a refeição, sem avançar o relógio narrativo."
 transcription:
-  completeness: incomplete
+  completeness: "TXT 01.02 recuperado integralmente como enviado; história anterior e UI do chat ainda podem ter lacunas"
   audit: sessions/transcripts/AUDITORIA_CONTINUIDADE_20261013.md
-  current_historical_end: sessions/transcripts/SESSION_0000_CONTINUACAO_20261012_D.md
-last_verified_transcript: sessions/transcripts/SESSION_0000_CONTINUACAO_20261013_E.md
+  current_historical_end: sessions/transcripts/SESSION_0000_FONTE_LITERAL_0102_20261013.txt
+last_verified_transcript: "sessions/transcripts/SESSION_0000_FONTE_LITERAL_0102_20261013.txt"
 
 operational_dice_protocol: sessions/PROTOCOLO_DADOS_20261013.md
 no_new_rolls_or_scene_advancement_on_protocol_update: true
 
-recovery_pending_20261013:
-  note: sessions/NOTA_PENDENCIA_0102_20261013.md
-  original_transcript_end: sessions/transcripts/SESSION_0000_CONTINUACAO_20261012_D.md
-  prisoner_count_at_curtume: "3 prisioneiros vivos e 1 morto (correcao confirmada pelo jogador)"
-  varen_after_missing_continuation: "Segundo o jogador, foi ao curtume buscar informacoes; contradiz a cena incorreta no transcript E"
-  first_bell: "Ja soou segundo o jogador; faltam falas originais para posicionar horario preciso"
-  pause: "Nao avancar ate receber documentacao ausente ou orientacao expressa do jogador"
+recovery_20261013:
+  raw_original: sessions/transcripts/SESSION_0000_FONTE_LITERAL_0102_20261013.txt
+  audit: sessions/RECUPERACAO_INTEGRAL_0102_20261013.md
+  sha_git_blob: e5f94cae6b6d3e950763bb1b40776efb9a313583
+  status: "TXT anexado preservado integralmente; algumas partes anteriores continuam pendentes"
+  prisioneiros_curtume_vivos: 3
+  mortes_curtume: 1
+  varen: "Saiu pela porta lateral para localizar Maela ou Iven e buscar respostas de Neris no curtume; não está na oficina"
+  caixas: "Original de bronze separado da caixa fechada; réplica pronta; investigação da mola com 18 + 4 = 22"
+  eron_flechas: 19
+  eron_alimentando_se: true
+  sino: "Primeira badalada mencionada pelo jogador em conversa de retomada, mas não descrita no TXT recebido; não inventar posicionamento"
+  personagem_nao_reiniciado: true
+  evento_novo_desde_ultima_fala_original: false
+  continua_a_partir: "Resposta final de Haldren enquanto Eron come, após a pergunta de Eron sobre a Coroa"
+  narrative_error_in_E: "Fala posterior equivocada que colocou Varen na oficina: registrar como erro, não como acontecimento"
