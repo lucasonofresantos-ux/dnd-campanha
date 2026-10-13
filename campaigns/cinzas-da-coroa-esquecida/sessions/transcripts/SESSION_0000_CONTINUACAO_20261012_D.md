@@ -1680,3 +1680,20 @@ Portanto, Eron localizou duas pessoas no interior: uma fugindo pelo corredor e o
 A figura escondida percebe que Eron a avistou. Sua mão desaparece lentamente atrás de um barril.
 
 Eron está em movimento, com as duas armas empunhadas. O fugitivo continua correndo em direção à porta ao fundo; a segunda pessoa ainda não revelou suas intenções.
+
+
+## Jogador
+Eu lanço a adaga no que está correndo, tento acertar a perna dele, me dê os dados como no último
+
+## Mestre
+Eron avista o homem de avental correndo pelo corredor, a aproximadamente 15 metros, com um objeto apertado contra o peito.
+
+A espada curta permanece em sua mão esquerda enquanto ele prepara a adaga para arremessá-la contra a perna do fugitivo.
+
+Ataque à distância com adaga: 1d20 + 4. A adaga tem alcance normal de 6 metros e alcance longo de 18 metros. Como o alvo está a cerca de 15 metros, o ataque será feito com desvantagem, usando o menor resultado de dois d20.
+
+Acertar a perna não provoca imobilização automática pelas regras normais de D&D 5E. O ferimento e a reação do fugitivo dependerão da resolução do ataque.
+
+Controle interativo de dados: Arremesso de adaga. Ataque com desvantagem — 2d20, mantém o menor; modificador +4. Botão para rolar dois dados e enviar resultado ao Mestre.
+
+A figura escondida junto à escada continua parcialmente encoberta pelos barris. Eron ainda não sabe o que ela segura atrás deles.
