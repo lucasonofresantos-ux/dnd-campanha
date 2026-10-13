@@ -159,3 +159,80 @@ Então se volta novamente para Eron.
 — Você reuniu informações que eu levaria dias para descobrir. Mas ainda há uma pergunta: pretende participar do encontro no armazém ou prefere que a patrulha assuma essa parte da investigação?
 
 Ele aguarda a resposta, sem presumir que Eron tenha qualquer obrigação de continuar.
+
+
+## Jogador
+Ah e sobre o Malek (aqui a descrição que tive dele), sim eu pretendo, pretendo ficar com as armas e o dinheiro dos cinco, e pretendo terminar isso, geraram um trauma no meu amigo de 2 PO, isso eu não posso deixar passar, kkkkkk
+
+## Mestre
+— Ah, e sobre esse Marek, sargento. Tenho a descrição dele também.
+
+Eron repassa o que descobriu com o vigia de colete verde:
+
+— Humano, aparentemente uns quarenta anos. Altura mediana, magro, cabelos castanhos penteados para trás, já grisalhos nas têmporas. Tem uma cicatriz curta atravessando a sobrancelha esquerda e usa um anel de prata com uma pedra escura no indicador direito. Fala baixo, sem precisar levantar a voz para dar ordens. Costuma receber seus homens num quarto no andar superior da Âncora Partida, perto das docas.
+
+Haldren registra os detalhes, detendo a pena na menção ao anel.
+
+— Isso ajuda. Cicatriz e anel são características que podemos verificar sem depender apenas de um nome. Mas não vou mandar homens à hospedaria antes de decidir como proceder com a entrega.
+
+Eron indica as armas e moedas confiscadas, separadas sobre a mesa.
+
+— E sim, pretendo participar. Também pretendo ficar com as armas e o dinheiro dos cinco. Vou terminar isso. Afinal, esses desgraçados causaram um trauma terrível no meu amigo: duas moedas de ouro! Não posso deixar uma crueldade dessas sem resposta! Hahahaha!
+
+Bromir abre a boca, ofendido.
+
+— Trauma?! Agora minhas perdas comerciais viraram motivo de divertimento?
+
+O anão aponta para Haldren.
+
+— Sargento, registre também que estou sendo vítima de perseguição psicológica por parte deste homem!
+
+Pela primeira vez desde que entrou, Haldren deixa escapar um sorriso discreto.
+
+— Posso registrar que o senhor exige ressarcimento pelos danos à carroça.
+
+— Isso! Exatamente!
+
+— Quanto às armas e moedas — continua o sargento, voltando-se para Eron —, não posso simplesmente autorizar que leve tudo. São bens apreendidos numa investigação, e alguns podem servir de prova. A chave de ferro, a ordem escrita e as armas precisam ser examinadas.
+
+Ele considera os objetos sobre a mesa.
+
+— Posso relacionar cada item, registrar que foram apreendidos por você e recomendar uma recompensa por sua participação. Os bens que não forem necessários como prova poderão ter sua destinação decidida depois. Mas não vou prometer propriedade sobre o que ainda pertence legalmente a alguém.
+
+Bromir cruza os braços.
+
+— E minhas duas moedas?
+
+— Também constarão do registro, Bromir.
+
+— Excelente. Estamos progredindo.
+
+Haldren guarda a caderneta e aproxima-se da mesa, falando agora num tom mais reservado.
+
+— Sobre terminar o serviço: não vou impedir um homem de se oferecer para ajudar. Mas tampouco enviarei alguém para um armazém possivelmente ocupado por assassinos sem conhecer o terreno. E, se houver um patrulheiro comprometido, preciso manter essa operação fora dos canais habituais.
+
+Ele olha para os cinco prisioneiros.
+
+— Primeiro, vou garantir que estes homens não morram aqui e que ninguém os faça desaparecer depois de saírem desta oficina. Depois podemos tratar do encontro desta noite.
+
+Darric ergue a cabeça.
+
+— Marek vai saber se não chegarmos a tempo.
+
+Haldren vira-se lentamente para ele.
+
+— Então sugiro que comece a pensar em tudo o que ainda não nos contou.
+
+O sargento retorna a atenção para Eron.
+
+— Há tempo para preparar a entrega, mas não tanto quanto eu gostaria. E, se pretende entrar naquele armazém, precisaremos decidir o que fazer com a peça verdadeira.
+
+Velkan, junto à porta, acrescenta:
+
+— Posso tentar preparar uma réplica visual. Não prometo reproduzir o funcionamento do núcleo, mas talvez seja suficiente para alguém que só espere receber um objeto embrulhado.
+
+Bromir coça a barba.
+
+— Uma peça falsa, um encontro secreto e um sargento que talvez consiga recuperar minhas duas moedas... Começo a gostar desse plano.
+
+Haldren mantém o olhar em Eron, aguardando sua avaliação.
