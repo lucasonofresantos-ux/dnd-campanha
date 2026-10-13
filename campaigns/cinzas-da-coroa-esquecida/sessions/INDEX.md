@@ -86,3 +86,6 @@ Arquivos produzidos nesta conferência: `transcripts/AUDITORIA_CONTINUIDADE_2026
 
 
 **Mensagem com o anexo e resposta desta recuperação:** [SESSION_0000_CONTINUACAO_20261013_G.md](transcripts/SESSION_0000_CONTINUACAO_20261013_G.md). Preserva solicitação do jogador, referência ao anexo e resposta do Mestre sem alterar a fonte literal original.
+
+
+[SESSION_0000_CONTINUACAO_20261013_H.md](transcripts/SESSION_0000_CONTINUACAO_20261013_H.md) — confirmação da retomada a partir da última cena restaurada; sem novos acontecimentos.
