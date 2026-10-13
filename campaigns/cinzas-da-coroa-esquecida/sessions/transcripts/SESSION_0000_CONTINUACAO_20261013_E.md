@@ -7,7 +7,18 @@ Origem: mensagem visível do jogador na conversa atual e texto integral da respo
 
 Mestre que continuar a campanha As Cinzas da Coroa Esquecida, e quero seguir a partir das conversa 01.02 As Cinzas da Coroa Esquecida, mas antes de continuar verifique as transcrições no git Hub com o história da conversa citada, se faltar alguma coisa registre, transcreva no git Hub e podemos continuar
 
-## Mensagem 0002 — Mestre (literal)
+## Mensagem 0002 — Mestre (literal; resposta enviada em duas partes visíveis)
+
+## Verificação da campanha
+
+Consegui acessar o repositório privado [dnd-campanha](https://github.com/lucasonofresantos-ux/dnd-campanha) e localizar os registros de **As Cinzas da Coroa Esquecida**, a Campanha 02 de Eron River.
+
+Encontrei uma divergência importante: existem duas continuidades registradas.
+
+- **Sessão 0 — Eron e Bromir:** a aventura já jogada, envolvendo a estrada, o depósito, a oficina de Velkan e investigações relacionadas a Marek. Esta é a continuidade que você esclareceu querer preservar e conduzir futuramente até Lorn.
+- **Sessão 1 — O Estrangeiro de Lorn:** uma abertura alternativa, registrada em 12 de outubro, com Eron chegando sozinho à cidade, sem os acontecimentos anteriores.
+
+Vou preservar as duas sem misturar seus acontecimentos. Para sua retomada, a referência será a **Sessão 0 com Bromir**, não a abertura alternativa de Lorn.
 
 **Conferência e sincronização realizadas no GitHub.** Atualizei o índice da campanha, criei uma auditoria das transcrições, separei o estado correto da Sessão 0 e registrei 24 resultados históricos de rolagens que não constavam do log principal.
 
