@@ -994,3 +994,34 @@ O resultado valerá para essa sequência de movimentações, desde que não ocor
 Controle interativo de Furtividade — reconhecimento do armazém: 1d20 + 6, com botão de rolar e envio do resultado ao Mestre.
 
 Eron ainda está protegido atrás das telhas. A carroça de barro passa lentamente pela rua, enquanto o homem de capa cinzenta permanece nas proximidades da esquina. O movimento para o reconhecimento começa após a rolagem.
+
+
+## Jogador
+Furtividade para contornar e observar o armazém de vários ângulos: 1d20 [18] + 6 = 24. Manter Percepção 23.
+
+## Mestre
+Furtividade: 24 (18 + 6). Percepção mantida: 23 (17 + 6).
+
+A carroça carregada de barro passa diante da olaria abandonada. Aproveitando o ruído das rodas e a poeira levantada pelos cascos, Eron abandona a pilha de telhas e alcança a sombra de um muro lateral. Dali, muda de posição várias vezes, alternando entre aproximações cautelosas e recuos para observar o edifício sem permanecer muito tempo no mesmo lugar.
+
+O reconhecimento revela detalhes que não eram visíveis da rua principal.
+
+Na lateral da olaria, as três janelas altas do armazém ficam mais nítidas. A primeira tem as venezianas fechadas; a segunda é aquela onde apareceu o homem de cabeça raspada; a terceira possui uma abertura estreita sob a madeira, suficiente para deixar escapar uma faixa de luz. Eron ouve, por alguns instantes, o arrastar de algo pesado no interior, seguido por duas vozes masculinas indistintas.
+
+Mais adiante, ele alcança um ponto de observação da viela dos fundos. A passagem é estreita, com paredes úmidas e caixotes empilhados perto da olaria. A porta traseira do armazém é reforçada com ferragens e possui duas travessas horizontais. Uma pequena abertura de ventilação fica acima dela.
+
+Há marcas recentes de rodas no barro junto à entrada, além de pegadas de diferentes tamanhos. Algumas seguem em direção à porta; outras retornam à rua. Não é possível determinar quantas pessoas as produziram.
+
+Durante o reconhecimento, a porta dos fundos se abre.
+
+Um homem de avental sujo de argila sai carregando um balde. Ele despeja água escura numa canaleta, olha brevemente para os dois extremos da viela e retorna ao interior. Antes de fechar a porta, troca algumas palavras com alguém que Eron não consegue ver.
+
+A movimentação parece rotineira, mas confirma que a entrada dos fundos está sendo utilizada.
+
+Por fim, ao recuar para observar a esquina de outro ângulo, Eron localiza novamente o homem de capa cinzenta. O desconhecido permanece perto da oficina, mas agora conversa rapidamente com um rapaz que transporta um embrulho. O rapaz segue em direção aos cais; o encapuzado continua onde está.
+
+Eron não consegue ouvir a conversa. Também não vê qualquer sinal inequívoco de comunicação entre esse homem e os ocupantes do armazém.
+
+Com Furtividade 24, Eron completa o circuito de observação sem perceber qualquer reação dirigida ao seu deslocamento. Isso não garante que todos os possíveis observadores tenham falhado em notá-lo.
+
+Ao terminar, Eron está protegido atrás de um muro baixo da olaria desativada, de onde consegue ver parte da viela dos fundos e a esquina onde permanece o homem de capa cinzenta. A tarde continua avançando.
