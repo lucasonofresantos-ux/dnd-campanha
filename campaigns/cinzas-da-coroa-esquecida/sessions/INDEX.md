@@ -266,3 +266,5 @@ Arquivos produzidos nesta conferência: `transcripts/AUDITORIA_CONTINUIDADE_2026
 [SESSION_0000_CONTINUACAO_20261014_CK.md](transcripts/SESSION_0000_CONTINUACAO_20261014_CK.md) — 0186–0187: Eron observa corredor; ninguém visível nem passos claros, segurança não confirmada.
 
 [SESSION_0000_CONTINUACAO_20261014_CL.md](transcripts/SESSION_0000_CONTINUACAO_20261014_CL.md) — 0188–0189: Eron começa a amarrar funcionário rendido, sem arma aparente; pretende sacar arco e atirar na coxa do outro funcionário; ações ainda não concluídas.
+
+[SESSION_0000_CONTINUACAO_20261014_CM.md](transcripts/SESSION_0000_CONTINUACAO_20261014_CM.md) — 0190–0191: Eron observa Varen enquanto amarra rendido; Varen pressiona mulher junto à mesa, sem capturá-la; amarras ainda não concluídas.
