@@ -259,3 +259,5 @@ Arquivos produzidos nesta conferência: `transcripts/AUDITORIA_CONTINUIDADE_2026
 
 [SESSION_0000_CONTINUACAO_20261014_CG.md](transcripts/SESSION_0000_CONTINUACAO_20261014_CG.md) — 0178–0179: ataque de espada 1d20 [2]+4=6, falha, sem dano.
 [SESSION_0000_CONTINUACAO_20261014_CH.md](transcripts/SESSION_0000_CONTINUACAO_20261014_CH.md) — 0180–0181: Eron exige rendição e tenta se colocar entre funcionário e corredor; posição ainda não confirmada.
+
+[SESSION_0000_CONTINUACAO_20261014_CI.md](transcripts/SESSION_0000_CONTINUACAO_20261014_CI.md) — 0182–0183: Eron verifica Varen; aliado aproxima-se da mulher junto à mesa, mas ela ainda não foi agarrada nem amarrada.
