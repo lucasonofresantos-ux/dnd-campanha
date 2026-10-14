@@ -3,7 +3,7 @@ branch: sessao_0000_bromir_velkan
 status: active_for_resume
 source_of_truth: "sessions/transcripts/SESSION_0000_FONTE_LITERAL_0102_20261013.txt"
 scope: "Sessão 0 anterior e de ligação com a Sessão 1 já iniciada pelo jogador em born (grafada Lorn nos arquivos); preservar cenas e recursos separados até haver reconciliação narrativa de transição"
-location: "Corredor de serviço do Armazém dos Oleiros, junto à porta dos fundos agora fechada, não trancada, Caldria"
+location: "Pátio traseiro do Armazém dos Oleiros, Caldria, escondido atrás das caixas junto ao muro e à canaleta; vigia com lanterna nas proximidades"
 time: "Noite; duas badaladas ouvidas junto ao armazém e outra relatada anteriormente por Varen, sem saber posição na sequência nem confirmar terceiro toque."
 character:
   name: Eron River
@@ -13,15 +13,15 @@ character:
   hp_max: 11
   ac: 13
   wound: "Braço limpo e suturado por Orsik; sem recuperação de PV registrada depois"
-  money: "Saldo documentado após quarto e desjejum do Javali de Cobre: 57 PO e 3 PP, a partir de 58 PO; saldo atual após espólios, pagamentos e recompensas posteriores não confirmado"
+  money: "12 PO adicionais contadas do pagamento da réplica; saldo anterior comprovado após estalagem era 57 PO e 3 PP, mas total atual não reconciliado com espólios e pagamentos posteriores"
   conditions_confirmed: []
 present:
-  - "Eron River, dentro do corredor de serviço junto à porta dos fundos fechada e não trancada"
-  - "Varen, escondido atrás da carroça, sem a bolsa nem a réplica"
+  - "Eron River, no exterior atrás de caixas, capuz cobrindo rosto, ainda não identificado pelo vigia"
+  - "Varen, escondido atrás da carroça e instruído por Eron a permanecer oculto"
 bromir_status: "Em segurança planejada na hospedaria Carvalho Cinzento; não consta presente na conversa final"
 objects:
   - "Caixa aberta por Velkan; agulha contida; peça cinzenta com três anéis e eixo ainda no feltro"
-  - "Réplica do bronze: envolvida em tecido dentro da bolsa de couro, recuperada por Eron e com ele junto à porta dos fundos; estado interno da peça não examinado"
+  - "Réplica do bronze: entregue ao desconhecido enluvado do Armazém dos Oleiros, levada ao piso superior; último detentor exato desconhecido; não está com Eron"
   - "Mecanismo/peça original de bronze em custódia de Velkan; manter separado da caixa"
 unresolved:
   - "Origem e função da caixa e símbolo das três linhas convergindo num círculo"
@@ -29,14 +29,14 @@ unresolved:
   - "Vínculo de Varen com autoridades, ainda não demonstrado"
   - "Situação exata dos capturados no curtume após ordem de Haldren para buscar atendimento e guardas"
   - "Operação e pagamento pactuados com Haldren: 25 PO por capturados e 25 PO pela operação, sujeitos às condições; quitação não presumida"
-last_player_message_exact: "Ok e também registre oque falei da seção 1 que viemos para a 0 para fazer a ligação, se não tenho que explicar de novo.\nE vamos continuar a campanha\nEu vou usar percepção para avaliar o local e quantos tem, e fecho a porta"
-last_gm_prompt: "Eron fechou a porta traseira sem passar ferrolho e iniciou inspeção de Percepção. Desconhecido enluvado falou Agora podemos conversar. Há pelo menos essa pessoa; outras presenças ainda desconhecidas; aguarda d20+6 de Eron. Correção Sessão 0 prologo da Sessão 1 fixada em CONTINUIDADE_SESSOES_0000_0001.md."
-next: "Aguardar resultado do dado Percepção 1d20+6 informado por Eron; resolver investigação de possíveis outros ocupantes no armazém. Eron conserva réplica; porta fechada mas não trancada; sessão 0 é prólogo para Sessão 1 já iniciada."
+last_player_message_exact: "Eu enchoto o rato na direção do vigia"
+last_gm_prompt: "Eron assustou o rato da canaleta na direção do vigia. O rato disparou pela lama e cruzou perto das botas do lanternista, que recuou e desviou momentaneamente a atenção; depois ergueu a lanterna para procurar de novo o encapuzado que já notara atrás das caixas. Varen continua oculto. Sem nova rolagem."
+next: "Aguardar ação livre de Eron: vigia se encontra perto das caixas e já sabe que existe figura encapuzada por Furtividade 8, mas ainda não identificou rosto; rato causou apenas distração momentânea. Varen escondido junto à carroça. Réplica dentro do armazém, 12 PO contadas com Eron."
 transcription:
   completeness: "TXT 01.02 recuperado integralmente como enviado; história anterior e UI do chat ainda podem ter lacunas"
   audit: sessions/transcripts/AUDITORIA_CONTINUIDADE_20261013.md
   current_historical_end: sessions/transcripts/SESSION_0000_FONTE_LITERAL_0102_20261013.txt
-last_verified_transcript: sessions/transcripts/SESSION_0000_CONTINUACAO_20261013_AN.md
+last_verified_transcript: sessions/transcripts/SESSION_0000_CONTINUACAO_20261013_AW.md
 
 operational_dice_protocol: sessions/PROTOCOLO_DADOS_20261013.md
 no_new_rolls_or_scene_advancement_on_protocol_update: true
@@ -365,3 +365,27 @@ current_scene_an:
   ac: 13
   arrows: 19
   player_action_pending: true
+
+current_scene_aw:
+  transcript: sessions/transcripts/SESSION_0000_CONTINUACAO_20261013_AW.md
+  chronological_predecessors: "AO_RECUPERACAO, AP, AQ, AR, AS, AT, AU, AV"
+  current_session_is_prequel: true
+  parent_continuity: CONTINUIDADE_SESSOES_0000_0001.md
+  player_literal: "Eu enchoto o rato na direção do vigia"
+  location: "Pátio traseiro, Eron atrás de caixas junto ao muro e à canaleta"
+  eron_has_replica: false
+  original_replica_destination: "Andar superior do Armazém dos Oleiros, detentor final não observado"
+  pouch_counted: "12 PO, nenhuma PP ou PC na bolsa; dinheiro com Eron"
+  total_current_money: "Nao totalmente reconciliado com ganhos e gastos de outras cenas"
+  vigia: "Homem com lanterna, perto das caixas; sabe da presença encapuzada devido a Furtividade 8, não viu rosto identificado"
+  rat: "Rato castanho-escuro saiu da canaleta, cruzou perto do vigia e fugiu entre barris"
+  diversion: "Atenção do vigia desviada momentaneamente, suspeita permanece; nova busca com lanterna"
+  varen: "Oculto atrás da carroça, obedeceu sinal de ficar escondido"
+  latest_perception: "1d20 [16]+6=22, narrado como rolado em Python na mensagem 0104; log ordem 35"
+  earlier_stealth: "1d20 [2]+6=8, narrado como rolado em Python na mensagem 0102; log ordem 34"
+  new_dice_this_turn: false
+  hp_current: 8
+  hp_max: 11
+  armor_class: 13
+  arrows: 19
+  awaiting_player_action: true
