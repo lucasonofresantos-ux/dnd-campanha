@@ -427,3 +427,9 @@ Arquivos produzidos nesta conferência: `transcripts/AUDITORIA_CONTINUIDADE_2026
 [SESSION_0000_CONTINUACAO_20261014_FS.md](transcripts/SESSION_0000_CONTINUACAO_20261014_FS.md) — 0358–0359: Exame do braço, depoimento.
 
 [SESSION_0000_CONTINUACAO_20261014_FT.md](transcripts/SESSION_0000_CONTINUACAO_20261014_FT.md) — 0360–0361: depoimento a Halven, 12 PO da entrega permanecem com Eron, ponto refeito por Oren.
+
+[SESSION_0000_CONTINUACAO_20261014_FU.md](transcripts/SESSION_0000_CONTINUACAO_20261014_FU.md) — 0362–0363: Eron entrega voluntariamente 12 PO à guarda com recibo; Oren cobra 5 PP pendentes.
+
+[SESSION_0000_CONTINUACAO_20261014_FV.md](transcripts/SESSION_0000_CONTINUACAO_20261014_FV.md) — 0364–0365: espera pelo sargento Haldren e sua chegada ao armazém; bonificação discutida sem valor.
+
+[SESSION_0000_CONTINUACAO_20261014_FW.md](transcripts/SESSION_0000_CONTINUACAO_20261014_FW.md) — 0366–0367: lembrança da Estalagem do Carvalho Cinzento, onde Eron deixou Bromir e sua carroça; quarto não confirmado.
