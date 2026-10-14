@@ -224,3 +224,5 @@ Arquivos produzidos nesta conferência: `transcripts/AUDITORIA_CONTINUIDADE_2026
 [SESSION_0000_CONTINUACAO_20261014_BN.md](transcripts/SESSION_0000_CONTINUACAO_20261014_BN.md) — 0139–0140: Eron vigia oculto durante um minuto; passos ou rangidos indefinidos chamam a atencao dos homens, sem terceira pessoa confirmada.
 
 [SESSION_0000_CONTINUACAO_20261014_BO.md](transcripts/SESSION_0000_CONTINUACAO_20261014_BO.md) — 0141–0142: Eron espera oculto; mulher de sobretudo cinzento chega e conversa sobre entrega e sentinela. Três pessoas confirmadas na sala, sem descoberta dos intrusos.
+
+[SESSION_0000_CONTINUACAO_20261014_BP.md](transcripts/SESSION_0000_CONTINUACAO_20261014_BP.md) — mensagens 0143–0144: Eron prepara-se com Varen para o caso da mulher aproximar-se e reconhece a recém-chegada do armazém como a viajante de capa molhada que entrou no Javali de Cobre durante o jantar com Bromir. Dois homens na sala não foram identificados como os da estalagem. A mulher diz querer saber o que receberam, sem se aproximar do depósito. Sem rolagens novas.
