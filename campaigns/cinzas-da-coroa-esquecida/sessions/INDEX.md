@@ -216,3 +216,5 @@ Arquivos produzidos nesta conferência: `transcripts/AUDITORIA_CONTINUIDADE_2026
 [SESSION_0000_CONTINUACAO_20261014_BJ.md](transcripts/SESSION_0000_CONTINUACAO_20261014_BJ.md) — mensagens 0131–0132: Eron aproveita Furtividade 26 já obtida, abre postigo de carga do segundo pavimento e entra no depósito escuro, escondendo-se atrás de caixotes. Porta interior fechada com luz sob ela e duas vozes abafadas além; Varen começou a subir mas ainda não chegou à janela. Nenhuma nova rolagem, dano ou alerta confirmado.
 
 [SESSION_0000_CONTINUACAO_20261014_BK.md](transcripts/SESSION_0000_CONTINUACAO_20261014_BK.md) — mensagens 0133–0134: Eron mantem Furtividade 26 e espia por porta interna, Percepcao Python natural 20+6=26; abre apenas dois dedos, ve dois homens desconhecidos e embrulho escuro, ouve que a peca chegou e ainda nao foi conferida. Varen alcanca batente exterior da janela e aguarda entrada. Sem combate nem dano.
+
+[SESSION_0000_CONTINUACAO_20261014_BL.md](transcripts/SESSION_0000_CONTINUACAO_20261014_BL.md) — 0135–0136: Varen entra no deposito e se aproxima de Eron, dois homens na sala vizinha; sem dados.
