@@ -72,3 +72,23 @@ latest_scene_fs:
   hp_current: 6
   arrows: 12
   pending_player_action: true
+
+latest_scene_ft:
+  transcript: "sessions/transcripts/SESSION_0000_CONTINUACAO_20261014_FT.md"
+  player_testimony: "Eron relatou ao sargento Halven acontecimentos desde a separação de Haldren; Halven já presenciara o confronto com o vigia."
+  halven_question_pending: "Que elementos ligam os responsáveis pela entrega à sabotagem da carroça de Bromir?"
+  oren_care: "Refez ponto que havia cedido na sutura de Orsik, finalizou faixa; não concedeu cura de PV."
+  finger_sensation: "Oren aguarda resposta se há dormência ou dificuldade de movimentar dedos após descarga."
+  eron_hp_current: 6
+  eron_armor_class: 13
+  eron_arrows: 12
+  warehouse_payment:
+    amount_gp: 12
+    origin: "Bolsa recebida por Eron em troca da entrega da réplica falsa; contagem em SESSION_0000_CONTINUACAO_20261013_AT.md."
+    transferred_to_guard: false
+    current_possession: "Eron"
+    evidentiary_status: "Origem anotada por Halven em depoimento; não confiscadas. Pode haver exame futuro, não determinado."
+  criminal_seized_coins: "Pertences apreendidos dos prisioneiros e entregues formalmente a Halven em EY; não confundir com pagamento de 12 PO."
+  total_money_all_sources: "Não reconciliado; não somar sem conferir outras despesas, ganhos e transferências."
+  haldren: "Sargento da patrulha, chamado, ainda não presente."
+  pending_player_action: true
