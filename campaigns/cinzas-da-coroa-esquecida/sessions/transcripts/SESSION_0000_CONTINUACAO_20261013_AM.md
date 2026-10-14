@@ -56,3 +56,7 @@ A ficha preserva **8/11 PV, CA 13 e 19 flechas** da aventura atual. Também docu
 - Arquivo produzido no ambiente do ChatGPT: Eron_River_Ficha_Revisada_2024_Sessao_0.pdf, 5 páginas; transcrição e ficha em Markdown no GitHub são o registro canônico verificável.
 - Nenhuma rolagem foi realizada, o jogador não decidiu fechar a porta ou entregar a réplica durante a revisão; os números de ficha não foram retroativamente impostos a rolagens anteriores.
 - A correção de continuidade da Sessão 0 como prólogo para a Sessão 1 é uma afirmação expressa do jogador; preservar “born” literalmente e “Lorn” como grafia dos arquivos.
+
+## Adendo de localização do PDF (metadado posterior ao texto da resposta)
+
+Além do PDF disponibilizado no chat, foi enviada uma cópia persistente para a Biblioteca do ChatGPT, caminho `/Mestre RPG/Eron_River_Ficha_Revisada_2024_Sessao_0.pdf`, upload confirmado. O conteúdo textual completo e registro de estado estão no GitHub; o PDF binário não foi enviado ao GitHub.
