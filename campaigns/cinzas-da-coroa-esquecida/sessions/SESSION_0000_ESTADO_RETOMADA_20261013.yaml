@@ -3,7 +3,7 @@ branch: sessao_0000_bromir_velkan
 status: active_for_resume
 source_of_truth: "sessions/transcripts/SESSION_0000_FONTE_LITERAL_0102_20261013.txt"
 scope: "Sessão 0 anterior e de ligação com a Sessão 1 já iniciada pelo jogador em born (grafada Lorn nos arquivos); preservar cenas e recursos separados até haver reconciliação narrativa de transição"
-location: "Segundo andar do Armazem dos Oleiros, deposito escuro, Eron junto a porta interior aberta dois dedos, escondido; Varen no batente exterior da janela de carga"
+location: "Deposito escuro do segundo pavimento do Armazem dos Oleiros, Caldria; Eron e Varen ocultos na porta interior entreaberta"
 time: "Noite; duas badaladas ouvidas junto ao armazém e outra relatada anteriormente por Varen, sem saber posição na sequência nem confirmar terceiro toque."
 character:
   name: Eron River
@@ -29,14 +29,14 @@ unresolved:
   - "Vínculo de Varen com autoridades, ainda não demonstrado"
   - "Situação exata dos capturados no curtume após ordem de Haldren para buscar atendimento e guardas"
   - "Operação e pagamento pactuados com Haldren: 25 PO por capturados e 25 PO pela operação, sujeitos às condições; quitação não presumida"
-last_player_message_exact: "Oque eu consigo ouvir e ver que tem do outro lado e desse lado, consigo ouvir mais alguma coisa passos, ou que indique que tem mais gente e consigo chegar até eles sem ser visto?"
-last_gm_prompt: "Com Percepcao anterior 26, Eron continua escondido na porta interna entreaberta dois dedos; ve 2 homens na sala iluminada: homem em pe parcialmente de costas, sentado com potencial linha de visao para entrada. Ouve sentado perguntar Quanto tempo mais teremos de esperar?, outro responder Ate recebermos instrucoes. Nao vou abrir aquilo sem autorizacao. Ouve ranger e duas batidas abafadas aparentemente de outro local, sem confirmar mais pessoas. Entrada na sala iluminada nao seria automaticamente oculta; risco pelo homem sentado. Varen junto a Eron, escondido; nenhum movimento ou teste novo."
-next: "Aguardar proxima acao livre de Eron ao lado de Varen, escondidos no deposito do segundo piso junto a porta interna aberta dois dedos. Na sala alem, dois homens desconhecidos, um sentado com potencial visao da porta, outro em pe parcialmente de costas, mesa, lamparina e embrulho escuro nao identificado. Ouviram que objeto nao sera aberto sem instrucoes; ranger e batidas abafadas nao revelam com certeza terceira pessoa. Nova aproximação em area iluminada podera demandar teste de Furtividade se Eron tentar."
+last_player_message_exact: "Os dois são peões, não vou conseguir nada com eles, vou esperar até alguém a mais aparecer"
+last_gm_prompt: "Eron manteve-se oculto e esperou mais alguns minutos. Uma terceira pessoa, mulher com cabelos escuros presos, sobretudo cinzento e molho de chaves, chegou pela passagem à direita da sala vizinha. Perguntou se os dois homens abriram o embrulho (não), se entregador saiu (sim), se estava sozinho (não viram acompanhante), se sentinela dos fundos permanecia em ronda (sim). Mulher disse para ninguem entrar ou sair pela porta indicada ate terminarem. Ela se voltou aproximadamente para a parede da porta do deposito; Eron e Varen não foram descobertos."
+next: "Aguardar decisao de Eron oculto com Varen junto da porta interior entreaberta dois dedos. Na sala iluminada vizinha agora ha três pessoas visualmente confirmadas: dois homens e uma mulher de sobretudo cinza, chaves no cinto, aparentemente dando ordens. Ela voltou-se para o lado da porta de onde Eron observa, aumentando risco de deteccao. Embrulho sobre mesa nao foi aberto nem identificado. Referencia a sentinela dos fundos reforca suspeita de ligacao com ronda."
 transcription:
   completeness: "TXT 01.02 recuperado integralmente como enviado; história anterior e UI do chat ainda podem ter lacunas"
   audit: sessions/transcripts/AUDITORIA_CONTINUIDADE_20261013.md
   current_historical_end: sessions/transcripts/SESSION_0000_FONTE_LITERAL_0102_20261013.txt
-last_verified_transcript: sessions/transcripts/SESSION_0000_CONTINUACAO_20261014_BM.md
+last_verified_transcript: sessions/transcripts/SESSION_0000_CONTINUACAO_20261014_BO.md
 
 operational_dice_protocol: sessions/PROTOCOLO_DADOS_20261013.md
 no_new_rolls_or_scene_advancement_on_protocol_update: true
@@ -614,4 +614,29 @@ current_scene_bm:
   armor_class: 13
   arrows: 19
   operation_gold: 12
+  awaiting_player_action: true
+
+current_scene_bo:
+  transcript: sessions/transcripts/SESSION_0000_CONTINUACAO_20261014_BO.md
+  previous_transcript: sessions/transcripts/SESSION_0000_CONTINUACAO_20261014_BN.md
+  player_literal: "Os dois são peões, não vou conseguir nada com eles, vou esperar até alguém a mais aparecer"
+  elapsed_time: "Mais alguns minutos apos a ultima espera"
+  eron: "Imovel, oculto junto a porta interna entreaberta apenas dois dedos do deposito escuro"
+  varen: "Ao lado de Eron, oculto, sem se mover"
+  adjoining_room_visible_people: 3
+  newcomer: "Mulher de cabelos escuros presos, sobretudo de la cinzenta, molho de chaves no cinto; entrou pela passagem a direita fora do angulo anterior"
+  previous_men: "Homem antes sentado levantou-se com chegada; outro de pe junto a mesa"
+  dialogue_summary: "A mulher perguntou sobre embrulho nao aberto, entregador pago e saindo, acompanhante nao visto e sentinela dos fundos em ronda; ordenou controlar a porta ate terminarem"
+  wrap_contents_confirmed: false
+  woman_facing_deposit_door_general_direction: true
+  intruders_detected: false
+  guard_membership_assessment: "Referencia ao sentinela dos fundos reforca fortemente vinculo com ocupantes, sem identificacao precisa"
+  furtividade_eron_previous: 26
+  perception_eron_previous: 26
+  new_rolls: false
+  hp_current: 8
+  hp_max: 11
+  armor_class: 13
+  arrows: 19
+  payment_gold: 12
   awaiting_player_action: true
