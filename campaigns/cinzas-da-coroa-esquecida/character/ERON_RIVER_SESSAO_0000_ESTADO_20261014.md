@@ -15,3 +15,9 @@
 ## Atualização FS — atendimento por Oren
 
 Oren removeu a faixa antiga do braço ferido, suturado anteriormente por Orsik. Constatou um ponto cedido, discreta reabertura, sangue seco, sem hemorragia importante. Iniciou a limpeza e prepara reforço; aguarda relato de Eron sobre movimentos dos dedos e dormência após descarga elétrica. O procedimento não terminou. **6/11 PV, CA 13, 12 flechas; nenhuma cura mecânica concedida.** Halven iniciou o depoimento concomitantemente.
+
+## Atualização FT — pagamento e sutura
+
+Eron **permanece com as 12 PO** recebidas dos receptores da peça falsa no armazém e contadas em `sessions/transcripts/SESSION_0000_CONTINUACAO_20261013_AT.md`. A transferência de bens confiscados a Halven em `SESSION_0000_CONTINUACAO_20261014_EY.md` incluiu moedas dos prisioneiros, **não essas 12 PO**. Halven registrou a origem do pagamento em depoimento, sem confisco presente. **Saldo total final não reconciliado.**
+
+Oren examinou o corte antigo de Orsik, reaproximou a pequena abertura com ponto e terminou a faixa. **6/11 PV, CA 13, 12 flechas**, sem cura mecânica. A pergunta sobre sensibilidade e movimento dos dedos após choque está pendente. Halven perguntou quais fatos vinculavam receptores da entrega à sabotagem da carroça de Bromir.
