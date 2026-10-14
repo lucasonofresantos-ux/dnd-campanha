@@ -29,14 +29,14 @@ unresolved:
   - "Vínculo de Varen com autoridades, ainda não demonstrado"
   - "Situação exata dos capturados no curtume após ordem de Haldren para buscar atendimento e guardas"
   - "Operação e pagamento pactuados com Haldren: 25 PO por capturados e 25 PO pela operação, sujeitos às condições; quitação não presumida"
-last_player_message_exact: "Eu aproveito a furtividade e vou até a porta, minha ideia é espiar pela frestas ou abrir o mínimo para observar tanto o que há do outro lado quanto do lado de cá\nRole percepção para mim,\nClaro e vou esperar o Varen "
-last_gm_prompt: "Percepcao executada em Python d20 natural [20]+6=26. Eron manteve Furtividade 26, cruzou deposito ate porta, examinou lado de ca sem detectar sentinela/armadilha evidente. Abriu porta dois dedos e viu dois homens desconhecidos alem (um sentado, um em pe), lamparina, papeis, copo, embrulho escuro sobre mesa. Ouviu: Trouxeram a peca ha pouco; E ja conferiram?; Ainda nao. Disseram para esperar. Identidade do pacote desconhecida. Varen chegou ao batente externo da janela mas nao entrou; guarda nao o percebeu."
-next: "Aguardar acao de Eron escondido junto da porta interior aberta apenas dois dedos; dois homens desconhecidos em sala iluminada vizinha e pacote de tecido escuro, peça mencionada ainda nao conferida. Varen esta no batente da janela do deposito, ainda fora, aguardando espaco para entrar. Jogador ainda nao atacou, atravessou porta ou identificou pacote. Manter cobertura e evitar supor que Furtividade 26 garante invisibilidade futura."
+last_player_message_exact: "Oque eu consigo ouvir e ver que tem do outro lado e desse lado, consigo ouvir mais alguma coisa passos, ou que indique que tem mais gente e consigo chegar até eles sem ser visto?"
+last_gm_prompt: "Com Percepcao anterior 26, Eron continua escondido na porta interna entreaberta dois dedos; ve 2 homens na sala iluminada: homem em pe parcialmente de costas, sentado com potencial linha de visao para entrada. Ouve sentado perguntar Quanto tempo mais teremos de esperar?, outro responder Ate recebermos instrucoes. Nao vou abrir aquilo sem autorizacao. Ouve ranger e duas batidas abafadas aparentemente de outro local, sem confirmar mais pessoas. Entrada na sala iluminada nao seria automaticamente oculta; risco pelo homem sentado. Varen junto a Eron, escondido; nenhum movimento ou teste novo."
+next: "Aguardar proxima acao livre de Eron ao lado de Varen, escondidos no deposito do segundo piso junto a porta interna aberta dois dedos. Na sala alem, dois homens desconhecidos, um sentado com potencial visao da porta, outro em pe parcialmente de costas, mesa, lamparina e embrulho escuro nao identificado. Ouviram que objeto nao sera aberto sem instrucoes; ranger e batidas abafadas nao revelam com certeza terceira pessoa. Nova aproximação em area iluminada podera demandar teste de Furtividade se Eron tentar."
 transcription:
   completeness: "TXT 01.02 recuperado integralmente como enviado; história anterior e UI do chat ainda podem ter lacunas"
   audit: sessions/transcripts/AUDITORIA_CONTINUIDADE_20261013.md
   current_historical_end: sessions/transcripts/SESSION_0000_FONTE_LITERAL_0102_20261013.txt
-last_verified_transcript: sessions/transcripts/SESSION_0000_CONTINUACAO_20261014_BK.md
+last_verified_transcript: sessions/transcripts/SESSION_0000_CONTINUACAO_20261014_BM.md
 
 operational_dice_protocol: sessions/PROTOCOLO_DADOS_20261013.md
 no_new_rolls_or_scene_advancement_on_protocol_update: true
@@ -590,4 +590,28 @@ current_scene_bk:
   arrows: 19
   gold_payment_carried: 12
   no_new_damage: true
+  awaiting_player_action: true
+
+current_scene_bm:
+  transcript: sessions/transcripts/SESSION_0000_CONTINUACAO_20261014_BM.md
+  previous_transcript: sessions/transcripts/SESSION_0000_CONTINUACAO_20261014_BL.md
+  player_question: "Oque eu consigo ouvir e ver que tem do outro lado e desse lado, consigo ouvir mais alguma coisa passos, ou que indique que tem mais gente e consigo chegar até eles sem ser visto?"
+  eron_position: "Deposito escuro junto a porta interna aberta dois dedos, oculto na cobertura"
+  varen_position: "Junto a Eron no deposito, oculto, aguardando"
+  occupants_seen_adjoining_room: 2
+  standing_man_orientation: "Parcialmente de costas a porta"
+  seated_man_risk: "Poderia ver a entrada caso se volte"
+  additional_sounds: "Ranger e duas batidas abafadas de outra parte aparente do predio, sem fonte ou quantidade de pessoas confirmadas"
+  overheard_now: "Quanto tempo mais teremos de esperar? / Ate recebermos instrucoes. Nao vou abrir aquilo sem autorizacao."
+  suspicious_wrapped_item: "Sobre mesa; conteudo desconhecido, nao confirmado como replica"
+  furtividade_previous: 26
+  perception_previous: 26
+  new_checks: false
+  stealth_route_safe_guaranteed: false
+  crossing_illuminated_room: "Exige expor-se e pode requerer novo teste sob novas condicoes"
+  hp_current: 8
+  hp_max: 11
+  armor_class: 13
+  arrows: 19
+  operation_gold: 12
   awaiting_player_action: true
