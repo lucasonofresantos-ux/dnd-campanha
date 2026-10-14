@@ -50,3 +50,8 @@
 - Eron deixou claro que sua atuação contratada se encerrou e pediu a Haldren preservar vivo Marek para interrogatório. Os depoimentos da oficina de Velkan indicavam Marek como transmissor de ordens e possível superior não identificado associado ao homem de luvas negras; identidade e hierarquia seguem a apurar.
 - Haldren confirmou **50 PO devidas** (25 PO pelos cinco presos e 25 PO pela operação), ainda não quitadas. Bonificação adicional solicitada à patrulha, valor pendente.
 - Eron seguiu acompanhado de Varen até diante da **Estalagem do Carvalho Cinzento**, sem confirmar se Bromir permanece lá e sem ainda descansar. Eron segue com 6/11 PV, CA 13, 12 flechas.
+
+## Continuação FY — Bromir reencontrado acordado
+- Eron e Varen entraram na Estalagem do Carvalho Cinzento à noite, reencontraram Bromir acordado junto à lareira com ensopado e cerveja. Bromir demonstrou preocupação com o curativo e perguntou quem é Varen.
+- A proprietária informou que Bromir tratou da própria hospedagem. Ofereceu quarto individual por 5 PP ou quarto com jantar por 7 PP a Eron; ele ainda não comprou quarto nem refeição.
+- Eron 6/11 PV, CA 13, 12 flechas; descanso longo não começou, nenhuma recuperação de PV. Serviço com Haldren concluído, 50 PO ainda não pagas e bonificação extra indefinida.
