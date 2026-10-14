@@ -11,3 +11,7 @@
 - **Objetos de prova:** bens confiscados de oito prisioneiros entregues à Guarda, incluindo pacote lacrado, documentos, ferramentas, dinheiro e armas; não permanecem no inventário de Eron por omissão de texto.
 - **Evolução:** nível 1, sem avanço registrado nesta cena; não inventar experiência ou recompensa.
 - **Fonte:** transcrições de 14/10/2026, `sessions/SESSION_0000_ESTADO_ATUAL_20261014.yaml` e auditoria `sessions/transcripts/AUDITORIA_LACUNAS_E_POSTO_HALDREN_20261014.md`.
+
+## Atualização FS — atendimento por Oren
+
+Oren removeu a faixa antiga do braço ferido, suturado anteriormente por Orsik. Constatou um ponto cedido, discreta reabertura, sangue seco, sem hemorragia importante. Iniciou a limpeza e prepara reforço; aguarda relato de Eron sobre movimentos dos dedos e dormência após descarga elétrica. O procedimento não terminou. **6/11 PV, CA 13, 12 flechas; nenhuma cura mecânica concedida.** Halven iniciou o depoimento concomitantemente.
