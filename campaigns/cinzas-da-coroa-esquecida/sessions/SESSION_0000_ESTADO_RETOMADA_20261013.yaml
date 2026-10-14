@@ -755,3 +755,21 @@ current_scene_bt:
   arrows: 19
   gold_payment: 12
   awaiting_player_action: true
+
+current_scene_bu:
+  transcript: sessions/transcripts/SESSION_0000_CONTINUACAO_20261014_BU.md
+  player_capture_priority: "Mulher e homem enluvado vivos; outros vivos se possivel"
+  eron: "Oculto junto a porta entreaberta do deposito do segundo piso, aguardando sem atacar"
+  varen: "Escondido atras dos caixotes"
+  room: "Quatro pessoas visiveis: mulher, enluvado e dois funcionarios"
+  delivery_paper: "Folha entregue; marca coincide com livro segundo mulher, mas falta selo do seu escritorio"
+  enluvado: "Comecou a dirigir-se a passagem lateral, ainda na sala, disponivel para intervencao"
+  stealth_previous: 26
+  perception_previous: 25
+  player_action_pending: true
+  new_rolls: false
+  hp_current: 8
+  hp_max: 11
+  armor_class: 13
+  arrows: 19
+  payment_gold: 12
