@@ -47,3 +47,8 @@ Depois do registro histórico em que Eron contara as 12 PO recebidas pela répli
 **Honorários de Oren:** 5 PP por limpar, refazer ponto e enfaixar braço; **ainda não pagos**. Halven solicitou que a Guarda custeasse; se negado, pagamento em nome de Oren no posto de socorro da Rua da Fonte. Não debitar até pagamento efetivo.
 
 **Bromir:** pagou pessoalmente 4 PP pela cocheira da Estalagem do Carvalho Cinzento para carroça e animal até o dia seguinte, não é despesa de Eron; quarto por 5 PP ou 7 PP com jantar foi oferecido pela proprietária, sem aceitação/pagamento confirmado. Fonte: `sessions/transcripts/SESSION_0000_CONTINUACAO_20261012_D.md`.
+
+## Pedido ainda não quitado no Carvalho Cinzento — FZ
+- **Pedido de Eron:** 2 ensopados, 3 cervejas e 1 quarto individual com jantar. A proprietária cotou **7 PP** pelo quarto com um dos ensopados como jantar incluso, **2 PP** pelo segundo ensopado, **15 PC** pelas três cervejas. **Total cobrado: 10 PP e 5 PC.**
+- A comida e as bebidas foram servidas, mas **nenhuma moeda foi entregue pelo jogador no episódio 0372–0373**. Tratar 10 PP e 5 PC como conta em aberto, não dinheiro descontado. O quarto foi identificado como **n.º 6**; chave separada no balcão.
+- Não duplicar cobrança do jantar incluso e não presumir pagamento, consumo, descanso longo ou recuperação de PV.
