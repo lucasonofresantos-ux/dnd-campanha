@@ -31,3 +31,5 @@ Varen diminui o passo diante da estalagem.
 - **Linha de Missão Ativa:** Operação do armazém concluída por Eron; restam o pagamento de 50 PO acordados e a possível bonificação. Eron pretende descansar.
 - **Eventos Cruciais Ocorridos:** Haldren se comprometeu a proteger Marek sob escolta médica e a investigar o homem de luvas negras; reconheceu o serviço concluído, mas ainda não efetuou o pagamento. Eron e Varen chegaram à estalagem, sem entrar.
 - **Condições do Jogador:** 6/11 PV, CA 13, 12 flechas; braço suturado e enfaixado, sem recuperação de PV. As 12 PO da réplica falsa foram entregues à guarda mediante recibo; 5 PP pelo tratamento de Oren ainda pendentes de cobertura.
+
+GitHub: transcrição FX, índice, estado operacional, ficha de Eron e cronologia gravados e verificados; lacunas anteriores continuam documentadas.
