@@ -188,3 +188,9 @@ Arquivos produzidos nesta conferência: `transcripts/AUDITORIA_CONTINUIDADE_2026
 [SESSION_0000_CONTINUACAO_20261013_AV.md](transcripts/SESSION_0000_CONTINUACAO_20261013_AV.md) — 0103–0104: sinal a Varen para ocultar-se, Percepção d20 [16]+6=22; Eron percebe rato na canaleta e vigia se aproxima.
 
 [SESSION_0000_CONTINUACAO_20261013_AW.md](transcripts/SESSION_0000_CONTINUACAO_20261013_AW.md) — 0105–0106: Eron enxota rato na direção do vigia; roedor corre perto de suas botas e o distrai momentaneamente; vigia ainda desconfiado.
+
+[SESSION_0000_CONTINUACAO_20261013_AX.md](transcripts/SESSION_0000_CONTINUACAO_20261013_AX.md) — 0107–0108: Eron confirma que o vigia com lanterna segue na direção das caixas em que ele está, sem notar Varen nem reconhecer Eron.
+
+[SESSION_0000_CONTINUACAO_20261014_AY.md](transcripts/SESSION_0000_CONTINUACAO_20261014_AY.md) — 0109–0110: Eron declara que tentará sair furtivamente pelo muro; Mestre pede Destreza (Furtividade) 1d20+6; resultado ainda pendente naquela mensagem.
+
+[SESSION_0000_CONTINUACAO_20261014_AZ.md](transcripts/SESSION_0000_CONTINUACAO_20261014_AZ.md) — 0111–0112: jogador pede ao Mestre rolar; execução real Python dice_roller.py secrets.randbelow: Furtividade d20 [8]+6=14, anotada em dice suplemento ordem 36; Eron se desloca alguns passos ao longo do muro, mas novo ocultamento fracassa e vigia volta a vê-lo de capuz, ordenando parar; não reconhece rosto nem vê Varen. Sem combate ou dano.
