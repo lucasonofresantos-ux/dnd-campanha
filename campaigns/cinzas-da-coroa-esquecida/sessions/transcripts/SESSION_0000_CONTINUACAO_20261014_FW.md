@@ -6,4 +6,18 @@ Bem, aquela engrenagem e caixa estão se mostrando bem maiores do que pareciam, 
 
 ## Mensagem 0367 — Mestre (texto visível)
 
-[Resposta pendente de sincronização literal; não constitui transcrição integral.]
+Haldren olha para Eron e depois para os restos retorcidos do autômato.
+
+— Também estou começando a pensar que aquela engrenagem e a caixa de bronze valem muito mais do que imaginávamos. Mas você já fez sua parte esta noite.
+
+Ao ouvir a pergunta sobre Bromir, ele franze a testa por um instante e então responde:
+
+— **Estalagem do Carvalho Cinzento!** Foi o lugar que recomendei, lembra? Fica a duas ruas da oficina de Velkan. Tem um pátio de cocheiras cercado por muros, um portão reforçado e um tratador.
+
+A lembrança retorna com clareza: Bromir pagou **quatro peças de prata** para manter a carroça e o animal nas cocheiras até o dia seguinte. Depois, vocês entraram na estalagem. Quando Eron partiu para investigar o armazém, o anão estava negociando um quarto com a proprietária, que cobrava cinco pratas pela hospedagem ou sete com jantar. Eron não chegou a confirmar se ele pagou pelo quarto.
+
+— Espero que aquele anão tenha encontrado uma cama e seu maldito ensopado — acrescenta Haldren, com um sorriso cansado. — Mas não recebi notícias dele desde que vocês saíram da oficina. Não posso garantir que ainda esteja lá.
+
+Varen se levanta do caixote, ajeitando a capa úmida.
+
+— Depois de tudo que aconteceu, eu também gostaria de encontrar alguma coisa quente para comer.
