@@ -227,3 +227,28 @@ latest_scene_ga:
   eron_ac: 13
   eron_arrows: 12
   pending_player_action: true
+
+latest_scene_ge:
+  transcript: "sessions/transcripts/SESSION_0000_CONTINUACAO_20261014_GE.md"
+  location: "Balcão do salão da Estalagem do Carvalho Cinzento, Caldria"
+  present: ["Eron", "Proprietária", "Bromir e Varen à mesa junto à lareira"]
+  eron_order: "2 ensopados, 3 cervejas e 1 quarto individual com jantar"
+  inn_bill_sp: 10
+  inn_bill_cp_extra: 5
+  bill_status: "Quitada integralmente; debitar o equivalente a 1 PO e 5 PC da posse de Eron"
+  room_number: 6
+  room_key_held_by_eron: true
+  room_directions: "Primeiro andar, corredor à direita, última porta"
+  room_valid_until: "Amanhã, após a noite atual"
+  companions_lodging: "Bromir já tinha hospedagem; quarto de Varen não acertado nesta conversa"
+  eron_eating_and_drinking: true
+  long_rest_started: false
+  long_rest_completed: false
+  hp_recovered: 0
+  hp_current: 6
+  hp_max: 11
+  armor_class: 13
+  arrows: 12
+  haldren_contract_gp_due: 50
+  bonus: "Indefinida"
+  player_action_pending: true
