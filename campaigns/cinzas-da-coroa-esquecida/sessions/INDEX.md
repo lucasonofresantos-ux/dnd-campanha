@@ -333,3 +333,7 @@ Arquivos produzidos nesta conferência: `transcripts/AUDITORIA_CONTINUIDADE_2026
 [SESSION_0000_CONTINUACAO_20261014_DX.md](transcripts/SESSION_0000_CONTINUACAO_20261014_DX.md) — 0264–0265: documentos reunidos, corda preparada, ruído no térreo.
 
 [SESSION_0000_CONTINUACAO_20261014_DY.md](transcripts/SESSION_0000_CONTINUACAO_20261014_DY.md) — 0266–0267: Eron guarda livro e se esconde; Furtividade 17+6=23, novos ruídos no térreo.
+
+[SESSION_0000_CONTINUACAO_20261014_DZ.md](transcripts/SESSION_0000_CONTINUACAO_20261014_DZ.md) — 0268–0269: Percepção 19, movimento no térreo.
+
+[SESSION_0000_CONTINUACAO_20261014_EA.md](transcripts/SESSION_0000_CONTINUACAO_20261014_EA.md) — 0270–0271: Eron aguarda oculto; desconhecido sobe a escada e procura os registros.
