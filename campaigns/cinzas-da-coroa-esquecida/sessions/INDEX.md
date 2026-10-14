@@ -441,3 +441,5 @@ Arquivos produzidos nesta conferência: `transcripts/AUDITORIA_CONTINUIDADE_2026
 [SESSION_0000_CONTINUACAO_20261014_FZ.md](transcripts/SESSION_0000_CONTINUACAO_20261014_FZ.md) — 0372–0373: 2 ensopados, 3 cervejas e quarto 6; conta 10 PP e 5 PC não paga.
 
 [SESSION_0000_CONTINUACAO_20261014_GA.md](transcripts/SESSION_0000_CONTINUACAO_20261014_GA.md) — 0374–0375: Eron apresenta Varen a Bromir e brinca sobre luta no beco; ceia e conta da hospedaria seguem pendentes.
+
+[SESSION_0000_CONTINUACAO_20261014_GE.md](transcripts/SESSION_0000_CONTINUACAO_20261014_GE.md) — 0382–0383: Eron paga 10 PP e 5 PC por ensopados, cervejas e quarto com jantar; recebe chave do quarto 6. Sem descanso iniciado.
