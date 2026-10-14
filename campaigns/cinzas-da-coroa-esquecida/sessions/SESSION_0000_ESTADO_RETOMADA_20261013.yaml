@@ -3,7 +3,7 @@ branch: sessao_0000_bromir_velkan
 status: active_for_resume
 source_of_truth: "sessions/transcripts/SESSION_0000_FONTE_LITERAL_0102_20261013.txt"
 scope: "Sessão 0 anterior e de ligação com a Sessão 1 já iniciada pelo jogador em born (grafada Lorn nos arquivos); preservar cenas e recursos separados até haver reconciliação narrativa de transição"
-location: "Segundo pavimento do Armazem dos Oleiros, Caldria: Eron dentro de deposito escuro atras de caixotes, proximo a janela de carga"
+location: "Segundo andar do Armazem dos Oleiros, deposito escuro, Eron junto a porta interior aberta dois dedos, escondido; Varen no batente exterior da janela de carga"
 time: "Noite; duas badaladas ouvidas junto ao armazém e outra relatada anteriormente por Varen, sem saber posição na sequência nem confirmar terceiro toque."
 character:
   name: Eron River
@@ -29,14 +29,14 @@ unresolved:
   - "Vínculo de Varen com autoridades, ainda não demonstrado"
   - "Situação exata dos capturados no curtume após ordem de Haldren para buscar atendimento e guardas"
   - "Operação e pagamento pactuados com Haldren: 25 PO por capturados e 25 PO pela operação, sujeitos às condições; quitação não presumida"
-last_player_message_exact: "Eu vou entrar aproveitando a furtividade que tinha tirado"
-last_gm_prompt: "Eron usou Furtividade anterior 26 e abriu cuidadosamente o postigo inchado da janela de carga, sem encontrar tranca. Entrou em aposento escuro do segundo andar, ocultou-se atras de caixotes. Ha sacos, roldanas e porta fechada com luz amarela sob ela; duas vozes de entonacoes diferentes abafadas alem da porta, sem identidades. Varen comecou a subir mas ainda nao chegou. Vigia no terreo nao demonstrou perceber entrada."
-next: "Aguardar acao livre de Eron dentro do deposito do segundo andar, escondido atras de caixotes junto a janela de carga. Postigo aberto para passagem. Porta oposta fechada com luz sob ela, duas vozes abafadas de identidade indeterminada alem da porta. Varen em processo de escalada sem chegar; guarda no terreo sem deteccao confirmada. Manter Furtividade 26 enquanto cobertura e silencio se mantiverem."
+last_player_message_exact: "Eu aproveito a furtividade e vou até a porta, minha ideia é espiar pela frestas ou abrir o mínimo para observar tanto o que há do outro lado quanto do lado de cá\nRole percepção para mim,\nClaro e vou esperar o Varen "
+last_gm_prompt: "Percepcao executada em Python d20 natural [20]+6=26. Eron manteve Furtividade 26, cruzou deposito ate porta, examinou lado de ca sem detectar sentinela/armadilha evidente. Abriu porta dois dedos e viu dois homens desconhecidos alem (um sentado, um em pe), lamparina, papeis, copo, embrulho escuro sobre mesa. Ouviu: Trouxeram a peca ha pouco; E ja conferiram?; Ainda nao. Disseram para esperar. Identidade do pacote desconhecida. Varen chegou ao batente externo da janela mas nao entrou; guarda nao o percebeu."
+next: "Aguardar acao de Eron escondido junto da porta interior aberta apenas dois dedos; dois homens desconhecidos em sala iluminada vizinha e pacote de tecido escuro, peça mencionada ainda nao conferida. Varen esta no batente da janela do deposito, ainda fora, aguardando espaco para entrar. Jogador ainda nao atacou, atravessou porta ou identificou pacote. Manter cobertura e evitar supor que Furtividade 26 garante invisibilidade futura."
 transcription:
   completeness: "TXT 01.02 recuperado integralmente como enviado; história anterior e UI do chat ainda podem ter lacunas"
   audit: sessions/transcripts/AUDITORIA_CONTINUIDADE_20261013.md
   current_historical_end: sessions/transcripts/SESSION_0000_FONTE_LITERAL_0102_20261013.txt
-last_verified_transcript: sessions/transcripts/SESSION_0000_CONTINUACAO_20261014_BJ.md
+last_verified_transcript: sessions/transcripts/SESSION_0000_CONTINUACAO_20261014_BK.md
 
 operational_dice_protocol: sessions/PROTOCOLO_DADOS_20261013.md
 no_new_rolls_or_scene_advancement_on_protocol_update: true
@@ -565,4 +565,29 @@ current_scene_bj:
   operation_payment_gold: 12
   new_rolls: false
   combat_started: false
+  awaiting_player_action: true
+
+current_scene_bk:
+  transcript: sessions/transcripts/SESSION_0000_CONTINUACAO_20261014_BK.md
+  previous_transcript: sessions/transcripts/SESSION_0000_CONTINUACAO_20261014_BJ.md
+  player_message: "Eu aproveito a furtividade e vou até a porta, minha ideia é espiar pela frestas ou abrir o mínimo para observar tanto o que há do outro lado quanto do lado de cá\nRole percepção para mim,\nClaro e vou esperar o Varen "
+  eron_current_position: "Segundo andar, deposito escuro, junto a porta interior que abre para sala com duas vozes"
+  eron_furtividade_current: 26
+  eron_furtividade_source: "Anterior d20 20 natural +6 dado pelo jogador, ordem 38, mantida na cobertura"
+  current_perception: "1d20 [20]+6=26; executada Python secrets.randbelow, ordem 41"
+  inside_storeroom: "Caixotes, sacos, cordas, roldanas; nenhum sentinela ou armadilha identificado no campo observado"
+  interior_door: "Nao trancada; Eron a abriu dois dedos, escondido junto a ela"
+  adjoining_room: "Sala iluminada por lamparina sobre mesa; dois homens desconhecidos, um sentado e outro em pe; papeis, copo e pacote de tecido escuro na mesa"
+  suspicious_package_confirmed_replica: false
+  overheard: "Trouxeram a peca ha pouco / E ja conferiram? / Ainda nao, disseram para esperar"
+  observer_detection_confirmed: false
+  varen: "Chegou ao batente exterior da janela de carga, aguarda passagem; ainda nao entrou no deposito"
+  guard: "Com lanterna no terreo; nao detectou personagens ate ultima observacao"
+  actions_not_taken: "Eron nao atravessou a porta interior, nao apanhou pacote e nao atacou"
+  hp_current: 8
+  hp_max: 11
+  armor_class: 13
+  arrows: 19
+  gold_payment_carried: 12
+  no_new_damage: true
   awaiting_player_action: true
