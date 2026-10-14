@@ -292,3 +292,5 @@ Arquivos produzidos nesta conferência: `transcripts/AUDITORIA_CONTINUIDADE_2026
 
 [SESSION_0000_CONTINUACAO_20261014_DB.md](transcripts/SESSION_0000_CONTINUACAO_20261014_DB.md) — 0220–0221: Eron prepara ataque contra homem que surge da curva.
 [SESSION_0000_CONTINUACAO_20261014_DC.md](transcripts/SESSION_0000_CONTINUACAO_20261014_DC.md) — 0222–0223: Ataque 17+4=21; dano real 1d6 [3]+2=5; alvo ferido e consciente; Eron com 16 flechas.
+
+[SESSION_0000_CONTINUACAO_20261014_DD.md](transcripts/SESSION_0000_CONTINUACAO_20261014_DD.md) — 0224–0225: Eron ameaça homem ferido e prepara nova flecha; homem interrompe movimento rumo à arma e ergue a mão.
