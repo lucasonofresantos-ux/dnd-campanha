@@ -27,3 +27,8 @@ Oren examinou o corte antigo de Orsik, reaproximou a pequena abertura com ponto 
 - **Contrato:** Haldren reconheceu a participação de Eron como concluída; **25 + 25 PO ainda não quitadas**. Bonificação por risco extraordinário ainda sem valor. Nenhuma missão nova aceita.
 - **Situação física:** 6/11 PV, CA 13, 12 flechas, braço com ponto reforçado por Oren. Eron deseja descansar, mas **descanso longo não ocorreu** e nenhuma cura ou recuperação de recursos foi aplicada.
 - **Dinheiro:** 12 PO da entrega falsa já entregues voluntariamente à guarda mediante recibo; não estão no inventário de Eron. Os 5 PP de honorários de Oren não foram pagos, aguardam aprovação de cobertura pela guarda.
+
+## Atualização FY — reencontro com Bromir
+- **Local:** salão da Estalagem do Carvalho Cinzento, com Varen, Bromir acordado à mesa e a proprietária no balcão.
+- A proprietária oferece quarto individual por **5 PP** ou quarto com jantar por **7 PP**. Eron não comprou nem consumiu refeição e **não iniciou descanso longo**. Sem atualização de dinheiro e sem cura.
+- **PV 6/11, CA 13, 12 flechas**. Braço suturado/enfaixado. As 12 PO da operação encoberta foram entregues à guarda, com recibo. Haldren ainda deve **50 PO**, bonificação não definida.
