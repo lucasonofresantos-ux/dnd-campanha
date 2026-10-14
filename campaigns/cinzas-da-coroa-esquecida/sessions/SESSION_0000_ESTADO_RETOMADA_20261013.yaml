@@ -29,14 +29,14 @@ unresolved:
   - "Vínculo de Varen com autoridades, ainda não demonstrado"
   - "Situação exata dos capturados no curtume após ordem de Haldren para buscar atendimento e guardas"
   - "Operação e pagamento pactuados com Haldren: 25 PO por capturados e 25 PO pela operação, sujeitos às condições; quitação não presumida"
-last_player_message_exact: "Vou bater a porta, para entregar a réplica"
-last_gm_prompt: "A voz desconhecida atrás da porta dos fundos perguntou A roda continua girando? após Eron bater. Eron ainda não respondeu, porta fechada e réplica em sua posse."
-next: "Aguardar fala ou ação de Eron diante do desafio verbal; não antecipar resposta nem abrir porta automaticamente."
+last_player_message_exact: "Enquanto o eixo permanecer inteiro"
+last_gm_prompt: "O interlocutor desconhecido reconheceu a contrassenha, retirou dois trincos e entreabriu a porta mantendo corrente de segurança. Enluvada, uma mão surgiu pedindo para ver a encomenda; Eron permanece de posse da réplica. Aguarda escolha de Eron."
+next: "Aguardar reação de Eron ao pedido Mostre a encomenda; não presumir transferência da bolsa, abertura completa da porta ou identificação de interlocutor."
 transcription:
   completeness: "TXT 01.02 recuperado integralmente como enviado; história anterior e UI do chat ainda podem ter lacunas"
   audit: sessions/transcripts/AUDITORIA_CONTINUIDADE_20261013.md
   current_historical_end: sessions/transcripts/SESSION_0000_FONTE_LITERAL_0102_20261013.txt
-last_verified_transcript: sessions/transcripts/SESSION_0000_CONTINUACAO_20261013_AI.md
+last_verified_transcript: sessions/transcripts/SESSION_0000_CONTINUACAO_20261013_AJ.md
 
 operational_dice_protocol: sessions/PROTOCOLO_DADOS_20261013.md
 no_new_rolls_or_scene_advancement_on_protocol_update: true
@@ -231,3 +231,22 @@ current_scene_ai:
   no_new_rolls: true
   new_bell: false
   next: "Aguardar escolha do jogador"
+
+current_scene_aj:
+  transcript: sessions/transcripts/SESSION_0000_CONTINUACAO_20261013_AJ.md
+  player_exact_response: "Enquanto o eixo permanecer inteiro"
+  eron_location: "Sob beiral diante da porta dos fundos, no exterior do Armazém dos Oleiros"
+  door_status: "Entreaberta, com corrente de metal impedindo a abertura total; dois trincos foram retirados"
+  interlocutor: "Desconhecido, vestes escuras, luva de couro, rosto não identificado; pediu para mostrar a encomenda sem entrar"
+  eron_has_replica: true
+  replica_condition: "Dentro da bolsa de couro, envolvida em tecido; interior do mecanismo não examinado"
+  replica_delivered: false
+  varen: "Escondido atrás da carroça"
+  lantern_person: "Investigando beco lateral, lanterna visível ao longe"
+  new_rolls: false
+  new_bell: false
+  hp_current: 8
+  hp_max: 11
+  armor_class: 13
+  arrows: 19
+  awaiting_player_action: true
