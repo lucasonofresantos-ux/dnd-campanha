@@ -29,14 +29,14 @@ unresolved:
   - "Vínculo de Varen com autoridades, ainda não demonstrado"
   - "Situação exata dos capturados no curtume após ordem de Haldren para buscar atendimento e guardas"
   - "Operação e pagamento pactuados com Haldren: 25 PO por capturados e 25 PO pela operação, sujeitos às condições; quitação não presumida"
-last_player_message_exact: "Role para mim"
-last_gm_prompt: "Furtividade nova executada em Python: 1d20 [8]+6=14. Eron tentou escapar junto ao muro na distração do rato, mas fez ruído e vigia voltou a ver vulto encapuzado e ordenou Pare aí! Eu vi você! O vigia ainda não reconheceu rosto nem desembainhou arma. Varen permanece oculto atrás da carroça."
-next: "Aguardar livre reação de Eron ao vigia com lanterna que acabou de ordenar que pare; Eron se deslocou alguns passos ao longo do muro, mas não conseguiu ocultar-se (Furtividade 14, D&D 2024 DC 15). O vigia desconhece seu rosto e a presença de Varen; sem iniciativa, ataque, dano ou captura. Bolsa de 12 PO com Eron."
+last_player_message_exact: "Que distância eu estou do vigia?"
+last_gm_prompt: "Vigia aproximadamente 4,5 metros de Eron (3 quadrados D&D), de frente, lanterna erguida e mão perto do cinto, arma ainda embainhada. Viu figura encapuzada mas não reconheceu rosto. Varen segue escondido atrás da carroça, não percebido. Sem avanço narrativo, dados ou ações."
+next: "Aguardar ação livre de Eron a aproximadamente 4,5 m do vigia que ordenou parar e ainda não sacou arma; Eron junto ao muro fora das primeiras caixas, rosto não identificado. Varen continua oculto atrás da carroça. Evitar mover NPC ou presumir decisão antes da próxima mensagem."
 transcription:
   completeness: "TXT 01.02 recuperado integralmente como enviado; história anterior e UI do chat ainda podem ter lacunas"
   audit: sessions/transcripts/AUDITORIA_CONTINUIDADE_20261013.md
   current_historical_end: sessions/transcripts/SESSION_0000_FONTE_LITERAL_0102_20261013.txt
-last_verified_transcript: sessions/transcripts/SESSION_0000_CONTINUACAO_20261014_AZ.md
+last_verified_transcript: sessions/transcripts/SESSION_0000_CONTINUACAO_20261014_BA.md
 
 operational_dice_protocol: sessions/PROTOCOLO_DADOS_20261013.md
 no_new_rolls_or_scene_advancement_on_protocol_update: true
@@ -412,3 +412,22 @@ current_scene_az:
   combat_started: false
   new_npc_rolls: false
   next_player_action_pending: true
+
+current_scene_ba:
+  transcript: sessions/transcripts/SESSION_0000_CONTINUACAO_20261014_BA.md
+  guard_distance_from_eron_meters_approximate: 4.5
+  guard_distance_dnd_squares: 3
+  guard_lantern_raised: true
+  guard_weapon_drawn: false
+  guard_knows_eron_face: false
+  guard_awaits_eron_response: true
+  varen: "Oculto atras da carroca, nao percebido pelo vigia"
+  eron: "Ao longo do muro exterior do patio, capuz sobre rosto"
+  payment_carried: "Bolsa com 12 PO da entrega, saldo antigo nao totalmente reconciliado"
+  hp_current: 8
+  hp_max: 11
+  ca: 13
+  arrows: 19
+  no_new_rolls: true
+  no_new_movement: true
+  awaiting_player_action: true
