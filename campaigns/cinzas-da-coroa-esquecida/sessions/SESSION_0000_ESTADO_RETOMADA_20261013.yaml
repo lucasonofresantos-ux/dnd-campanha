@@ -29,14 +29,14 @@ unresolved:
   - "Vínculo de Varen com autoridades, ainda não demonstrado"
   - "Situação exata dos capturados no curtume após ordem de Haldren para buscar atendimento e guardas"
   - "Operação e pagamento pactuados com Haldren: 25 PO por capturados e 25 PO pela operação, sujeitos às condições; quitação não presumida"
-last_player_message_exact: "Vou aguardar mais para ver se o homem da luva vem e mais alguém, quero escutar mais"
-last_gm_prompt: "Eron aguardou escondido cerca de um minuto. Homem enviado voltou com enluvado que recebeu replica e pagou 12 PO. Mulher questionou autorizacao sem assinatura. Enluvado alegou folha sem nome com a mesma marca do registro, guardada entre papeis da sala de baixo. Mulher ordenou trazer a folha. Homem enviado saiu outra vez pelo corredor, deixando mulher, enluvado e outro homem na sala iluminada. Eron e Varen mantiveram posicoes ocultos."
-next: "Aguardar nova acao de Eron escondido junto a porta do deposito superior, Varen nos caixotes. Mulher reconhecida do Javali de Cobre, homem enluvado que recebeu a replica e um outro funcionario estao na sala iluminada com livro e replica sobre mesa. Enluvado mencionou folha sem nome marcada com mesmo sinal no registro, alegadamente nos papeis da sala inferior; mensageiro voltou pelo corredor para busca-la. Ninguem detectou Eron/Varen. Furtividade anterior 26 sob cobertura; Percepcao 25 anterior, nao nova rolagem."
+last_player_message_exact: "Perdão conversa 01.02 as Cinzas da Coroa Esquecida "
+last_gm_prompt: "Foi produzido apenas mapa visual ilustrativo da situacao de BU, sem escala verdadeira e sem alterar posições ou acontecimentos: Eron oculto junto ao batente interno, Varen atras de caixotes, mulher perto da mesa, enluvado aproximando passagem lateral e dois funcionarios. Nenhuma arma visivelmente confirmada. Arquivo vetorial no GitHub sessions/maps/ARMAZEM_DOS_OLEIROS_BW_ESQUEMA.svg; bitmap gerado neste chat mas nao enviado ao GitHub. A referencia estilistica era conversa 01.02, nao 01.01."
+next: "Retomar exatamente a cena BU: homem enluvado comecou a mover-se rumo ao corredor lateral mas ainda nao o atravessou. Mulher do Javali de Cobre e dois funcionarios na sala vizinha, documentos e replica sobre mesa; Eron junto ao batente dentro do deposito, Varen oculto atras dos caixotes. Jogador prioriza captura viva da mulher e homem enluvado e, se possivel, dos demais. Mapa BW e apenas ilustracao sem escala, nao altera fatos, distancias ou iniciativa."
 transcription:
   completeness: "TXT 01.02 recuperado integralmente como enviado; história anterior e UI do chat ainda podem ter lacunas"
   audit: sessions/transcripts/AUDITORIA_CONTINUIDADE_20261013.md
   current_historical_end: sessions/transcripts/SESSION_0000_FONTE_LITERAL_0102_20261013.txt
-last_verified_transcript: sessions/transcripts/SESSION_0000_CONTINUACAO_20261014_BT.md
+last_verified_transcript: sessions/transcripts/SESSION_0000_CONTINUACAO_20261014_BW.md
 
 operational_dice_protocol: sessions/PROTOCOLO_DADOS_20261013.md
 no_new_rolls_or_scene_advancement_on_protocol_update: true
@@ -773,3 +773,26 @@ current_scene_bu:
   armor_class: 13
   arrows: 19
   payment_gold: 12
+
+current_scene_bw:
+  transcript: sessions/transcripts/SESSION_0000_CONTINUACAO_20261014_BW.md
+  previous_transcript: sessions/transcripts/SESSION_0000_CONTINUACAO_20261014_BV.md
+  visual_map_svg: sessions/maps/ARMAZEM_DOS_OLEIROS_BW_ESQUEMA.svg
+  image_chat_reference: file_000000006304820e997139f3ea33e0fe
+  image_binary_in_github: false
+  user_initial_request: "Me gera um layout descente que nem na conversa 01.01 As Cinzas da Coroa Esquecida"
+  user_correction: "Perdão conversa 01.02 as Cinzas da Coroa Esquecida "
+  map_scale: "Nenhuma medida canonica; distancias artisticamente inseridas na imagem gerada nao vinculam regras de combate"
+  scene_advanced: false
+  weapons_visual_confirmation: false
+  eron_position: "Oculto junto ao batente interno da porta do deposito superior"
+  varen_position: "Oculto atras de caixotes no deposito"
+  four_npcs: "Mulher e funcionario proximo mesa, enluvado iniciando movimento para passagem lateral, outro funcionario proximo corredor"
+  current_hp: 8
+  max_hp: 11
+  armor_class: 13
+  arrows: 19
+  gold_received: 12
+  stealth_previous: 26
+  perception_previous: 25
+  awaiting_player_action: true
