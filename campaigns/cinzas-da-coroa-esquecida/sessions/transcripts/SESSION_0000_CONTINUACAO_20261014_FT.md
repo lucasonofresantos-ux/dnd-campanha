@@ -35,3 +35,5 @@ Halven termina uma linha de anotações, sopra suavemente a tinta e olha para Er
 - **Linha de Missão Ativa:** Formalizar depoimento, concluir operação e negociar pagamento/bonificação com Haldren.
 - **Eventos Cruciais Ocorridos:** Eron relatou a operação a Halven; o sargento confirmou que presenciou o confronto com o mecanismo. As 12 PO pagas pela peça falsa permanecem em posse de Eron; moedas apreendidas dos prisioneiros estão com a guarda.
 - **Condições do Jogador:** 6/11 PV, CA 13, 12 flechas. Ponto refeito e braço enfaixado; sem recuperação de PV. Avaliação de sensibilidade dos dedos pendente.
+
+GitHub: transcrição FT, índice, estado, inventário e cronologia gravados e verificados. Lacunas documentadas anteriormente permanecem pendentes.
