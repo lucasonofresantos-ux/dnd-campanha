@@ -45,3 +45,8 @@
 - Eron decidiu aguardar no Armazém dos Oleiros; após algum tempo Haldren chegou com um patrulheiro. Halven apresentou resultados e recomendou bonificação. Haldren reafirmou 25+25 PO contratados, sem registrar quitação, e reconheceu que risco excedeu contrato, sem prometer valor adicional.
 - **Lembrança de Eron:** Haldren recomendara a Estalagem do Carvalho Cinzento, a duas ruas da oficina de Velkan. Bromir pagou 4 PP pelo abrigo da carroça e animal nas cocheiras até o dia seguinte; o tratador fechou portão. Eron acompanhou Bromir ao salão, onde a proprietária ofereceu quarto individual por 5 PP ou 7 PP com jantar; Eron saiu antes de confirmar reserva ou pagamento. Bromir **não foi visto novamente**, e sua localização atual não foi verificada.
 - Eron continua no térreo do Armazém dos Oleiros, 6/11 PV, CA 13, 12 flechas; não se deslocou até a estalagem durante a pergunta.
+
+## Continuação FX — regresso ao Carvalho Cinzento
+- Eron deixou claro que sua atuação contratada se encerrou e pediu a Haldren preservar vivo Marek para interrogatório. Os depoimentos da oficina de Velkan indicavam Marek como transmissor de ordens e possível superior não identificado associado ao homem de luvas negras; identidade e hierarquia seguem a apurar.
+- Haldren confirmou **50 PO devidas** (25 PO pelos cinco presos e 25 PO pela operação), ainda não quitadas. Bonificação adicional solicitada à patrulha, valor pendente.
+- Eron seguiu acompanhado de Varen até diante da **Estalagem do Carvalho Cinzento**, sem confirmar se Bromir permanece lá e sem ainda descansar. Eron segue com 6/11 PV, CA 13, 12 flechas.
