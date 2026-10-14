@@ -343,3 +343,5 @@ Arquivos produzidos nesta conferência: `transcripts/AUDITORIA_CONTINUIDADE_2026
 [SESSION_0000_CONTINUACAO_20261014_EC.md](transcripts/SESSION_0000_CONTINUACAO_20261014_EC.md) — 0274–0275: desconhecido afirma estar sozinho e ter entrado pelos fundos com chave.
 
 [SESSION_0000_CONTINUACAO_20261014_ED.md](transcripts/SESSION_0000_CONTINUACAO_20261014_ED.md) — 0276–0277: desconhecido entrega duas lâminas e se deita; ainda não revistado ou amarrado.
+
+[SESSION_0000_CONTINUACAO_20261014_EE.md](transcripts/SESSION_0000_CONTINUACAO_20261014_EE.md) — 0278–0279: Eron amarra e revista sétimo prisioneiro; encontra bolsa, papel e embrulho fechado.
