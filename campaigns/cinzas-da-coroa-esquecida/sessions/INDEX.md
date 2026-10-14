@@ -353,3 +353,5 @@ Arquivos produzidos nesta conferência: `transcripts/AUDITORIA_CONTINUIDADE_2026
 [SESSION_0000_CONTINUACAO_20261014_EH.md](transcripts/SESSION_0000_CONTINUACAO_20261014_EH.md) — 0284–0285: Prisioneiros presos e testes solicitados.
 
 [SESSION_0000_CONTINUACAO_20261014_EI.md](transcripts/SESSION_0000_CONTINUACAO_20261014_EI.md) — 0286–0287: Furtividade 26, Percepção 24; porta dos fundos inspecionada.
+
+[SESSION_0000_CONTINUACAO_20261014_EJ.md](transcripts/SESSION_0000_CONTINUACAO_20261014_EJ.md) — 0288–0289: ronda térrea, entradas reforçadas; marcas atrás de caixotes.
