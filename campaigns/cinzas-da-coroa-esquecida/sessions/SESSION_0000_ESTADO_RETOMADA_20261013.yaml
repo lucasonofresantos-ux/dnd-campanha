@@ -36,7 +36,7 @@ transcription:
   completeness: "TXT 01.02 recuperado integralmente como enviado; história anterior e UI do chat ainda podem ter lacunas"
   audit: sessions/transcripts/AUDITORIA_CONTINUIDADE_20261013.md
   current_historical_end: sessions/transcripts/SESSION_0000_FONTE_LITERAL_0102_20261013.txt
-last_verified_transcript: sessions/transcripts/SESSION_0000_CONTINUACAO_20261013_AA.md
+last_verified_transcript: sessions/transcripts/SESSION_0000_CONTINUACAO_20261013_AB.md
 
 operational_dice_protocol: sessions/PROTOCOLO_DADOS_20261013.md
 no_new_rolls_or_scene_advancement_on_protocol_update: true
@@ -134,3 +134,11 @@ current_pending_action_20261013:
   hp_max: 11
   ac: 13
   arrows: 19
+
+last_interface_request_20261013:
+  transcript: sessions/transcripts/SESSION_0000_CONTINUACAO_20261013_AB.md
+  type: "Dado local d20 interativo com botão Enviar ao Mestre"
+  modifier: 7
+  rng: "PRNG do controle; não é Python secrets.randbelow"
+  rolled: false
+  send_result_pending: true
