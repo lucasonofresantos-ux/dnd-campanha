@@ -345,3 +345,5 @@ Arquivos produzidos nesta conferência: `transcripts/AUDITORIA_CONTINUIDADE_2026
 [SESSION_0000_CONTINUACAO_20261014_ED.md](transcripts/SESSION_0000_CONTINUACAO_20261014_ED.md) — 0276–0277: desconhecido entrega duas lâminas e se deita; ainda não revistado ou amarrado.
 
 [SESSION_0000_CONTINUACAO_20261014_EE.md](transcripts/SESSION_0000_CONTINUACAO_20261014_EE.md) — 0278–0279: Eron amarra e revista sétimo prisioneiro; encontra bolsa, papel e embrulho fechado.
+
+[SESSION_0000_CONTINUACAO_20261014_EF.md](transcripts/SESSION_0000_CONTINUACAO_20261014_EF.md) — 0280–0281: Eron lê instruções de entrega sem assinatura; mensageiro alerta para não abrir, derrubar ou aproximar embrulho de fogo.
