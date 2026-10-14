@@ -13,3 +13,7 @@
 - Na Sessão 0, houve estadia de Eron e Bromir no **Javali de Cobre**. Eron pagou **4 PP** do quarto compartilhado e **3 PP** de desjejum no dia seguinte: **7 PP**, não os 9 PP recordados. Saldo narrado depois: **57 PO e 3 PP**. Inventário e despesas auditados em `character/ERON_RIVER_SESSAO_0000_INVENTARIO_FINANCAS_20261013.md`.
 - A ficha do personagem utiliza **D&D 2024**. A revisão específica da Sessão 0 está em `character/ERON_RIVER_2024_SESSAO_0000_FICHA_REVISADA_20261013.md`; o PDF foi entregue em chat. Não modificar rolagens anteriores cuja expressão de Furtividade era +7 apesar da ficha 2024 +6.
 - Nenhuma ação de Eron, NPC, combate, rolagem ou avanço de relógio ocorreu durante esta auditoria. Última cena continua: corredor de serviço do Armazém dos Oleiros, porta dos fundos aberta, réplica com Eron, interlocutor de identidade desconhecida à frente.
+
+## Arquivo de continuidade permanente — 2026-10-13
+- Pedido expresso novamente pelo jogador: registrar permanentemente que **a Sessão 1 já foi iniciada em “born”** e que **a Sessão 0 foi solicitada posteriormente para formar a ligação com aquela cena**. Documento principal: `CONTINUIDADE_SESSOES_0000_0001.md`. Não repetir a pergunta ao jogador sobre motivo da Sessão 0 nem apagar qualquer execução.
+- Continuação AN: Eron já entrou no Armazém dos Oleiros, fechou a porta dos fundos sem trancar, conservou a réplica; tenta Percepção para localizar pessoas dentro. Aguardar 1d20+6 do jogador.
