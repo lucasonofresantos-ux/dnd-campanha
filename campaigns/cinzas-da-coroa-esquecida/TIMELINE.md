@@ -31,3 +31,9 @@
 - Após o combate, Eron pediu avaliação dos pontos antigos do braço, realizados por Orsik, e solicitou iniciar depoimento enquanto fosse atendido.
 - Oren constatou que um ponto cedeu, com pequena reabertura do corte; limpeza iniciada, fechamento ainda pendente. Perguntou se os dedos se movem normalmente ou se há dormência após a descarga da máquina. Sem recuperação de PV.
 - Halven começou a anotar e perguntou se o mecanismo atacou primeiro; a resposta de Eron ainda é aguardada.
+
+## Adendo FT — depoimento e pagamento
+- Oren concluiu o reforço da sutura do braço de Eron, sem recuperação de PV; ainda deseja esclarecer possíveis alterações nos dedos após descarga do vigia.
+- Eron relatou a Halven os acontecimentos desde ter se separado de Haldren; o sargento testemunhara pessoalmente o confronto com o mecanismo e fez anotações do depoimento.
+- Ficou esclarecido que as **12 PO** recebidas pela peça falsa pertencem ao montante carregado por Eron, não às moedas confiscadas dos oito detidos e entregues à Guarda. Halven registrou a declaração de origem, sem confiscar ou quitar contratos.
+- Halven perguntou ao depoente quais evidências relacionam o grupo da entrega à sabotagem da carroça de Bromir. Resposta ainda pendente.
