@@ -222,3 +222,5 @@ Arquivos produzidos nesta conferência: `transcripts/AUDITORIA_CONTINUIDADE_2026
 [SESSION_0000_CONTINUACAO_20261014_BM.md](transcripts/SESSION_0000_CONTINUACAO_20261014_BM.md) — 0137–0138: Eron observa e escuta dois homens na sala iluminada, sem mover-se.
 
 [SESSION_0000_CONTINUACAO_20261014_BN.md](transcripts/SESSION_0000_CONTINUACAO_20261014_BN.md) — 0139–0140: Eron vigia oculto durante um minuto; passos ou rangidos indefinidos chamam a atencao dos homens, sem terceira pessoa confirmada.
+
+[SESSION_0000_CONTINUACAO_20261014_BO.md](transcripts/SESSION_0000_CONTINUACAO_20261014_BO.md) — 0141–0142: Eron espera oculto; mulher de sobretudo cinzento chega e conversa sobre entrega e sentinela. Três pessoas confirmadas na sala, sem descoberta dos intrusos.
