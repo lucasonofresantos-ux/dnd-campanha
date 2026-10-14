@@ -32,3 +32,7 @@ Oren examinou o corte antigo de Orsik, reaproximou a pequena abertura com ponto 
 - **Local:** salão da Estalagem do Carvalho Cinzento, com Varen, Bromir acordado à mesa e a proprietária no balcão.
 - A proprietária oferece quarto individual por **5 PP** ou quarto com jantar por **7 PP**. Eron não comprou nem consumiu refeição e **não iniciou descanso longo**. Sem atualização de dinheiro e sem cura.
 - **PV 6/11, CA 13, 12 flechas**. Braço suturado/enfaixado. As 12 PO da operação encoberta foram entregues à guarda, com recibo. Haldren ainda deve **50 PO**, bonificação não definida.
+
+## Atualização FZ — conta do Carvalho Cinzento
+- Eron **encomendou** 2 ensopados, 3 cervejas e um quarto individual com jantar (quarto 6). Conta cotada em **10 PP e 5 PC**: 7 PP pela hospedagem com um jantar incluso, 2 PP pelo outro ensopado, 15 PC pelas três cervejas. Comida e bebidas servidas, **nenhum pagamento confirmado**, sem dedução monetária.
+- A proprietária **separou**, mas ainda não entregou a chave do quarto; Eron não começou o descanso longo e não recuperou PV. **6/11 PV, CA 13, 12 flechas.** Bromir pergunta o que aconteceu na investigação e quem é Varen.
