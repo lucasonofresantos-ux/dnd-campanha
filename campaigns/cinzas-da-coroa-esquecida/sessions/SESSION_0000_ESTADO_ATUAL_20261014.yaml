@@ -60,3 +60,15 @@ transcripts:
 dice:
   last_confirmed_in_main_log_at_audit_start: 47
   later: "Complemento retrospectivo deve distinguir rolagens informadas pelo jogador de resultados de Python não auditados; nenhuma rolagem nova nesta resposta"
+
+latest_scene_fs:
+  transcript: sessions/transcripts/SESSION_0000_CONTINUACAO_20261014_FS.md
+  scene: "Oren examina ferimento enquanto Halven começa depoimento"
+  sutures_originally_by: Orsik
+  wound_condition: "Um ponto cedeu; pequena reabertura sem sangramento importante; limpeza iniciada e reforço pendente"
+  hand_dexterity_or_numbness: "Pergunta de Oren ainda sem resposta de Eron"
+  halven_question: "Se o mecanismo atacou primeiro"
+  healing_applied_hp: 0
+  hp_current: 6
+  arrows: 12
+  pending_player_action: true
