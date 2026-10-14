@@ -29,14 +29,14 @@ unresolved:
   - "Vínculo de Varen com autoridades, ainda não demonstrado"
   - "Situação exata dos capturados no curtume após ordem de Haldren para buscar atendimento e guardas"
   - "Operação e pagamento pactuados com Haldren: 25 PO por capturados e 25 PO pela operação, sujeitos às condições; quitação não presumida"
-last_player_message_exact: "Enquanto o eixo permanecer inteiro"
-last_gm_prompt: "O interlocutor desconhecido reconheceu a contrassenha, retirou dois trincos e entreabriu a porta mantendo corrente de segurança. Enluvada, uma mão surgiu pedindo para ver a encomenda; Eron permanece de posse da réplica. Aguarda escolha de Eron."
-next: "Aguardar reação de Eron ao pedido Mostre a encomenda; não presumir transferência da bolsa, abertura completa da porta ou identificação de interlocutor."
+last_player_message_exact: "Eu mostro a encomenda, vou rolar enganação, joguei no roll20, deu 20 no dado"
+last_gm_prompt: "Eron mostrou superfície da réplica de bronze sem entregá-la. Interlocutor desconhecido pareceu convencido numa primeira inspeção, retirou corrente e abriu mais a porta, convidando Eron a entrar e fechá-la. Eron continua no exterior com a bolsa. Enganação 20 natural do Roll20; modificador da ficha não confirmado."
+next: "Aguardar decisão de Eron diante do convite para entrar no armazém, porta aberta sem corrente; não entrar nem entregar réplica automaticamente. Desconhecido mantém identidade oculta."
 transcription:
   completeness: "TXT 01.02 recuperado integralmente como enviado; história anterior e UI do chat ainda podem ter lacunas"
   audit: sessions/transcripts/AUDITORIA_CONTINUIDADE_20261013.md
   current_historical_end: sessions/transcripts/SESSION_0000_FONTE_LITERAL_0102_20261013.txt
-last_verified_transcript: sessions/transcripts/SESSION_0000_CONTINUACAO_20261013_AJ.md
+last_verified_transcript: sessions/transcripts/SESSION_0000_CONTINUACAO_20261013_AK.md
 
 operational_dice_protocol: sessions/PROTOCOLO_DADOS_20261013.md
 no_new_rolls_or_scene_advancement_on_protocol_update: true
@@ -250,3 +250,25 @@ current_scene_aj:
   armor_class: 13
   arrows: 19
   awaiting_player_action: true
+
+current_scene_ak:
+  transcript: sessions/transcripts/SESSION_0000_CONTINUACAO_20261013_AK.md
+  player_action: "Eron mostra parte da replica na bolsa e tenta passar a peça falsa como a original."
+  skill: "Enganação (Carisma), d20 [20] natural"
+  source: "Roll20, resultado informado pelo jogador; nenhuma nova rolagem feita pelo Mestre"
+  deception_modifier: null
+  deception_total: null
+  deception_effect: "O intermediário parece convencido pela aparência numa inspeção inicial; autenticidade real da peça não confirmada"
+  door: "Corrente retirada, abertura ampliada, passagem para corredor interior permitida"
+  unknown_interlocutor: "Continua sem rosto identificado, vestes escuras e luva de couro; pediu para Eron entrar e fechar a porta"
+  eron_position: "Exterior no batente da porta dos fundos, capuz cobrindo rosto"
+  eron_has_replica: true
+  replica_delivery_completed: false
+  varen: "Escondido atrás da carroça"
+  lantern_person: "No beco lateral, investigando barulho"
+  new_bells: false
+  hp_current: 8
+  hp_max: 11
+  ac: 13
+  arrows: 19
+  player_action_pending: true
