@@ -435,3 +435,5 @@ Arquivos produzidos nesta conferência: `transcripts/AUDITORIA_CONTINUIDADE_2026
 [SESSION_0000_CONTINUACAO_20261014_FW.md](transcripts/SESSION_0000_CONTINUACAO_20261014_FW.md) — 0366–0367: lembrança da Estalagem do Carvalho Cinzento, onde Eron deixou Bromir e sua carroça; quarto não confirmado.
 
 [SESSION_0000_CONTINUACAO_20261014_FX.md](transcripts/SESSION_0000_CONTINUACAO_20261014_FX.md) — 0368–0369: Eron e Varen seguem ao Carvalho Cinzento após reconhecimento de serviço concluído.
+
+[SESSION_0000_CONTINUACAO_20261014_FY.md](transcripts/SESSION_0000_CONTINUACAO_20261014_FY.md) — 0370–0371: Eron e Varen entram no Carvalho Cinzento, reencontram Bromir acordado; refeições e quartos oferecidos, sem compra ou descanso iniciado.
