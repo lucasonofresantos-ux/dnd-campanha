@@ -289,3 +289,6 @@ Arquivos produzidos nesta conferência: `transcripts/AUDITORIA_CONTINUIDADE_2026
 
 [SESSION_0000_CONTINUACAO_20261014_CZ.md](transcripts/SESSION_0000_CONTINUACAO_20261014_CZ.md) — 0216–0217: Teren afirma que há pelo menos dois no térreo; informação não confirmada.
 [SESSION_0000_CONTINUACAO_20261014_DA.md](transcripts/SESSION_0000_CONTINUACAO_20261014_DA.md) — 0218–0219: Homem das luvas identifica Bram e Odrik; desconhecido aparece parcialmente na curva.
+
+[SESSION_0000_CONTINUACAO_20261014_DB.md](transcripts/SESSION_0000_CONTINUACAO_20261014_DB.md) — 0220–0221: Eron prepara ataque contra homem que surge da curva.
+[SESSION_0000_CONTINUACAO_20261014_DC.md](transcripts/SESSION_0000_CONTINUACAO_20261014_DC.md) — 0222–0223: Ataque 17+4=21; dano real 1d6 [3]+2=5; alvo ferido e consciente; Eron com 16 flechas.
