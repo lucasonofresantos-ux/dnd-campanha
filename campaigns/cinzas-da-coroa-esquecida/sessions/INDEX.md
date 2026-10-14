@@ -281,3 +281,5 @@ Arquivos produzidos nesta conferência: `transcripts/AUDITORIA_CONTINUIDADE_2026
 
 [SESSION_0000_CONTINUACAO_20261014_CU.md](transcripts/SESSION_0000_CONTINUACAO_20261014_CU.md) — 0206–0207: Eron vigia corredor e ordena Varen amarrar os feridos.
 [SESSION_0000_CONTINUACAO_20261014_CV.md](transcripts/SESSION_0000_CONTINUACAO_20261014_CV.md) — 0208–0209: Varen amarra os dois feridos e começa a revista; Eron ouve ruído mais próximo da escada.
+
+[SESSION_0000_CONTINUACAO_20261014_CW.md](transcripts/SESSION_0000_CONTINUACAO_20261014_CW.md) — 0210–0211: Eron vigia corredor; voz masculina desconhecida pergunta por Teren perto da escada.
