@@ -218,3 +218,7 @@ Arquivos produzidos nesta conferência: `transcripts/AUDITORIA_CONTINUIDADE_2026
 [SESSION_0000_CONTINUACAO_20261014_BK.md](transcripts/SESSION_0000_CONTINUACAO_20261014_BK.md) — mensagens 0133–0134: Eron mantem Furtividade 26 e espia por porta interna, Percepcao Python natural 20+6=26; abre apenas dois dedos, ve dois homens desconhecidos e embrulho escuro, ouve que a peca chegou e ainda nao foi conferida. Varen alcanca batente exterior da janela e aguarda entrada. Sem combate nem dano.
 
 [SESSION_0000_CONTINUACAO_20261014_BL.md](transcripts/SESSION_0000_CONTINUACAO_20261014_BL.md) — 0135–0136: Varen entra no deposito e se aproxima de Eron, dois homens na sala vizinha; sem dados.
+
+[SESSION_0000_CONTINUACAO_20261014_BM.md](transcripts/SESSION_0000_CONTINUACAO_20261014_BM.md) — 0137–0138: Eron observa e escuta dois homens na sala iluminada, sem mover-se.
+
+[SESSION_0000_CONTINUACAO_20261014_BN.md](transcripts/SESSION_0000_CONTINUACAO_20261014_BN.md) — 0139–0140: Eron vigia oculto durante um minuto; passos ou rangidos indefinidos chamam a atencao dos homens, sem terceira pessoa confirmada.
