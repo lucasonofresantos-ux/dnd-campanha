@@ -35,7 +35,7 @@ cinzas-da-coroa-esquecida,0000,50,percepcao_passagem,mestre_resultado_declarado,
 cinzas-da-coroa-esquecida,0000,51,ataque_arco_homem_que_surge,jogador,17,,17,4,21,true,Resultado físico informado pelo jogador
 cinzas-da-coroa-esquecida,0000,52,dano_arco_homem_que_surge,mestre_resultado_declarado,3,,3,2,5,false,1d6+2 narrado como rolado; execução não verificável
 cinzas-da-coroa-esquecida,0000,53,percepcao_vistoria,mestre_resultado_declarado,16,,16,6,22,false,1d20+6 declarado anteriormente; execução não verificável
-cinzas-da-coroa-esquecida,0000,54,medicina,mestre_resultado_declarado,3,,3,0,3,false,"1d20=3 declarado; modificador e total corretos não confirmados, portanto os valores 0 e 3 são apenas placeholders do esquema; não presumir total"
+cinzas-da-coroa-esquecida,0000,54,medicina,mestre_resultado_declarado,3,,3,,,false,"1d20=3 declarado; modificador e total não confirmados, não presumir. Execução Python não verificável"
 cinzas-da-coroa-esquecida,0000,55,furtividade_terreo,jogador,17,,17,6,23,true,d20 físico
 cinzas-da-coroa-esquecida,0000,56,percepcao_terreo,mestre_resultado_declarado,13,,13,6,19,false,execução Python não verificável
 cinzas-da-coroa-esquecida,0000,57,percepcao_marcas,jogador,18,,18,6,24,true,d20 físico
