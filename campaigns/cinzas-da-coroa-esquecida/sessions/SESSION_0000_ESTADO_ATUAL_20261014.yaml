@@ -252,3 +252,23 @@ latest_scene_ge:
   haldren_contract_gp_due: 50
   bonus: "Indefinida"
   player_action_pending: true
+
+latest_scene_gf:
+  transcript: "sessions/transcripts/SESSION_0000_CONTINUACAO_20261014_GF.md"
+  location: "Salão da Estalagem do Carvalho Cinzento, Caldria"
+  eron: "Voltou à mesa, aconselhou Varen, convidou-o a ir à sede da patrulha amanhã, convidou Bromir; não aceitou novo contrato"
+  varen: "Concordou em acompanhar Eron amanhã; ainda tem razões próprias para investigar"
+  bromir: "Talvez acompanhe, depois de inspecionar a carroça; terminou sua cerveja"
+  payment_haldren_gp_due: 50
+  extraordinary_bonus_gp: null
+  inn_bill_paid: true
+  inn_paid_sp: 10
+  inn_paid_cp_extra: 5
+  room: 6
+  room_key_with_eron: true
+  eron_hp: 6
+  eron_hp_max: 11
+  eron_ac: 13
+  eron_arrows: 12
+  long_rest_started: false
+  pending_player_action: true
