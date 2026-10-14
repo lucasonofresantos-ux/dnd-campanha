@@ -1,0 +1,62 @@
+campaign_id: cinzas-da-coroa-esquecida
+branch: sessao_0000_bromir_caldria
+date_recorded: "2026-10-14"
+note: "Atualização isolada; não altera CAMPAIGN_STATE.yaml da sessão 0001 alternativa em Lorn."
+sources:
+  - "sessions/transcripts/SESSION_0000_CONTINUACAO_20261012_D.md"
+  - "sessions/transcripts/SESSION_0000_CONTINUACAO_20261014_FP.md"
+  - "sessions/transcripts/SESSION_0000_CONTINUACAO_20261014_FQ.md"
+  - "sessions/transcripts/AUDITORIA_LACUNAS_E_POSTO_HALDREN_20261014.md"
+character:
+  name: Eron River
+  hp_current: 6
+  hp_max: 11
+  armor_class: 13
+  arrows: 12
+  current_conditions: "Ferimentos após combate e descarga elétrica; exame médico ofertado, ainda não realizado"
+location: "Térreo do Armazém dos Oleiros, junto à passagem oculta, Caldria"
+scene:
+  weather: "Noite chuvosa"
+  mechanism: "Vigia de passagem possivelmente antigo; derrotado e imobilizado, peças a preservar sob guarda"
+  tunnel: "Acesso oculto descoberto; não explorado além do confronto"
+  marek: "Ferido, sendo atendido por Oren e encaminhado para retirada"
+  prisoners: "Oito presos vivos sob custódia formal de Halven e da Guarda de Caldria; três feridos"
+  evidence: "Volumes, pacote lacrado, documentos, armas, chave e demais itens confiscados entregues formalmente à guarda; não atribuir automaticamente a Eron"
+  reinforcements: "Primeiros guardas chegaram, prisioneiros começando a ser transportados"
+  npc_present: ["Halven", "Varen", "Oren", "Marek", "guardas"]
+  npc_not_present: ["Haldren"]
+  haldren_summoned: true
+  eron_position: "No térreo conversando com Halven; sem entrada autorizada nos túneis"
+  player_agency: "Eron manifestou desejo de descansar, não entrar no túnel sem recompensa e negociar bonificação"
+  last_dialogue: "Eron perguntou a Halven se Haldren também era sargento e qual preço ele cobraria para destruir tal mecanismo. Halven confirmou o posto e prometeu recomendar bonificação em relatório."
+npcs:
+  Haldren:
+    rank: "Sargento da patrulha de Caldria"
+    authority: "Responsável pelos patrulheiros e pelas prisões anteriores; pode contratar colaborador civil mediante verba para serviços extraordinários"
+    not_confirmed: "Não demonstrado que seja comandante geral de toda a guarda"
+  Halven:
+    rank: "Sargento da Guarda de Caldria"
+    authority: "Custódia dos oito detidos e condução da ocorrência no armazém"
+contract:
+  original_capture:
+    amount_gp: 25
+    obligation: "Cinco presos iniciais, vivos e transferidos formalmente para custódia"
+    payment_status: "Não comprovada quitação"
+  warehouse_operation:
+    amount_gp: 25
+    obligation: "Participação de Eron na operação noturna no Armazém dos Oleiros"
+    payment_status: "Não comprovada quitação"
+  contracted_total_gp: 50
+  bonus_extra:
+    amount_gp: null
+    status: "Halven prometeu recomendar formalmente; sem valor acordado ou pagamento realizado"
+    recommended_basis: "Confronto e neutralização de máquina hostil, ferimentos e prisões"
+transcripts:
+  latest_scene_pair: "0356-0357"
+  latest_expected: "sessions/transcripts/SESSION_0000_CONTINUACAO_20261014_FR.md"
+  recovered: ["FL", "FN"]
+  pending_missing: ["EH", "EK", "ER", "ET", "EW", "EX", "FA", "FJ"]
+  historical_pending: "Ver AUDITORIA_CONTINUIDADE_20261013.md; transcrição literal histórica ainda incompleta"
+dice:
+  last_confirmed_in_main_log_at_audit_start: 47
+  later: "Complemento retrospectivo deve distinguir rolagens informadas pelo jogador de resultados de Python não auditados; nenhuma rolagem nova nesta resposta"
