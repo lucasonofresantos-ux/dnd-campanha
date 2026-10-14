@@ -337,3 +337,7 @@ Arquivos produzidos nesta conferência: `transcripts/AUDITORIA_CONTINUIDADE_2026
 [SESSION_0000_CONTINUACAO_20261014_DZ.md](transcripts/SESSION_0000_CONTINUACAO_20261014_DZ.md) — 0268–0269: Percepção 19, movimento no térreo.
 
 [SESSION_0000_CONTINUACAO_20261014_EA.md](transcripts/SESSION_0000_CONTINUACAO_20261014_EA.md) — 0270–0271: Eron aguarda oculto; desconhecido sobe a escada e procura os registros.
+
+[SESSION_0000_CONTINUACAO_20261014_EB.md](transcripts/SESSION_0000_CONTINUACAO_20261014_EB.md) — 0272–0273: desconhecido rende-se sob mira do arco.
+
+[SESSION_0000_CONTINUACAO_20261014_EC.md](transcripts/SESSION_0000_CONTINUACAO_20261014_EC.md) — 0274–0275: desconhecido afirma estar sozinho e ter entrado pelos fundos com chave.
