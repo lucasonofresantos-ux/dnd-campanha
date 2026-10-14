@@ -2,7 +2,7 @@ campaign_id: cinzas-da-coroa-esquecida
 branch: sessao_0000_bromir_velkan
 status: active_for_resume
 source_of_truth: "sessions/transcripts/SESSION_0000_FONTE_LITERAL_0102_20261013.txt"
-scope: "Continuidade da Sessão 0, distinta da abertura alternativa da Sessão 0001 em Lorn"
+scope: "Sessão 0 anterior e de ligação com a Sessão 1 já iniciada pelo jogador em born (grafada Lorn nos arquivos); preservar cenas e recursos separados até haver reconciliação narrativa de transição"
 location: "Dentro do corredor de serviço do Armazém dos Oleiros, junto à porta dos fundos aberta, Caldria"
 time: "Noite; duas badaladas ouvidas junto ao armazém e outra relatada anteriormente por Varen, sem saber posição na sequência nem confirmar terceiro toque."
 character:
@@ -13,7 +13,7 @@ character:
   hp_max: 11
   ac: 13
   wound: "Braço limpo e suturado por Orsik; sem recuperação de PV registrada depois"
-  money: "Saldo exato atualizado não confirmado; não importar 58 PO iniciais da outra execução"
+  money: "Saldo documentado após quarto e desjejum do Javali de Cobre: 57 PO e 3 PP, a partir de 58 PO; saldo atual após espólios, pagamentos e recompensas posteriores não confirmado"
   conditions_confirmed: []
 present:
   - "Eron River, dentro do corredor de serviço junto à porta dos fundos aberta"
@@ -29,14 +29,14 @@ unresolved:
   - "Vínculo de Varen com autoridades, ainda não demonstrado"
   - "Situação exata dos capturados no curtume após ordem de Haldren para buscar atendimento e guardas"
   - "Operação e pagamento pactuados com Haldren: 25 PO por capturados e 25 PO pela operação, sujeitos às condições; quitação não presumida"
-last_player_message_exact: "Eu entro, oque falta na ficha do Eron, consegue pegar a ficha dele e me repassar aqui"
-last_gm_prompt: "Eron entrou no armazém com a bolsa da réplica, sem entregá-la nem fechar a porta. O interlocutor desconhecido pediu para Eron fechar a porta para tratar do pagamento. Foi consultada ficha 2024 de outro ramo (Sessão 0001 em Lorn) e identificadas divergências com atributos e recursos operacionais da Sessão 0000; nenhuma alteração de ficha foi efetuada."
-next: "Aguardar livre ação de Eron no corredor de serviço diante de interlocutor sem identidade revelada; porta dos fundos ainda aberta e réplica com Eron. Pendência externa de reconciliação mecânica da ficha não interrompe cena nem autoriza alterar recursos."
+last_player_message_exact: "Eu tinha gasto 9 moedas de prata se não me engano, foi da estadia logo depois de encontrar Bromir e do desejum no outro dia e a ficha é de 2024, eu tinha sido iniciado a seção 1 em born, mas pedi uma seção 0 para fazer a ligação\nMas revise a ficha do Eron River e me passa em PDF completo e registra, e confirma se foi isso mesmo que gastei pelos registros"
+last_gm_prompt: "Revisão da ficha D&D 2024 concluída, PDF de 5 páginas entregue no chat, ficha integral e auditoria financeira gravadas no GitHub. Histórico comprova 4 PP pelo quarto com Bromir e 3 PP pelo desjejum, total 7 PP, saldo após desjejum 57 PO e 3 PP. Estado da cena preservado no corredor interno do armazém, sem ação nova."
+next: "Retomar cena AL com Eron no corredor do Armazém dos Oleiros, diante do intermediário desconhecido, porta dos fundos aberta e réplica com Eron. Não resolver divergências mecânicas por retcon. A Sessão 0 precede a Sessão 1 já iniciada em born/Lorn."
 transcription:
   completeness: "TXT 01.02 recuperado integralmente como enviado; história anterior e UI do chat ainda podem ter lacunas"
   audit: sessions/transcripts/AUDITORIA_CONTINUIDADE_20261013.md
   current_historical_end: sessions/transcripts/SESSION_0000_FONTE_LITERAL_0102_20261013.txt
-last_verified_transcript: sessions/transcripts/SESSION_0000_CONTINUACAO_20261013_AL.md
+last_verified_transcript: sessions/transcripts/SESSION_0000_CONTINUACAO_20261013_AM.md
 
 operational_dice_protocol: sessions/PROTOCOLO_DADOS_20261013.md
 no_new_rolls_or_scene_advancement_on_protocol_update: true
@@ -298,3 +298,38 @@ current_scene_al:
     current_money: "Desconhecido, nao importar 58 PO de Sessao 0001"
     conditions: "Nenhuma confirmada"
   awaiting_player_action: true
+
+character_review_20261013:
+  confirmed_ruleset: "D&D 5E 2024 / SRD 5.2.1 e opções PHB 2024 aprovadas"
+  chosen_character_sheet: "character/ERON_RIVER_2024_PERSONAGEM_ESCOLHIDO.md"
+  prequel_review_sheet: "character/ERON_RIVER_2024_SESSAO_0000_FICHA_REVISADA_20261013.md"
+  finance_audit: "character/ERON_RIVER_SESSAO_0000_INVENTARIO_FINANCAS_20261013.md"
+  report_pdf: "Eron_River_Ficha_Revisada_2024_Sessao_0.pdf - artefato de chat (5 paginas), arquivo binario nao confirmado dentro do GitHub"
+  transcript: sessions/transcripts/SESSION_0000_CONTINUACAO_20261013_AM.md
+  session0_precedes_session1: true
+  user_spelled_session1_city: "born"
+  repository_city_name: "Lorn"
+  historic_initial_gold: 58
+  inn_expense_silver: 4
+  breakfast_expense_silver: 3
+  total_confirmed_expenses_silver: 7
+  recalled_unverified_expenses_silver: 9
+  recorded_balance_after_breakfast: "57 PO e 3 PP"
+  actual_current_cash: "Nao confirmado apos pagamentos e espolio posteriores"
+  reward_capture_25_gp: "Reconhecida como devida por Haldren, nao confirmada como recebida"
+  reward_operation_25_gp: "Condicionada, nao recebida"
+  character_level: 1
+  character_class: "Ladino 2024"
+  stealth_sheet_modifier: 6
+  stealth_historic_modifier: 7
+  stealth_correction: "Nao refazer ou alterar rolagens anteriores; reconciliar modificador de jogadas futuras"
+  deceptive_roll: "d20 20 natural no Roll20; ficha 2024 base Enganacao +1 mas historico nao recebeu total retificado"
+  no_new_rolls: true
+  no_new_scene_action: true
+  eron_hp_current: 8
+  eron_hp_max: 11
+  ac: 13
+  arrows: 19
+  eron_location: "Corredor interno do Armazem dos Oleiros; porta de fundos ainda aberta"
+  eron_has_replica: true
+  unknown_interlocutor_waiting: true
