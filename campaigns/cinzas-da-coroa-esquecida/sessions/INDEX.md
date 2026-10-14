@@ -1,5 +1,10 @@
 # Índice de sessões — As Cinzas da Coroa Esquecida
 
+## Continuidade obrigatória entre sessões 0000 e 0001 (confirmação reiterada em 2026-10-13)
+
+**Leia antes de retomar em outro chat:** [CONTINUIDADE_SESSOES_0000_0001.md](../CONTINUIDADE_SESSOES_0000_0001.md). A Sessão 1 em “born” (Lorn nos arquivos) já havia sido iniciada; o jogador pediu expressamente esta Sessão 0 para narrar o passado que conduzirá àquela cena. Não pedir para explicar novamente, não reiniciar e não importar decisões da Sessão 1 como se já tivessem ocorrido durante a Sessão 0. A ficha é **D&D 2024**.
+
+
 Identificador de campanha: `cinzas-da-coroa-esquecida`. Campanha 02, isolada da aventura de Vau do Corvo.
 
 | Registro | Estado | Transcrição |
@@ -163,3 +168,5 @@ Arquivos produzidos nesta conferência: `transcripts/AUDITORIA_CONTINUIDADE_2026
 [SESSION_0000_CONTINUACAO_20261013_AL.md](transcripts/SESSION_0000_CONTINUACAO_20261013_AL.md) — mensagens 0083–0084: Eron entra pelo acesso dos fundos do Armazém dos Oleiros; desconhecido pede que feche a porta e menciona pagamento. Eron permanece de posse da réplica e a porta continua aberta. Mestre consulta fichas 2024 escolhida/consolidada e auditoria do ramo alternativo da Sessão 0001, reapresenta valores como referência e aponta divergências da Sessão 0000: Furtividade +7 contra +6, dinheiro e detalhes de criação ainda não reconciliados. Nenhum dado rolado ou inventário alterado.
 
 [SESSION_0000_CONTINUACAO_20261013_AM.md](transcripts/SESSION_0000_CONTINUACAO_20261013_AM.md) — mensagens 0085–0086: jogador esclarece que a Sessão 0 foi pedida como ligação anterior à Sessão 1 iniciada em “born” (Lorn nos arquivos); reitera D&D 2024 e solicita ficha completa em PDF e revisão de 9 PP alegadamente gastos. Auditoria documental confirmou pagamento de 4 PP por metade do quarto com Bromir, 3 PP pelo desjejum, total 7 PP; saldo narrado depois de ambos 57 PO e 3 PP. Foi gerado PDF de 5 páginas no chat e gravada ficha revisada em `../character/ERON_RIVER_2024_SESSAO_0000_FICHA_REVISADA_20261013.md`, com auditoria de moedas em `../character/ERON_RIVER_SESSAO_0000_INVENTARIO_FINANCAS_20261013.md`. Nenhuma alteração retroativa em recursos ou jogadas.
+
+[SESSION_0000_CONTINUACAO_20261013_AN.md](transcripts/SESSION_0000_CONTINUACAO_20261013_AN.md) — mensagens 0087–0088: o jogador reitera a ordem Sessão 1 já iniciada / Sessão 0 como ponte; registrado arquivo de continuidade no nível da campanha. Eron fecha porta dos fundos sem trancar, mantém réplica e inicia avaliação visual e auditiva da área para descobrir quantos ocupantes existem. Percepção 1d20+6 aguarda dado do jogador, nenhuma nova rolagem ou resultado presumido.
