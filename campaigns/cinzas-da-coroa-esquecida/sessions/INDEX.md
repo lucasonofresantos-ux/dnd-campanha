@@ -278,3 +278,6 @@ Arquivos produzidos nesta conferência: `transcripts/AUDITORIA_CONTINUIDADE_2026
 [SESSION_0000_CONTINUACAO_20261014_CR.md](transcripts/SESSION_0000_CONTINUACAO_20261014_CR.md) — 0200–0201: Eron cobre entrada do corredor e ameaça mulher; ela pede garantia de sair viva, ainda sem rendição.
 
 [SESSION_0000_CONTINUACAO_20261014_CS.md](transcripts/SESSION_0000_CONTINUACAO_20261014_CS.md) — 0202–0203: Eron promete preservação da vida; mulher rende-se com mãos erguidas, Varen aproxima-se para prendê-la.
+
+[SESSION_0000_CONTINUACAO_20261014_CU.md](transcripts/SESSION_0000_CONTINUACAO_20261014_CU.md) — 0206–0207: Eron vigia corredor e ordena Varen amarrar os feridos.
+[SESSION_0000_CONTINUACAO_20261014_CV.md](transcripts/SESSION_0000_CONTINUACAO_20261014_CV.md) — 0208–0209: Varen amarra os dois feridos e começa a revista; Eron ouve ruído mais próximo da escada.
