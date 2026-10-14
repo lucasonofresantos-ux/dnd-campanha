@@ -246,3 +246,5 @@ Arquivos produzidos nesta conferência: `transcripts/AUDITORIA_CONTINUIDADE_2026
 [SESSION_0000_CONTINUACAO_20261014_BY.md](transcripts/SESSION_0000_CONTINUACAO_20261014_BY.md) — 0162–0163: Eron sinaliza a Varen e prepara emboscada contra o homem das luvas; aguarda ataque.
 [SESSION_0000_CONTINUACAO_20261014_BZ.md](transcripts/SESSION_0000_CONTINUACAO_20261014_BZ.md) — 0164–0165: ataque com vantagem [3,20]+4=24, crítico; aguarda dano.
 [SESSION_0000_CONTINUACAO_20261014_CA.md](transcripts/SESSION_0000_CONTINUACAO_20261014_CA.md) — 0166–0167: dano crítico rolado em Python 4d6 [3,2,1,5]+2=13; reação e imobilização não resolvidas.
+
+[SESSION_0000_CONTINUACAO_20261014_CB.md](transcripts/SESSION_0000_CONTINUACAO_20261014_CB.md) — 0168–0169: Eron guarda arco e tenta bloquear corredor e dominar funcionário; Varen se dirige à mulher; aguardando iniciativa 1d20+4.
