@@ -3,7 +3,7 @@ branch: sessao_0000_bromir_velkan
 status: active_for_resume
 source_of_truth: "sessions/transcripts/SESSION_0000_FONTE_LITERAL_0102_20261013.txt"
 scope: "Sessão 0 anterior e de ligação com a Sessão 1 já iniciada pelo jogador em born (grafada Lorn nos arquivos); preservar cenas e recursos separados até haver reconciliação narrativa de transição"
-location: "Deposito do segundo andar do Armazem dos Oleiros, Caldria; Eron e Varen agachados ocultos atras de pilhas separadas de caixotes proximos da porta interior"
+location: "Deposito do segundo andar do Armazem dos Oleiros, Caldria; Eron e Varen ocultos atras de pilhas distintas de caixotes, porta para sala vizinha ligeiramente aberta"
 time: "Noite; duas badaladas ouvidas junto ao armazém e outra relatada anteriormente por Varen, sem saber posição na sequência nem confirmar terceiro toque."
 character:
   name: Eron River
@@ -29,14 +29,14 @@ unresolved:
   - "Vínculo de Varen com autoridades, ainda não demonstrado"
   - "Situação exata dos capturados no curtume após ordem de Haldren para buscar atendimento e guardas"
   - "Operação e pagamento pactuados com Haldren: 25 PO por capturados e 25 PO pela operação, sujeitos às condições; quitação não presumida"
-last_player_message_exact: "Bem só vamos nos esconder se vierem em nossa direção mas vamos esperar um pouco mais"
-last_gm_prompt: "Depois de esperar, mulher afastou parte do pano e Eron reconheceu formato da replica de bronze na mesa. Ela pediu livro de remessas para conferir nomes; homem informou estar no deposito e dirigiu-se ate a porta. Conforme condicao autorizada por Eron, ele e Varen recuaram silenciosamente para tras de caixotes distintos; o homem parou diante da porta e comecou a girar macaneta; a porta ainda nao abriu alem da fresta anterior. Nenhuma deteccao, rolagem, combate ou dano."
-next: "Aguardar acao livre de Eron escondido com Varen em coberturas separadas no deposito superior. Um homem desconhecido da sala adjacente esta do outro lado da porta interna e comecou a girar macaneta para buscar livro de remessas, que supostamente esta no deposito. Porta ainda aberta somente dois dedos. Mulher e segundo homem na sala iluminada. Eron reconheceu replica em bronze parcialmente descoberta na mesa. Manter Furtividade 26 enquanto cobertura permitir, sem presumir descoberta ou ataque."
+last_player_message_exact: "Vamos continuar escondidos precisamos de mais informações, mas os dois que estavam aqui em cima são descartáveis, e tem mais dois lá em baixo, no pior dos casos matamos e deixamos só a mulher e o da luva viva "
+last_gm_prompt: "Varen aconselhou cautela: contagem dos ocupantes no terreo incerta. O homem da sala iluminada abriu porta do deposito, passou a ~2 m de Eron sem notar, encontrou livro de remessas encadernado em couro castanho numa estante e o levou a mulher. Mulher examinou livro, descobriu que remessa nao tem assinatura de autorizacao, apenas marca de recebimento, e ordenou que nao tocassem na peca ate apurar quem autorizou. Porta do deposito ficou ligeiramente aberta, Eron e Varen escondidos; sem combate ou teste novo."
+next: "Aguardar acao de Eron e Varen escondidos no deposito superior, atras de pilhas separadas de caixotes, porta interna ligeiramente aberta para sala iluminada. Dois homens e mulher (reconhecida do Javali de Cobre) examinam livro de remessas. Ha marca de recebimento mas falta assinatura de autorizacao da peca; mulher ordenou que nao tocassem nela ate descobrir origem. Homem enluvado e de avental vistos antes no terreo, posicoes atuais incertas. Furtividade anterior 26 enquanto cobertura permitir, sem combate declarado."
 transcription:
   completeness: "TXT 01.02 recuperado integralmente como enviado; história anterior e UI do chat ainda podem ter lacunas"
   audit: sessions/transcripts/AUDITORIA_CONTINUIDADE_20261013.md
   current_historical_end: sessions/transcripts/SESSION_0000_FONTE_LITERAL_0102_20261013.txt
-last_verified_transcript: sessions/transcripts/SESSION_0000_CONTINUACAO_20261014_BQ.md
+last_verified_transcript: sessions/transcripts/SESSION_0000_CONTINUACAO_20261014_BR.md
 
 operational_dice_protocol: sessions/PROTOCOLO_DADOS_20261013.md
 no_new_rolls_or_scene_advancement_on_protocol_update: true
@@ -685,3 +685,25 @@ current_scene_bq:
   arrows: 19
   operation_payment_gold: 12
   player_action_pending: true
+
+current_scene_br:
+  transcript: sessions/transcripts/SESSION_0000_CONTINUACAO_20261014_BR.md
+  previous_transcript: sessions/transcripts/SESSION_0000_CONTINUACAO_20261014_BQ.md
+  player_intent: "Continuar escondidos, conseguir mais informacoes; hipotese de dois no terreo e possibilidade de matar alguns se necessario"
+  actions_by_eron: "Sem ataque, sem deslocamento, manteve escondido"
+  varen: "Escondido em outra pilha de caixotes, aconselhou nao lutar sem necessidade e nao assumir numero certo no terreo"
+  entering_npc: "Homem da sala vizinha abriu porta, passou a cerca de 2 m de Eron sem perceber, encontrou livro de remessas em estante baixa e voltou"
+  door_current: "Ligeiramente aberta depois de passagem do homem"
+  ledger: "Livro grosso encadernado em couro castanho levado pela homem para a mulher na sala iluminada"
+  overheard: "A remessa nao tem assinatura de autorizacao, apenas marca de recebimento; mulher proibiu tocar na peca ate descobrir quem autorizou"
+  replica: "Reconhecida por Eron antes sobre a mesa vizinha, mulher continua a supervisionar"
+  eron_stealth_prior: 26
+  detection: false
+  new_rolls: false
+  combat: false
+  hp_current: 8
+  hp_max: 11
+  armor_class: 13
+  arrows: 19
+  operation_gold: 12
+  awaiting_player_action: true
