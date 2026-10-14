@@ -311,3 +311,5 @@ Arquivos produzidos nesta conferência: `transcripts/AUDITORIA_CONTINUIDADE_2026
 
 [SESSION_0000_CONTINUACAO_20261014_DM.md](transcripts/SESSION_0000_CONTINUACAO_20261014_DM.md) — 0242–0243: Varen desce para verificar entradas; Eron prepara revista e recebe pedido de teste.
 [SESSION_0000_CONTINUACAO_20261014_DN.md](transcripts/SESSION_0000_CONTINUACAO_20261014_DN.md) — 0244–0245: Percepção 1d20 [16]+6=22; amarras firmes; encontrados chave escondida e lâmina fina.
+
+[SESSION_0000_CONTINUACAO_20261014_DO.md](transcripts/SESSION_0000_CONTINUACAO_20261014_DO.md) — 0246–0247: Eron conclui revista e fecha acesso; Varen confirma porta de carga trancada, não encontra pessoas e observa marcas de barro no térreo.
