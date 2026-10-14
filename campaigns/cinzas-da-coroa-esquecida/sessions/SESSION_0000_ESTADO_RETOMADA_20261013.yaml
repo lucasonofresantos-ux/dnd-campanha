@@ -3,7 +3,7 @@ branch: sessao_0000_bromir_velkan
 status: active_for_resume
 source_of_truth: "sessions/transcripts/SESSION_0000_FONTE_LITERAL_0102_20261013.txt"
 scope: "Sessão 0 anterior e de ligação com a Sessão 1 já iniciada pelo jogador em born (grafada Lorn nos arquivos); preservar cenas e recursos separados até haver reconciliação narrativa de transição"
-location: "Exterior segundo andar do Armazém dos Oleiros, Caldria, Eron segurando batente da janela de carga a 5 metros; Varen junto da base da parede"
+location: "Segundo pavimento do Armazem dos Oleiros, Caldria: Eron dentro de deposito escuro atras de caixotes, proximo a janela de carga"
 time: "Noite; duas badaladas ouvidas junto ao armazém e outra relatada anteriormente por Varen, sem saber posição na sequência nem confirmar terceiro toque."
 character:
   name: Eron River
@@ -29,14 +29,14 @@ unresolved:
   - "Vínculo de Varen com autoridades, ainda não demonstrado"
   - "Situação exata dos capturados no curtume após ordem de Haldren para buscar atendimento e guardas"
   - "Operação e pagamento pactuados com Haldren: 25 PO por capturados e 25 PO pela operação, sujeitos às condições; quitação não presumida"
-last_player_message_exact: "Role para mim"
-last_gm_prompt: "Forca Atletismo 1d20 [19]+3=22 executada Python com secrets.randbelow: Eron subiu ate janela de carga a ~5 m, mas ainda esta do lado de fora, segurando-se no batente e viga. Ve parte de sala escura com caixotes e porta. Guarda nao demonstrou notar. Conforme plano anterior, Eron sinalizou e Varen iniciou preparacao para subir, ainda sem completar escalada."
-next: "Aguardar decisão de Eron na viga ao lado do postigo da janela de carga superior. Ainda nao entrou; travamento e presencas interiores incertos. Varen junto a base da parede recebeu sinal, preparando escalada. Vigia no terreo nao mostrou ter percebido movimento. Não presumir abertura, incursao ou rolagem Varen antes das circunstancias."
+last_player_message_exact: "Eu vou entrar aproveitando a furtividade que tinha tirado"
+last_gm_prompt: "Eron usou Furtividade anterior 26 e abriu cuidadosamente o postigo inchado da janela de carga, sem encontrar tranca. Entrou em aposento escuro do segundo andar, ocultou-se atras de caixotes. Ha sacos, roldanas e porta fechada com luz amarela sob ela; duas vozes de entonacoes diferentes abafadas alem da porta, sem identidades. Varen comecou a subir mas ainda nao chegou. Vigia no terreo nao demonstrou perceber entrada."
+next: "Aguardar acao livre de Eron dentro do deposito do segundo andar, escondido atras de caixotes junto a janela de carga. Postigo aberto para passagem. Porta oposta fechada com luz sob ela, duas vozes abafadas de identidade indeterminada alem da porta. Varen em processo de escalada sem chegar; guarda no terreo sem deteccao confirmada. Manter Furtividade 26 enquanto cobertura e silencio se mantiverem."
 transcription:
   completeness: "TXT 01.02 recuperado integralmente como enviado; história anterior e UI do chat ainda podem ter lacunas"
   audit: sessions/transcripts/AUDITORIA_CONTINUIDADE_20261013.md
   current_historical_end: sessions/transcripts/SESSION_0000_FONTE_LITERAL_0102_20261013.txt
-last_verified_transcript: sessions/transcripts/SESSION_0000_CONTINUACAO_20261014_BI.md
+last_verified_transcript: sessions/transcripts/SESSION_0000_CONTINUACAO_20261014_BJ.md
 
 operational_dice_protocol: sessions/PROTOCOLO_DADOS_20261013.md
 no_new_rolls_or_scene_advancement_on_protocol_update: true
@@ -542,4 +542,27 @@ current_scene_bi:
   arrows: 19
   gold_payment: 12
   no_other_rolls: true
+  awaiting_player_action: true
+
+current_scene_bj:
+  transcript: sessions/transcripts/SESSION_0000_CONTINUACAO_20261014_BJ.md
+  previous_transcript: sessions/transcripts/SESSION_0000_CONTINUACAO_20261014_BI.md
+  player_literal: "Eu vou entrar aproveitando a furtividade que tinha tirado"
+  location: "Dentro de aposento escuro de armazenamento no segundo pavimento, atras de caixotes perto da janela de carga"
+  eron_inside_building: true
+  eron_hidden: true
+  current_stealth: "26, d20 natural 20 +6 informado pelo jogador anteriormente, nao rerrolado"
+  loading_shutter: "Postigo estava sem tranca impedindo movimento, madeira umida; aberto o suficiente para Eron atravessar"
+  room_visible: "Caixotes, sacos, roldanas enferrujadas e porta oposta fechada com luz amarelada saindo por baixo"
+  voices: "Duas entonacoes diferentes abafadas atras da porta; falas e identidades indeterminadas"
+  room_occupant_count: "Nao confirmado; nenhum ocupante visivel percebeu Eron"
+  varen: "Comecou a escalar parede externa apos sinal anterior, ainda nao chegou a janela; nenhum novo dado NPC"
+  lantern_guard: "Terreo, nao demonstrou perceber a entrada; ligacao com ocupantes continua nao confirmada"
+  eron_hp_current: 8
+  eron_hp_max: 11
+  eron_ac: 13
+  eron_arrows: 19
+  operation_payment_gold: 12
+  new_rolls: false
+  combat_started: false
   awaiting_player_action: true
