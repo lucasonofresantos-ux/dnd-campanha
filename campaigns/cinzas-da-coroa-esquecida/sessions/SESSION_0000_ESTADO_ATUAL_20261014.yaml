@@ -92,3 +92,33 @@ latest_scene_ft:
   total_money_all_sources: "Não reconciliado; não somar sem conferir outras despesas, ganhos e transferências."
   haldren: "Sargento da patrulha, chamado, ainda não presente."
   pending_player_action: true
+
+latest_scene_fu_fv:
+  date: "2026-10-14"
+  warehouse_delivery_coins:
+    amount_gp: 12
+    status: "Eron entregou voluntariamente a Halven, como prova; não estão mais com Eron"
+    receipt: "Halven assinou recibo entregue a Eron"
+    distinction: "Separado do dinheiro confiscado dos prisioneiros e do contrato de 25+25 PO"
+  oren:
+    sutures: "Braço com novo ponto e curativo, sem cura de PV"
+    hand: "Eron relatou dedos normais, sem dormência"
+    fee_sp: 5
+    fee_paid: false
+    payment: "Halven solicitará cobertura da guarda; caso negada, pagar a Oren no posto de socorro da Rua da Fonte"
+    location: "Acompanhou Marek ferido durante remoção, saiu da cena"
+  time: "Algum tempo de espera noturna, sem horário exato"
+  haldren:
+    arrived: true
+    role: "Sargento da patrulha"
+    contract_gp_capture: 25
+    contract_gp_warehouse: 25
+    contract_payment_confirmed: false
+    extra_reward: "Halven recomendou bonificação; Haldren concorda que o perigo excedeu contrato, não há valor acordado"
+  halven: "Mantém guardas no armazém e custódia das provas, passagem isolada"
+  varen: "Presente no térreo junto a Eron"
+  eron_hp_current: 6
+  eron_armor_class: 13
+  eron_arrows: 12
+  pending_player_action: true
+  transcription_fu_fv: "Pendente confirmar escrita de transcrição literal de 0362-0365"
