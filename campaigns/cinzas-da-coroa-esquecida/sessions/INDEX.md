@@ -200,3 +200,5 @@ Arquivos produzidos nesta conferência: `transcripts/AUDITORIA_CONTINUIDADE_2026
 [SESSION_0000_CONTINUACAO_20261014_BB.md](transcripts/SESSION_0000_CONTINUACAO_20261014_BB.md) — 0115–0116: Eron acusa homem com lanterna de ser ladrão e ameaça matá-lo; vigia nega, para, mão junto à arma embainhada, e o Mestre solicita Intimidação 1d20+1 ainda sem resultado.
 
 [SESSION_0000_CONTINUACAO_20261014_BC.md](transcripts/SESSION_0000_CONTINUACAO_20261014_BC.md) — 0117–0118: jogador informa d20 16 para Intimidação +1=17 e acusa a suposta ronda de ser incoerente; o vigia recua, afasta mão da arma, afirma fazer ronda e usar lanterna protegida; fica a ~7,5 m, liberando passagem. Varen não percebido, sem novo dano.
+
+[SESSION_0000_CONTINUACAO_20261014_BD.md](transcripts/SESSION_0000_CONTINUACAO_20261014_BD.md) — mensagens 0119–0120: Eron abandona ocultação e afasta-se alguns metros do vigia rumo à saída do pátio. Vigia deixa passar, não segue e mantém arma embainhada; Varen continua oculto atrás da carroça obedecendo ordem anterior. Sem nova rolagem.
