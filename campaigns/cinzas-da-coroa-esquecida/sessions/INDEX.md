@@ -236,3 +236,7 @@ Arquivos produzidos nesta conferência: `transcripts/AUDITORIA_CONTINUIDADE_2026
 [SESSION_0000_CONTINUACAO_20261014_BT.md](transcripts/SESSION_0000_CONTINUACAO_20261014_BT.md) — 0151–0152: Eron escuta oculto o homem enluvado confirmar recebimento da réplica e pagamento de 12 PO; diz ter seguido folha sem assinatura com marca igual à do livro, supostamente entre papéis no piso inferior. Mulher manda buscá-la; homem que trouxe o enluvado retorna pelo corredor. Sem nova rolagem ou detecção.
 
 [SESSION_0000_CONTINUACAO_20261014_BU.md](transcripts/SESSION_0000_CONTINUACAO_20261014_BU.md) — 0153–0154: Eron decide aguardar, priorizando captura viva da mulher e do enluvado e, se possível, dos demais. Funcionário retorna com papel; mulher diz marca igual à do livro mas falta selo de seu escritório. Enluvado começa a caminhar para passagem lateral após divergência, mas ainda não sai; quatro pessoas visíveis na sala, Eron e Varen ocultos, sem ataque ou rolagem.
+
+[SESSION_0000_CONTINUACAO_20261014_BV.md](transcripts/SESSION_0000_CONTINUACAO_20261014_BV.md) — 0155–0156: Eron pede posicionamento dos quatro NPCs e armas visiveis; Mestre fornece layout esquematico em caracteres, sem arma confirmada.
+
+[SESSION_0000_CONTINUACAO_20261014_BW.md](transcripts/SESSION_0000_CONTINUACAO_20261014_BW.md) — 0157–0159: Jogador pede layout no estilo conversa 01.01 e corrige para 01.02. Mestre gera infografico ilustrativo, e arquiva SVG sem escala. Nenhuma ação ou tempo de cena decorreu.
