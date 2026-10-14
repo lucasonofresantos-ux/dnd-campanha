@@ -248,3 +248,5 @@ Arquivos produzidos nesta conferência: `transcripts/AUDITORIA_CONTINUIDADE_2026
 [SESSION_0000_CONTINUACAO_20261014_CA.md](transcripts/SESSION_0000_CONTINUACAO_20261014_CA.md) — 0166–0167: dano crítico rolado em Python 4d6 [3,2,1,5]+2=13; reação e imobilização não resolvidas.
 
 [SESSION_0000_CONTINUACAO_20261014_CB.md](transcripts/SESSION_0000_CONTINUACAO_20261014_CB.md) — 0168–0169: Eron guarda arco e tenta bloquear corredor e dominar funcionário; Varen se dirige à mulher; aguardando iniciativa 1d20+4.
+
+[SESSION_0000_CONTINUACAO_20261014_CC.md](transcripts/SESSION_0000_CONTINUACAO_20261014_CC.md) — 0170–0171: Eron pede rolagem automática de iniciativa; Python 1d20=4 +4=8; ordem dos NPCs ainda não resolvida.
