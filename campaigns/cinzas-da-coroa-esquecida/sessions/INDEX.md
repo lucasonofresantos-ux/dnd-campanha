@@ -405,3 +405,7 @@ Arquivos produzidos nesta conferência: `transcripts/AUDITORIA_CONTINUIDADE_2026
 [SESSION_0000_CONTINUACAO_20261014_FM.md](transcripts/SESSION_0000_CONTINUACAO_20261014_FM.md) — 0346–0347: pedido para localizar Haldren e reforços.
 
 [SESSION_0000_CONTINUACAO_20261014_FO.md](transcripts/SESSION_0000_CONTINUACAO_20261014_FO.md) — 0350–0351: hipótese de componentes e investigação das cargas.
+
+[SESSION_0000_CONTINUACAO_20261014_FP.md](transcripts/SESSION_0000_CONTINUACAO_20261014_FP.md) — 0352–0353: bonificação.
+
+[SESSION_0000_CONTINUACAO_20261014_FQ.md](transcripts/SESSION_0000_CONTINUACAO_20261014_FQ.md) — 0354–0355: correção de posto de Haldren.
