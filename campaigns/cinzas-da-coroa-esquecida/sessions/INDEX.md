@@ -463,3 +463,5 @@ Arquivos produzidos nesta conferência: `transcripts/AUDITORIA_CONTINUIDADE_2026
 - Transcrição **GI (0388–0389)** restaurada integralmente de `SESSION_0000_CONTINUACAO_20261014_GI_BACKUP.md` da Biblioteca; commit `67e2e39fe4c56ba9589535dd2899dfe5a77700ff`; conteúdo relido e conferido.
 - Esta auditoria **substitui os avisos antigos de pendência de GB, GD e GI** acima, sem apagar o histórico documental. A última cena permanece o despertar de Eron no quarto 6, manhã seguinte ao jantar; 11/11 PV e descanso longo concluído.
 - A numeração de continuação após 0389 inicia em **0390 (Jogador) e 0391 (Mestre)**.
+
+[SESSION_0000_CONTINUACAO_20261014_GJ.md](transcripts/SESSION_0000_CONTINUACAO_20261014_GJ.md) — 0390–0391: retomada no quarto 6 pela manhã, após confirmação do descanso longo GI e restauração integral de GB, GD e GI. Arquivo de transcrição integral confirmado no commit `174c9d37edd59a54fedf1ed66cb742623ab3d83b`. Eron ainda não saiu do quarto; nenhum teste, gasto ou contrato adicional.
