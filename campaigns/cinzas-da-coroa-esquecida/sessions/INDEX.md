@@ -296,3 +296,6 @@ Arquivos produzidos nesta conferência: `transcripts/AUDITORIA_CONTINUIDADE_2026
 [SESSION_0000_CONTINUACAO_20261014_DD.md](transcripts/SESSION_0000_CONTINUACAO_20261014_DD.md) — 0224–0225: Eron ameaça homem ferido e prepara nova flecha; homem interrompe movimento rumo à arma e ergue a mão.
 
 [SESSION_0000_CONTINUACAO_20261014_DE.md](transcripts/SESSION_0000_CONTINUACAO_20261014_DE.md) — 0226–0227: Homem ferido diz que Bram estava na entrada de carga e pede para ver Teren.
+
+[SESSION_0000_CONTINUACAO_20261014_DF.md](transcripts/SESSION_0000_CONTINUACAO_20261014_DF.md) — 0228–0229: Odrik desarma-se e Varen começa a amarrá-lo.
+[SESSION_0000_CONTINUACAO_20261014_DG.md](transcripts/SESSION_0000_CONTINUACAO_20261014_DG.md) — 0230–0231: Odrik amarrado chama Bram para trancar a porta e subir; Bram diz que vai verificar a porta.
