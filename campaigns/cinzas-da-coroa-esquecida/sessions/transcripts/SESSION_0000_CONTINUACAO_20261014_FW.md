@@ -21,3 +21,12 @@ A lembrança retorna com clareza: Bromir pagou **quatro peças de prata** para m
 Varen se levanta do caixote, ajeitando a capa úmida.
 
 — Depois de tudo que aconteceu, eu também gostaria de encontrar alguma coisa quente para comer.
+
+
+**[LOG DE MEMÓRIA DA CAMPANHA]**
+
+- **Localização Atual:** Térreo do Armazém dos Oleiros, Caldria.
+- **NPCs Presentes e Relação:** Haldren e Halven, sargentos da patrulha/guarda; Varen, aliado; guardas. Bromir não está presente.
+- **Linha de Missão Ativa:** Encerrar o contrato de 25 + 25 PO com Haldren e discutir possível bonificação. Nenhuma nova missão aceita.
+- **Eventos Cruciais Ocorridos:** Confirmado em recordação o local onde Eron deixou Bromir: Estalagem do Carvalho Cinzento. Bromir pagou 4 PP pela cocheira e pelo animal até o dia seguinte; não está confirmado que tenha contratado quarto ou jantar. Sua localização atual não foi verificada.
+- **Condições do Jogador:** Eron 6/11 PV, CA 13, 12 flechas; braço enfaixado e suturado, sem cura de PV; 12 PO da entrega falsa já entregues à guarda mediante recibo. Honorários de Oren de 5 PP ainda sem pagamento confirmado.
