@@ -202,3 +202,13 @@ Arquivos produzidos nesta conferência: `transcripts/AUDITORIA_CONTINUIDADE_2026
 [SESSION_0000_CONTINUACAO_20261014_BC.md](transcripts/SESSION_0000_CONTINUACAO_20261014_BC.md) — 0117–0118: jogador informa d20 16 para Intimidação +1=17 e acusa a suposta ronda de ser incoerente; o vigia recua, afasta mão da arma, afirma fazer ronda e usar lanterna protegida; fica a ~7,5 m, liberando passagem. Varen não percebido, sem novo dano.
 
 [SESSION_0000_CONTINUACAO_20261014_BD.md](transcripts/SESSION_0000_CONTINUACAO_20261014_BD.md) — mensagens 0119–0120: Eron abandona ocultação e afasta-se alguns metros do vigia rumo à saída do pátio. Vigia deixa passar, não segue e mantém arma embainhada; Varen continua oculto atrás da carroça obedecendo ordem anterior. Sem nova rolagem.
+
+[SESSION_0000_CONTINUACAO_20261014_BE.md](transcripts/SESSION_0000_CONTINUACAO_20261014_BE.md) — 0121–0122: Furtividade natural 20 +6=26, Eron ocultou-se no beco.
+
+[SESSION_0000_CONTINUACAO_20261014_BF.md](transcripts/SESSION_0000_CONTINUACAO_20261014_BF.md) — 0123–0124: Eron voltou a Varen, relatou a entrega, doze PO, e ao menos tres ocupantes.
+
+[SESSION_0000_CONTINUACAO_20261014_BG.md](transcripts/SESSION_0000_CONTINUACAO_20261014_BG.md) — 0125–0126: janela de carga do segundo piso a cinco metros observada por Varen.
+
+[SESSION_0000_CONTINUACAO_20261014_BH.md](transcripts/SESSION_0000_CONTINUACAO_20261014_BH.md) — 0127–0128: Eron planejou escalar primeiro; Percepcao Python [19]+6=25 e deslocamento ate base da parede.
+
+[SESSION_0000_CONTINUACAO_20261014_BI.md](transcripts/SESSION_0000_CONTINUACAO_20261014_BI.md) — 0129–0130: Atletismo Python [19]+3=22; Eron escalou cinco metros, permanece fora da janela e sinalizou Varen para preparar subida.
