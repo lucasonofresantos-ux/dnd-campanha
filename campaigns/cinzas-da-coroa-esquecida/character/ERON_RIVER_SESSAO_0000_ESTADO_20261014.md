@@ -39,3 +39,8 @@ Oren examinou o corte antigo de Orsik, reaproximou a pequena abertura com ponto 
 
 ## Continuação GF — reunião na estalagem
 Eron voltou à mesa com Bromir e Varen após quitar a conta de **10 PP e 5 PC** e receber a chave do quarto **6**. Eron convidou Varen para acompanhá-lo à sede da patrulha no dia seguinte; **Varen concordou**. Bromir poderá acompanhá-los, **condicionado a verificar sua carroça**. Nenhum novo contrato aceito e o pagamento de Haldren de **50 PO** continua devido, com bonificação extraordinária indefinida. Eron continua com **6/11 PV, CA 13, 12 flechas**; braço suturado e enfaixado, **sem iniciar descanso longo**.
+
+
+## Atualização GI — descanso longo concluído (fonte verificada)
+
+Na manhã seguinte, Eron despertou **no quarto 6** da Estalagem do Carvalho Cinzento, Caldria, após **descanso longo ininterrupto**. **11/11 PV**, CA 13, 12 flechas, **1d8 Dado de Vida disponível** e **Inspiração Heroica disponível** pela característica humana Engenhoso (2024). O braço permanece enfaixado, sem penalidade mecânica registrada. Quarto e jantar já pagos; chave com Eron. Localizações de Bromir e Varen não verificadas nesta manhã. Haldren deve 50 PO; bonificação extra indefinida. As 12 PO da entrega falsa continuam em custódia da guarda sob recibo; honorários de 5 PP de Oren pendentes de cobertura. Esta atualização operacional posterior **prevalece** sobre os valores históricos de 6/11 PV acima, sem alterar aqueles eventos.
