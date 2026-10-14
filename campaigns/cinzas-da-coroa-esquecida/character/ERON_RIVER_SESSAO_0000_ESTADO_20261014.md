@@ -21,3 +21,9 @@ Oren removeu a faixa antiga do braço ferido, suturado anteriormente por Orsik. 
 Eron **permanece com as 12 PO** recebidas dos receptores da peça falsa no armazém e contadas em `sessions/transcripts/SESSION_0000_CONTINUACAO_20261013_AT.md`. A transferência de bens confiscados a Halven em `SESSION_0000_CONTINUACAO_20261014_EY.md` incluiu moedas dos prisioneiros, **não essas 12 PO**. Halven registrou a origem do pagamento em depoimento, sem confisco presente. **Saldo total final não reconciliado.**
 
 Oren examinou o corte antigo de Orsik, reaproximou a pequena abertura com ponto e terminou a faixa. **6/11 PV, CA 13, 12 flechas**, sem cura mecânica. A pergunta sobre sensibilidade e movimento dos dedos após choque está pendente. Halven perguntou quais fatos vinculavam receptores da entrega à sabotagem da carroça de Bromir.
+
+## Atualização FX — regresso ao Carvalho Cinzento
+- **Local:** diante da Estalagem do Carvalho Cinzento, Caldria, com Varen, à noite. Bromir não avistado, sua situação atual ainda não comprovada.
+- **Contrato:** Haldren reconheceu a participação de Eron como concluída; **25 + 25 PO ainda não quitadas**. Bonificação por risco extraordinário ainda sem valor. Nenhuma missão nova aceita.
+- **Situação física:** 6/11 PV, CA 13, 12 flechas, braço com ponto reforçado por Oren. Eron deseja descansar, mas **descanso longo não ocorreu** e nenhuma cura ou recuperação de recursos foi aplicada.
+- **Dinheiro:** 12 PO da entrega falsa já entregues voluntariamente à guarda mediante recibo; não estão no inventário de Eron. Os 5 PP de honorários de Oren não foram pagos, aguardam aprovação de cobertura pela guarda.
