@@ -41,3 +41,5 @@ Varen vira a cabeça para Eron.
 - **Linha de Missão Ativa:** Serviço com Haldren encerrado, restam 50 PO de pagamento contratual e bonificação indefinida; comer e descansar.
 - **Eventos Cruciais Ocorridos:** Eron apresentou Varen a Bromir com uma provocação sobre o confronto no beco. Bromir e Varen trocaram brincadeiras. Dois ensopados, três cervejas e quarto individual com jantar foram pedidos; conta de 10 PP e 5 PC ainda não quitada.
 - **Condições do Jogador:** 6/11 PV, CA 13, 12 flechas; braço suturado e enfaixado. Descanso longo não iniciado; sem recuperação de PV.
+
+GitHub: transcrição GA, índice da sessão, estado da cena e cronologia gravados e verificados. Lacunas históricas previamente documentadas permanecem pendentes.
