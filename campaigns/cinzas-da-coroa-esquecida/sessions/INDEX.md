@@ -377,3 +377,5 @@ Arquivos produzidos nesta conferência: `transcripts/AUDITORIA_CONTINUIDADE_2026
 [SESSION_0000_CONTINUACAO_20261014_EV.md](transcripts/SESSION_0000_CONTINUACAO_20261014_EV.md) — 0312–0313.
 
 [SESSION_0000_CONTINUACAO_20261014_EY.md](transcripts/SESSION_0000_CONTINUACAO_20261014_EY.md) — 0318–0319: depoimento, provas entregues e passagem sob vigilância.
+
+[SESSION_0000_CONTINUACAO_20261014_EZ.md](transcripts/SESSION_0000_CONTINUACAO_20261014_EZ.md) — 0320–0321: Halven assume custódia dos oito detidos.
