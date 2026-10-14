@@ -37,3 +37,11 @@
 - Eron relatou a Halven os acontecimentos desde ter se separado de Haldren; o sargento testemunhara pessoalmente o confronto com o mecanismo e fez anotações do depoimento.
 - Ficou esclarecido que as **12 PO** recebidas pela peça falsa pertencem ao montante carregado por Eron, não às moedas confiscadas dos oito detidos e entregues à Guarda. Halven registrou a declaração de origem, sem confiscar ou quitar contratos.
 - Halven perguntou ao depoente quais evidências relacionam o grupo da entrega à sabotagem da carroça de Bromir. Resposta ainda pendente.
+
+## Adendo FU–FW — provas, chegada de Haldren e Bromir (2026-10-14)
+
+- Eron entregou voluntariamente 12 PO do pagamento pela réplica falsa ao sargento Halven, como prova, e recebeu recibo assinado. Não somar essas moedas ao inventário de Eron a partir desta entrega.
+- Oren fechou novamente a pequena abertura na sutura de Orsik, sem cura mecânica de PV; Eron declarou dedos normais. Oren cobrou 5 PP, ainda sem pagamento confirmado. Halven pediu cobertura pela Guarda.
+- Eron decidiu aguardar no Armazém dos Oleiros; após algum tempo Haldren chegou com um patrulheiro. Halven apresentou resultados e recomendou bonificação. Haldren reafirmou 25+25 PO contratados, sem registrar quitação, e reconheceu que risco excedeu contrato, sem prometer valor adicional.
+- **Lembrança de Eron:** Haldren recomendara a Estalagem do Carvalho Cinzento, a duas ruas da oficina de Velkan. Bromir pagou 4 PP pelo abrigo da carroça e animal nas cocheiras até o dia seguinte; o tratador fechou portão. Eron acompanhou Bromir ao salão, onde a proprietária ofereceu quarto individual por 5 PP ou 7 PP com jantar; Eron saiu antes de confirmar reserva ou pagamento. Bromir **não foi visto novamente**, e sua localização atual não foi verificada.
+- Eron continua no térreo do Armazém dos Oleiros, 6/11 PV, CA 13, 12 flechas; não se deslocou até a estalagem durante a pergunta.
