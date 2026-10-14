@@ -274,3 +274,5 @@ Arquivos produzidos nesta conferência: `transcripts/AUDITORIA_CONTINUIDADE_2026
 
 [SESSION_0000_CONTINUACAO_20261014_CP.md](transcripts/SESSION_0000_CONTINUACAO_20261014_CP.md) — 0196–0197: ataque do arco 1d20 [19]+4=23, acerto, dano pendente.
 [SESSION_0000_CONTINUACAO_20261014_CQ.md](transcripts/SESSION_0000_CONTINUACAO_20261014_CQ.md) — 0198–0199: dano 1d6 [4]+2=6 perfurante, segundo funcionário ferido na coxa e consciente.
+
+[SESSION_0000_CONTINUACAO_20261014_CR.md](transcripts/SESSION_0000_CONTINUACAO_20261014_CR.md) — 0200–0201: Eron cobre entrada do corredor e ameaça mulher; ela pede garantia de sair viva, ainda sem rendição.
