@@ -137,3 +137,7 @@ Arquivos produzidos nesta conferência: `transcripts/AUDITORIA_CONTINUIDADE_2026
 [SESSION_0000_CONTINUACAO_20261013_Y.md](transcripts/SESSION_0000_CONTINUACAO_20261013_Y.md) — mensagens 0057–0058; Eron pede que Varen mantenha vigilância. Após alguns minutos, Varen avisa sobre uma veneziana superior aberta por dentro e uma silhueta que recua. Não se sabe se ambos foram percebidos. Nenhuma nova badalada durante esta espera; porta dos fundos fechada. Aguardar decisão de Eron. Estado de referência: `SESSION_0000_ESTADO_RETOMADA_20261013.yaml`.
 
 [SESSION_0000_CONTINUACAO_20261013_Z.md](transcripts/SESSION_0000_CONTINUACAO_20261013_Z.md) — mensagens 0059–0060; Eron coloca o capuz, permanece oculto e aguarda com Varen até a badalada seguinte. Duas badaladas ouvidas da posição perto do armazém, sem comprovação de qual é a terceira. Porta dos fundos continua fechada; nenhuma nova rolagem. Aguardar nova ação de Eron.
+
+[SESSION_0000_CONTINUACAO_20261013_AA.md](transcripts/SESSION_0000_CONTINUACAO_20261013_AA.md) — mensagens 0061–0062; Eron vai avançar sozinho em Furtividade 1d20+7; Varen fica oculto com a réplica; rolagem pendente.
+
+[SESSION_0000_CONTINUACAO_20261013_AB.md](transcripts/SESSION_0000_CONTINUACAO_20261013_AB.md) — mensagens 0063–0064; jogador solicita dado d20 interativo com sorteio local e botão Enviar ao Mestre. A cena e rolagem permanecem pendentes até o envio.
