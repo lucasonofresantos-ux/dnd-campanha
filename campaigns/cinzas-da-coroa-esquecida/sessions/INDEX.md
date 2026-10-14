@@ -451,3 +451,6 @@ Arquivos produzidos nesta conferência: `transcripts/AUDITORIA_CONTINUIDADE_2026
 [SESSION_0000_CONTINUACAO_20261014_GC.md](transcripts/SESSION_0000_CONTINUACAO_20261014_GC.md) — 0378–0379: Eron relata ter sofrido prejuízo maior e pergunta onde Varen estava durante combate ao autômato; transcrição integral recuperada e verificada.
 
 [SESSION_0000_CONTINUACAO_20261014_GD.md](transcripts/SESSION_0000_CONTINUACAO_20261014_GD.md) — 0380–0381: Eron menciona 12 PO e provoca Bromir com louça quebrada; arquivo ainda contém só cabeçalho no GitHub, transcrição integral preservada em cópia de contingência.
+
+[GH — 0386–0387](transcripts/SESSION_0000_CONTINUACAO_20261014_GH.md): jantar terminado no Carvalho Cinzento, PV 6/11.
+[GI — 0388–0389](transcripts/SESSION_0000_CONTINUACAO_20261014_GI.md): descanso longo da noite; arquivo literal ainda pendente no GitHub; backup da conversa disponível. [Estado operacional GI](SESSION_0000_ESTADO_GI_DESCANSO_20261014.yaml): Eron 11/11 PV, 1d8 de Vida e Inspiração Heroica.
