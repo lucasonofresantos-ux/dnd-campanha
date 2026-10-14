@@ -212,3 +212,5 @@ Arquivos produzidos nesta conferência: `transcripts/AUDITORIA_CONTINUIDADE_2026
 [SESSION_0000_CONTINUACAO_20261014_BH.md](transcripts/SESSION_0000_CONTINUACAO_20261014_BH.md) — 0127–0128: Eron planejou escalar primeiro; Percepcao Python [19]+6=25 e deslocamento ate base da parede.
 
 [SESSION_0000_CONTINUACAO_20261014_BI.md](transcripts/SESSION_0000_CONTINUACAO_20261014_BI.md) — 0129–0130: Atletismo Python [19]+3=22; Eron escalou cinco metros, permanece fora da janela e sinalizou Varen para preparar subida.
+
+[SESSION_0000_CONTINUACAO_20261014_BJ.md](transcripts/SESSION_0000_CONTINUACAO_20261014_BJ.md) — mensagens 0131–0132: Eron aproveita Furtividade 26 já obtida, abre postigo de carga do segundo pavimento e entra no depósito escuro, escondendo-se atrás de caixotes. Porta interior fechada com luz sob ela e duas vozes abafadas além; Varen começou a subir mas ainda não chegou à janela. Nenhuma nova rolagem, dano ou alerta confirmado.
