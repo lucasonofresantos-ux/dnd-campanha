@@ -304,3 +304,7 @@ Arquivos produzidos nesta conferência: `transcripts/AUDITORIA_CONTINUIDADE_2026
 [SESSION_0000_CONTINUACAO_20261014_DI.md](transcripts/SESSION_0000_CONTINUACAO_20261014_DI.md) — 0234–0235: Eron prioriza prender todos antes de primeiros socorros e prepara arco; Bram aproxima-se da curva.
 
 [SESSION_0000_CONTINUACAO_20261014_DJ.md](transcripts/SESSION_0000_CONTINUACAO_20261014_DJ.md) — 0236–0237: Eron ameaça Bram e prepara disparo caso não se renda; Bram interrompe gesto de sacar arma, sem desarmar-se.
+
+[SESSION_0000_CONTINUACAO_20261014_DK.md](transcripts/SESSION_0000_CONTINUACAO_20261014_DK.md) — 0238–0239: Bram desarma-se e afirma que térreo estava vazio e porta de carga trancada.
+
+[SESSION_0000_CONTINUACAO_20261014_DL.md](transcripts/SESSION_0000_CONTINUACAO_20261014_DL.md) — 0240–0241: Bram rende-se e Varen começa a amarrá-lo; mulher reage à menção do térreo.
