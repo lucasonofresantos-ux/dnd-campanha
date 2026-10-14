@@ -3,7 +3,7 @@ branch: sessao_0000_bromir_velkan
 status: active_for_resume
 source_of_truth: "sessions/transcripts/SESSION_0000_FONTE_LITERAL_0102_20261013.txt"
 scope: "Continuidade da Sessão 0, distinta da abertura alternativa da Sessão 0001 em Lorn"
-location: "Travessa lateral com vista para pátio e entrada dos fundos do Armazém dos Oleiros, Caldria"
+location: "Batente exterior da porta dos fundos do Armazém dos Oleiros, Caldria"
 time: "Noite; após uma badalada ouvida por Varen no retorno e outra junto ao armazém; sequência e ocorrência do terceiro toque ainda não confirmadas."
 character:
   name: Eron River
@@ -21,7 +21,7 @@ present:
 bromir_status: "Em segurança planejada na hospedaria Carvalho Cinzento; não consta presente na conversa final"
 objects:
   - "Caixa aberta por Velkan; agulha contida; peça cinzenta com três anéis e eixo ainda no feltro"
-  - "Réplica do bronze: envolvida em tecido, dentro de bolsa de couro transportada por Varen"
+  - "Réplica do bronze: envolvida em tecido dentro da bolsa de couro, caída nas pedras do pátio a poucos passos da porta dos fundos, fora do alcance imediato de Eron e Varen"
   - "Mecanismo/peça original de bronze em custódia de Velkan; manter separado da caixa"
 unresolved:
   - "Origem e função da caixa e símbolo das três linhas convergindo num círculo"
@@ -29,14 +29,14 @@ unresolved:
   - "Vínculo de Varen com autoridades, ainda não demonstrado"
   - "Situação exata dos capturados no curtume após ordem de Haldren para buscar atendimento e guardas"
   - "Operação e pagamento pactuados com Haldren: 25 PO por capturados e 25 PO pela operação, sujeitos às condições; quitação não presumida"
-last_player_message_exact: "Aquela era a primeira, vamos, você permanece escondido e eu vou\nVou manter a furtividade até a porta em questão do armazém, e me dê os dados para jogar aqui"
-last_gm_prompt: "Varen fica atrás da carroça com réplica; Eron pretende aproximar-se furtivamente da porta. Solicita-se teste Destreza (Furtividade) 1d20+7 e aguarda-se resultado do jogador."
-next: "Aguardar resultado do d20 de Furtividade de Eron, aplicar +7 e então resolver aproximação à porta. Varen permanece oculto; não confirmar sino nem identidade de observadores sem evidência."
+last_player_message_exact: "Eu faço um sinal para o Varen me jogar a peça"
+last_gm_prompt: "Varen tentou lançar a bolsa com a réplica; Destreza 1d20 [1] +2 =3. Bolsa caiu no pátio fora do alcance de Eron; lanterna voltou ao ruído e passos dentro da porta cessaram. Não há detecção confirmada."
+next: "Aguardar ação de Eron junto à porta; bolsa da réplica caiu no pátio. Não narrar automaticamente a recuperação nem afirmar identificação de pessoas não identificadas."
 transcription:
   completeness: "TXT 01.02 recuperado integralmente como enviado; história anterior e UI do chat ainda podem ter lacunas"
   audit: sessions/transcripts/AUDITORIA_CONTINUIDADE_20261013.md
   current_historical_end: sessions/transcripts/SESSION_0000_FONTE_LITERAL_0102_20261013.txt
-last_verified_transcript: sessions/transcripts/SESSION_0000_CONTINUACAO_20261013_AE.md
+last_verified_transcript: sessions/transcripts/SESSION_0000_CONTINUACAO_20261013_AF.md
 
 operational_dice_protocol: sessions/PROTOCOLO_DADOS_20261013.md
 no_new_rolls_or_scene_advancement_on_protocol_update: true
@@ -148,7 +148,8 @@ last_interface_request_20261013:
 current_action:
   location: "Porta dos fundos exterior do Armazem dos Oleiros"
   eron_has_replica: false
-  varen_has_replica: true
+  varen_has_replica: false
+  replica_location: "Bolsa de couro nas pedras do pátio, fora do alcance imediato de Eron"
   furtividade: "1d20 [18] +7 =25; dado local enviado pelo jogador"
   perception_pending: null
   perception_last: "1d20 [18] +6 =24, controle interativo local; sons de passos/ferragens atras da porta e ruído superior"
@@ -162,3 +163,21 @@ latest_scene_ae:
   varen_has_replica: true
   known_by_eron: "Uma presenca perto do outro lado da porta; rumor de atividade no andar superior; porta fechada sem teste da tranca; lanternista afastado"
   latest_dice_log_order: 30
+
+current_scene_af:
+  transcript: sessions/transcripts/SESSION_0000_CONTINUACAO_20261013_AF.md
+  date_recorded: "2026-10-13"
+  eron_position: "Junto ao batente exterior da porta dos fundos; ainda oculta a identidade de Eron para os presentes"
+  varen_position: "Atrás da carroça; sem a bolsa"
+  replica_position: "No pátio, a alguns passos da porta e fora do alcance imediato de Eron"
+  replica_condition: "Tecido e bolsa permaneceram envolvendo a réplica; integridade interna não verificada"
+  varen_roll: "Destreza 1d20 [1] +2 =3; Python dice_roller.py; falha no arremesso discreto"
+  lantern_person: "Virou a cabeça e procurou o barulho com a luz; identificação de Eron e Varen não confirmada"
+  inside_presence: "Passos cessaram por instante após ruído; identidade e reação posterior não confirmadas"
+  door: "Fechada; fechadura não testada"
+  bell: "Nenhuma badalada nova nesta interação"
+  hp_current: 8
+  hp_max: 11
+  armor_class: 13
+  arrows: 19
+  player_action_pending: true
