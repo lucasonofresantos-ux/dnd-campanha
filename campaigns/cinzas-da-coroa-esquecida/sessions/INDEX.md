@@ -454,3 +454,12 @@ Arquivos produzidos nesta conferência: `transcripts/AUDITORIA_CONTINUIDADE_2026
 
 [GH — 0386–0387](transcripts/SESSION_0000_CONTINUACAO_20261014_GH.md): jantar terminado no Carvalho Cinzento, PV 6/11.
 [GI — 0388–0389](transcripts/SESSION_0000_CONTINUACAO_20261014_GI.md): descanso longo da noite; arquivo literal ainda pendente no GitHub; backup da conversa disponível. [Estado operacional GI](SESSION_0000_ESTADO_GI_DESCANSO_20261014.yaml): Eron 11/11 PV, 1d8 de Vida e Inspiração Heroica.
+
+
+## Auditoria da transferência de chat — 2026-10-14 (após GI)
+
+- Transcrição **GB (0376–0377)** restaurada integralmente de `SESSION_0000_CONTINUACAO_20261014_GB_BACKUP.md` da Biblioteca; commit `ecccb6b923c664ec8746629f6b6307d476cef7c4`; conteúdo relido e conferido.
+- Transcrição **GD (0380–0381)** restaurada integralmente de `SESSION_0000_CONTINUACAO_20261014_GD_BACKUP.md` da Biblioteca; commit `381095bc1e540ba73aaac530986ae8bafada6227`; conteúdo relido e conferido.
+- Transcrição **GI (0388–0389)** restaurada integralmente de `SESSION_0000_CONTINUACAO_20261014_GI_BACKUP.md` da Biblioteca; commit `67e2e39fe4c56ba9589535dd2899dfe5a77700ff`; conteúdo relido e conferido.
+- Esta auditoria **substitui os avisos antigos de pendência de GB, GD e GI** acima, sem apagar o histórico documental. A última cena permanece o despertar de Eron no quarto 6, manhã seguinte ao jantar; 11/11 PV e descanso longo concluído.
+- A numeração de continuação após 0389 inicia em **0390 (Jogador) e 0391 (Mestre)**.
