@@ -3,7 +3,7 @@ branch: sessao_0000_bromir_velkan
 status: active_for_resume
 source_of_truth: "sessions/transcripts/SESSION_0000_FONTE_LITERAL_0102_20261013.txt"
 scope: "Sessão 0 anterior e de ligação com a Sessão 1 já iniciada pelo jogador em born (grafada Lorn nos arquivos); preservar cenas e recursos separados até haver reconciliação narrativa de transição"
-location: "Pátio traseiro do Armazém dos Oleiros, Caldria, escondido atrás das caixas junto ao muro e à canaleta; vigia com lanterna nas proximidades"
+location: "Pátio traseiro Armazém dos Oleiros, Caldria; Eron alguns passos adiante das primeiras caixas junto ao muro, descoberto pelo feixe da lanterna"
 time: "Noite; duas badaladas ouvidas junto ao armazém e outra relatada anteriormente por Varen, sem saber posição na sequência nem confirmar terceiro toque."
 character:
   name: Eron River
@@ -29,14 +29,14 @@ unresolved:
   - "Vínculo de Varen com autoridades, ainda não demonstrado"
   - "Situação exata dos capturados no curtume após ordem de Haldren para buscar atendimento e guardas"
   - "Operação e pagamento pactuados com Haldren: 25 PO por capturados e 25 PO pela operação, sujeitos às condições; quitação não presumida"
-last_player_message_exact: "Eu enchoto o rato na direção do vigia"
-last_gm_prompt: "Eron assustou o rato da canaleta na direção do vigia. O rato disparou pela lama e cruzou perto das botas do lanternista, que recuou e desviou momentaneamente a atenção; depois ergueu a lanterna para procurar de novo o encapuzado que já notara atrás das caixas. Varen continua oculto. Sem nova rolagem."
-next: "Aguardar ação livre de Eron: vigia se encontra perto das caixas e já sabe que existe figura encapuzada por Furtividade 8, mas ainda não identificou rosto; rato causou apenas distração momentânea. Varen escondido junto à carroça. Réplica dentro do armazém, 12 PO contadas com Eron."
+last_player_message_exact: "Role para mim"
+last_gm_prompt: "Furtividade nova executada em Python: 1d20 [8]+6=14. Eron tentou escapar junto ao muro na distração do rato, mas fez ruído e vigia voltou a ver vulto encapuzado e ordenou Pare aí! Eu vi você! O vigia ainda não reconheceu rosto nem desembainhou arma. Varen permanece oculto atrás da carroça."
+next: "Aguardar livre reação de Eron ao vigia com lanterna que acabou de ordenar que pare; Eron se deslocou alguns passos ao longo do muro, mas não conseguiu ocultar-se (Furtividade 14, D&D 2024 DC 15). O vigia desconhece seu rosto e a presença de Varen; sem iniciativa, ataque, dano ou captura. Bolsa de 12 PO com Eron."
 transcription:
   completeness: "TXT 01.02 recuperado integralmente como enviado; história anterior e UI do chat ainda podem ter lacunas"
   audit: sessions/transcripts/AUDITORIA_CONTINUIDADE_20261013.md
   current_historical_end: sessions/transcripts/SESSION_0000_FONTE_LITERAL_0102_20261013.txt
-last_verified_transcript: sessions/transcripts/SESSION_0000_CONTINUACAO_20261013_AW.md
+last_verified_transcript: sessions/transcripts/SESSION_0000_CONTINUACAO_20261014_AZ.md
 
 operational_dice_protocol: sessions/PROTOCOLO_DADOS_20261013.md
 no_new_rolls_or_scene_advancement_on_protocol_update: true
@@ -389,3 +389,26 @@ current_scene_aw:
   armor_class: 13
   arrows: 19
   awaiting_player_action: true
+
+current_scene_az:
+  transcript: sessions/transcripts/SESSION_0000_CONTINUACAO_20261014_AZ.md
+  preceding_transcript: sessions/transcripts/SESSION_0000_CONTINUACAO_20261014_AY.md
+  older_question: sessions/transcripts/SESSION_0000_CONTINUACAO_20261013_AX.md
+  chronological_relation: "Sessao 0 ocorre antes de Sessao 1 ja iniciada em Born/Lorn"
+  last_player_literal: "Role para mim"
+  die: "1d20 [8]+6=14, Python dice_roller.py, secrets.randbelow; log ordem 36"
+  roll_effect: "Furtividade fracassou para reocultacao pela DC 15 de 2024; vigia continua vendo vulto de Eron"
+  eron_location: "Patio traseiro, alguns passos das caixas, ao longo do muro; feixe da lanterna alcanca capuz"
+  enemy_guard: "Nao identificado, iluminou vulto de Eron, ordena Pare ai Eu vi voce; arma nao desembainhada"
+  guard_identified_eron_face: false
+  varen: "Oculto atras da carroca, nao percebido pelo vigia"
+  rat: "Fugiu entre barris; distracao momentanea ja encerrou"
+  replica: "Entregue, no armazem; nao com Eron"
+  payment_carried: "12 PO da bolsa recebida, ja contadas; saldo historico remanescente nao auditado"
+  hp: 8
+  hp_max: 11
+  ca: 13
+  arrows: 19
+  combat_started: false
+  new_npc_rolls: false
+  next_player_action_pending: true
