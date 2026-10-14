@@ -39,3 +39,11 @@ Auditoria 2026-10-13. Campanha `cinzas-da-coroa-esquecida`, ramo `sessao_0000_br
 - **Ainda com Eron**: no diálogo de transferência para Halven, `sessions/transcripts/SESSION_0000_CONTINUACAO_20261014_EY.md`, foram entregues objetos confiscados de prisioneiros, inclusive suas moedas, e **não** o pagamento recebido legitimamente por Eron na operação encoberta.
 - O sargento Halven anotou a existência e origem das 12 PO durante depoimento em `SESSION_0000_CONTINUACAO_20261014_FT.md`, sem confiscar a bolsa. A procedência poderá ser examinada adiante, sem presumir desfecho.
 - Este complemento substitui **apenas** a informação histórica de que a réplica ainda não havia sido entregue ou o pagamento não havia sido contado no momento da auditoria de 2026-10-13. Não inventar saldo global atual; valor anterior de 57 PO e 3 PP é ponto histórico, não saldo final.
+
+## Transferência voluntária das 12 PO à Guarda — 2026-10-14
+
+Depois do registro histórico em que Eron contara as 12 PO recebidas pela réplica, Eron **entregou voluntariamente as 12 PO a Halven**, como prova, e recebeu **recibo assinado do sargento**. A entrega aconteceu nas mensagens 0362–0363 da Sessão 0000, preservadas em `sessions/transcripts/SESSION_0000_CONTINUACAO_20261014_FU.md`. **As 12 PO não estão mais no inventário de Eron.** Não confundí-las com moedas confiscadas de prisioneiros ou com o pagamento contratual de 25+25 PO ainda não quitado.
+
+**Honorários de Oren:** 5 PP por limpar, refazer ponto e enfaixar braço; **ainda não pagos**. Halven solicitou que a Guarda custeasse; se negado, pagamento em nome de Oren no posto de socorro da Rua da Fonte. Não debitar até pagamento efetivo.
+
+**Bromir:** pagou pessoalmente 4 PP pela cocheira da Estalagem do Carvalho Cinzento para carroça e animal até o dia seguinte, não é despesa de Eron; quarto por 5 PP ou 7 PP com jantar foi oferecido pela proprietária, sem aceitação/pagamento confirmado. Fonte: `sessions/transcripts/SESSION_0000_CONTINUACAO_20261012_D.md`.
