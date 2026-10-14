@@ -3,7 +3,7 @@ branch: sessao_0000_bromir_velkan
 status: active_for_resume
 source_of_truth: "sessions/transcripts/SESSION_0000_FONTE_LITERAL_0102_20261013.txt"
 scope: "Sessão 0 anterior e de ligação com a Sessão 1 já iniciada pelo jogador em born (grafada Lorn nos arquivos); preservar cenas e recursos separados até haver reconciliação narrativa de transição"
-location: "Base da parede traseira do Armazem dos Oleiros, Caldria, sob janela de carga do segundo andar; Eron e Varen ocultos"
+location: "Exterior segundo andar do Armazém dos Oleiros, Caldria, Eron segurando batente da janela de carga a 5 metros; Varen junto da base da parede"
 time: "Noite; duas badaladas ouvidas junto ao armazém e outra relatada anteriormente por Varen, sem saber posição na sequência nem confirmar terceiro toque."
 character:
   name: Eron River
@@ -29,14 +29,14 @@ unresolved:
   - "Vínculo de Varen com autoridades, ainda não demonstrado"
   - "Situação exata dos capturados no curtume após ordem de Haldren para buscar atendimento e guardas"
   - "Operação e pagamento pactuados com Haldren: 25 PO por capturados e 25 PO pela operação, sujeitos às condições; quitação não presumida"
-last_player_message_exact: "Camisa logo a está janela, e não podemos fazer nada com o vigia, se ele sumir os de dentro vão desconfiar, mas vamos ir sem que nós vejam, eu subo primeiro, chegando la, eu te faço um sinal para você subir, mas vamos com cuidado para não nos verem\nRole percepção para mim, quero analisar a entrada e se alguém vê e onde o vigia está "
-last_gm_prompt: "Percepcao em Python 1d20 [19]+6=25. Vigia com lanterna no acesso lateral a direita da porta dos fundos, atento beco e terreo, nao olhando janela nesse instante; janela de carga a ~5m canto esquerdo, postigo mal fechado e fresta escura, apoios e viga com sinais de deterioracao, madeira de assoalho range dentro sem fonte clara. Eron e Varen deslocaram-se pela sombra ate base da parede. Eron subiria primeiro e sinalizaria a Varen; aguardar Atletismo 1d20+3 do jogador ou pedido de rolagem. Ninguem subiu."
-next: "Aguardar Atletismo Forca 1d20+3 de Eron para escalar aproximadamente 5m ate janela superior, com parede molhada e apoios de madeira deteriorados. Percepcao 25 ja executada. Varen aguarda embaixo, nao sobe sem sinal. Vigia esta no acesso lateral de costas parcial para janela, posicao pode mudar. Nao presumir acesso ou queda antes de teste."
+last_player_message_exact: "Role para mim"
+last_gm_prompt: "Forca Atletismo 1d20 [19]+3=22 executada Python com secrets.randbelow: Eron subiu ate janela de carga a ~5 m, mas ainda esta do lado de fora, segurando-se no batente e viga. Ve parte de sala escura com caixotes e porta. Guarda nao demonstrou notar. Conforme plano anterior, Eron sinalizou e Varen iniciou preparacao para subir, ainda sem completar escalada."
+next: "Aguardar decisão de Eron na viga ao lado do postigo da janela de carga superior. Ainda nao entrou; travamento e presencas interiores incertos. Varen junto a base da parede recebeu sinal, preparando escalada. Vigia no terreo nao mostrou ter percebido movimento. Não presumir abertura, incursao ou rolagem Varen antes das circunstancias."
 transcription:
   completeness: "TXT 01.02 recuperado integralmente como enviado; história anterior e UI do chat ainda podem ter lacunas"
   audit: sessions/transcripts/AUDITORIA_CONTINUIDADE_20261013.md
   current_historical_end: sessions/transcripts/SESSION_0000_FONTE_LITERAL_0102_20261013.txt
-last_verified_transcript: sessions/transcripts/SESSION_0000_CONTINUACAO_20261014_BH.md
+last_verified_transcript: sessions/transcripts/SESSION_0000_CONTINUACAO_20261014_BI.md
 
 operational_dice_protocol: sessions/PROTOCOLO_DADOS_20261013.md
 no_new_rolls_or_scene_advancement_on_protocol_update: true
@@ -521,3 +521,25 @@ current_scene_bh:
   money_from_operation_gold: 12
   other_dice: false
   awaiting_player_roll: true
+
+current_scene_bi:
+  transcript: sessions/transcripts/SESSION_0000_CONTINUACAO_20261014_BI.md
+  previous_transcript: sessions/transcripts/SESSION_0000_CONTINUACAO_20261014_BH.md
+  player_message: "Role para mim"
+  athletics_roll: "1d20 [19]+3=22, executado Python dice_roller.py, secrets.randbelow; ordem 40"
+  eron_position: "Apoiado na antiga viga de icamento e segurando batente exterior da janela de carga, a cerca de 5 m de altura"
+  eron_inside_building: false
+  window: "Postigo entreaberto, possivel movimentar, mecanismo de tranca nao visivel"
+  window_interior_visible: "Parte de aposento escuro, caixas e porta mais ao fundo"
+  interior_occupants_at_window: "Nao observados, ausencia nao comprovada"
+  vantage_risk: "Altura de cerca de 5 m e apoios molhados; precaucao exigida"
+  varen: "Recebeu sinal de Eron e se aproximou dos primeiros apoios da parede, mas ainda nao subiu"
+  guard: "Permanece no terreo com lanterna; nao demonstrou notar subida"
+  original_bronze: "Com Velkan; replica entregue dentro do armazem"
+  eron_hp: 8
+  eron_hp_max: 11
+  armor_class: 13
+  arrows: 19
+  gold_payment: 12
+  no_other_rolls: true
+  awaiting_player_action: true
