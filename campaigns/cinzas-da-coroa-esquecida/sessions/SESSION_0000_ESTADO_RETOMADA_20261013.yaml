@@ -29,14 +29,14 @@ unresolved:
   - "Vínculo de Varen com autoridades, ainda não demonstrado"
   - "Situação exata dos capturados no curtume após ordem de Haldren para buscar atendimento e guardas"
   - "Operação e pagamento pactuados com Haldren: 25 PO por capturados e 25 PO pela operação, sujeitos às condições; quitação não presumida"
-last_player_message_exact: "Que distância eu estou do vigia?"
-last_gm_prompt: "Vigia aproximadamente 4,5 metros de Eron (3 quadrados D&D), de frente, lanterna erguida e mão perto do cinto, arma ainda embainhada. Viu figura encapuzada mas não reconheceu rosto. Varen segue escondido atrás da carroça, não percebido. Sem avanço narrativo, dados ou ações."
-next: "Aguardar ação livre de Eron a aproximadamente 4,5 m do vigia que ordenou parar e ainda não sacou arma; Eron junto ao muro fora das primeiras caixas, rosto não identificado. Varen continua oculto atrás da carroça. Evitar mover NPC ou presumir decisão antes da próxima mensagem."
+last_player_message_exact: "16\nEu tô me escondendo por que não quero que vejam que sai com dinheiro, oque mais tem aqui é ladrão e gente para pedir esmola.\nE por que diabos dos nove infernos você está com uma lanterna na chuva? Porra se não é pra rouba é pra que, que se estive se vigiando ia está numa posição melhor, fora da chuva, no seco e observando"
+last_gm_prompt: "Carisma (Intimidação) 1d20 [16]+1=17, dado informado pelo jogador: vigia temeu a ameaça, afirmou fazer ronda com lanterna protegida da chuva, retirou mão da arma e recuou dois passos até aproximadamente 7,5 m, liberando passagem. Eron continua parado; Varen oculto atrás da carroça."
+next: "Aguardar ação de Eron: vigia com lanterna a ~7,5 m, recuado e arma embainhada, passagem ao longo do muro livre; Eron não se moveu, Varen permanece escondido e não percebido. Não presumir verdade da alegada ronda ou fim da ameaça."
 transcription:
   completeness: "TXT 01.02 recuperado integralmente como enviado; história anterior e UI do chat ainda podem ter lacunas"
   audit: sessions/transcripts/AUDITORIA_CONTINUIDADE_20261013.md
   current_historical_end: sessions/transcripts/SESSION_0000_FONTE_LITERAL_0102_20261013.txt
-last_verified_transcript: sessions/transcripts/SESSION_0000_CONTINUACAO_20261014_BA.md
+last_verified_transcript: sessions/transcripts/SESSION_0000_CONTINUACAO_20261014_BC.md
 
 operational_dice_protocol: sessions/PROTOCOLO_DADOS_20261013.md
 no_new_rolls_or_scene_advancement_on_protocol_update: true
@@ -430,4 +430,27 @@ current_scene_ba:
   arrows: 19
   no_new_rolls: true
   no_new_movement: true
+  awaiting_player_action: true
+
+current_scene_bc:
+  transcript: sessions/transcripts/SESSION_0000_CONTINUACAO_20261014_BC.md
+  previous_transcript: sessions/transcripts/SESSION_0000_CONTINUACAO_20261014_BB.md
+  reported_d20: 16
+  check: "Carisma Intimidacao +1"
+  total: 17
+  die_origin: "Dado informado pelo jogador, nao Python"
+  dice_log: "dice/ROLL_LOG_SESSAO_0000_SUPLEMENTO_20261013.csv ordem 37"
+  guard_response: "Alega ronda externa, lanterna com vidro protegendo chama; recua dois passos, desvia luz, libera passagem, nao saca arma"
+  guard_statement_verified: false
+  guard_distance_m_approx: 7.5
+  eron_still_in_patio: true
+  eron_has_moved_since_check: false
+  varen: "Oculto atras da carroca, nao descoberto"
+  eron_hp_current: 8
+  eron_hp_max: 11
+  eron_ac: 13
+  eron_arrows: 19
+  operation_payment_gold: 12
+  original_bronze_replica_location: "Interior do armazem, ultimo detentor desconhecido"
+  combat_started: false
   awaiting_player_action: true
