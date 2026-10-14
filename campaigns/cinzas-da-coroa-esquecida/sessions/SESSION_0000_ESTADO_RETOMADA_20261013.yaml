@@ -3,7 +3,7 @@ branch: sessao_0000_bromir_velkan
 status: active_for_resume
 source_of_truth: "sessions/transcripts/SESSION_0000_FONTE_LITERAL_0102_20261013.txt"
 scope: "Continuidade da Sessão 0, distinta da abertura alternativa da Sessão 0001 em Lorn"
-location: "Batente exterior da porta dos fundos do Armazém dos Oleiros, Caldria"
+location: "Dentro do corredor de serviço do Armazém dos Oleiros, junto à porta dos fundos aberta, Caldria"
 time: "Noite; duas badaladas ouvidas junto ao armazém e outra relatada anteriormente por Varen, sem saber posição na sequência nem confirmar terceiro toque."
 character:
   name: Eron River
@@ -16,7 +16,7 @@ character:
   money: "Saldo exato atualizado não confirmado; não importar 58 PO iniciais da outra execução"
   conditions_confirmed: []
 present:
-  - "Eron River, sob beiral junto ao batente exterior da porta dos fundos"
+  - "Eron River, dentro do corredor de serviço junto à porta dos fundos aberta"
   - "Varen, escondido atrás da carroça, sem a bolsa nem a réplica"
 bromir_status: "Em segurança planejada na hospedaria Carvalho Cinzento; não consta presente na conversa final"
 objects:
@@ -29,14 +29,14 @@ unresolved:
   - "Vínculo de Varen com autoridades, ainda não demonstrado"
   - "Situação exata dos capturados no curtume após ordem de Haldren para buscar atendimento e guardas"
   - "Operação e pagamento pactuados com Haldren: 25 PO por capturados e 25 PO pela operação, sujeitos às condições; quitação não presumida"
-last_player_message_exact: "Eu mostro a encomenda, vou rolar enganação, joguei no roll20, deu 20 no dado"
-last_gm_prompt: "Eron mostrou superfície da réplica de bronze sem entregá-la. Interlocutor desconhecido pareceu convencido numa primeira inspeção, retirou corrente e abriu mais a porta, convidando Eron a entrar e fechá-la. Eron continua no exterior com a bolsa. Enganação 20 natural do Roll20; modificador da ficha não confirmado."
-next: "Aguardar decisão de Eron diante do convite para entrar no armazém, porta aberta sem corrente; não entrar nem entregar réplica automaticamente. Desconhecido mantém identidade oculta."
+last_player_message_exact: "Eu entro, oque falta na ficha do Eron, consegue pegar a ficha dele e me repassar aqui"
+last_gm_prompt: "Eron entrou no armazém com a bolsa da réplica, sem entregá-la nem fechar a porta. O interlocutor desconhecido pediu para Eron fechar a porta para tratar do pagamento. Foi consultada ficha 2024 de outro ramo (Sessão 0001 em Lorn) e identificadas divergências com atributos e recursos operacionais da Sessão 0000; nenhuma alteração de ficha foi efetuada."
+next: "Aguardar livre ação de Eron no corredor de serviço diante de interlocutor sem identidade revelada; porta dos fundos ainda aberta e réplica com Eron. Pendência externa de reconciliação mecânica da ficha não interrompe cena nem autoriza alterar recursos."
 transcription:
   completeness: "TXT 01.02 recuperado integralmente como enviado; história anterior e UI do chat ainda podem ter lacunas"
   audit: sessions/transcripts/AUDITORIA_CONTINUIDADE_20261013.md
   current_historical_end: sessions/transcripts/SESSION_0000_FONTE_LITERAL_0102_20261013.txt
-last_verified_transcript: sessions/transcripts/SESSION_0000_CONTINUACAO_20261013_AK.md
+last_verified_transcript: sessions/transcripts/SESSION_0000_CONTINUACAO_20261013_AL.md
 
 operational_dice_protocol: sessions/PROTOCOLO_DADOS_20261013.md
 no_new_rolls_or_scene_advancement_on_protocol_update: true
@@ -272,3 +272,29 @@ current_scene_ak:
   ac: 13
   arrows: 19
   player_action_pending: true
+
+current_scene_al:
+  transcript: sessions/transcripts/SESSION_0000_CONTINUACAO_20261013_AL.md
+  action: "Eron entrou no armazem; o desconhecido enluvado abriu passagem e pediu para fechar a porta antes de falar do pagamento."
+  eron_location: "Corredor de servico do Armazem dos Oleiros junto a entrada dos fundos"
+  rear_door: "Aberta atras de Eron; o jogador ainda nao a fechou"
+  eron_has_replica: true
+  replica_delivered: false
+  unknown_interlocutor: "Dentro do armazem diante de Eron, rosto parcialmente encoberto, nao identificado; pediu para fechar a porta"
+  varen: "Atrás da carroça no exterior"
+  lantern_person: "Investiga beco lateral"
+  no_new_rolls: true
+  new_bells: false
+  hp_current: 8
+  hp_max: 11
+  ac: 13
+  arrows: 19
+  character_audit:
+    alternate_branch_sheet: "character/ERON_RIVER_2024_FICHA_ATIVA.md, folha da Sessao 0001 em Lorn; NAO migrar automaticamente"
+    chosen_sheet_2024: "character/ERON_RIVER_2024_PERSONAGEM_ESCOLHIDO.md"
+    difference: "Sessao 0000 usa Furtividade +7 e Percepcao +6; ficha consolidada de Sessao 0001 aponta Furtividade +6 com DES 15 (+2)"
+    stealth_already_rolled: "1d20 [18]+7=25; manter sem retcon"
+    deception_roll: "Roll20 natural 20, modificador nao confirmado para ramo Sessao 0000; hipotese de +1 da ficha 2024 nao adotada"
+    current_money: "Desconhecido, nao importar 58 PO de Sessao 0001"
+    conditions: "Nenhuma confirmada"
+  awaiting_player_action: true
