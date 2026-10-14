@@ -196,3 +196,7 @@ Arquivos produzidos nesta conferência: `transcripts/AUDITORIA_CONTINUIDADE_2026
 [SESSION_0000_CONTINUACAO_20261014_AZ.md](transcripts/SESSION_0000_CONTINUACAO_20261014_AZ.md) — 0111–0112: jogador pede ao Mestre rolar; execução real Python dice_roller.py secrets.randbelow: Furtividade d20 [8]+6=14, anotada em dice suplemento ordem 36; Eron se desloca alguns passos ao longo do muro, mas novo ocultamento fracassa e vigia volta a vê-lo de capuz, ordenando parar; não reconhece rosto nem vê Varen. Sem combate ou dano.
 
 [SESSION_0000_CONTINUACAO_20261014_BA.md](transcripts/SESSION_0000_CONTINUACAO_20261014_BA.md) — mensagens 0113–0114: Eron pergunta distância do vigia; Mestre estabelece distância aproximada de 4,5 m (3 quadrados D&D), lanterna erguida, arma embainhada, rosto de Eron não reconhecido, Varen escondido. Sem nova rolagem ou avanço de cena.
+
+[SESSION_0000_CONTINUACAO_20261014_BB.md](transcripts/SESSION_0000_CONTINUACAO_20261014_BB.md) — 0115–0116: Eron acusa homem com lanterna de ser ladrão e ameaça matá-lo; vigia nega, para, mão junto à arma embainhada, e o Mestre solicita Intimidação 1d20+1 ainda sem resultado.
+
+[SESSION_0000_CONTINUACAO_20261014_BC.md](transcripts/SESSION_0000_CONTINUACAO_20261014_BC.md) — 0117–0118: jogador informa d20 16 para Intimidação +1=17 e acusa a suposta ronda de ser incoerente; o vigia recua, afasta mão da arma, afirma fazer ronda e usar lanterna protegida; fica a ~7,5 m, liberando passagem. Varen não percebido, sem novo dano.
