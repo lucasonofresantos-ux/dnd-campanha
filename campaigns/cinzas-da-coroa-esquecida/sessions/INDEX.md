@@ -443,3 +443,5 @@ Arquivos produzidos nesta conferência: `transcripts/AUDITORIA_CONTINUIDADE_2026
 [SESSION_0000_CONTINUACAO_20261014_GA.md](transcripts/SESSION_0000_CONTINUACAO_20261014_GA.md) — 0374–0375: Eron apresenta Varen a Bromir e brinca sobre luta no beco; ceia e conta da hospedaria seguem pendentes.
 
 [SESSION_0000_CONTINUACAO_20261014_GE.md](transcripts/SESSION_0000_CONTINUACAO_20261014_GE.md) — 0382–0383: Eron paga 10 PP e 5 PC por ensopados, cervejas e quarto com jantar; recebe chave do quarto 6. Sem descanso iniciado.
+
+[SESSION_0000_CONTINUACAO_20261014_GF.md](transcripts/SESSION_0000_CONTINUACAO_20261014_GF.md) — 0384–0385: Eron aconselha Varen a se proteger, Varen aceita acompanhá-lo à sede da patrulha amanhã, Bromir considera após conferir a carroça; conta da estalagem já quitada e nenhum descanso iniciado.
