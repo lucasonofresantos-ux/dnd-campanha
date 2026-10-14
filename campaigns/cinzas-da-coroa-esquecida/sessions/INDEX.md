@@ -261,3 +261,6 @@ Arquivos produzidos nesta conferência: `transcripts/AUDITORIA_CONTINUIDADE_2026
 [SESSION_0000_CONTINUACAO_20261014_CH.md](transcripts/SESSION_0000_CONTINUACAO_20261014_CH.md) — 0180–0181: Eron exige rendição e tenta se colocar entre funcionário e corredor; posição ainda não confirmada.
 
 [SESSION_0000_CONTINUACAO_20261014_CI.md](transcripts/SESSION_0000_CONTINUACAO_20261014_CI.md) — 0182–0183: Eron verifica Varen; aliado aproxima-se da mulher junto à mesa, mas ela ainda não foi agarrada nem amarrada.
+
+[SESSION_0000_CONTINUACAO_20261014_CJ.md](transcripts/SESSION_0000_CONTINUACAO_20261014_CJ.md) — 0184–0185: funcionário do corredor rende-se verbalmente, não desarmado nem amarrado.
+[SESSION_0000_CONTINUACAO_20261014_CK.md](transcripts/SESSION_0000_CONTINUACAO_20261014_CK.md) — 0186–0187: Eron observa corredor; ninguém visível nem passos claros, segurança não confirmada.
