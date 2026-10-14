@@ -26,3 +26,8 @@
 - Sob pressão, prisioneira descreveu antigo sistema de túneis, supervisor com **anel de três riscos** e desvio não autorizado da rota do pacote. Outros indícios incluem pacote lacrado sensível a fogo, volume de cobre e peça de engrenagem, segundo observação de Eron; ligação com a máquina ainda **hipótese não comprovada**.
 - Halven mandou chamar Haldren. **Haldren é sargento da patrulha**, conforme `sessions/transcripts/SESSION_0000_CONTINUACAO_20261012_D.md`. O contrato previamente firmado com Eron foi **25 PO por cinco capturados + 25 PO pela operação noturna**, não quitado de forma confirmada. Halven disse que **recomendaria bonificação extra**, sem quantia pactuada.
 - Lacunas documentais e retificação de cargo no arquivo `sessions/transcripts/AUDITORIA_LACUNAS_E_POSTO_HALDREN_20261014.md`; sem reconstruir diálogos perdidos nem atribuir pagamentos não demonstrados.
+
+## Adendo FS — atendimento e depoimento
+- Após o combate, Eron pediu avaliação dos pontos antigos do braço, realizados por Orsik, e solicitou iniciar depoimento enquanto fosse atendido.
+- Oren constatou que um ponto cedeu, com pequena reabertura do corte; limpeza iniciada, fechamento ainda pendente. Perguntou se os dedos se movem normalmente ou se há dormência após a descarga da máquina. Sem recuperação de PV.
+- Halven começou a anotar e perguntou se o mecanismo atacou primeiro; a resposta de Eron ainda é aguardada.
