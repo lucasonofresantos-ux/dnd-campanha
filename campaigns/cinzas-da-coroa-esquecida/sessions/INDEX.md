@@ -252,3 +252,5 @@ Arquivos produzidos nesta conferência: `transcripts/AUDITORIA_CONTINUIDADE_2026
 [SESSION_0000_CONTINUACAO_20261014_CC.md](transcripts/SESSION_0000_CONTINUACAO_20261014_CC.md) — 0170–0171: Eron pede rolagem automática de iniciativa; Python 1d20=4 +4=8; ordem dos NPCs ainda não resolvida.
 
 [SESSION_0000_CONTINUACAO_20261014_CD.md](transcripts/SESSION_0000_CONTINUACAO_20261014_CD.md) — 0172–0173: Eron avança com espada e adaga e ameaça funcionário do corredor; funcionário grita por intrusos, mulher ordena proteger documentos; aguardando Intimidação 1d20+1.
+
+[SESSION_0000_CONTINUACAO_20261014_CE.md](transcripts/SESSION_0000_CONTINUACAO_20261014_CE.md) — 0174–0175: intimidação de Eron rolada por Python 1d20=4+1=5; funcionário não se rende e recua.
