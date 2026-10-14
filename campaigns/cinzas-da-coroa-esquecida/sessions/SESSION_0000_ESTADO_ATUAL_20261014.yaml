@@ -207,3 +207,23 @@ latest_scene_fz:
   arrows_remaining: 12
   bromir: "Presente, acordado, pergunta o que ocorreu no armazém e a identidade de Varen"
   pending_player_action: true
+
+latest_scene_ga:
+  transcript: "sessions/transcripts/SESSION_0000_CONTINUACAO_20261014_GA.md"
+  location: "Salão da Estalagem do Carvalho Cinzento"
+  player_spoke: "Eron apresentou Varen a Bromir, disse que Varen o ajudou um pouco e zombou de tentativa de luta no beco com mulher e homem aleijado."
+  bromir: "Ouviu a apresentação, fez piadas sobre Eron ter se ferido e Varen estar ileso; perguntou se Eron precisou salvar Varen."
+  varen: "Respondeu com humor e defendeu-se; com uma das três canecas servidas à mão, aguarda resposta de Eron."
+  dinner_order: "2 ensopados, 3 cervejas, quarto individual completo com jantar"
+  price_sp: 10
+  price_cp_extra: 5
+  payment_confirmed: false
+  food_served: true
+  food_consumed_confirmed: false
+  room_number: 6
+  long_rest_started: false
+  eron_hp: 6
+  eron_hp_max: 11
+  eron_ac: 13
+  eron_arrows: 12
+  pending_player_action: true
