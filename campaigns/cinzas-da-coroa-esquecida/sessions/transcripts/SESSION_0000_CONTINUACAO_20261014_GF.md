@@ -40,3 +40,5 @@ Bromir ri outra vez, mas aos poucos a conversa perde a agitação. A lenha estal
 - **Linha de Missão Ativa:** Serviço de Eron concluído; Haldren deve 50 PO pelo contrato e bonificação adicional ainda indefinida. Visita à patrulha planejada para amanhã; nenhum novo contrato aceito.
 - **Eventos Cruciais Ocorridos:** Eron voltou à mesa, alertou Varen sobre os perigos da investigação, reconheceu sua ajuda, convidou Varen e Bromir à patrulha e brincou novamente com tamancos. Varen aceitou acompanhá-lo; Bromir condicionou a ida à inspeção da carroça. Conta de 10 PP e 5 PC já quitada; Eron mantém a chave do quarto 6.
 - **Condições do Jogador:** 6/11 PV, CA 13, 12 flechas; braço suturado e enfaixado. Comer e beber iniciados; descanso longo ainda não iniciado, sem recuperação de PV.
+
+GitHub: transcrição GF, índice, estado de cena, ficha e cronologia gravados e verificados. O histórico GC também foi recuperado e verificado. GB e GD seguem com apenas o cabeçalho no GitHub; as cópias literais de contingência continuam disponíveis, e as lacunas históricas anteriores permanecem documentadas.
