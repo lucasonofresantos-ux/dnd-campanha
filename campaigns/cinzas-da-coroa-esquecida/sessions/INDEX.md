@@ -256,3 +256,6 @@ Arquivos produzidos nesta conferência: `transcripts/AUDITORIA_CONTINUIDADE_2026
 [SESSION_0000_CONTINUACAO_20261014_CE.md](transcripts/SESSION_0000_CONTINUACAO_20261014_CE.md) — 0174–0175: intimidação de Eron rolada por Python 1d20=4+1=5; funcionário não se rende e recua.
 
 [SESSION_0000_CONTINUACAO_20261014_CF.md](transcripts/SESSION_0000_CONTINUACAO_20261014_CF.md) — 0176–0177: Eron ameaça funcionário e declara golpe de espada com finta contra joelho; aguardando ataque 1d20+4.
+
+[SESSION_0000_CONTINUACAO_20261014_CG.md](transcripts/SESSION_0000_CONTINUACAO_20261014_CG.md) — 0178–0179: ataque de espada 1d20 [2]+4=6, falha, sem dano.
+[SESSION_0000_CONTINUACAO_20261014_CH.md](transcripts/SESSION_0000_CONTINUACAO_20261014_CH.md) — 0180–0181: Eron exige rendição e tenta se colocar entre funcionário e corredor; posição ainda não confirmada.
