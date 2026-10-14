@@ -381,3 +381,5 @@ Arquivos produzidos nesta conferência: `transcripts/AUDITORIA_CONTINUIDADE_2026
 [SESSION_0000_CONTINUACAO_20261014_EZ.md](transcripts/SESSION_0000_CONTINUACAO_20261014_EZ.md) — 0320–0321: Halven assume custódia dos oito detidos.
 
 [SESSION_0000_CONTINUACAO_20261014_FB.md](transcripts/SESSION_0000_CONTINUACAO_20261014_FB.md) — 0324–0325: conversa sobre Haldren e movimento atrás da parede.
+
+[SESSION_0000_CONTINUACAO_20261014_FC.md](transcripts/SESSION_0000_CONTINUACAO_20261014_FC.md) — 0326–0327: voz de pessoa presa atrás do painel.
