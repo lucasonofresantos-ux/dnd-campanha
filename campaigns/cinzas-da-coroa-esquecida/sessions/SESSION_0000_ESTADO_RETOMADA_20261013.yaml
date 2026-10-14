@@ -3,7 +3,7 @@ branch: sessao_0000_bromir_velkan
 status: active_for_resume
 source_of_truth: "sessions/transcripts/SESSION_0000_FONTE_LITERAL_0102_20261013.txt"
 scope: "Sessão 0 anterior e de ligação com a Sessão 1 já iniciada pelo jogador em born (grafada Lorn nos arquivos); preservar cenas e recursos separados até haver reconciliação narrativa de transição"
-location: "Dentro do corredor de serviço do Armazém dos Oleiros, junto à porta dos fundos aberta, Caldria"
+location: "Corredor de serviço do Armazém dos Oleiros, junto à porta dos fundos agora fechada, não trancada, Caldria"
 time: "Noite; duas badaladas ouvidas junto ao armazém e outra relatada anteriormente por Varen, sem saber posição na sequência nem confirmar terceiro toque."
 character:
   name: Eron River
@@ -16,7 +16,7 @@ character:
   money: "Saldo documentado após quarto e desjejum do Javali de Cobre: 57 PO e 3 PP, a partir de 58 PO; saldo atual após espólios, pagamentos e recompensas posteriores não confirmado"
   conditions_confirmed: []
 present:
-  - "Eron River, dentro do corredor de serviço junto à porta dos fundos aberta"
+  - "Eron River, dentro do corredor de serviço junto à porta dos fundos fechada e não trancada"
   - "Varen, escondido atrás da carroça, sem a bolsa nem a réplica"
 bromir_status: "Em segurança planejada na hospedaria Carvalho Cinzento; não consta presente na conversa final"
 objects:
@@ -29,14 +29,14 @@ unresolved:
   - "Vínculo de Varen com autoridades, ainda não demonstrado"
   - "Situação exata dos capturados no curtume após ordem de Haldren para buscar atendimento e guardas"
   - "Operação e pagamento pactuados com Haldren: 25 PO por capturados e 25 PO pela operação, sujeitos às condições; quitação não presumida"
-last_player_message_exact: "Eu tinha gasto 9 moedas de prata se não me engano, foi da estadia logo depois de encontrar Bromir e do desejum no outro dia e a ficha é de 2024, eu tinha sido iniciado a seção 1 em born, mas pedi uma seção 0 para fazer a ligação\nMas revise a ficha do Eron River e me passa em PDF completo e registra, e confirma se foi isso mesmo que gastei pelos registros"
-last_gm_prompt: "Revisão da ficha D&D 2024 concluída, PDF de 5 páginas entregue no chat, ficha integral e auditoria financeira gravadas no GitHub. Histórico comprova 4 PP pelo quarto com Bromir e 3 PP pelo desjejum, total 7 PP, saldo após desjejum 57 PO e 3 PP. Estado da cena preservado no corredor interno do armazém, sem ação nova."
-next: "Retomar cena AL com Eron no corredor do Armazém dos Oleiros, diante do intermediário desconhecido, porta dos fundos aberta e réplica com Eron. Não resolver divergências mecânicas por retcon. A Sessão 0 precede a Sessão 1 já iniciada em born/Lorn."
+last_player_message_exact: "Ok e também registre oque falei da seção 1 que viemos para a 0 para fazer a ligação, se não tenho que explicar de novo.\nE vamos continuar a campanha\nEu vou usar percepção para avaliar o local e quantos tem, e fecho a porta"
+last_gm_prompt: "Eron fechou a porta traseira sem passar ferrolho e iniciou inspeção de Percepção. Desconhecido enluvado falou Agora podemos conversar. Há pelo menos essa pessoa; outras presenças ainda desconhecidas; aguarda d20+6 de Eron. Correção Sessão 0 prologo da Sessão 1 fixada em CONTINUIDADE_SESSOES_0000_0001.md."
+next: "Aguardar resultado do dado Percepção 1d20+6 informado por Eron; resolver investigação de possíveis outros ocupantes no armazém. Eron conserva réplica; porta fechada mas não trancada; sessão 0 é prólogo para Sessão 1 já iniciada."
 transcription:
   completeness: "TXT 01.02 recuperado integralmente como enviado; história anterior e UI do chat ainda podem ter lacunas"
   audit: sessions/transcripts/AUDITORIA_CONTINUIDADE_20261013.md
   current_historical_end: sessions/transcripts/SESSION_0000_FONTE_LITERAL_0102_20261013.txt
-last_verified_transcript: sessions/transcripts/SESSION_0000_CONTINUACAO_20261013_AM.md
+last_verified_transcript: sessions/transcripts/SESSION_0000_CONTINUACAO_20261013_AN.md
 
 operational_dice_protocol: sessions/PROTOCOLO_DADOS_20261013.md
 no_new_rolls_or_scene_advancement_on_protocol_update: true
@@ -338,3 +338,30 @@ character_review_20261013:
   pdf_persistent_library_id: "libfile_e136b9b3d8888191a5a100d15278f35e"
   pdf_uploaded_to_library: true
   pdf_binary_committed_to_github: false
+
+current_scene_an:
+  transcript: sessions/transcripts/SESSION_0000_CONTINUACAO_20261013_AN.md
+  continuity_anchor: CONTINUIDADE_SESSOES_0000_0001.md
+  canonical_session_order: "Sessão 0 é prólogo cronológico; Sessão 1 já foi iniciada anteriormente pelo jogador"
+  player_session1_city_spelling: "born"
+  repository_city_spelling: "Lorn"
+  confirmed_rules: "D&D 5E 2024"
+  eron_location: "Dentro do corredor de serviço do Armazém dos Oleiros, atrás da porta dos fundos"
+  rear_door: "Fechada por Eron; não trancada, nenhuma corrente ou ferrolho acionado por ele"
+  eron_has_replica: true
+  replica_delivered: false
+  unknown_interlocutor: "Enluvado, roupas escuras, rosto não identificado; permanece no corredor com Eron, perto da porta; quer conversar sobre pagamento"
+  other_occupants: "Desconhecidos; contagem ainda exige resultado do teste de Percepção"
+  interior_visible: "Corredor estreito, caixotes, sacos, luz de lampião e passagem para outro espaço em penumbra"
+  varen: "Oculto no exterior, atrás da carroça; sem movimento novo confirmado"
+  lantern_person: "No exterior, ultima posição observada perto do beco, sem localização atual nova confirmada"
+  perception_skill: "Sabedoria (Percepção)"
+  perception_expression: "1d20+6"
+  perception_player_roll_requested: true
+  perception_player_roll_result: null
+  no_new_rolls: true
+  hp_current: 8
+  hp_max: 11
+  ac: 13
+  arrows: 19
+  player_action_pending: true
