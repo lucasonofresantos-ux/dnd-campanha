@@ -1,0 +1,34 @@
+campaign_id: cinzas-da-coroa-esquecida
+branch: sessao_0000_bromir_caldria
+turn: GI
+last_pair: "0388-0389"
+state: "Depois do descanso longo em quarto 6 do Carvalho Cinzento, manhã seguinte"
+eron:
+  name: Eron River
+  class: Ladino
+  level: 1
+  hit_points: 11
+  hit_points_max: 11
+  armor_class: 13
+  arrows: 12
+  hit_dice_available: "1d8"
+  heroic_inspiration: "Disponível pela característica humana Engenhoso no descanso longo D&D 2024"
+  arm: "Permanece enfaixado, sem condição mecânica registrada"
+  long_rest_completed: true
+  long_rest_uninterrupted: true
+  room: 6
+  room_key: true
+  room_paid: true
+companions:
+  Bromir: "Despediu-se à noite; considerava acompanhar Eron à patrulha após checar carroça"
+  Varen: "Despediu-se à noite; combinou acompanhar Eron à sede da patrulha"
+  positions_at_dawn: "Ainda não verificadas"
+contract:
+  concluded: true
+  payment_due_gp: 50
+  extraordinary_bonus: "Ainda sem valor definido"
+  new_job_accepted: false
+sources:
+  - "sessions/transcripts/SESSION_0000_CONTINUACAO_20261014_GH.md"
+  - "sessions/transcripts/SESSION_0000_CONTINUACAO_20261014_GI.md"
+note: "Suplemento operacional; não altera retrospectivamente os registros históricos."
