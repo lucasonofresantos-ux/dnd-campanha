@@ -29,14 +29,14 @@ unresolved:
   - "Vínculo de Varen com autoridades, ainda não demonstrado"
   - "Situação exata dos capturados no curtume após ordem de Haldren para buscar atendimento e guardas"
   - "Operação e pagamento pactuados com Haldren: 25 PO por capturados e 25 PO pela operação, sujeitos às condições; quitação não presumida"
-last_player_message_exact: "Os dois são peões, não vou conseguir nada com eles, vou esperar até alguém a mais aparecer"
-last_gm_prompt: "Eron manteve-se oculto e esperou mais alguns minutos. Uma terceira pessoa, mulher com cabelos escuros presos, sobretudo cinzento e molho de chaves, chegou pela passagem à direita da sala vizinha. Perguntou se os dois homens abriram o embrulho (não), se entregador saiu (sim), se estava sozinho (não viram acompanhante), se sentinela dos fundos permanecia em ronda (sim). Mulher disse para ninguem entrar ou sair pela porta indicada ate terminarem. Ela se voltou aproximadamente para a parede da porta do deposito; Eron e Varen não foram descobertos."
-next: "Aguardar decisao de Eron oculto com Varen junto da porta interior entreaberta dois dedos. Na sala iluminada vizinha agora ha três pessoas visualmente confirmadas: dois homens e uma mulher de sobretudo cinza, chaves no cinto, aparentemente dando ordens. Ela voltou-se para o lado da porta de onde Eron observa, aumentando risco de deteccao. Embrulho sobre mesa nao foi aberto nem identificado. Referencia a sentinela dos fundos reforca suspeita de ligacao com ronda."
+last_player_message_exact: "Se ela vir para o nosso lado a gente se esconde aqui dentro e nos preparamos para agir.\nEstá mulher é a mesma da pousada que apareceu quando eu e Bromir estávamos na estalagem o  javali de cobre?"
+last_gm_prompt: "Eron reconheceu a mulher de sobretudo cinzento do armazem como a visitante que entrou de capa encharcada no Javali de Cobre enquanto ele e Bromir jantavam; naquela epoca homem de ombros largos se endireitou ao ve-la, mas Eron nao comprovou vinculo em testes anteriores. Varen se preparou atras de caixotes para reagir se ela entrar; mulher ainda junto a mesa da sala iluminada, disse Antes de qualquer coisa, quero saber exatamente o que recebemos. Eron continua escondido junto a porta dois dedos entreaberta. Nenhuma rolagem nova."
+next: "Aguardar a acao de Eron oculto na porta entreaberta do deposito; Varen atras de caixotes e preparado para reagir caso alguem entre, conforme combinacao. Mulher do armazem foi reconhecida como mulher de capa encharcada que entrou no Javali de Cobre enquanto Eron/Bromir jantavam; ela permanece na sala vizinha com os dois homens, perguntou o que receberam e nao entrou no deposito. Outros dois homens nao identificados como os da estalagem; pacote nao identificado como replica. Furtividade 26 enquanto sob cobertura."
 transcription:
   completeness: "TXT 01.02 recuperado integralmente como enviado; história anterior e UI do chat ainda podem ter lacunas"
   audit: sessions/transcripts/AUDITORIA_CONTINUIDADE_20261013.md
   current_historical_end: sessions/transcripts/SESSION_0000_FONTE_LITERAL_0102_20261013.txt
-last_verified_transcript: sessions/transcripts/SESSION_0000_CONTINUACAO_20261014_BO.md
+last_verified_transcript: sessions/transcripts/SESSION_0000_CONTINUACAO_20261014_BP.md
 
 operational_dice_protocol: sessions/PROTOCOLO_DADOS_20261013.md
 no_new_rolls_or_scene_advancement_on_protocol_update: true
@@ -639,4 +639,26 @@ current_scene_bo:
   armor_class: 13
   arrows: 19
   payment_gold: 12
+  awaiting_player_action: true
+
+current_scene_bp:
+  transcript: sessions/transcripts/SESSION_0000_CONTINUACAO_20261014_BP.md
+  previous_transcript: sessions/transcripts/SESSION_0000_CONTINUACAO_20261014_BO.md
+  player_literal: "Se ela vir para o nosso lado a gente se esconde aqui dentro e nos preparamos para agir.\nEstá mulher é a mesma da pousada que apareceu quando eu e Bromir estávamos na estalagem o  javali de cobre?"
+  eron_location: "Deposito superior, junto a porta apenas dois dedos entreaberta"
+  varen_location: "Oculto atras dos caixotes proximos, mao perto de arma e preparado conforme aviso de Eron"
+  woman_identity: "Reconhecida por Eron como a mulher que entrou com capa encharcada no Javali de Cobre enquanto jantava com Bromir"
+  recognition_source: "SESSION_0000_PENDENCIAS_20261012.md, relato da chegada dela e reacao do homem de ombros largos"
+  historical_checks: "Percepcao 11 e Intuicao 5 naquela noite; vinculo com homens nao comprovado na epoca"
+  men_in_warehouse_identical_to_inn_men: "Nao confirmado"
+  woman_current_location: "Sala vizinha iluminada, junto a mesa, nao se aproximou da porta do deposito"
+  new_dialogue: "Antes de qualquer coisa, quero saber exatamente o que recebemos"
+  intruders_detected: false
+  new_dice: false
+  eron_furtividade_prior: 26
+  hp_current: 8
+  hp_max: 11
+  armor_class: 13
+  arrows: 19
+  gold_payment: 12
   awaiting_player_action: true
