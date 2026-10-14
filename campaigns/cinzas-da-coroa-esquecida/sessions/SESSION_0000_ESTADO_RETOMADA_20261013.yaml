@@ -3,7 +3,7 @@ branch: sessao_0000_bromir_velkan
 status: active_for_resume
 source_of_truth: "sessions/transcripts/SESSION_0000_FONTE_LITERAL_0102_20261013.txt"
 scope: "Sessão 0 anterior e de ligação com a Sessão 1 já iniciada pelo jogador em born (grafada Lorn nos arquivos); preservar cenas e recursos separados até haver reconciliação narrativa de transição"
-location: "Escondidos juntos atras da carroca no patio traseiro do Armazem dos Oleiros, Caldria, sob chuva fina"
+location: "Base da parede traseira do Armazem dos Oleiros, Caldria, sob janela de carga do segundo andar; Eron e Varen ocultos"
 time: "Noite; duas badaladas ouvidas junto ao armazém e outra relatada anteriormente por Varen, sem saber posição na sequência nem confirmar terceiro toque."
 character:
   name: Eron River
@@ -29,14 +29,14 @@ unresolved:
   - "Vínculo de Varen com autoridades, ainda não demonstrado"
   - "Situação exata dos capturados no curtume após ordem de Haldren para buscar atendimento e guardas"
   - "Operação e pagamento pactuados com Haldren: 25 PO por capturados e 25 PO pela operação, sujeitos às condições; quitação não presumida"
-last_player_message_exact: "Eu me aproximo do dia o Varen ainda usando a furtividade.\nE conto oque houve e quantas pessoas acho que tem lá dentro"
-last_gm_prompt: "Eron retornou cautelosamente pela passagem escura ate Varen atras da carroca, mantendo Furtividade anterior 26 sem novo dado. Relatou o enluvado, homem de avental com faca e voz masculina no piso superior, ao menos tres dentro, replica levada para cima e pagamento de 12 PO. Varen ouviu discussao com vigia e perguntou se o lanternista era mesmo guarda; som de porta se fechando ao longe, origem nao identificada."
-next: "Aguardar a resposta ou nova acao de Eron a Varen. Ambos atras da carroca e ocultos. Varen perguntou se Eron crê que o homem da lanterna seja mesmo vigia em ronda. Passagem do patio livre, guarda proximo do armazem sem ver os dois. Replica no interior, pelo menos tres ocupantes evidenciados, bolsa 12 PO com Eron."
+last_player_message_exact: "Camisa logo a está janela, e não podemos fazer nada com o vigia, se ele sumir os de dentro vão desconfiar, mas vamos ir sem que nós vejam, eu subo primeiro, chegando la, eu te faço um sinal para você subir, mas vamos com cuidado para não nos verem\nRole percepção para mim, quero analisar a entrada e se alguém vê e onde o vigia está "
+last_gm_prompt: "Percepcao em Python 1d20 [19]+6=25. Vigia com lanterna no acesso lateral a direita da porta dos fundos, atento beco e terreo, nao olhando janela nesse instante; janela de carga a ~5m canto esquerdo, postigo mal fechado e fresta escura, apoios e viga com sinais de deterioracao, madeira de assoalho range dentro sem fonte clara. Eron e Varen deslocaram-se pela sombra ate base da parede. Eron subiria primeiro e sinalizaria a Varen; aguardar Atletismo 1d20+3 do jogador ou pedido de rolagem. Ninguem subiu."
+next: "Aguardar Atletismo Forca 1d20+3 de Eron para escalar aproximadamente 5m ate janela superior, com parede molhada e apoios de madeira deteriorados. Percepcao 25 ja executada. Varen aguarda embaixo, nao sobe sem sinal. Vigia esta no acesso lateral de costas parcial para janela, posicao pode mudar. Nao presumir acesso ou queda antes de teste."
 transcription:
   completeness: "TXT 01.02 recuperado integralmente como enviado; história anterior e UI do chat ainda podem ter lacunas"
   audit: sessions/transcripts/AUDITORIA_CONTINUIDADE_20261013.md
   current_historical_end: sessions/transcripts/SESSION_0000_FONTE_LITERAL_0102_20261013.txt
-last_verified_transcript: sessions/transcripts/SESSION_0000_CONTINUACAO_20261014_BF.md
+last_verified_transcript: sessions/transcripts/SESSION_0000_CONTINUACAO_20261014_BH.md
 
 operational_dice_protocol: sessions/PROTOCOLO_DADOS_20261013.md
 no_new_rolls_or_scene_advancement_on_protocol_update: true
@@ -497,3 +497,27 @@ current_scene_bf:
   arrows: 19
   new_rolls: false
   awaiting_player_action: true
+
+current_scene_bh:
+  transcript: sessions/transcripts/SESSION_0000_CONTINUACAO_20261014_BH.md
+  prior_transcript: sessions/transcripts/SESSION_0000_CONTINUACAO_20261014_BG.md
+  player_plan: "Subir sozinho primeiro por janela de carga, sinalizar para Varen subir depois; manter guarda vivo e evitar alerta"
+  perception: "1d20 [19]+6=25, Python secrets.randbelow executado, log ordem 39"
+  eron_and_varen: "Sob a janela de carga, base da parede traseira"
+  window: "No canto esquerdo do segundo pavimento, aproximadamente 5 m acima do solo, postigo mal fechado; interior nao confirmado"
+  climb_supports: "Pedras e suportes de madeira junto a viga de icamento; molhados e parte deteriorada"
+  guard: "Proximo da passagem lateral a direita da porta traseira, olhando beco/acesso terreo e nao janela no momento"
+  guard_link_to_occupants: "Nao confirmado"
+  inside_observer_seen: false
+  upstairs_wood_creak: "Ouvido, causa nao identificada"
+  climb_requested: "Forca Atletismo 1d20+3, ainda nao rolado"
+  eron_climbed: false
+  varen_climbed: false
+  signal_sent: false
+  hp: 8
+  hp_max: 11
+  ac: 13
+  arrows: 19
+  money_from_operation_gold: 12
+  other_dice: false
+  awaiting_player_roll: true
