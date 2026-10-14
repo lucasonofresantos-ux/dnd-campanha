@@ -3,7 +3,7 @@ branch: sessao_0000_bromir_velkan
 status: active_for_resume
 source_of_truth: "sessions/transcripts/SESSION_0000_FONTE_LITERAL_0102_20261013.txt"
 scope: "Sessão 0 anterior e de ligação com a Sessão 1 já iniciada pelo jogador em born (grafada Lorn nos arquivos); preservar cenas e recursos separados até haver reconciliação narrativa de transição"
-location: "Passagem lateral escura após a esquina do muro dos fundos do Armazém dos Oleiros, Caldria; Eron oculto fora da linha de visão do vigia"
+location: "Escondidos juntos atras da carroca no patio traseiro do Armazem dos Oleiros, Caldria, sob chuva fina"
 time: "Noite; duas badaladas ouvidas junto ao armazém e outra relatada anteriormente por Varen, sem saber posição na sequência nem confirmar terceiro toque."
 character:
   name: Eron River
@@ -29,14 +29,14 @@ unresolved:
   - "Vínculo de Varen com autoridades, ainda não demonstrado"
   - "Situação exata dos capturados no curtume após ordem de Haldren para buscar atendimento e guardas"
   - "Operação e pagamento pactuados com Haldren: 25 PO por capturados e 25 PO pela operação, sujeitos às condições; quitação não presumida"
-last_player_message_exact: "Eu vou de furtividade de novo 20"
-last_gm_prompt: "Eron informou Furtividade d20 natural 20, somado +6 da ficha de 2024 para total 26. Dobrou a esquina do muro e se ocultou nas sombras da passagem lateral, quebrando a linha de visão do vigia. Este percorreu a saída com a lanterna, nao encontrou Eron e voltou em direção ao armazém. Varen permaneceu na última posição conhecida atrás da carroça, fora da vista direta de Eron."
-next: "Aguardar decisão de Eron, oculto junto à passagem lateral escura perto da saída do beco. Vigia voltou para o armazém, não seguiu Eron. Varen permanece na última posição conhecida atrás da carroça e fora de vista; não deslocá-lo automaticamente. Dinheiro da operação 12 PO com Eron."
+last_player_message_exact: "Eu me aproximo do dia o Varen ainda usando a furtividade.\nE conto oque houve e quantas pessoas acho que tem lá dentro"
+last_gm_prompt: "Eron retornou cautelosamente pela passagem escura ate Varen atras da carroca, mantendo Furtividade anterior 26 sem novo dado. Relatou o enluvado, homem de avental com faca e voz masculina no piso superior, ao menos tres dentro, replica levada para cima e pagamento de 12 PO. Varen ouviu discussao com vigia e perguntou se o lanternista era mesmo guarda; som de porta se fechando ao longe, origem nao identificada."
+next: "Aguardar a resposta ou nova acao de Eron a Varen. Ambos atras da carroca e ocultos. Varen perguntou se Eron crê que o homem da lanterna seja mesmo vigia em ronda. Passagem do patio livre, guarda proximo do armazem sem ver os dois. Replica no interior, pelo menos tres ocupantes evidenciados, bolsa 12 PO com Eron."
 transcription:
   completeness: "TXT 01.02 recuperado integralmente como enviado; história anterior e UI do chat ainda podem ter lacunas"
   audit: sessions/transcripts/AUDITORIA_CONTINUIDADE_20261013.md
   current_historical_end: sessions/transcripts/SESSION_0000_FONTE_LITERAL_0102_20261013.txt
-last_verified_transcript: sessions/transcripts/SESSION_0000_CONTINUACAO_20261014_BE.md
+last_verified_transcript: sessions/transcripts/SESSION_0000_CONTINUACAO_20261014_BF.md
 
 operational_dice_protocol: sessions/PROTOCOLO_DADOS_20261013.md
 no_new_rolls_or_scene_advancement_on_protocol_update: true
@@ -474,4 +474,26 @@ current_scene_be:
   arrows: 19
   combat: false
   new_npc_rolls: false
+  awaiting_player_action: true
+
+current_scene_bf:
+  transcript: sessions/transcripts/SESSION_0000_CONTINUACAO_20261014_BF.md
+  previous_transcript: sessions/transcripts/SESSION_0000_CONTINUACAO_20261014_BE.md
+  player_literal: "Eu me aproximo do dia o Varen ainda usando a furtividade.\nE conto oque houve e quantas pessoas acho que tem lá dentro"
+  eron_position: "Retornou ate a carroca e esta ao lado de Varen na cobertura"
+  eron_stealth: "Furtividade 26 informada anteriormente pelo jogador, mantida enquanto cruzou apenas cobertura; nova rolagem nao solicitada"
+  varen: "Escondido junto a Eron, ouviu relato da entrega e questionou identidade do lanternista"
+  suspects_inside_minimum: 3
+  suspects_known_observations: "Enluvado no terreo que subiu com replica e desceu sem ela; homem corpulento de avental com faca; voz masculina no piso superior"
+  final_occupant_count: "Indeterminada"
+  lanternist: "Ultima observacao voltando para o armazem; alegou ronda, nao verificado, ainda nao detectou Varen"
+  exterior_sound: "Som de porta se fechando ao longe, origem nao identificada"
+  replica: "Entregue no interior do armazem, local exato nao observado"
+  original_piece: "Mantida separada com Velkan"
+  pouch: "12 PO contadas e em posse de Eron"
+  hp: 8
+  hp_max: 11
+  armor_class: 13
+  arrows: 19
+  new_rolls: false
   awaiting_player_action: true
