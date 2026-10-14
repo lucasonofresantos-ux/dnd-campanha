@@ -145,3 +145,5 @@ Arquivos produzidos nesta conferência: `transcripts/AUDITORIA_CONTINUIDADE_2026
 [SESSION_0000_CONTINUACAO_20261013_AC.md](transcripts/SESSION_0000_CONTINUACAO_20261013_AC.md) — mensagens 0065–0066; Furtividade [18]+7=25 gerada localmente pelo jogador, aproximação furtiva até o batente exterior da porta dos fundos. Varen manteve a réplica na carroça. Resultado anotado no suplemento de dados, ordem 29.
 
 [SESSION_0000_CONTINUACAO_20261013_AD.md](transcripts/SESSION_0000_CONTINUACAO_20261013_AD.md) — mensagens 0067–0068; esclarecido que a réplica segue com Varen. Solicitado dado local interativo de Percepção 1d20+6, ainda pendente, sem alterar a posição de Eron.
+
+[SESSION_0000_CONTINUACAO_20261013_AE.md](transcripts/SESSION_0000_CONTINUACAO_20261013_AE.md) — mensagens 0069–0070; Percepcao local informada pelo jogador 1d20 [18]+6=24. Eron observa sinais de presença atrás da porta dos fundos e ruído superior, sem abrir a porta. Replica permanece com Varen. Dado no log suplementar, ordem 30.
