@@ -122,3 +122,30 @@ latest_scene_fu_fv:
   eron_arrows: 12
   pending_player_action: true
   transcription_fu_fv: "Pendente confirmar escrita de transcrição literal de 0362-0365"
+
+latest_scene_fx:
+  transcript: "sessions/transcripts/SESSION_0000_CONTINUACAO_20261014_FX.md"
+  current_location: "Exterior da Estalagem do Carvalho Cinzento, Caldria"
+  weather: "Noite chuvosa"
+  traveling_with: "Varen"
+  bromir: "Último local confirmado na Estalagem do Carvalho Cinzento; hospedagem efetiva e presença atual ainda não verificadas"
+  haldren: "Sargento da patrulha, permaneceu no Armazém dos Oleiros; reconheceu a participação contratual de Eron como concluída"
+  halven: "Permaneceu no armazém, responsável pela ocorrência e provas"
+  marek: "Oren o acompanhou ferido para tratamento; Haldren prometeu assegurar atendimento e escolta, sem resultado médico verificado"
+  suspected_conspiracy: "Marek recebia ordens de superior, conforme relatos colhidos de prisioneiros da oficina de Velkan; homem de luvas negras não identificado conclusivamente"
+  payment_contract_gp: 50
+  payment_received_confirmed: false
+  bonus_gp: null
+  bonus_status: "Recomendada por Halven; Haldren prometeu encaminhar; valor não definido"
+  coins_delivered_as_evidence_gp: 12
+  coins_recipient: "Halven, sob recibo"
+  oren_care_fee_sp: 5
+  oren_fee_paid: false
+  hp_current: 6
+  armor_class: 13
+  arrows_remaining: 12
+  player_intends_rest: true
+  rest_started: false
+  rest_completed: false
+  hp_recovered: 0
+  next_action: "Eron e Varen junto à entrada da estalagem"
