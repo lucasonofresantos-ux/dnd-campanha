@@ -65,3 +65,6 @@
 - Na Estalagem do Carvalho Cinzento, Eron apresentou Varen a Bromir, dizendo que ele o ajudou durante a noite, mas caçoando de sua atuação contra uma mulher e um homem aleijado em um beco.
 - Bromir e Varen responderam com humor; Bromir perguntou se Eron precisou salvar Varen. A conversa permanece ativa no salão da estalagem, enquanto os ensopados e as cervejas já foram servidos.
 - Nenhum teste, consumo de PV/flechas, pagamento ou descanso longo ocorreu nesta interação. Conta anterior de 10 PP e 5 PC continua em aberto; Eron 6/11 PV, CA 13, 12 flechas.
+
+## Continuação GF — convite para patrulha
+Eron voltou do balcão à mesa da Estalagem do Carvalho Cinzento, expressou preocupação com a segurança de Varen, reafirmou que sua participação contratada se encerrou e afirmou querer pagamento substancial antes de aceitar novo risco. Pediu a Varen que o acompanhasse à sede da patrulha no dia seguinte; **Varen aceitou**. Bromir considera acompanhá-los depois de verificar a própria carroça. Conversa bem-humorada sobre tamancos. O quarto **6** já está pago (10 PP e 5 PC, inclusive pedidos de jantar e cerveja), mas **descanso longo ainda não começou**. **6/11 PV, CA 13, 12 flechas**.
