@@ -425,3 +425,5 @@ Arquivos produzidos nesta conferência: `transcripts/AUDITORIA_CONTINUIDADE_2026
 [SESSION_0000_CONTINUACAO_20261014_FR.md](transcripts/SESSION_0000_CONTINUACAO_20261014_FR.md) — 0356–0357: Haldren sargento da patrulha; Halven recomenda bonificação, revisão de lacunas e atualização documental.
 
 [SESSION_0000_CONTINUACAO_20261014_FS.md](transcripts/SESSION_0000_CONTINUACAO_20261014_FS.md) — 0358–0359: Exame do braço, depoimento.
+
+[SESSION_0000_CONTINUACAO_20261014_FT.md](transcripts/SESSION_0000_CONTINUACAO_20261014_FT.md) — 0360–0361: depoimento a Halven, 12 PO da entrega permanecem com Eron, ponto refeito por Oren.
