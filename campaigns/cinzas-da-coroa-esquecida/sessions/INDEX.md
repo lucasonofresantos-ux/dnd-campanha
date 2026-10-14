@@ -437,3 +437,5 @@ Arquivos produzidos nesta conferência: `transcripts/AUDITORIA_CONTINUIDADE_2026
 [SESSION_0000_CONTINUACAO_20261014_FX.md](transcripts/SESSION_0000_CONTINUACAO_20261014_FX.md) — 0368–0369: Eron e Varen seguem ao Carvalho Cinzento após reconhecimento de serviço concluído.
 
 [SESSION_0000_CONTINUACAO_20261014_FY.md](transcripts/SESSION_0000_CONTINUACAO_20261014_FY.md) — 0370–0371: Eron e Varen entram no Carvalho Cinzento, reencontram Bromir acordado; refeições e quartos oferecidos, sem compra ou descanso iniciado.
+
+[SESSION_0000_CONTINUACAO_20261014_FZ.md](transcripts/SESSION_0000_CONTINUACAO_20261014_FZ.md) — 0372–0373: 2 ensopados, 3 cervejas e quarto 6; conta 10 PP e 5 PC não paga.
