@@ -299,3 +299,6 @@ Arquivos produzidos nesta conferência: `transcripts/AUDITORIA_CONTINUIDADE_2026
 
 [SESSION_0000_CONTINUACAO_20261014_DF.md](transcripts/SESSION_0000_CONTINUACAO_20261014_DF.md) — 0228–0229: Odrik desarma-se e Varen começa a amarrá-lo.
 [SESSION_0000_CONTINUACAO_20261014_DG.md](transcripts/SESSION_0000_CONTINUACAO_20261014_DG.md) — 0230–0231: Odrik amarrado chama Bram para trancar a porta e subir; Bram diz que vai verificar a porta.
+
+[SESSION_0000_CONTINUACAO_20261014_DH.md](transcripts/SESSION_0000_CONTINUACAO_20261014_DH.md) — 0232–0233: Odrik chama Bram para ajudar após suposta confusão com rato; Bram anuncia que sobe.
+[SESSION_0000_CONTINUACAO_20261014_DI.md](transcripts/SESSION_0000_CONTINUACAO_20261014_DI.md) — 0234–0235: Eron prioriza prender todos antes de primeiros socorros e prepara arco; Bram aproxima-se da curva.
