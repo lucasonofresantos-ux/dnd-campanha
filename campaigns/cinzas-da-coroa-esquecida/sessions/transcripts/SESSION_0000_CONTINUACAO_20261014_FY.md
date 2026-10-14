@@ -39,3 +39,5 @@ Bromir puxa uma cadeira vazia com o pé.
 - **Linha de Missão Ativa:** Serviço concluído, 50 PO contratuais ainda devidas e bonificação não definida; Eron deseja comer e descansar.
 - **Eventos Cruciais Ocorridos:** Eron entrou no Carvalho Cinzento com Varen e reencontrou Bromir acordado. A proprietária ofereceu quarto individual por 5 PP ou quarto com jantar por 7 PP; Eron não confirmou pedido nem pagamento.
 - **Condições do Jogador:** 6/11 PV, CA 13, 12 flechas; braço suturado e enfaixado, sem cura; nenhum descanso longo realizado. 12 PO da entrega falsa em custódia da guarda, com recibo.
+
+GitHub: FY, índice de sessão, estado operacional, ficha de Eron e cronologia atualizados com commits verificados. Lacunas históricas anteriores permanecem documentadas.
