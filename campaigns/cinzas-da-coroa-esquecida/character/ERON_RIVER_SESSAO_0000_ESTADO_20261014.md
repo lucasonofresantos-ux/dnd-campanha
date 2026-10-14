@@ -36,3 +36,6 @@ Oren examinou o corte antigo de Orsik, reaproximou a pequena abertura com ponto 
 ## Atualização FZ — conta do Carvalho Cinzento
 - Eron **encomendou** 2 ensopados, 3 cervejas e um quarto individual com jantar (quarto 6). Conta cotada em **10 PP e 5 PC**: 7 PP pela hospedagem com um jantar incluso, 2 PP pelo outro ensopado, 15 PC pelas três cervejas. Comida e bebidas servidas, **nenhum pagamento confirmado**, sem dedução monetária.
 - A proprietária **separou**, mas ainda não entregou a chave do quarto; Eron não começou o descanso longo e não recuperou PV. **6/11 PV, CA 13, 12 flechas.** Bromir pergunta o que aconteceu na investigação e quem é Varen.
+
+## Continuação GF — reunião na estalagem
+Eron voltou à mesa com Bromir e Varen após quitar a conta de **10 PP e 5 PC** e receber a chave do quarto **6**. Eron convidou Varen para acompanhá-lo à sede da patrulha no dia seguinte; **Varen concordou**. Bromir poderá acompanhá-los, **condicionado a verificar sua carroça**. Nenhum novo contrato aceito e o pagamento de Haldren de **50 PO** continua devido, com bonificação extraordinária indefinida. Eron continua com **6/11 PV, CA 13, 12 flechas**; braço suturado e enfaixado, **sem iniciar descanso longo**.
