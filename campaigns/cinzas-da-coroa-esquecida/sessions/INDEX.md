@@ -242,3 +242,7 @@ Arquivos produzidos nesta conferência: `transcripts/AUDITORIA_CONTINUIDADE_2026
 [SESSION_0000_CONTINUACAO_20261014_BW.md](transcripts/SESSION_0000_CONTINUACAO_20261014_BW.md) — 0157–0159: Jogador pede layout no estilo conversa 01.01 e corrige para 01.02. Mestre gera infografico ilustrativo, e arquiva SVG sem escala. Nenhuma ação ou tempo de cena decorreu.
 
 [SESSION_0000_TRANSFERENCIA_20261014_BX.md](transcripts/SESSION_0000_TRANSFERENCIA_20261014_BX.md) — mensagens 0160–0161: usuário solicita prompt de transferência para outro chat do projeto; Mestre fornece instruções completas e estado confirmado. Não houve avanço da aventura desde BU/BW.
+
+[SESSION_0000_CONTINUACAO_20261014_BY.md](transcripts/SESSION_0000_CONTINUACAO_20261014_BY.md) — 0162–0163: Eron sinaliza a Varen e prepara emboscada contra o homem das luvas; aguarda ataque.
+[SESSION_0000_CONTINUACAO_20261014_BZ.md](transcripts/SESSION_0000_CONTINUACAO_20261014_BZ.md) — 0164–0165: ataque com vantagem [3,20]+4=24, crítico; aguarda dano.
+[SESSION_0000_CONTINUACAO_20261014_CA.md](transcripts/SESSION_0000_CONTINUACAO_20261014_CA.md) — 0166–0167: dano crítico rolado em Python 4d6 [3,2,1,5]+2=13; reação e imobilização não resolvidas.
