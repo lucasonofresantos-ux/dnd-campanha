@@ -147,3 +147,5 @@ Arquivos produzidos nesta conferência: `transcripts/AUDITORIA_CONTINUIDADE_2026
 [SESSION_0000_CONTINUACAO_20261013_AD.md](transcripts/SESSION_0000_CONTINUACAO_20261013_AD.md) — mensagens 0067–0068; esclarecido que a réplica segue com Varen. Solicitado dado local interativo de Percepção 1d20+6, ainda pendente, sem alterar a posição de Eron.
 
 [SESSION_0000_CONTINUACAO_20261013_AE.md](transcripts/SESSION_0000_CONTINUACAO_20261013_AE.md) — mensagens 0069–0070; Percepcao local informada pelo jogador 1d20 [18]+6=24. Eron observa sinais de presença atrás da porta dos fundos e ruído superior, sem abrir a porta. Replica permanece com Varen. Dado no log suplementar, ordem 30.
+
+[SESSION_0000_CONTINUACAO_20261013_AF.md](transcripts/SESSION_0000_CONTINUACAO_20261013_AF.md) — mensagens 0071–0072; Eron sinalizou para Varen jogar a réplica. Varen tentou lançar a bolsa, Destreza [1]+2=3 executado em Python, mas a bolsa caiu no pátio com ruído; pessoa da lanterna procurou a origem e passos dentro da porta cessaram. Réplica fora do alcance de Eron e não mais com Varen. Dado no suplemento, ordem 31.
