@@ -29,14 +29,14 @@ unresolved:
   - "Vínculo de Varen com autoridades, ainda não demonstrado"
   - "Situação exata dos capturados no curtume após ordem de Haldren para buscar atendimento e guardas"
   - "Operação e pagamento pactuados com Haldren: 25 PO por capturados e 25 PO pela operação, sujeitos às condições; quitação não presumida"
-last_player_message_exact: "Eu me cubro com o capuz, bem continue observando, vamos ficar escondidos até escutar a próxima badalada"
-last_gm_prompt: "Eron cobriu a cabeça com o capuz e esperou com Varen escondido. Soou uma nova badalada: segunda ouvida junto ao armazém, com contagem geral desconhecida. Porta dos fundos ainda fechada."
-next: "Aguardar próxima decisão de Eron após a nova badalada. Não confirmar terceiro toque, identidade da silhueta nem detecção dos aliados sem evidência."
+last_player_message_exact: "Aquela era a primeira, vamos, você permanece escondido e eu vou\nVou manter a furtividade até a porta em questão do armazém, e me dê os dados para jogar aqui"
+last_gm_prompt: "Varen fica atrás da carroça com réplica; Eron pretende aproximar-se furtivamente da porta. Solicita-se teste Destreza (Furtividade) 1d20+7 e aguarda-se resultado do jogador."
+next: "Aguardar resultado do d20 de Furtividade de Eron, aplicar +7 e então resolver aproximação à porta. Varen permanece oculto; não confirmar sino nem identidade de observadores sem evidência."
 transcription:
   completeness: "TXT 01.02 recuperado integralmente como enviado; história anterior e UI do chat ainda podem ter lacunas"
   audit: sessions/transcripts/AUDITORIA_CONTINUIDADE_20261013.md
   current_historical_end: sessions/transcripts/SESSION_0000_FONTE_LITERAL_0102_20261013.txt
-last_verified_transcript: sessions/transcripts/SESSION_0000_CONTINUACAO_20261013_Z.md
+last_verified_transcript: sessions/transcripts/SESSION_0000_CONTINUACAO_20261013_AA.md
 
 operational_dice_protocol: sessions/PROTOCOLO_DADOS_20261013.md
 no_new_rolls_or_scene_advancement_on_protocol_update: true
@@ -119,3 +119,18 @@ latest_wait_20261013:
   unseen_presence: "Janela superior com movimento testemunhado anteriormente; identidade e intenção desconhecidas."
   new_dice_rolled: false
   player_action_pending: true
+
+current_pending_action_20261013:
+  transcript: sessions/transcripts/SESSION_0000_CONTINUACAO_20261013_AA.md
+  action: "Eron avançará furtivamente até a porta dos fundos; Varen permanece escondido na carroça com a réplica."
+  player_claim_bell: "Aquela era a primeira; identificação afirmada pelo jogador, sem confirmação independente de sequência."
+  skill: "Destreza (Furtividade)"
+  expression: "1d20+7"
+  modifier_source: "Teste Furtividade anterior da mesma continuidade, transcrição S."
+  die_result: null
+  awaiting_player_roll: true
+  movement_resolved: false
+  hp_current: 8
+  hp_max: 11
+  ac: 13
+  arrows: 19
