@@ -4,7 +4,7 @@ status: active_for_resume
 source_of_truth: "sessions/transcripts/SESSION_0000_FONTE_LITERAL_0102_20261013.txt"
 scope: "Continuidade da Sessão 0, distinta da abertura alternativa da Sessão 0001 em Lorn"
 location: "Batente exterior da porta dos fundos do Armazém dos Oleiros, Caldria"
-time: "Noite; após uma badalada ouvida por Varen no retorno e outra junto ao armazém; sequência e ocorrência do terceiro toque ainda não confirmadas."
+time: "Noite; duas badaladas ouvidas junto ao armazém e outra relatada anteriormente por Varen, sem saber posição na sequência nem confirmar terceiro toque."
 character:
   name: Eron River
   class: Ladino
@@ -16,8 +16,8 @@ character:
   money: "Saldo exato atualizado não confirmado; não importar 58 PO iniciais da outra execução"
   conditions_confirmed: []
 present:
-  - "Eron River, na travessa"
-  - "Varen, acompanha Eron e carrega a bolsa com a réplica"
+  - "Eron River, sob beiral junto ao batente exterior da porta dos fundos"
+  - "Varen, escondido atrás da carroça, sem a bolsa nem a réplica"
 bromir_status: "Em segurança planejada na hospedaria Carvalho Cinzento; não consta presente na conversa final"
 objects:
   - "Caixa aberta por Velkan; agulha contida; peça cinzenta com três anéis e eixo ainda no feltro"
@@ -29,14 +29,14 @@ unresolved:
   - "Vínculo de Varen com autoridades, ainda não demonstrado"
   - "Situação exata dos capturados no curtume após ordem de Haldren para buscar atendimento e guardas"
   - "Operação e pagamento pactuados com Haldren: 25 PO por capturados e 25 PO pela operação, sujeitos às condições; quitação não presumida"
-last_player_message_exact: "Eu faço um sinal para o Varen me jogar a peça"
-last_gm_prompt: "Varen tentou lançar a bolsa com a réplica; Destreza 1d20 [1] +2 =3. Bolsa caiu no pátio fora do alcance de Eron; lanterna voltou ao ruído e passos dentro da porta cessaram. Não há detecção confirmada."
-next: "Aguardar ação de Eron junto à porta; bolsa da réplica caiu no pátio. Não narrar automaticamente a recuperação nem afirmar identificação de pessoas não identificadas."
+last_player_message_exact: "Eu movimento somente a boca sem produzir som para o Varen ler meus lábios \nPUTA QUE PARIU!\nE aproveito a percepção para ver se tem alguém vindo está com uma chuva leve então é difícil que tenham visto e eu ainda estou com o capuz cobrindo o rosto, e se não estiver eu coloco ele cobrindo o rosto"
+last_gm_prompt: "Eron moveu os lábios silenciosamente e ajustou o capuz; Varen viu o gesto sem sinal de compreender as palavras. Com a Percepção 24 anterior, Eron nota o lanternista saindo do alpendre e se aproximando da bolsa, e movimento de uma pessoa atrás da porta ainda fechada. Ninguém confirmou avistamento de Eron."
+next: "Aguardar ação de Eron no batente; bolsa com réplica caída alguns passos adiante, lanternista se aproxima. Não presumir leitura labial, avistamento, recolhimento de réplica nem abertura da porta."
 transcription:
   completeness: "TXT 01.02 recuperado integralmente como enviado; história anterior e UI do chat ainda podem ter lacunas"
   audit: sessions/transcripts/AUDITORIA_CONTINUIDADE_20261013.md
   current_historical_end: sessions/transcripts/SESSION_0000_FONTE_LITERAL_0102_20261013.txt
-last_verified_transcript: sessions/transcripts/SESSION_0000_CONTINUACAO_20261013_AF.md
+last_verified_transcript: sessions/transcripts/SESSION_0000_CONTINUACAO_20261013_AG.md
 
 operational_dice_protocol: sessions/PROTOCOLO_DADOS_20261013.md
 no_new_rolls_or_scene_advancement_on_protocol_update: true
@@ -181,3 +181,22 @@ current_scene_af:
   armor_class: 13
   arrows: 19
   player_action_pending: true
+
+current_scene_ag:
+  transcript: sessions/transcripts/SESSION_0000_CONTINUACAO_20261013_AG.md
+  last_player_action: "Eron articulou silenciosamente uma expressao de frustracao para Varen, reajustou o capuz e vigiou aproximacoes."
+  eron_location: "Sob o beiral junto ao batente exterior da porta dos fundos"
+  eron_face: "Capuz cobre e sombreia o rosto; Eron puxou o capuz adiante"
+  varen_location: "Atrás da carroça, sem bolsa"
+  varen_lipreading: "Varen percebeu movimento dos lábios, mas não demonstrou compreender as palavras"
+  perception_reused: "Percepção 24 da mensagem 0069, já resolvida em AE, usada na observação contínua"
+  new_rolls: false
+  lantern_person: "Saiu alguns passos do alpendre, inspeciona o piso na direção da bolsa da réplica; não avistou Eron de forma confirmada"
+  interior: "Movimento de uma bota atrás da porta, próxima à entrada; porta continua fechada e tranca não testada"
+  replica: "Na bolsa caída nas pedras do pátio, alguns passos adiante do batente; ninguém a recuperou"
+  bell: "Nenhuma badalada nova"
+  hp_current: 8
+  hp_max: 11
+  ac: 13
+  arrows: 19
+  pending_player_action: true
