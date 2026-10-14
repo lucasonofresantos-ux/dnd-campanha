@@ -421,3 +421,5 @@ Arquivos produzidos nesta conferência: `transcripts/AUDITORIA_CONTINUIDADE_2026
 [SESSION_0000_CONTINUACAO_20261014_FN.md](transcripts/SESSION_0000_CONTINUACAO_20261014_FN.md) — 0348–0349: hipóteses de fabricação ou reativação de mecanismos; arquivo recuperado.
 
 **Pendências sem texto literal recuperado:** EH (0284–0285), EK (0290–0291), ER (0304–0305), ET (0308–0309), EW (0314–0315), EX (0316–0317), FA (0322–0323) e FJ (0340–0341). Não criar transcrições simuladas. FL e FN foram recuperadas e verificadas. Há ainda lacunas mais antigas documentadas na auditoria de 2026-10-13.
+
+[SESSION_0000_CONTINUACAO_20261014_FR.md](transcripts/SESSION_0000_CONTINUACAO_20261014_FR.md) — 0356–0357: Haldren sargento da patrulha; Halven recomenda bonificação, revisão de lacunas e atualização documental.
