@@ -264,3 +264,5 @@ Arquivos produzidos nesta conferência: `transcripts/AUDITORIA_CONTINUIDADE_2026
 
 [SESSION_0000_CONTINUACAO_20261014_CJ.md](transcripts/SESSION_0000_CONTINUACAO_20261014_CJ.md) — 0184–0185: funcionário do corredor rende-se verbalmente, não desarmado nem amarrado.
 [SESSION_0000_CONTINUACAO_20261014_CK.md](transcripts/SESSION_0000_CONTINUACAO_20261014_CK.md) — 0186–0187: Eron observa corredor; ninguém visível nem passos claros, segurança não confirmada.
+
+[SESSION_0000_CONTINUACAO_20261014_CL.md](transcripts/SESSION_0000_CONTINUACAO_20261014_CL.md) — 0188–0189: Eron começa a amarrar funcionário rendido, sem arma aparente; pretende sacar arco e atirar na coxa do outro funcionário; ações ainda não concluídas.
