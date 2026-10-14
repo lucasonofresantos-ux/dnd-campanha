@@ -445,3 +445,9 @@ Arquivos produzidos nesta conferência: `transcripts/AUDITORIA_CONTINUIDADE_2026
 [SESSION_0000_CONTINUACAO_20261014_GE.md](transcripts/SESSION_0000_CONTINUACAO_20261014_GE.md) — 0382–0383: Eron paga 10 PP e 5 PC por ensopados, cervejas e quarto com jantar; recebe chave do quarto 6. Sem descanso iniciado.
 
 [SESSION_0000_CONTINUACAO_20261014_GF.md](transcripts/SESSION_0000_CONTINUACAO_20261014_GF.md) — 0384–0385: Eron aconselha Varen a se proteger, Varen aceita acompanhá-lo à sede da patrulha amanhã, Bromir considera após conferir a carroça; conta da estalagem já quitada e nenhum descanso iniciado.
+
+[SESSION_0000_CONTINUACAO_20261014_GB.md](transcripts/SESSION_0000_CONTINUACAO_20261014_GB.md) — 0376–0377: Eron brinca sobre fracassos de Varen no beco; arquivo ainda contém só cabeçalho no GitHub, transcrição integral preservada em cópia de contingência.
+
+[SESSION_0000_CONTINUACAO_20261014_GC.md](transcripts/SESSION_0000_CONTINUACAO_20261014_GC.md) — 0378–0379: Eron relata ter sofrido prejuízo maior e pergunta onde Varen estava durante combate ao autômato; transcrição integral recuperada e verificada.
+
+[SESSION_0000_CONTINUACAO_20261014_GD.md](transcripts/SESSION_0000_CONTINUACAO_20261014_GD.md) — 0380–0381: Eron menciona 12 PO e provoca Bromir com louça quebrada; arquivo ainda contém só cabeçalho no GitHub, transcrição integral preservada em cópia de contingência.
