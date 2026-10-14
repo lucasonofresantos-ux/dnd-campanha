@@ -23,3 +23,12 @@ Atrás dele, a luz da lanterna percorre brevemente a saída do beco, mas não en
 **Eron está novamente oculto, sem ter sido seguido.** De seu esconderijo, ainda consegue observar parte da entrada do pátio, mas a carroça e Varen estão fora de seu campo de visão direto.
 
 Varen permanece, conforme a última informação, escondido atrás da carroça, aguardando uma oportunidade para sair.
+
+
+**[LOG DE MEMÓRIA DA CAMPANHA]**
+
+- Localização Atual: Passagem escura após a esquina do muro, perto do Armazém dos Oleiros, Caldria.
+- NPCs Presentes e Relação: Vigia com lanterna retornando ao armazém; Varen, aliado, última posição atrás da carroça, fora da visão direta de Eron.
+- Linha de Missão Ativa: Deixar o armazém e reencontrar Varen.
+- Eventos Cruciais Ocorridos: Destreza (Furtividade) d20 [20]+6=26, resultado informado pelo jogador, Eron ocultou-se ao dobrar a esquina; vigia não o seguiu.
+- Condições do Jogador: Eron, Ladino nível 1 de 2024, 8/11 PV, CA 13, 19 flechas, capuz, 12 PO da operação. Sem dano ou gasto.
