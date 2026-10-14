@@ -350,7 +350,7 @@ Arquivos produzidos nesta conferência: `transcripts/AUDITORIA_CONTINUIDADE_2026
 
 [SESSION_0000_CONTINUACAO_20261014_EG.md](transcripts/SESSION_0000_CONTINUACAO_20261014_EG.md) — 0282–0283: mensageiro preso à coluna; diz que fechou mas não trancou porta dos fundos.
 
-[SESSION_0000_CONTINUACAO_20261014_EH.md](transcripts/SESSION_0000_CONTINUACAO_20261014_EH.md) — 0284–0285: Prisioneiros presos e testes solicitados.
+⚠ **Arquivo EH pendente — mensagens 0284–0285**: inexistente no GitHub na auditoria de 14/10/2026; texto integral original não disponível. Ver auditoria de lacunas.
 
 [SESSION_0000_CONTINUACAO_20261014_EI.md](transcripts/SESSION_0000_CONTINUACAO_20261014_EI.md) — 0286–0287: Furtividade 26, Percepção 24; porta dos fundos inspecionada.
 
@@ -368,7 +368,7 @@ Arquivos produzidos nesta conferência: `transcripts/AUDITORIA_CONTINUIDADE_2026
 
 [SESSION_0000_CONTINUACAO_20261014_EQ.md](transcripts/SESSION_0000_CONTINUACAO_20261014_EQ.md) — 0302–0303.
 
-[SESSION_0000_CONTINUACAO_20261014_ER.md](transcripts/SESSION_0000_CONTINUACAO_20261014_ER.md) — 0304–0305.
+⚠ **Arquivo ER pendente — mensagens 0304–0305**: inexistente no GitHub na auditoria de 14/10/2026; texto integral original não disponível. Ver auditoria de lacunas.
 
 [SESSION_0000_CONTINUACAO_20261014_ES.md](transcripts/SESSION_0000_CONTINUACAO_20261014_ES.md) — 0306–0307.
 
@@ -396,7 +396,7 @@ Arquivos produzidos nesta conferência: `transcripts/AUDITORIA_CONTINUIDADE_2026
 
 [SESSION_0000_CONTINUACAO_20261014_FI.md](transcripts/SESSION_0000_CONTINUACAO_20261014_FI.md) — 0338–0339: disparo preparado contra compartimento; ataque pendente.
 
-[SESSION_0000_CONTINUACAO_20261014_FJ.md](transcripts/SESSION_0000_CONTINUACAO_20261014_FJ.md) — 0340–0341: crítico e mecanismo neutralizado.
+⚠ **Arquivo FJ pendente — mensagens 0340–0341**: inexistente no GitHub na auditoria de 14/10/2026; texto integral original não disponível. Ver auditoria de lacunas.
 
 [SESSION_0000_CONTINUACAO_20261014_FK.md](transcripts/SESSION_0000_CONTINUACAO_20261014_FK.md) — 0342–0343: mulher de cinzento reconhece relato de mecanismos antigos.
 
@@ -409,3 +409,15 @@ Arquivos produzidos nesta conferência: `transcripts/AUDITORIA_CONTINUIDADE_2026
 [SESSION_0000_CONTINUACAO_20261014_FP.md](transcripts/SESSION_0000_CONTINUACAO_20261014_FP.md) — 0352–0353: bonificação.
 
 [SESSION_0000_CONTINUACAO_20261014_FQ.md](transcripts/SESSION_0000_CONTINUACAO_20261014_FQ.md) — 0354–0355: correção de posto de Haldren.
+
+## Auditoria de integridade e continuidade — 2026-10-14
+
+[Auditoria das lacunas e correção do posto de Haldren](transcripts/AUDITORIA_LACUNAS_E_POSTO_HALDREN_20261014.md) — verifica arquivos realmente presentes, transcrições ainda ausentes e contrato de 25+25 PO.
+
+[Estado atual isolado da Sessão 0000](SESSION_0000_ESTADO_ATUAL_20261014.yaml) — estado jogável após enfrentamento do vigia, sem mesclar com a Sessão 0001 alternativa.
+
+[SESSION_0000_CONTINUACAO_20261014_CT.md](transcripts/SESSION_0000_CONTINUACAO_20261014_CT.md) — 0204–0205: Percepção e promessa à prisioneira; arquivo existente que não estava indexado.
+
+[SESSION_0000_CONTINUACAO_20261014_FN.md](transcripts/SESSION_0000_CONTINUACAO_20261014_FN.md) — 0348–0349: hipóteses de fabricação ou reativação de mecanismos; arquivo recuperado.
+
+**Pendências sem texto literal recuperado:** EH (0284–0285), EK (0290–0291), ER (0304–0305), ET (0308–0309), EW (0314–0315), EX (0316–0317), FA (0322–0323) e FJ (0340–0341). Não criar transcrições simuladas. FL e FN foram recuperadas e verificadas. Há ainda lacunas mais antigas documentadas na auditoria de 2026-10-13.
