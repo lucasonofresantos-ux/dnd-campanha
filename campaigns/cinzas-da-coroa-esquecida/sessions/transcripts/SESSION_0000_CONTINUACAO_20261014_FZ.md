@@ -37,3 +37,5 @@ Varen pega um pedaço de pão, mas interrompe o movimento quando Bromir continua
 - **Linha de Missão Ativa:** Operação com Haldren encerrada; 50 PO ainda devidas e bonificação extra pendente. Eron procura jantar e descansar.
 - **Eventos Cruciais Ocorridos:** Eron pediu dois ensopados, três cervejas e um quarto individual com jantar. A proprietária apresentou conta de 10 PP e 5 PC; comida e bebidas foram servidas e a chave do quarto 6 separada. **Pagamento ainda não realizado.**
 - **Condições do Jogador:** 6/11 PV, CA 13, 12 flechas; braço enfaixado e suturado, sem recuperação de PV. Descanso longo ainda não iniciado.
+
+GitHub: transcrição FZ, índice, estado da sessão, cronologia, ficha operacional e inventário financeiro gravados e verificados. Lacunas históricas anteriores permanecem documentadas.
