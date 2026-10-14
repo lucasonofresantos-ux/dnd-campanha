@@ -17,3 +17,12 @@
 ## Arquivo de continuidade permanente — 2026-10-13
 - Pedido expresso novamente pelo jogador: registrar permanentemente que **a Sessão 1 já foi iniciada em “born”** e que **a Sessão 0 foi solicitada posteriormente para formar a ligação com aquela cena**. Documento principal: `CONTINUIDADE_SESSOES_0000_0001.md`. Não repetir a pergunta ao jogador sobre motivo da Sessão 0 nem apagar qualquer execução.
 - Continuação AN: Eron já entrou no Armazém dos Oleiros, fechou a porta dos fundos sem trancar, conservou a réplica; tenta Percepção para localizar pessoas dentro. Aguardar 1d20+6 do jogador.
+
+## Adendo da Sessão 0000 — Armazém dos Oleiros (2026-10-14)
+
+- Ramo específico de Bromir/Caldria; não altera a cronologia separada da Sessão 0001 em Lorn.
+- Eron e Varen investigaram o Armazém dos Oleiros; oito suspeitos foram rendidos, desarmados e entregues à custódia formal de **Halven**, sargento da Guarda de Caldria.
+- Eron descobriu passagem oculta e enfrentou um mecanismo hostil de seis membros, identificado provisoriamente como **vigia de passagem**, abatido por disparos de arco. Eron terminou com **6/11 PV, CA 13 e 12 flechas**; Marek foi resgatado ferido e Oren iniciou atendimento.
+- Sob pressão, prisioneira descreveu antigo sistema de túneis, supervisor com **anel de três riscos** e desvio não autorizado da rota do pacote. Outros indícios incluem pacote lacrado sensível a fogo, volume de cobre e peça de engrenagem, segundo observação de Eron; ligação com a máquina ainda **hipótese não comprovada**.
+- Halven mandou chamar Haldren. **Haldren é sargento da patrulha**, conforme `sessions/transcripts/SESSION_0000_CONTINUACAO_20261012_D.md`. O contrato previamente firmado com Eron foi **25 PO por cinco capturados + 25 PO pela operação noturna**, não quitado de forma confirmada. Halven disse que **recomendaria bonificação extra**, sem quantia pactuada.
+- Lacunas documentais e retificação de cargo no arquivo `sessions/transcripts/AUDITORIA_LACUNAS_E_POSTO_HALDREN_20261014.md`; sem reconstruir diálogos perdidos nem atribuir pagamentos não demonstrados.
