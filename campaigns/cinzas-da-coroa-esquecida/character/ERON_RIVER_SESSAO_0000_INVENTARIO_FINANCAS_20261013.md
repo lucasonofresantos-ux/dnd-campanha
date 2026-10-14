@@ -52,3 +52,6 @@ Depois do registro histórico em que Eron contara as 12 PO recebidas pela répli
 - **Pedido de Eron:** 2 ensopados, 3 cervejas e 1 quarto individual com jantar. A proprietária cotou **7 PP** pelo quarto com um dos ensopados como jantar incluso, **2 PP** pelo segundo ensopado, **15 PC** pelas três cervejas. **Total cobrado: 10 PP e 5 PC.**
 - A comida e as bebidas foram servidas, mas **nenhuma moeda foi entregue pelo jogador no episódio 0372–0373**. Tratar 10 PP e 5 PC como conta em aberto, não dinheiro descontado. O quarto foi identificado como **n.º 6**; chave separada no balcão.
 - Não duplicar cobrança do jantar incluso e não presumir pagamento, consumo, descanso longo ou recuperação de PV.
+
+## Quitação GE — Carvalho Cinzento
+Eron pagou integralmente a conta de **10 PP e 5 PC** (equivalente a **1 PO e 5 PC**) pelos dois ensopados, três cervejas e quarto com jantar. Entregou moedas à proprietária e recebeu a chave do quarto 6. **Debitar este custo do dinheiro de Eron**; discriminação de denominações e troco não comprovada. O saldo total segue sujeito à reconciliação. A dívida de 50 PO de Haldren e os 5 PP de Oren seguem separados. **Descanso ainda não iniciado; 6/11 PV.**
