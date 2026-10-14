@@ -141,3 +141,7 @@ Arquivos produzidos nesta conferência: `transcripts/AUDITORIA_CONTINUIDADE_2026
 [SESSION_0000_CONTINUACAO_20261013_AA.md](transcripts/SESSION_0000_CONTINUACAO_20261013_AA.md) — mensagens 0061–0062; Eron vai avançar sozinho em Furtividade 1d20+7; Varen fica oculto com a réplica; rolagem pendente.
 
 [SESSION_0000_CONTINUACAO_20261013_AB.md](transcripts/SESSION_0000_CONTINUACAO_20261013_AB.md) — mensagens 0063–0064; jogador solicita dado d20 interativo com sorteio local e botão Enviar ao Mestre. A cena e rolagem permanecem pendentes até o envio.
+
+[SESSION_0000_CONTINUACAO_20261013_AC.md](transcripts/SESSION_0000_CONTINUACAO_20261013_AC.md) — mensagens 0065–0066; Furtividade [18]+7=25 gerada localmente pelo jogador, aproximação furtiva até o batente exterior da porta dos fundos. Varen manteve a réplica na carroça. Resultado anotado no suplemento de dados, ordem 29.
+
+[SESSION_0000_CONTINUACAO_20261013_AD.md](transcripts/SESSION_0000_CONTINUACAO_20261013_AD.md) — mensagens 0067–0068; esclarecido que a réplica segue com Varen. Solicitado dado local interativo de Percepção 1d20+6, ainda pendente, sem alterar a posição de Eron.
