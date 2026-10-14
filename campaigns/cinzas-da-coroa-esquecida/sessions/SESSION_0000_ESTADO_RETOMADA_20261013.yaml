@@ -36,7 +36,7 @@ transcription:
   completeness: "TXT 01.02 recuperado integralmente como enviado; história anterior e UI do chat ainda podem ter lacunas"
   audit: sessions/transcripts/AUDITORIA_CONTINUIDADE_20261013.md
   current_historical_end: sessions/transcripts/SESSION_0000_FONTE_LITERAL_0102_20261013.txt
-last_verified_transcript: sessions/transcripts/SESSION_0000_CONTINUACAO_20261013_AB.md
+last_verified_transcript: sessions/transcripts/SESSION_0000_CONTINUACAO_20261013_AD.md
 
 operational_dice_protocol: sessions/PROTOCOLO_DADOS_20261013.md
 no_new_rolls_or_scene_advancement_on_protocol_update: true
@@ -127,9 +127,11 @@ current_pending_action_20261013:
   skill: "Destreza (Furtividade)"
   expression: "1d20+7"
   modifier_source: "Teste Furtividade anterior da mesma continuidade, transcrição S."
-  die_result: null
-  awaiting_player_roll: true
-  movement_resolved: false
+  die_result: 18
+  total: 25
+  roll_origin: "Interativo local do jogador; nao Python"
+  awaiting_player_roll: false
+  movement_resolved: true
   hp_current: 8
   hp_max: 11
   ac: 13
@@ -142,3 +144,11 @@ last_interface_request_20261013:
   rng: "PRNG do controle; não é Python secrets.randbelow"
   rolled: false
   send_result_pending: true
+
+current_action:
+  location: "Porta dos fundos exterior do Armazem dos Oleiros"
+  eron_has_replica: false
+  varen_has_replica: true
+  furtividade: "1d20 [18] +7 =25; dado local enviado pelo jogador"
+  perception_pending: "1d20+6; dado ainda nao rolado"
+  last_transcript: "sessions/transcripts/SESSION_0000_CONTINUACAO_20261013_AD.md"
