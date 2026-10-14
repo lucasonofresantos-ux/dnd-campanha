@@ -325,3 +325,7 @@ Arquivos produzidos nesta conferência: `transcripts/AUDITORIA_CONTINUIDADE_2026
 [SESSION_0000_CONTINUACAO_20261014_DT.md](transcripts/SESSION_0000_CONTINUACAO_20261014_DT.md) — 0256–0257: Varen planeja imobilizar tornozelo e procurar atendimento, menciona reação da mulher e marcas de barro.
 
 [SESSION_0000_CONTINUACAO_20261014_DU.md](transcripts/SESSION_0000_CONTINUACAO_20261014_DU.md) — 0258–0259: Varen controla provisoriamente sangramento no tornozelo; mulher presa à cadeira; discutem chamar sargento e médico.
+
+[SESSION_0000_CONTINUACAO_20261014_DV.md](transcripts/SESSION_0000_CONTINUACAO_20261014_DV.md) — 0260–0261: Varen verifica entradas e aguarda corda.
+
+[SESSION_0000_CONTINUACAO_20261014_DW.md](transcripts/SESSION_0000_CONTINUACAO_20261014_DW.md) — 0262–0263: Varen desce e parte para buscar sargento e médico; mulher alerta sobre risco aos registros.
