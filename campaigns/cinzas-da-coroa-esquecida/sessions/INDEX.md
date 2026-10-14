@@ -433,3 +433,5 @@ Arquivos produzidos nesta conferência: `transcripts/AUDITORIA_CONTINUIDADE_2026
 [SESSION_0000_CONTINUACAO_20261014_FV.md](transcripts/SESSION_0000_CONTINUACAO_20261014_FV.md) — 0364–0365: espera pelo sargento Haldren e sua chegada ao armazém; bonificação discutida sem valor.
 
 [SESSION_0000_CONTINUACAO_20261014_FW.md](transcripts/SESSION_0000_CONTINUACAO_20261014_FW.md) — 0366–0367: lembrança da Estalagem do Carvalho Cinzento, onde Eron deixou Bromir e sua carroça; quarto não confirmado.
+
+[SESSION_0000_CONTINUACAO_20261014_FX.md](transcripts/SESSION_0000_CONTINUACAO_20261014_FX.md) — 0368–0369: Eron e Varen seguem ao Carvalho Cinzento após reconhecimento de serviço concluído.
