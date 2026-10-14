@@ -170,3 +170,21 @@ Arquivos produzidos nesta conferência: `transcripts/AUDITORIA_CONTINUIDADE_2026
 [SESSION_0000_CONTINUACAO_20261013_AM.md](transcripts/SESSION_0000_CONTINUACAO_20261013_AM.md) — mensagens 0085–0086: jogador esclarece que a Sessão 0 foi pedida como ligação anterior à Sessão 1 iniciada em “born” (Lorn nos arquivos); reitera D&D 2024 e solicita ficha completa em PDF e revisão de 9 PP alegadamente gastos. Auditoria documental confirmou pagamento de 4 PP por metade do quarto com Bromir, 3 PP pelo desjejum, total 7 PP; saldo narrado depois de ambos 57 PO e 3 PP. Foi gerado PDF de 5 páginas no chat e gravada ficha revisada em `../character/ERON_RIVER_2024_SESSAO_0000_FICHA_REVISADA_20261013.md`, com auditoria de moedas em `../character/ERON_RIVER_SESSAO_0000_INVENTARIO_FINANCAS_20261013.md`. Nenhuma alteração retroativa em recursos ou jogadas.
 
 [SESSION_0000_CONTINUACAO_20261013_AN.md](transcripts/SESSION_0000_CONTINUACAO_20261013_AN.md) — mensagens 0087–0088: o jogador reitera a ordem Sessão 1 já iniciada / Sessão 0 como ponte; registrado arquivo de continuidade no nível da campanha. Eron fecha porta dos fundos sem trancar, mantém réplica e inicia avaliação visual e auditiva da área para descobrir quantos ocupantes existem. Percepção 1d20+6 aguarda dado do jogador, nenhuma nova rolagem ou resultado presumido.
+
+[SESSION_0000_CONTINUACAO_20261013_AO_RECUPERACAO.md](transcripts/SESSION_0000_CONTINUACAO_20261013_AO_RECUPERACAO.md) — recuperação textual do Mestre mensagem 0090, Percepção 18 real em Python após a fala de Eron.
+
+[SESSION_0000_CONTINUACAO_20261013_AP.md](transcripts/SESSION_0000_CONTINUACAO_20261013_AP.md) — 0091–0092: Eron entrega réplica ao receptor enluvado; ele anuncia a entrega.
+
+[SESSION_0000_CONTINUACAO_20261013_AQ.md](transcripts/SESSION_0000_CONTINUACAO_20261013_AQ.md) — 0093–0094: Eron mantém silêncio; segundo homem de avental surge, voz do piso superior manda subir a peça.
+
+[SESSION_0000_CONTINUACAO_20261013_AR.md](transcripts/SESSION_0000_CONTINUACAO_20261013_AR.md) — 0095–0096: Eron espera; enluvado deixa réplica no piso superior e apresenta bolsa de pagamento.
+
+[SESSION_0000_CONTINUACAO_20261013_AS.md](transcripts/SESSION_0000_CONTINUACAO_20261013_AS.md) — 0097–0098: Eron pega bolsa ainda não contada e sai do armazém.
+
+[SESSION_0000_CONTINUACAO_20261013_AT.md](transcripts/SESSION_0000_CONTINUACAO_20261013_AT.md) — 0099–0100: Eron vai às caixas, chama Varen com sinal, conta 12 PO e inicia tentativa de esconder-se.
+
+[SESSION_0000_CONTINUACAO_20261013_AU.md](transcripts/SESSION_0000_CONTINUACAO_20261013_AU.md) — 0101–0102: jogador pede rolagem, Furtividade d20 [2]+6=8, vigia nota figura encapuzada mas não identifica rosto.
+
+[SESSION_0000_CONTINUACAO_20261013_AV.md](transcripts/SESSION_0000_CONTINUACAO_20261013_AV.md) — 0103–0104: sinal a Varen para ocultar-se, Percepção d20 [16]+6=22; Eron percebe rato na canaleta e vigia se aproxima.
+
+[SESSION_0000_CONTINUACAO_20261013_AW.md](transcripts/SESSION_0000_CONTINUACAO_20261013_AW.md) — 0105–0106: Eron enxota rato na direção do vigia; roedor corre perto de suas botas e o distrai momentaneamente; vigia ainda desconfiado.
