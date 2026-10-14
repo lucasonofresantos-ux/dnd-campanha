@@ -319,3 +319,5 @@ Arquivos produzidos nesta conferência: `transcripts/AUDITORIA_CONTINUIDADE_2026
 [SESSION_0000_CONTINUACAO_20261014_DQ.md](transcripts/SESSION_0000_CONTINUACAO_20261014_DQ.md) — 0250–0251: Medicina d20=3; compressa, atendimento inconclusivo.
 
 [SESSION_0000_CONTINUACAO_20261014_DR.md](transcripts/SESSION_0000_CONTINUACAO_20261014_DR.md) — 0252–0253: Eron propõe torniquete; Varen ajuda a controlar sangramento com pressão e recomenda observar.
+
+[SESSION_0000_CONTINUACAO_20261014_DS.md](transcripts/SESSION_0000_CONTINUACAO_20261014_DS.md) — 0254–0255: Varen assume curativo do homem ferido na coxa e prepara exame do tornozelo do homem das luvas.
