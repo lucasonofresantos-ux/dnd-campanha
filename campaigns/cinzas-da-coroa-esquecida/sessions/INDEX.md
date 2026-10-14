@@ -329,3 +329,7 @@ Arquivos produzidos nesta conferência: `transcripts/AUDITORIA_CONTINUIDADE_2026
 [SESSION_0000_CONTINUACAO_20261014_DV.md](transcripts/SESSION_0000_CONTINUACAO_20261014_DV.md) — 0260–0261: Varen verifica entradas e aguarda corda.
 
 [SESSION_0000_CONTINUACAO_20261014_DW.md](transcripts/SESSION_0000_CONTINUACAO_20261014_DW.md) — 0262–0263: Varen desce e parte para buscar sargento e médico; mulher alerta sobre risco aos registros.
+
+[SESSION_0000_CONTINUACAO_20261014_DX.md](transcripts/SESSION_0000_CONTINUACAO_20261014_DX.md) — 0264–0265: documentos reunidos, corda preparada, ruído no térreo.
+
+[SESSION_0000_CONTINUACAO_20261014_DY.md](transcripts/SESSION_0000_CONTINUACAO_20261014_DY.md) — 0266–0267: Eron guarda livro e se esconde; Furtividade 17+6=23, novos ruídos no térreo.
