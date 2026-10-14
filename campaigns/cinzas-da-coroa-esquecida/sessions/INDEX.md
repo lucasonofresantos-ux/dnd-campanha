@@ -393,3 +393,5 @@ Arquivos produzidos nesta conferência: `transcripts/AUDITORIA_CONTINUIDADE_2026
 [SESSION_0000_CONTINUACAO_20261014_FG.md](transcripts/SESSION_0000_CONTINUACAO_20261014_FG.md) — 0334–0335: disparo e descarga.
 
 [SESSION_0000_CONTINUACAO_20261014_FH.md](transcripts/SESSION_0000_CONTINUACAO_20261014_FH.md) — 0336–0337: resistência e dano elétrico.
+
+[SESSION_0000_CONTINUACAO_20261014_FI.md](transcripts/SESSION_0000_CONTINUACAO_20261014_FI.md) — 0338–0339: disparo preparado contra compartimento; ataque pendente.
