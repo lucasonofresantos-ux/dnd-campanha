@@ -399,3 +399,7 @@ Arquivos produzidos nesta conferência: `transcripts/AUDITORIA_CONTINUIDADE_2026
 [SESSION_0000_CONTINUACAO_20261014_FJ.md](transcripts/SESSION_0000_CONTINUACAO_20261014_FJ.md) — 0340–0341: crítico e mecanismo neutralizado.
 
 [SESSION_0000_CONTINUACAO_20261014_FK.md](transcripts/SESSION_0000_CONTINUACAO_20261014_FK.md) — 0342–0343: mulher de cinzento reconhece relato de mecanismos antigos.
+
+[SESSION_0000_CONTINUACAO_20261014_FL.md](transcripts/SESSION_0000_CONTINUACAO_20261014_FL.md) — 0344–0345: interrogatório da mulher de cinzento.
+
+[SESSION_0000_CONTINUACAO_20261014_FM.md](transcripts/SESSION_0000_CONTINUACAO_20261014_FM.md) — 0346–0347: pedido para localizar Haldren e reforços.
