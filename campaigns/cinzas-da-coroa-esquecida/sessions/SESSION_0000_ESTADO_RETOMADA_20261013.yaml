@@ -333,3 +333,8 @@ character_review_20261013:
   eron_location: "Corredor interno do Armazem dos Oleiros; porta de fundos ainda aberta"
   eron_has_replica: true
   unknown_interlocutor_waiting: true
+
+  pdf_persistent_library_path: "/Mestre RPG/Eron_River_Ficha_Revisada_2024_Sessao_0.pdf"
+  pdf_persistent_library_id: "libfile_e136b9b3d8888191a5a100d15278f35e"
+  pdf_uploaded_to_library: true
+  pdf_binary_committed_to_github: false
