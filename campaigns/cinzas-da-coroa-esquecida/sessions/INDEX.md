@@ -302,3 +302,5 @@ Arquivos produzidos nesta conferência: `transcripts/AUDITORIA_CONTINUIDADE_2026
 
 [SESSION_0000_CONTINUACAO_20261014_DH.md](transcripts/SESSION_0000_CONTINUACAO_20261014_DH.md) — 0232–0233: Odrik chama Bram para ajudar após suposta confusão com rato; Bram anuncia que sobe.
 [SESSION_0000_CONTINUACAO_20261014_DI.md](transcripts/SESSION_0000_CONTINUACAO_20261014_DI.md) — 0234–0235: Eron prioriza prender todos antes de primeiros socorros e prepara arco; Bram aproxima-se da curva.
+
+[SESSION_0000_CONTINUACAO_20261014_DJ.md](transcripts/SESSION_0000_CONTINUACAO_20261014_DJ.md) — 0236–0237: Eron ameaça Bram e prepara disparo caso não se renda; Bram interrompe gesto de sacar arma, sem desarmar-se.
