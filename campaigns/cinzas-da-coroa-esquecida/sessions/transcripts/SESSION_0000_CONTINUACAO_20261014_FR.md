@@ -32,6 +32,8 @@ Oren, ocupado com Marek, intervém sem levantar os olhos:
 
 Recuperei as transcrições FL e FN, corrigi as referências do índice, atualizei a cronologia e o estado de Eron e complementei as rolagens 48–70 com a origem dos resultados. **Oito pares de mensagens ainda não têm texto literal recuperável:** EH, EK, ER, ET, EW, EX, FA e FJ. Não substituí essas falas por reconstruções. Veja a [auditoria das lacunas no GitHub](https://github.com/lucasonofresantos-ux/dnd-campanha/blob/main/campaigns/cinzas-da-coroa-esquecida/sessions/transcripts/AUDITORIA_LACUNAS_E_POSTO_HALDREN_20261014.md).
 
+A transcrição desta interação (**FR**) e sua indexação também foram gravadas e verificadas no GitHub.
+
 **[LOG DE MEMÓRIA DA CAMPANHA]**
 
 - **Localização Atual:** Térreo do Armazém dos Oleiros, junto à passagem oculta.
