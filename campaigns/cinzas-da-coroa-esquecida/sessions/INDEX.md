@@ -349,3 +349,7 @@ Arquivos produzidos nesta conferência: `transcripts/AUDITORIA_CONTINUIDADE_2026
 [SESSION_0000_CONTINUACAO_20261014_EF.md](transcripts/SESSION_0000_CONTINUACAO_20261014_EF.md) — 0280–0281: Eron lê instruções de entrega sem assinatura; mensageiro alerta para não abrir, derrubar ou aproximar embrulho de fogo.
 
 [SESSION_0000_CONTINUACAO_20261014_EG.md](transcripts/SESSION_0000_CONTINUACAO_20261014_EG.md) — 0282–0283: mensageiro preso à coluna; diz que fechou mas não trancou porta dos fundos.
+
+[SESSION_0000_CONTINUACAO_20261014_EH.md](transcripts/SESSION_0000_CONTINUACAO_20261014_EH.md) — 0284–0285: Prisioneiros presos e testes solicitados.
+
+[SESSION_0000_CONTINUACAO_20261014_EI.md](transcripts/SESSION_0000_CONTINUACAO_20261014_EI.md) — 0286–0287: Furtividade 26, Percepção 24; porta dos fundos inspecionada.
