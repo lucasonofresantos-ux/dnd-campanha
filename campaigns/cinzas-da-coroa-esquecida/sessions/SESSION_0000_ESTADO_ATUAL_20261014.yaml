@@ -149,3 +149,34 @@ latest_scene_fx:
   rest_completed: false
   hp_recovered: 0
   next_action: "Eron e Varen junto à entrada da estalagem"
+
+latest_scene_fy:
+  transcript: "sessions/transcripts/SESSION_0000_CONTINUACAO_20261014_FY.md"
+  position: "Salão da Estalagem do Carvalho Cinzento, Caldria"
+  time: "Noite chuvosa"
+  present:
+    Eron: "Entrou na estalagem; ainda não confirmou quarto, comida ou pagamento"
+    Varen: "Acompanhou Eron e conversou com Bromir"
+    Bromir: "Encontrado acordado à mesa perto da lareira, com tigela quase vazia de ensopado; contratou sua própria hospedagem, quarto ainda não identificado"
+    proprietaria: "No balcão, oferece refeições e quartos"
+  inn_prices:
+    individual_room_sp: 5
+    individual_room_with_dinner_sp: 7
+    paid_by_eron: false
+    food_ordered_by_eron: false
+    room_ordered_by_eron: false
+  long_rest:
+    started: false
+    completed: false
+    hit_points_recovered: 0
+  hp_current: 6
+  hp_max: 11
+  armor_class: 13
+  arrows: 12
+  arm_wound: "Suturada por Orsik, um ponto refeito por Oren, faixa nova; sem recuperação de PV"
+  contracted_payment_due_gp: 50
+  extraordinary_bonus: "Sem valor nem pagamento"
+  false_delivery_coins: "12 PO entregues à guarda com recibo, fora da posse de Eron"
+  oren_fee_sp: 5
+  oren_fee_paid: false
+  next_turn: "Aguardar reação do jogador, Bromir pergunta sobre o braço e Varen"
