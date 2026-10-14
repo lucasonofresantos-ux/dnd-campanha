@@ -36,7 +36,7 @@ transcription:
   completeness: "TXT 01.02 recuperado integralmente como enviado; história anterior e UI do chat ainda podem ter lacunas"
   audit: sessions/transcripts/AUDITORIA_CONTINUIDADE_20261013.md
   current_historical_end: sessions/transcripts/SESSION_0000_FONTE_LITERAL_0102_20261013.txt
-last_verified_transcript: sessions/transcripts/SESSION_0000_CONTINUACAO_20261013_AD.md
+last_verified_transcript: sessions/transcripts/SESSION_0000_CONTINUACAO_20261013_AE.md
 
 operational_dice_protocol: sessions/PROTOCOLO_DADOS_20261013.md
 no_new_rolls_or_scene_advancement_on_protocol_update: true
@@ -150,5 +150,15 @@ current_action:
   eron_has_replica: false
   varen_has_replica: true
   furtividade: "1d20 [18] +7 =25; dado local enviado pelo jogador"
-  perception_pending: "1d20+6; dado ainda nao rolado"
+  perception_pending: null
+  perception_last: "1d20 [18] +6 =24, controle interativo local; sons de passos/ferragens atras da porta e ruído superior"
   last_transcript: "sessions/transcripts/SESSION_0000_CONTINUACAO_20261013_AD.md"
+
+latest_scene_ae:
+  transcript: sessions/transcripts/SESSION_0000_CONTINUACAO_20261013_AE.md
+  perception: "1d20 [18] +6 =24; dado local enviado pelo jogador"
+  eron_location: "Batente externo dos fundos do armazem"
+  eron_has_replica: false
+  varen_has_replica: true
+  known_by_eron: "Uma presenca perto do outro lado da porta; rumor de atividade no andar superior; porta fechada sem teste da tranca; lanternista afastado"
+  latest_dice_log_order: 30
