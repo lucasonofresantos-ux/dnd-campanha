@@ -26,3 +26,4 @@ cinzas-da-coroa-esquecida,0000_recuperacao,17,medicina_torniquete,jogador,2d20kh
 cinzas-da-coroa-esquecida,0000_recuperacao,18,intimidacao_lider_ferido,jogador,2d20kh1,12,19,1,20,true,"lider revelou contratante superior a Marek e sabotador de ombros largos"
 cinzas-da-coroa-esquecida,0000,43,ataque_arco_critico_homem_das_luvas,jogador,"3 20",3,20,4,24,true,"2d20kh1; crítico natural 20; informado pelo jogador; registro retrospectivo desta conversa"
 cinzas-da-coroa-esquecida,0000,44,dano_critico_arco_ataque_furtivo,mestre_python,"3 2 1 5",,11,2,13,true,"4d6+2; Python secrets.randbelow; flecha no tornozelo; imobilização não confirmada"
+cinzas-da-coroa-esquecida,0000,45,iniciativa_eron_emboscada,mestre_python,"4",,4,4,8,true,"1d20; Python secrets.randbelow(20)+1; iniciativa confirmada"
