@@ -232,3 +232,5 @@ Arquivos produzidos nesta conferência: `transcripts/AUDITORIA_CONTINUIDADE_2026
 [SESSION_0000_CONTINUACAO_20261014_BQ.md](transcripts/SESSION_0000_CONTINUACAO_20261014_BQ.md) — 0145–0146: Homem se aproxima do depósito; Eron e Varen escondem-se conforme plano; réplica reconhecida.
 
 [SESSION_0000_CONTINUACAO_20261014_BS.md](transcripts/SESSION_0000_CONTINUACAO_20261014_BS.md) — mensagens 0149–0150: Eron volta à lateral do batente oculto e informa d20 19 para Percepção +6=25. Enxerga corredor à direita, tinta mais escura e pequena marca no livro de remessas; mulher diz registro acrescentado depois e manda chamar homem das luvas. Sem novo teste de Furtividade nem descoberta.
+
+[SESSION_0000_CONTINUACAO_20261014_BT.md](transcripts/SESSION_0000_CONTINUACAO_20261014_BT.md) — 0151–0152: Eron escuta oculto o homem enluvado confirmar recebimento da réplica e pagamento de 12 PO; diz ter seguido folha sem assinatura com marca igual à do livro, supostamente entre papéis no piso inferior. Mulher manda buscá-la; homem que trouxe o enluvado retorna pelo corredor. Sem nova rolagem ou detecção.
