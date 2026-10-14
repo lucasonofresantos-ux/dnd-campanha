@@ -313,3 +313,9 @@ Arquivos produzidos nesta conferência: `transcripts/AUDITORIA_CONTINUIDADE_2026
 [SESSION_0000_CONTINUACAO_20261014_DN.md](transcripts/SESSION_0000_CONTINUACAO_20261014_DN.md) — 0244–0245: Percepção 1d20 [16]+6=22; amarras firmes; encontrados chave escondida e lâmina fina.
 
 [SESSION_0000_CONTINUACAO_20261014_DO.md](transcripts/SESSION_0000_CONTINUACAO_20261014_DO.md) — 0246–0247: Eron conclui revista e fecha acesso; Varen confirma porta de carga trancada, não encontra pessoas e observa marcas de barro no térreo.
+
+[SESSION_0000_CONTINUACAO_20261014_DP.md](transcripts/SESSION_0000_CONTINUACAO_20261014_DP.md) — 0248–0249: Início dos primeiros socorros; teste de Medicina solicitado.
+
+[SESSION_0000_CONTINUACAO_20261014_DQ.md](transcripts/SESSION_0000_CONTINUACAO_20261014_DQ.md) — 0250–0251: Medicina d20=3; compressa, atendimento inconclusivo.
+
+[SESSION_0000_CONTINUACAO_20261014_DR.md](transcripts/SESSION_0000_CONTINUACAO_20261014_DR.md) — 0252–0253: Eron propõe torniquete; Varen ajuda a controlar sangramento com pressão e recomenda observar.
