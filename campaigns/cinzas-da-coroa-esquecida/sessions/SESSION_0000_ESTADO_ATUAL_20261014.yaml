@@ -272,3 +272,27 @@ latest_scene_gf:
   eron_arrows: 12
   long_rest_started: false
   pending_player_action: true
+
+latest_scene_gi_long_rest_verified_20261014:
+  transcript: "sessions/transcripts/SESSION_0000_CONTINUACAO_20261014_GI.md"
+  source_backup: "Biblioteca: SESSION_0000_CONTINUACAO_20261014_GI_BACKUP.md"
+  location: "Quarto 6 da Estalagem do Carvalho Cinzento, Caldria"
+  narrative_time: "Manhã seguinte aos acontecimentos no Armazém dos Oleiros"
+  long_rest_completed: true
+  interrupted: false
+  hit_points_current: 11
+  hit_points_max: 11
+  armor_class: 13
+  arrows_remaining: 12
+  hit_die_available: "1d8"
+  heroic_inspiration: true
+  arm_bandaged: true
+  arm_mechanical_penalty: false
+  room_paid: true
+  room_key_with_eron: true
+  bromir_location_in_morning: "Desconhecida"
+  varen_location_in_morning: "Desconhecida"
+  haldren_contract_gp_unpaid: 50
+  extraordinary_bonus: "Pendente sem quantia definida"
+  new_contract_accepted: false
+  pending_player_action: true
