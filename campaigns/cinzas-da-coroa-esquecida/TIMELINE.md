@@ -55,3 +55,8 @@
 - Eron e Varen entraram na Estalagem do Carvalho Cinzento à noite, reencontraram Bromir acordado junto à lareira com ensopado e cerveja. Bromir demonstrou preocupação com o curativo e perguntou quem é Varen.
 - A proprietária informou que Bromir tratou da própria hospedagem. Ofereceu quarto individual por 5 PP ou quarto com jantar por 7 PP a Eron; ele ainda não comprou quarto nem refeição.
 - Eron 6/11 PV, CA 13, 12 flechas; descanso longo não começou, nenhuma recuperação de PV. Serviço com Haldren concluído, 50 PO ainda não pagas e bonificação extra indefinida.
+
+## Continuação FZ — pedido de jantar e quarto
+- No salão do Carvalho Cinzento, Eron solicitou **dois ensopados, três cervejas e um quarto individual completo (com jantar)**. A proprietária incluiu uma das refeições no pacote de **7 PP**, cobrou **2 PP** pela outra e **15 PC** pelas três cervejas, total **10 PP e 5 PC**.
+- Os pratos e as cervejas foram trazidos à mesa, e a proprietária separou a chave do **quarto 6**. Eron ainda não entregou dinheiro; não debitar da ficha até quitação. Não presumir que consumiu a refeição nem que começou o descanso longo.
+- Bromir, encontrado acordado à lareira, demonstrou interesse no ferimento de Eron e nos acontecimentos do armazém, além de pedir apresentação de Varen. Eron 6/11 PV, CA 13, 12 flechas, sem cura.
