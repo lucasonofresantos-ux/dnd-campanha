@@ -403,3 +403,5 @@ Arquivos produzidos nesta conferência: `transcripts/AUDITORIA_CONTINUIDADE_2026
 [SESSION_0000_CONTINUACAO_20261014_FL.md](transcripts/SESSION_0000_CONTINUACAO_20261014_FL.md) — 0344–0345: interrogatório da mulher de cinzento.
 
 [SESSION_0000_CONTINUACAO_20261014_FM.md](transcripts/SESSION_0000_CONTINUACAO_20261014_FM.md) — 0346–0347: pedido para localizar Haldren e reforços.
+
+[SESSION_0000_CONTINUACAO_20261014_FO.md](transcripts/SESSION_0000_CONTINUACAO_20261014_FO.md) — 0350–0351: hipótese de componentes e investigação das cargas.
