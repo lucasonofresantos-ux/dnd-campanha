@@ -286,3 +286,6 @@ Arquivos produzidos nesta conferência: `transcripts/AUDITORIA_CONTINUIDADE_2026
 
 [SESSION_0000_CONTINUACAO_20261014_CX.md](transcripts/SESSION_0000_CONTINUACAO_20261014_CX.md) — 0212–0213: Teren atrai homem da escada alegando susto com rato.
 [SESSION_0000_CONTINUACAO_20261014_CY.md](transcripts/SESSION_0000_CONTINUACAO_20261014_CY.md) — 0214–0215: Teren afirma que rato caiu sobre a mesa; homem aproxima-se desconfiado.
+
+[SESSION_0000_CONTINUACAO_20261014_CZ.md](transcripts/SESSION_0000_CONTINUACAO_20261014_CZ.md) — 0216–0217: Teren afirma que há pelo menos dois no térreo; informação não confirmada.
+[SESSION_0000_CONTINUACAO_20261014_DA.md](transcripts/SESSION_0000_CONTINUACAO_20261014_DA.md) — 0218–0219: Homem das luvas identifica Bram e Odrik; desconhecido aparece parcialmente na curva.
