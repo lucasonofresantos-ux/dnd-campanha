@@ -29,14 +29,14 @@ unresolved:
   - "Vínculo de Varen com autoridades, ainda não demonstrado"
   - "Situação exata dos capturados no curtume após ordem de Haldren para buscar atendimento e guardas"
   - "Operação e pagamento pactuados com Haldren: 25 PO por capturados e 25 PO pela operação, sujeitos às condições; quitação não presumida"
-last_player_message_exact: "Eu lanço pego uma pedra e lanço no beco do lado, para fazer barulho do outro lado do armazém, a vim de levar a atenção deles para lá e poder pegar a peça, e faço isso ainda com a furtividade que já tinha tirado"
-last_gm_prompt: "Eron jogou pedra no beco lateral para atrair atenção do lanternista e usou Furtividade 25 anterior para recolher bolsa com a réplica e retornar ao batente externo da porta dos fundos. Ruído metálico ouvido dentro perto da fechadura; porta segue fechada, nenhum avistamento confirmado."
-next: "Aguardar nova ação de Eron na porta com réplica em posse; lanternista perto do beco investigando barulho, pessoa não identificada atrás da porta. Não presumir que a porta se abriu nem identificar os observadores."
+last_player_message_exact: "Vou bater a porta, para entregar a réplica"
+last_gm_prompt: "A voz desconhecida atrás da porta dos fundos perguntou A roda continua girando? após Eron bater. Eron ainda não respondeu, porta fechada e réplica em sua posse."
+next: "Aguardar fala ou ação de Eron diante do desafio verbal; não antecipar resposta nem abrir porta automaticamente."
 transcription:
   completeness: "TXT 01.02 recuperado integralmente como enviado; história anterior e UI do chat ainda podem ter lacunas"
   audit: sessions/transcripts/AUDITORIA_CONTINUIDADE_20261013.md
   current_historical_end: sessions/transcripts/SESSION_0000_FONTE_LITERAL_0102_20261013.txt
-last_verified_transcript: sessions/transcripts/SESSION_0000_CONTINUACAO_20261013_AH.md
+last_verified_transcript: sessions/transcripts/SESSION_0000_CONTINUACAO_20261013_AI.md
 
 operational_dice_protocol: sessions/PROTOCOLO_DADOS_20261013.md
 no_new_rolls_or_scene_advancement_on_protocol_update: true
@@ -219,3 +219,15 @@ current_scene_ah:
   ac: 13
   arrows: 19
   awaiting_player_action: true
+
+current_scene_ai:
+  transcript: sessions/transcripts/SESSION_0000_CONTINUACAO_20261013_AI.md
+  player_action: "Eron bateu à porta para realizar a entrega."
+  password_challenge_heard: "A roda continua girando?"
+  response_by_eron: null
+  door: "Fechada; interlocutor desconhecido do outro lado"
+  replica_location: "Em posse de Eron, dentro de bolsa e envolvida em tecido"
+  npc_positions: "Varen atrás da carroça; lanternista buscando ruído no beco"
+  no_new_rolls: true
+  new_bell: false
+  next: "Aguardar escolha do jogador"
