@@ -101,3 +101,8 @@ Eron entrou no corredor de serviço do Armazém dos Oleiros. A porta traseira pe
 - rules/SOURCES.md, rules/SYSTEM.md, rules/HOUSE_RULES.md
 
 Documento PDF gerado localmente: `Eron_River_Ficha_Revisada_2024_Sessao_0.pdf` (5 páginas, 2026-10-13), artefato entregue nesta conversa; status do upload binário ao GitHub deve ser verificado separadamente.
+
+## PDF de referência preservado na Biblioteca do usuário
+- Localização: `/Mestre RPG/Eron_River_Ficha_Revisada_2024_Sessao_0.pdf`
+- Identidade da Biblioteca: `libfile_e136b9b3d8888191a5a100d15278f35e`
+- Upload concluído em 2026-10-13 e confirmado com retorno `status=succeeded`. O PDF é um artefato da Biblioteca do ChatGPT, não foi copiado como arquivo binário no GitHub. A ficha Markdown acima é a memória canônica textual versionada no repositório.
