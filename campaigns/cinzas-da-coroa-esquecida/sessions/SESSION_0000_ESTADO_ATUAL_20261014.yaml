@@ -180,3 +180,30 @@ latest_scene_fy:
   oren_fee_sp: 5
   oren_fee_paid: false
   next_turn: "Aguardar reação do jogador, Bromir pergunta sobre o braço e Varen"
+
+latest_scene_fz:
+  transcript: "sessions/transcripts/SESSION_0000_CONTINUACAO_20261014_FZ.md"
+  location: "Salão da Estalagem do Carvalho Cinzento, Caldria"
+  npcs_present: ["Bromir", "Varen", "Proprietária", "Criada"]
+  action: "Eron solicitou 2 ensopados, 3 cervejas e 1 quarto individual com jantar; a estalajadeira cotou os itens."
+  room_number: 6
+  room_rate_sp_with_dinner: 7
+  included_stew_count: 1
+  extra_stew_sp: 2
+  three_beers_cp: 15
+  total_bill_sp: 10
+  total_bill_cp_extra: 5
+  meal_served: true
+  beer_served: true
+  money_paid: false
+  debt_status: "Conta em aberto, valor não deduzido de Eron"
+  room_key_separated_not_given: true
+  food_consumed_confirmed: false
+  long_rest_started: false
+  long_rest_completed: false
+  hp_current: 6
+  hp_max: 11
+  armor_class: 13
+  arrows_remaining: 12
+  bromir: "Presente, acordado, pergunta o que ocorreu no armazém e a identidade de Varen"
+  pending_player_action: true
