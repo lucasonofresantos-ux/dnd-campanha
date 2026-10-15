@@ -999,3 +999,21 @@ latest_scene_ij_20261015:
   road_open: false
   hp: 11
   gp: 119
+latest_scene_ik_20261015:
+  transcript: sessions/transcripts/SESSION_0000_CONTINUACAO_20261015_IK.md
+  messages: 0496-0497
+  location: Estrada Caldria-Lorn, passagem entre taludes
+  perception_reported: "1d20 [10] +6=16"
+  perception_extra_hidden_detected: false
+  perception_excludes_unknown_others: false
+  log_cleared_into_ditch: true
+  rope_removed: true
+  wagons_waiting: true
+  iven_and_companion: Desarmados, comecando a recuar
+  wagon_contract_active: true
+  gold: 119
+  silver: 9
+  copper: 5
+  hp: 11
+  arrows: 20
+  next_actor: Eron
