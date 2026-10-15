@@ -118,3 +118,6 @@ Eron voltou do balcão à mesa da Estalagem do Carvalho Cinzento, expressou preo
 
 ## IH 0490–0491
 Eron tirou 16 em Carisma (Intimidacao), total 17. Um desconhecido saiu parcialmente da mata e pediu conversa, sem rendicao. Teste e consequencias no transcript IH.
+## Continuação II — Ultimato com tocha apagada
+- Na passagem estreita da estrada para Lorn, Eron apagou a tocha e avançou alguns passos sem cruzar a corda e o tronco. Exigiu rendição e passagem livre, ameaçando usar força contra os responsáveis pela armadilha.
+- Homem de capa verde no talude esquerdo admitiu verbalmente ter armado a passagem para cobrar dinheiro, mas a versão não foi comprovada; depositou sua faca ainda embainhada numa pedra, mantendo mãos erguidas. Chamou Iven, homem visível parcialmente no talude direito segurando besta leve, que ainda não se rendeu. Darin mantém arco em posição. Nenhum ataque, dano, gasto ou nova rolagem. Fonte integral: `sessions/transcripts/SESSION_0000_CONTINUACAO_20261015_II.md`.
