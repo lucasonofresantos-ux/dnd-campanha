@@ -786,3 +786,24 @@ latest_scene_hw_20261015:
   hit_die_available: 1d8
   heroic_inspiration: true
   next_actor: Eron
+latest_scene_hx_20261015:
+  transcript: sessions/transcripts/SESSION_0000_CONTINUACAO_20261015_HX.md
+  messages: 0470-0471
+  location: Casa de Bromir, Caldria, manha
+  players_account_of_exile: "Eron afirma que foi drogado e acordou ensanguentado ao lado do comandante elfo morto, segurando arma do crime; nega homicidio, respeitava comandante"
+  actual_killer: "Nao estabelecido pela conversa"
+  bromir_horse_estimate_gp: 75
+  saddle_and_tack_estimate_gp: "10-15 adicionais"
+  rental_one_way_to_lorn: "Disponibilidade e preco desconhecidos, consultar cocheiros"
+  wagon_guard_job: "Hipotese sugerida por Varen, sem contrato"
+  letter_offer_accepted: false
+  lorn_departure: false
+  money_gp: 115
+  money_pp: 9
+  money_pc: 5
+  hp: 11
+  ac: 13
+  arrows: 20
+  heroic_inspiration: true
+  hit_die_available: "1d8"
+  next_actor: "Eron"
