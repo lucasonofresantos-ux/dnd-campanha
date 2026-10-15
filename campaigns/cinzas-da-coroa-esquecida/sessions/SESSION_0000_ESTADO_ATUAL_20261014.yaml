@@ -991,3 +991,11 @@ latest_scene_ii_20261015:
   arrows: 20
   heroic_inspiration: true
   next_actor: Eron
+
+latest_scene_ij_20261015:
+  transcript: sessions/transcripts/SESSION_0000_CONTINUACAO_20261015_IJ.md
+  messages: 0494-0495
+  clearing_log_in_progress: true
+  road_open: false
+  hp: 11
+  gp: 119
