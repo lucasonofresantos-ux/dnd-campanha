@@ -101,3 +101,7 @@ Eron voltou do balcão à mesa da Estalagem do Carvalho Cinzento, expressou preo
 - Eron aceitou contrato de Orven Rusk para escoltar tres carroças para Lorn, pagamento total de 12 PO (4 PO na partida e 8 PO na entrega), alimentacao e lugar na carroca incluidos. Sanna Grell registrou o acordo. Eron declarou nao querer se afastar do comboio.
 - Orven entregou 4 PO no inicio da marcha. As tres carrocas deixaram o portao ocidental de Caldria pela manha, com Bromir se despedindo. Novo saldo 119 PO, 9 PP, 5 PC; 20 flechas. Nenhum ataque, teste ou dano. Prazo de chegada a Lorn incerto.
 - O convite anonimo para a velha ponte no anoitecer seguinte continua sem compromisso aceito. Fonte literal: `sessions/transcripts/SESSION_0000_CONTINUACAO_20261015_IB.md`.
+## Continuação IC — Vigilância na estrada
+- Eron despediu-se de Bromir junto ao portão, pediu que encaminhasse aviso a Varen e informou O Javali de Ferro em Lorn como endereço para cartas. Varen permaneceu em Caldria.
+- Com o comboio já em marcha, o jogador informou resultado de 20 no dado de Percepção, com bônus +6, total 26. Uma hora após a partida, Eron percebeu marcas recentes de botas, vegetação deslocada e uma corda baixa atravessando o caminho, antes da chegada das carroças. Ninguém identificado e nenhum encontro ou dano ainda ocorrido. Vigilância contínua declarada, sem estender automaticamente a rolagem a toda a jornada.
+- Transcrição integral: `sessions/transcripts/SESSION_0000_CONTINUACAO_20261015_IC.md`. Recursos mantidos: 119 PO, 9 PP e 5 PC, 20 flechas, 11/11 PV.
