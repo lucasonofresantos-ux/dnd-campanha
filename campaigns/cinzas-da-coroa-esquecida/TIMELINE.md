@@ -81,3 +81,5 @@ Eron voltou do balcão à mesa da Estalagem do Carvalho Cinzento, expressou preo
 - Eron se despediu e dormiu no quarto gratuito da casa de Bromir; 8 horas de descanso ininterrupto completadas. Amanheceu na casa. Varen acordou antes, Bromir prepara desjejum.
 - PV 11/11, 1d8 de Vida disponível, Inspiração Heroica disponível e 12 flechas. Nenhum ataque, despesa ou pagamento durante a noite. Bonificação, oito flechas de reposição e ressarcimento de 2 PO a Bromir continuam pendentes.
 - Próximas decisões sobre Lorn e exílio não tomadas; Sessão 0001 anterior permanece sem alterações. Fonte literal: `sessions/transcripts/SESSION_0000_CONTINUACAO_20261014_HR.md`, mensagens 0458–0459.
+## Continuação HS — Desjejum e presente anunciado
+- Após descanso longo, Eron desceu, cumprimentou Bromir e Varen e anunciou um presente a Bromir. O presente ainda não foi identificado nem entregue. Desjejum está servido, sem novos gastos ou rolagens. Fonte: `sessions/transcripts/SESSION_0000_CONTINUACAO_20261014_HS.md`.
