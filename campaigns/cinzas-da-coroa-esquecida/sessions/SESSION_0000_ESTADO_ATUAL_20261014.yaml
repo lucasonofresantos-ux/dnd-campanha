@@ -884,3 +884,20 @@ latest_scene_id_20261015:
   money_pc: 5
   perception_prior_total: 26
   next_actor: Eron
+latest_scene_ie_20261015:
+  transcript: sessions/transcripts/SESSION_0000_CONTINUACAO_20261015_IE.md
+  messages: 0484-0485
+  location: Estrada a Lorn, cerca de 30 passos antes de corda baixa
+  convoy: Tres carrocas paradas
+  player_action: Arremessar galho na direcao da corda
+  dexterity_check_required: 1d20+2
+  dexterity_check_result: pending_player_roll
+  branch_impact_and_rope_effect: unresolved
+  known_hostiles: none_identified
+  previous_perception_total: 26
+  hp: 11
+  arrows: 20
+  gold: 119
+  silver: 9
+  copper: 5
+  next_actor: Eron
