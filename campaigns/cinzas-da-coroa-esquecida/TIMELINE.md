@@ -136,3 +136,6 @@ Eron tirou 16 em Carisma (Intimidacao), total 17. Um desconhecido saiu parcialme
 
 ## IO 0504–0505
 - Orven decidiu a travessia pela faixa interna da curva erodida após inspecionar o chão. As tres carrocas passaram sem perdas e retomaram a viagem; atraso aproximado de meia hora. Transcript IO.
+
+## IQ 0508–0509
+- Na estrada de Caldria a Lorn, após a travessia do bueiro erodido, Eron declarou que mantém a vigilância do comboio. A rolagem de Percepção 26 foi aplicada à identificação da erosão no trecho anterior e não é automaticamente prolongada pela viagem. Para a marcha ordinária, Percepção passiva 16; não houve novo teste, dano, gasto, combate ou incidente. Fonte literal: `sessions/transcripts/SESSION_0000_CONTINUACAO_20261015_IQ.md`.
