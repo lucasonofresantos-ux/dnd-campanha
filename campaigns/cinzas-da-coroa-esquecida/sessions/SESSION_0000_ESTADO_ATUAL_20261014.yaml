@@ -856,3 +856,12 @@ latest_scene_ib_20261015:
 latest_scene_ic_20261015:
   transcript: sessions/transcripts/SESSION_0000_CONTINUACAO_20261015_IC.md
   messages: 0480-0481
+  location: Estrada rumo a Lorn, passagem estreita
+  perception_d20: 20
+  perception_bonus: 6
+  perception_total: 26
+  hazard_avoided_so_far: true
+  rope_ahead: true
+  hp: 11
+  arrows: 20
+  gp: 119
