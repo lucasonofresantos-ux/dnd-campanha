@@ -535,3 +535,5 @@ Arquivos produzidos nesta conferência: `transcripts/AUDITORIA_CONTINUIDADE_2026
 [IL — 0498–0499](transcripts/SESSION_0000_CONTINUACAO_20261015_IL.md) — Eron permite aos dois homens partir; deixam besta e faca, não confiscadas. Orven e condutores conduzem as três carroças com segurança além do local desobstruído, retomando viagem a Lorn. Vigilância contínua: Percepção passiva 16; resultado anterior 26 não permanece ativo nem é reutilizado. Transcrição literal verificada commit `16c84af8db2477f2c3e25c6b1f5d95f1ba96955d`.
 
 [IM — 0500–0501](transcripts/SESSION_0000_CONTINUACAO_20261015_IM.md) — Eron obteve Percepção 26 ([20] +6) e identificou erosão junto a bueiro cerca de 40 passos à frente da primeira carroça. Transcrição integral verificada no commit 84dcf66d014ac00b82c235ae8406e924fe0d7e4d.
+
+[IN — 0502–0503](transcripts/SESSION_0000_CONTINUACAO_20261015_IN.md) — Eron alerta Orven sobre erosão junto ao bueiro; comboio para em segurança. Orven testa borda com vara e confirma instabilidade, ainda sem avaliar alternativa interna da curva. Transcrição integral verificada, commit `66df4163a83f53381921fffe3d3a3bf325c7b606`.
