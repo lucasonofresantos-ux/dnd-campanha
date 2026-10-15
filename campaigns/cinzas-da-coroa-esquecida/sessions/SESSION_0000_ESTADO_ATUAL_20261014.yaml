@@ -600,3 +600,12 @@ latest_scene_hk_20261014:
   arrow_restock_pending: 8
   bromir_reimbursement_pending_gp: 2
   next_actor: "Eron"
+
+latest_scene_hm_20261014:
+  transcript: sessions/transcripts/SESSION_0000_CONTINUACAO_20261014_HM.md
+  messages: 0448-0449
+  location: Casa de Bromir
+  lodging: Dois colchoes e cobertores de graca
+  long_rest: false
+  arrows: 12
+  hp: 11
