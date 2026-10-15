@@ -348,3 +348,18 @@ latest_scene_go_20261014:
   hit_die_available: "1d8"
   heroic_inspiration: true
   next_action: "Aguardar jogador"
+
+latest_scene_gp_20261014:
+  transcript: "sessions/transcripts/SESSION_0000_CONTINUACAO_20261014_GP.md"
+  messages: "0402-0403"
+  location: "Cocheiras da Estalagem do Carvalho Cinzento, Caldria"
+  present: "Eron, Varen e Bromir"
+  stranger: "Permaneceu no salão ao saírem; intenção desconhecida"
+  breakfast_paid: false
+  breakfast_cost_sp: 3
+  eron_hp: 11
+  armor_class: 13
+  arrows_remaining: 12
+  heroic_inspiration: true
+  hit_die_available: "1d8"
+  haldren_debt_gp: 50
