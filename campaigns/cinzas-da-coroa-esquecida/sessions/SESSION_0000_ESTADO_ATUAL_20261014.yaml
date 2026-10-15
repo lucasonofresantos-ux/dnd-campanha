@@ -1095,3 +1095,16 @@ latest_scene_io_20261015:
   sp: 9
   cp: 5
   next_actor: Eron
+
+latest_scene_ir_20261015:
+  source: sessions/NOTA_CORRECAO_PERCEPCAO_20261015_IR.md
+  player_correction: "A percepção estava em 26 não 16"
+  active_perception_roll: "d20 20 + 6 = 26"
+  passive_perception: 16
+  ruling: "Manter resultado ativo 26 para a situacao que o jogador declarou continuar observando; nao usar 16 como substituto da rolagem ativa."
+  new_roll: false
+  hp: 11
+  ac: 13
+  arrows: 20
+  money: {gp: 119, sp: 9, cp: 5}
+  next_actor: Eron
