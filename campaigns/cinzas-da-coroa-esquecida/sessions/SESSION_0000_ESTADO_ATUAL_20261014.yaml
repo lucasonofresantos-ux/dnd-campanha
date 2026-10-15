@@ -609,3 +609,23 @@ latest_scene_hm_20261014:
   long_rest: false
   arrows: 12
   hp: 11
+latest_scene_hn_20261014:
+  transcript: "sessions/transcripts/SESSION_0000_CONTINUACAO_20261014_HN.md"
+  messages: "0450-0451"
+  location: "Casa de Bromir, Caldria, noite"
+  npcs: ["Bromir", "Varen"]
+  bromir_story: "Relatou travessia de rio em Brumafria e negociação por transportar barris de cerveja; seu burro cruzou em vau raso"
+  varen_story: "Relatou ter vigiado carpinteiro viúvo por interpretar versos deixados a amigos como mensagens clandestinas; local e época não revelados"
+  ongoing_dinner: true
+  long_rest_started: false
+  lorn: "Rumo eventual discutido antes, sem decisão, deixado para amanhã"
+  hp: 11
+  ac: 13
+  arrows: 12
+  heroic_inspiration: true
+  hit_die_available: "1d8"
+  contract_gp_received: 50
+  bonus_pending: true
+  arrow_replacement_pending: 8
+  bromir_refund_gp_pending: 2
+  next_actor: "Eron"
