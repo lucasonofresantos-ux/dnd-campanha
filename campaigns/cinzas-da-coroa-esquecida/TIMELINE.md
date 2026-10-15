@@ -83,3 +83,7 @@ Eron voltou do balcão à mesa da Estalagem do Carvalho Cinzento, expressou preo
 - Próximas decisões sobre Lorn e exílio não tomadas; Sessão 0001 anterior permanece sem alterações. Fonte literal: `sessions/transcripts/SESSION_0000_CONTINUACAO_20261014_HR.md`, mensagens 0458–0459.
 ## Continuação HS — Desjejum e presente anunciado
 - Após descanso longo, Eron desceu, cumprimentou Bromir e Varen e anunciou um presente a Bromir. O presente ainda não foi identificado nem entregue. Desjejum está servido, sem novos gastos ou rolagens. Fonte: `sessions/transcripts/SESSION_0000_CONTINUACAO_20261014_HS.md`.
+## Continuação HT — Presente a Bromir e relatos sobre Lorn
+- Na manhã após descanso na casa de Bromir, Eron entregou 5 PO ao anfitrião como comissão e contribuição pelas despesas. Bromir aceitou, incluindo nelas suas 2 PO antes desembolsadas pela roda. Eron teve despesa de 5 PO; saldo global requer conciliação.
+- Varen confirmou ser pago, mas não revelou contratante. Bromir descreveu Lorn como cidade de fronteira no vale do rio Lorne, com travessia, pedágios e o Javali de Ferro. Varen observou que possíveis informações sobre exílio não equivalem a autorização de retorno a Valdrén.
+- Viagem a Lorn ainda não decidida, Sessão 0001 preexistente intocada. Fonte literal: `sessions/transcripts/SESSION_0000_CONTINUACAO_20261015_HT.md`.
