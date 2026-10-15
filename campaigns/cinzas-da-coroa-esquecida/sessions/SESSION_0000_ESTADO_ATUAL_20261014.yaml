@@ -333,3 +333,18 @@ latest_scene_gn_20261014:
   hit_die: "1d8 disponível"
   contract_owed_gp: 50
   pending_player_action: true
+latest_scene_go_20261014:
+  transcript: "sessions/transcripts/SESSION_0000_CONTINUACAO_20261014_GO.md"
+  last_pair: "0400-0401"
+  location: "Salão do Carvalho Cinzento, mesa de Varen"
+  events: "Eron brincou sobre carroça de Bromir, perguntou se Varen descansou e alertou discretamente sobre observador; Varen disse notar olhares repetidos, sem saber motivo"
+  stranger: "Homem desconhecido de capa castanha permanece junto à janela; não se sabe se realmente vigia o grupo"
+  breakfast_sp_due: 3
+  breakfast_paid: false
+  no_new_test: true
+  eron_hp: 11
+  armor_class: 13
+  arrows: 12
+  hit_die_available: "1d8"
+  heroic_inspiration: true
+  next_action: "Aguardar jogador"
