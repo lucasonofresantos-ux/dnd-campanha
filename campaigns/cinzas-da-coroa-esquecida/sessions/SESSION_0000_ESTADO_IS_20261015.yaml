@@ -1,0 +1,28 @@
+campaign_id: cinzas-da-coroa-esquecida
+session: "0000"
+date_recorded: "2026-10-15"
+source: sessions/transcripts/SESSION_0000_CONTINUACAO_20261015_IS.md
+messages: "0512-0513"
+location: Recuo elevado na estrada Caldria-Lorn
+daypart: anoitecer
+companions: [Orven Rusk, Darin, condutores]
+caravan:
+  wagons: 3
+  stopped_for_night: true
+  damage: false
+  cargo_loss: false
+perception:
+  previous_active_total: 26
+  vigilant_during_travel: true
+  new_check: false
+watch_assignments: pending
+long_rest_started: false
+long_rest_completed: false
+hp: 11
+ac: 13
+arrows: 20
+money: {gp: 119, sp: 9, cp: 5}
+heroic_inspiration: true
+hit_die_available: 1d8
+escort_balance_due_gp: 8
+next_actor: Eron
