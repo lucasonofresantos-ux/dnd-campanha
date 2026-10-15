@@ -68,3 +68,8 @@
 
 ## Continuação GF — convite para patrulha
 Eron voltou do balcão à mesa da Estalagem do Carvalho Cinzento, expressou preocupação com a segurança de Varen, reafirmou que sua participação contratada se encerrou e afirmou querer pagamento substancial antes de aceitar novo risco. Pediu a Varen que o acompanhasse à sede da patrulha no dia seguinte; **Varen aceitou**. Bromir considera acompanhá-los depois de verificar a própria carroça. Conversa bem-humorada sobre tamancos. O quarto **6** já está pago (10 PP e 5 PC, inclusive pedidos de jantar e cerveja), mas **descanso longo ainda não começou**. **6/11 PV, CA 13, 12 flechas**.
+## Continuação HI — gancho não obrigatório para Lorn
+- Após concluir duas entregas em Caldria, Eron, Bromir e Varen seguiram juntos à casa de Bromir, sem emboscada observada sob o teste de Percepção 23 já existente.
+- Bromir ofereceu ensopado e, entre correspondência mercantil, encontrou notícia de registros de viagem desaparecidos na estrada de Lorn. Varen mencionou que a cidade fronteiriça pode conservar informações pertinentes à ordem de exílio de Valdrén; Bromir citou a estalagem O Javali de Ferro.
+- Este é somente um gancho para a **Sessão 0001 preexistente, no acesso ocidental de Lorn**: Eron ainda não decidiu viajar nem aceitou missão; não forçar ruptura com Varen ou Bromir, nem alterar os recursos distintos da abertura antiga sem reconciliação explícita da continuidade.
+- Fonte: `sessions/transcripts/SESSION_0000_CONTINUACAO_20261014_HI.md`, mensagens 0440–0441, transcrição verificada.
