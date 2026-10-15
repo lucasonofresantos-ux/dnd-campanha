@@ -691,3 +691,20 @@ latest_scene_hr_20261014:
   bromir_refund_due_gp: 2
   lorn_trip: "Nao iniciada; sessao 0001 ja existente nao foi avancada"
   next_actor: "Eron"
+latest_scene_hs_20261014:
+  transcript: sessions/transcripts/SESSION_0000_CONTINUACAO_20261014_HS.md
+  messages: 0460-0461
+  location: Terreo da casa de Bromir, Caldria, manha
+  companions: [Bromir, Varen]
+  eron_announced_gift: true
+  gift_identified_or_given: false
+  long_rest_completed: true
+  hp: 11
+  ac: 13
+  arrows: 12
+  hit_die_available: 1d8
+  heroic_inspiration: true
+  bonus_pending: true
+  arrows_due: 8
+  bromir_reimbursement_gp_due: 2
+  next_actor: Eron
