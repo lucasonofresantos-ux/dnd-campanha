@@ -363,3 +363,23 @@ latest_scene_gp_20261014:
   heroic_inspiration: true
   hit_die_available: "1d8"
   haldren_debt_gp: 50
+latest_scene_gv_20261014:
+  transcript: "sessions/transcripts/SESSION_0000_CONTINUACAO_20261014_GV.md"
+  messages: "0414-0415"
+  current_location: "Sala de Haldren, sede da patrulha de Caldria"
+  present: ["Eron", "Varen", "Haldren"]
+  bromir: "Com a carroça nas proximidades da entrada"
+  eron_hp: 11
+  eron_max_hp: 11
+  eron_ac: 13
+  eron_arrows_remaining: 12
+  arrows_used_by_eron_yesterday: 8
+  arrow_restock_requested: 8
+  arrow_restock_received: false
+  bromir_expense_gp_claimed: 2
+  bromir_expense_reimbursement_status: "Haldren anotou pedido de ressarcimento; não pago"
+  haldren_contract_due_gp: 50
+  haldren_contract_payment_status: "Duas bolsas contendo 25 PO cada colocadas sobre a mesa diante de Eron; Eron ainda não as recolheu nem conferiu"
+  extraordinary_bonus: "Sem valor fixado ou aprovação"
+  haldren_investigation_report: "Custódia dos presos e provas; passagem isolada; Marek levado para atendimento sob escolta, sem novo depoimento ou boletim médico; homem de luvas negras sem identidade comprovada"
+  next_actor: "Eron"
