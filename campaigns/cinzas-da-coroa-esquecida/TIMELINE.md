@@ -87,3 +87,7 @@ Eron voltou do balcão à mesa da Estalagem do Carvalho Cinzento, expressou preo
 - Na manhã após descanso na casa de Bromir, Eron entregou 5 PO ao anfitrião como comissão e contribuição pelas despesas. Bromir aceitou, incluindo nelas suas 2 PO antes desembolsadas pela roda. Eron teve despesa de 5 PO; saldo global requer conciliação.
 - Varen confirmou ser pago, mas não revelou contratante. Bromir descreveu Lorn como cidade de fronteira no vale do rio Lorne, com travessia, pedágios e o Javali de Ferro. Varen observou que possíveis informações sobre exílio não equivalem a autorização de retorno a Valdrén.
 - Viagem a Lorn ainda não decidida, Sessão 0001 preexistente intocada. Fonte literal: `sessions/transcripts/SESSION_0000_CONTINUACAO_20261015_HT.md`.
+
+## HX 0470–0471
+- Eron relatou a Bromir e Varen que foi drogado e incriminado pela morte do comandante elfo, negando autoria. Versão de Eron, sem confirmação de culpado.
+- Bromir estimou cavalo de sela em 75 PO, arreios e sela em 10 a 15 PO, aluguel e entrega em Lorn sem cotação. Sem compra ou contrato. Transcrição HX.
