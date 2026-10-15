@@ -921,3 +921,23 @@ latest_scene_if_20261015:
   silver: 9
   copper: 5
   next_actor: Eron
+latest_scene_ig_20261015:
+  transcript: sessions/transcripts/SESSION_0000_CONTINUACAO_20261015_IG.md
+  messages: 0488-0489
+  location: Passagem entre taludes na estrada Caldria-Lorn
+  three_wagons_stopped: true
+  roadway_blocked_by_swinging_log: true
+  orven: Recuou para junto da primeira carroca; advertiu contra incendio
+  other_guard: Darin, vigia retaguarda; observa taludes com arco
+  eron: Ameacou incendiar floresta caso possiveis observadores nao aparecam
+  burning_torch: Emprestada do comboio, acesa, segurada por Eron, nao arremessada
+  forest_fire: false
+  observers_revealed: false
+  intimidation_roll_pending: 1d20+1
+  hp: 11
+  ac: 13
+  arrows: 20
+  money_gp: 119
+  money_pp: 9
+  money_pc: 5
+  next_actor: Eron
