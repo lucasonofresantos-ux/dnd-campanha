@@ -105,3 +105,6 @@ Eron voltou do balcão à mesa da Estalagem do Carvalho Cinzento, expressou preo
 - Eron despediu-se de Bromir junto ao portão, pediu que encaminhasse aviso a Varen e informou O Javali de Ferro em Lorn como endereço para cartas. Varen permaneceu em Caldria.
 - Com o comboio já em marcha, o jogador informou resultado de 20 no dado de Percepção, com bônus +6, total 26. Uma hora após a partida, Eron percebeu marcas recentes de botas, vegetação deslocada e uma corda baixa atravessando o caminho, antes da chegada das carroças. Ninguém identificado e nenhum encontro ou dano ainda ocorrido. Vigilância contínua declarada, sem estender automaticamente a rolagem a toda a jornada.
 - Transcrição integral: `sessions/transcripts/SESSION_0000_CONTINUACAO_20261015_IC.md`. Recursos mantidos: 119 PO, 9 PP e 5 PC, 20 flechas, 11/11 PV.
+
+## Continuação ID — Comboio interrompido antes da corda
+- Eron alertou sobre corda baixa; Orven mandou parar as tres carrocas a cerca de 30 passos do obstaculo. Condutores mantem animais parados. Marcas de botas e vegetacao alterada visiveis, sem pessoa identificada, ataque, gasto ou novo teste. Ver transcricao ID 0482-0483.
