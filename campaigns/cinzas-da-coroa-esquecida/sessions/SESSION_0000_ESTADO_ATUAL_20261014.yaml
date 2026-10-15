@@ -1040,3 +1040,25 @@ latest_scene_il_20261015:
   heroic_inspiration: true
   hit_die_available: 1d8
   next_actor: Eron
+latest_scene_im_20261015:
+  transcript: sessions/transcripts/SESSION_0000_CONTINUACAO_20261015_IM.md
+  messages: 0500-0501
+  location: Estrada Caldria-Lorn, curva com bueiro de pedra
+  roll: "1d20 [20] +6 = 26, Python secrets.randbelow"
+  natural_20: true
+  perception_passive: 16
+  observed_current_stretch: Nenhum sinal recente visivel de emboscada
+  observed_hazard: Erosao por enxurrada sob borda da pista perto do bueiro
+  first_wagon_distance_to_hazard: cerca de 40 passos
+  orven_warned: false
+  convoy_moving: true
+  player_watches_road: true
+  current_roll_valid_until_lorn: false
+  hp: 11
+  ac: 13
+  arrows: 20
+  gold: 119
+  silver: 9
+  copper: 5
+  heroic_inspiration: true
+  next_actor: Eron
