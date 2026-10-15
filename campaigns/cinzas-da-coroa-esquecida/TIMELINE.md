@@ -94,3 +94,6 @@ Eron voltou do balcão à mesa da Estalagem do Carvalho Cinzento, expressou preo
 
 ## HY–HZ — Pátio das carroças
 - Eron concluiu desjejum e foi com Bromir ao portão ocidental de Caldria; Varen permaneceu na cidade. Sanna Grell informou que três carroças para Lorn pretendem partir nesta manhã e estão sem um guarda. Eron ainda precisa acertar o contrato; chegar amanhã ao anoitecer é incerto. Transcrições HY e HZ.
+
+## IA — Proposta de escolta de Orven
+- Sanna apresentou Orven Rusk a Eron, no patio de carrocas. Orven ofereceu 12 PO (4 na partida e 8 na entrega) mais comida e lugar na carroca para escoltar tres carrocas ate Lorn. Chegada ate amanha ao anoitecer incerta. Nenhum contrato firmado. Transcricao IA 0476-0477.
