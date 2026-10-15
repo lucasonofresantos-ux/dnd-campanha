@@ -296,3 +296,24 @@ latest_scene_gi_long_rest_verified_20261014:
   extraordinary_bonus: "Pendente sem quantia definida"
   new_contract_accepted: false
   pending_player_action: true
+
+latest_scene_gm_20261014:
+  transcript: "sessions/transcripts/SESSION_0000_CONTINUACAO_20261014_GM.md"
+  last_messages: "0396-0397"
+  location: "Salão da Estalagem do Carvalho Cinzento, junto ao balcão"
+  time: "Manhã após descanso longo"
+  eron_hp: 11
+  eron_hp_max: 11
+  armor_class: 13
+  arrows_remaining: 12
+  hit_die_available: "1d8"
+  heroic_inspiration: true
+  arm_bandage: "Refaixa limpa após banho; sem penalidade mecânica"
+  varen: "Sentado próximo à lareira, presente e acessível"
+  bromir: "Estalajadeira o viu seguir cedo às cocheiras para examinar carroça; localização atual ainda não comprovada"
+  message_for_eron: "Estalajadeira verificou e informou nenhum recado recebido até agora"
+  breakfast: "Oferecido; ainda não pedido, consumido ou pago"
+  haldren_payment_gp_due: 50
+  bonus: "Indefinida"
+  new_contract: false
+  next_actor: "Jogador Eron River"
