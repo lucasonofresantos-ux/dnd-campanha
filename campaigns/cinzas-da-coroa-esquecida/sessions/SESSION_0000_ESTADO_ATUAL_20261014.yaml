@@ -580,3 +580,23 @@ latest_scene_hj_20261014:
   hit_die_available: "1d8"
   heroic_inspiration: true
   next_actor: "Eron"
+latest_scene_hk_20261014:
+  transcript: "sessions/transcripts/SESSION_0000_CONTINUACAO_20261014_HK.md"
+  messages: "0444-0445"
+  location: "Casa de Bromir, Caldria, jantar a noite"
+  npcs: ["Bromir", "Varen"]
+  stew: "Eron provou uma colherada e elogiou; jantar nao declarado concluido"
+  beer: "Bromir colocou caneca diante de Eron, sem consumo confirmado; sem custo"
+  haldren_delivery: "Nao chegou nenhum mensageiro ou pagamento"
+  upcoming_lorn: "Assunto adiado para amanha, nenhuma partida nem missao aceita"
+  long_rest: false
+  hp: 11
+  ac: 13
+  arrows: 12
+  hit_die_available: "1d8"
+  heroic_inspiration: true
+  contractual_payment_received_gp: 50
+  bonus_pending: true
+  arrow_restock_pending: 8
+  bromir_reimbursement_pending_gp: 2
+  next_actor: "Eron"
