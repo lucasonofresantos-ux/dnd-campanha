@@ -511,3 +511,32 @@ latest_scene_hf_20261014:
   ac: 13
   arrows: 12
   payment_received_gp: 50
+latest_scene_hg_20261014:
+  transcript: "sessions/transcripts/SESSION_0000_CONTINUACAO_20261014_HG.md"
+  messages: "0436-0437"
+  location: "Rua da Fonte, primeira entrega em conferencia"
+  perception_total_retained: 23
+  first_delivery_done: false
+  brown_coat: "A sombra de coluna na arcada; sem ameaca verificada"
+latest_scene_hh_20261014:
+  transcript: "sessions/transcripts/SESSION_0000_CONTINUACAO_20261014_HH.md"
+  messages: "0438-0439"
+  location: "Junto a oficina de couro perto da Passagem dos Curtidores, Caldria"
+  companions: ["Bromir", "Varen"]
+  first_delivery: "Concluida; fardos de fibra recebidos na Rua da Fonte e recibo assinado"
+  second_delivery: "Concluida; dois caixotes de ferragens recebidos perto da Passagem dos Curtidores e recibo assinado"
+  perception: "23 da rolagem anterior mantida na vigilancia ate terminar as entregas; nenhum novo teste"
+  follower: "Homem com casaco castanho saiu da arcada por rua lateral ao fim da primeira entrega; nao visto inequivocamente na segunda, destino e intencao desconhecidos"
+  cart: "Roda previamente consertada e carroca utilizavel"
+  next_plan: "Casa de Bromir, para ensopado prometido; ainda nao partiu do local da segunda entrega"
+  hp: 11
+  ac: 13
+  arrows: 12
+  hit_die_available: "1d8"
+  heroic_inspiration: true
+  eron_contract_gp_received: 50
+  eron_spent_this_scene: 0
+  haldren_bonus_pending: true
+  arrow_replacement_due: 8
+  bromir_refund_gp_due: 2
+  next_actor: "Eron"
