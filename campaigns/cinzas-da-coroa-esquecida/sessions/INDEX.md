@@ -478,3 +478,10 @@ Arquivos produzidos nesta conferência: `transcripts/AUDITORIA_CONTINUIDADE_2026
 
 
 [GQ — 0404–0405](transcripts/SESSION_0000_CONTINUACAO_20261014_GQ.md) — Eron entrega 3 PP a Bromir para pagar a conta do desjejum e avisa sobre possível observador. Bromir segue para o salão; Eron e Varen permanecem nas cocheiras. Quitação ainda não confirmada. Transcrição literal verificada no commit `f8f7c8203bc0d034829ebb96c75806fff00accfe`.
+
+## Recuperação de transcrições GR–GU (2026-10-14)
+- [GR — 0406–0407](transcripts/SESSION_0000_CONTINUACAO_20261014_GR.md): restauro literal confirmado pelo commit `c67eeefef9b79f84f08e371d2e7c3a9dc0586b1f`; café quitado e chegada à patrulha.
+- [GS — 0408–0409](transcripts/SESSION_0000_CONTINUACAO_20261014_GS.md): restauro literal confirmado pelo commit `030a5d82c2d6d97bce72a9a7e9065a9c07d23f8a`; Percepção [11]+6=17 declarada na resposta (execução Python não verificável depois do fato); homem de capa castanha visto perto da patrulha.
+- [GT — 0410–0411](transcripts/SESSION_0000_CONTINUACAO_20261014_GT.md): restauro literal confirmado pelo commit `6373f0035a752b796944a462a2df0177e9048f93`; sentinela avisa Haldren, Varen reconhece o homem.
+- [GU — 0412–0413](transcripts/SESSION_0000_CONTINUACAO_20261014_GU.md): restauro literal confirmado pelo commit `2431bd8f015f9c0dea9d912ee21cf666a9c4101c`; Eron e Varen entram na sala de Haldren, Bromir fica na carroça.
+- As ressalvas internas sobre pendência no momento original permanecem nas cópias literais; o restauro das quatro transcrições foi verificado pelo GitHub.
