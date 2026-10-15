@@ -97,3 +97,7 @@ Eron voltou do balcão à mesa da Estalagem do Carvalho Cinzento, expressou preo
 
 ## IA — Proposta de escolta de Orven
 - Sanna apresentou Orven Rusk a Eron, no patio de carrocas. Orven ofereceu 12 PO (4 na partida e 8 na entrega) mais comida e lugar na carroca para escoltar tres carrocas ate Lorn. Chegada ate amanha ao anoitecer incerta. Nenhum contrato firmado. Transcricao IA 0476-0477.
+## Continuação IB — Escolta contratada e partida de Caldria
+- Eron aceitou contrato de Orven Rusk para escoltar tres carroças para Lorn, pagamento total de 12 PO (4 PO na partida e 8 PO na entrega), alimentacao e lugar na carroca incluidos. Sanna Grell registrou o acordo. Eron declarou nao querer se afastar do comboio.
+- Orven entregou 4 PO no inicio da marcha. As tres carrocas deixaram o portao ocidental de Caldria pela manha, com Bromir se despedindo. Novo saldo 119 PO, 9 PP, 5 PC; 20 flechas. Nenhum ataque, teste ou dano. Prazo de chegada a Lorn incerto.
+- O convite anonimo para a velha ponte no anoitecer seguinte continua sem compromisso aceito. Fonte literal: `sessions/transcripts/SESSION_0000_CONTINUACAO_20261015_IB.md`.
