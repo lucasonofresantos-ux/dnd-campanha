@@ -7,3 +7,7 @@
 ## Mensagem 0453 — Mestre (texto visível integral)
 
 Bromir fica imóvel com a caneca a meio caminho da boca. Depois, baixa-a devagar e encara Eron por cima da barba.
+
+— Espere um pouco. **Dando um trato nos ladrões?** — Ele estreita os olhos, tentando conter o riso. — Do tipo que manda os sujeitos para um curandeiro... ou do tipo que faria o marido preferir nunca ter contratado você?
+
+O anão não consegue mais segurar a gargalhada.
