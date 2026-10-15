@@ -77,3 +77,7 @@ Eron voltou do balcão à mesa da Estalagem do Carvalho Cinzento, expressou preo
 - Eron quis terminar o ensopado e brincou que esvaziaria barril de cerveja para não ouvir Bromir roncar. Bromir protestou e ofereceu outra rodada, sem esvaziar o estoque.
 - O jantar terminou, Varen subiu ao quarto e acomodou pertences junto a um dos dois colchões oferecidos; Eron também tem acesso ao quarto e ainda pode se recolher. Descanso longo não concluído; manhã não chegou, nenhum recurso restaurado.
 - Acontecimentos da Sessão 0000 preservados, sem antecipar a Sessão 0001 em Lorn. Transcrição: `sessions/transcripts/SESSION_0000_CONTINUACAO_20261014_HQ.md`.
+## Continuação HR — descanso longo na casa de Bromir
+- Eron se despediu e dormiu no quarto gratuito da casa de Bromir; 8 horas de descanso ininterrupto completadas. Amanheceu na casa. Varen acordou antes, Bromir prepara desjejum.
+- PV 11/11, 1d8 de Vida disponível, Inspiração Heroica disponível e 12 flechas. Nenhum ataque, despesa ou pagamento durante a noite. Bonificação, oito flechas de reposição e ressarcimento de 2 PO a Bromir continuam pendentes.
+- Próximas decisões sobre Lorn e exílio não tomadas; Sessão 0001 anterior permanece sem alterações. Fonte literal: `sessions/transcripts/SESSION_0000_CONTINUACAO_20261014_HR.md`, mensagens 0458–0459.
