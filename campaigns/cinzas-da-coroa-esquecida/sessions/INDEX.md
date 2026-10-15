@@ -538,3 +538,6 @@ Arquivos produzidos nesta conferência: `transcripts/AUDITORIA_CONTINUIDADE_2026
 
 [IN — 0502–0503](transcripts/SESSION_0000_CONTINUACAO_20261015_IN.md) — Eron alerta Orven sobre erosão junto ao bueiro; comboio para em segurança. Orven testa borda com vara e confirma instabilidade, ainda sem avaliar alternativa interna da curva. Transcrição integral verificada, commit `66df4163a83f53381921fffe3d3a3bf325c7b606`.
 [IO — 0504–0505](transcripts/SESSION_0000_CONTINUACAO_20261015_IO.md) — Eron deixa decisão da passagem erodida com Orven. Mercador sonda faixa interna e conduz as três carroças em travessia lenta, uma a uma, sem perda; cerca de meia hora gasta. Comboio segue para Lorn. Transcrição literal verificada commit `78e2b049d7a7306793a5940ced4096a79aa0adb4`.
+
+## Auditoria externa de continuação — 2026-10-15
+[Verificação do final da conversa 01.06](AUDITORIA_FINAL_CONVERSA_01_06_20261015.md) — registra o transcript IO (0504–0505) e a impossibilidade de conferir sua fidelidade literal com o chat original sem a íntegra; a auditoria não altera a cena.
