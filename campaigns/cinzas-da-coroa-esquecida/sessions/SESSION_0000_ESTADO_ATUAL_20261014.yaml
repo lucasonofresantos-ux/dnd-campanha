@@ -852,3 +852,7 @@ latest_scene_ib_20261015:
   hit_die_available: 1d8
   heroic_inspiration: true
   next_actor: Eron
+
+latest_scene_ic_20261015:
+  transcript: sessions/transcripts/SESSION_0000_CONTINUACAO_20261015_IC.md
+  messages: 0480-0481
