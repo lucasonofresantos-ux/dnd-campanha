@@ -397,3 +397,21 @@ latest_scene_gw_20261014:
   bromir_reimbursement_pending_gp: 2
   hero_inspiration: true
   hp: 11
+latest_scene_gz_20261014:
+  transcript: "sessions/transcripts/SESSION_0000_CONTINUACAO_20261014_GZ.md"
+  messages: "0422-0423"
+  location: "Diante da Forja do Martelo Rubro, Caldria"
+  present: [Eron, Varen, Bromir]
+  garrik: "Chamado para inspecionar roda; ainda não apareceu"
+  cart_wheel: "Folga na fixação; reparo ainda não iniciado"
+  suspicious_man: "Homem de casaco castanho acompanha percurso e permanece sob toldo do outro lado da rua; identidade e intenção não conhecidas"
+  varen_employer: "Não revelado"
+  perception_declared: "1d20 [17] +6 = 23, execução Python da mensagem 0423 não verificável agora"
+  eron_hp: 11
+  armor_class: 13
+  arrows_remaining: 12
+  gold_from_haldren_received: 50
+  arrow_replacement_pending: 8
+  bromir_reimbursement_pending_gp: 2
+  heroic_inspiration: true
+  hit_die_available: "1d8"
