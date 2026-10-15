@@ -824,3 +824,31 @@ latest_scene_ia_20261015:
   gold: 115
   silver: 9
   copper: 5
+latest_scene_ib_20261015:
+  transcript: sessions/transcripts/SESSION_0000_CONTINUACAO_20261015_IB.md
+  messages: 0478-0479
+  location: Estrada ocidental de Caldria, junto ao comboio rumo a Lorn
+  present: [Orven Rusk, condutores]
+  bromir: Despediu-se no portao de Caldria
+  sanna: Permaneceu no patio
+  varen: Permaneceu em Caldria
+  escort_contract_accepted: true
+  escort_contract_fee_gp: 12
+  escort_advance_received_gp: 4
+  escort_fee_due_upon_delivery_gp: 8
+  escort_food_included: true
+  escort_wagon_space_included: true
+  eron_intends_stay_with_convoy: true
+  convoy_wagons: 3
+  convoy_departed: true
+  bridge_meeting_next_evening: Uncertain timing and no commitment
+  letter_job_accepted: false
+  gold: 119
+  silver: 9
+  copper: 5
+  arrows: 20
+  hp: 11
+  ac: 13
+  hit_die_available: 1d8
+  heroic_inspiration: true
+  next_actor: Eron
