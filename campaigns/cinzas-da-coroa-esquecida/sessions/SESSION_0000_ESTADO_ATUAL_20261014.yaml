@@ -540,3 +540,27 @@ latest_scene_hh_20261014:
   arrow_replacement_due: 8
   bromir_refund_gp_due: 2
   next_actor: "Eron"
+latest_scene_hi_20261014:
+  transcript: "sessions/transcripts/SESSION_0000_CONTINUACAO_20261014_HI.md"
+  messages: "0440-0441"
+  location: "Casa de Bromir, Caldria"
+  companions_present: ["Bromir", "Varen"]
+  cart: "Entregas finalizadas, roda reparada, burro no abrigo da casa"
+  stew: "Oferecido e mesa preparada, consumo de Eron nao declarado"
+  perception_previous: 23
+  rerolled_perception: false
+  ambush: "Nenhum ataque ou perseguidor identificado na rota ate casa de Bromir"
+  lorn_hook: "Recado comercial informa desaparecimento de registros de viagem na estrada de Lorn; nenhum autor confirmado"
+  exile_lead: "Varen sugeriu consultar registros fronteiricos em Lorn sobre Valdrén, sem garantia de achado"
+  lorn_inn: "O Javali de Ferro, sugerido por Bromir"
+  session_0001: "Continua preexistente, abertura a oeste de Lorn; nao iniciada em cena; decisoes, acompanhantes e recursos ainda nao reconciliados"
+  hp: 11
+  ac: 13
+  arrows: 12
+  available_hit_die: "1d8"
+  heroic_inspiration: true
+  received_payment_gp: 50
+  bonus_pending: true
+  arrow_restocks_pending: 8
+  bromir_refund_due_gp: 2
+  next_actor: "Eron"
