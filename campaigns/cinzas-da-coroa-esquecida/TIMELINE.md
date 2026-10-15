@@ -133,3 +133,6 @@ Eron tirou 16 em Carisma (Intimidacao), total 17. Um desconhecido saiu parcialme
 
 ## IN 0502–0503
 - Eron alertou Orven sobre erosão na curva junto ao bueiro. Orven parou as três carroças em segurança e confirmou com vara que a borda externa cede; passagem pelo lado interno ainda não avaliada. Nenhum dano ou travessia. Transcript IN.
+
+## IO 0504–0505
+- Orven decidiu a travessia pela faixa interna da curva erodida após inspecionar o chão. As tres carrocas passaram sem perdas e retomaram a viagem; atraso aproximado de meia hora. Transcript IO.
