@@ -759,3 +759,30 @@ latest_scene_hu_20261015:
 latest_scene_hv_20261015:
   transcript: sessions/transcripts/SESSION_0000_CONTINUACAO_20261015_HV.md
   messages: 0466-0467
+latest_scene_hw_20261015:
+  transcript: sessions/transcripts/SESSION_0000_CONTINUACAO_20261015_HW.md
+  messages: 0468-0469
+  location: Casa de Bromir, Caldria, manha, desjejum
+  present: [Bromir, Varen]
+  guard_messenger_departed: true
+  bonus_received_gp: 15
+  arrows_replenished: 8
+  bonus_outstanding_gp: 0
+  arrow_replacement_due: 0
+  money_gp: 115
+  money_sp: 9
+  money_cp: 5
+  arrows: 20
+  letter_acquired_and_read_aloud: true
+  letter_seal: Arvore sem folhas em cera cinza, quebrado
+  sender_identity: Desconhecida
+  letter_claims: Oferece 50 PO por localizar desaparecido na estrada de Lorn, mais 50 PO por recuperar objeto, afirma saber sobre exilio em Valdren e morte do comandante
+  alleged_meeting: Velha ponte de Lorn, amanha ao anoitecer
+  offer_accepted: false
+  bridge_meeting_promised: false
+  travel_to_lorn_started: false
+  hp: 11
+  ac: 13
+  hit_die_available: 1d8
+  heroic_inspiration: true
+  next_actor: Eron
