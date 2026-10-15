@@ -108,3 +108,6 @@ Eron voltou do balcão à mesa da Estalagem do Carvalho Cinzento, expressou preo
 
 ## Continuação ID — Comboio interrompido antes da corda
 - Eron alertou sobre corda baixa; Orven mandou parar as tres carrocas a cerca de 30 passos do obstaculo. Condutores mantem animais parados. Marcas de botas e vegetacao alterada visiveis, sem pessoa identificada, ataque, gasto ou novo teste. Ver transcricao ID 0482-0483.
+
+## Continuação IE — Teste com galho antes da corda
+- Eron recolheu galho e tentou arremessá-lo contra a corda a aproximadamente 30 passos. Teste de Destreza 1d20+2 solicitado, aguardando resultado do jogador; não determinar queda, acionamento ou função da corda antes do teste. Comboio permanece parado. Transcrição `sessions/transcripts/SESSION_0000_CONTINUACAO_20261015_IE.md`.
