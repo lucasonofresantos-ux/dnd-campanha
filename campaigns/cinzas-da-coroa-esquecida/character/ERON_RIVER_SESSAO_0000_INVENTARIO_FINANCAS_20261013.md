@@ -55,3 +55,7 @@ Depois do registro histórico em que Eron contara as 12 PO recebidas pela répli
 
 ## Quitação GE — Carvalho Cinzento
 Eron pagou integralmente a conta de **10 PP e 5 PC** (equivalente a **1 PO e 5 PC**) pelos dois ensopados, três cervejas e quarto com jantar. Entregou moedas à proprietária e recebeu a chave do quarto 6. **Debitar este custo do dinheiro de Eron**; discriminação de denominações e troco não comprovada. O saldo total segue sujeito à reconciliação. A dívida de 50 PO de Haldren e os 5 PP de Oren seguem separados. **Descanso ainda não iniciado; 6/11 PV.**
+## Presente a Bromir — HT 0462–0463
+- Eron **entregou 5 PO** a Bromir pela comissão do serviço e despesas da hospitalidade. Bromir aceitou e considerou as **2 PO de reparo da roda** incluídas nessa transferência. Abater **5 PO de Eron**, sem duplicar débito de 2 PO; a restituição ao anão está satisfeita por essa entrega.
+- Os 50 PO do contrato já tinham sido recebidos. Bonificação extraordinária e 8 flechas de reposição permanecem pendentes. Saldo consolidado após demais entradas e saídas históricas requer reconciliação; não inventar montante.
+- Transcrição confirmada: `sessions/transcripts/SESSION_0000_CONTINUACAO_20261015_HT.md`.
