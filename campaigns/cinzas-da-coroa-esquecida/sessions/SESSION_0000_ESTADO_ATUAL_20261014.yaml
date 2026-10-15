@@ -640,3 +640,13 @@ latest_scene_ho_20261014:
   hp: 11
   ac: 13
   arrows: 12
+
+latest_scene_hp_20261014:
+  transcript: sessions/transcripts/SESSION_0000_CONTINUACAO_20261014_HP.md
+  messages: 0454-0455
+  location: Casa de Bromir
+  story: Supostos sequestros mensais e retorno no dia seguinte
+  long_rest: false
+  hp: 11
+  ac: 13
+  arrows: 12
