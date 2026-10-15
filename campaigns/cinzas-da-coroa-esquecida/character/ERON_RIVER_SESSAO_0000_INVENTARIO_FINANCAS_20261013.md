@@ -59,3 +59,10 @@ Eron pagou integralmente a conta de **10 PP e 5 PC** (equivalente a **1 PO e 5 P
 - Eron **entregou 5 PO** a Bromir pela comissão do serviço e despesas da hospitalidade. Bromir aceitou e considerou as **2 PO de reparo da roda** incluídas nessa transferência. Abater **5 PO de Eron**, sem duplicar débito de 2 PO; a restituição ao anão está satisfeita por essa entrega.
 - Os 50 PO do contrato já tinham sido recebidos. Bonificação extraordinária e 8 flechas de reposição permanecem pendentes. Saldo consolidado após demais entradas e saídas históricas requer reconciliação; não inventar montante.
 - Transcrição confirmada: `sessions/transcripts/SESSION_0000_CONTINUACAO_20261015_HT.md`.
+
+## Reconciliação do saldo em HU — 2026-10-15
+- Saldo de movimentos monetários confirmados: **100 PO, 9 PP, 5 PC**.
+- Entradas: 58 PO iniciais e 50 PO de honorários quitados.
+- Saídas: 7 PP da hospedagem e primeiro desjejum, 10 PP e 5 PC no Carvalho Cinzento, 3 PP do segundo desjejum e 5 PO dadas a Bromir.
+- As 12 PO da réplica foram posteriormente entregues à Guarda, sem saldo líquido; espólio confiscado sem posse comprovada não integra este cálculo. Honorários de Oren não quitados e bonificação pendente também não alteram o saldo.
+- Fonte: transcrições da Sessão 0000, culminando em `sessions/transcripts/SESSION_0000_CONTINUACAO_20261015_HU.md`.
