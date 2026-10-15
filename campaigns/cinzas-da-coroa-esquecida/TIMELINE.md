@@ -147,3 +147,18 @@ Eron tirou 16 em Carisma (Intimidacao), total 17. Um desconhecido saiu parcialme
 - Eron autorizou avanço da escolta até o próximo problema ou a parada para dormir. Nas horas seguintes, as três carroças avançaram lentamente pela estrada Caldria–Lorn; a vigilância de Eron prosseguiu sem novo sinal de emboscada ou outra ocorrência no trecho observado. Nenhuma rolagem nova foi realizada.
 - Ao anoitecer, Orven escolheu um recuo alto de solo firme, abrigado do vento por muro baixo de pedras, e ordenou parada. Condutores começaram a cuidar dos animais e de refeição, enquanto Darin observava a estrada. Orven pediu que Eron participasse da organização das vigias; turnos ainda não acertados, descanso longo não iniciado.
 - PV 11/11, CA 13, 20 flechas, 119 PO, 9 PP e 5 PC; contrato: 8 PO restantes em Lorn. Acompanhar conforme `sessions/transcripts/SESSION_0000_CONTINUACAO_20261015_IS.md`.
+
+## IT 0514–0515 — Avaliação inicial do perímetro
+- Ao anoitecer, Eron examinou os arredores do acampamento e rolou Percepção 1d20 [2]+6=8; não detectou ameaça evidente, porém não pôde confirmar ausência de rastros. Fonte: transcript IT.
+
+## IU 0516–0517 — Escala de rondas
+- Eron escolheu a segunda ronda; Darin aceitou a primeira, por cerca de duas horas. Orven ficou de organizar as seguintes com os condutores. Fonte: transcript IU.
+
+## IV 0518–0519 — Darin acorda Eron
+- Eron dormiu cerca de duas horas; Darin o acordou para iniciar a segunda ronda e disse não ter observado movimento na estrada. Descanso longo não concluído. Fonte: transcript IV.
+
+## IW 0520–0521 — Observação do bosque
+- Eron pediu Percepção; 1d20 [7]+6=13, conforme rolagem anteriormente declarada e preservada no transcript IW. Percebeu farfalhar perto do solo na orla do bosque, sem identificar a origem. Fonte: transcript IW, roll log 80.
+
+## IX 0522–0523 — Tentativa de Furtividade
+- Eron tentou se ocultar junto ao muro e observar o bosque. Rolagem real com Python e secrets.randbelow: 1d20 [1]+6=7. Uma pedra se soltou, causando ruído no cascalho; o farfalhar cessou, sem fonte confirmada. Não houve combate, dano, gasto ou novo descanso. Fonte: transcript IX, roll log 81.
