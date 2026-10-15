@@ -25,3 +25,5 @@ Bromir sorri por trás da barba, satisfeito com o elogio, e empurra um cesto de 
 - **Linha de Missão Ativa:** Entregas concluídas; jantar com Bromir em andamento. Possível investigação futura em Lorn, sem compromisso assumido. Assuntos deixados para amanhã por decisão de Eron.
 - **Eventos Cruciais Ocorridos:** Eron decidiu jantar e adiar novas decisões. Bromir serviu ensopado; Varen elogiou a comida. Nenhum mensageiro de Haldren chegou. Bonificação, oito flechas de reposição e ressarcimento de duas peças de ouro a Bromir continuam pendentes. Nenhuma nova rolagem, combate ou descanso longo declarado.
 - **Condições do Jogador:** Eron com 11/11 PV, CA 13, 12 flechas, 1d8 de Vida e Inspiração Heroica disponíveis. Braço enfaixado sem penalidade mecânica. 50 PO contratuais recebidas; nenhum novo pagamento ou gasto de Eron.
+
+<text color="secondary" size="xs">Transcrição integral 0442–0443, índice e estado atual verificados no GitHub. Atualização do arquivo TIMELINE.md pendente por bloqueio de gravação.</text>
