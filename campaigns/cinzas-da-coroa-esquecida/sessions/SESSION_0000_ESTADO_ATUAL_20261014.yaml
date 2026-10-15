@@ -755,3 +755,7 @@ latest_scene_hu_20261015:
   arrows_replacement_pending: 8
   bromir_refund_due_gp: 0
   next_actor: "Eron"
+
+latest_scene_hv_20261015:
+  transcript: sessions/transcripts/SESSION_0000_CONTINUACAO_20261015_HV.md
+  messages: 0466-0467
