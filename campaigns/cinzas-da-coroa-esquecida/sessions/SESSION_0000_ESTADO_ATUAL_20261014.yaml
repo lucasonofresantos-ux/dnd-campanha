@@ -1129,3 +1129,48 @@ latest_scene_it_20261015:
   hit_die_available: 1d8
   escort_balance_due_gp: 8
   next_actor: Eron
+
+latest_scene_iu_20261015:
+  source: sessions/transcripts/SESSION_0000_CONTINUACAO_20261015_IU.md
+  messages: "0516-0517"
+  watch_1: Darin
+  watch_2: Eron
+  last_two_watches: "Organizadas por Orven com condutores"
+
+latest_scene_iv_20261015:
+  source: sessions/transcripts/SESSION_0000_CONTINUACAO_20261015_IV.md
+  messages: "0518-0519"
+  eron_sleep_before_second_watch_hours_approx: 2
+  darin_woke_eron: true
+  watch_2_started: true
+  long_rest_completed: false
+
+latest_scene_iw_20261015:
+  source: sessions/transcripts/SESSION_0000_CONTINUACAO_20261015_IW.md
+  messages: "0520-0521"
+  perception: "1d20 [7] +6 = 13"
+  audible_rustle: "Farfalhar proximo do solo na direcao do bosque"
+  source_identified: false
+
+latest_scene_ix_20261015:
+  source: sessions/transcripts/SESSION_0000_CONTINUACAO_20261015_IX.md
+  messages: "0522-0523"
+  location: "Junto ao muro do acampamento, estrada Caldria-Lorn"
+  daypart: "Segunda ronda noturna, inicio"
+  stealth: "1d20 [1] +6 = 7, dado natural 1"
+  stealth_reliable: false
+  noise: "Pedra solta rola no cascalho"
+  rustle_after_noise: "Cessou, origem nao identificada"
+  combat: false
+  new_damage: false
+  long_rest_completed: false
+  hp: 11
+  ac: 13
+  arrows: 20
+  gp: 119
+  sp: 9
+  cp: 5
+  heroic_inspiration: true
+  hit_die_available: 1d8
+  escort_balance_due_gp: 8
+  next_actor: Eron
