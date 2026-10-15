@@ -465,3 +465,10 @@ Arquivos produzidos nesta conferência: `transcripts/AUDITORIA_CONTINUIDADE_2026
 - A numeração de continuação após 0389 inicia em **0390 (Jogador) e 0391 (Mestre)**.
 
 [SESSION_0000_CONTINUACAO_20261014_GJ.md](transcripts/SESSION_0000_CONTINUACAO_20261014_GJ.md) — 0390–0391: retomada no quarto 6 pela manhã, após confirmação do descanso longo GI e restauração integral de GB, GD e GI. Arquivo de transcrição integral confirmado no commit `174c9d37edd59a54fedf1ed66cb742623ab3d83b`. Eron ainda não saiu do quarto; nenhum teste, gasto ou contrato adicional.
+
+## Continuação após a transferência — GK–GM (2026-10-14)
+
+- [GK — 0392–0393](transcripts/SESSION_0000_CONTINUACAO_20261014_GK.md): Eron toma banho, refaz curativo, desce ao salão; Varen está presente. Cópia de contingência sincronizada e conteúdo verificado; commit `48dfeba89d4b5058156509419d09a84e1896aa0f`.
+- [GL — 0394–0395](transcripts/SESSION_0000_CONTINUACAO_20261014_GL.md): estalajadeira relata que Bromir foi cedo às cocheiras verificar a carroça. Cópia sincronizada e verificada; commit `842341069140023c85ed2c4257a7ab8afda89fbd`.
+- [GM — 0396–0397](transcripts/SESSION_0000_CONTINUACAO_20261014_GM.md): estalajadeira verifica e informa não haver recados para Eron River; desjejum ainda não foi pedido nem pago. Arquivo criado e verificado; commit `965327bc27edd96f4e586f1f9dd17ee0dedc9c9b`.
+- As notas de 'GitHub pendente' preservadas literalmente no interior das cópias GK/GL refletem a situação **à época da fala**, não a condição atual: esses arquivos já foram sincronizados e relidos.
