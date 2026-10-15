@@ -549,3 +549,11 @@ Arquivos produzidos nesta conferência: `transcripts/AUDITORIA_CONTINUIDADE_2026
 [IR — 0510–0511](transcripts/SESSION_0000_CONTINUACAO_20261015_IR.md) — Jogador corrige explicitamente o valor de Percepção: 26 foi a rolagem ativa (d20 [20] +6); 16 é apenas valor passivo. Mestre mantém 26 para a situação observada sem interrupção, sem novo dado, e não extrapola para toda a viagem. Nota de correção: [NOTA_CORRECAO_PERCEPCAO_20261015_IR.md](NOTA_CORRECAO_PERCEPCAO_20261015_IR.md). Estado atualizado no commit `022a6f3f55c7b303df5b4fbdb016481b1c28c2f2`.
 
 [IT — 0514–0515](transcripts/SESSION_0000_CONTINUACAO_20261015_IT.md) — Ao anoitecer no local de pernoite, Eron examina arredores: Percepção `1d20 [2] +6 = 8`, executada em Python. Solo elevado, muro baixo e pequeno bosque; sinais no perímetro inconclusivos, ameaça evidente não identificada. Vigias não combinadas, descanso longo não iniciado. Transcrição confirmada em `8cbdb3ae500b34f072a1ab677173c4771e6a0da0`.
+
+[IU — 0516–0517](transcripts/SESSION_0000_CONTINUACAO_20261015_IU.md) — Eron aceita segunda ronda; Darin assume primeira por duas horas; Orven organiza as seguintes. Nenhuma ronda transcorrida na cena.
+
+[IV — 0518–0519](transcripts/SESSION_0000_CONTINUACAO_20261015_IV.md) — Eron adormece e Darin o desperta aproximadamente duas horas depois para segunda ronda; relata nenhum movimento na estrada. Descanso longo incompleto.
+
+[IW — 0520–0521](transcripts/SESSION_0000_CONTINUACAO_20261015_IW.md) — Percepção [7]+6=13 no início da segunda ronda: farfalhar próximo ao solo no bosque, origem não identificada.
+
+[IX — 0522–0523](transcripts/SESSION_0000_CONTINUACAO_20261015_IX.md) — Furtividade [1]+6=7 junto ao muro do acampamento: pedra desliza fazendo ruído; farfalhar do bosque cessa. Rolagem nº 81.
