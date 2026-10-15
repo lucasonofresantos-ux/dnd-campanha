@@ -130,3 +130,6 @@ Eron tirou 16 em Carisma (Intimidacao), total 17. Um desconhecido saiu parcialme
 
 ## IM — Erosão perto do bueiro
 - Na viagem a Lorn, Eron rolou Percepção 1d20 [20] +6 = 26, identificando uma borda de estrada escavada pela água junto ao bueiro de pedra, cerca de 40 passos à frente da primeira carroça. Não havia avisado Orven. Fonte: transcrição IM.
+
+## IN 0502–0503
+- Eron alertou Orven sobre erosão na curva junto ao bueiro. Orven parou as três carroças em segurança e confirmou com vara que a borda externa cede; passagem pelo lado interno ainda não avaliada. Nenhum dano ou travessia. Transcript IN.
