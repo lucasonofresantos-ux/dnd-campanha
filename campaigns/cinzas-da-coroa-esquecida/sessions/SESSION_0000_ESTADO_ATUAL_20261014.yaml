@@ -1062,3 +1062,17 @@ latest_scene_im_20261015:
   copper: 5
   heroic_inspiration: true
   next_actor: Eron
+
+latest_scene_in_20261015:
+  transcript: sessions/transcripts/SESSION_0000_CONTINUACAO_20261015_IN.md
+  messages: 0502-0503
+  location: Estrada para Lorn, curva com bueiro de pedra
+  orven_warned: true
+  wagons_stopped: true
+  roadway_outer_edge: eroded_by_water
+  inside_curve_passage_safety: unverified
+  wagons_damage: false
+  hp: 11
+  gp: 119
+  arrows: 20
+  next_actor: Eron
