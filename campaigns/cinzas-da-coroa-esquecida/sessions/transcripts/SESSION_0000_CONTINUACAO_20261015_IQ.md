@@ -22,4 +22,4 @@ O vento frio percorre os campos úmidos. As rodas rangem no caminho encharcado, 
 - **Eventos Cruciais Ocorridos:** Eron mantém vigilância contínua. Nenhum novo teste, combate ou gasto; Percepção passiva 16 aplicável à marcha.
 - **Condições do Jogador:** 11/11 PV, CA 13, 20 flechas; 119 PO, 9 PP e 5 PC; Inspiração Heroica e 1d8 de Vida disponíveis.
 
-*Transcrição e atualizações da continuidade registradas no GitHub, com commits confirmados.*
+*Persistência: transcrição, índice e cronologia confirmados no GitHub. A atualização do estado operacional principal ficou pendente porque a gravação foi bloqueada.*
