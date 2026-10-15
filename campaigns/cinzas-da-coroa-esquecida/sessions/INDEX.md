@@ -543,3 +543,5 @@ Arquivos produzidos nesta conferência: `transcripts/AUDITORIA_CONTINUIDADE_2026
 [Verificação do final da conversa 01.06](AUDITORIA_FINAL_CONVERSA_01_06_20261015.md) — registra o transcript IO (0504–0505) e a impossibilidade de conferir sua fidelidade literal com o chat original sem a íntegra; a auditoria não altera a cena.
 
 [IP — 0506–0507](transcripts/SESSION_0000_CONTINUACAO_20261015_IP.md) — Solicitação integral do jogador para auditar a conversa 01.06 e resposta de verificação/retomada do Mestre. Interação administrativa sem avanço de tempo, dados ou inventário; último ponto jogável continua IO 0505. Transcrição verificada em commit `b7f8a03a9456b70d0563989ae97712da60c4f1fb`.
+
+[IQ — 0508–0509](transcripts/SESSION_0000_CONTINUACAO_20261015_IQ.md) — Eron mantém vigilância durante a escolta; o resultado Percepção 26 estava limitado à detecção da erosão, e Percepção passiva 16 segue aplicável à marcha. Sem novo teste, gasto ou incidente. Transcrição literal no commit `9dc5dc90f0e3cd0910dd9f93ecb89f5b6dc0113b`.
