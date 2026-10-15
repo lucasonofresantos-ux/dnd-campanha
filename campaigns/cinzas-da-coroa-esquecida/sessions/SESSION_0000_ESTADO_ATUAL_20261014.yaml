@@ -865,3 +865,22 @@ latest_scene_ic_20261015:
   hp: 11
   arrows: 20
   gp: 119
+latest_scene_id_20261015:
+  transcript: sessions/transcripts/SESSION_0000_CONTINUACAO_20261015_ID.md
+  messages: 0482-0483
+  location: Estrada para Lorn, passagem entre taludes
+  convoy_stopped: true
+  convoy_wagons: 3
+  distance_to_low_rope: Cerca de 30 passos
+  discovered_marks: Pegadas recentes e folhagem dobrada
+  persons_seen: nenhuma
+  rope_function: desconhecida
+  attack_triggered: false
+  hp: 11
+  ac: 13
+  arrows: 20
+  money_gp: 119
+  money_pp: 9
+  money_pc: 5
+  perception_prior_total: 26
+  next_actor: Eron
