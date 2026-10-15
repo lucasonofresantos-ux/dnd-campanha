@@ -383,3 +383,17 @@ latest_scene_gv_20261014:
   extraordinary_bonus: "Sem valor fixado ou aprovação"
   haldren_investigation_report: "Custódia dos presos e provas; passagem isolada; Marek levado para atendimento sob escolta, sem novo depoimento ou boletim médico; homem de luvas negras sem identidade comprovada"
   next_actor: "Eron"
+
+latest_scene_gw_20261014:
+  transcript: "sessions/transcripts/SESSION_0000_CONTINUACAO_20261014_GW.md"
+  messages: "0416-0417"
+  location: "Sala de Haldren, com Varen e Bromir"
+  payment_contract_received_gp: 50
+  payment_verified_by_bromir: true
+  cash_total: "Anterior não conciliado; acrescentar 50 PO"
+  bonus: "A definir, não aprovada"
+  remaining_arrows: 12
+  arrow_restocks_pending: 8
+  bromir_reimbursement_pending_gp: 2
+  hero_inspiration: true
+  hp: 11
