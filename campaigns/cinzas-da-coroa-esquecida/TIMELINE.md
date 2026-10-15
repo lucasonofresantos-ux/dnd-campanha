@@ -139,3 +139,6 @@ Eron tirou 16 em Carisma (Intimidacao), total 17. Um desconhecido saiu parcialme
 
 ## IQ 0508–0509
 - Na estrada de Caldria a Lorn, após a travessia do bueiro erodido, Eron declarou que mantém a vigilância do comboio. A rolagem de Percepção 26 foi aplicada à identificação da erosão no trecho anterior e não é automaticamente prolongada pela viagem. Para a marcha ordinária, Percepção passiva 16; não houve novo teste, dano, gasto, combate ou incidente. Fonte literal: `sessions/transcripts/SESSION_0000_CONTINUACAO_20261015_IQ.md`.
+
+## IR 0510–0511 — correção do jogador
+- Após o Mestre referir Percepção passiva 16 durante a marcha, Eron esclareceu: "A percepção estava em 26 não 16". A verificação ativa previamente rolada foi d20 [20] +6 = 26 (transcrição IM 0500–0501); 16 é somente a Percepção passiva. A vigilância declarada para a mesma situação permanece associada ao teste ativo 26, sem rerrolagem; novos trechos/ameaças distintas poderão exigir novas verificações. Registro aditivo sem retificação retroativa das falas anteriores. Estado suplementado em `sessions/SESSION_0000_ESTADO_ATUAL_20261014.yaml` e nota em `sessions/NOTA_CORRECAO_PERCEPCAO_20261015_IR.md`.
