@@ -494,3 +494,20 @@ latest_scene_hd_20261014:
   arrows: 12
   payment_received_gp: 50
   other_payment_pending: true
+
+latest_scene_hf_20261014:
+  transcript: sessions/transcripts/SESSION_0000_CONTINUACAO_20261014_HF.md
+  messages: 0434-0435
+  location: Rua da Fonte em Caldria
+  companions: [Bromir, Varen]
+  first_delivery_complete: false
+  second_delivery_complete: false
+  previous_perception_total_retained: 23
+  reroll: false
+  observer: Homem de casaco castanho visto perto de arcada
+  varen_employer: Desconhecido
+  exile_revoked: Nao confirmado
+  hp: 11
+  ac: 13
+  arrows: 12
+  payment_received_gp: 50
