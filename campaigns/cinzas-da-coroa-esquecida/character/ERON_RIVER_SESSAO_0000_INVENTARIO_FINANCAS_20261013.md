@@ -71,3 +71,7 @@ Eron pagou integralmente a conta de **10 PP e 5 PC** (equivalente a **1 PO e 5 P
 - Eron recebeu **15 PO** adicionais da patrulha e **oito flechas**; bonificação e reposição quitadas.
 - Caixa agora **115 PO, 9 PP e 5 PC**; aljava **20 flechas**. Oferta anônima de 50+50 PO na carta não é dinheiro recebido.
 - Carta sem remetente e envelope com selo rompido estão em posse de Eron. Ver transcrição HW 0468–0469.
+
+## Adendo IB — escolta de Orven
+- Eron recebeu 4 PO pelo inicio da escolta; 8 PO serao pagas se a entrega ocorrer em Lorn. Alimentacao e transporte incluidos.
+- Novo saldo: 119 PO, 9 PP, 5 PC. Vinte flechas. Fonte literal: transcricao IB 0478-0479.
