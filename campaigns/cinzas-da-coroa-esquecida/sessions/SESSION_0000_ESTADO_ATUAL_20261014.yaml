@@ -564,3 +564,19 @@ latest_scene_hi_20261014:
   arrow_restocks_pending: 8
   bromir_refund_due_gp: 2
   next_actor: "Eron"
+latest_scene_hj_20261014:
+  transcript: "sessions/transcripts/SESSION_0000_CONTINUACAO_20261014_HJ.md"
+  messages: "0442-0443"
+  location: "Casa de Bromir, Caldria, fim do dia, jantar"
+  npcs_present: ["Bromir", "Varen"]
+  stew: "Servido, jantar em andamento"
+  player_intent: "Deixar decisões sobre Lorn e futuro para amanha"
+  long_rest: false
+  messenger_haldren: "Nao chegou"
+  payments: "50 PO contratados ja recebidos; bonus pendente, 8 flechas pendentes, 2 PO de ressarcimento de Bromir pendentes"
+  hp: 11
+  ac: 13
+  arrows: 12
+  hit_die_available: "1d8"
+  heroic_inspiration: true
+  next_actor: "Eron"
