@@ -6,6 +6,8 @@
 
 ## Mensagem 0397 — Mestre (texto visível)
 
+Os registros pendentes **GK e GL** foram sincronizados, e a transcrição **GM** também foi salva e verificada no GitHub.
+
 A estalajadeira enxuga as mãos no avental e se volta para um pequeno escaninho de madeira atrás do balcão. Examina os poucos bilhetes ali guardados antes de responder.
 
 — Eron River? Não, senhor. Nenhuma carta nem recado para esse nome, pelo menos até agora. Se receber alguma coisa, aviso.
