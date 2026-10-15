@@ -807,3 +807,20 @@ latest_scene_hx_20261015:
   heroic_inspiration: true
   hit_die_available: "1d8"
   next_actor: "Eron"
+
+latest_scene_ia_20261015:
+  transcript: sessions/transcripts/SESSION_0000_CONTINUACAO_20261015_IA.md
+  messages: 0476-0477
+  location: Patio de carrocas de Caldria
+  people: [Bromir, Sanna Grell, Orven Rusk]
+  escort_fee_gp: 12
+  advance_gp: 4
+  upon_arrival_gp: 8
+  food_and_wagon_seat: included
+  contract_accepted: false
+  departure: Not started
+  hp: 11
+  arrows: 20
+  gold: 115
+  silver: 9
+  copper: 5
