@@ -91,3 +91,6 @@ Eron voltou do balcão à mesa da Estalagem do Carvalho Cinzento, expressou preo
 ## HX 0470–0471
 - Eron relatou a Bromir e Varen que foi drogado e incriminado pela morte do comandante elfo, negando autoria. Versão de Eron, sem confirmação de culpado.
 - Bromir estimou cavalo de sela em 75 PO, arreios e sela em 10 a 15 PO, aluguel e entrega em Lorn sem cotação. Sem compra ou contrato. Transcrição HX.
+
+## HY–HZ — Pátio das carroças
+- Eron concluiu desjejum e foi com Bromir ao portão ocidental de Caldria; Varen permaneceu na cidade. Sanna Grell informou que três carroças para Lorn pretendem partir nesta manhã e estão sem um guarda. Eron ainda precisa acertar o contrato; chegar amanhã ao anoitecer é incerto. Transcrições HY e HZ.
