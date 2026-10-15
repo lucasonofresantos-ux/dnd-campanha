@@ -436,3 +436,25 @@ latest_scene_ha_20261014:
   heroic_inspiration: true
   hit_die_available: "1d8"
   next_actor: "Eron"
+latest_scene_hb_20261014:
+  transcript: "sessions/transcripts/SESSION_0000_CONTINUACAO_20261014_HB.md"
+  messages: "0426-0427"
+  location: "Forja do Martelo Rubro em Caldria, manha"
+  present: ["Eron", "Varen", "Bromir", "Garrik", "aprendiz"]
+  player_home_kingdom: "Valdrén, conforme ficha canonica de Eron; usuario pediu nome na fala"
+  varen_employer: "Nao revelado"
+  varen_valdren_news: "Sem noticias confiaveis"
+  brown_coat_man: "Saiu da banca em direcao ao cruzamento; nao abordou grupo; identidade desconhecida"
+  intended_ambush: "Eron sugeriu possibilidade condicional se perseguidor continuar ate a noite; nenhuma acao executada"
+  cart_repair: "Roda retirada; bucha gasta e inicio de fissura no cubo; Garrik ofereceu reparo por 5 PP ainda nao aceito nem pago"
+  deliveries: "Pendentes"
+  bromir_stew: "Prometido em sua casa, posterior as entregas"
+  hp: 11
+  ac: 13
+  arrows: 12
+  heroic_inspiration: true
+  hit_die_available: "1d8"
+  contract_gp_received: 50
+  bonus_pending: true
+  arrow_replacement_pending: 8
+  bromir_2gp_reimbursement_pending: true
