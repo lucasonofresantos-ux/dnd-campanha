@@ -669,3 +669,25 @@ latest_scene_hq_20261014:
   replacement_arrows_due: 8
   bromir_refund_due_gp: 2
   next_actor: "Eron"
+latest_scene_hr_20261014:
+  transcript: "sessions/transcripts/SESSION_0000_CONTINUACAO_20261014_HR.md"
+  messages: "0458-0459"
+  location: "Casa de Bromir, Caldria, quarto de hospedes, manha apos o descanso"
+  companions: ["Bromir", "Varen"]
+  bromir: "Acordado, prepara desjejum no terreo"
+  varen: "Acordado e conversando com Bromir no terreo"
+  long_rest_completed: true
+  rest_uninterrupted_hours: 8
+  overnight_attack: false
+  hp: 11
+  ac: 13
+  arrows: 12
+  hit_die_available: "1d8"
+  heroic_inspiration: true
+  perceptual_check_prior_23: "Vigilancia anterior ao repouso; nao transferir para periodo de sono/manhã"
+  payment_received_gp: 50
+  additional_bonus_pending: true
+  arrow_replacement_due: 8
+  bromir_refund_due_gp: 2
+  lorn_trip: "Nao iniciada; sessao 0001 ja existente nao foi avancada"
+  next_actor: "Eron"
