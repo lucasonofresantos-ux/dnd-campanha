@@ -480,3 +480,17 @@ latest_scene_hc_20261014:
   heroic_inspiration: true
   hit_die_available: "1d8"
   next_actor: "Eron"
+
+latest_scene_hd_20261014:
+  transcript: "sessions/transcripts/SESSION_0000_CONTINUACAO_20261014_HD.md"
+  messages: "0430-0431"
+  location: "Forja do Martelo Rubro"
+  deliveries: ["Rua da Fonte", "Passagem dos Curtidores"]
+  varen_employer: "Nao revelou; nao confirmou nem negou Valdrén"
+  wheel: "Reparo de 5 PP pago por Bromir, nao concluido"
+  unknown_follower: "Fora de vista"
+  hp: 11
+  ac: 13
+  arrows: 12
+  payment_received_gp: 50
+  other_payment_pending: true
