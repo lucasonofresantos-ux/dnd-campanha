@@ -962,3 +962,32 @@ latest_scene_ih_20261015:
   silver: 9
   copper: 5
   next_actor: Eron
+latest_scene_ii_20261015:
+  transcript: sessions/transcripts/SESSION_0000_CONTINUACAO_20261015_II.md
+  messages: 0492-0493
+  location: Estrada Caldria-Lorn, entre taludes, antes da armadilha acionada
+  player_position: Alguns passos a frente das tres carrocas, ainda antes do tronco e da corda
+  player_torch: apagada, emprestada, ainda segurada
+  player_ultimatum: Rendicao e passagem livre, sob ameaca de violencia
+  green_cloak_man: Maos erguidas, deixou faca embainhada sobre pedra, alegou ter armado corda para cobrar pedágio
+  green_cloak_man_identity: desconhecida
+  second_man_name: Iven
+  iven_position: Talude direito, parcialmente oculto
+  iven_weapon: Besta leve ainda empunhada
+  iven_surrendered: false
+  visible_potential_opponents: 2
+  others_possible: desconhecido
+  darin: Arco apontado, nao disparou
+  combat_started: false
+  convoy_moving: false
+  trap_fired: true
+  no_damage: true
+  new_roll: false
+  gp: 119
+  sp: 9
+  cp: 5
+  hp: 11
+  ac: 13
+  arrows: 20
+  heroic_inspiration: true
+  next_actor: Eron
