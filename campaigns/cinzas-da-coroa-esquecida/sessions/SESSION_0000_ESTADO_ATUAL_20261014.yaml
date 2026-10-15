@@ -629,3 +629,14 @@ latest_scene_hn_20261014:
   arrow_replacement_pending: 8
   bromir_refund_gp_pending: 2
   next_actor: "Eron"
+
+latest_scene_ho_20261014:
+  transcript: sessions/transcripts/SESSION_0000_CONTINUACAO_20261014_HO.md
+  messages: 0452-0453
+  location: Casa de Bromir, jantar
+  past_story: Eron contou caso de esposa supostamente sequestrada que se recusou a voltar; desfecho desconhecido
+  companions: [Bromir, Varen]
+  long_rest: false
+  hp: 11
+  ac: 13
+  arrows: 12
