@@ -317,3 +317,19 @@ latest_scene_gm_20261014:
   bonus: "Indefinida"
   new_contract: false
   next_actor: "Jogador Eron River"
+latest_scene_gn_20261014:
+  transcript: "sessions/transcripts/SESSION_0000_CONTINUACAO_20261014_GN.md"
+  last_messages: "0398-0399"
+  location: "Mesa de Varen no salão do Carvalho Cinzento"
+  breakfast: "Pão, ovos, queijo e café, servidos, não quitados"
+  breakfast_cost_sp: 3
+  perception_declared_result: 17
+  perception_dice: "1d20+6: 11 + 6 = 17; execução Python não verificável na conversa anterior"
+  stranger: "Homem desconhecido de capa de lã castanha sentado perto da janela; olhou repetidamente para Eron após ouvir seu nome; intenção desconhecida"
+  eron_hp: 11
+  armor_class: 13
+  arrows: 12
+  heroic_inspiration_available: true
+  hit_die: "1d8 disponível"
+  contract_owed_gp: 50
+  pending_player_action: true
