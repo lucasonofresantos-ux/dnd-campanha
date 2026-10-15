@@ -415,3 +415,24 @@ latest_scene_gz_20261014:
   bromir_reimbursement_pending_gp: 2
   heroic_inspiration: true
   hit_die_available: "1d8"
+latest_scene_ha_20261014:
+  transcript: "sessions/transcripts/SESSION_0000_CONTINUACAO_20261014_HA.md"
+  messages: "0424-0425"
+  location: "Diante da Forja do Martelo Rubro, Caldria"
+  present: ["Eron", "Varen", "Bromir", "Garrik", "aprendiz da forja"]
+  brown_coat: "Homem desconhecido visto sob toldo do outro lado da rua; não se aproximou"
+  varen: "Alega que não pode revelar ainda detalhes de seu trabalho; vínculo não estabelecido"
+  cart_wheel: "Garrik conferiu pino substituído como firme; suspeita de folga no encaixe de madeira do cubo"
+  repair: "Ainda não iniciado; desmontagem necessária para confirmar defeito; custo e prazo não definidos"
+  deliveries: "Pendentes até resolução da roda"
+  bromir_stew_at_home: "Prometido para depois das entregas, ainda não ocorreu"
+  eron_hp: 11
+  eron_ac: 13
+  eron_arrows: 12
+  contract_gp_received: 50
+  bonus_status: "Pendente"
+  arrow_restocks_due: 8
+  bromir_reimbursement_gp_due: 2
+  heroic_inspiration: true
+  hit_die_available: "1d8"
+  next_actor: "Eron"
