@@ -142,3 +142,8 @@ Eron tirou 16 em Carisma (Intimidacao), total 17. Um desconhecido saiu parcialme
 
 ## IR 0510–0511 — correção do jogador
 - Após o Mestre referir Percepção passiva 16 durante a marcha, Eron esclareceu: "A percepção estava em 26 não 16". A verificação ativa previamente rolada foi d20 [20] +6 = 26 (transcrição IM 0500–0501); 16 é somente a Percepção passiva. A vigilância declarada para a mesma situação permanece associada ao teste ativo 26, sem rerrolagem; novos trechos/ameaças distintas poderão exigir novas verificações. Registro aditivo sem retificação retroativa das falas anteriores. Estado suplementado em `sessions/SESSION_0000_ESTADO_ATUAL_20261014.yaml` e nota em `sessions/NOTA_CORRECAO_PERCEPCAO_20261015_IR.md`.
+
+## IS 0512–0513 — Acampamento antes do anoitecer
+- Eron autorizou avanço da escolta até o próximo problema ou a parada para dormir. Nas horas seguintes, as três carroças avançaram lentamente pela estrada Caldria–Lorn; a vigilância de Eron prosseguiu sem novo sinal de emboscada ou outra ocorrência no trecho observado. Nenhuma rolagem nova foi realizada.
+- Ao anoitecer, Orven escolheu um recuo alto de solo firme, abrigado do vento por muro baixo de pedras, e ordenou parada. Condutores começaram a cuidar dos animais e de refeição, enquanto Darin observava a estrada. Orven pediu que Eron participasse da organização das vigias; turnos ainda não acertados, descanso longo não iniciado.
+- PV 11/11, CA 13, 20 flechas, 119 PO, 9 PP e 5 PC; contrato: 8 PO restantes em Lorn. Acompanhar conforme `sessions/transcripts/SESSION_0000_CONTINUACAO_20261015_IS.md`.
