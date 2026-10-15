@@ -1108,3 +1108,24 @@ latest_scene_ir_20261015:
   arrows: 20
   money: {gp: 119, sp: 9, cp: 5}
   next_actor: Eron
+
+latest_scene_it_20261015:
+  transcript: sessions/transcripts/SESSION_0000_CONTINUACAO_20261015_IT.md
+  messages: "0514-0515"
+  location: "Acampamento no recuo alto da estrada Caldria-Lorn"
+  time: "Inicio da noite"
+  companions: [Orven Rusk, Darin, condutores]
+  perception_active_roll: "1d20 [2] +6 = 8"
+  perception_result: "Observacao inconclusiva; nenhuma ameaca evidente identificada"
+  previous_perception_26: "Resultado do trecho anterior da estrada; nao aplicado ao acampamento"
+  watch_assignments: pending
+  long_rest_started: false
+  long_rest_completed: false
+  hp: 11
+  ac: 13
+  arrows: 20
+  money: {gp: 119, sp: 9, cp: 5}
+  heroic_inspiration: true
+  hit_die_available: 1d8
+  escort_balance_due_gp: 8
+  next_actor: Eron
