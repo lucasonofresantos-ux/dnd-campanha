@@ -23,6 +23,8 @@ A luz do crepúsculo desaparece lentamente sobre as colinas. Eron examina os arr
 
 Orven continua supervisionando os preparativos, enquanto Darin permanece atento à estrada. As vigias noturnas ainda precisam ser organizadas, e ninguém começou a dormir.
 
+**Persistência:** transcrição, rolagem, índice e estado confirmados no GitHub. Cronologia suplementar confirmada; atualização da cronologia principal ficou pendente por bloqueio. Último commit: `d4b9193e`.
+
 **[LOG DE MEMÓRIA DA CAMPANHA]**
 
 - **Localização Atual:** Acampamento junto à estrada Caldria–Lorn, no início da noite.
