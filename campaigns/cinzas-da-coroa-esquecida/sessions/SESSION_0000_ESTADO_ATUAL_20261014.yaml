@@ -708,3 +708,25 @@ latest_scene_hs_20261014:
   arrows_due: 8
   bromir_reimbursement_gp_due: 2
   next_actor: Eron
+latest_scene_ht_20261015:
+  transcript: "sessions/transcripts/SESSION_0000_CONTINUACAO_20261015_HT.md"
+  messages: "0462-0463"
+  location: "Casa de Bromir, Caldria; desjejum, manha"
+  present: ["Bromir", "Varen"]
+  gold_given_to_bromir: 5
+  gold_delta_eron: -5
+  bromir_refund_gp_due: 0
+  bromir_old_repair_cost_gp: 2
+  eron_global_gold_balance: "Reconciliacao pendente de anteriores transacoes; abater 5 PO"
+  varen_employer: "Nao revelado; Varen confirma ser remunerado"
+  lorn: "Cidade de passagem no vale do rio Lorne, proxima a Valdren, ponte e pedagios, estalagem Javali de Ferro"
+  lorn_departure_decided: false
+  long_rest_completed: true
+  hp: 11
+  ac: 13
+  arrows: 12
+  hit_die_available: "1d8"
+  heroic_inspiration: true
+  extra_bonus_pending: true
+  arrows_replacement_pending: 8
+  next_actor: "Eron"
