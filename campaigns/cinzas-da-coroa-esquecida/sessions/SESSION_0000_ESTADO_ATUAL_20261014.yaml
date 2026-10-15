@@ -650,3 +650,22 @@ latest_scene_hp_20261014:
   hp: 11
   ac: 13
   arrows: 12
+latest_scene_hq_20261014:
+  transcript: "sessions/transcripts/SESSION_0000_CONTINUACAO_20261014_HQ.md"
+  messages: "0456-0457"
+  location: "Casa de Bromir, Caldria; quarto superior, noite"
+  companions: ["Bromir", "Varen"]
+  dinner: "Concluido com nova rodada de cerveja oferecida por Bromir; barril nao esvaziado"
+  lodging: "Dois colchoes e cobertores, gratuito; Varen se acomodou; Eron pode repousar"
+  long_rest_completed: false
+  lorn: "Decisao e eventual viagem adiadas para amanha"
+  hp: 11
+  ac: 13
+  arrows: 12
+  heroic_inspiration: true
+  hit_die_available: "1d8"
+  contract_gp_received: 50
+  bonus_pending: true
+  replacement_arrows_due: 8
+  bromir_refund_due_gp: 2
+  next_actor: "Eron"
