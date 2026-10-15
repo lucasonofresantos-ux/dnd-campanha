@@ -73,3 +73,7 @@ Eron voltou do balcão à mesa da Estalagem do Carvalho Cinzento, expressou preo
 - Bromir ofereceu ensopado e, entre correspondência mercantil, encontrou notícia de registros de viagem desaparecidos na estrada de Lorn. Varen mencionou que a cidade fronteiriça pode conservar informações pertinentes à ordem de exílio de Valdrén; Bromir citou a estalagem O Javali de Ferro.
 - Este é somente um gancho para a **Sessão 0001 preexistente, no acesso ocidental de Lorn**: Eron ainda não decidiu viajar nem aceitou missão; não forçar ruptura com Varen ou Bromir, nem alterar os recursos distintos da abertura antiga sem reconciliação explícita da continuidade.
 - Fonte: `sessions/transcripts/SESSION_0000_CONTINUACAO_20261014_HI.md`, mensagens 0440–0441, transcrição verificada.
+## Continuação HQ — Fim do jantar e repouso disponível
+- Eron quis terminar o ensopado e brincou que esvaziaria barril de cerveja para não ouvir Bromir roncar. Bromir protestou e ofereceu outra rodada, sem esvaziar o estoque.
+- O jantar terminou, Varen subiu ao quarto e acomodou pertences junto a um dos dois colchões oferecidos; Eron também tem acesso ao quarto e ainda pode se recolher. Descanso longo não concluído; manhã não chegou, nenhum recurso restaurado.
+- Acontecimentos da Sessão 0000 preservados, sem antecipar a Sessão 0001 em Lorn. Transcrição: `sessions/transcripts/SESSION_0000_CONTINUACAO_20261014_HQ.md`.
