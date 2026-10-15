@@ -458,3 +458,25 @@ latest_scene_hb_20261014:
   bonus_pending: true
   arrow_replacement_pending: 8
   bromir_2gp_reimbursement_pending: true
+latest_scene_hc_20261014:
+  transcript: "sessions/transcripts/SESSION_0000_CONTINUACAO_20261014_HC.md"
+  messages: "0428-0429"
+  location: "Forja do Martelo Rubro, Caldria, manhã"
+  present: ["Eron", "Varen", "Bromir", "Garrik", "aprendiz"]
+  wheel_repair: "Bromir aceitou serviço de 5 PP, pago de sua própria bolsa; Garrik e aprendiz iniciaram substituição da bucha e reforço do cubo, ainda não concluído"
+  spent_by_bromir_sp: 5
+  spent_by_eron_sp: 0
+  stranger: "Homem de casaco castanho virou esquina, fora de vista, identidade e intenção desconhecidas"
+  varen: "Afirma que ameaça não assegura verdade; continua sem revelar empregador"
+  intended_confrontation: "Nenhum contato ou emboscada concretizado; somente conversa hipotética"
+  deliveries: "Ainda pendentes do reparo da roda"
+  eron_hp: 11
+  armor_class: 13
+  arrows_remaining: 12
+  contract_gp_received: 50
+  bonus_pending: true
+  arrow_restocks_pending: 8
+  bromir_refund_pending_gp: 2
+  heroic_inspiration: true
+  hit_die_available: "1d8"
+  next_actor: "Eron"
