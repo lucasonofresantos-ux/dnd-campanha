@@ -941,3 +941,24 @@ latest_scene_ig_20261015:
   money_pp: 9
   money_pc: 5
   next_actor: Eron
+latest_scene_ih_20261015:
+  transcript: sessions/transcripts/SESSION_0000_CONTINUACAO_20261015_IH.md
+  messages: 0490-0491
+  location: Estrada de Lorn, passagem estreita entre taludes
+  intimidation_check: "1d20 [16] +1 = 17, informado pelo jogador"
+  unknown_man_visible: "Parcialmente por tras de carvalho no talude esquerdo, aprox. 20 passos, capa verde-escura, faca embainhada, maos vazias levantadas"
+  unknown_man_surrendered: false
+  unknown_man_intent: Deseja conversar com Eron
+  other_hostiles_identified: false
+  darin: Arco apontado ao homem, sem disparar
+  orven_and_caravan: Parados e protegidos, nenhum dano
+  torch_status: Na mao de Eron, acesa, nao lancada
+  forest_fire: false
+  roadway: Tronco ainda obstrui parcialmente
+  hp: 11
+  ac: 13
+  arrows: 20
+  gold: 119
+  silver: 9
+  copper: 5
+  next_actor: Eron
