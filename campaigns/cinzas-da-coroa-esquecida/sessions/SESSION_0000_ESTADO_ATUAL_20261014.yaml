@@ -1076,3 +1076,22 @@ latest_scene_in_20261015:
   gp: 119
   arrows: 20
   next_actor: Eron
+latest_scene_io_20261015:
+  transcript: sessions/transcripts/SESSION_0000_CONTINUACAO_20261015_IO.md
+  messages: 0504-0505
+  location: Estrada Caldria-Lorn, apos a curva do bueiro
+  orven_directed_crossing: true
+  internal_lane_checked: true
+  wagons_crossed: 3
+  wagons_moving: true
+  wagons_damage: false
+  goods_lost: false
+  delay_minutes_approx: 30
+  planned_road_repair_warning_in_lorn: Orven
+  perception_passive: 16
+  hp: 11
+  arrows: 20
+  gp: 119
+  sp: 9
+  cp: 5
+  next_actor: Eron
