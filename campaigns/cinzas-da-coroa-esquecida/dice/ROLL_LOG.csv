@@ -53,3 +53,4 @@ cinzas-da-coroa-esquecida,0000,68,dano_raio_vigia,mestre_resultado_declarado,2 2
 cinzas-da-coroa-esquecida,0000,69,ataque_arco_critico_vigia_final,jogador,20,,20,4,24,true,Natural 20; o jogador declarou resultado 20
 cinzas-da-coroa-esquecida,0000,70,dano_critico_arco_vigia_final,mestre_resultado_declarado,5 3,,8,2,10,false,2d6+2 alegado Python; execução não verificável; vigia neutralizado
 cinzas-da-coroa-esquecida,0000,71,percepcao_observar_hospedes_carvalho_cinzento,mestre_resultado_declarado,11,,11,6,17,false,"Resultado 1d20+6=17 apresentado na mensagem 0399; execução Python NÃO verificável no histórico; não rerrolar; homem de capa castanha observado"
+cinzas-da-coroa-esquecida,0000,72,percepcao_possivel_perseguicao_sede_patrulha,mestre_resultado_declarado,11,,11,6,17,false,"Resultado declarado no transcript GS 0409 como Python secrets.randbelow; execução original não auditável nesta retomada; homem de capa castanha avistado perto da patrulha"
