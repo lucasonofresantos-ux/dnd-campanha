@@ -66,3 +66,8 @@ Eron pagou integralmente a conta de **10 PP e 5 PC** (equivalente a **1 PO e 5 P
 - Saídas: 7 PP da hospedagem e primeiro desjejum, 10 PP e 5 PC no Carvalho Cinzento, 3 PP do segundo desjejum e 5 PO dadas a Bromir.
 - As 12 PO da réplica foram posteriormente entregues à Guarda, sem saldo líquido; espólio confiscado sem posse comprovada não integra este cálculo. Honorários de Oren não quitados e bonificação pendente também não alteram o saldo.
 - Fonte: transcrições da Sessão 0000, culminando em `sessions/transcripts/SESSION_0000_CONTINUACAO_20261015_HU.md`.
+
+## Adendo HW — bonificação e flechas
+- Eron recebeu **15 PO** adicionais da patrulha e **oito flechas**; bonificação e reposição quitadas.
+- Caixa agora **115 PO, 9 PP e 5 PC**; aljava **20 flechas**. Oferta anônima de 50+50 PO na carta não é dinheiro recebido.
+- Carta sem remetente e envelope com selo rompido estão em posse de Eron. Ver transcrição HW 0468–0469.
