@@ -17,3 +17,15 @@ O anão não consegue mais segurar a gargalhada.
 Varen se inclina para trás na cadeira, sorrindo.
 
 — O interessante é que você encontrou exatamente a mulher que procurava, mas não a situação que seu contratante descreveu. — Ele ergue a caneca na direção de Eron. — Parece que nós três temos histórias sobre o perigo de acreditar na primeira versão dos fatos.
+
+— Ora, não estrague a história com lições de investigador! — protesta Bromir. — Quero saber é se o marido conseguiu convencê-la a sair de lá!
+
+O fogo estala na lareira enquanto Bromir aguarda, ainda rindo. Varen observa Eron com evidente curiosidade; ninguém mais interrompe a conversa.
+
+**[LOG DE MEMÓRIA DA CAMPANHA]**
+
+- **Localização Atual:** Casa de Bromir, Caldria, à noite; conversa durante o jantar.
+- **NPCs Presentes e Relação:** Bromir, amigo e anfitrião; Varen, aliado, ambos ouvindo a história de Eron.
+- **Linha de Missão Ativa:** Entregas concluídas. Notícias sobre Lorn e situação do exílio em Valdrén adiadas para amanhã; nenhuma missão nova aceita.
+- **Eventos Cruciais Ocorridos:** Eron contou um episódio de seu passado: foi contratado por um homem que alegou que a esposa fora sequestrada; encontrou-a numa região de ladrões, onde ela se recusou a voltar, embora o marido ainda a tivesse procurado. O significado exato de “dando um trato nos homens” e o desfecho não foram esclarecidos. Bromir e Varen reagiram à história. Nenhum teste ou descanso longo.
+- **Condições do Jogador:** 11/11 PV, CA 13, 12 flechas; 1d8 de Vida e Inspiração Heroica disponíveis. Braço enfaixado, sem penalidade. 50 PO contratuais recebidas; bonificação, oito flechas de reposição e ressarcimento de duas PO a Bromir pendentes. Nenhum novo gasto.
