@@ -901,3 +901,23 @@ latest_scene_ie_20261015:
   silver: 9
   copper: 5
   next_actor: Eron
+latest_scene_if_20261015:
+  transcript: sessions/transcripts/SESSION_0000_CONTINUACAO_20261015_IF.md
+  messages: 0486-0487
+  location: Estrada de Caldria a Lorn, passagem entre taludes
+  player_roll: "1d20+2 -> [19] +2 = 21; Python secrets.randbelow"
+  branch_struck_rope: true
+  trap: Tronco suspenso oscilante acionado
+  convoy_stopped: true
+  people_or_horses_hit: false
+  rope_tension: frouxa
+  roadway: parcialmente_obstruida
+  additional_traps: desconhecidas
+  culprits: desconhecidos
+  hp: 11
+  ac: 13
+  arrows: 20
+  gold: 119
+  silver: 9
+  copper: 5
+  next_actor: Eron
