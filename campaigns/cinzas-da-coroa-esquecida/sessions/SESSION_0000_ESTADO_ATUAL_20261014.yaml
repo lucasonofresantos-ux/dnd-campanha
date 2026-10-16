@@ -1791,3 +1791,16 @@ latest_scene_kq_20261016:
   hp: 11
   money: {gp: 125, sp: 6, cp: 5}
   next_actor: Eron
+
+latest_scene_kr_20261016:
+  transcript: sessions/transcripts/SESSION_0000_CONTINUACAO_20261016_KR.md
+  scene: "Eron se revelou a cerca de 12 metros de homem de casaco preto junto a porta de servico, Casa das Balancas, amanhecer"
+  claimed_name: "Veler Sann"
+  identity_verified: false
+  claim: "Pagou Darrik para observar Eron"
+  darrik: "Perto do portao, calado"
+  eron_hidden: false
+  no_combat: true
+  money: {gp: 125, sp: 6, cp: 5}
+  hp: 11
+  next_actor: Eron
