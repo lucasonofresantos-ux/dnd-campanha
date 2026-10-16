@@ -49,3 +49,10 @@ Local: acesso ocidental da cidade de Lorn, Caldria; fim da tarde chuvoso de outo
 - Maelis ainda não retirou curativo nem realizou exame; aguardando consentimento e esclarecimento de sintomas, sem cura ou gasto.
 - Sem alterações: **11/11 PV**, CA 13, 20 flechas; **127 PO, 2 PP, 5 PC**, Inspiração Heroica e 1d8 de Vida disponíveis.
 - Referência: sessions/transcripts/SESSION_0000_CONTINUACAO_20261016_KC.md.
+
+## Atualizacao operacional KD
+- Em Lorn, capela da Senhora das Aguas, Eron consentiu em exame do braco e relatou ausencia de dor e movimentacao normal.
+- Irma Maelis examinou pontos inicialmente feitos por Orsik e reforcados por Oren: bordas unidas, sem secrecao ou sinais evidentes de infeccao; discreta vermelhidao. Limpou e trocou faixa, sem retirar pontos.
+- Recomenda poupar o braco por mais alguns dias. Nao houve cura mecanica de PV, pagamento nem doacao.
+- **11/11 PV**, CA 13, 20 flechas; **127 PO, 2 PP, 5 PC**, Inspiracao Heroica e 1d8 de Vida disponiveis.
+- Fonte: sessions/transcripts/SESSION_0000_CONTINUACAO_20261016_KD.md.
