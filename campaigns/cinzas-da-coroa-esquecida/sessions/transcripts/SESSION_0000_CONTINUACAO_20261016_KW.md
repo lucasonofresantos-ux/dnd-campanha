@@ -22,3 +22,13 @@ Ele faz uma pausa, olhando novamente para a mão de Eron.
 — E essa moeda, River? O que pretende fazer com ela?
 
 A porta de serviço permanece aberta. Veler não se aproximou nem sacou qualquer arma.
+
+<text color="secondary" size="xs">Registro: a mensagem 0625 de Eron foi salva no GitHub, commit `16a99c9`. A transcrição da resposta 0626 não pôde ser concluída devido ao bloqueio da gravação; permanece pendente de sincronização.</text>
+
+**[LOG DE MEMÓRIA DA CAMPANHA]**
+
+- **Localização Atual:** Pátio dos fundos da Casa das Balanças, Lorn, ao amanhecer.
+- **NPCs Presentes e Relação:** Veler Sann, cauteloso e desconfiado; Darrik já dispensado.
+- **Linha de Missão Ativa:** Localizar Tomas Rell e o cilindro de mapas; investigar quem soube antecipadamente da chegada de Eron.
+- **Eventos Cruciais Ocorridos:** Eron exige a procedência das informações e pega uma moeda. Veler afirma ter recebido um bilhete sem assinatura, dois dias antes, por intermédio de alguém vindo da estrada ocidental. Não revela o portador. Essas declarações não foram verificadas.
+- **Condições do Jogador:** 11/11 PV; CA 13; 20 flechas; saldo registrado de 125 PO, 6 PP e 5 PC. Uma moeda está na mão de Eron, sem valor especificado ou gasto confirmado. Inspiração Heroica disponível. Sem combate ou novas rolagens.
