@@ -1583,3 +1583,21 @@ latest_scene_kb_20261016:
   dice: none
   hp: 11
   next_actor: Eron
+
+latest_scene_kc_20261016:
+  source: sessions/transcripts/SESSION_0000_CONTINUACAO_20261016_KC.md
+  messages: "0585-0586"
+  location: "Capela da Senhora das Aguas, Lorn"
+  npc: "Irma Maelis"
+  wound_initial_surgeon: "Doutor Orsik em Caldria"
+  elapsed_according_to_eron: "Aproximadamente quatro dias"
+  subsequent_treatment: "Doutor Oren refez um ponto solto no Armazem dos Oleiros, Caldria"
+  examination_done: false
+  permission_to_remove_bandage_pending: true
+  question_pending: "Dor, calor ou dificuldade para movimentar os dedos?"
+  new_dice_rolls: false
+  hp: 11
+  ac: 13
+  arrows: 20
+  money: {gp: 127, sp: 2, cp: 5}
+  next_actor: Eron
