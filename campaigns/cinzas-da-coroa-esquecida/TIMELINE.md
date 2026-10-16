@@ -171,3 +171,6 @@ Eron tirou 16 em Carisma (Intimidacao), total 17. Um desconhecido saiu parcialme
 - Eron alertou Orven sobre um possível movimento entre as árvores (origem não confirmada). Orven permaneceu atento ao setor, sem mandar ninguém investigar no escuro. Eron comeu um pão coberto pelas provisões do contrato e foi dormir.
 - Terceira ronda: Orven; quarta: um cocheiro. Não houve ocorrência que exigisse acordar Eron. Darin o chamou ao amanhecer, quando as carroças ainda estavam estacionadas, intactas, e os condutores preparavam a partida. A origem do farfalhar não foi determinada.
 - Descanso longo concluído: ~2 h de sono antes da vigia, ~2 h de vigia e ~4 h adicionais dormindo. PV 11/11, CA 13, 20 flechas; 119 PO, 9 PP, 5 PC; Inspiração Heroica e 1d8 disponíveis. Sem débito de rações pessoais, já que o contrato inclui alimentação. Fonte: `sessions/transcripts/SESSION_0000_CONTINUACAO_20261015_IZ.md`.
+
+## JB 0530–0531
+- Eron expressou desconfiança dos resultados baixos e solicitou rolar ele próprio o dado de Percepção. Mestre indicou 1d20+6 e aguarda resultado natural de 1 a 20 do jogador. Não houve nova rolagem, avanço da cena ou consumo de recursos.
