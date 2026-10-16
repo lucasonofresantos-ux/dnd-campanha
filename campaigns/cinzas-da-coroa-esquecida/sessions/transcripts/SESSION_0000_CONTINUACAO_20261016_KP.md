@@ -53,3 +53,7 @@ A **Casa das Balanças** surge além do velho moinho: um edifício de pedra escu
 Com sua percepção aguçada, nota algo que um transeunte provavelmente ignoraria: **um sujeito de boné de couro permanece junto à janela de um depósito no andar superior**. Ele olha repetidamente para a rua e para o portão, mas não demonstra interesse nas cargas. Pode estar vigiando o local; Eron ainda não tem como confirmar sua ligação com Darrik ou Veler.
 
 Pouco depois, quando o céu começa a clarear, **Darrik aparece**. Vem sozinho, com a capa cinza-amarronzada fechada até o pescoço. Aguarda junto ao portão por alguns instantes.
+
+Um homem alto e magro sai pela porta de serviço. Usa casaco preto, cabelos castanhos bem curtos e, quando vira o rosto para a luz nascente, Eron distingue **o olho esquerdo esbranquiçado** descrito por Darrik. Um anel de cobre também reluz em sua mão esquerda. A descrição coincide, embora a identidade ainda dependa de confirmação.
+
+Darrik aproxima-se e começa seu relato. Apesar da distância, Eron consegue distinguir partes da conversa.
