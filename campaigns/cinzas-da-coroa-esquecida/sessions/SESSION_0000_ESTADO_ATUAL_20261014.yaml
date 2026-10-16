@@ -1322,3 +1322,41 @@ latest_scene_jd_20261015:
   heroic_inspiration: true
   hit_die_available: 1d8
   next_actor: Eron
+
+latest_scene_je_20261015:
+  source: sessions/transcripts/SESSION_0000_CONTINUACAO_20261015_JE.md
+  messages: "0536-0537"
+  location: "Recuo junto ao riacho, estrada Caldria-Lorn"
+  eron_asked_orven_to_hurry: true
+  observation_roll_kept: 25
+  convoy_ready_to_leave: true
+  convoy_departed_at_je: false
+  prior_transcript_completion_pending: true
+
+latest_scene_jf_20261015:
+  source: sessions/transcripts/SESSION_0000_CONTINUACAO_20261015_JF.md
+  messages: "0538-0539"
+  location: "Posto de fiscalizacao de entrada de Lorn"
+  daypart: "Fim de tarde do dia seguinte ao pernoite"
+  from_location: "Recuo junto ao riacho, estrada Caldria-Lorn"
+  convoy_wagons: 3
+  convoy_departed_riacho: true
+  convoy_stopped_at_checkpoint: true
+  player_stayed_with_convoy: true
+  perception_roll_reused: 25
+  perception_scope: "Vigilancia continua da estrada e do comboio no trecho de viagem ate Lorn"
+  new_roll: false
+  threat_detected_en_route: false
+  tracks_near_riacho_source_known: false
+  checkpoint_guard_request: "Documentos da carga solicitados a Orven"
+  cargo_delivered: false
+  escort_payment_due_gp: 8
+  hp: 11
+  ac: 13
+  arrows: 20
+  gp: 119
+  sp: 9
+  cp: 5
+  heroic_inspiration: true
+  hit_die_available: 1d8
+  next_actor: Eron
