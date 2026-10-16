@@ -11,3 +11,5 @@ Provavelmente deve ter mudado muita coisa, mas não tenho saudades de lá. Viver
 Vou conferir a última cena registrada e o que Veler poderia saber sobre Lorn. Depois continuo a conversa sem antecipar segredos da campanha e salvo a nova troca no GitHub.
 
 ## Mensagem 0648 — Mestre (resposta)
+
+Veler termina de mastigar antes de responder. A atendente passa com uma cesta de pão e o ranger da porta deixa entrar por um instante o ar úmido da manhã. Ele apoia os antebraços na mesa.
