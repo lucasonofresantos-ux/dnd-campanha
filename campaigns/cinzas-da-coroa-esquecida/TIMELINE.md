@@ -292,3 +292,10 @@ Eron deixou a carroca e dirigiu-se verbalmente ao homem de olho esquerdo esbranq
 - KY: Eron cogita não jogar a moeda, pergunta o ofício de Tomas e questiona o interesse de Valdrén após anos longe. Veler descreve Tomas como transportador de documentos/registros/encomendas, sem saber destino; separa a estrada ocidental de qualquer prova de envolvimento da guarda de Valdrén, mantém identidade da fonte reservada.
 - Pátio da Casa das Balanças, amanhecer. Eron e Veler visíveis, a aproximadamente 12 m; Darrik dispensado; porta de serviço aberta. PV 11/11, CA 13, 20 flechas, 125 PO 6 PP 5 PC. Nenhum teste, dano, combate, gasto ou lançamento de moeda.
 - Transcrições: sessions/transcripts/SESSION_0000_CONTINUACAO_20261016_KW.md, KX.md e KY.md.
+
+## LC 0637–0638 — Chegada à Roda Parada
+- Eron aceita acompanhar Veler e mantém vigilância dos arredores até entrar na taberna. Percepção passiva 16 durante o trajeto; resultado 20 de LB não reaplicado como teste contínuo.
+- Percurso pelas ruas de Lorn até perto do velho moinho, sem sinal evidente de perseguição ou nova aparição do observador de boné de couro. Ausência de sinal não confirma ausência de observação.
+- Veler conduz Eron à taberna A Roda Parada, com atendente de avental e dois trabalhadores. Paga duas cervejas com moedas próprias, enquanto são servidas, e indica mesa lateral. Nenhum gasto, consumo ou assento escolhido pelo personagem jogador.
+- PV Eron 11/11; CA 13; 20 flechas; 125 PO 6 PP 5 PC. Sem testes novos, combate, dano ou condição.
+- Transcrição: sessions/transcripts/SESSION_0000_CONTINUACAO_20261016_LC.md.
