@@ -318,3 +318,8 @@ Eron deixou a carroca e dirigiu-se verbalmente ao homem de olho esquerdo esbranq
 - São percepções e alertas do NPC, não comprovação de fraude específica, perseguição ou emboscada.
 - Conversa segue na taberna A Roda Parada, pela manhã; sem nova rolagem, deslocamento, combate, dano, recursos consumidos ou despesas. Eron 11/11 PV, CA 13, 20 flechas; 125 PO, 4 PP, 5 PC.
 - Transcrição: sessions/transcripts/SESSION_0000_CONTINUACAO_20261016_LH.md.
+
+## LJ 0651–0652 — Guarita na Ponte Velha
+- Eron deslocou-se atento e furtivamente desde as ruas de Lorn até a antiga guarita. Dados Python secrets.randbelow: Percepção 1d20 [8]+6=14 (101); Furtividade 1d20 [5]+6=11 (102).
+- Não identificou seguidor persistente; notou sombra na portinhola da guarita. Cascalho estalou sob sua bota, podendo alertar quem estiver ali.
+- Terminou ao lado de muro baixo oferecendo cobertura parcial a cerca de 25m da guarita. Sem entrada, combate, gasto ou dano; 11/11 PV, CA13, 20 flechas, 125 PO 4 PP 5 PC. Transcript LJ.
