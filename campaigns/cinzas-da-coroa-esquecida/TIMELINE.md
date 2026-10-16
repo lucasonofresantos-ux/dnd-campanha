@@ -162,3 +162,7 @@ Eron tirou 16 em Carisma (Intimidacao), total 17. Um desconhecido saiu parcialme
 
 ## IX 0522–0523 — Tentativa de Furtividade
 - Eron tentou se ocultar junto ao muro e observar o bosque. Rolagem real com Python e secrets.randbelow: 1d20 [1]+6=7. Uma pedra se soltou, causando ruído no cascalho; o farfalhar cessou, sem fonte confirmada. Não houve combate, dano, gasto ou novo descanso. Fonte: transcript IX, roll log 81.
+
+## IY 0524–0525 — Troca de guarda após segunda ronda
+- Eron aguardou no muro, vigiando durante aproximadamente duas horas. O ruído anterior do bosque não se repetiu, e nenhuma ameaça se aproximou do acampamento. A origem do farfalhar continua desconhecida. Sem teste adicional, combate, dano ou perdas.
+- Orven assumiu a terceira ronda e indicou que um cocheiro cobrirá a quarta. Perguntou a Eron se havia algo a relatar; resposta ainda pendente. Eron havia dormido aproximadamente 2h antes da vigia de 2h e ainda não completou descanso longo. Fonte: `sessions/transcripts/SESSION_0000_CONTINUACAO_20261015_IY.md`.
