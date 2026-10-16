@@ -11,3 +11,5 @@ Esperando notícias não, mas é bom se manter informado, sim, achamos uma armad
 Vou conferir o que já está estabelecido sobre a coroa de Valdrén e a armadilha na estrada, para que Veler responda apenas com notícias que poderia conhecer. Também vou tentar sincronizar a conversa anterior antes de registrar esta nova troca.
 
 ## Mensagem 0646 — Mestre (narração visível)
+
+Veler interrompe o movimento da colher quando Eron descreve a armadilha. Sua expressão, até então descontraída, endurece.
