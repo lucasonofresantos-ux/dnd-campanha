@@ -21,3 +21,7 @@ Veler abaixa um pouco a voz.
 — Quanto ao homem que me trouxe o bilhete, vou tentar encontrá-lo e transmitir seu pedido. Não posso garantir que aceite conversar com você. Se aceitar, mandarei um recado ao **Javali de Ferro**, onde Darrik disse que está hospedado. Assim não precisará ficar me procurando pela cidade.
 
 Ele parte um pedaço de pão, mas interrompe o gesto antes de levá-lo à boca.
+
+— Um conselho, já que pretende procurar Tomas: comece perguntando pelo registro de passagem naquela guarita. Se ele transportava documentos, talvez alguém tenha anotado a carga ou a direção que tomou. E tome cuidado com quem lhe oferece informações de graça. Às vezes, querem apenas conduzi-lo a algum lugar.
+
+Veler volta a atenção ao próprio prato, deixando Eron à vontade para prosseguir ou encerrar a conversa. **A informação sobre a guarita é um relato de segunda mão, não um avistamento confirmado pelo Mestre.**
