@@ -31,3 +31,6 @@ Veler volta a atenção ao próprio prato, deixando Eron à vontade para prosseg
 - **Localização Atual:** Taberna A Roda Parada, perto do velho moinho, Lorn; desjejum servido, amanhecer.
 - **NPCs Presentes e Relação:** Veler Sann, interlocutor reservado e relativamente cordial. Atendente da taberna e dois trabalhadores no salão.
 - **Linha de Missão Ativa:** Investigar Tomas Rell, o cilindro de mapas e a origem do bilhete que antecipou a chegada de Eron.
+
+- **Eventos Cruciais Ocorridos:** Eron perguntou o último paradeiro conhecido de Tomas e pediu a Veler que organizasse encontro com o portador da mensagem. Veler relata informação de segunda mão sobre guarita de pedágio na estrada ocidental, antes da Ponte Velha, há cerca de quatro dias, e promete tentar contatar o mensageiro; encontro não garantido. Se houver resposta, diz que enviará recado ao Javali de Ferro. A comida encomendada chegou.
+- **Condições do Jogador:** 11/11 PV; CA 13; 20 flechas; 125 PO, 4 PP e 5 PC, após desjejum pago na mensagem 0640. Inspiração Heroica e 1d8 disponíveis; sem dano, condição, rolagem ou novo gasto. Eron ainda não saiu da taberna nem há consumo de refeição narrado.
