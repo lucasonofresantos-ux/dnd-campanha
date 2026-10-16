@@ -59,6 +59,8 @@ Darrik permanece junto ao portão, em silêncio. Veler está a aproximadamente d
 
 A cena permanece congelada nesse ponto, aguardando a decisão de Eron. Não houve novo teste, dano, gasto ou avanço temporal.
 
+**Registro desta retomada:** transcrição salva no GitHub, com commit confirmado `70d63f4` e índice atualizado.
+
 **[LOG DE MEMÓRIA DA CAMPANHA]**
 
 - **Localização Atual:** Pátio dos fundos da Casa das Balanças, Lorn, ao amanhecer; Eron visível, a aproximadamente 12 metros de Veler.
