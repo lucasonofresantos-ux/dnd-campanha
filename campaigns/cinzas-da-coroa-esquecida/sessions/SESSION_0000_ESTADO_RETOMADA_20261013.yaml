@@ -858,3 +858,30 @@ current_scene_kv_20261016:
   resource_changes_this_interaction: false
   combat: false
   awaiting_player_action: true
+
+current_scene_ky_20261016:
+  campaign_id: cinzas-da-coroa-esquecida
+  session: 0
+  transcript_current: sessions/transcripts/SESSION_0000_CONTINUACAO_20261016_KY.md
+  last_confirmed_message: "0630 — Mestre"
+  location: "Casa das Balanças, pátio dos fundos, Lorn"
+  time: "Amanhecer"
+  eron: "Visível diante de Veler a aproximadamente 12 metros; segura uma moeda de valor não especificado, ainda não lançada"
+  veler_sann: "Afirma conhecer portador do bilhete sem identificar; diz não saber cidade de origem imediata de Eron; escolheu coroa; declarou que Tomas transportava documentos e encomendas"
+  information_unverified: "Origem do bilhete, local de envio, conteúdo alegado, contratante e razões do interesse de Veler são apenas declarações do NPC"
+  darrik: "Foi dispensado e se afastou pela rua"
+  observer_upstairs: "Não voltou à janela"
+  door: "Porta de serviço aberta atrás de Veler"
+  active_quests: ["Investigar Tomas Rell e cilindro de mapas", "Descobrir origem do bilhete sobre Eron"]
+  hp_current: 11
+  hp_max: 11
+  armor_class: 13
+  arrows: 20
+  coins: {gp: 125, sp: 6, cp: 5}
+  coin_in_hand: "uma moeda, denominação não declarada, ainda integra inventário"
+  heroic_inspiration_available: true
+  hit_dice_available: "1d8"
+  rolls_current_exchange: 0
+  combat: false
+  resources_consumed: false
+  awaiting_player_action: true
