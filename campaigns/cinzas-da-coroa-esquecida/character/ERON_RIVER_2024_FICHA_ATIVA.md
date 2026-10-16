@@ -67,3 +67,9 @@ Local: acesso ocidental da cidade de Lorn, Caldria; fim da tarde chuvoso de outo
 - **Furtividade 1d20 [17]+6=23**, rolagem Python nº 94. Nao gastar recursos nem alterar status medico ou saldo.
 - **11/11 PV**, CA 13, 20 flechas, **126 PO, 8 PP, 5 PC**, Inspiracao Heroica e dado de Vida 1d8 disponiveis; suturas fechadas com curativo limpo, carta e chave em posse.
 - Fonte: sessions/transcripts/SESSION_0000_CONTINUACAO_20261016_KF.md.
+
+## Atualizacao operacional KG
+- Eron saiu voluntariamente do esconderijo no beco próximo ao Javali de Ferro, permaneceu a cerca de 6 m de homem com capa cinza-amarronzada, fivela metálica no ombro esquerdo e cicatriz antiga no queixo. Está visível, atento a combate, mas sem ataque nem arma sacada declarados.
+- O homem afirma ter seguido Eron desde a chegada a Lorn em troca de dinheiro para observar movimentos e contatos; identidade do contratante e veracidade da explicação **não confirmadas**.
+- Sem início de combate ou testes novos. **11/11 PV, CA 13, 20 flechas; 126 PO, 8 PP e 5 PC.** Inspiração Heroica e dado 1d8 disponíveis; curativo limpo, carta e chave mantidos.
+- Fonte: sessions/transcripts/SESSION_0000_CONTINUACAO_20261016_KG.md.
