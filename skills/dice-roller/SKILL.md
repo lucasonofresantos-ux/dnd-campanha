@@ -22,3 +22,7 @@ Suporta d4, d6, d8, d10, d12, d20, d100, de 1 a 100 dados, modificador inteiro. 
 4. Registre rolagens relevantes em `dice/ROLL_LOG.csv` segundo o formato já existente no projeto; não reescreva registros antigos.
 5. Caso o executor não esteja disponível, informe a limitação e peça uma rolagem externa; não simule.
 6. Não altere resultados para proteger personagens ou forçar a narrativa.
+
+## Rolador visual reutilizável no ChatGPT
+
+Quando o jogador pedir para **mostrar/abrir um rolador de dados na conversa**, consultar `skills/dice-roller/ROLADOR_VISUAL_D20.md` e recriar a interface visual lá documentada, com dado d20 azul, modificador ajustável (Percepção de Eron +6 por padrão), resultado e opção de enviar à campanha. O modelo distingue sorteio local via `Math.random()` de execução Python auditável via `secrets.randbelow`; nunca afirmar equivalência nem inventar resultados. Aceitar a face natural do dado físico/Roll20 do jogador sem rerrolar e aplicar o bônus da ficha. Atualizar a transcrição literal, ficha/estado e o log da campanha ao receber o resultado.
