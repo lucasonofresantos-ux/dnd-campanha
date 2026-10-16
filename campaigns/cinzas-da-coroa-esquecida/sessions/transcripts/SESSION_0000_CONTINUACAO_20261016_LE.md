@@ -25,3 +25,9 @@ Ele parte um pedaço de pão, mas interrompe o gesto antes de levá-lo à boca.
 — Um conselho, já que pretende procurar Tomas: comece perguntando pelo registro de passagem naquela guarita. Se ele transportava documentos, talvez alguém tenha anotado a carga ou a direção que tomou. E tome cuidado com quem lhe oferece informações de graça. Às vezes, querem apenas conduzi-lo a algum lugar.
 
 Veler volta a atenção ao próprio prato, deixando Eron à vontade para prosseguir ou encerrar a conversa. **A informação sobre a guarita é um relato de segunda mão, não um avistamento confirmado pelo Mestre.**
+
+**[LOG DE MEMÓRIA DA CAMPANHA]**
+
+- **Localização Atual:** Taberna A Roda Parada, perto do velho moinho, Lorn; desjejum servido, amanhecer.
+- **NPCs Presentes e Relação:** Veler Sann, interlocutor reservado e relativamente cordial. Atendente da taberna e dois trabalhadores no salão.
+- **Linha de Missão Ativa:** Investigar Tomas Rell, o cilindro de mapas e a origem do bilhete que antecipou a chegada de Eron.
