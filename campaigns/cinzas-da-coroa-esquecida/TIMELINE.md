@@ -269,3 +269,6 @@ Eron tirou 16 em Carisma (Intimidacao), total 17. Um desconhecido saiu parcialme
 - Eron deixa Marden autorizado a guardar cartas para Garrick; paga mais 5 PP de hospedagem, nao duplica jantar ja pago. Recursos: 125 PO, 6 PP, 5 PC.
 - Roll20: Furtividade [20]+6=26, Percepcao [18]+6=24. Eron se esconde atras de carroca, 12 metros do portao da Casa das Balancas no amanhecer.
 - Ve Darrik dialogar com homem semelhante a descricao de Veler Sann e um possivel observador em janela elevada; ouve relato sobre seus deslocamentos. Identidade e motivos nao comprovados, Eron ainda oculto. Transcript KP 0611-0612.
+
+## KR 0615–0616 — Apresentacao no patio
+Eron deixou a carroca e dirigiu-se verbalmente ao homem de olho esquerdo esbranquicado nos fundos da Casa das Balancas, criticando o vigia Darrik. O homem apresentou-se como Veler Sann, declarou ter contratado Darrik para observar Eron e alegou querer conhecer sua rotina antes de se apresentar. Distancia aproximadamente 12 metros, ambos visiveis, nenhum ataque, iniciativa ou novo teste. Identidade e motivos nao verificados. Transcricao KR 0615–0616.
