@@ -25,3 +25,9 @@ Veler gira a caneca entre os dedos, pensativo.
 — Mais uma coisa: eu evitaria anunciar a todo comerciante que está atrás de Tomas Rell e da carga dele. Não sei quantas pessoas se interessam pelo desaparecimento, e prefiro não adivinhar. Eu mesmo mandei um homem vigiá-lo por causa de um bilhete. — Um sorriso breve acompanha a admissão. — Veja como é fácil chamar atenção nesta cidade.
 
 Ele volta ao desjejum, sem exigir que Eron explique por que deixou Valdrén.
+
+**[LOG DE MEMÓRIA DA CAMPANHA]**
+
+- **Localização Atual:** Taberna A Roda Parada, em Lorn, pela manhã.
+- **NPCs Presentes e Relação:** Veler Sann, reservado porém mais cordial; atendente e dois trabalhadores no salão.
+- **Linha de Missão Ativa:** Investigar Tomas Rell, o cilindro de mapas e a origem do aviso sobre Eron; possível encontro com o portador do bilhete ainda não confirmado.
