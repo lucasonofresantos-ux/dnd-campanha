@@ -84,3 +84,4 @@ cinzas-da-coroa-esquecida,0000,99,moeda_cerveja_veler,resultado_publicado_sem_ex
 cinzas-da-coroa-esquecida,0000,100,percepcao_observadores_casa_balancas,python_secrets_randbelow,14,,14,6,20,true,"Rolagem real Python secrets.randbelow(20)+1; natural 14, modificador +6, total 20; LB 0635-0636"
 cinzas-da-coroa-esquecida,0000,101,percepcao_guarita,python_secrets_randbelow,8,,8,6,14,true,"LJ"
 cinzas-da-coroa-esquecida,0000,102,furtividade_guarita,python_secrets_randbelow,5,,5,6,11,true,"LJ; cascalho denunciou aproximacao"
+cinzas-da-coroa-esquecida,0000,103,percepcao_contornar_guarita,python_secrets_randbelow,8,,8,6,14,true,"Script real Python executado no container; LK 0653-0654"
