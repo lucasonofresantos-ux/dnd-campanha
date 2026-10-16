@@ -19,3 +19,5 @@ Veler termina de mastigar antes de responder. A atendente passa com uma cesta de
 Ele baixa um pouco a voz.
 
 — E, se pretende investigar a guarita antiga perto da Ponte Velha, prefira a luz do dia. Depois que os carroceiros se recolhem, há trechos da margem onde ninguém ouviria um pedido de socorro. Não estou dizendo que exista alguém esperando por você; é apenas um lugar pouco prudente para um desconhecido caminhar sem atenção.
+
+Veler gira a caneca entre os dedos, pensativo.
