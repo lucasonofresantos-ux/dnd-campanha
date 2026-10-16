@@ -13,3 +13,5 @@ Vou conferir a última cena registrada e o que Veler poderia saber sobre Lorn. D
 ## Mensagem 0648 — Mestre (resposta)
 
 Veler termina de mastigar antes de responder. A atendente passa com uma cesta de pão e o ranger da porta deixa entrar por um instante o ar úmido da manhã. Ele apoia os antebraços na mesa.
+
+— Lorn não é um lugar ruim para viver, River. Mas muita gente ganha a vida com o que passa por suas estradas. Se alguém lhe cobrar uma taxa em nome do Conselho, peça um recibo com o selo e o nome de quem cobrou. Há sujeitos que vestem um casaco respeitável e acham que isso basta para virar autoridade.
