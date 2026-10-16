@@ -43,3 +43,9 @@ Local: acesso ocidental da cidade de Lorn, Caldria; fim da tarde chuvoso de outo
 - Personagem com **11/11 PV**, CA 13, 20 flechas, **127 PO, 2 PP, 5 PC**, Inspiracao Heroica e 1d8 de Vida disponiveis. Suturas e curativo permanecem como antes. Chave e carta aberta permanecem em posse de Eron.
 - Missao ainda em negociacao: Garrick diz que encaminhara exigencias de Eron sobre Valdren e bonus pela vida de Tomas Rell, sem garantias.
 - Fonte: sessions/transcripts/SESSION_0000_CONTINUACAO_20261016_KA.md.
+
+## Atualizacao operacional KC
+- Eron confirmou à irmã Maelis na capela da Senhora das Águas em Lorn que recebeu suturas no braço há aproximadamente quatro dias. Histórico: doutor **Orsik**, em **Caldria**, fez a costura inicial; doutor **Oren**, também em Caldria, depois refez ponto que cedeu.
+- Maelis ainda não retirou curativo nem realizou exame; aguardando consentimento e esclarecimento de sintomas, sem cura ou gasto.
+- Sem alterações: **11/11 PV**, CA 13, 20 flechas; **127 PO, 2 PP, 5 PC**, Inspiração Heroica e 1d8 de Vida disponíveis.
+- Referência: sessions/transcripts/SESSION_0000_CONTINUACAO_20261016_KC.md.
