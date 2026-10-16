@@ -13,3 +13,5 @@ Vou conferir o que já está estabelecido sobre a coroa de Valdrén e a armadilh
 ## Mensagem 0646 — Mestre (narração visível)
 
 Veler interrompe o movimento da colher quando Eron descreve a armadilha. Sua expressão, até então descontraída, endurece.
+
+— Uma coisa é cobrar pedágio indevidamente. Outra é montar uma armadilha capaz de matar um cavalo e seu condutor. Isso é coisa de assassinos, não de cobradores. — Ele balança a cabeça. — Espero que esses dois tenham aprendido alguma coisa. Vou alertar alguns transportadores que conheço. Uma estrada insegura prejudica todos nós.
