@@ -22,3 +22,9 @@ Pouco depois, Veler para diante de uma construção baixa, de pedras escuras e v
 Veler permanece próximo à mesa, aguardando Eron. As cervejas estão sendo servidas.
 
 <caption>Vigilância durante o trajeto resolvida com a Percepção passiva de Eron (16). O resultado 20 do teste anterior foi aplicado à observação do pátio, não reutilizado como nova rolagem.</caption>
+
+**[LOG DE MEMÓRIA DA CAMPANHA]**
+
+- Localização Atual: Taberna A Roda Parada, Lorn, perto do velho moinho.
+- NPCs Presentes e Relação: Veler pagando cerveja, atendente, dois trabalhadores.
+- Linha de Missão Ativa: Tomas Rell, cilindro de mapas e origem do aviso sobre Eron.
