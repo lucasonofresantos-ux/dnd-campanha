@@ -209,3 +209,12 @@ Eron tirou 16 em Carisma (Intimidacao), total 17. Um desconhecido saiu parcialme
 ## JM 0552–0553 — Correspondência entregue e nova observação da estalagem
 - Eron confirmou ser o destinatario Eron River, perguntou como chamar o taberneiro; este se apresentou como Marden, retirou os dedos do envelope e entregou a correspondencia. Papel grosso, cera cinzenta com arvore sem folhas, ainda lacrada, remetente e conteudo desconhecidos. Na fala literal Eron escreveu "pego a corda", interpretado pela narração como o envelope, sem alterar a transcrição.
 - Rolagem com script Python e secrets.randbelow: 1d20 [19]+6=25 (Percepcao, dado 87). Eron identificou porta de serviço atrás do balcão e, pela janela, o homem de capa cinza e fivela metalica do lado de fora proximo da ferraria. O desconhecido observa a entrada da estalagem; identidade e motivacoes nao conhecidas. Nenhum gasto ou dano; moedas 127 PO 9 PP 5 PC. Fonte `sessions/transcripts/SESSION_0000_CONTINUACAO_20261015_JM.md`.
+
+## JN 0554–0555 — Hospedagem e banho
+- Eron pagou 5 PP por quarto até amanhã ao meio-dia e 2 PP por tina de água quente, sabão e panos. Marden entregou chave e instruções discretas. Fonte: JN e JN_RESPOSTA.
+
+## JO 0556–0557 — Carta aberta e curativo
+- Eron subiu atento ao corredor sem perceber seguidores, leu carta anônima de selo com árvore sem folhas oferecendo 50 PO pelo desaparecido, 50 PO pelo objeto e encontro na Ponte Velha amanhã ao anoitecer; alega conhecer exílio de Eron e morte de Edric Valmont. Nenhum convite aceito ou verdade verificada. Lavou o braço e substituiu curativo; suturas fechadas; sem cura de PV. Fonte: JO.
+
+## JP 0558–0559 — Marden informa sobre a carta e cuidados
+- Eron tomou banho e desceu mantendo vigilância, sem nova rolagem. Marden contou que recebeu a carta ontem antes de anoitecer de mensageiro com botas enlameadas e capa de chuva, remetente não identificado. Ponte Velha fica rio abaixo, passando armazéns e antigo moinho, aprox. vinte minutos a pé. Miren, Botica do Salgueiro na Rua dos Oleiros, pode avaliar pontos e costuma vender kit de curandeiro (cerca de 5 PO) e possivelmente poção de cura (cerca de 50 PO, disponibilidade não confirmada). Capela da Senhora das Águas perto do cais pode ter atendimento noturno. Saldo 127 PO, 2 PP, 5 PC e PV 11/11, nenhuma compra. Fonte: sessions/transcripts/SESSION_0000_CONTINUACAO_20261015_JP.md.
