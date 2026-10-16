@@ -27,3 +27,5 @@ Veler inclina-se ligeiramente sobre a mesa, mantendo a voz tranquila.
 Ele observa Eron por um instante.
 
 — Faz anos que está longe de Valdrén, pelo que me disse. Imagino que muita coisa tenha mudado por lá.
+
+A atendente passa perto da mesa para recolher alguns pratos vazios de outros fregueses. Veler torna a partir o pão, sem pressionar Eron a explicar seu interesse.
