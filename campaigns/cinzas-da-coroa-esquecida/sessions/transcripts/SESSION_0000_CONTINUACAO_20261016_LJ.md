@@ -42,3 +42,5 @@ Atravessando as ruas de Lorn, Eron procura os trechos menos expostos: passagens 
 Apesar da aparência de abandono, algo chama a atenção de Eron: **uma sombra se move brevemente por trás de uma portinhola entreaberta**.
 
 Antes que consiga distinguir quem está ali, algumas pedras soltas estalam sob sua bota. O som é discreto, mas se propaga pelo trecho silencioso.
+
+A sombra desaparece. Há um ruído abafado de madeira vindo do interior.
