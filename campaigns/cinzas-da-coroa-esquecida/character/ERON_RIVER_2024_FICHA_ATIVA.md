@@ -56,3 +56,8 @@ Local: acesso ocidental da cidade de Lorn, Caldria; fim da tarde chuvoso de outo
 - Recomenda poupar o braco por mais alguns dias. Nao houve cura mecanica de PV, pagamento nem doacao.
 - **11/11 PV**, CA 13, 20 flechas; **127 PO, 2 PP, 5 PC**, Inspiracao Heroica e 1d8 de Vida disponiveis.
 - Fonte: sessions/transcripts/SESSION_0000_CONTINUACAO_20261016_KD.md.
+
+## Atualizacao operacional KE
+- Doou 4 PP a capela; trocou 1 PO por 10 PP. Saldo: 126 PO 8 PP 5 PC.
+- Percepcao 1d20 [12]+6=18, script Python, roll 93. Viu homem de capa cinza-amarronzada com reflexo metalico no ombro seguindo a distancia. Eron diante da estalagem, sem entrar.
+- 11/11 PV, CA 13, 20 flechas, curativo limpo, recursos restantes inalterados.
