@@ -24,3 +24,8 @@ Local: acesso ocidental da cidade de Lorn, Caldria; fim da tarde chuvoso de outo
 - Correspondencia: **1 envelope de papel grosso enderecado a Eron River, ainda lacrado**, cera cinzenta com simbolo de arvore sem folhas. O taberneiro Marden o entregou no Javali de Ferro (transcript JM). Remetente e conteudo desconhecidos.
 - Percepcao: +6; ultima rolagem Python **1d20 [19]+6=25**, numero 87, no salao de O Javali de Ferro. Nenhuma outra condicao, dano ou gasto neste turno.
 - Referencias: `sessions/transcripts/SESSION_0000_CONTINUACAO_20261015_JM.md`, `dice/ROLL_LOG.csv`, `sessions/SESSION_0000_ESTADO_ATUAL_20261014.yaml`.
+
+## Atualizacao operacional JN
+- Estalagem O Javali de Ferro: quarto ate amanha ao meio-dia 5 PP; banho quente e panos 2 PP; total pago 7 PP. Saldo atual 127 PO, 2 PP, 5 PC.
+- Chave e instrucoes discretas do quarto recebidas; Eron ainda no balcao. Agua do banho em preparo, braco nao lavado. Envelope selado mantido.
+- PV 11/11, CA 13, 20 flechas; Inspiracao Heroica e 1d8 de Vida disponiveis.
