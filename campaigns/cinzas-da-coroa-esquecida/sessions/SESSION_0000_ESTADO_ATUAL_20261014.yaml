@@ -1260,3 +1260,14 @@ latest_scene_ja_20261015:
   hit_die_available: 1d8
   escort_balance_due_gp: 8
   next_actor: Eron
+
+latest_scene_jb_20261015:
+  source: sessions/transcripts/SESSION_0000_CONTINUACAO_20261015_JB.md
+  messages: "0530-0531"
+  current_location: Parada junto a riacho na estrada Caldria-Lorn
+  pending_check: Sabedoria Percepcao
+  dice_expression: 1d20+6
+  roller: Jogador
+  waiting_for_raw_d20: true
+  scene_advanced: false
+  next_actor: Eron
