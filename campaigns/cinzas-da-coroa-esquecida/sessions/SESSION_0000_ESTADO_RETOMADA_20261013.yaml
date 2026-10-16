@@ -1023,3 +1023,26 @@ current_scene_li_20261016:
   new_expenses: 0
   combat: false
   awaiting_player_action: true
+
+current_scene_lj_20261016:
+  campaign_id: cinzas-da-coroa-esquecida
+  session: 0
+  transcript: sessions/transcripts/SESSION_0000_CONTINUACAO_20261016_LJ.md
+  last_message: '0652 — Mestre'
+  location: 'Estrada ocidental de Lorn; muro a 25m da guarita antiga antes da Ponte Velha'
+  time: 'Manhã'
+  eron: 'Sob cobertura parcial junto a muro, observando guarita, ainda fora da construção'
+  possible_watcher: 'Sombra não identificada na portinhola; há ruído de madeira no interior; pode ter percebido som de cascalho provocado por Eron'
+  follower: 'Nenhum perseguidor persistente detectado no trajeto; ausência não garantida'
+  perception_roll: {expression: '1d20+6', natural: 8, modifier: 6, total: 14, roll_log_order: 101}
+  stealth_roll: {expression: '1d20+6', natural: 5, modifier: 6, total: 11, roll_log_order: 102}
+  hp_current: 11
+  hp_max: 11
+  armor_class: 13
+  arrows: 20
+  money: {gp: 125, sp: 4, cp: 5}
+  heroic_inspiration: true
+  hit_dice_available: '1d8'
+  new_expenses: 0
+  combat: false
+  awaiting_player_action: true
