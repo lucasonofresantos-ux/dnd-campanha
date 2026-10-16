@@ -10,3 +10,5 @@ Termino de comer, me despeço e saio da taverna
 Vou registrar a despedida de Eron e conferir a última posição na campanha. Depois narro a saída da taberna e o que ele encontra na rua, sem fazê-lo seguir automaticamente até a guarita.
 
 ## Mensagem 0650 — Mestre (narração visível)
+
+Veler ergue a caneca quando Eron termina o desjejum e se despede.
