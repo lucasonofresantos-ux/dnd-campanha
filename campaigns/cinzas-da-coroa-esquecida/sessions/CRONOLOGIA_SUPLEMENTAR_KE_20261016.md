@@ -1,0 +1,3 @@
+# Nota cronologica KE
+
+Eron saiu da capela apos doacao de 4 PP, com troco de 1 PO por 10 PP. Saldo 126 PO 8 PP 5 PC. Retornou a noite visivelmente ao Javali de Ferro. Percepcao com script Python: 1d20 [12]+6=18, rolagem 93. Viu homem de capa cinza-amarronzada com brilho metalico no ombro em trechos sucessivos, depois proximo a ferraria. Eron chegou diante da estalagem, ainda na rua, sem confronto. Fonte canônica literal: sessions/transcripts/SESSION_0000_CONTINUACAO_20261016_KE.md, commit d309cf5337424726cf690e46fdebe40ae1823799. Esta nota suplementa TIMELINE.md, cuja atualizacao foi bloqueada.
