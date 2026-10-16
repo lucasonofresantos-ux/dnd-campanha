@@ -174,3 +174,6 @@ Eron tirou 16 em Carisma (Intimidacao), total 17. Um desconhecido saiu parcialme
 
 ## JB 0530–0531
 - Eron expressou desconfiança dos resultados baixos e solicitou rolar ele próprio o dado de Percepção. Mestre indicou 1d20+6 e aguarda resultado natural de 1 a 20 do jogador. Não houve nova rolagem, avanço da cena ou consumo de recursos.
+
+## JC 0532-0533
+- Jogador pediu um rolador de d20 igual ao da imagem enviada. Mestre disponibilizou controle interativo com bonus +6, sorteio local e alternativa Python. Nenhum resultado enviado ou aplicado; comboio permanece na parada junto ao riacho.
