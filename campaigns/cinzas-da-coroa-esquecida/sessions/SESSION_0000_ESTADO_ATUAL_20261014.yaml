@@ -1699,3 +1699,15 @@ latest_scene_kj_20261016:
   hp: 11
   money: {gp: 126, sp: 8, cp: 5}
   next_actor: Eron
+
+latest_scene_ki_20261016:
+  transcript: sessions/transcripts/SESSION_0000_CONTINUACAO_20261016_KI.md
+  messages: "0597-0598"
+  location: "Beco proximo ao Javali de Ferro, Lorn"
+  d_arrik_payment_claim: "6 PP adiantadas, sem parcela futura"
+  report_meeting_claim: "Amanha ao nascer do sol, fundos da Casa das Balancas, portao de servico do patio de cargas"
+  veler_name_claimed: "Veler Sann"
+  identity_and_presence_confirmed: false
+  combat: false
+  dice: none
+  next_actor: Eron
