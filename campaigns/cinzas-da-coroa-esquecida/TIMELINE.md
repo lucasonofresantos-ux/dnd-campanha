@@ -279,3 +279,9 @@ Eron deixou a carroca e dirigiu-se verbalmente ao homem de olho esquerdo esbranq
 - Reproduzida a narração da mensagem KR 0616: Eron diante do homem que se apresentou como Veler Sann, a 12 m, no pátio dos fundos da Casa das Balanças; Darrik junto ao portão, possível observador fora da janela. Ninguém sacou arma ou iniciou combate.
 - Nenhum teste, alteração de recursos, fala ou ação inédita de personagens, avanço temporal ou consequência nesta retomada. Histórico original completo da conversa 01.07 ainda não foi confrontado independentemente.
 - Fonte: sessions/transcripts/SESSION_0000_CONTINUACAO_20261016_KT.md.
+
+## KV 0623–0624 — Questionamento de Veler no pátio
+- Eron faz uma provocação sobre a mãe de Veler e pergunta se ele é destro ou canhoto, qual informação recebeu e de onde veio.
+- Veler diz ser destro, afirma ter recebido por intermediário externo a Lorn nome, aparência e referência ao serviço anterior de Eron na guarda de Valdrén, e diz que contratou Darrik por decisão própria. Não identifica o remetente. As declarações são informações atribuídas ao NPC, sem confirmação independente.
+- Veler devolve uma pergunta a Eron. Darrik continua afastado; a porta de serviço está aberta. Nenhuma arma sacada, combate, rolagem, dano ou gasto; PV 11/11, CA 13, 20 flechas, 125 PO 6 PP 5 PC.
+- Fonte literal: sessions/transcripts/SESSION_0000_CONTINUACAO_20261016_KV.md.
