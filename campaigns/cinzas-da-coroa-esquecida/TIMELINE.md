@@ -224,3 +224,8 @@ Eron tirou 16 em Carisma (Intimidacao), total 17. Um desconhecido saiu parcialme
 - Script Python autorizado da campanha executado: 1d20 [9]+6=15 (ordem provisoriamente 92; log de dados atualizado). Eron percebeu pessoa nao identificada junto a alpendre de armazem, afastando-se por rua lateral quando ele olhou. Nao identificou capa, fivela, intencao nem ligacao com o observador anterior.
 - Capela modesta de pedra clara, porta entreaberta, luz e oracao audivel dentro. Eron chegou a entrada mas nao entrou; ainda nao falou com alguem, nao recebeu tratamento, nao gastou moedas. PV 11/11, 127 PO 2 PP 5 PC.
 - Fonte literal: sessions/transcripts/SESSION_0000_CONTINUACAO_20261016_KA.md.
+
+## KB 0583–0584 — Capela da Senhora das Águas
+- À noite, Eron entra na capela perto do cais, após ter chegado com Percepção 15 em KA.
+- Uma religiosa de cabelos grisalhos e manto azul-acinzentado apresenta-se como irmã Maelis, oferece examinar os pontos do braço e pergunta quando ocorreu o ferimento, quem o suturou e sobre dor, calor ou dormência.
+- Eron ainda não se sentou nem mostrou o curativo; nenhum exame, cura, gasto ou rolagem. Estado: 11/11 PV, 127 PO 2 PP 5 PC. Fonte: sessions/transcripts/SESSION_0000_CONTINUACAO_20261016_KB.md.
