@@ -30,3 +30,11 @@ Darrik abre a boca, mas o homem ergue a mão, fazendo-o permanecer em silêncio.
 Ele retira a mão da porta, mas não se aproxima.
 
 — Queria saber com quem estava lidando, senhor River. Você chegou à cidade fazendo perguntas e encontrando pessoas que despertaram minha curiosidade. Preferi observá-lo antes de me apresentar.
+
+Um sorriso discreto surge no canto de sua boca.
+
+— Agora que resolveu encurtar nossas apresentações, suponho que queira saber por quê.
+
+Darrik permanece junto ao portão, em silêncio. Veler está a aproximadamente doze metros de Eron; a porta de serviço continua aberta atrás dele. O homem da janela superior não voltou a aparecer.
+
+**Ninguém sacou uma arma ou iniciou combate.**
