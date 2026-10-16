@@ -37,3 +37,5 @@ Ele permanece onde está, atento à resposta de Eron.
 - **Linha de Missão Ativa:** Investigar desaparecimento de Tomas Rell, cilindro de mapas e a origem do aviso com o nome de Eron.
 - **Eventos Cruciais Ocorridos:** Eron demonstra cautela sobre o lançamento da moeda, pergunta sobre o ofício de Tomas e o interesse em Valdrén. Veler declara que Tomas transportava documentos e encomendas, sem saber ao certo o destino dele; esclarece que a estrada do portador não comprova origem na guarda de Valdrén. Não apresenta a identidade da fonte. São declarações do NPC, ainda não verificadas.
 - **Condições do Jogador:** 11/11 PV, CA 13, 20 flechas; 125 PO, 6 PP, 5 PC. Inspiração Heroica e 1d8 de Vida disponíveis, suturas com curativo limpo. Eron continua segurando a moeda, sem lançá-la, sem armamento expressamente sacado. Nenhuma rolagem, dano ou gasto nesta troca.
+
+<text color="secondary" size="xs">Transcrições KW (0625–0626), KX (0627–0628) e KY (0629–0630) sincronizadas no GitHub. Registro da cena, índice, cronologia e estado da Sessão 0 atualizados e verificados. Nenhum lançamento de moeda foi executado.</text>
