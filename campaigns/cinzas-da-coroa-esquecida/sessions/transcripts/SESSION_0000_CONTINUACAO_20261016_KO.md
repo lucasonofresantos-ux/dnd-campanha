@@ -29,3 +29,15 @@ Ele ergue um dedo, com expressão séria.
 O estalajadeiro volta a sorrir discretamente.
 
 — Quanto a cobrar por isso, enquanto for hóspede da casa e não transformar meu balcão num posto de correios, não precisa se preocupar.
+
+Marden olha para Eron.
+
+— **Tem alguma pessoa em particular que virá deixar ou buscar essas mensagens?** É bom saber como devo reconhecer o destinatário, para não entregar uma carta à pessoa errada.
+
+**[LOG DE MEMÓRIA DA CAMPANHA]**
+
+- **Localização Atual:** Balcão do Javali de Ferro, em Lorn, na madrugada antes do nascer do sol.
+- **NPCs Presentes e Relação:** Marden, estalajadeiro cordial, aceita guardar correspondência lacrada sob condições de segurança. Darrik está ausente.
+- **Linha de Missão Ativa:** Localizar Tomas Rell e recuperar o cilindro de mapas. Investigar quem contratou Darrik para vigiar Eron.
+- **Eventos Cruciais Ocorridos:** Marden concordou em receber e guardar cartas identificadas, sem cobrança enquanto Eron for hóspede, mas não garante sigilo absoluto. Perguntou quem deixará ou buscará as mensagens. Nenhuma carta foi entregue.
+- **Condições do Jogador:** **11/11 PV, CA 13, 20 flechas; 126 PO, 1 PP e 5 PC.** Inspiração Heroica e 1d8 de Vida disponíveis. Curativo limpo, carta e chave do quarto em posse.
