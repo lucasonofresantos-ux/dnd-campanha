@@ -23,3 +23,4 @@ Orven aguarda a resposta ao lado do muro. Darin e os demais continuam recolhidos
 - **Linha de Missão Ativa:** Proteger as três carroças até Lorn; 8 PO pendentes na entrega.
 - **Eventos Cruciais Ocorridos:** Eron aguardou em vigilância por aproximadamente duas horas. O farfalhar do bosque não voltou a ser ouvido; nenhuma ameaça se apresentou. Orven chegou para a troca de guarda e perguntou sobre ocorrências. Nenhum teste, combate ou dano novo.
 - **Condições do Jogador:** 11/11 PV, CA 13, 20 flechas; 119 PO, 9 PP e 5 PC; Inspiração Heroica e 1d8 de Vida disponíveis. Duas horas de sono anteriores e duas horas de vigia; descanso longo ainda não concluído.
+Registro confirmado: commits 1483b548, 5e123760, bd30dfc7, 3b336702.
