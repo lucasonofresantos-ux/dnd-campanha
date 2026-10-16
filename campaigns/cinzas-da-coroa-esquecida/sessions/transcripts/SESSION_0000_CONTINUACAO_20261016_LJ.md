@@ -46,3 +46,8 @@ Antes que consiga distinguir quem está ali, algumas pedras soltas estalam sob s
 A sombra desaparece. Há um ruído abafado de madeira vindo do interior.
 
 **Eron percebeu sinais de alguém na guarita, mas sua aproximação pode ter sido notada.** Não sabe quem está lá, quantas pessoas podem estar no interior ou se representam perigo. Ele permanece junto ao trecho de muro que lhe oferece cobertura parcial, a aproximadamente vinte e cinco metros da construção.
+
+**[LOG DE MEMÓRIA DA CAMPANHA]**
+
+- **Localização Atual:** A cerca de 25 m da guarita de pedágio, estrada ocidental de Lorn, antes da Ponte Velha; Eron sob cobertura parcial junto ao muro.
+- **NPCs Presentes e Relação:** Figura não identificada na guarita, percebida apenas como sombra; Veler permaneceu na taberna. Nenhum perseguidor foi identificado no caminho.
