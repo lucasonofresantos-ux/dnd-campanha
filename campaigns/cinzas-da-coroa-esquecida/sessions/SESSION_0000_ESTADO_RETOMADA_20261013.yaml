@@ -828,3 +828,33 @@ current_scene_kt_20261016:
   new_resources_consumed_since_kr: false
   player_action_pending: true
   original_chat_0107_completeness_independently_verified: false
+
+current_scene_kv_20261016:
+  campaign_id: cinzas-da-coroa-esquecida
+  session: 0
+  current_transcript: sessions/transcripts/SESSION_0000_CONTINUACAO_20261016_KV.md
+  last_confirmed_message: "0624 — Mestre"
+  location: "Pátio dos fundos da Casa das Balanças, Lorn"
+  time: "Amanhecer"
+  eron: "Visível a cerca de 12 metros de Veler, sem arma sacada expressamente"
+  veler: "Apresentou-se como Veler Sann; disse ser destro; contrariado pela provocação, não sacou arma"
+  veler_claims_unverified:
+    - "Conhecia nome, aparência e passagem de Eron pela guarda de Valdrén"
+    - "O aviso chegou de fora de Lorn por intermédio de outra pessoa"
+    - "A contratação de Darrik foi decisão de Veler"
+  veler_source_identity: "Não revelada"
+  darrik: "Dispensado e afastado do pátio pela rua"
+  other_observer: "Ausente da janela no último avistamento"
+  door: "Porta de serviço aberta atrás de Veler"
+  quest: "Investigar Tomas Rell e cilindro de mapas, apurar por que Eron foi vigiado"
+  hp_current: 11
+  hp_max: 11
+  armor_class: 13
+  arrows: 20
+  money: {gp: 125, sp: 6, cp: 5}
+  heroic_inspiration: true
+  hit_dice_available: "1d8"
+  rolls_this_interaction: 0
+  resource_changes_this_interaction: false
+  combat: false
+  awaiting_player_action: true
