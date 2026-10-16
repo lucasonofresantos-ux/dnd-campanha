@@ -182,3 +182,9 @@ Eron tirou 16 em Carisma (Intimidacao), total 17. Um desconhecido saiu parcialme
 - O jogador informou face 19 em um d20 rolado no Roll20. Resultado do teste de Percepção de Eron: 19+6=25, anotado como rolagem 83 (origem jogador, não execução do Mestre) em `dice/ROLL_LOG.csv`.
 - Na parada do comboio junto ao riacho, Eron percebeu duas séries de pegadas de botas relativamente nítidas na margem além da água, saindo de caminho estreito e sumindo entre salgueiros. Sob as árvores, viu vegetação amassada num ponto baixo que oferece observação da estrada. Não avistou pessoas nem descobriu a origem ou intenções dos rastros. Três carroças continuam paradas e intactas; Orven confere rodas.
 - Modelo visual interativo de d20 guardado em `skills/dice-roller/ROLADOR_VISUAL_D20.md` e vinculado em `skills/dice-roller/SKILL.md` para reutilizar sob pedido, distinguindo RNG local e execução Python. Fonte literal: `sessions/transcripts/SESSION_0000_CONTINUACAO_20261015_JD.md`.
+
+## JE 0536-0537
+- Eron manteve Percepcao 25, pediu a Orven para partir logo; carrocas prontas junto ao riacho. Texto integral da resposta ainda pendente em JE.
+
+## JF 0538-0539
+- Eron continuou vigiando as tres carrocas com Percepcao 25, sem nova rolagem. O comboio deixou o riacho e chegou ao posto de fiscalizacao de Lorn no fim da tarde, onde parou em fila. Um guarda solicitou documentos da carga a Orven; entrega e 8 PO pendentes. Ver transcript JF.
