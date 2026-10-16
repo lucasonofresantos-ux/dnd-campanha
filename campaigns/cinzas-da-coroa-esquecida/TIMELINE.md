@@ -252,3 +252,9 @@ Eron tirou 16 em Carisma (Intimidacao), total 17. Um desconhecido saiu parcialme
 ## KJ 0599–0600 — Esclarecimento de moedas
 - Jogador esclareceu que Darrik recebeu seis pecas de prata (6 PP), unidade ja usada nos relatos anteriores. Sem mudanca retroativa nas transcricoes.
 - Nenhuma acao, dano, nova rolagem ou mudanca de recursos. Eron e Darrik continuam no beco em Lorn. Fonte literal: sessions/transcripts/SESSION_0000_CONTINUACAO_20261016_KJ.md.
+
+## KK 0601–0602 — Proposta de pagamento a Darrik
+- Eron ofereceu pagar 6 PP adicionais para Darrik comparecer ao encontro de amanhã ao nascer do sol nos fundos da Casa das Balanças, pretendendo segui-lo discretamente para conversar com o suposto contratante Veler Sann.
+- Darrik concorda sob condição de receber pagamento antecipado, de Eron manter distância e de não ser envolvido num confronto. Darrik não garante a presença de Veler nem conhece os planos de Eron.
+- O pagamento **ainda não ocorreu**; o acordo continua condicional. Nenhuma mudança de tempo, gasto, teste, combate ou posição. Eron possui 126 PO, 8 PP e 5 PC.
+- Transcrição: sessions/transcripts/SESSION_0000_CONTINUACAO_20261016_KK.md.
