@@ -26,3 +26,13 @@ Veler puxa uma cadeira à mesa lateral, de onde se vê a porta, e acomoda o casa
 — Sou **intermediário de cargas e documentos**. Aqui em Lorn, mercadores precisam de alguém que saiba a quem entregar uma encomenda, onde conferir um registro e quem procurar quando uma carga não chega. Algumas vezes isso significa lidar com balanças e contratos. Outras vezes, com pessoas que prefeririam não ver o próprio nome num livro.
 
 Ele toma a caneca de cerveja que a atendente acaba de trazer, mas demora a beber.
+
+— Tomas Rell transportava coisas desse tipo. Seu desaparecimento tornou-se um problema para gente com quem mantenho negócios. Então recebi um aviso mencionando um ex-investigador de Valdrén, pelo nome, antes mesmo de ele chegar à cidade. Você.
+
+Veler faz uma pausa.
+
+— **Quis descobrir se era coincidência ou se alguém estava usando seu nome para chegar até mim.** Foi por isso que paguei Darrik para observá-lo.
+
+O cheiro do pão aquecido começa a chegar da cozinha.
+
+— E concordo com uma coisa, River: você sabe pouco sobre mim. Mas não confunda isso com eu saber tudo a seu respeito. Sei o bastante para ter perguntas, não respostas.
