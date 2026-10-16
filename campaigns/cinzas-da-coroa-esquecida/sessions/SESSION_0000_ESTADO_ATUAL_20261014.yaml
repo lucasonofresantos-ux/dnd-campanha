@@ -1711,3 +1711,31 @@ latest_scene_ki_20261016:
   combat: false
   dice: none
   next_actor: Eron
+
+latest_scene_kl_20261016:
+  transcript: sessions/transcripts/SESSION_0000_CONTINUACAO_20261016_KL.md
+  messages: "0603-0604"
+  location: "Beco pouco iluminado perto do Javali de Ferro, Lorn"
+  campaign_time: "Noite, antes do amanhecer"
+  npc_present: "Darrik"
+  payment:
+    paid_to: "Darrik"
+    paid_sp: 6
+    delivered_and_received: true
+  agreement:
+    confirmed: true
+    darrik_arrives: "Amanha ao nascer do sol, fundos da Casa das Balancas, portao de servico"
+    darrik_promise: "Realizar relato sem revelar o encontro com Eron"
+    eron_intends_to_follow: true
+    presumed_veler_presence_confirmed: false
+  npc_identity_and_claims_independently_verified: false
+  eron_left_beco: false
+  combat_started: false
+  new_dice_rolls: false
+  hp: 11
+  ac: 13
+  arrows: 20
+  money: {gp: 126, sp: 2, cp: 5}
+  heroic_inspiration: true
+  hit_die_available: 1d8
+  next_actor: Eron
