@@ -11,3 +11,7 @@ Registro: 2026-10-16
 Vou conferir as pistas já registradas sobre o último paradeiro de Tomas Rell e recuperar a transcrição pendente da taberna. Depois continuo a resposta de Veler sem transformar rumores em fatos confirmados nem decidir por Eron quando ele sairá.
 
 ## Mensagem 0642 — Mestre (narração visível)
+
+Veler apoia a caneca sobre a mesa. Ao ouvir que Eron pretende procurar Tomas, seu semblante fica mais sério. Nesse momento, a atendente chega com duas tigelas fumegantes, ovos, pão de centeio e queijo. Ela distribui os pratos e retorna ao balcão, deixando os dois conversarem.
+
+— O último lugar onde **me disseram ter visto Tomas Rell** foi na estrada ocidental, junto à antiga guarita de pedágio, pouco antes da Ponte Velha. Isso foi há cerca de quatro dias. Segundo o relato de um carroceiro, ele seguia com uma pequena carga, mas não sei dizer se chegou ao destino. Há uma diferença entre o último lugar onde alguém foi visto e o lugar onde desapareceu, River. Não confunda os dois.
