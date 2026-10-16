@@ -21,3 +21,5 @@ Ao ouvir a pergunta sobre Valdrén, ele repousa a colher e toma um gole de cerve
 — Ah, o velho rei de Valdrén... **Pelas últimas notícias que recebi, ainda está vivo e ocupa o trono.** Mas já faz algumas semanas que ouvi isso de um mercador vindo do oeste. Não chegou até mim notícia de funeral, coroação ou mudança de soberano. Isso não significa que nada tenha acontecido.
 
 Veler inclina-se ligeiramente sobre a mesa, mantendo a voz tranquila.
+
+— Quanto ao que acontece dentro do palácio, sei ainda menos. Os mercadores conhecem as estradas, as taxas e os nomes dos oficiais que lhes dão problemas. Nem sempre sabem quem realmente toma as decisões por trás das portas fechadas.
