@@ -57,3 +57,17 @@ Pouco depois, quando o céu começa a clarear, **Darrik aparece**. Vem sozinho, 
 Um homem alto e magro sai pela porta de serviço. Usa casaco preto, cabelos castanhos bem curtos e, quando vira o rosto para a luz nascente, Eron distingue **o olho esquerdo esbranquiçado** descrito por Darrik. Um anel de cobre também reluz em sua mão esquerda. A descrição coincide, embora a identidade ainda dependa de confirmação.
 
 Darrik aproxima-se e começa seu relato. Apesar da distância, Eron consegue distinguir partes da conversa.
+
+— Ficou no Javali de Ferro. Saiu durante a noite, esteve na Ponte Velha e depois seguiu até a capela do cais. Voltou à estalagem para dormir.
+
+O homem de casaco preto franze a testa.
+
+— E com quem ele se encontrou na ponte?
+
+— Não cheguei perto o suficiente para reconhecer ninguém.
+
+— Hm. Isso é um problema.
+
+O desconhecido olha na direção do acesso ao pátio. O homem na janela superior continua em seu posto. **Nenhum deles demonstrou perceber Eron.**
+
+A conversa prossegue em voz mais baixa, e Eron continua oculto, em posição de observar.
