@@ -44,3 +44,5 @@ Apesar da aparência de abandono, algo chama a atenção de Eron: **uma sombra s
 Antes que consiga distinguir quem está ali, algumas pedras soltas estalam sob sua bota. O som é discreto, mas se propaga pelo trecho silencioso.
 
 A sombra desaparece. Há um ruído abafado de madeira vindo do interior.
+
+**Eron percebeu sinais de alguém na guarita, mas sua aproximação pode ter sido notada.** Não sabe quem está lá, quantas pessoas podem estar no interior ou se representam perigo. Ele permanece junto ao trecho de muro que lhe oferece cobertura parcial, a aproximadamente vinte e cinco metros da construção.
