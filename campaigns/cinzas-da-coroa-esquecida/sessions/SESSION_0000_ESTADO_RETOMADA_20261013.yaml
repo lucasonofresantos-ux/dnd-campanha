@@ -885,3 +885,29 @@ current_scene_ky_20261016:
   combat: false
   resources_consumed: false
   awaiting_player_action: true
+
+current_scene_lb_20261016:
+  campaign_id: cinzas-da-coroa-esquecida
+  session: 0
+  latest_transcript: sessions/transcripts/SESSION_0000_CONTINUACAO_20261016_LB.md
+  last_message: "0636 — Mestre"
+  location: "Pátio dos fundos da Casa das Balanças, Lorn"
+  time: "Amanhecer"
+  eron: "Visível, atento, sem arma sacada expressamente"
+  veler: "Propõe taberna sossegada perto do velho moinho; deve uma cerveja a Eron"
+  observer: "Homem de boné de couro reapareceu na janela superior, observado por Eron, e recuou"
+  darrik: "Dispensado e ausente"
+  perception: "1d20 14 +6 =20, Python secrets.randbelow, ordem 100"
+  previous_insight: "Resultado publicado 8+4=12, execução não verificada"
+  previous_coin: "Cara publicada; execução não verificada independentemente"
+  hp_current: 11
+  hp_max: 11
+  armor_class: 13
+  arrows: 20
+  money: {gp: 125, sp: 6, cp: 5}
+  heroic_inspiration: true
+  hit_dice_available: "1d8"
+  coin_spent: false
+  beer_paid: false
+  combat: false
+  awaiting_player_action: true
