@@ -1601,3 +1601,27 @@ latest_scene_kc_20261016:
   arrows: 20
   money: {gp: 127, sp: 2, cp: 5}
   next_actor: Eron
+
+latest_scene_kd_20261016:
+  transcript: sessions/transcripts/SESSION_0000_CONTINUACAO_20261016_KD.md
+  messages: "0587-0588"
+  location: "Interior da capela da Senhora das Aguas, cais de Lorn"
+  npc_present: "Irma Maelis"
+  wound_examination_performed: true
+  wound_initial_sutures: "Doutor Orsik, Caldria"
+  prior_repair: "Ponto reforcado pelo doutor Oren, Caldria"
+  wound_exam: "Bordas unidas, sem secrecao nem sinais evidentes de infeccao; vermelhidao discreta"
+  bandage_changed_clean: true
+  sutures_removed: false
+  advice: "Evitar esforco e procurar cuidados se surgirem sinais de infeccao"
+  examination_fee: 0
+  donation: 0
+  new_dice_rolls: false
+  healing_hp: 0
+  hp: 11
+  ac: 13
+  arrows: 20
+  money: {gp: 127, sp: 2, cp: 5}
+  heroic_inspiration: true
+  hit_die_available: 1d8
+  next_actor: Eron
