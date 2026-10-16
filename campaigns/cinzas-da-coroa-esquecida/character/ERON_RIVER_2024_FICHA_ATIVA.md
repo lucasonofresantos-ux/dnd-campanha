@@ -17,3 +17,10 @@ Espada curta +4, 1d6+2 perfurante, Vex. Arco curto +4, 1d6+2 perfurante; 20 flec
 
 ## Estado inicial
 Local: acesso ocidental da cidade de Lorn, Caldria; fim da tarde chuvoso de outono. Sem companheiros, missões aceitas, dano, gastos, Inspiração Heroica ou recursos consumidos. Sem condição. Relógios não avançados. A cena inicial é apresentação de ambiente, sem prescrever ação de Eron.
+
+## Atualizacao operacional — 2026-10-15, sessao 0000 / mensagens 0552–0553
+- Inventario corrente confirmado: **127 PO, 9 PP, 5 PC**. O texto anterior sobre 58 PO refere-se ao equipamento inicial auditado da execucao e nao substitui a evolucao contabilizada pelos transcripts da campanha.
+- PV atuais/maximos **11/11**, CA **13**, **20 flechas**, Inspiracao Heroica disponivel, **1d8** de Vida disponivel.
+- Correspondencia: **1 envelope de papel grosso enderecado a Eron River, ainda lacrado**, cera cinzenta com simbolo de arvore sem folhas. O taberneiro Marden o entregou no Javali de Ferro (transcript JM). Remetente e conteudo desconhecidos.
+- Percepcao: +6; ultima rolagem Python **1d20 [19]+6=25**, numero 87, no salao de O Javali de Ferro. Nenhuma outra condicao, dano ou gasto neste turno.
+- Referencias: `sessions/transcripts/SESSION_0000_CONTINUACAO_20261015_JM.md`, `dice/ROLL_LOG.csv`, `sessions/SESSION_0000_ESTADO_ATUAL_20261014.yaml`.
