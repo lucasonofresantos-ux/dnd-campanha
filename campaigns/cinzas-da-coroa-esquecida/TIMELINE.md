@@ -323,3 +323,9 @@ Eron deixou a carroca e dirigiu-se verbalmente ao homem de olho esquerdo esbranq
 - Eron deslocou-se atento e furtivamente desde as ruas de Lorn até a antiga guarita. Dados Python secrets.randbelow: Percepção 1d20 [8]+6=14 (101); Furtividade 1d20 [5]+6=11 (102).
 - Não identificou seguidor persistente; notou sombra na portinhola da guarita. Cascalho estalou sob sua bota, podendo alertar quem estiver ali.
 - Terminou ao lado de muro baixo oferecendo cobertura parcial a cerca de 25m da guarita. Sem entrada, combate, gasto ou dano; 11/11 PV, CA13, 20 flechas, 125 PO 4 PP 5 PC. Transcript LJ.
+
+## LK 0653–0654 — Contorno furtivo da guarita
+- Eron pede novos testes de Percepção e Furtividade e contorna a guarita antiga perto da Ponte Velha. Rolador Python do projeto (secrets.randbelow) executado: Percepção 1d20 [8]+6=14 (ordem 103); Furtividade 1d20 [8]+6=14 (ordem 104).
+- Da área dos fundos, Eron identifica porta de acesso principal voltada à estrada, janela lateral parcialmente vedada, porta posterior com sinais de uso e marcas de botas recentes no barro. Ouve arrastar breve de madeira dentro da construção, sem identificar ocupante ou fonte. Não houve reação perceptível; isso não comprova que permaneceu despercebido.
+- Está parcialmente oculto entre salgueiros a cerca de 8m da porta posterior, ainda no exterior. Sem combate, dano ou consumo de recursos. PV 11/11; CA13; 20 flechas; 125 PO, 4 PP e 5 PC.
+- Transcrição literal da interação LK permanece pendente de commit GitHub, com cópia local gerada; reconstituir do texto preservado, nunca inferir literalmente somente a partir da cronologia.
