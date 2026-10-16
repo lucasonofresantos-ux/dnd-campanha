@@ -23,3 +23,5 @@ Ele baixa um pouco a voz.
 Veler gira a caneca entre os dedos, pensativo.
 
 — Mais uma coisa: eu evitaria anunciar a todo comerciante que está atrás de Tomas Rell e da carga dele. Não sei quantas pessoas se interessam pelo desaparecimento, e prefiro não adivinhar. Eu mesmo mandei um homem vigiá-lo por causa de um bilhete. — Um sorriso breve acompanha a admissão. — Veja como é fácil chamar atenção nesta cidade.
+
+Ele volta ao desjejum, sem exigir que Eron explique por que deixou Valdrén.
