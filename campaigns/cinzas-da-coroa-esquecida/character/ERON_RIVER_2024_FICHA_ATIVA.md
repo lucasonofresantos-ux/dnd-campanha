@@ -29,3 +29,10 @@ Local: acesso ocidental da cidade de Lorn, Caldria; fim da tarde chuvoso de outo
 - Estalagem O Javali de Ferro: quarto ate amanha ao meio-dia 5 PP; banho quente e panos 2 PP; total pago 7 PP. Saldo atual 127 PO, 2 PP, 5 PC.
 - Chave e instrucoes discretas do quarto recebidas; Eron ainda no balcao. Agua do banho em preparo, braco nao lavado. Envelope selado mantido.
 - PV 11/11, CA 13, 20 flechas; Inspiracao Heroica e 1d8 de Vida disponiveis.
+
+## Atualizacao operacional JP — noite no Javali de Ferro
+- Eron tomou banho após receber água quente e trocou o curativo no braço anteriormente suturado. Suturas fechadas; sem sangramento recente, sem recuperar PV: **11/11 PV**.
+- Carta anônima da árvore sem folhas aberta e lida: oferta não aceita de 50 PO por encontrar desaparecido e 50 PO adicionais por recuperar objeto; propõe encontro na Ponte Velha amanhã ao anoitecer. Carta em posse de Eron.
+- Quarto reservado até amanhã ao meio-dia, chave em posse de Eron. Saldo **127 PO, 2 PP, 5 PC**, 20 flechas, CA 13, Inspiração Heroica e dado de Vida 1d8 disponíveis.
+- Marden indicou a Botica do Salgueiro (Miren) para avaliação da sutura e aquisição de kit, disponibilidade de poção desconhecida. **Nenhum item adquirido neste turno.**
+- Fonte: transcripts JO e JP.
