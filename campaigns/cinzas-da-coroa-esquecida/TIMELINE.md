@@ -299,3 +299,9 @@ Eron deixou a carroca e dirigiu-se verbalmente ao homem de olho esquerdo esbranq
 - Veler conduz Eron à taberna A Roda Parada, com atendente de avental e dois trabalhadores. Paga duas cervejas com moedas próprias, enquanto são servidas, e indica mesa lateral. Nenhum gasto, consumo ou assento escolhido pelo personagem jogador.
 - PV Eron 11/11; CA 13; 20 flechas; 125 PO 6 PP 5 PC. Sem testes novos, combate, dano ou condição.
 - Transcrição: sessions/transcripts/SESSION_0000_CONTINUACAO_20261016_LC.md.
+
+## LD–LE 0639–0642 — A Roda Parada e a pista do pedágio
+- LD: Eron pede dois desjejuns para ele e Veler por sua conta. Pagamento de 2 PP confirmado, saldo 125 PO, 4 PP e 5 PC. Veler declara trabalhar intermediando cargas e documentos, relata interesse de seus clientes no desaparecimento de Tomas e atribui a vigilância sobre Eron à suspeita levantada pelo aviso recebido. Tais afirmações não são comprovadas independentemente.
+- LE: Eron pergunta pelo último paradeiro de Tomas e pede contato com portador do bilhete. Veler relata testemunho indireto de carroceiro, atribuindo último avistamento a antiga guarita de pedágio na estrada ocidental, antes da Ponte Velha, cerca de quatro dias atrás; pode estar incorreto. Compromete-se a tentar contatar mensageiro e enviar resposta ao Javali de Ferro se o encontro for aceito, sem garantia.
+- Dois desjejuns chegaram à mesa; Veler está com caneca de cerveja. Eron continua no estabelecimento, podendo sair por decisão própria. Sem rolagens, alteração de PV, dano ou gasto além de 2 PP em LD.
+- Fonte literal: sessions/transcripts/SESSION_0000_CONTINUACAO_20261016_LD.md e LE.md.
