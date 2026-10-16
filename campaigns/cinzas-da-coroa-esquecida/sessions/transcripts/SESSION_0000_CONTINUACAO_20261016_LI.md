@@ -18,3 +18,5 @@ Veler ergue a caneca quando Eron termina o desjejum e se despede.
 Ele esboça um sorriso.
 
 — E cuidado na estrada. Seria uma pena perder um possível parceiro de negócios logo depois de lhe pagar uma cerveja.
+
+A atendente agradece a visita enquanto Eron atravessa o salão e sai da taberna.
