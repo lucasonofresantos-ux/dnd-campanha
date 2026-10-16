@@ -1562,3 +1562,13 @@ latest_scene_jp_20261015:
   letter_opened_kept: true
   room_key_kept: true
   next_actor: Eron
+
+audit_ponte_velha_20261015:
+  source: sessions/CORRECAO_CRONOLOGIA_PONTE_VELHA_20261015.md
+  original_prepared_invitation: "Anoitecer do dia seguinte a entrega da carta"
+  marden_stated_delivered: "Ontem antes de anoitecer"
+  relative_meeting_time: "Hoje ao anoitecer"
+  current_scene_time: "Noite, apos anoitecer"
+  contact_present: unconfirmed
+  no_forced_encounter: true
+  no_retroactive_transcript_edit: true
