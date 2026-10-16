@@ -86,3 +86,9 @@ Local: acesso ocidental da cidade de Lorn, Caldria; fim da tarde chuvoso de outo
 - Oculto atras de carroca a 12 m dos fundos da Casa das Balancas, amanhecer; observa Darrik falando com homem semelhante a Veler Sann, e possivel vigia na janela superior de deposito.
 - 11/11 PV; CA 13; 20 flechas; Inspiracao Heroica e 1d8 de Vida disponiveis. Carta e chave do quarto mantidas.
 - Transcricao KP 0611–0612, sincronizacao integral a conferir.
+
+## Atualizacao operacional KQ
+- Eron permanece escondido atras de carroca a ~12 metros do portao de servico da Casa das Balancas ao amanhecer. Darrik terminou relatorio com homem de casaco preto e olho esquerdo esbranquicado; este se virou para entrar, mas ainda esta do lado de fora. Homem com bone afastou-se momentaneamente da janela. Nenhuma identidade confirmada.
+- Sem novos dados: Furtividade Roll20 20+6=26 e Percepcao 18+6=24 continuam resultados da observacao anterior. Eron nao se revelou nem iniciou combate.
+- Recursos: **11/11 PV, CA 13, 20 flechas; 125 PO, 6 PP e 5 PC**; Inspiracao Heroica, 1d8 de Vida, carta e chave do quarto preservados. Curativo limpo.
+- Fonte: sessions/transcripts/SESSION_0000_CONTINUACAO_20261016_KQ.md.
