@@ -19,3 +19,23 @@ Ele passa os dedos pelo punho direito do casaco.
 Veler balança lentamente a cabeça.
 
 — **Não sei.** O aviso mencionava seu passado na guarda de Valdrén e sua possível chegada a Lorn. Não dizia onde você estava imediatamente antes. Se esperava que eu soubesse cada passo de sua viagem, está me atribuindo mais informações do que possuo.
+
+Ao ouvir a última pergunta, seus olhos descem novamente para a moeda.
+
+— **Coroa.** Prefiro coroa.
+
+Um discreto sorriso retorna ao seu rosto.
+
+— Agora fiquei curioso para saber por que isso importa.
+
+Veler mantém a posição diante da porta de serviço. A moeda continua na mão de Eron, sem ter sido lançada.
+
+---
+
+**[LOG DE MEMÓRIA DA CAMPANHA]**
+
+- **Localização Atual:** Pátio dos fundos da Casa das Balanças, Lorn, ao amanhecer.
+- **NPCs Presentes e Relação:** Veler Sann, desconfiado, mas disposto a continuar conversando. Darrik foi dispensado.
+- **Linha de Missão Ativa:** Investigar o desaparecimento de Tomas Rell e o cilindro de mapas; descobrir a origem das informações sobre Eron.
+- **Eventos Cruciais Ocorridos:** Veler afirma desconhecer a cidade de procedência imediata de Eron, admite conhecer o portador do bilhete e considera facilitar um contato. Escolhe **coroa**. Nenhuma moeda foi lançada, e nenhuma nova rolagem ocorreu.
+- **Condições do Jogador:** PV 11/11; CA 13; 20 flechas; 125 PO, 6 PP e 5 PC. Uma moeda está na mão de Eron, sem valor especificado ou gasto confirmado. Inspiração Heroica disponível. Sem combate ou novas rolagens.
