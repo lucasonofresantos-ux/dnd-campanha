@@ -983,3 +983,26 @@ current_scene_lg_20261016:
   new_expenses: 0
   combat: false
   awaiting_player_action: true
+
+current_scene_lh_20261016:
+  campaign_id: cinzas-da-coroa-esquecida
+  session: 0
+  latest_transcript: sessions/transcripts/SESSION_0000_CONTINUACAO_20261016_LH.md
+  last_message: "0648 — Mestre"
+  location: "Taberna A Roda Parada, Lorn"
+  time: "Manhã"
+  eron: "Na taberna após perguntar sobre riscos da cidade; sem nova decisão de sair"
+  veler: "Aconselha cautela com taxas sem recibo, ruas isoladas da Ponte Velha à noite e discrição quanto à busca por Tomas; não apresentou prova de ameaça iminente"
+  active_quests: ["Investigar Tomas Rell e cilindro de mapas", "Descobrir origem do bilhete sobre Eron e mensageiro"]
+  messenger_meeting: "Ainda não agendado; Veler prometeu tentar contato"
+  hp_current: 11
+  hp_max: 11
+  armor_class: 13
+  arrows: 20
+  money: {gp: 125, sp: 4, cp: 5}
+  heroic_inspiration: true
+  hit_dice_available: "1d8"
+  combat: false
+  new_rolls: 0
+  new_expenses: 0
+  awaiting_player_action: true
