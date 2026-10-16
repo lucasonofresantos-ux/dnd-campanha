@@ -1757,3 +1757,24 @@ latest_scene_ko_20261016:
   money: {gp: 126, sp: 1, cp: 5}
   new_rolls: false
   next_actor: Eron
+
+latest_scene_kp_20261016:
+  messages: "0611-0612"
+  location: "Atrás de carroca com sacos a 12 m do portao de servico, Casa das Balancas, Lorn"
+  time: "Amanhecer com neblina"
+  lodging: "Javali de Ferro, mais 1 diaria 5 PP paga, ate meio dia seguinte"
+  dinner_previously_paid: true
+  mail: "Marden aceita cartas lacradas para Eron River e Garrick conforme condicoes"
+  roll20:
+    stealth: {natural: 20, modifier: 6, total: 26, number: 96}
+    perception: {natural: 18, modifier: 6, total: 24, number: 97}
+  eron_hidden: true
+  characters_seen: "Darrik e homem alto de casaco preto, olho esquerdo esbranquicado, anel de cobre"
+  watcher_possible: "Homem de bone de couro em janela superior do deposito"
+  identity_veler_confirmed: false
+  combat: false
+  hp: 11
+  ac: 13
+  arrows: 20
+  money: {gp: 125, sp: 6, cp: 5}
+  next_actor: Eron
