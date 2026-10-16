@@ -5,4 +5,10 @@
 Eu saio de onde estou, tomando cuidado e preparado caso me ataquem.
 - Eu estava achando que o da capa cinza-marrom estava me seguindo por que me achou bonito, mas vejo que alguém pediu para me seguir, na próxima contrate alguém que saiba se esconder. Mas você pelo jeito me conhece, problema é que não faço ideia de quem você é. Que tal concertarmis isso nos apresentando, eu sou Eron River e você quem é?
 
-## Mensagem 0616 — Mestre (continuação literal sendo registrada)
+## Mensagem de andamento visível do Mestre
+
+Vou conferir o ponto exato em que Eron se revela e o que já está estabelecido sobre os homens no pátio. Depois narro a reação deles, sem presumir que Eron ataque, e registro a conversa na campanha.
+
+## Mensagem 0616 — Mestre (resposta visível integral)
+
+O homem de casaco preto já estava prestes a atravessar a porta de serviço quando a voz de Eron corta o silêncio do pátio.
