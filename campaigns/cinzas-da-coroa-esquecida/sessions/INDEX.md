@@ -557,3 +557,5 @@ Arquivos produzidos nesta conferência: `transcripts/AUDITORIA_CONTINUIDADE_2026
 [IW — 0520–0521](transcripts/SESSION_0000_CONTINUACAO_20261015_IW.md) — Percepção [7]+6=13 no início da segunda ronda: farfalhar próximo ao solo no bosque, origem não identificada.
 
 [IX — 0522–0523](transcripts/SESSION_0000_CONTINUACAO_20261015_IX.md) — Furtividade [1]+6=7 junto ao muro do acampamento: pedra desliza fazendo ruído; farfalhar do bosque cessa. Rolagem nº 81.
+
+[IY — 0524–0525](transcripts/SESSION_0000_CONTINUACAO_20261015_IY.md) — Eron aguardou o restante das duas horas de sua segunda ronda. O farfalhar anterior não se repetiu; não houve nova ameaça, rolagem, combate ou dano. Orven assume a terceira ronda, informa que um cocheiro fará a última e pergunta a Eron se houve ocorrências. Sono acumulado 2h; vigia 2h; descanso longo incompleto. Transcrição confirmada em `1483b5489f59cba846a417edad9d9d01b081038f`.
