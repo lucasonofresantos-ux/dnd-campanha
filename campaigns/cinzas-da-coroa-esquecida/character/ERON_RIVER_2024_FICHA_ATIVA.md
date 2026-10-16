@@ -61,3 +61,9 @@ Local: acesso ocidental da cidade de Lorn, Caldria; fim da tarde chuvoso de outo
 - Doou 4 PP a capela; trocou 1 PO por 10 PP. Saldo: 126 PO 8 PP 5 PC.
 - Percepcao 1d20 [12]+6=18, script Python, roll 93. Viu homem de capa cinza-amarronzada com reflexo metalico no ombro seguindo a distancia. Eron diante da estalagem, sem entrar.
 - 11/11 PV, CA 13, 20 flechas, curativo limpo, recursos restantes inalterados.
+
+## Atualizacao operacional KF
+- Eron esta oculto atras de caixotes em beco escuro proximo ao Javali de Ferro, a cerca de seis metros de homem desconhecido com capa cinza-amarronzada e detalhe metalico no ombro. O homem entrou e parou olhando ao redor, sem demonstrar perceber Eron. Sem combate ou ataque.
+- **Furtividade 1d20 [17]+6=23**, rolagem Python nº 94. Nao gastar recursos nem alterar status medico ou saldo.
+- **11/11 PV**, CA 13, 20 flechas, **126 PO, 8 PP, 5 PC**, Inspiracao Heroica e dado de Vida 1d8 disponiveis; suturas fechadas com curativo limpo, carta e chave em posse.
+- Fonte: sessions/transcripts/SESSION_0000_CONTINUACAO_20261016_KF.md.
