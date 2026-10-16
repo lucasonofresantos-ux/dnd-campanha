@@ -796,3 +796,35 @@ current_scene_bw:
   stealth_previous: 26
   perception_previous: 25
   awaiting_player_action: true
+
+# Atualização operacional de retomada, sem substituir a cronologia histórica acima.
+current_scene_kt_20261016:
+  campaign_id: cinzas-da-coroa-esquecida
+  session: 0
+  branch: sessao_0000_bromir_velkan
+  transcript_previous: sessions/transcripts/SESSION_0000_CONTINUACAO_20261016_KS.md
+  transcript_last: sessions/transcripts/SESSION_0000_CONTINUACAO_20261016_KT.md
+  last_confirmed_message: "0620 — Mestre"
+  last_actual_scene_advancement: "0616 — Mestre, KR"
+  location: "Pátio dos fundos da Casa das Balanças, Lorn"
+  time: "Amanhecer"
+  eron: "Visível após sair do esconderijo; sem arma expressamente sacada; aguardando próxima decisão"
+  interlocutor: "Homem que se apresentou como Veler Sann, de casaco preto e olho esquerdo esbranquiçado, a aproximadamente 12 m de Eron"
+  interlocutor_claim: "Afirma que contratou Darrik para observar Eron; identidade e motivos não verificados independentemente"
+  darrik: "Junto ao portão de serviço, em silêncio"
+  upper_window: "Possível observador com boné de couro não voltou a aparecer"
+  open_service_door: true
+  active_quest: "Investigar desaparecimento de Tomas Rell e recuperar cilindro de mapas; esclarecer quem vigia Eron"
+  hp_current: 11
+  hp_max: 11
+  armor_class: 13
+  arrows: 20
+  money: {gp: 125, sp: 6, cp: 5}
+  heroic_inspiration: true
+  hit_dice_available: "1d8"
+  conditions: []
+  new_actions_since_kr: false
+  new_rolls_since_kr: false
+  new_resources_consumed_since_kr: false
+  player_action_pending: true
+  original_chat_0107_completeness_independently_verified: false
