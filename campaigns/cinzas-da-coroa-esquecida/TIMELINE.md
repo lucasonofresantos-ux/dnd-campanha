@@ -235,3 +235,9 @@ Eron tirou 16 em Carisma (Intimidacao), total 17. Um desconhecido saiu parcialme
 - Histórico confirmado em FS/FT/FU: Oren reforçou posteriormente um ponto que havia cedido, durante atendimento no Armazém dos Oleiros, Caldria.
 - Na capela da Senhora das Águas em Lorn, Maelis pergunta se pode retirar a faixa para inspecionar a sutura e questiona dor, calor e mobilidade dos dedos; sem autorização expressa ou inspeção concluída ainda.
 - Nenhum teste, gasto ou mudança de PV. Fonte literal: sessions/transcripts/SESSION_0000_CONTINUACAO_20261016_KC.md.
+
+## KD 0587–0588 — Exame e novo curativo na capela
+- Eron autoriza Maelis a examinar suturas, relatando boa movimentacao e ausencia de dor.
+- Maelis retira o curativo, examina suturas feitas por Orsik e ponto reforcado por Oren; bordas unidas, sem sinais evidentes de infeccao, discreta vermelhidao. Limpa pele adjacente, repoe faixa seca e nao retira pontos.
+- Orienta poupar o braco e retornar se surgirem sinais preocupantes. Atendimento sem cobranca; nenhuma doacao realizada, nenhum teste, cura ou gasto. PV 11/11, saldo 127 PO 2 PP 5 PC.
+- Fonte: sessions/transcripts/SESSION_0000_CONTINUACAO_20261016_KD.md.
