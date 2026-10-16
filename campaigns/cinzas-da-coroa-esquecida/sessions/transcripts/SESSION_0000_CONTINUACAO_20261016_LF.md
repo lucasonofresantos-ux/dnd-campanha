@@ -24,3 +24,11 @@ Ele bebe um gole e limpa a espuma do bigode com o polegar.
 Veler parte um pedaço de queijo e continua:
 
 — Também ouvi falar de problemas com salteadores na estrada entre Caldria e Lorn. Isso não é novidade, mas os comerciantes andam mais dispostos a pagar por escoltas. Imagino que seja uma boa notícia para alguém da sua profissão.
+
+Ele faz uma pausa, observando Eron por cima da caneca.
+
+— Não recebi notícias de grandes conflitos dentro da cidade. Mas minhas informações têm pelo menos dois dias, e Caldria é grande o suficiente para muita coisa acontecer sem chegar imediatamente aos meus ouvidos.
+
+Veler pousa a caneca.
+
+— Deixou alguém em Caldria de quem esteja esperando notícias, River? Ou pergunta apenas por curiosidade?
