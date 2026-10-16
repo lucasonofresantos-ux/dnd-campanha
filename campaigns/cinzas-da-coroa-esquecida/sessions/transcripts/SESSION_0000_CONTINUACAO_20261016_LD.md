@@ -36,3 +36,9 @@ Veler faz uma pausa.
 O cheiro do pão aquecido começa a chegar da cozinha.
 
 — E concordo com uma coisa, River: você sabe pouco sobre mim. Mas não confunda isso com eu saber tudo a seu respeito. Sei o bastante para ter perguntas, não respostas.
+
+**[LOG DE MEMÓRIA DA CAMPANHA]**
+
+- **Localização Atual:** Taberna A Roda Parada, perto do velho moinho, Lorn, ao amanhecer.
+- **NPCs Presentes e Relação:** Veler Sann, conversando com Eron à mesa lateral; a atendente preparando o desjejum; dois trabalhadores em outra parte do salão.
+- **Linha de Missão Ativa:** Investigar o desaparecimento de Tomas Rell, o cilindro de mapas e a origem do aviso sobre Eron.
