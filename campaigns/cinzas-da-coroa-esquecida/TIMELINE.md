@@ -311,3 +311,10 @@ Eron deixou a carroca e dirigiu-se verbalmente ao homem de olho esquerdo esbranq
 - LG: Eron menciona armadilha mortal na estrada Caldria–Lorn, armada por dois homens que cobravam passagem, e pergunta sobre o velho rei de Valdrén. Veler condena a ação, pretende alertar transportadores e relata ter ouvido de um mercador, semanas antes, que o rei ainda vivia e ocupava o trono. Relato incompleto e não verificado; não declarar status do monarca como fato canônico.
 - Local: A Roda Parada, em Lorn, pela manhã. Eron continua comendo e bebendo, não saiu; sem novo teste, gasto, combate ou danos. 11/11 PV, CA 13, 20 flechas; 125 PO, 4 PP, 5 PC.
 - Fontes: sessions/transcripts/SESSION_0000_CONTINUACAO_20261016_LF.md e LG.md.
+
+## LH 0647–0648 — Conselhos de Veler sobre Lorn
+- Eron comenta que não tem saudades de Valdrén e pergunta a Veler sobre perigos na cidade.
+- Veler recomenda conferir selo, recibo e cobrador em taxas alegadamente oficiais, evitar margens isoladas perto da Ponte Velha à noite e não divulgar indiscriminadamente a busca por Tomas Rell e sua carga. Afirma que ele próprio contratara vigilância por causa de bilhete.
+- São percepções e alertas do NPC, não comprovação de fraude específica, perseguição ou emboscada.
+- Conversa segue na taberna A Roda Parada, pela manhã; sem nova rolagem, deslocamento, combate, dano, recursos consumidos ou despesas. Eron 11/11 PV, CA 13, 20 flechas; 125 PO, 4 PP, 5 PC.
+- Transcrição: sessions/transcripts/SESSION_0000_CONTINUACAO_20261016_LH.md.
