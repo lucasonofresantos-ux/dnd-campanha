@@ -38,3 +38,9 @@ Um sorriso discreto surge no canto de sua boca.
 Darrik permanece junto ao portão, em silêncio. Veler está a aproximadamente doze metros de Eron; a porta de serviço continua aberta atrás dele. O homem da janela superior não voltou a aparecer.
 
 **Ninguém sacou uma arma ou iniciou combate.**
+
+**[LOG DE MEMÓRIA DA CAMPANHA]**
+
+- **Localização Atual:** Pátio dos fundos da Casa das Balanças, Lorn, ao amanhecer. Eron saiu do esconderijo atrás da carroça; encontra-se visível a cerca de 12 metros do homem de casaco preto.
+- **NPCs Presentes e Relação:** Homem do olho esquerdo esbranquiçado apresentou-se como **Veler Sann**, alegando ter contratado Darrik para vigiar os movimentos de Eron; identidade e justificativas são declarações do próprio homem, não independentemente verificadas. Darrik está junto ao portão, desconfortável e calado. O possível observador de boné de couro não reapareceu na janela.
+- **Linha de Missão Ativa:** Localizar Tomas Rell e o cilindro de mapas; investigar a vigilância sobre Eron, o suposto Veler e suas motivações.
