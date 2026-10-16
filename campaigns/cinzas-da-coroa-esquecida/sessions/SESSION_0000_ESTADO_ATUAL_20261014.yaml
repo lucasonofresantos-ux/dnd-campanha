@@ -1405,3 +1405,41 @@ latest_scene_jh_20261015:
   heroic_inspiration: true
   hit_die_available: 1d8
   next_actor: Eron
+
+latest_scene_ji_20261015:
+  transcript: sessions/transcripts/SESSION_0000_CONTINUACAO_20261015_JI.md
+  messages: "0544-0545"
+  payment_of_last_8_gp_received: true
+  gp_after_payment: 127
+  sp: 9
+  cp: 5
+  escort_work_completed: true
+  inn_directions: "O Javali de Ferro, ferraria proxima ao portao ocidental de Lorn"
+latest_scene_jj_20261015:
+  transcript: sessions/transcripts/SESSION_0000_CONTINUACAO_20261015_JJ.md
+  messages: "0546-0547"
+  perception: {source: python_secrets_randbelow, d20: 17, modifier: 6, total: 23, roll_id: 85}
+  gray_cloaked_man_seen_on_walk: true
+  gray_cloaked_man_intent_known: false
+  inn_visible: true
+latest_scene_jk_20261015:
+  transcript: sessions/transcripts/SESSION_0000_CONTINUACAO_20261015_JK.md
+  messages: "0548-0549"
+  location: "Salao da estalagem O Javali de Ferro, Lorn"
+  daypart: "Anoitecendo"
+  eron_entered_inn: true
+  perception: {source: python_secrets_randbelow, d20: 5, modifier: 6, total: 11, roll_id: 86}
+  observed: [balcao, lareira, mesas_ocupadas, escada, porta_atras_do_balcao, atendente, empregado]
+  suspicious_man_seen_inside: false
+  suspicious_man_whereabouts_confirmed: false
+  threat_evident: false
+  quest_accepted: false
+  hp: 11
+  ac: 13
+  arrows: 20
+  gp: 127
+  sp: 9
+  cp: 5
+  heroic_inspiration: true
+  hit_die_available: 1d8
+  next_actor: Eron
