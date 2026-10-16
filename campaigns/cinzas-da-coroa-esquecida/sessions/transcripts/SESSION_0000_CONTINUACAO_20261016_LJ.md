@@ -38,3 +38,5 @@ Rolagens executadas no script Python do projeto, usando secrets.randbelow, sem v
 Atravessando as ruas de Lorn, Eron procura os trechos menos expostos: passagens entre construções, muros de pedra e sombras projetadas pelos armazéns. Observa carroceiros, pedestres e entradas de becos. **Não identifica ninguém acompanhando seus movimentos de maneira persistente**, embora não possa descartar um perseguidor particularmente cuidadoso.
 
 À medida que se aproxima da Ponte Velha, o movimento diminui. A estrada ocidental passa entre um barranco coberto de salgueiros e um antigo muro de pedra. Adiante, a uns vinte e cinco metros, surge a **guarita de pedágio** mencionada por Veler: uma construção baixa, com parte do telhado danificada e janelas protegidas por velhas portinholas de madeira.
+
+Apesar da aparência de abandono, algo chama a atenção de Eron: **uma sombra se move brevemente por trás de uma portinhola entreaberta**.
