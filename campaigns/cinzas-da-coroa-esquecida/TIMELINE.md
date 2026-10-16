@@ -241,3 +241,10 @@ Eron tirou 16 em Carisma (Intimidacao), total 17. Um desconhecido saiu parcialme
 - Maelis retira o curativo, examina suturas feitas por Orsik e ponto reforcado por Oren; bordas unidas, sem sinais evidentes de infeccao, discreta vermelhidao. Limpa pele adjacente, repoe faixa seca e nao retira pontos.
 - Orienta poupar o braco e retornar se surgirem sinais preocupantes. Atendimento sem cobranca; nenhuma doacao realizada, nenhum teste, cura ou gasto. PV 11/11, saldo 127 PO 2 PP 5 PC.
 - Fonte: sessions/transcripts/SESSION_0000_CONTINUACAO_20261016_KD.md.
+
+## KG 0593–0594 — Confronto verbal com observador no beco
+- Eron abandona deliberadamente a posição oculta atrás dos caixotes e pergunta ao homem de capa cinza-amarronzada se estava procurando por ele, permanecendo preparado para possível combate.
+- Homem com fivela no ombro esquerdo, barba por fazer, rosto estreito e cicatriz perto do queixo se assusta, leva a mão ao cinto sem sacar arma e mantém distância aproximada de seis metros.
+- O desconhecido declara estar seguindo Eron desde sua entrada em Lorn, mediante pagamento para observar deslocamentos e contatos. O contrato e seus objetivos são somente **declarações do homem**, não fatos ainda confirmados. Quem paga permanece não revelado.
+- Ninguém atacou; nenhuma iniciativa, rolagem, nova despesa ou deslocamento relevante. Eron agora está visível no beco, 11/11 PV, 126 PO 8 PP 5 PC.
+- Fonte: sessions/transcripts/SESSION_0000_CONTINUACAO_20261016_KG.md.
