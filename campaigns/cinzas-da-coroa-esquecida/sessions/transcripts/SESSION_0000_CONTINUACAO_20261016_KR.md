@@ -20,3 +20,13 @@ O desconhecido observa Eron por alguns instantes. A luz pálida do amanhecer des
 — Eron River... — repete, num tom controlado. — Devo admitir que não esperava conhecê-lo dessa maneira.
 
 Ele olha brevemente para Darrik.
+
+— Quanto à discrição dos meus empregados, parece que sua avaliação tem algum fundamento.
+
+Darrik abre a boca, mas o homem ergue a mão, fazendo-o permanecer em silêncio.
+
+— **Veler Sann.** É assim que me conhecem em Lorn. E, antes que pergunte, sim, fui eu quem pagou para acompanharem seus passos.
+
+Ele retira a mão da porta, mas não se aproxima.
+
+— Queria saber com quem estava lidando, senhor River. Você chegou à cidade fazendo perguntas e encontrando pessoas que despertaram minha curiosidade. Preferi observá-lo antes de me apresentar.
