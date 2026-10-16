@@ -32,3 +32,11 @@ Ele faz uma pausa, observando Eron por cima da caneca.
 Veler pousa a caneca.
 
 — Deixou alguém em Caldria de quem esteja esperando notícias, River? Ou pergunta apenas por curiosidade?
+
+**[LOG DE MEMÓRIA DA CAMPANHA]**
+
+- **Localização Atual:** Taberna A Roda Parada, perto do velho moinho em Lorn, pela manhã.
+- **NPCs Presentes e Relação:** Veler Sann, relativamente cordial e reservado; atendente e dois trabalhadores no salão.
+- **Linha de Missão Ativa:** Investigar Tomas Rell e o cilindro de mapas; esclarecer origem do aviso sobre Eron; Veler tentará contatar o portador do bilhete, sem encontro garantido.
+- **Eventos Cruciais Ocorridos:** Eron relata ter vindo protegendo caravana e considera buscar recompensa por Tomas. Enquanto come e bebe, pergunta por Caldria. Veler descreve rumores comerciais sobre maior fiscalização de cargas no portão ocidental e salteadores na estrada; não confirma oficialmente novas taxas. Pergunta se Eron aguarda notícias de alguém em Caldria. Rumores não verificados.
+- **Condições do Jogador:** PV 11/11, CA 13, 20 flechas; 125 PO, 4 PP e 5 PC. Inspiração Heroica e 1d8 de Vida disponíveis; curativo no braço. Desjejum e cerveja em consumo; nenhum novo gasto, teste ou dano.
