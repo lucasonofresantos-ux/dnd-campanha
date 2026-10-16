@@ -30,3 +30,6 @@ R4 (0/8): Coroa Oca recupera testemunhas; avança com meses.
 Não avançar relógios sem passagem de tempo ou causa estabelecida. Pistas redundantes: carta, mensageiro, estalajadeiro, pedágio, marcas de carroça, registros de travessia. Fracasso não elimina toda possibilidade de investigação. Não forçar encontro ou adesão.
 ## Situação inicial
 Eron ainda não chegou a cena jogável; a carta é somente gancho preparado. Nenhum NPC abordou Eron em jogo. Guardar aqui exclusivamente os segredos; manter registros públicos livres de revelações.
+
+## ATUALIZAÇÃO OPERACIONAL 0550–0551 — Javali de Ferro
+A anotação histórica de que a carta era um gancho ainda não materializado descrevia o estado no momento do preparo, não o estado atual. Na continuação JL (0550–0551), o taberneiro exibiu sobre o balcão um envelope endereçado a Eron River, sem remetente aparente, fechado com lacre de cera cinzenta contendo árvore sem folhas. O taberneiro ainda segura a correspondência e pergunta se o interlocutor é o destinatário. O envelope não foi recebido ou aberto por Eron; não há missão aceita. A fala do jogador cita Borin como recomendador; nenhuma cena anterior com Borin foi confirmada neste ramo, portanto não criar retrospectivamente uma conversa nem afirmar que ele entregou a carta. Não revelar remetente ou objetivo até revelação em jogo.
