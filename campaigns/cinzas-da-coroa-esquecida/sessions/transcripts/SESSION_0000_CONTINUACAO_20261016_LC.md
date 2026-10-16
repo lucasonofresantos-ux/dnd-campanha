@@ -29,3 +29,4 @@ Veler permanece próximo à mesa, aguardando Eron. As cervejas estão sendo serv
 - NPCs Presentes e Relação: Veler pagando cerveja, atendente, dois trabalhadores.
 - Linha de Missão Ativa: Tomas Rell, cilindro de mapas e origem do aviso sobre Eron.
 - Eventos Cruciais Ocorridos: Eron e Veler chegaram à taberna. Vigilância passiva 16, nenhum perseguidor evidente, sem rolagem. Veler pagou cervejas.
+- Condições do Jogador: 11/11 PV, CA 13, 20 flechas, 125 PO, 6 PP e 5 PC. Inspiração Heroica disponível. Sem rolagem nova ou gasto do jogador.
