@@ -1006,3 +1006,20 @@ current_scene_lh_20261016:
   new_rolls: 0
   new_expenses: 0
   awaiting_player_action: true
+current_scene_li_20261016:
+  transcript: sessions/transcripts/SESSION_0000_CONTINUACAO_20261016_LI.md
+  last_message: "0650 — Mestre"
+  location: "Rua diante da taberna A Roda Parada, Lorn"
+  time: "Manhã"
+  eron: "Concluiu desjejum, despediu-se de Veler e saiu da taberna"
+  veler: "Permanece na taberna; prometeu tentar contatar mensageiro e avisar no Javali de Ferro"
+  destination_intended: "Ponte Velha e guarita antiga, mas ainda não iniciou percurso"
+  hp_current: 11
+  armor_class: 13
+  arrows: 20
+  money: {gp: 125, sp: 4, cp: 5}
+  heroic_inspiration: true
+  new_rolls: 0
+  new_expenses: 0
+  combat: false
+  awaiting_player_action: true
