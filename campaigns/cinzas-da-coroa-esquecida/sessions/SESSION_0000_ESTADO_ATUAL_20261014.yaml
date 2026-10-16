@@ -1656,3 +1656,31 @@ latest_scene_ke_20261016:
   heroic_inspiration: true
   hit_die_available: 1d8
   next_actor: Eron
+
+latest_scene_kf_20261016:
+  transcript: sessions/transcripts/SESSION_0000_CONTINUACAO_20261016_KF.md
+  messages: "0591-0592"
+  location: "Beco pouco iluminado ao lado da rota do Javali de Ferro, Lorn"
+  daypart: "Noite"
+  eron: "Oculto atras de caixotes, observando entrada do beco"
+  npc: "Homem desconhecido de capa cinza-amarronzada com metal no ombro"
+  npc_distance_m: 6
+  npc_activity: "Parou apos entrar alguns passos no beco e observa entorno"
+  npc_detected_eron: false
+  npc_identity_known: false
+  initiative_started: false
+  stealth:
+    expression: "1d20+6"
+    roll: [17]
+    kept_indices: [0]
+    modifier: 6
+    total: 23
+    method: python_secrets_randbelow
+    roll_number: 94
+  hp: 11
+  ac: 13
+  arrows: 20
+  money: {gp: 126, sp: 8, cp: 5}
+  heroic_inspiration: true
+  hit_die_available: 1d8
+  next_actor: Eron
