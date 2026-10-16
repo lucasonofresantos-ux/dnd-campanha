@@ -31,3 +31,5 @@ Ele se afasta na direção da rua, deixando Eron seguir para o **Javali de Ferro
 Ao entrar na estalagem, Eron encontra o salão mais tranquilo do que antes. O fogo arde baixo na lareira, algumas mesas estão vazias, e Marden limpa canecas atrás do balcão. Dois carroceiros conversam perto do fogo, enquanto um homem mais velho termina uma bebida junto à parede.
 
 — Voltou, senhor River? Ainda tenho ensopado quente, pão e um pouco de queijo. **Uma peça de prata pela refeição.**
+
+Enquanto aguarda a comida, Eron observa discretamente o salão. Com a iluminação irregular e as conversas abafadas, **não identifica ninguém que reconheça como seu perseguidor, nem alguém claramente à sua espera**. Contudo, também não consegue descartar que algum dos presentes esteja observando sem chamar atenção.
