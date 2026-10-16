@@ -32,3 +32,5 @@ Ele ergue os olhos para Eron.
 - **Linha de Missão Ativa:** Escolta concluída e paga. Um envelope endereçado a Eron River foi apresentado pelo taberneiro, mas ainda não foi entregue nem aberto; nenhuma nova missão aceita.
 - **Eventos Cruciais Ocorridos:** Eron mencionou o anão Borin e perguntou por correspondência. Taberneiro mostrou envelope sem remetente, lacrado em cera cinzenta com árvore sem folhas, e perguntou se Eron é o destinatário. Nenhuma rolagem nova.
 - **Condições do Jogador:** 11/11 PV, CA 13, 20 flechas; 127 PO, 9 PP e 5 PC; Inspiração Heroica e 1d8 de Vida disponíveis.
+
+<text color="secondary" size="xs">GitHub: transcrição 0550–0551, índice, estado, cronologia e atualização reservada do Mestre confirmados. Commit da transcrição: `7ca24a23`.</text>
