@@ -166,3 +166,8 @@ Eron tirou 16 em Carisma (Intimidacao), total 17. Um desconhecido saiu parcialme
 ## IY 0524–0525 — Troca de guarda após segunda ronda
 - Eron aguardou no muro, vigiando durante aproximadamente duas horas. O ruído anterior do bosque não se repetiu, e nenhuma ameaça se aproximou do acampamento. A origem do farfalhar continua desconhecida. Sem teste adicional, combate, dano ou perdas.
 - Orven assumiu a terceira ronda e indicou que um cocheiro cobrirá a quarta. Perguntou a Eron se havia algo a relatar; resposta ainda pendente. Eron havia dormido aproximadamente 2h antes da vigia de 2h e ainda não completou descanso longo. Fonte: `sessions/transcripts/SESSION_0000_CONTINUACAO_20261015_IY.md`.
+
+## IZ 0526–0527 — Fim da noite e amanhecer
+- Eron alertou Orven sobre um possível movimento entre as árvores (origem não confirmada). Orven permaneceu atento ao setor, sem mandar ninguém investigar no escuro. Eron comeu um pão coberto pelas provisões do contrato e foi dormir.
+- Terceira ronda: Orven; quarta: um cocheiro. Não houve ocorrência que exigisse acordar Eron. Darin o chamou ao amanhecer, quando as carroças ainda estavam estacionadas, intactas, e os condutores preparavam a partida. A origem do farfalhar não foi determinada.
+- Descanso longo concluído: ~2 h de sono antes da vigia, ~2 h de vigia e ~4 h adicionais dormindo. PV 11/11, CA 13, 20 flechas; 119 PO, 9 PP, 5 PC; Inspiração Heroica e 1d8 disponíveis. Sem débito de rações pessoais, já que o contrato inclui alimentação. Fonte: `sessions/transcripts/SESSION_0000_CONTINUACAO_20261015_IZ.md`.
