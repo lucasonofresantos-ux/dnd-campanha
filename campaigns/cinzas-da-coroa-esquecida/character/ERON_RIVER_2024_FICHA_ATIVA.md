@@ -36,3 +36,10 @@ Local: acesso ocidental da cidade de Lorn, Caldria; fim da tarde chuvoso de outo
 - Quarto reservado até amanhã ao meio-dia, chave em posse de Eron. Saldo **127 PO, 2 PP, 5 PC**, 20 flechas, CA 13, Inspiração Heroica e dado de Vida 1d8 disponíveis.
 - Marden indicou a Botica do Salgueiro (Miren) para avaliação da sutura e aquisição de kit, disponibilidade de poção desconhecida. **Nenhum item adquirido neste turno.**
 - Fonte: transcripts JO e JP.
+
+## Atualizacao operacional KA
+- Noite em Lorn: Eron esta em frente a capela da Senhora das Aguas, perto do cais; ainda nao entrou ou recebeu cuidados ali.
+- Observacao ao longo dos armazens: Percepcao em Python **1d20 [9]+6=15** (ordem 92), viu uma pessoa a distancia que se afastou por rua lateral, sem identifica-la como o seguidor antigo.
+- Personagem com **11/11 PV**, CA 13, 20 flechas, **127 PO, 2 PP, 5 PC**, Inspiracao Heroica e 1d8 de Vida disponiveis. Suturas e curativo permanecem como antes. Chave e carta aberta permanecem em posse de Eron.
+- Missao ainda em negociacao: Garrick diz que encaminhara exigencias de Eron sobre Valdren e bonus pela vida de Tomas Rell, sem garantias.
+- Fonte: sessions/transcripts/SESSION_0000_CONTINUACAO_20261016_KA.md.
