@@ -1225,3 +1225,38 @@ latest_scene_iz_20261015:
   hit_die_available: 1d8
   escort_balance_due_gp: 8
   next_actor: Eron
+
+latest_scene_ja_20261015:
+  source: sessions/transcripts/SESSION_0000_CONTINUACAO_20261015_JA.md
+  messages: "0528-0529"
+  daypart: "Perto do meio-dia; dia seguinte ao pernoite"
+  location: "Recuo firme junto a riacho, estrada Caldria-Lorn"
+  camp_broken: true
+  bandage_inspected: true
+  arm_stitches_closed: true
+  arm_fresh_bleeding: false
+  bandage_damp: true
+  eron_helped_break_camp: true
+  perception_roll: "1d20 [1] +6 = 7"
+  natural_1: true
+  natural_1_auto_fail_skill_check: false
+  vigilance_scope: "Trecho da manha apos o pernoite, ate parada junto ao riacho"
+  obvious_threat_detected: false
+  concealed_threats_ruled_out: false
+  elapsed_travel: "Algumas horas; ate perto do meio-dia"
+  convoy_wagons: 3
+  convoy_stopped: true
+  convoy_stop_reason: "Dar agua aos cavalos e revisar rodas"
+  convoy_escort_still_active: true
+  new_incident: false
+  combat: false
+  hp: 11
+  ac: 13
+  arrows: 20
+  gp: 119
+  sp: 9
+  cp: 5
+  heroic_inspiration: true
+  hit_die_available: 1d8
+  escort_balance_due_gp: 8
+  next_actor: Eron
