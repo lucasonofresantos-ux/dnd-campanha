@@ -34,3 +34,5 @@ Os trabalhadores conferem os volumes, descarregam as três carroças e entregam 
 - **Linha de Missão Ativa:** Escolta e entrega das três carroças **concluídas**; Orven oferece os **8 PO restantes**, ainda não recebidos por Eron.
 - **Eventos Cruciais Ocorridos:** Percepção **1d20 [17] +6 = 23**, informada pelo jogador a partir do rolador visual local. Eron identificou o mesmo homem de capa e fivela metálica em dois pontos, sem determinar suas intenções. Documentos aprovados, carga entregue e recibo assinado. Nenhum combate ou dano.
 - **Condições do Jogador:** 11/11 PV, CA 13, 20 flechas; **119 PO, 9 PP e 5 PC** até aceitar o pagamento; Inspiração Heroica e 1d8 de Vida disponíveis.
+
+**Registro:** transcrição 0542–0543, rolagem 84, índice, estado e cronologia suplementar confirmados no GitHub. A transcrição integral anterior (0537/JE) continua pendente porque a edição do arquivo foi bloqueada.
