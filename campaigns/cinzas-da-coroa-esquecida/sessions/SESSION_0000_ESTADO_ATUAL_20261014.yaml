@@ -1625,3 +1625,34 @@ latest_scene_kd_20261016:
   heroic_inspiration: true
   hit_die_available: 1d8
   next_actor: Eron
+
+latest_scene_ke_20261016:
+  messages: "0589-0590"
+  transcript: sessions/transcripts/SESSION_0000_CONTINUACAO_20261016_KE.md
+  time: "Noite"
+  location: "Rua diante do Javali de Ferro, Lorn; Eron ainda nao entrou"
+  donation:
+    to: "Capela da Senhora das Aguas"
+    silver_pieces: 4
+    change_made: "1 PO trocado por 10 PP com irma Maelis"
+  perception:
+    expression: "1d20+6"
+    method: python_secrets_randbelow
+    dice: [12]
+    kept_indices: [0]
+    modifier: 6
+    total: 18
+    roll_order: 93
+  approach: "Deliberadamente visivel; nao tentou Furtividade"
+  suspected_follower: "Homem de capa cinza-amarronzada, reflexo metalico no ombro, visto em trechos sucessivos; agora perto da ferraria"
+  identity_confirmed: false
+  intent_confirmed: false
+  entering_inn: false
+  treatment_at_chapel: "Curativo limpo, pontos nao removidos"
+  hp: 11
+  ac: 13
+  arrows: 20
+  money: {gp: 126, sp: 8, cp: 5}
+  heroic_inspiration: true
+  hit_die_available: 1d8
+  next_actor: Eron
