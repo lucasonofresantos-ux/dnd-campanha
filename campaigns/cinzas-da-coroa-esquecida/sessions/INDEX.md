@@ -572,3 +572,5 @@ Arquivos produzidos nesta conferência: `transcripts/AUDITORIA_CONTINUIDADE_2026
 
 [JE — 0536–0537](transcripts/SESSION_0000_CONTINUACAO_20261015_JE.md) — Eron pede brevidade na parada e mantém Percepção 25; Orven prepara carroças. A transcrição JE contém marcador de texto integral pendente de sincronização; a cena permaneceu junto ao riacho.
 [JF — 0538–0539](transcripts/SESSION_0000_CONTINUACAO_20261015_JF.md) — Jogador mantém Percepção 25 para vigilância contínua e autoriza avanço até próxima parada ou problema. As três carroças saem do riacho, seguem sem novo incidente e param no fim da tarde na fiscalização de entrada de Lorn. Guardas solicitam documentos a Orven; entrega de cargas e 8 PO pendentes. Fonte literal commit `ef0b91038cd5f818b16794117fefa944655440d1`.
+
+[JG — 0540–0541](transcripts/SESSION_0000_CONTINUACAO_20261015_JG.md) — Fiscalizacao em curso em Lorn; Eron pediu rolador visual 1d20+6 para verificar perseguidores. Entrega e 8 PO pendentes. Sem nova rolagem; resultado aguardado.
