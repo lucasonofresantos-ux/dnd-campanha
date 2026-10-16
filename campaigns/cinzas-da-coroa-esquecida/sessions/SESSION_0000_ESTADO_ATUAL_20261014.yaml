@@ -1443,3 +1443,32 @@ latest_scene_jk_20261015:
   heroic_inspiration: true
   hit_die_available: 1d8
   next_actor: Eron
+
+latest_scene_jl_20261015:
+  transcript: sessions/transcripts/SESSION_0000_CONTINUACAO_20261015_JL.md
+  messages: "0550-0551"
+  location: "Balcao do Javali de Ferro, Lorn"
+  daypart: "Anoitecendo"
+  player_mentions: "Borin, anao que recomendou a estalagem"
+  npc: "Taberneiro sem nome revelado"
+  letter:
+    addressed_to: Eron River
+    appearance: "Envelope grosso, cera cinzenta, arvore sem folhas"
+    sender_identified: false
+    contents_known_to_eron: false
+    held_by: "Taberneiro, no balcao"
+    delivered_to_eron: false
+    opened: false
+  innkeeper_question: "Suponho que esteja falando com o proprio Eron River?"
+  mission_accepted: false
+  old_gray_cloak_follower_whereabouts_known: false
+  new_roll: false
+  hp: 11
+  ac: 13
+  arrows: 20
+  gp: 127
+  sp: 9
+  cp: 5
+  heroic_inspiration: true
+  hit_die_available: 1d8
+  next_actor: Eron
