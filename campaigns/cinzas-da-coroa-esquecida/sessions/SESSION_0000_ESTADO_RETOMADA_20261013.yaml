@@ -958,3 +958,28 @@ current_scene_le_20261016:
   expenses_this_exchange: 0
   combat: false
   awaiting_player_action: true
+
+current_scene_lg_20261016:
+  campaign_id: cinzas-da-coroa-esquecida
+  session: 0
+  latest_transcript: sessions/transcripts/SESSION_0000_CONTINUACAO_20261016_LG.md
+  last_message: "0646 — Mestre"
+  location: "A Roda Parada, taberna em Lorn"
+  time: "Manhã"
+  eron: "Come e bebe; conversa com Veler, permanece na taberna"
+  veler: "Ouviu relato de Eron sobre dois homens que cobravam pedágio com armadilha mortal; disse que alertará transportadores. Reportou boato de semanas atrás de que velho rei de Valdrén estava vivo e no trono"
+  valdrén_king_status: "Não estabelecido com certeza; apenas rumor atribuído por Veler a um mercador"
+  tavern_food: "Dois desjejuns pagos por Eron em LD, em consumo"
+  active_quests: ["Procurar Tomas Rell e cilindro de mapas", "Descobrir origem do aviso sobre Eron e mensageiro"]
+  messenger_meeting: "Contato prometido por Veler, sem agendamento confirmado"
+  hp_current: 11
+  hp_max: 11
+  armor_class: 13
+  arrows: 20
+  money: {gp: 125, sp: 4, cp: 5}
+  heroic_inspiration: true
+  hit_dice_available: "1d8"
+  new_rolls: 0
+  new_expenses: 0
+  combat: false
+  awaiting_player_action: true
