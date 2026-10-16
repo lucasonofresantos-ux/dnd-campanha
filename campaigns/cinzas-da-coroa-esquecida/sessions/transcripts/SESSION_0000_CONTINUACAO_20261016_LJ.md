@@ -34,3 +34,5 @@ Rolagens executadas no script Python do projeto, usando secrets.randbelow, sem v
   </grid>
   <caption>Ambas as rolagens foram executadas com o script Python do projeto e `secrets.randbelow`, sem vantagem ou desvantagem.</caption>
 </box>
+
+Atravessando as ruas de Lorn, Eron procura os trechos menos expostos: passagens entre construções, muros de pedra e sombras projetadas pelos armazéns. Observa carroceiros, pedestres e entradas de becos. **Não identifica ninguém acompanhando seus movimentos de maneira persistente**, embora não possa descartar um perseguidor particularmente cuidadoso.
