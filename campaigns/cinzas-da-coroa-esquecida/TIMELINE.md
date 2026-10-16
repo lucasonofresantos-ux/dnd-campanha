@@ -258,3 +258,9 @@ Eron tirou 16 em Carisma (Intimidacao), total 17. Um desconhecido saiu parcialme
 - Darrik concorda sob condição de receber pagamento antecipado, de Eron manter distância e de não ser envolvido num confronto. Darrik não garante a presença de Veler nem conhece os planos de Eron.
 - O pagamento **ainda não ocorreu**; o acordo continua condicional. Nenhuma mudança de tempo, gasto, teste, combate ou posição. Eron possui 126 PO, 8 PP e 5 PC.
 - Transcrição: sessions/transcripts/SESSION_0000_CONTINUACAO_20261016_KK.md.
+
+## KL 0603–0604 — Pagamento de Darrik e acordo confirmado
+- Eron entrega voluntariamente **6 peças de prata** a Darrik no beco junto ao Javali de Ferro em Lorn, à noite, e ironiza a discrição dele. Darrik conta e guarda as moedas.
+- Darrik confirma comparecer amanhã ao nascer do sol ao portão de serviço dos fundos da Casa das Balanças, relatar o observado sem mencionar que conversou com Eron, e permitir que Eron o siga. Ainda não há garantia de que o alegado Veler Sann compareça ou de suas verdadeiras intenções.
+- Saldo de Eron cai de **126 PO 8 PP 5 PC** para **126 PO 2 PP 5 PC**. PV 11/11, CA 13, 20 flechas, Inspiração Heroica e 1d8 disponíveis. Sem combate, testes, fuga, encerramento da conversa ou passagem ao amanhecer.
+- Fonte literal: sessions/transcripts/SESSION_0000_CONTINUACAO_20261016_KL.md.
