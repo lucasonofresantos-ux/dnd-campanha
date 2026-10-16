@@ -285,3 +285,10 @@ Eron deixou a carroca e dirigiu-se verbalmente ao homem de olho esquerdo esbranq
 - Veler diz ser destro, afirma ter recebido por intermediário externo a Lorn nome, aparência e referência ao serviço anterior de Eron na guarda de Valdrén, e diz que contratou Darrik por decisão própria. Não identifica o remetente. As declarações são informações atribuídas ao NPC, sem confirmação independente.
 - Veler devolve uma pergunta a Eron. Darrik continua afastado; a porta de serviço está aberta. Nenhuma arma sacada, combate, rolagem, dano ou gasto; PV 11/11, CA 13, 20 flechas, 125 PO 6 PP 5 PC.
 - Fonte literal: sessions/transcripts/SESSION_0000_CONTINUACAO_20261016_KV.md.
+
+## KW–KY 0625–0630 — Informação sobre Eron e Tomas, moeda não lançada
+- KW: Eron cobra origem do aviso e segura moeda sem declarar valor nem intenção final. Veler alega ter recebido bilhete sem assinatura dois dias antes da chegada de Eron, trazido por mensageiro que disse vir pela estrada ocidental, e uma menção especulativa à ligação de Eron com o desaparecimento de Tomas. Veler declara conhecer entregador, não autor. Declarações não verificadas.
+- KX: Eron esclarece não conhecer o nome de Tomas Rell antes da conversa, pergunta se Veler conhece a cidade de onde partiu e pede para escolher cara ou coroa. Veler declara desconhecer cidade imediatamente anterior e escolhe coroa. Eron não lançou moeda.
+- KY: Eron cogita não jogar a moeda, pergunta o ofício de Tomas e questiona o interesse de Valdrén após anos longe. Veler descreve Tomas como transportador de documentos/registros/encomendas, sem saber destino; separa a estrada ocidental de qualquer prova de envolvimento da guarda de Valdrén, mantém identidade da fonte reservada.
+- Pátio da Casa das Balanças, amanhecer. Eron e Veler visíveis, a aproximadamente 12 m; Darrik dispensado; porta de serviço aberta. PV 11/11, CA 13, 20 flechas, 125 PO 6 PP 5 PC. Nenhum teste, dano, combate, gasto ou lançamento de moeda.
+- Transcrições: sessions/transcripts/SESSION_0000_CONTINUACAO_20261016_KW.md, KX.md e KY.md.
