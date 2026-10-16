@@ -1511,3 +1511,54 @@ latest_scene_jm_20261015:
   heroic_inspiration: true
   hit_die_available: 1d8
   next_actor: Eron
+
+latest_scene_jn_20261015:
+  messages: "0554-0555"
+  transcript_player: sessions/transcripts/SESSION_0000_CONTINUACAO_20261015_JN.md
+  transcript_master: sessions/transcripts/SESSION_0000_CONTINUACAO_20261015_JN_RESPOSTA.md
+  inn_room_reserved: true
+  cost_room_sp: 5
+  cost_bath_sp: 2
+  total_sp_paid: 7
+  room_key_received: true
+latest_scene_jo_20261015:
+  messages: "0556-0557"
+  transcript: sessions/transcripts/SESSION_0000_CONTINUACAO_20261015_JO.md
+  eron_reached_room: true
+  follower_seen_ascending: false
+  letter_opened: true
+  offered_reward_gp_find_missing: 50
+  offered_reward_gp_recover_object: 50
+  meeting_time: "Ponte Velha amanha ao anoitecer"
+  letter_sender_known: false
+  letter_statement_about_exile_verified: false
+  quest_accepted: false
+  arm_cleaned_and_bandage_changed: true
+  stitches_closed_no_recent_bleeding: true
+latest_scene_jp_20261015:
+  messages: "0558-0559"
+  transcript: sessions/transcripts/SESSION_0000_CONTINUACAO_20261015_JP.md
+  location: "Salao do Javali de Ferro, balcao de Marden, Lorn"
+  daypart: "Noite"
+  bath_taken: true
+  ongoing_vigilance: true
+  new_dice_roll: false
+  gray_cloaked_man_seen_in_inn: false
+  letter_delivered_according_to_marden: "Ontem, pouco antes de anoitecer"
+  courier: "Pessoa de botas enlameadas e capa de chuva, sem nome revelado"
+  old_bridge: "Rio abaixo, apos armazens e moinho antigo, cerca de vinte minutos a pe"
+  apothecary: "Miren na Botica do Salgueiro, Rua dos Oleiros"
+  healers_kit_price_approx_gp: 5
+  healing_potion_price_approx_gp: 50
+  healing_potion_availability: unknown
+  nighttime_wound_care: "Possivel na capela da Senhora das Aguas, perto do cais"
+  transactions_now: none
+  hp: 11
+  ac: 13
+  arrows: 20
+  money: {gp: 127, sp: 2, cp: 5}
+  heroic_inspiration: true
+  hit_die_available: 1d8
+  letter_opened_kept: true
+  room_key_kept: true
+  next_actor: Eron
