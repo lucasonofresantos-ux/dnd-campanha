@@ -39,3 +39,5 @@ Veler mantém a posição diante da porta de serviço. A moeda continua na mão 
 - **Linha de Missão Ativa:** Investigar o desaparecimento de Tomas Rell e o cilindro de mapas; descobrir a origem das informações sobre Eron.
 - **Eventos Cruciais Ocorridos:** Veler afirma desconhecer a cidade de procedência imediata de Eron, admite conhecer o portador do bilhete e considera facilitar um contato. Escolhe **coroa**. Nenhuma moeda foi lançada, e nenhuma nova rolagem ocorreu.
 - **Condições do Jogador:** PV 11/11; CA 13; 20 flechas; 125 PO, 6 PP e 5 PC. Uma moeda está na mão de Eron, sem valor especificado ou gasto confirmado. Inspiração Heroica disponível. Sem combate ou novas rolagens.
+
+<text color="secondary" size="xs">GitHub: as mensagens 0625–0626 ainda precisam de sincronização integral; a gravação da nova troca 0627–0628 também foi bloqueada. Nenhum commit novo foi confirmado.</text>
