@@ -37,3 +37,5 @@ As três carroças param. Os condutores começam a soltar os cavalos para levá-
 - **Linha de Missão Ativa:** Escolta de três carroças até Lorn; 8 PO pendentes na entrega.
 - **Eventos Cruciais Ocorridos:** Eron examinou o curativo (sutura fechada, sem sangramento recente), ajudou a levantar acampamento e vigiou a marcha. **Percepção: 1d20 [1] +6 = 7.** Após algumas horas sem incidente identificado, Orven parou o comboio para dar água aos cavalos e examinar as rodas.
 - **Condições do Jogador:** 11/11 PV, CA 13, 20 flechas; 119 PO, 9 PP e 5 PC; Inspiração Heroica e 1d8 de Vida disponíveis. Nenhum dano, consumo de flechas ou pagamento.
+
+Sincronizacao: transcript, dados, indice e estado verificados; cronologia em suplemento.
