@@ -47,3 +47,7 @@ Eron agradece e deixa o Javali de Ferro, enquanto o estalajadeiro retoma seus pr
 </box>
 
 A neblina cobre as ruas de Lorn, e as primeiras carroças começam a se movimentar perto do cais. Eron segue pelas passagens laterais, aproveitando paredes, carroças estacionadas e trechos de sombra. Não percebe ninguém mantendo seus passos durante o trajeto, embora isso não prove que esteja sozinho.
+
+A **Casa das Balanças** surge além do velho moinho: um edifício de pedra escurecida, com um pátio de cargas nos fundos e um portão de serviço reforçado por ferragens. Eron encontra cobertura atrás de uma carroça carregada de sacos, aproximadamente doze metros distante do portão. Dali consegue observar o acesso e boa parte do pátio sem se expor.
+
+Com sua percepção aguçada, nota algo que um transeunte provavelmente ignoraria: **um sujeito de boné de couro permanece junto à janela de um depósito no andar superior**. Ele olha repetidamente para a rua e para o portão, mas não demonstra interesse nas cargas. Pode estar vigiando o local; Eron ainda não tem como confirmar sua ligação com Darrik ou Veler.
