@@ -18,3 +18,9 @@ O pão de centeio ainda está quente, com a crosta estalando ao ser partida. O m
 — Então veio escoltando uma caravana? — Veler solta uma risada discreta. — Um trabalho honesto e perigoso. E agora pretende aproveitar o intervalo entre contratos para procurar um desaparecido e ganhar algumas moedas. Começo a entender seu modo de pensar, River.
 
 Ele bebe um gole e limpa a espuma do bigode com o polegar.
+
+— Quanto a **Caldria**, tenho algumas notícias, embora nenhuma seja tão recente quanto gostaria. Os mercadores que passaram por aqui nos últimos dias andam reclamando de fiscalizações mais rigorosas no portão ocidental. Dizem que os guardas estão conferindo lacres, documentos de carga e autorizações que antes mal examinavam. Alguns acreditam que seja preparação para novas tarifas; outros dizem que estão procurando mercadorias desviadas. **Ainda não vi qualquer decreto confirmando uma coisa ou outra.**
+
+Veler parte um pedaço de queijo e continua:
+
+— Também ouvi falar de problemas com salteadores na estrada entre Caldria e Lorn. Isso não é novidade, mas os comerciantes andam mais dispostos a pagar por escoltas. Imagino que seja uma boa notícia para alguém da sua profissão.
