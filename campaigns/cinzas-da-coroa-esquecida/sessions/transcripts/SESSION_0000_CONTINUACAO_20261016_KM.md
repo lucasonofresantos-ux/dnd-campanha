@@ -12,3 +12,22 @@ Vou até a taverna peço algo para comer e rolê percepção para mim na taverna
 Vou conferir o estado da campanha, o preço da comida e a ficha de Eron. Depois executarei a rolagem de Percepção +6 e narrarei o que ele nota no Javali de Ferro antes de subir para descansar.
 
 ## Mensagem 0606 — Mestre (resposta visível integral)
+
+<row align="center" gap={3}>
+  <icon name="eye" color="secondary" size="xl"/>
+  <box flex="1" gap={1}>
+    **Sabedoria (Percepção) — Eron River**
+    <title size="2xl" tabularNums>9</title>
+    <text color="secondary" size="xs">1d20 → [3] +6 = 9 · Rolagem real em Python</text>
+  </box>
+</row>
+
+Darrik solta uma risada diante do comentário sobre as dez peças de ouro.
+
+— Então fiz um excelente negócio esta noite. Descanse, River. Amanhã veremos se nosso amigo aparece.
+
+Ele se afasta na direção da rua, deixando Eron seguir para o **Javali de Ferro**.
+
+Ao entrar na estalagem, Eron encontra o salão mais tranquilo do que antes. O fogo arde baixo na lareira, algumas mesas estão vazias, e Marden limpa canecas atrás do balcão. Dois carroceiros conversam perto do fogo, enquanto um homem mais velho termina uma bebida junto à parede.
+
+— Voltou, senhor River? Ainda tenho ensopado quente, pão e um pouco de queijo. **Uma peça de prata pela refeição.**
