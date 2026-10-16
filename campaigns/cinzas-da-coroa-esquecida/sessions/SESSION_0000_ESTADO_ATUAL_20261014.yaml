@@ -1360,3 +1360,48 @@ latest_scene_jf_20261015:
   heroic_inspiration: true
   hit_die_available: 1d8
   next_actor: Eron
+
+latest_scene_jg_20261015:
+  source: sessions/transcripts/SESSION_0000_CONTINUACAO_20261015_JG.md
+  messages: "0540-0541"
+  location: "Posto de entrada de Lorn"
+  checkpoint_document_review_started: true
+  requested_check: "Percepcao 1d20+6 para possiveis perseguidores"
+
+latest_scene_jh_20261015:
+  source: sessions/transcripts/SESSION_0000_CONTINUACAO_20261015_JH.md
+  messages: "0542-0543"
+  location: "Patio de descarga dentro de Lorn"
+  daypart: "Final da tarde"
+  perception_roll:
+    source: jogador_rolador_visual_local
+    d20_natural: 17
+    modifier: 6
+    total: 23
+    roll_order: 84
+    new_python_execution: false
+  observer:
+    appearance: "Homem de capa cinza-escura com fivela de metal no ombro"
+    first_seen: "Posto de fiscalizacao observando a fila"
+    seen_again: "Proximidades do patio, em sombra de alpendre"
+    identity_known: false
+    hostilities_known: false
+    target_known: false
+  inspection_passed: true
+  cargo_delivered: true
+  delivery_receipt_signed: true
+  three_wagons_unloaded: true
+  escort_work_complete: true
+  promised_escort_gp: 12
+  escort_paid_prior_gp: 4
+  remaining_gp_offered: 8
+  remaining_gp_received: false
+  hp: 11
+  ac: 13
+  arrows: 20
+  gp: 119
+  sp: 9
+  cp: 5
+  heroic_inspiration: true
+  hit_die_available: 1d8
+  next_actor: Eron
