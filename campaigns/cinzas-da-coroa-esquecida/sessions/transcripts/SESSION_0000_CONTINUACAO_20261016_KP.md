@@ -71,3 +71,11 @@ O homem de casaco preto franze a testa.
 O desconhecido olha na direção do acesso ao pátio. O homem na janela superior continua em seu posto. **Nenhum deles demonstrou perceber Eron.**
 
 A conversa prossegue em voz mais baixa, e Eron continua oculto, em posição de observar.
+
+**[LOG DE MEMÓRIA DA CAMPANHA]**
+
+- **Localização Atual:** Atrás de carroça carregada de sacos, a aproximadamente 12 metros do portão de serviço dos fundos da Casa das Balanças, no cais de Lorn; amanhecer começando.
+- **NPCs Presentes e Relação:** Darrik conversa junto ao portão com homem cuja aparência coincide com a descrição do alegado contratante **Veler Sann** (identidade não confirmada). Um terceiro homem com boné de couro observa a rua e o portão de janela superior; possível vigia, associação ainda não comprovada. Marden permanece na estalagem e concordou em guardar correspondências com os nomes Eron River e Garrick, dentro de limites previamente estabelecidos.
+- **Linha de Missão Ativa:** Investigar desaparecimento de Tomas Rell e recuperar cilindro de mapas (oferta de 50 PO por objetivo, condições adicionais ainda não autorizadas). Identificar quem contratou Darrik e investigar seus motivos.
+- **Eventos Cruciais Ocorridos:** Eron esclareceu que o contato da Ponte Velha se chama **Garrick**, pediu que Marden recebesse ou guardasse cartas destinadas a ele ou a Eron e pagou **5 PP** por mais uma diária, após trocar **1 PO por 10 PP**; refeição anterior já estava quitada. Hospedagem renovada até o meio-dia seguinte. No Roll20, jogador informou Furtividade **d20 [20] +6 = 26**, Percepção **d20 [18] +6 = 24**, registrados como rolagens nº 96–97, sem execução nova. Eron chegou oculto à Casa das Balanças antes de Darrik, notou observador numa janela e presenciou a aproximação de homem cuja descrição corresponde à de Veler; ouviu parte da conversa de Darrik sobre movimentos noturnos e uma pergunta sobre encontro na Ponte Velha. Nenhum combate.
+- **Condições do Jogador:** **11/11 PV, CA 13, 20 flechas; 125 PO, 6 PP e 5 PC.** Inspiração Heroica e 1d8 de Vida disponíveis; braço com suturas fechadas e curativo limpo. Carta aberta e chave do quarto em posse. Eron está **oculto** e não revelou sua posição.
