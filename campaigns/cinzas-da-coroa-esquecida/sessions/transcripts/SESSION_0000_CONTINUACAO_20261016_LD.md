@@ -45,3 +45,5 @@ O cheiro do pão aquecido começa a chegar da cozinha.
 
 - **Eventos Cruciais Ocorridos:** Eron pediu dois desjejuns e assumiu o pagamento de 2 PP. Veler afirmou trabalhar como intermediário de cargas e documentos. Disse que desaparecimento de Tomas afeta seus negócios e que o aviso sobre Eron despertou seu interesse. São declarações do NPC, não verificadas independentemente. Cervejas pagas por Veler; comida em preparo.
 - **Condições do Jogador:** 11/11 PV, CA 13, 20 flechas; **125 PO, 4 PP e 5 PC** após o pagamento. Inspiração Heroica e 1d8 de Vida disponíveis; braço com curativo limpo. Sem nova rolagem nem combate. Eron ainda não escolheu assento nem consumiu o desjejum.
+
+Nota de sincronização: tentativas de criar esta transcrição no GitHub foram bloqueadas; esta cópia local não é confirmação de persistência no repositório.
