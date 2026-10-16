@@ -12,3 +12,5 @@ Vou registrar a despedida de Eron e conferir a última posição na campanha. De
 ## Mensagem 0650 — Mestre (narração visível)
 
 Veler ergue a caneca quando Eron termina o desjejum e se despede.
+
+— Foi um prazer inesperado, River. Espero que encontre o que procura. Se descobrir algo sobre Tomas Rell, gostaria de ouvir. E quanto ao mensageiro, farei o possível para localizá-lo. Se conseguir uma resposta, mandarei notícia ao Javali de Ferro, como combinamos.
