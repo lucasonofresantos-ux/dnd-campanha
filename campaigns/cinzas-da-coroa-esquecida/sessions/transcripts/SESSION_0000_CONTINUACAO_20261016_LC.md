@@ -28,3 +28,4 @@ Veler permanece próximo à mesa, aguardando Eron. As cervejas estão sendo serv
 - Localização Atual: Taberna A Roda Parada, Lorn, perto do velho moinho.
 - NPCs Presentes e Relação: Veler pagando cerveja, atendente, dois trabalhadores.
 - Linha de Missão Ativa: Tomas Rell, cilindro de mapas e origem do aviso sobre Eron.
+- Eventos Cruciais Ocorridos: Eron e Veler chegaram à taberna. Vigilância passiva 16, nenhum perseguidor evidente, sem rolagem. Veler pagou cervejas.
