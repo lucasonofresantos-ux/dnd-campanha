@@ -20,3 +20,5 @@ Ele esboça um sorriso.
 — E cuidado na estrada. Seria uma pena perder um possível parceiro de negócios logo depois de lhe pagar uma cerveja.
 
 A atendente agradece a visita enquanto Eron atravessa o salão e sai da taberna.
+
+A porta de madeira range às suas costas. O ar frio da manhã substitui o calor da lareira, trazendo o cheiro de terra úmida e fumaça das chaminés. A roda do velho moinho gira lentamente junto ao curso d'água, enquanto carroças e trabalhadores movimentam as ruas de Lorn.
