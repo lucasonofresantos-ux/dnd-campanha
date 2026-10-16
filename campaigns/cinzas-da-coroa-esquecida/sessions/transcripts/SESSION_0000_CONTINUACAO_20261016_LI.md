@@ -4,3 +4,9 @@
 
 Obrigado pelo conselho e acho que vou até lá, se descobrir algo de interessante te aviso, e obrigado pela bebida.
 Termino de comer, me despeço e saio da taverna
+
+## Mensagem visível de andamento do Mestre
+
+Vou registrar a despedida de Eron e conferir a última posição na campanha. Depois narro a saída da taberna e o que ele encontra na rua, sem fazê-lo seguir automaticamente até a guarita.
+
+## Mensagem 0650 — Mestre (narração visível)
