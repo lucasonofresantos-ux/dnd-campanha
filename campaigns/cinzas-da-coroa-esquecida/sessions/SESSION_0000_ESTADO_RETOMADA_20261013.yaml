@@ -933,3 +933,28 @@ current_scene_lc_20261016:
   beer_paid_by_eron: false
   combat: false
   awaiting_player_action: true
+
+current_scene_le_20261016:
+  campaign_id: cinzas-da-coroa-esquecida
+  session: 0
+  last_transcript: sessions/transcripts/SESSION_0000_CONTINUACAO_20261016_LE.md
+  last_message: "0642 — Mestre"
+  location: "Taberna A Roda Parada, Lorn"
+  time: "Amanhecer"
+  eron: "Na taberna, ainda não saiu; falou intenção de ir procurar Tomas"
+  veler: "Diz intermediar cargas e documentos; relata informação de segunda mão sobre guarita de pedágio; prometeu tentar contato com portador e eventual recado no Javali de Ferro"
+  rumor_last_tomas_sighting: "Relato indireto não verificado de carroceiro: antiga guarita de pedágio na estrada ocidental, pouco antes da Ponte Velha, cerca de quatro dias antes"
+  messenger_meeting: "Solicitado por Eron, ainda não marcado; depende de contato e aceite do portador"
+  tavern: "Dois desjejuns servidos; duas cervejas pagas por Veler"
+  expense_last: "2 PP pelo desjejum de Eron e Veler na LD, já debitadas"
+  hp_current: 11
+  hp_max: 11
+  armor_class: 13
+  arrows: 20
+  money: {gp: 125, sp: 4, cp: 5}
+  heroic_inspiration: true
+  hit_dice_available: "1d8"
+  rolls_this_exchange: 0
+  expenses_this_exchange: 0
+  combat: false
+  awaiting_player_action: true
