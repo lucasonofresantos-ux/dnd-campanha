@@ -17,3 +17,9 @@ Veler observa a moeda na mão de Eron por mais um instante. O vento frio atraves
 — Tomas Rell não era soldado nem algum grande senhor, se é isso que quer saber. Era um transportador. Levava documentos, registros e encomendas entre pessoas que nem sempre desejavam tratar desses assuntos pessoalmente. Pelo que soube, desapareceu durante um desses serviços. Se fugiu, foi capturado ou morreu, não tenho como lhe afirmar.
 
 Veler cruza os braços, pensativo.
+
+— Quanto a Valdrén, está confundindo duas coisas, River. Eu disse que o mensageiro veio pela estrada ocidental, **não que alguém da guarda de Valdrén tenha mandado procurá-lo**. Se está longe de lá há tantos anos, talvez devesse se perguntar por que alguém conhece seus movimentos recentes, em vez de presumir que seus antigos superiores continuam interessados em você.
+
+Ele descruza os braços e acrescenta, com um sorriso discreto:
+
+— E sim, conheço certas pessoas, ouço conversas e sei onde procurar informações. É parte do meu trabalho. Mas saber das coisas não significa saber de tudo. Tampouco significa que eu seja obrigado a compartilhar cada nome que conheço.
