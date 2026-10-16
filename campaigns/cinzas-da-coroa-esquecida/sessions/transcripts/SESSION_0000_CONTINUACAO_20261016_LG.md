@@ -29,3 +29,11 @@ Ele observa Eron por um instante.
 — Faz anos que está longe de Valdrén, pelo que me disse. Imagino que muita coisa tenha mudado por lá.
 
 A atendente passa perto da mesa para recolher alguns pratos vazios de outros fregueses. Veler torna a partir o pão, sem pressionar Eron a explicar seu interesse.
+
+**[LOG DE MEMÓRIA DA CAMPANHA]**
+
+- **Localização Atual:** Taberna A Roda Parada, perto do velho moinho, Lorn; manhã.
+- **NPCs Presentes e Relação:** Veler Sann, mais cordial, ainda reservado; atendente e dois trabalhadores no salão.
+- **Linha de Missão Ativa:** Investigar Tomas Rell, cilindro de mapas e o aviso sobre Eron; Veler tentará contatar o portador do bilhete.
+- **Eventos Cruciais Ocorridos:** Eron contou a Veler sobre dois homens que armaram uma cobrança de pedágio mortal na estrada Caldria–Lorn e perguntou sobre o velho rei de Valdrén. Veler desaprovou a emboscada, pretende alertar transportadores e disse ter ouvido semanas atrás que o rei ainda vivia e permanecia no trono. Trata-se de rumor do NPC, sem confirmação de situação atual.
+- **Condições do Jogador:** 11/11 PV; CA 13; 20 flechas; 125 PO, 4 PP e 5 PC. Inspiração Heroica disponível, curativo no braço. Eron continua comendo e bebendo na taberna. Sem novo teste, dano, condição ou despesa.
