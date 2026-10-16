@@ -17,3 +17,5 @@ Veler termina de mastigar antes de responder. A atendente passa com uma cesta de
 — Lorn não é um lugar ruim para viver, River. Mas muita gente ganha a vida com o que passa por suas estradas. Se alguém lhe cobrar uma taxa em nome do Conselho, peça um recibo com o selo e o nome de quem cobrou. Há sujeitos que vestem um casaco respeitável e acham que isso basta para virar autoridade.
 
 Ele baixa um pouco a voz.
+
+— E, se pretende investigar a guarita antiga perto da Ponte Velha, prefira a luz do dia. Depois que os carroceiros se recolhem, há trechos da margem onde ninguém ouviria um pedido de socorro. Não estou dizendo que exista alguém esperando por você; é apenas um lugar pouco prudente para um desconhecido caminhar sem atenção.
