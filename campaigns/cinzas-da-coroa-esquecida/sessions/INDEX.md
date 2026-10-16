@@ -559,3 +559,5 @@ Arquivos produzidos nesta conferência: `transcripts/AUDITORIA_CONTINUIDADE_2026
 [IX — 0522–0523](transcripts/SESSION_0000_CONTINUACAO_20261015_IX.md) — Furtividade [1]+6=7 junto ao muro do acampamento: pedra desliza fazendo ruído; farfalhar do bosque cessa. Rolagem nº 81.
 
 [IY — 0524–0525](transcripts/SESSION_0000_CONTINUACAO_20261015_IY.md) — Eron aguardou o restante das duas horas de sua segunda ronda. O farfalhar anterior não se repetiu; não houve nova ameaça, rolagem, combate ou dano. Orven assume a terceira ronda, informa que um cocheiro fará a última e pergunta a Eron se houve ocorrências. Sono acumulado 2h; vigia 2h; descanso longo incompleto. Transcrição confirmada em `1483b5489f59cba846a417edad9d9d01b081038f`.
+
+[IZ — 0526–0527](transcripts/SESSION_0000_CONTINUACAO_20261015_IZ.md) — Eron come pão e dorme após avisar Orven de possível movimento no bosque. Rondas finais transcorrem sem incidente; Darin desperta Eron ao amanhecer. Descanso longo concluído; carroças ainda paradas. Fonte: transcrição IZ.
