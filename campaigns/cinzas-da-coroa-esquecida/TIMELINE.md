@@ -229,3 +229,9 @@ Eron tirou 16 em Carisma (Intimidacao), total 17. Um desconhecido saiu parcialme
 - À noite, Eron entra na capela perto do cais, após ter chegado com Percepção 15 em KA.
 - Uma religiosa de cabelos grisalhos e manto azul-acinzentado apresenta-se como irmã Maelis, oferece examinar os pontos do braço e pergunta quando ocorreu o ferimento, quem o suturou e sobre dor, calor ou dormência.
 - Eron ainda não se sentou nem mostrou o curativo; nenhum exame, cura, gasto ou rolagem. Estado: 11/11 PV, 127 PO 2 PP 5 PC. Fonte: sessions/transcripts/SESSION_0000_CONTINUACAO_20261016_KB.md.
+
+## KC 0585–0586 — Histórico das suturas relatado à irmã Maelis
+- Eron informa aproximadamente quatro dias desde a costura inicial da ferida pelo doutor Orsik em Caldria.
+- Histórico confirmado em FS/FT/FU: Oren reforçou posteriormente um ponto que havia cedido, durante atendimento no Armazém dos Oleiros, Caldria.
+- Na capela da Senhora das Águas em Lorn, Maelis pergunta se pode retirar a faixa para inspecionar a sutura e questiona dor, calor e mobilidade dos dedos; sem autorização expressa ou inspeção concluída ainda.
+- Nenhum teste, gasto ou mudança de PV. Fonte literal: sessions/transcripts/SESSION_0000_CONTINUACAO_20261016_KC.md.
