@@ -46,3 +46,4 @@ Eron agradece e deixa o Javali de Ferro, enquanto o estalajadeiro retoma seus pr
   <caption>Resultados informados pelo jogador, considerados como faces naturais dos dados. Não houve nova rolagem.</caption>
 </box>
 
+A neblina cobre as ruas de Lorn, e as primeiras carroças começam a se movimentar perto do cais. Eron segue pelas passagens laterais, aproveitando paredes, carroças estacionadas e trechos de sombra. Não percebe ninguém mantendo seus passos durante o trajeto, embora isso não prove que esteja sozinho.
