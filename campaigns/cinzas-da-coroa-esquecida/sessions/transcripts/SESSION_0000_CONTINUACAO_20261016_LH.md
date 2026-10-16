@@ -21,3 +21,5 @@ Ele baixa um pouco a voz.
 — E, se pretende investigar a guarita antiga perto da Ponte Velha, prefira a luz do dia. Depois que os carroceiros se recolhem, há trechos da margem onde ninguém ouviria um pedido de socorro. Não estou dizendo que exista alguém esperando por você; é apenas um lugar pouco prudente para um desconhecido caminhar sem atenção.
 
 Veler gira a caneca entre os dedos, pensativo.
+
+— Mais uma coisa: eu evitaria anunciar a todo comerciante que está atrás de Tomas Rell e da carga dele. Não sei quantas pessoas se interessam pelo desaparecimento, e prefiro não adivinhar. Eu mesmo mandei um homem vigiá-lo por causa de um bilhete. — Um sorriso breve acompanha a admissão. — Veja como é fácil chamar atenção nesta cidade.
