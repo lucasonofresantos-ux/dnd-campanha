@@ -12,3 +12,9 @@ E vou comendo e bebendo enquanto conversámos
 Vou conferir a continuidade da viagem de Eron e o que já está estabelecido sobre Caldria. Depois continuo a conversa à mesa, mantendo as notícias como informações que Veler poderia conhecer, e registro a interação no GitHub.
 
 ## Mensagem 0644 — Mestre (narração visível)
+
+O pão de centeio ainda está quente, com a crosta estalando ao ser partida. O mingau tem gosto de mel e canela, e a cerveja é encorpada, levemente amarga. Enquanto Eron come e bebe, Veler acompanha a conversa com uma expressão mais descontraída.
+
+— Então veio escoltando uma caravana? — Veler solta uma risada discreta. — Um trabalho honesto e perigoso. E agora pretende aproveitar o intervalo entre contratos para procurar um desaparecido e ganhar algumas moedas. Começo a entender seu modo de pensar, River.
+
+Ele bebe um gole e limpa a espuma do bigode com o polegar.
