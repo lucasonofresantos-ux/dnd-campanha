@@ -1778,3 +1778,16 @@ latest_scene_kp_20261016:
   arrows: 20
   money: {gp: 125, sp: 6, cp: 5}
   next_actor: Eron
+
+latest_scene_kq_20261016:
+  transcript: sessions/transcripts/SESSION_0000_CONTINUACAO_20261016_KQ.md
+  messages: "0613-0614"
+  eron_location: "Oculto atras de carroca, Casa das Balancas, 12m do portao"
+  time: "Amanhecer"
+  black_coat_man: "Virou para a porta de servico mas ainda esta fora"
+  darrik: "Ao lado do portao"
+  other_observer: "Saiu da janela superior momentaneamente"
+  no_new_rolls: true
+  hp: 11
+  money: {gp: 125, sp: 6, cp: 5}
+  next_actor: Eron
