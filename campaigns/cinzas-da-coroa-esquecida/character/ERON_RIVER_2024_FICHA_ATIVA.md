@@ -73,3 +73,9 @@ Local: acesso ocidental da cidade de Lorn, Caldria; fim da tarde chuvoso de outo
 - O homem afirma ter seguido Eron desde a chegada a Lorn em troca de dinheiro para observar movimentos e contatos; identidade do contratante e veracidade da explicação **não confirmadas**.
 - Sem início de combate ou testes novos. **11/11 PV, CA 13, 20 flechas; 126 PO, 8 PP e 5 PC.** Inspiração Heroica e dado 1d8 disponíveis; curativo limpo, carta e chave mantidos.
 - Fonte: sessions/transcripts/SESSION_0000_CONTINUACAO_20261016_KG.md.
+
+## Atualizacao operacional KK
+- Eron ofereceu 6 PP a Darrik para comparecer ao encontro com Veler enquanto o segue. Darrik aceita se pago antecipadamente, sem envolvimento em violencia.
+- Sem pagamento ainda. Eron continua no beco proximo ao Javali de Ferro, noite.
+- 11/11 PV, CA 13, 20 flechas, 126 PO, 8 PP, 5 PC, Inspiracao Heroica e 1d8 de Vida disponiveis.
+- Fonte: sessions/transcripts/SESSION_0000_CONTINUACAO_20261016_KK.md.
