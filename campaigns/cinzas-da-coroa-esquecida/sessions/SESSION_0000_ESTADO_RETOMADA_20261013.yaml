@@ -1046,3 +1046,27 @@ current_scene_lj_20261016:
   new_expenses: 0
   combat: false
   awaiting_player_action: true
+
+current_scene_lk_20261016:
+  campaign_id: cinzas-da-coroa-esquecida
+  session: 0
+  last_message: "0654 — Mestre"
+  transcript_status: "LK pending GitHub commit; full local copy available"
+  location: "Salgueiros a aproximadamente 8m da porta dos fundos da guarita antiga, estrada ocidental junto à Ponte Velha"
+  time: "Manhã"
+  eron: "Contornou guarita furtivamente, ainda do lado de fora e sob cobertura parcial"
+  perception: {expression: "1d20+6", roll: 8, modifier: 6, total: 14, log_order: 103}
+  stealth: {expression: "1d20+6", roll: 8, modifier: 6, total: 14, log_order: 104}
+  visible_features: ["porta frontal fechada", "janela lateral parcialmente obstruída", "porta de serviço posterior", "marcas de botas recentes próximas aos fundos"]
+  sounds: "Arrastar de madeira vindo de dentro da guarita, sem fonte identificada"
+  occupant: "Possível ocupante não identificado; não se sabe se percebeu Eron"
+  hp_current: 11
+  hp_max: 11
+  armor_class: 13
+  arrows: 20
+  money: {gp: 125, sp: 4, cp: 5}
+  heroic_inspiration: true
+  hit_dice_available: "1d8"
+  new_expenses: 0
+  combat: false
+  awaiting_player_action: true
