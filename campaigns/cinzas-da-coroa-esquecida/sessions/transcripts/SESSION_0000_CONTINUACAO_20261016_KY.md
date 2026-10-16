@@ -23,3 +23,17 @@ Veler cruza os braços, pensativo.
 Ele descruza os braços e acrescenta, com um sorriso discreto:
 
 — E sim, conheço certas pessoas, ouço conversas e sei onde procurar informações. É parte do meu trabalho. Mas saber das coisas não significa saber de tudo. Tampouco significa que eu seja obrigado a compartilhar cada nome que conheço.
+
+O olhar de Veler volta brevemente à moeda.
+
+— Agora, essa história de tirar a sorte... espero que não esteja apostando a minha vida numa moeda, senhor River.
+
+Ele permanece onde está, atento à resposta de Eron.
+
+**[LOG DE MEMÓRIA DA CAMPANHA]**
+
+- **Localização Atual:** Pátio dos fundos da Casa das Balanças, em Lorn, ao amanhecer.
+- **NPCs Presentes e Relação:** Veler Sann, desconfiado e cauteloso; Darrik dispensado e ausente do pátio. Possível vigia da janela não reapareceu.
+- **Linha de Missão Ativa:** Investigar desaparecimento de Tomas Rell, cilindro de mapas e a origem do aviso com o nome de Eron.
+- **Eventos Cruciais Ocorridos:** Eron demonstra cautela sobre o lançamento da moeda, pergunta sobre o ofício de Tomas e o interesse em Valdrén. Veler declara que Tomas transportava documentos e encomendas, sem saber ao certo o destino dele; esclarece que a estrada do portador não comprova origem na guarda de Valdrén. Não apresenta a identidade da fonte. São declarações do NPC, ainda não verificadas.
+- **Condições do Jogador:** 11/11 PV, CA 13, 20 flechas; 125 PO, 6 PP, 5 PC. Inspiração Heroica e 1d8 de Vida disponíveis, suturas com curativo limpo. Eron continua segurando a moeda, sem lançá-la, sem armamento expressamente sacado. Nenhuma rolagem, dano ou gasto nesta troca.
