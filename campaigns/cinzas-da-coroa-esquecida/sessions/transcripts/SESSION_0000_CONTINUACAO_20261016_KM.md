@@ -33,3 +33,11 @@ Ao entrar na estalagem, Eron encontra o salão mais tranquilo do que antes. O fo
 — Voltou, senhor River? Ainda tenho ensopado quente, pão e um pouco de queijo. **Uma peça de prata pela refeição.**
 
 Enquanto aguarda a comida, Eron observa discretamente o salão. Com a iluminação irregular e as conversas abafadas, **não identifica ninguém que reconheça como seu perseguidor, nem alguém claramente à sua espera**. Contudo, também não consegue descartar que algum dos presentes esteja observando sem chamar atenção.
+
+Marden serve uma tigela fumegante de ensopado, acompanhada de pão e queijo. Eron come sem ser abordado pelos outros hóspedes e paga **1 PP** pela refeição.
+
+Depois, sobe ao quarto que já havia reservado. A estalagem aquieta-se gradualmente, e a noite transcorre sem que alguém o incomode.
+
+Quando Eron desperta, o céu ainda está escuro. **Falta algum tempo para o nascer do sol**, suficiente para alcançar a Casa das Balanças antes do horário combinado com Darrik, caso siga diretamente para lá.
+
+O descanso longo foi concluído. Eron continua com **11/11 PV**, e seu braço permanece protegido pelo curativo limpo.
