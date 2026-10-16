@@ -1289,3 +1289,36 @@ latest_scene_jc_20261015:
   arrows: 20
   money: {gp: 119, sp: 9, cp: 5}
   next_actor: Eron
+
+latest_scene_jd_20261015:
+  source: sessions/transcripts/SESSION_0000_CONTINUACAO_20261015_JD.md
+  messages: "0534-0535"
+  location: "Parada junto ao riacho, estrada Caldria-Lorn"
+  daypart: "Meio-dia"
+  perception:
+    source: jogador_roll20
+    natural_d20: 19
+    modifier: 6
+    total: 25
+    roll_order: 83
+    master_did_not_roll: true
+  visible_observations:
+    boot_tracks_sets: 2
+    boot_tracks_location: "Outra margem do riacho, entre caminho estreito e salgueiros"
+    vegetation_flattened: true
+    concealed_lookout_vantage_possible: true
+    visible_person: false
+    source_or_motivation_known: false
+  convoy_wagons: 3
+  convoy_stopped: true
+  convoy_reason_stopped: "Dar agua aos animais e revisar rodas"
+  escort_balance_due_gp: 8
+  dice_widget_template: skills/dice-roller/ROLADOR_VISUAL_D20.md
+  dice_widget_skill_referenced: true
+  hp: 11
+  ac: 13
+  arrows: 20
+  money: {gp: 119, sp: 9, cp: 5}
+  heroic_inspiration: true
+  hit_die_available: 1d8
+  next_actor: Eron
