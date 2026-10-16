@@ -1572,3 +1572,14 @@ audit_ponte_velha_20261015:
   contact_present: unconfirmed
   no_forced_encounter: true
   no_retroactive_transcript_edit: true
+
+latest_scene_kb_20261016:
+  transcript: sessions/transcripts/SESSION_0000_CONTINUACAO_20261016_KB.md
+  location: "Dentro da capela da Senhora das Aguas, Lorn"
+  npc: "irma Maelis"
+  requested: "avaliacao das suturas do braco"
+  examination_performed: false
+  spending: 0
+  dice: none
+  hp: 11
+  next_actor: Eron
