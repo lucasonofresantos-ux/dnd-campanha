@@ -1739,3 +1739,21 @@ latest_scene_kl_20261016:
   heroic_inspiration: true
   hit_die_available: 1d8
   next_actor: Eron
+
+latest_scene_ko_20261016:
+  messages: "0609-0610"
+  location: "Balcao de Marden, Javali de Ferro, Lorn"
+  time: "Madrugada antes do nascer do sol"
+  npc: "Marden"
+  correspondence:
+    marden_accepts_sealed_letters: true
+    addressee_name_required: true
+    charge_while_guest: 0
+    no_suspicious_parcels_or_weapons: true
+    no_guarantee_of_secrecy_from_guard: true
+    correspondent_identity_disclosed: false
+    letters_exchanged: 0
+  hp: 11
+  money: {gp: 126, sp: 1, cp: 5}
+  new_rolls: false
+  next_actor: Eron
