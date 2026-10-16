@@ -201,3 +201,7 @@ Eron tirou 16 em Carisma (Intimidacao), total 17. Um desconhecido saiu parcialme
 
 ## JK 0548–0549 — Entrada no Javali de Ferro
 - Eron entrou na estalagem e solicitou Percepcao: Python secrets.randbelow gerou d20 [5]+6=11 (rolagem 86). Observou balcao, lareira, mesas, escada, porta interna, empregado e atendente; nenhuma ameaca evidente nem homem de capa cinza identificado; sem garantir ausencia. Mestre aguarda proxima acao de Eron.
+
+## JL 0550–0551 — Correspondência no Javali de Ferro
+- Eron abordou o taberneiro, citando o anão Borin e perguntando por algo destinado a Eron River. O taberneiro apresentou envelope grosso, sem remetente visível, com lacre de cera cinzenta e árvore sem folhas, e perguntou se o interlocutor era Eron River. A carta ainda não foi entregue, aceita ou aberta. A identidade de quem a deixou, seu teor e o nome do taberneiro não foram revelados.
+- Continuidade: Eron permanece no balcão da estalagem; homem de capa cinza visto antes não foi identificado no salão; escolta concluída, 127 PO 9 PP 5 PC, PV 11/11. Fonte: `sessions/transcripts/SESSION_0000_CONTINUACAO_20261015_JL.md`.
