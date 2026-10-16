@@ -188,3 +188,7 @@ Eron tirou 16 em Carisma (Intimidacao), total 17. Um desconhecido saiu parcialme
 
 ## JF 0538-0539
 - Eron continuou vigiando as tres carrocas com Percepcao 25, sem nova rolagem. O comboio deixou o riacho e chegou ao posto de fiscalizacao de Lorn no fim da tarde, onde parou em fila. Um guarda solicitou documentos da carga a Orven; entrega e 8 PO pendentes. Ver transcript JF.
+
+## JG 0540–0541 — Observação durante a fiscalização
+- Em Lorn, Eron aguarda a fiscalização e a entrega da carga, solicitando rolador visual para verificar se é seguido. Orven apresentou documentos e os guardas iniciaram a inspeção dos lacres; a entrega e os 8 PO pendentes ainda não aconteceram.
+- Novo teste de Percepção 1d20+6 solicitado para observar possíveis perseguidores na multidão do posto, independentemente do teste anterior de vigilância da estrada. Rolador visual de `skills/dice-roller/ROLADOR_VISUAL_D20.md` exibido; resultado ainda não enviado, nenhuma rolagem executada nesta interação. Fonte: `sessions/transcripts/SESSION_0000_CONTINUACAO_20261015_JG.md`.
