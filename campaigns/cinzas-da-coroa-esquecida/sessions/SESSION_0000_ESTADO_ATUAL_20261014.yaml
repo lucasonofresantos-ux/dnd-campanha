@@ -1684,3 +1684,18 @@ latest_scene_kf_20261016:
   heroic_inspiration: true
   hit_die_available: 1d8
   next_actor: Eron
+
+latest_scene_kj_20261016:
+  transcript: sessions/transcripts/SESSION_0000_CONTINUACAO_20261016_KJ.md
+  messages: "0599-0600"
+  location: "Beco proximo ao Javali de Ferro, Lorn"
+  npc_present: "Darrik, a cerca de seis metros"
+  correction_type: "Esclarecimento da unidade de pagamento declarada por Darrik"
+  payment_claim: "6 PP de prata, adiantadas, sem parcelas adicionais"
+  verified: false
+  no_scene_time_advance: true
+  no_combat: true
+  no_new_rolls: true
+  hp: 11
+  money: {gp: 126, sp: 8, cp: 5}
+  next_actor: Eron
