@@ -51,3 +51,5 @@ A neblina cobre as ruas de Lorn, e as primeiras carroças começam a se moviment
 A **Casa das Balanças** surge além do velho moinho: um edifício de pedra escurecida, com um pátio de cargas nos fundos e um portão de serviço reforçado por ferragens. Eron encontra cobertura atrás de uma carroça carregada de sacos, aproximadamente doze metros distante do portão. Dali consegue observar o acesso e boa parte do pátio sem se expor.
 
 Com sua percepção aguçada, nota algo que um transeunte provavelmente ignoraria: **um sujeito de boné de couro permanece junto à janela de um depósito no andar superior**. Ele olha repetidamente para a rua e para o portão, mas não demonstra interesse nas cargas. Pode estar vigiando o local; Eron ainda não tem como confirmar sua ligação com Darrik ou Veler.
+
+Pouco depois, quando o céu começa a clarear, **Darrik aparece**. Vem sozinho, com a capa cinza-amarronzada fechada até o pescoço. Aguarda junto ao portão por alguns instantes.
