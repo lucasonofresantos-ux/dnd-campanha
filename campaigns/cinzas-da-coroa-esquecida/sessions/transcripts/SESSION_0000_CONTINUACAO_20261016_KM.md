@@ -41,3 +41,11 @@ Depois, sobe ao quarto que já havia reservado. A estalagem aquieta-se gradualme
 Quando Eron desperta, o céu ainda está escuro. **Falta algum tempo para o nascer do sol**, suficiente para alcançar a Casa das Balanças antes do horário combinado com Darrik, caso siga diretamente para lá.
 
 O descanso longo foi concluído. Eron continua com **11/11 PV**, e seu braço permanece protegido pelo curativo limpo.
+
+**[LOG DE MEMÓRIA DA CAMPANHA]**
+
+- **Localização Atual:** Quarto reservado no Javali de Ferro, Lorn; madrugada ainda escura, antes do nascer do sol. Eron acordou após completar descanso longo.
+- **NPCs Presentes e Relação:** Marden, estalajadeiro cordial, estava no salão à noite e serviu a refeição. Dois carroceiros e um hóspede mais velho estavam no salão, sem contato relevante. Darrik despediu-se no beco e afirma que comparecerá ao encontro junto à Casa das Balanças ao nascer do sol; sua presença futura e a de Veler não estão garantidas.
+- **Linha de Missão Ativa:** Investigar Tomas Rell e recuperar cilindro de mapas (50 PO oferecidas por objetivo, com condições adicionais pendentes). Eron pretende chegar antes de Darrik ao encontro nos fundos da Casa das Balanças para falar com o suposto Veler Sann.
+- **Eventos Cruciais Ocorridos:** Eron encerrou a conversa no beco, foi ao Javali de Ferro, solicitou refeição, observou o salão e completou descanso longo. **Percepção 1d20 [3]+6=9**, rolagem Python nº 95; não identificou seguidor nem alguém claramente à sua espera, sem excluir vigilância discreta. Pagou **1 PP** por ensopado, pão e queijo. Não houve encontro hostil, combate ou outros gastos; amanhecer ainda não ocorreu.
+- **Condições do Jogador:** **11/11 PV, CA 13, 20 flechas; 126 PO, 1 PP e 5 PC.** Inspiração Heroica e 1d8 de Vida disponíveis. Suturas fechadas e curativo limpo, carta e chave do quarto em sua posse. Descanso longo concluído, sem recuperação numérica necessária.
