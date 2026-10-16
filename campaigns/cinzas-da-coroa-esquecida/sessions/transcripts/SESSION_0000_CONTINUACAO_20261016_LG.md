@@ -17,3 +17,5 @@ Veler interrompe o movimento da colher quando Eron descreve a armadilha. Sua exp
 — Uma coisa é cobrar pedágio indevidamente. Outra é montar uma armadilha capaz de matar um cavalo e seu condutor. Isso é coisa de assassinos, não de cobradores. — Ele balança a cabeça. — Espero que esses dois tenham aprendido alguma coisa. Vou alertar alguns transportadores que conheço. Uma estrada insegura prejudica todos nós.
 
 Ao ouvir a pergunta sobre Valdrén, ele repousa a colher e toma um gole de cerveja.
+
+— Ah, o velho rei de Valdrén... **Pelas últimas notícias que recebi, ainda está vivo e ocupa o trono.** Mas já faz algumas semanas que ouvi isso de um mercador vindo do oeste. Não chegou até mim notícia de funeral, coroação ou mudança de soberano. Isso não significa que nada tenha acontecido.
