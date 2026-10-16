@@ -7,4 +7,6 @@ Campanha: As Cinzas da Coroa Esquecida
 
 E pego uma moeda na mão.
 
-## Mensagem 0626 — Mestre (pendente)
+## Mensagem 0626 — Mestre (resposta visível)
+
+O olhar de Veler desce por um instante até a moeda na mão de Eron. Seu maxilar se contrai, mas ele não recua nem leva a mão à arma. Atrás dele, a porta de serviço bate levemente contra o batente com uma rajada de vento frio.
