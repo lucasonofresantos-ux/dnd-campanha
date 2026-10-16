@@ -31,3 +31,6 @@ Ele volta ao desjejum, sem exigir que Eron explique por que deixou Valdrén.
 - **Localização Atual:** Taberna A Roda Parada, em Lorn, pela manhã.
 - **NPCs Presentes e Relação:** Veler Sann, reservado porém mais cordial; atendente e dois trabalhadores no salão.
 - **Linha de Missão Ativa:** Investigar Tomas Rell, o cilindro de mapas e a origem do aviso sobre Eron; possível encontro com o portador do bilhete ainda não confirmado.
+
+- **Eventos Cruciais Ocorridos:** Eron diz não sentir saudades de Valdrén, comenta a vida na estrada e pergunta por riscos em Lorn. Veler aconselha conferir recibos e selos de taxas cobradas em nome do Conselho, evitar a margem da Ponte Velha à noite e ser discreto ao perguntar por Tomas e sua carga. Trata-se de conselhos e opiniões de Veler, não de ameaças confirmadas ou fatos verificados independentemente.
+- **Condições do Jogador:** 11/11 PV; CA 13; 20 flechas; 125 PO, 4 PP e 5 PC. Inspiração Heroica e 1d8 de Vida disponíveis. Eron continua na taberna com desjejum e cerveja; nenhum novo gasto, dado, dano ou combate.
