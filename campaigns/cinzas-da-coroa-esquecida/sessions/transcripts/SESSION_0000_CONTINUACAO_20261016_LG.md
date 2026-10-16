@@ -23,3 +23,7 @@ Ao ouvir a pergunta sobre Valdrén, ele repousa a colher e toma um gole de cerve
 Veler inclina-se ligeiramente sobre a mesa, mantendo a voz tranquila.
 
 — Quanto ao que acontece dentro do palácio, sei ainda menos. Os mercadores conhecem as estradas, as taxas e os nomes dos oficiais que lhes dão problemas. Nem sempre sabem quem realmente toma as decisões por trás das portas fechadas.
+
+Ele observa Eron por um instante.
+
+— Faz anos que está longe de Valdrén, pelo que me disse. Imagino que muita coisa tenha mudado por lá.
