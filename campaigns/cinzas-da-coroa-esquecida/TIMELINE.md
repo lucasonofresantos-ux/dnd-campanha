@@ -272,3 +272,10 @@ Eron tirou 16 em Carisma (Intimidacao), total 17. Um desconhecido saiu parcialme
 
 ## KR 0615–0616 — Apresentacao no patio
 Eron deixou a carroca e dirigiu-se verbalmente ao homem de olho esquerdo esbranquicado nos fundos da Casa das Balancas, criticando o vigia Darrik. O homem apresentou-se como Veler Sann, declarou ter contratado Darrik para observar Eron e alegou querer conhecer sua rotina antes de se apresentar. Distancia aproximadamente 12 metros, ambos visiveis, nenhum ataque, iniciativa ou novo teste. Identidade e motivos nao verificados. Transcricao KR 0615–0616.
+
+## KT 0619–0620 — Retomada da conversa 01.07, sem avanço de cena
+- Jogador solicita verificar transcrições finais e repetir última cena de As Cinzas da Coroa Esquecida.
+- KR 0615–0616 e KS 0617–0618 foram encontrados no GitHub; última fala do jogador em KS era apenas `?` e não mudou a cena.
+- Reproduzida a narração da mensagem KR 0616: Eron diante do homem que se apresentou como Veler Sann, a 12 m, no pátio dos fundos da Casa das Balanças; Darrik junto ao portão, possível observador fora da janela. Ninguém sacou arma ou iniciou combate.
+- Nenhum teste, alteração de recursos, fala ou ação inédita de personagens, avanço temporal ou consequência nesta retomada. Histórico original completo da conversa 01.07 ainda não foi confrontado independentemente.
+- Fonte: sessions/transcripts/SESSION_0000_CONTINUACAO_20261016_KT.md.
