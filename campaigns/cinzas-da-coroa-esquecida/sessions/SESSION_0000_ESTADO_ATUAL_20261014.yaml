@@ -1271,3 +1271,21 @@ latest_scene_jb_20261015:
   waiting_for_raw_d20: true
   scene_advanced: false
   next_actor: Eron
+
+latest_scene_jc_20261015:
+  transcript: sessions/transcripts/SESSION_0000_CONTINUACAO_20261015_JC.md
+  messages: "0532-0533"
+  location: "Parada do comboio junto ao riacho na estrada Caldria-Lorn"
+  player_requested_dice_widget: true
+  widget_dice: "1d20"
+  widget_default_modifier: 6
+  widget_local_rng: "Math.random, diferente de Python"
+  widget_python_option: true
+  roll_submitted_by_player: false
+  roll_executed_by_master_now: false
+  pending_check: "Sabedoria Percepcao"
+  scene_advanced: false
+  hp: 11
+  arrows: 20
+  money: {gp: 119, sp: 9, cp: 5}
+  next_actor: Eron
