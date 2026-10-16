@@ -305,3 +305,9 @@ Eron deixou a carroca e dirigiu-se verbalmente ao homem de olho esquerdo esbranq
 - LE: Eron pergunta pelo último paradeiro de Tomas e pede contato com portador do bilhete. Veler relata testemunho indireto de carroceiro, atribuindo último avistamento a antiga guarita de pedágio na estrada ocidental, antes da Ponte Velha, cerca de quatro dias atrás; pode estar incorreto. Compromete-se a tentar contatar mensageiro e enviar resposta ao Javali de Ferro se o encontro for aceito, sem garantia.
 - Dois desjejuns chegaram à mesa; Veler está com caneca de cerveja. Eron continua no estabelecimento, podendo sair por decisão própria. Sem rolagens, alteração de PV, dano ou gasto além de 2 PP em LD.
 - Fonte literal: sessions/transcripts/SESSION_0000_CONTINUACAO_20261016_LD.md e LE.md.
+
+## LF–LG 0643–0646 — Notícias de Caldria e Valdrén
+- LF: Eron conta que chegou a Lorn protegendo caravana, cogita procurar recompensa pelo desaparecimento de Tomas e come e bebe durante a conversa. Veler relata rumores comerciais sobre fiscalização no portão ocidental de Caldria e salteadores na estrada, sem confirmação oficial.
+- LG: Eron menciona armadilha mortal na estrada Caldria–Lorn, armada por dois homens que cobravam passagem, e pergunta sobre o velho rei de Valdrén. Veler condena a ação, pretende alertar transportadores e relata ter ouvido de um mercador, semanas antes, que o rei ainda vivia e ocupava o trono. Relato incompleto e não verificado; não declarar status do monarca como fato canônico.
+- Local: A Roda Parada, em Lorn, pela manhã. Eron continua comendo e bebendo, não saiu; sem novo teste, gasto, combate ou danos. 11/11 PV, CA 13, 20 flechas; 125 PO, 4 PP, 5 PC.
+- Fontes: sessions/transcripts/SESSION_0000_CONTINUACAO_20261016_LF.md e LG.md.
