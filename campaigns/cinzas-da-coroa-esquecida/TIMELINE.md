@@ -218,3 +218,9 @@ Eron tirou 16 em Carisma (Intimidacao), total 17. Um desconhecido saiu parcialme
 
 ## JP 0558–0559 — Marden informa sobre a carta e cuidados
 - Eron tomou banho e desceu mantendo vigilância, sem nova rolagem. Marden contou que recebeu a carta ontem antes de anoitecer de mensageiro com botas enlameadas e capa de chuva, remetente não identificado. Ponte Velha fica rio abaixo, passando armazéns e antigo moinho, aprox. vinte minutos a pé. Miren, Botica do Salgueiro na Rua dos Oleiros, pode avaliar pontos e costuma vender kit de curandeiro (cerca de 5 PO) e possivelmente poção de cura (cerca de 50 PO, disponibilidade não confirmada). Capela da Senhora das Águas perto do cais pode ter atendimento noturno. Saldo 127 PO, 2 PP, 5 PC e PV 11/11, nenhuma compra. Fonte: sessions/transcripts/SESSION_0000_CONTINUACAO_20261015_JP.md.
+
+## KA 0581-0582 — Ida noturna a capela da Senhora das Aguas
+- Apos despedir-se de Garrick na Ponte Velha (JZ, transcript local com sincronizacao pendente), Eron seguiu pelos armazens rumo a capela da Senhora das Aguas junto ao cais. Solicitou Percepcao para verificar possivel seguimento.
+- Script Python autorizado da campanha executado: 1d20 [9]+6=15 (ordem provisoriamente 92; log de dados atualizado). Eron percebeu pessoa nao identificada junto a alpendre de armazem, afastando-se por rua lateral quando ele olhou. Nao identificou capa, fivela, intencao nem ligacao com o observador anterior.
+- Capela modesta de pedra clara, porta entreaberta, luz e oracao audivel dentro. Eron chegou a entrada mas nao entrou; ainda nao falou com alguem, nao recebeu tratamento, nao gastou moedas. PV 11/11, 127 PO 2 PP 5 PC.
+- Fonte literal: sessions/transcripts/SESSION_0000_CONTINUACAO_20261016_KA.md.
