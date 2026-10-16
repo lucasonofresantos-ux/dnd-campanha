@@ -1199,3 +1199,29 @@ latest_scene_iy_20261015:
   escort_balance_due_gp: 8
   pending_orven_question: "Viu alguma coisa que eu deva saber?"
   next_actor: Eron
+
+latest_scene_iz_20261015:
+  transcript: sessions/transcripts/SESSION_0000_CONTINUACAO_20261015_IZ.md
+  messages: "0526-0527"
+  location: Acampamento estrada Caldria-Lorn
+  daypart: Amanhecer do dia seguinte
+  woods_rustle_reported_to_orven: true
+  woods_rustle_source_known: false
+  watch_3: Orven Rusk
+  watch_4: Cocheiro nao identificado
+  alarms_at_night: false
+  eron_ate_bread_from_caravan: true
+  personal_rations_spent: false
+  sleep_hours_approx: 6
+  watch_hours_approx: 2
+  long_rest_completed: true
+  wagon_count: 3
+  wagons_departed: false
+  hp: 11
+  ac: 13
+  arrows: 20
+  money: {gp: 119, sp: 9, cp: 5}
+  heroic_inspiration: true
+  hit_die_available: 1d8
+  escort_balance_due_gp: 8
+  next_actor: Eron
