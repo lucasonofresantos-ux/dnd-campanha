@@ -634,3 +634,5 @@ Arquivos produzidos nesta conferência: `transcripts/AUDITORIA_CONTINUIDADE_2026
 
 [LA — 0633–0634](transcripts/SESSION_0000_CONTINUACAO_20261016_LA.md) — Eron sugere uma aposta de cerveja usando a moeda, após optar por confiar em Veler. Resultado cara publicado: Veler deve a cerveja; execução original da moeda sem prova independente.
 [LB — 0635–0636](transcripts/SESSION_0000_CONTINUACAO_20261016_LB.md) — Eron sugere lugar menos movimentado e cerveja, pede Percepção. Python 1d20 [14]+6=20, observa homem de boné de couro novamente na janela superior da Casa das Balanças, que recua quando notado. Veler propõe taberna próxima ao velho moinho; sem gasto ou combate.
+
+[LC — 0637–0638](transcripts/SESSION_0000_CONTINUACAO_20261016_LC.md) — Eron acompanha Veler, atento até entrar na taberna A Roda Parada, perto do velho moinho. Nenhum perseguidor evidente. Veler paga duas cervejas com moedas próprias e sugere uma mesa. Percepção passiva 16, sem rolagem nova; recursos de Eron inalterados.
