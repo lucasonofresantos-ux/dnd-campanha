@@ -40,3 +40,7 @@ Veler pousa a caneca.
 - **Linha de Missão Ativa:** Investigar Tomas Rell e o cilindro de mapas; esclarecer origem do aviso sobre Eron; Veler tentará contatar o portador do bilhete, sem encontro garantido.
 - **Eventos Cruciais Ocorridos:** Eron relata ter vindo protegendo caravana e considera buscar recompensa por Tomas. Enquanto come e bebe, pergunta por Caldria. Veler descreve rumores comerciais sobre maior fiscalização de cargas no portão ocidental e salteadores na estrada; não confirma oficialmente novas taxas. Pergunta se Eron aguarda notícias de alguém em Caldria. Rumores não verificados.
 - **Condições do Jogador:** PV 11/11, CA 13, 20 flechas; 125 PO, 4 PP e 5 PC. Inspiração Heroica e 1d8 de Vida disponíveis; curativo no braço. Desjejum e cerveja em consumo; nenhum novo gasto, teste ou dano.
+
+## Situação de persistência (registro histórico)
+
+O GitHub foi consultado antes da narração (última mensagem da campanha confirmada: 0642, LE). Tentativas de criar a transcrição LF via ações GitHub foram bloqueadas; arquivo local gerado para futura sincronização. Esta nota descreve a situação naquela resposta anterior; a recuperação posterior está documentada pelo commit da transcrição LF.
