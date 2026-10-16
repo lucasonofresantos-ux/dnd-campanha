@@ -192,3 +192,12 @@ Eron tirou 16 em Carisma (Intimidacao), total 17. Um desconhecido saiu parcialme
 ## JG 0540–0541 — Observação durante a fiscalização
 - Em Lorn, Eron aguarda a fiscalização e a entrega da carga, solicitando rolador visual para verificar se é seguido. Orven apresentou documentos e os guardas iniciaram a inspeção dos lacres; a entrega e os 8 PO pendentes ainda não aconteceram.
 - Novo teste de Percepção 1d20+6 solicitado para observar possíveis perseguidores na multidão do posto, independentemente do teste anterior de vigilância da estrada. Rolador visual de `skills/dice-roller/ROLADOR_VISUAL_D20.md` exibido; resultado ainda não enviado, nenhuma rolagem executada nesta interação. Fonte: `sessions/transcripts/SESSION_0000_CONTINUACAO_20261015_JG.md`.
+
+## JI 0544–0545 — Pagamento e direções
+- Eron recebeu as 8 PO restantes das maos de Orven; contrato integralmente pago e saldo pessoal 127 PO, 9 PP e 5 PC. Orven indicou O Javali de Ferro perto da ferraria e do portao ocidental de Lorn.
+
+## JJ 0546–0547 — Caminho à estalagem
+- Percepcao executada em Python: 1d20 [17]+6=23 (rolagem 85). Eron tornou a perceber o homem de capa cinza e fivela metalica atras dele nas ruas de Lorn, ainda sem identificar intencoes. Chegou diante das proximidades do Javali de Ferro.
+
+## JK 0548–0549 — Entrada no Javali de Ferro
+- Eron entrou na estalagem e solicitou Percepcao: Python secrets.randbelow gerou d20 [5]+6=11 (rolagem 86). Observou balcao, lareira, mesas, escada, porta interna, empregado e atendente; nenhuma ameaca evidente nem homem de capa cinza identificado; sem garantir ausencia. Mestre aguarda proxima acao de Eron.
