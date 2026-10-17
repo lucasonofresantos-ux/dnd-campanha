@@ -11,3 +11,5 @@ Registro: 2026-10-16
 Vou registrar essa nova fala de Eron e manter a intimidação já resolvida em 20. Bram e Lio podem responder sobre o combinado com Hadran Selk, mas vou distinguir o que sabem pessoalmente do que ouviram sobre Tomas. Também estou concluindo a transcrição da resposta anterior.
 
 ## Mensagem 0670 — Mestre (narração visível)
+
+Bram olha para Lio e depois para os caixotes de onde vem a voz de Eron. Mantém as mãos afastadas da faca e responde com evidente contrariedade:
