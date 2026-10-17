@@ -621,3 +621,9 @@ checkpoint_20261017_TC:
   situation: 'Eron se deslocou e golpeou com pomo de espada curta guarda com joelho ferido, ataque Python 15+4=19, dano 1d6[3]+2=5. Guarda inconsciente vivo; Iven ainda dentro do armazem, entrada lateral livre. Neris enfrenta homem armado do lado de fora. Interrogador ferido reconheceu Eron. Terceira rodada acao de Eron usada.'
   arrows: 16
   eron_hp: 11
+
+checkpoint_20261017_TD:
+  transcript: 'sessions/transcripts/SESSION_0000_CONTINUACAO_20261017_TD.md'
+  last_message: '1059 Mestre'
+  location: 'Entrada lateral e interior da Casa da Balanca, Lorn, 18h04, terceira rodada'
+  situation: 'Eron ordenou que Iven nao se movesse para preservar fingimento de desconhecidos; Iven obedeceu. Eron exibiu espada e adaga, ameacou homem de avental ferido, que declarou rendicao, ergueu a mao e largou uma faca. Interrogador ferido ainda preso ao assoalho criticou rendicao. Neris ainda diante de agressor armado fora. Nenhum novo ataque realizado, PV 11/11, CA13, flechas16.'
