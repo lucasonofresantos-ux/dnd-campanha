@@ -31,3 +31,17 @@ Ela volta a examinar os documentos.
 Neris deixa os papéis sobre o balcão, sem se apropriar deles.
 
 — Não reconheço uma assinatura pessoal. Reconheço o símbolo, mas isso não basta para identificar quem o utilizou. E, pelo que me contou, ainda não sabemos se Veler Sann, o homem que contratou Darrik, trabalha para o remetente ou se está investigando a mesma coisa por conta própria.
+
+Ela toca delicadamente uma das bordas do pergaminho.
+
+— Eron, essas cartas podem ser mais importantes do que parecem. Alguém conhece seu passado e está interessado em algo que Tomas transportava. A questão é se pretende contratar sua ajuda... ou conduzi-lo até algum lugar.
+
+Neris permanece olhando os dois documentos, à espera da reação dele.
+
+## Nota de continuidade e correção posterior
+
+Eron mostrou voluntariamente as duas cartas recebidas em Caldria e Lorn, inclusive a escrita e os envelopes de selos já rompidos. As cartas não têm assinatura. A primeira cita a morte de seu comandante sem nomeá-lo; a segunda cita Edric Valmont. Ambas oferecem 50 PO pelo paradeiro do desaparecido e mais 50 PO pelo objeto. Neris constatou sem teste que as marcas se parecem muito, mas não identificou autor nem confirmou uso da mesma matriz.
+
+**Correção de conhecimento de NPC:** a fala visível acima menciona Veler Sann pelo nome, embora Eron ainda só tivesse relatado Darrik para Neris. Essa menção foi erro de continuidade do Mestre, não revelação nova de Neris nem prova de que ela conhecesse Veler. Para fins canônicos, considere que Neris aludiu genericamente ao homem que contratou Darrik, sem nomeá-lo. A fala visível original é preservada sem alterações.
+
+As duas cartas permanecem sobre o balcão à disposição de Eron, não passam permanentemente para Neris. Eron ainda não declarou vestir-se ou recolher a capa do chão. Neris está vestida, com medalhão e capa úmida dobrada no balcão. Chuva fraca, lamparina acesa, duas portas trancadas por dentro; segurança externa não garantida. Sem rolagem, gasto, dano, cura ou mudança de recursos. Eron 11/11 PV, CA13, 19 flechas, 125 PO, 4 PP, 5 PC, Inspiração Heroica, arranhões superficiais sem dano. Couro da vala não recolhido; busca por Tomas e investigação de Selk em aberto.
