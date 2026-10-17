@@ -25,3 +25,15 @@ Vou aceitar **20 natural +6 = 26 em Percepção**, sem repetir o dado. Vou resol
     <text color="secondary" size="xs">20 natural informado por você. Sem nova rolagem.</text>
   </box>
 </row>
+
+Bram concorda rapidamente, aliviado por finalmente receber permissão para sair.
+
+— **Às quatro e meia. Não aparecerei na balança antes disso**, River. E não mandarei recado algum.
+
+Lio não espera uma segunda ordem. Os dois se afastam pela estrada, primeiro em passos contidos, depois um pouco mais rápidos. Não chegam a correr.
+
+Eron acompanha sua partida, mas não concentra a atenção apenas neles. Examina os salgueiros, os muros baixos, as margens da estrada e as ruínas próximas à guarita. O vento movimenta as folhas molhadas. Um corvo alça voo de um galho. Nada incomum, à primeira vista.
+
+Então, entre duas árvores, **algo se move contra a direção do vento**.
+
+A aproximadamente **cinquenta metros**, do outro lado da estrada, há um antigo marco de pedra quase encoberto pela vegetação. Agachada atrás dele, Eron distingue **uma terceira pessoa**, envolta numa capa verde-acinzentada. O capuz esconde a maior parte do rosto.
