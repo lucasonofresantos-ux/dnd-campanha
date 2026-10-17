@@ -69,7 +69,7 @@ transcript:
   previous: "sessions/transcripts/SESSION_0000_CONTINUACAO_20261017_NM.md"
   literal_complete_current_execution: false
   last_confirmed_message: "0766 — Mestre (narrativa NN, sincronizada)"
-  pending: "Aguardar Mensagem 0767 — Jogador; transcrições NG–NM necessitam auditoria e sincronização"
+  pending: "Aguardar Mensagem 0767 — Jogador; transcrição NJ 0756–0758 pendente no GitHub; NG, NH, NI, NK e NM recuperadas"
 
 operational_checkpoint:
   updated_at: "2026-10-17"
@@ -160,3 +160,8 @@ checkpoint_20261017_NB:
   arrows: 19
   leather_fragment_collected: false
   mx_transcript_recovered: true
+
+transcript_recovery_20261017_NN:
+  restored: [NG, NH, NI, NK, NM]
+  still_pending: [NJ]
+  note: "NJ preservado em cópia local, não alegar commit. Nenhuma alteração a rolagens ou recursos."
