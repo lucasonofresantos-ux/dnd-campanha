@@ -552,3 +552,11 @@ checkpoint_20261017_SM:
   location: 'Fundos da Casa da Balanca, Lorn, 17h42'
   situation: 'Eron e Neris completaram reconhecimento externo sem serem abordados. Portas de cargas e lateral, corredor coberto, portao traseiro para viela, escada exterior e janela superior. Homem aparentemente vigilante no andar superior; trabalhador no patio. Iven ainda nao apareceu. Eron considera posição próxima no corredor mas precisa novo teste Furtividade +6 para cruzar trecho exposto. Antiga Furtividade 26 aplica ao deslocamento ja realizado. Nenhum novo teste rolado.'
   resources_unchanged: true
+
+checkpoint_20261017_SO:
+  transcript: 'sessions/transcripts/SESSION_0000_CONTINUACAO_20261017_SO.md'
+  last_message: '1029 Mestre'
+  location: 'Corredor coberto junto ao armazem nos fundos da Casa da Balanca, Lorn, 17h50'
+  roll: 'Furtividade 20 natural +6=26, informada pelo jogador'
+  situation: 'Eron alcançou corredor sem ser notado, Neris oculta junto a pilastra. Visao porta de cargas e fresta para interior. Vigia na janela nao percebeu Eron. Homem de casaco castanho olhou janela e se afastou. Voz masculina dentro ordenou deixar porta destrancada para visita. Iven ainda nao chegou; dez minutos para 18h.'
+  resources_unchanged: true
