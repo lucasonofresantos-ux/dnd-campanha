@@ -31,3 +31,9 @@ O tom é divertido, mas Neris parece realmente disposta a retomar a investigaç�
 ## Continuidade
 
 Eron declarou que seria melhor vestir-se e ofereceu uma nova intimidade breve a Neris em tom provocador, mas ainda NÃO executou ação de vestir-se. Neris riu, beijou Eron por iniciativa própria e recusou de modo bem-humorado outra intimidade naquele momento; quer retomar a investigação e a consulta à guarda. Ela voltou ao balcão e ajeitou sua capa úmida, sem pegar, destruir, mover para inventário ou se apropriar das duas cartas de Eron. A roupa de Eron permanece acessível, sua capa continua estendida no assoalho; não atribuir a ele mais ações ou falas. Neris vestida, medalhão da árvore sem folhas com ela. Antiga guarita do pedágio da Ponte Velha, Lorn; portas conhecidas trancadas por dentro; chuva quase cessou, sem hora exata do dia fixada e sem garantia de segurança externa. Eron ainda não foi até a guarda nem iniciou o deslocamento. Missões: investigar Tomas Rell, folhas T. Rell / estojo lacrado, Hadran Selk e possível encontro com Bram na balança coberta ao fim da tarde. Fragmento de couro na vala ainda não recolhido. Nenhuma rolagem, gasto, dano, cura, condição ou recurso novo. Eron PV 11/11, CA13, 19 flechas, 125 PO, 4 PP e 5 PC, Inspiração Heroica disponível; pequenas marcas de unhas anteriores nas costas sem dano mecânico.
+
+## Mensagem 0810 — Mestre (fechamento visível literal)
+
+**Registro confirmado no GitHub:** transcrição OJ (0809–0810), índice e estado canônico gravados e verificados.
+
+[Consultar transcrição OJ](https://github.com/lucasonofresantos-ux/dnd-campanha/blob/main/campaigns/cinzas-da-coroa-esquecida/sessions/transcripts/SESSION_0000_CONTINUACAO_20261017_OJ.md)
