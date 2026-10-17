@@ -40,7 +40,7 @@ character:
   guard_starting_equipment_option_pending: false
   exile: "Proibido retornar a Valdrén após condenação por assassinato de Edric Valmont; Eron afirma ter sido incriminado"
 narrative:
-  scene: "Após encontro íntimo consensual, ambos chegaram ao clímax. Neris está cansada e pediu descanso, repousando perto de Eron sobre a capa no assoalho. Céu encoberto, chuva enfraquecendo, lamparina acesa e duas portas trancadas por dentro."
+  scene: "Neris vestiu camisa de linho e túnica, prendeu os cabelos e segura sua capa ainda úmida. Está junto ao balcão e lembrou a investigação. Eron observa, sem outra ação declarada. Chuva fraca, portas trancadas."
   prior_events_imported: false
   character_actions_so_far:
     - 'Consultar histórico completo das ações em sessions/INDEX.md e transcripts/'
@@ -66,17 +66,17 @@ isolation:
   pre_execution_state_archive: "archive/CAMPAIGN_STATE_PRE_EXECUCAO_2026-10-12.yaml"
   dm_plan_retained: "dm/WORLD_BIBLE.md"
 transcript:
-  current: "sessions/transcripts/SESSION_0000_CONTINUACAO_20261017_NZ.md"
+  current: "sessions/transcripts/SESSION_0000_CONTINUACAO_20261017_OA.md"
   index: "sessions/INDEX.md"
-  previous: "sessions/transcripts/SESSION_0000_CONTINUACAO_20261017_NY.md"
+  previous: "sessions/transcripts/SESSION_0000_CONTINUACAO_20261017_NZ.md"
   literal_complete_current_execution: false
-  last_confirmed_message: "0790 — Mestre (narrativa NZ, sincronizada)"
-  pending: "Aguardar Mensagem 0791 — Jogador"
+  last_confirmed_message: "0792 — Mestre (narrativa OA, sincronizada)"
+  pending: "Aguardar Mensagem 0793 — Jogador"
 
 operational_checkpoint:
   updated_at: "2026-10-17"
   state_delta: "sessions/STATE_DELTA_20261016_MK.yaml"
-  source_transcript: "sessions/transcripts/SESSION_0000_CONTINUACAO_20261017_NZ.md"
+  source_transcript: "sessions/transcripts/SESSION_0000_CONTINUACAO_20261017_OA.md"
   source_index: "sessions/INDEX.md"
   note: "Este é o estado jogável atual; transcrições ML/MM/MN/MQ recuperadas, sem comprovação independente de completude da conversa 01.08."
 
