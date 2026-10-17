@@ -567,3 +567,10 @@ checkpoint_20261017_SP:
   location: 'Corredor coberto, fundos Casa da Balanca, Lorn, 17h50'
   situation: 'Jogador solicita rolador para Percepcao +6, para observar pessoas, vigias, observadores, perseguidores e conversas. Rolador virtual mostrado, nenhuma rolagem realizada; aguarda jogador. Neris oculta proxima, Iven ainda nao chegou.'
   resources_unchanged: true
+
+checkpoint_20261017_SS:
+  transcript: 'sessions/transcripts/SESSION_0000_CONTINUACAO_20261017_SS.md'
+  last_message: '1037 Mestre'
+  location: 'Corredor coberto fundos da Casa da Balanca, Lorn, 18h04'
+  situation: 'Eron preparou arco curto com uma flecha, sem disparar; permanece oculto com Neris. Não existe prova de druida vigiando. Contratante desconhecido usa luvas, cicatriz na sobrancelha esquerda, exigiu anotacoes de Iven. Homem de avental fecha porta de cargas; outro guarda cobre porta lateral; terceiro aproxima-se por fora. Iven em risco de cerco, nao ferido. Linha de tiro de Eron limitada pela parede.'
+  resources_unchanged: true
