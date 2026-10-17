@@ -38,7 +38,7 @@ character:
   guard_starting_equipment_option_pending: false
   exile: "Proibido retornar a Valdrén após condenação por assassinato de Edric Valmont; Eron afirma ter sido incriminado"
 narrative:
-  scene: "Eron e Neris estão juntos e observam a estrada do interior da guarita. Neris aceitou aconchegar-se voluntariamente; uma carroça de condutor encapuzado, carga sob lona escura, passou rumo à Ponte Velha sem parar."
+  scene: "Eron fechou e trancou a porta posterior com ferrolho e segunda porta de acesso para estrada com tranca interna. Neris testou saída e beijou Eron novamente, permanecendo junto dele. Janelas e chuva impedem garantir vigilância."
   prior_events_imported: false
   character_actions_so_far:
     - 'Consultar histórico completo das ações em sessions/INDEX.md e transcripts/'
@@ -56,7 +56,7 @@ narrative:
     - 'Registros em dice/ROLL_LOG.csv: 117 Percepção [12]+6=18; 118 Investigação [3]+4=7, ambos Python (MR)'
   consumed_resources:
     - 'Saldo atual 19 flechas, após recuperar uma flecha intacta da terra; segunda flecha partida e inutilizável. Gastos anteriores registrados no índice.'
-  pending_action: "Eron pode continuar a conversa ou a investigação enquanto observa a estrada; carruagem afastou-se. Couro da vala permanece não recolhido."
+  pending_action: "Eron decide reação a Neris e próximas ações na guarita. Duas portas visíveis trancadas por dentro, mas não garantem privacidade; couro da vala não recolhido."
   clocks_advanced: null
 isolation:
   previous_camp_global_untouched: true
@@ -64,17 +64,17 @@ isolation:
   pre_execution_state_archive: "archive/CAMPAIGN_STATE_PRE_EXECUCAO_2026-10-12.yaml"
   dm_plan_retained: "dm/WORLD_BIBLE.md"
 transcript:
-  current: "sessions/transcripts/SESSION_0000_CONTINUACAO_20261017_MZ.md"
+  current: "sessions/transcripts/SESSION_0000_CONTINUACAO_20261017_NA.md"
   index: "sessions/INDEX.md"
-  previous: "sessions/transcripts/SESSION_0000_CONTINUACAO_20261017_MY.md"
+  previous: "sessions/transcripts/SESSION_0000_CONTINUACAO_20261017_MZ.md"
   literal_complete_current_execution: false
-  last_confirmed_message: "0737 — Mestre (narrativa MZ, sincronizada)"
-  pending: "Aguardar Mensagem 0738 — Jogador; MX 0732–0733 pode continuar pendente"
+  last_confirmed_message: "0739 — Mestre (narrativa NA, sincronizada)"
+  pending: "Aguardar Mensagem 0740 — Jogador; MX 0732–0733 ainda pendente"
 
 operational_checkpoint:
   updated_at: "2026-10-17"
   state_delta: "sessions/STATE_DELTA_20261016_MK.yaml"
-  source_transcript: "sessions/transcripts/SESSION_0000_CONTINUACAO_20261017_MZ.md"
+  source_transcript: "sessions/transcripts/SESSION_0000_CONTINUACAO_20261017_NA.md"
   source_index: "sessions/INDEX.md"
   note: "Este é o estado jogável atual; transcrições ML/MM/MN/MQ recuperadas, sem comprovação independente de completude da conversa 01.08."
 
@@ -133,3 +133,17 @@ checkpoint_20261017_MZ:
   no_new_rolls_or_resources: true
   arrows: 19
   leather_fragment_collected: false
+
+checkpoint_20261017_NA:
+  transcript: 'sessions/transcripts/SESSION_0000_CONTINUACAO_20261017_NA.md'
+  player_action: 'Tranca as duas portas de acesso da guarita por dentro para maior privacidade'
+  door_rear: 'ferrolho interno, trancado'
+  door_roadside: 'tranca interna de madeira, trancada'
+  npc_action: 'Neris confirma possibilidade de abrir a porta por dentro, corresponde com beijo breve e segue proxima de Eron'
+  windows_and_noise: 'nao garantem detectar quem se aproxima'
+  no_new_rolls: true
+  leather_fragment_collected: false
+  arrows: 19
+  hp: 11
+  ac: 13
+  pending_transcript: 'MX 0732-0733'
