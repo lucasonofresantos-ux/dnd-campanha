@@ -66,17 +66,17 @@ isolation:
   pre_execution_state_archive: "archive/CAMPAIGN_STATE_PRE_EXECUCAO_2026-10-12.yaml"
   dm_plan_retained: "dm/WORLD_BIBLE.md"
 transcript:
-  current: "sessions/transcripts/SESSION_0000_CONTINUACAO_20261017_OI.md"
+  current: "sessions/transcripts/SESSION_0000_CONTINUACAO_20261017_OJ.md"
   index: "sessions/INDEX.md"
-  previous: "sessions/transcripts/SESSION_0000_CONTINUACAO_20261017_OH.md"
+  previous: "sessions/transcripts/SESSION_0000_CONTINUACAO_20261017_OI.md"
   literal_complete_current_execution: false
-  last_confirmed_message: "0808 — Mestre (narrativa OI, sincronizada)"
-  pending: "Aguardar Mensagem 0809 — Jogador"
+  last_confirmed_message: "0810 — Mestre (narrativa OJ, sincronizada)"
+  pending: "Aguardar Mensagem 0811 — Jogador"
 
 operational_checkpoint:
   updated_at: "2026-10-17"
   state_delta: "sessions/STATE_DELTA_20261016_MK.yaml"
-  source_transcript: "sessions/transcripts/SESSION_0000_CONTINUACAO_20261017_OI.md"
+  source_transcript: "sessions/transcripts/SESSION_0000_CONTINUACAO_20261017_OJ.md"
   source_index: "sessions/INDEX.md"
   note: "Este é o estado jogável atual; transcrições ML/MM/MN/MQ recuperadas, sem comprovação independente de completude da conversa 01.08."
 
