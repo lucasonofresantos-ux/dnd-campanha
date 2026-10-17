@@ -41,3 +41,17 @@ Neris deixa o medalhão repousar sobre o peito e encara Eron com curiosidade.
 ## Continuidade e conhecimento limitado
 
 Eron elogiou Neris e reparou se corava; Neris apresentou rubor leve e demonstrou afeto, já vestida com camisa de linho e túnica azul-escura, segurando capa úmida. O segundo homem que veio com Bram era Lio Marr (não Oliver); o contratante relatado pelos dois é Hadran Selk. O encontro referido por Bram seria na balança coberta do pátio dos armazéns de Lorn, na última conferência de cargas, aproximadamente antes das 17h; Eron determinou apresentação de Bram por volta das 16h30, sem garantia de cumprimento ou presença de Selk. Neris não ouviu a conversa integral dos homens, então a identificação de Selk foi retomada pela memória de Eron, não por conhecimento indevido atribuído a ela. O nome "T. Rell" e estojo lacrado numa folha não provam que Tomas passou pessoalmente; a peça de couro encontrada na vala ainda não foi recolhida nem identificada como parte das correias do estojo. Neris reiterou que a árvore sem folhas e raízes atravessando círculo é marca de custódia, descreveu simbolismo das raízes como persistência de registros, e explicou que não garante confiabilidade de quem porta o sinal; suas declarações não são comprovação independente. Ela perguntou se Eron encontrou a marca em outro local; não foi informado aqui sobre a carta do selo semelhante. Nada foi tirado, obtido ou perdido. Eron ainda não declarou vestir-se ou recolher capa estendida no assoalho. Neris está vestida e tem seu medalhão. Chuva fraca, céu carregado, lamparina acesa, duas portas trancadas por dentro, sem privacidade garantida. Sem novas rolagens ou gastos. Eron 11/11 PV, CA13, 19 flechas, 125 PO, 4 PP e 5 PC, Inspiração Heroica. Arranhões superficiais sem dano mecânico. Missão Tomas Rell e arquivos administrativos aberta.
+
+## Mensagem 0794 — Mestre (fechamento visível literal)
+
+**Registro confirmado no GitHub:** a transcrição OB (0793–0794), o índice e o estado canônico foram atualizados e verificados. O nome **Hadran Selk**, a identificação de **Bram Keld e Lio Marr**, o horário aproximado da balança e a explicação de Neris sobre a marca de custódia foram conferidos com transcrições anteriores. Nenhuma rolagem foi realizada.
+
+[Consultar a transcrição OB](https://github.com/lucasonofresantos-ux/dnd-campanha/blob/main/campaigns/cinzas-da-coroa-esquecida/sessions/transcripts/SESSION_0000_CONTINUACAO_20261017_OB.md)
+
+[LOG DE MEMÓRIA DA CAMPANHA]
+
+- **Localização Atual:** Interior da antiga guarita de pedágio, Ponte Velha, Lorn; portas conhecidas trancadas por dentro.
+- **NPCs Presentes e Relação:** Neris Halden, afetuosa com Eron; corou ao elogio, está vestida e mantém seu medalhão e a capa úmida consigo.
+- **Linha de Missão Ativa:** Investigar Tomas Rell, os registros de carga e o interesse de Hadran Selk.
+- **Eventos Cruciais Ocorridos:** Eron recordou o contratante Hadran Selk, que deveria encontrar Bram na balança coberta no fim da tarde, sem horário garantido. O outro contratado era Lio Marr. Neris reiterou que a árvore sem folhas é marca de custódia e perguntou se Eron viu o símbolo noutro lugar. A referência a T. Rell nos papéis não confirma, por si só, a presença física dele.
+- **Condições do Jogador:** 11/11 PV, CA 13, 19 flechas, 125 PO, 4 PP, 5 PC, Inspiração Heroica disponível. Arranhões superficiais nas costas, sem dano mecânico. Eron ainda não declarou vestir-se ou recolher sua capa do assoalho. Couro encontrado na vala não recolhido. Sem novas rolagens ou gastos.
