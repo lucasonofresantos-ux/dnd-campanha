@@ -424,3 +424,11 @@ Eron deixou a carroca e dirigiu-se verbalmente ao homem de olho esquerdo esbranq
 - Eron recolheu a primeira flecha intacta junto à guarita, chegando a **19 flechas utilizáveis**; a segunda foi encontrada quebrada perto do marco, não recuperável como munição.
 - Rolagens reais junto ao marco: Percepção **[12]+6=18** e Investigação **[3]+4=7** (ROLL_LOG nº 117 e 118). Vestígios de gravação sob musgo notados, mas significado não decifrado; nenhuma ligação de fato confirmada com Tomas.
 - Os registros integrais ML, MM, MN e MQ, antes pendentes por bloqueios de gravação, foram recuperados em 2026-10-17, sem reescrever diálogos antigos ou inventar conteúdo da conversa original 01.08. A equivalência integral com a conversa 01.08 continua não certificada.
+
+## MS–MU 0722–0727 — Retorno à guarita e diálogo com Neris (2026-10-17)
+- Eron propôs investigar os funcionários de serviço durante a possível passagem de Tomas e voltou com Neris à guarita.
+- Eron informou no Roll20 um 20 natural em interação de flerte; Carisma (Persuasão) +1 = 21 (rolagem nº 119, origem jogador). Sem efeito automático sobre sentimentos ou consentimento de Neris.
+- Neris se mostrou mais amistosa, sugeriu possivelmente beber vinho ao fim da investigação, abriu a porta posterior e ajustou a lamparina. A última busca na guarita ainda não ocorreu.
+- Eron observou que ela não usa aliança e comentou sobre a chuva; Neris respondeu que não é casada, sem que isso indique todas as relações pessoais, e perguntou se a observação era profissional ou pessoal.
+- Nenhuma rolagem em MT/MU, ferimento, gasto, recolha de fragmento de couro ou avanço de missão.
+- Arquivos MS, MT, MU e atualizações foram recuperados e gravados após bloqueios iniciais; esta anotação não altera as falas históricas. A transcrição integral da conversa original 01.08 ainda não foi cotejada.
