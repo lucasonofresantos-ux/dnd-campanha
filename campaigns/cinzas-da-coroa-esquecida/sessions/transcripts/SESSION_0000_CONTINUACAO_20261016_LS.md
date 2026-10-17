@@ -27,3 +27,5 @@ Lio olha para o compartimento vazio atrás do balcão.
 Bram intervém, agora com menos firmeza.
 
 — E Selk ofereceu dinheiro suficiente para compensar uma viagem até esta ruína. Não gostou quando perguntamos por que não procurava os registros oficiais.
+
+— Disse que não podia confiar na patrulha — acrescenta Lio. — Mas não explicou por quê.
