@@ -1,0 +1,20 @@
+campaign: cinzas-da-coroa-esquecida
+date: "2026-10-17"
+last_transcript: "sessions/transcripts/SESSION_0000_CONTINUACAO_20261017_NY.md"
+last_message: "0788 — Mestre"
+location: "Antiga guarita de pedágio, Ponte Velha, Lorn"
+scene: "Eron convida Neris a conduzir o encontro; Neris toma a iniciativa afetiva, depois pergunta se ele a considera garoa de outono"
+doors: "Duas portas conhecidas trancadas por dentro"
+weather: "Chuva fina"
+player: 
+  hp: 11
+  hp_max: 11
+  ac: 13
+  arrows: 19
+  gp: 125
+  sp: 4
+  cp: 5
+  heroic_inspiration: true
+new_rolls: 0
+new_expenditures: 0
+leather_fragment_collected: false
