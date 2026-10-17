@@ -222,3 +222,12 @@ checkpoint_20261017_PS:
   situation: 'Odran pode solicitar protocolo de entrada das remessas ao arquivista, mas perguntou se Eron investiga apenas Tomas ou os livros; tocou sino e passos se aproximam.'
   pending_transcripts: 'PQ e PR não confirmadas; preservar fala dos turnos anteriores quando sincronizar'
   resources_unchanged: true
+
+checkpoint_20261017_PU:
+  transcript: 'sessions/transcripts/SESSION_0000_CONTINUACAO_20261017_PU.md'
+  previous: 'sessions/transcripts/SESSION_0000_CONTINUACAO_20261017_PT.md'
+  last_message: '0885 — Mestre'
+  location: 'Sala de Odran Vell no Escritório Municipal de Arrecadação de Lorn'
+  latest_roll: 'Investigação 1d20[7]+4=11, executado com Python secrets.randbelow'
+  situation: 'Eron confirmou referências individuais ausentes em dois dias; Edren entrou com protocolo azul-escuro, ainda fechado'
+  resources_unchanged: true
