@@ -299,3 +299,11 @@ checkpoint_20261017_QJ:
   roll: 'Dado físico do jogador, Percepção 16+6=22'
   situation: 'Eron vigia acessos; homem de capa castanha observado a cerca de 50 passos, parcialmente oculto na passagem lateral; Bren e carregadores terminam descarregamento antes de seguir à oficina.'
   resources_unchanged: true
+
+checkpoint_20261017_QL:
+  transcript: 'sessions/transcripts/SESSION_0000_CONTINUACAO_20261017_QL.md'
+  last_message: '0919 — Mestre'
+  location: 'Rota principal do Cais Sul à oficina de Dagan Murr, perto do Mercado de Grãos, Lorn'
+  time: 'aproximadamente 14h40, ficcional'
+  situation: 'Eron contou a Neris sobre homem de capa castanha; saíram a pé com Bren conduzindo carroça defeituosa. Figura de capa castanha vista no Cais Sul; continuidade da perseguição não confirmada. Rua principal escolhida por Bren.'
+  resources_unchanged: true
