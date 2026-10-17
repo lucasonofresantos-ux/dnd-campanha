@@ -352,3 +352,9 @@ Eron deixou a carroca e dirigiu-se verbalmente ao homem de olho esquerdo esbranq
 ## LP 0663–0664 — Ameaça na guarita
 - Eron mencionou Tomas Rell, afirmou que poderia ter matado os dois homens sem ser percebido, e propôs cooperação. O magro recuou e reagiu ao nome Rell; o barbudo contestou, mão junto à faca embainhada.
 - O Mestre pediu Carisma (Intimidação) 1d20+1; aguardar rolagem do jogador antes de definir cooperação ou resistência. Nenhum combate, dano ou gasto. Eron atrás dos caixotes a cerca de 4m; PV11/11, CA13, 20 flechas, 125 PO 4 PP 5 PC.
+
+## LQ 0665–0666 — Nova ameaça e rolador visual de Intimidação
+- Eron ameaça matar os homens e alegar à patrulha que se tratava de assaltantes que reagiram; pede o rolador.
+- O magro empalidece e olha a porta, o barbudo aperta a mandíbula com a faca ainda embainhada. Nenhuma agressão ou cooperação foi resolvida, aguardando Carisma (Intimidação) 1d20+1.
+- Mestre apresentou rolador visual d20 azul, com bônus +1, Math.random local e ação Usar resultado na campanha. Nada foi rolado ou informado ainda. Eron permanece na guarita atrás dos caixotes a cerca de 4m dos homens; 11/11 PV, CA 13, 20 flechas, 125 PO 4 PP 5 PC.
+- Transcrição LQ 0665–0666.
