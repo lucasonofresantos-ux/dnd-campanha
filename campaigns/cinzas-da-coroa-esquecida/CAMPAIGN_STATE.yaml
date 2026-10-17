@@ -508,3 +508,10 @@ checkpoint_20261017_SE:
   location: 'Passagem lateral da Rua dos Mercadores, Lorn, 16h57'
   situation: 'Eron perguntou se nome de Sann consta nos registros e sobre quatro outros desaparecimentos, embora falou em outros tres depois. Sann diz que seu nome pode constar por motivos comerciais, menciona Darian Marlow e funcionarios sumidos, sem confirmar conexao, pede nomes dos outros. Neris oculta; sem combate.'
   resources_unchanged: true
+
+checkpoint_20261017_SF:
+  transcript: 'sessions/transcripts/SESSION_0000_CONTINUACAO_20261017_SF.md'
+  last_message: '1011 Mestre'
+  location: 'Passagem lateral Rua dos Mercadores, Lorn, 16h58'
+  situation: 'Eron propôs que Sann cesse espionagem e deixe recados no Javali de Ferro, ameaçou seguidores, propôs cerveja futura. Sann prometeu encerrar vigilância sob condição de entendimento e não ameaça aos empregados. Corrigiu nome Darian Marlow; ofereceu aperto de mão, aguardando Eron. Nenhum acordo formal fechado, Neris oculta.'
+  resources_unchanged: true
