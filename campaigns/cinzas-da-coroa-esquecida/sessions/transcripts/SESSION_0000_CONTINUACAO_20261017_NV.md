@@ -33,3 +33,17 @@ A lamparina crepita. Lá fora, a chuva ainda escorre pelas telhas da guarita. Ne
 ## Continuidade
 
 Eron disse "Combinado", beijou Neris, posicionou-se entre suas pernas enquanto mantinha uma mão na nuca e outra na nádega dela, e aguardou que ela envolvesse sua cintura com as pernas. Neris escolheu fazê-lo e correspondeu aos beijos, sem consumação de ato adicional estabelecida. A cena é classificada 18+ e narrada sem anatomia sexual explícita. Duas portas trancadas por dentro, chuva fina, lamparina; estrada e arredores não vigiados. Sem testes, danos, gastos ou achados. Eron 11/11 PV, CA 13, 19 flechas, 125 PO, 4 PP, 5 PC e Inspiração Heroica disponível. Fragmento de couro da vala não recolhido. Investigação Tomas Rell em aberto.
+
+## Mensagem 0782 — Mestre (fechamento visível literal)
+
+**Registro confirmado no GitHub:** a transcrição literal NV (0781–0782), o índice e o estado da campanha foram gravados e verificados. Sem novas rolagens ou alterações de recursos.
+
+[Consultar a transcrição NV](https://github.com/lucasonofresantos-ux/dnd-campanha/blob/main/campaigns/cinzas-da-coroa-esquecida/sessions/transcripts/SESSION_0000_CONTINUACAO_20261017_NV.md)
+
+[LOG DE MEMÓRIA DA CAMPANHA]
+
+- **Localização Atual:** Antiga guarita de pedágio, Ponte Velha, Lorn; duas portas conhecidas trancadas por dentro.
+- **NPCs Presentes e Relação:** Neris Halden, abraçada a Eron e correspondendo aos beijos voluntariamente.
+- **Linha de Missão Ativa:** Investigar o desaparecimento de Tomas Rell e os registros do pedágio; temporariamente interrompida.
+- **Eventos Cruciais Ocorridos:** Eron voltou a beijar Neris e se acomodou junto a ela. Neris envolveu sua cintura com as pernas por iniciativa própria e manteve a aproximação. Nenhuma outra ação íntima foi estabelecida.
+- **Condições do Jogador:** 11/11 PV, CA 13, 19 flechas, 125 PO, 4 PP e 5 PC; Inspiração Heroica disponível. Sem dano, gasto ou novas rolagens. Fragmento de couro da vala ainda não recolhido.
