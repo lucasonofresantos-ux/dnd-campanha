@@ -377,3 +377,9 @@ Eron deixou a carroca e dirigiu-se verbalmente ao homem de olho esquerdo esbranq
 - Eron interpreta a surpresa e o medo de Lio como genuínos. Bram hesita e escolhe palavras cuidadosamente; ocultou até ser pressionado a informação de que Selk teria mencionado River, mas a rolagem não prova mentira adicional nem emboscada.
 - Posição inalterada: Eron junto à entrada da guarita, arco em mãos; Bram e Lio parados do lado de fora com mãos levantadas, flecha de advertência cravada no solo. 11/11 PV, CA 13, 19 flechas no inventário, 125 PO 4 PP 5 PC. Nenhum combate, novo gasto ou deslocamento.
 - Transcrição: sessions/transcripts/SESSION_0000_CONTINUACAO_20261016_LV.md.
+
+## LW 0677–0678 — A ameaça de Eron faz Bram esclarecer as ordens recebidas
+- Eron ordena a Bram e Lio que se virem e ameaça ferir os ombros, cotovelos e joelhos de Bram se ele estiver omitindo informações. Ambos se voltam e mantêm mãos levantadas, sem atacar ou fugir.
+- Bram afirma que Hadran Selk determinou seu retorno ao pátio dos armazéns mesmo caso a folha de registros não fosse localizada e queria saber se alguém procurara os documentos, sobretudo River. Lio aparenta desconhecer essa instrução e se indigna. Bram diz não saber paradeiro de Tomas Rell, destinatário da carga nem motivo de Selk conhecer o nome River. São afirmações de Bram, ainda não verificadas.
+- Intimidação anterior 20 (Roll20 19+1, ordem 107) permanece como pressão social do mesmo encontro. Nenhuma nova rolagem, ataque, dano, gasto ou avanço de tempo significativo. Eron permanece no limiar da porta traseira da guarita, com arco em mãos; Bram e Lio no exterior, agora voltados para Eron. Flecha de advertência cravada no solo, não recolhida. 11/11 PV, CA13, 19 flechas, 125 PO 4 PP 5 PC.
+- Transcrição: sessions/transcripts/SESSION_0000_CONTINUACAO_20261016_LW.md.
