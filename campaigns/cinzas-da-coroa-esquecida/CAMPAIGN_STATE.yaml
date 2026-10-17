@@ -337,3 +337,10 @@ checkpoint_20261017_QP:
   location: 'Oficina de Dagan Murr, Lorn'
   situation: 'Dagan aceitou orçamento de 7 PP para conserto, sujeito a inspeção de danos adicionais. Reparos iniciados; nenhum pagamento feito. Bren agradecido a Eron.'
   resources_unchanged: true
+
+checkpoint_20261017_QT:
+  transcript: 'sessions/transcripts/SESSION_0000_CONTINUACAO_20261017_QT.md'
+  last_message: '0935 — Mestre'
+  location: 'Beco proximo ao Javali de Ferro, Lorn, por volta das 15h25'
+  situation: 'Neris concordou em atrair possivel perseguidor mas expressou limites morais. Eron ainda precisa executar teste de Furtividade para se ocultar; nao ha resultado nem contato com perseguidor ainda.'
+  resources: '11/11 PV; CA 13; 19 flechas; 124 PO, 1 PP, 5 PC; Inspiracao Heroica disponivel'
