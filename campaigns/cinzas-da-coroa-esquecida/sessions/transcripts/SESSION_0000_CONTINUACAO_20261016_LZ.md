@@ -47,3 +47,19 @@ Por um breve instante, a mão enluvada da figura se move até um pequeno objeto 
 A pessoa ainda **não demonstrou perceber que foi descoberta**. Continua atrás do marco, parcialmente oculta.
 
 A guarita permanece às costas de Eron. Bram e Lio se afastam pela estrada. A figura desconhecida está a cerca de cinquenta metros, entre os salgueiros.
+
+## Mensagem visível de andamento do Mestre
+
+A **Percepção 26** revelou um observador escondido atrás de um marco de pedra, a cerca de cinquenta metros da guarita. Bram e Lio já receberam ordem de seguir e não foram perseguidos por Eron. O GitHub está bloqueando as novas gravações neste momento; vou preservar a transcrição e a rolagem em arquivos locais para não perder a continuidade.
+
+## Mensagem 0685 — Mestre (fechamento visível)
+
+**[LOG DE MEMÓRIA DA CAMPANHA]**
+
+- **Localização Atual:** Porta dos fundos da guarita abandonada, nas proximidades da Ponte Velha; há uma pessoa desconhecida vigiando a cerca de cinquenta metros, atrás de um marco de pedra entre os salgueiros.
+- **NPCs Presentes e Relação:** Bram Keld e Lio Marr se afastam pela estrada, após serem liberados. Um terceiro observador desconhecido permanece escondido e aparentemente não sabe que foi visto.
+- **Linha de Missão Ativa:** Investigar o desaparecimento de Tomas Rell, a folha de registro de cargas e o interesse de Hadran Selk por Eron.
+- **Eventos Cruciais Ocorridos:** Bram aceitou verbalmente comparecer à balança coberta **às 16h30, não antes**, sem alertar Selk previamente. Percepção **1d20 [20] +6 = 26**, informada pelo jogador e aceita sem nova rolagem. Eron detectou uma figura de capa verde-acinzentada observando a guarita e os dois homens, com um pequeno reflexo metálico próximo ao peito. Identidade e intenções não confirmadas.
+- **Condições do Jogador:** 11/11 PV; CA 13; 19 flechas no inventário, com uma flecha de advertência ainda cravada na terra; 125 PO, 4 PP e 5 PC. Inspiração Heroica disponível. Arco em mãos; sem combate, dano ou novos gastos.
+
+**Persistência:** A escrita no GitHub foi bloqueada nesta interação. Esta transcrição e a linha de rolagem nº 109 estão guardadas em arquivos locais, mas **ainda não há commit confirmado** para LZ.
