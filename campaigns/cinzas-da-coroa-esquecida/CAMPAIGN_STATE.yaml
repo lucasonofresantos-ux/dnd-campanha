@@ -501,3 +501,10 @@ checkpoint_20261017_SD:
   location: 'Passagem lateral da Rua dos Mercadores, Lorn, 16h56'
   situation: 'Eron confirmou exilio e respeito por Edric Valmont, negou lembrar-se de mata-lo e relatou sobreviventes do armazem. Sann afirmou que registros de Tomas incluem pessoas transportadas com identidades falsas, uma constando entrada e saida no mesmo dia por rotas distintas. Sann com relógio de bolso, Neris ainda oculta, sem confronto.'
   resources_unchanged: true
+
+checkpoint_20261017_SE:
+  transcript: 'sessions/transcripts/SESSION_0000_CONTINUACAO_20261017_SE.md'
+  last_message: '1009 Mestre'
+  location: 'Passagem lateral da Rua dos Mercadores, Lorn, 16h57'
+  situation: 'Eron perguntou se nome de Sann consta nos registros e sobre quatro outros desaparecimentos, embora falou em outros tres depois. Sann diz que seu nome pode constar por motivos comerciais, menciona Darian Marlow e funcionarios sumidos, sem confirmar conexao, pede nomes dos outros. Neris oculta; sem combate.'
+  resources_unchanged: true
