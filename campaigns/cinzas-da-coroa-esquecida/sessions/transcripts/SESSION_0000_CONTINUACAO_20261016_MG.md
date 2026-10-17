@@ -30,3 +30,7 @@ Ela baixa o medalhão, mas o deixa visível.
 Neris apoia os antebraços sobre a mesa, sem esconder as mãos.
 
 — **Conheço Tomas Rell.** Não muito bem, mas o suficiente para saber que ele não era simplesmente um transportador de mercadorias. Algumas de suas entregas envolviam documentos, e ele sabia que certos nomes não deveriam ser pronunciados em público.
+
+Ela olha para o compartimento vazio atrás do balcão.
+
+— Faz algum tempo que não tenho notícias dele. Vim até aqui porque soube que havia gente procurando um registro relacionado a uma de suas entregas. Queria descobrir quem eram essas pessoas antes de me apresentar.
