@@ -581,3 +581,12 @@ checkpoint_20261017_SU_CORRECAO_PE:
   canonical_damage: 18
   initiative_pending: true
   arrows: 18
+
+checkpoint_20261017_SV:
+  transcript: 'sessions/transcripts/SESSION_0000_CONTINUACAO_20261017_SV.md'
+  last_message: '1043 Mestre'
+  location: 'Corredor coberto, fundos da Casa da Balanca, Lorn, 18h04'
+  situation: 'Eron declarou proximo ataque no ombro do homem de avental e informou 17 natural, reservado sem resolver. Primeiro ataque contra interrogador ja consumiu a acao que iniciou combate. Iniciativa do jogador 1d20+4 pendente. Alvo parcialmente visivel com possivel cobertura. Nenhum segundo disparo, nenhum consumo de flecha ou dano nesta interação.'
+  arrows: 18
+  initiative_pending: true
+  second_attack_roll_reserved: 17
