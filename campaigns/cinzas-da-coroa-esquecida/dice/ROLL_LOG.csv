@@ -115,3 +115,4 @@ cinzas-da-coroa-esquecida,0000,131,percepcao_retorno_patio,python_secrets_randbe
 cinzas-da-coroa-esquecida,0000,132,percepcao_cais_sul,python_secrets_randbelow,18,,18,6,24,true,"QE 0904-0905; homem capa castanha suspeito, identidade nao confirmada"
 cinzas-da-coroa-esquecida,0000,133,percepcao_vigilancia_cais,jogador_dado_fisico,16,,16,6,22,true,"QJ 0914-0915; homem de capa castanha observado"
 cinzas-da-coroa-esquecida,0000,134,percepcao_trajeto_oficina,jogador_app_local,16,,16,6,22,true,"QN 0922-0923; resultado enviado pelo jogador, sem nova execução Python"
+cinzas-da-coroa-esquecida,0000,135,furtividade_beco_javali,jogador_app_local,20,,20,5,25,true,"QV 0938-0939; resultado informado jogador; 20 natural não é sucesso automático de perícia"
