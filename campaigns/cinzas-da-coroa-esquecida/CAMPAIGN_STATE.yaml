@@ -700,3 +700,8 @@ checkpoint_20261017_UB:
   transcript: 'sessions/transcripts/SESSION_0000_CONTINUACAO_20261017_UB.md'
   location: 'Sala principal da Casa da Balanca, Lorn, aprox. 18h23'
   situation: 'Eron informou a Neris que Belric alegadamente estava preso e foi solto, ocultando que nunca foi amarrado. Eron perguntou a Valen sobre ruídos no escritorio. Valen disse que escritorio normalmente fica fechado com chave em seu casaco e revelou parede falsa atras de armarios para compartimento de valores/documentos. Afirmou existir acesso antigo pelo corredor de servico, que ordenou fechar ha meses mas nao verificou. Nao confirmou presença de pessoa no local. Neris cuida de Valen, Iven ainda proximo a saida aguardando partida. Escritório não vistoriado, chave ainda em bolso interno esquerdo.'
+
+checkpoint_20261017_UC:
+  transcript: 'sessions/transcripts/SESSION_0000_CONTINUACAO_20261017_UC.md'
+  location: 'Sala principal Casa da Balanca, Lorn, 18h23'
+  situation: 'Eron perguntou sobre engrenagens. Odrik Valen relatou dois caixotes reforcados com cintas de ferro recebidos ha semanas, manifestados como pecas de precisao, levados ao escritorio superior mediante autorizacao de transporte. Afirma que deixaram de constar inventario comum, mas nao verificou conteudo. Perguntou se Eron encontrou peca ligada ao local. Afirmacoes nao verificadas; Neris cuida do ferimento, Iven perto da porta.'
