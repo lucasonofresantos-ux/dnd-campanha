@@ -395,3 +395,8 @@ Eron deixou a carroca e dirigiu-se verbalmente ao homem de olho esquerdo esbranq
 - Eron perguntou se 18h serviria para o encontro e autorizou Bram a ir nesse horário se apropriado, senão solicitar estimativa. Bram afirmou que 18h poderia ser tarde no outono, pois escurece cedo, e estimou última conferência de cargas **por volta de 17h**, aconselhando chegar antes. Lio corroborou o horário usual dos armazéns. Hora não foi marcada expressamente por Selk, é estimativa dos NPCs.
 - Bram afirmou que compareceria antes de 17h e só então comunicaria a Selk ter encontrado River. Ainda não saiu porque espera a liberação de Eron. Eron continua junto à porta traseira da guarita, arco em mãos; Bram e Lio do lado externo, com mãos erguidas; flecha cravada na terra. 11/11 PV, CA 13, 19 flechas, 125 PO 4 PP 5 PC. Sem teste, dano, combate ou gasto.
 - Transcrição: sessions/transcripts/SESSION_0000_CONTINUACAO_20261016_LY.md.
+
+## MD 0692–0693 — A observadora se aproxima
+- Eron esclarece que disparou no marco como advertência e ordena aproximação. A figura sai dos 25 metros e chega a aproximadamente 8 metros de Eron.
+- Eron vê uma mulher humana de 30 a 40 anos, cabelos castanhos presos e olhos claros, capa verde-acinzentada e objeto circular metálico no peito de marcas ainda desconhecidas. Ela mantém duas mãos visíveis, nenhuma arma empunhada, e questiona por que foi alvo de disparo.
+- Bram e Lio continuam seguindo pela estrada. Arco de Eron em mãos, 18 flechas, HP 11/11, CA 13, 125 PO 4 PP 5 PC. Rolagem anterior de ataque 2d20kl1 [15,16] manteve 15+4=19 e acertou o marco, danificando a flecha; nenhuma rolagem nova nesta troca.
