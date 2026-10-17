@@ -25,3 +25,7 @@ Neris começa a ler as cartas. Quando chega ao trecho que menciona a morte de **
 — Esta segunda carta é mais específica. A primeira menciona seu exílio e a morte de seu comandante. Esta conhece até o nome dele.
 
 Ela volta a examinar os documentos.
+
+— Nenhuma está assinada. Mas há algo que me preocupa mais do que a ausência de um nome. Quem escreveu sabia onde fazer essas cartas chegarem até você. Primeiro em Caldria, depois aqui. E continua oferecendo a mesma recompensa: cinquenta moedas pelo desaparecido e outras cinquenta pelo objeto.
+
+Neris deixa os papéis sobre o balcão, sem se apropriar deles.
