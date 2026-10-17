@@ -662,3 +662,5 @@ Arquivos produzidos nesta conferência: `transcripts/AUDITORIA_CONTINUIDADE_2026
 [LQ — 0665–0666](transcripts/SESSION_0000_CONTINUACAO_20261016_LQ.md) — Eron ameaça matar os homens e apresentar outra versão à patrulha; exige cooperação e pede rolador. Barbudo não saca faca e magro olha a saída, tensos. Teste de Intimidação 1d20+1 permanece pendente, rolador visual local oferecido, sem resultado, dano ou combate.
 
 LR 0667–0668: rolagem 107 Intimidacao 20; Bram e Lio falam de Selk.
+
+[LS — 0669–0670](transcripts/SESSION_0000_CONTINUACAO_20261016_LS.md) — Eron pergunta a Bram e Lio local e hora para entregar a folha. Lio diz que Selk aguardaria hoje antes do anoitecer na balança coberta do pátio dos armazéns. Eles não viram Tomas. Informação ainda não verificada; sem novos testes ou combate.
