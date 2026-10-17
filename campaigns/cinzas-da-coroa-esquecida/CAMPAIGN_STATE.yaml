@@ -7,7 +7,7 @@ session: 0
 ruleset: "D&D 5E 2024 / SRD 5.2.1 (Guarda e Tenaz: PHB 2024)"
 audience_rating: "18+"
 tone: "Fantasia medieval adulta: romance, conflito e consequências; intimidade narrada sem descrição sexual gráfica"
-current_location: "Sala do oficial de serviço, posto municipal da guarda na praça comercial de Lorn, Caldria; com Neris Halden e tenente Arven Cael"
+current_location: "Sala do oficial de serviço, posto municipal da guarda na praça comercial de Lorn, Caldria; com Neris Halden e tenente Arven Cael; porta fechada, não trancada"
 current_time: "Outono, manhã; hora exata não fixada; chuva e solo úmido"
 character:
   name: Eron River
@@ -61,7 +61,7 @@ narrative:
     - '121 Percepção caminho ao posto da guarda: 1d20 [6]+6=12, Python secrets.randbelow (OM)'
   consumed_resources:
     - 'Saldo atual 19 flechas, após recuperar uma flecha intacta da terra; segunda flecha partida e inutilizável. Gastos anteriores registrados no índice.'
-  pending_action: "Tenente Arven Cael perguntou a Eron o que exatamente deseja saber sobre a antiga guarita de pedágio da Ponte Velha. Duas cadeiras foram oferecidas, mas Eron não declarou sentar-se. Couro da vala não recolhido; Bram/Selk possivelmente ao fim da tarde."
+  pending_action: "Arven Cael fechou a porta sem trancar a pedido de Eron e perguntou se os desaparecimentos se relacionam à guarita. Eron ainda não respondeu nem apresentou provas; duas cadeiras oferecidas, sem declaração de sentar-se."
   clocks_advanced: null
 isolation:
   previous_camp_global_untouched: true
@@ -69,12 +69,12 @@ isolation:
   pre_execution_state_archive: "archive/CAMPAIGN_STATE_PRE_EXECUCAO_2026-10-12.yaml"
   dm_plan_retained: "dm/WORLD_BIBLE.md"
 transcript:
-  current: "sessions/transcripts/SESSION_0000_CONTINUACAO_20261017_OQ.md"
+  current: "sessions/transcripts/SESSION_0000_CONTINUACAO_20261017_OR.md"
   index: "sessions/INDEX.md"
-  previous: "sessions/transcripts/SESSION_0000_CONTINUACAO_20261017_OP.md"
+  previous: "sessions/transcripts/SESSION_0000_CONTINUACAO_20261017_OQ.md"
   literal_complete_current_execution: false
-  last_confirmed_message: "0825 — Mestre (narrativa OQ, sincronizada)"
-  pending: "Aguardar Mensagem 0826 — Jogador"
+  last_confirmed_message: "0827 — Mestre (narração OR, sincronizada)"
+  pending: "Aguardar Mensagem 0828 — Jogador"
 
 operational_checkpoint:
   updated_at: "2026-10-17"
