@@ -15,3 +15,5 @@ A ameaça de Eron muda o tom da conversa: os dois homens já estavam desconfiado
 Ao ouvir o nome **Tomas Rell**, o homem magro lança um olhar rápido para o companheiro. Mas é a ameaça seguinte que altera o ambiente: ele recua um passo, afastando-se da gaveta caída. O barbudo, por sua vez, enrijece os ombros e mantém a mão próxima da faca, ainda embainhada.
 
 — Entrou sem que ouvíssemos, isso é verdade — responde o barbudo, com a voz mais baixa. — Mas não confunda nos surpreender com poder nos matar sem consequências.
+
+— Ele falou de Rell... — começa o magro.
