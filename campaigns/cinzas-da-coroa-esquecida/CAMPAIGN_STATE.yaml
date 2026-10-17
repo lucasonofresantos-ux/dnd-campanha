@@ -668,3 +668,9 @@ checkpoint_20261017_TP:
   transcript: 'sessions/transcripts/SESSION_0000_CONTINUACAO_20261017_TP.md'
   location: 'Sala principal Casa da Balanca, Lorn, cerca de 18h13'
   situation: 'Eron reafirmou ameaca a interrogador; Neris desaprova mutilacao adicional, pronta a iniciar primeiros socorros. Interrogador de luvas declarou se chamar Odrik Valen e administrar operacoes do armazem, ainda sem verificacao independente. Neris ordenou que mantivesse maos na mesa e preparou curativos. Chave escritorio permanece bolso interno esquerdo de Valen; flecha ainda cravada no pe, tratamento nao iniciado.'
+
+checkpoint_20261017_TS:
+  transcript: 'sessions/transcripts/SESSION_0000_CONTINUACAO_20261017_TS.md'
+  location: 'Sala principal Casa da Balanca, Lorn, aproximadamente 18h16'
+  roll: 'Enganacao 18 natural +1=19, jogador informou dado'
+  situation: 'Eron alega a Valen que só procurava escolta e foi levado a investigar Tomas por vigias enviados atras dele. Valen parece aceitar explicacao provisoria. Confirma que Iven e Darian Marlow sao irmaos, diz que Darian trabalhava com registros e esteve no antigo entreposto fluvial, desaparecendo depois de investigar divergencias. Segundo Valen, Tomas Rell foi ultima pessoa a ver Darian, alegacao nao verificada. Prisioneiros seguem sob controle, ferimento de Valen ainda nao tratado.'
