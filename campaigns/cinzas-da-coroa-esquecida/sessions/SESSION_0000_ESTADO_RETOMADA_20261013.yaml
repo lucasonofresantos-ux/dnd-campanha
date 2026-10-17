@@ -1229,3 +1229,27 @@ current_scene_lu_20261016:
   heroic_inspiration: true
   hit_dice_available: '1d8'
   awaiting_player_action: true
+
+current_scene_lv_20261016:
+  campaign_id: cinzas-da-coroa-esquecida
+  session: 0
+  latest_transcript: sessions/transcripts/SESSION_0000_CONTINUACAO_20261016_LV.md
+  last_message: '0676 — Mestre'
+  location: 'Entrada posterior da guarita antiga, Ponte Velha, Lorn; Bram e Lio do lado de fora'
+  time: 'Manhã'
+  eron: 'Arco em mãos, observa Bram e Lio após exigir explicação de sobrenome River'
+  insight: {expression: '1d20+4', natural: 8, modifier: 4, total: 12, roller: 'python_secrets_randbelow', roll_log_order: 108}
+  lio: 'Medo e surpresa com sobrenome River parecem sinceros, sem certeza absoluta'
+  bram: 'Medo e cautela perceptíveis; ocultou menção a River até questionado. Teste não prova que esteja mentindo agora'
+  detection: 'Nenhuma evidência suficiente de emboscada no teste'
+  arrow_warning: 'Flecha da cena anterior cravada no solo, ainda não recuperada'
+  arrows_current: 19
+  hp_current: 11
+  hp_max: 11
+  armor_class: 13
+  money: {gp: 125, sp: 4, cp: 5}
+  heroic_inspiration: true
+  hit_dice_available: '1d8'
+  combat: false
+  new_expenses: 0
+  awaiting_player_action: true
