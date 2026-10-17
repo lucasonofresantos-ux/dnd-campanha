@@ -660,3 +660,5 @@ Arquivos produzidos nesta conferência: `transcripts/AUDITORIA_CONTINUIDADE_2026
 [LP — 0663–0664](transcripts/SESSION_0000_CONTINUACAO_20261016_LP.md) — Eron ameaçou dois homens na guarita, mencionou Tomas Rell e propôs cooperação. O magro recuou; o barbudo permanece tenso sem sacar faca. Pendente 1d20+1 de Intimidação (Carisma), sem rolagem ou combate.
 
 [LQ — 0665–0666](transcripts/SESSION_0000_CONTINUACAO_20261016_LQ.md) — Eron ameaça matar os homens e apresentar outra versão à patrulha; exige cooperação e pede rolador. Barbudo não saca faca e magro olha a saída, tensos. Teste de Intimidação 1d20+1 permanece pendente, rolador visual local oferecido, sem resultado, dano ou combate.
+
+LR 0667–0668: rolagem 107 Intimidacao 20; Bram e Lio falam de Selk.
