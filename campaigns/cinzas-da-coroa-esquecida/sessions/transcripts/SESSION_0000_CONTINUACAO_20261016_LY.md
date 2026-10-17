@@ -29,3 +29,5 @@ Lio finalmente intervém:
 — E eu posso confirmar isso. Quando o movimento diminui, fecham os registros e os despachantes começam a ir embora.
 
 Bram torna a encarar Eron.
+
+— Estarei lá antes das cinco. Direi que encontrei você somente quando estiver diante dele, como exigiu. Agora, podemos seguir?
