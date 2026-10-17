@@ -34,3 +34,15 @@ Ela ergue o rosto novamente e sorri.
 
 ## Continuidade
 Neris aceitou por vontade própria permanecer junto de Eron e observar a estrada; Eron fez o convite, sem outras ações ou sentimentos presumidos. Carroça com condutor encapuzado e carga sob lona escura passou sem parar em direção à Ponte Velha; identidade e carga não determinadas. Nenhuma rolagem adicional. Eron: 11/11 PV; CA 13; 19 flechas; 125 PO, 4 PP, 5 PC; Inspiração Heroica. Fragmento de couro da vala não foi recolhido. A investigação dos funcionários de pedágio ainda está aberta. Preservar pendência da transcrição anterior MX 0732–0733 se ainda não tiver commit.
+
+## Mensagem 0737 — Mestre (fechamento visível literal)
+
+**Registro no GitHub confirmado:** a transcrição desta interação, o índice da sessão e o estado da campanha foram atualizados e verificados. O registro anterior MX ainda está pendente de sincronização; não houve novas rolagens.
+
+[LOG DE MEMÓRIA DA CAMPANHA]
+
+- **Localização Atual:** Interior da antiga guarita de pedágio, Ponte Velha, Lorn.
+- **NPCs Presentes e Relação:** Neris Halden, próxima de Eron e receptiva ao afeto, mas ainda cautelosa.
+- **Linha de Missão Ativa:** Encontrar Tomas Rell e identificar os funcionários do pedágio e os registros de sua passagem.
+- **Eventos Cruciais Ocorridos:** Neris aceitou ficar junto a Eron para se aquecer e observar a estrada. Uma carroça coberta passou em direção à Ponte Velha sem parar; condutor e carga não identificados.
+- **Condições do Jogador:** 11/11 PV, CA 13, 19 flechas, 125 PO, 4 PP e 5 PC. Inspiração Heroica disponível; nenhum gasto ou nova rolagem. Fragmento de couro da vala ainda não recolhido.
