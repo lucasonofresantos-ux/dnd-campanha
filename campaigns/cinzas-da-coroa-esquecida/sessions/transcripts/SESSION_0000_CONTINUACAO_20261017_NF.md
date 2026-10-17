@@ -53,3 +53,17 @@ A cena permanece ali, naquele instante de escolha, enquanto a chuva continua do 
 - Neris ainda está no balcão; Eron diante dela. Ambas as portas conhecidas trancadas por dentro, mas janelas e chuva impedem certeza de isolamento.
 - Investigação de Tomas e funcionários do pedágio aberta; couro da vala não recolhido.
 - Sem rolagens, gastos, combate ou efeitos mecânicos novos. Eron 11/11 PV, CA 13, 19 flechas, 125 PO, 4 PP e 5 PC. Inspiração Heroica disponível.
+
+## Mensagem 0749 — Mestre (fechamento visível literal)
+
+**Sincronização confirmada:** as transcrições NE (anteriormente pendente) e NF, o índice e o estado da campanha estão gravados no GitHub. A cena termina exatamente quando Neris começa a desatar os cordões da túnica; nenhuma ação posterior de Eron foi presumida.
+
+[Transcrição desta passagem no GitHub](https://github.com/lucasonofresantos-ux/dnd-campanha/blob/main/campaigns/cinzas-da-coroa-esquecida/sessions/transcripts/SESSION_0000_CONTINUACAO_20261017_NF.md)
+
+[LOG DE MEMÓRIA DA CAMPANHA]
+
+- **Localização Atual:** Interior da antiga guarita de pedágio de Lorn, junto ao balcão; duas portas conhecidas trancadas por dentro.
+- **NPCs Presentes e Relação:** Neris Halden; interessada em Eron, conduzindo o encontro por decisão própria.
+- **Linha de Missão Ativa:** Localizar Tomas Rell e identificar os responsáveis pela guarita na data de sua passagem.
+- **Eventos Cruciais Ocorridos:** Eron deixou Neris conduzir e autorizou o Mestre a escrever suas falas nesta passagem. Ela retirou a capa molhada e começou a desatar os cordões da túnica. A cena para nesse instante.
+- **Condições do Jogador:** 11/11 PV, CA 13, 19 flechas, 125 PO, 4 PP e 5 PC; Inspiração Heroica disponível. Sem novas rolagens, danos ou gastos. Couro da vala ainda não recolhido.
