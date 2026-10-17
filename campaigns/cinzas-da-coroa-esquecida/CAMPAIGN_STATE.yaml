@@ -40,7 +40,7 @@ character:
   guard_starting_equipment_option_pending: false
   exile: "Proibido retornar a Valdrén após condenação por assassinato de Edric Valmont; Eron afirma ter sido incriminado"
 narrative:
-  scene: "Depois de novo encontro íntimo consensual, Neris descansa sobre a capa com Eron. Deixou arranhões superficiais nas costas dele, desculpou-se e perguntou se ele está bem. Chuva mais fraca, portas conhecidas trancadas por dentro."
+  scene: "Após encontro íntimo consensual, ambos chegaram ao clímax. Neris está cansada e pediu descanso, repousando perto de Eron sobre a capa no assoalho. Céu encoberto, chuva enfraquecendo, lamparina acesa e duas portas trancadas por dentro."
   prior_events_imported: false
   character_actions_so_far:
     - 'Consultar histórico completo das ações em sessions/INDEX.md e transcripts/'
@@ -58,7 +58,7 @@ narrative:
     - 'Registros em dice/ROLL_LOG.csv: 117 Percepção [12]+6=18; 118 Investigação [3]+4=7, ambos Python (MR)'
   consumed_resources:
     - 'Saldo atual 19 flechas, após recuperar uma flecha intacta da terra; segunda flecha partida e inutilizável. Gastos anteriores registrados no índice.'
-  pending_action: "Neris pergunta se Eron está bem. Eron decide resposta. Missão Tomas segue aberta; couro da vala ainda não recolhido."
+  pending_action: "Neris pediu para descansar. Eron decide próximos gestos. A investigação de Tomas Rell segue pendente; couro escuro da vala não recolhido."
   clocks_advanced: null
 isolation:
   previous_camp_global_untouched: true
@@ -66,17 +66,17 @@ isolation:
   pre_execution_state_archive: "archive/CAMPAIGN_STATE_PRE_EXECUCAO_2026-10-12.yaml"
   dm_plan_retained: "dm/WORLD_BIBLE.md"
 transcript:
-  current: "sessions/transcripts/SESSION_0000_CONTINUACAO_20261017_NX.md"
+  current: "sessions/transcripts/SESSION_0000_CONTINUACAO_20261017_NZ.md"
   index: "sessions/INDEX.md"
-  previous: "sessions/transcripts/SESSION_0000_CONTINUACAO_20261017_NW.md"
+  previous: "sessions/transcripts/SESSION_0000_CONTINUACAO_20261017_NY.md"
   literal_complete_current_execution: false
-  last_confirmed_message: "0786 — Mestre (narrativa NX, sincronizada)"
-  pending: "Aguardar Mensagem 0787 — Jogador"
+  last_confirmed_message: "0790 — Mestre (narrativa NZ, sincronizada)"
+  pending: "Aguardar Mensagem 0791 — Jogador"
 
 operational_checkpoint:
   updated_at: "2026-10-17"
   state_delta: "sessions/STATE_DELTA_20261016_MK.yaml"
-  source_transcript: "sessions/transcripts/SESSION_0000_CONTINUACAO_20261017_NX.md"
+  source_transcript: "sessions/transcripts/SESSION_0000_CONTINUACAO_20261017_NZ.md"
   source_index: "sessions/INDEX.md"
   note: "Este é o estado jogável atual; transcrições ML/MM/MN/MQ recuperadas, sem comprovação independente de completude da conversa 01.08."
 
