@@ -3,3 +3,4 @@
 ## Mensagem 0667 — Jogador (literal)
 
 Rolei no roll 20, tirei 19 no dado, mais um de carisma, fica 20.
+- Bem é oque né parece, mas que tal começarem a me contar oque são, oque estão fazendo aqui e oque sabem sobre o Tomas Rell? E não tentem fugir, não vai dá tempo
