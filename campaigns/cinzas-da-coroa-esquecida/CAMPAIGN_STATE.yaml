@@ -40,7 +40,7 @@ character:
   guard_starting_equipment_option_pending: false
   exile: "Proibido retornar a Valdrén após condenação por assassinato de Edric Valmont; Eron afirma ter sido incriminado"
 narrative:
-  scene: "Eron e Neris deixaram a antiga guarita de pedágio e chegaram ao posto municipal da guarda na praça comercial, perto do meio-dia (hora aproximada). Percepção Python ao longo do trajeto: 1d20 [6]+6=12, nenhum seguidor persistente identificado, vigilância discreta não excluída. Eron pediu conversar com superior, informou seu nome e corrigiu tema: antiga guarita de pedágio abandonada na estrada antes da Ponte Velha, NÃO um posto de guarda abandonado. Guarda de barba curta à entrada reconhece referência e pede natureza da ocorrência. Ambos ainda do lado de fora."
+  scene: "Eron informou ao sentinela apenas que gostaria de conversar sobre a última semana da antiga guarita de pedágio antes da Ponte Velha. Guarda de barba curta transmitiu pedido, regressou minutos depois e convidou Eron e Neris a entrar com armas embainhadas. Oficial de serviço, nome ainda não informado, visível à distância numa sala com mesa de relatórios e mapa. Eron e Neris continuam fora, à entrada aberta, sem revelar cartas, fragmentos ou Tomas."
   prior_events_imported: false
   character_actions_so_far:
     - 'Consultar histórico completo das ações em sessions/INDEX.md e transcripts/'
@@ -60,7 +60,7 @@ narrative:
     - '121 Percepção caminho ao posto da guarda: 1d20 [6]+6=12, Python secrets.randbelow (OM)'
   consumed_resources:
     - 'Saldo atual 19 flechas, após recuperar uma flecha intacta da terra; segunda flecha partida e inutilizável. Gastos anteriores registrados no índice.'
-  pending_action: "Sentinela de barba curta pergunta a Eron qual a natureza da possível ocorrência na antiga GUARITA DE PEDÁGIO antes da Ponte Velha. Eron ainda não revelou as cartas/fragmentos aos guardas. Estão fora do posto municipal; couro da vala não recolhido. Possível encontro Bram/Selk no fim da tarde."
+  pending_action: "Guarda de barba curta convidou Eron e Neris a entrar para falar ao oficial de serviço, solicitando armas embainhadas. Aguardar decisão de Eron; ainda estão do lado de fora. Couro da vala não recolhido. Bram/Selk possivelmente ao fim da tarde."
   clocks_advanced: null
 isolation:
   previous_camp_global_untouched: true
@@ -68,17 +68,17 @@ isolation:
   pre_execution_state_archive: "archive/CAMPAIGN_STATE_PRE_EXECUCAO_2026-10-12.yaml"
   dm_plan_retained: "dm/WORLD_BIBLE.md"
 transcript:
-  current: "sessions/transcripts/SESSION_0000_CONTINUACAO_20261017_OO.md"
+  current: "sessions/transcripts/SESSION_0000_CONTINUACAO_20261017_OP.md"
   index: "sessions/INDEX.md"
-  previous: "sessions/transcripts/SESSION_0000_CONTINUACAO_20261017_ON.md"
+  previous: "sessions/transcripts/SESSION_0000_CONTINUACAO_20261017_OO.md"
   literal_complete_current_execution: false
-  last_confirmed_message: "0821 — Mestre (narrativa OO, sincronizada)"
-  pending: "Aguardar Mensagem 0822 — Jogador"
+  last_confirmed_message: "0823 — Mestre (narrativa OP, sincronizada)"
+  pending: "Aguardar Mensagem 0824 — Jogador"
 
 operational_checkpoint:
   updated_at: "2026-10-17"
   state_delta: "sessions/STATE_DELTA_20261016_MK.yaml"
-  source_transcript: "sessions/transcripts/SESSION_0000_CONTINUACAO_20261017_OO.md"
+  source_transcript: "sessions/transcripts/SESSION_0000_CONTINUACAO_20261017_OP.md"
   source_index: "sessions/INDEX.md"
   note: "Este é o estado jogável atual; transcrições ML/MM/MN/MQ recuperadas, sem comprovação independente de completude da conversa 01.08."
 
