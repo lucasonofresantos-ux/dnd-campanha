@@ -12,3 +12,5 @@ Vou resolver o disparo contra o marco, sem tratá-lo como um ataque direto à pe
 ## Mensagem 0687 — Mestre (resposta visível)
 
 Eron ergue o arco curto, volta-se para o antigo marco de pedra entre os salgueiros e dispara uma flecha na direção dele.
+
+— **Saia daí! Agora! Venha até aqui!**
