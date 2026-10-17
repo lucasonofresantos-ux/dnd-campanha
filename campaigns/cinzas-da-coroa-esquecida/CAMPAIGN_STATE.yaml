@@ -473,3 +473,10 @@ checkpoint_20261017_RX:
   location: 'Passagem lateral, Rua dos Mercadores, Lorn, Caldria, 16h49'
   situation: 'Eron fez referência à reputação de violência e sorriu, e questionou sobre acontecimento mais recente em Caldria. Sann respondeu cautelosamente e pediu para especificar acontecimento, sem confirmar rumores. Neris oculta. Lorn cidade, Caldria região.'
   resources_unchanged: true
+
+checkpoint_20261017_RY:
+  transcript: 'sessions/transcripts/SESSION_0000_CONTINUACAO_20261017_RY.md'
+  last_message: '0997 Mestre'
+  location: 'Passagem lateral da Rua dos Mercadores, Lorn, 16h50'
+  situation: 'Eron mencionou nove prisioneiros, feridos permanentes e criatura destruída no armazém. Sann reagiu com surpresa, disse ter ouvido relatos e perguntou especificamente sobre documentos daquele armazém. Sann recuou meio passo ao batente, Neris segue oculta, sem combate.'
+  resources_unchanged: true
