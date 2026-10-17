@@ -688,3 +688,7 @@ LR 0667–0668: rolagem 107 Intimidacao 20; Bram e Lio falam de Selk.
 [MB — 0688–0689](transcripts/SESSION_0000_CONTINUACAO_20261016_MB.md) — Eron pediu rolador visual; Mestre ofereceu dois dados d20 com desvantagem +4, botão de rolar e enviar resultado. Nenhuma face ainda aplicada nesta mensagem.
 
 [MC — 0690–0691](transcripts/SESSION_0000_CONTINUACAO_20261016_MC.md) — Eron enviou resultado do rolador visual local: dados [15,16], mantém 15 +4=19 (log 110), sem rerrolagem. Flecha atingiu a borda do marco e quebrou, sem ferir pessoa. Observador encapuzado saiu dos salgueiros e aproximou-se até 25m de Eron, mantendo mão visível, negando prosseguir até mais perto; nenhuma arma empunhada identificada.
+
+[ME — 0694–0695](transcripts/SESSION_0000_CONTINUACAO_20261016_ME.md) — Eron perguntou sobre o que a vigia encobria e que horas Bram e Lio haviam chegado. A mulher mostrou involuntariamente contornos de medalhão escurecido de inscrições não legíveis, afirmando ter visto os homens em torno das 9h, depois do sino, sem ouvir sua conversa.
+
+[MF — 0696–0697](transcripts/SESSION_0000_CONTINUACAO_20261016_MF.md) — Eron fez a mulher entrar na guarita, afirmou que não pretendia matá-la e trancou a porta dos fundos pelo ferrolho, mantendo-a à vista. A desconhecida ficou próxima ao balcão, reconheceu ter visto Eron entrar discretamente, e perguntou se buscava o registro para encontrar alguém ou impedir que fosse encontrado. Medalhão não identificado ainda. Sem combate ou mudança de recursos.
