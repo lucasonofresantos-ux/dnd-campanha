@@ -1,0 +1,22 @@
+scene: MK_0706_0707
+transcript: sessions/transcripts/SESSION_0000_CONTINUACAO_20261016_MK.md
+last_message: '0707 — Mestre'
+location: 'Guarita antiga de pedágio de Lorn, junto à Ponte Velha; porta posterior trancada'
+npc: 'Neris Halden; humana ~35–40, altura ~1,65m, rosto anguloso, olhos cinza-claro com nuances esverdeadas, cabelos castanhos presos; capa verde-acinzentada e medalhão árvore desfolhada'
+action: 'Eron examinou e levantou tábua atrás do armário usando ferramentas de ladrão; Neris segurou a lamparina'
+found:
+  - 'Fragmento sob tábua corresponde fisicamente ao pedaço da gaveta'
+  - 'Portador: T. Rell'
+  - 'Volume: 01 estojo lacrado'
+  - 'Observação: conf. arq.'
+  - 'Data e destino ainda ilegíveis/ausentes; restante da folha não localizado'
+  - 'Cavidade sem outros itens'
+inventory: 'Fragmentos nas mãos de Eron; ainda não acondicionados'
+mechanics: 'Usou Investigação 24 obtida anteriormente; nenhuma nova rolagem'
+hp: 11
+ac: 13
+arrows: 18
+coins: {gp: 125, sp: 4, cp: 5}
+heroic_inspiration: true
+combat: false
+audit_status: 'Conversa 01.08 não pode ser declarada 100% literal sem acesso original completo'
