@@ -23,3 +23,11 @@ Os dois permanecem atentos. A reação à intimidação ainda depende do teste; 
 **Carisma (Intimidação): 1d20 +1.** Teste pendente; nenhum dado ainda enviado.
 
 Rolador D&D — Intimidação. Eron River · Carisma (Intimidação) +1. Dado d20 azul, aguardando rolagem. Botão Rolar d20; botão Usar resultado na campanha, inicialmente desabilitado. Histórico local das faces e totais. O resultado só será aplicado após ser enviado. O sorteio local do aplicativo usa Math.random, não Python.
+
+**[LOG DE MEMÓRIA DA CAMPANHA]**
+
+- **Localização Atual:** Interior da guarita de pedágio, junto aos caixotes, a aproximadamente 4 metros dos dois homens.
+- **NPCs Presentes e Relação:** Barbudo em alerta com faca ainda embainhada; magro visivelmente intimidado e atento à saída. Relação hostil e desconfiada.
+- **Linha de Missão Ativa:** Investigar Tomas Rell, o cilindro de mapas e o registro de passagem de cargas.
+- **Eventos Cruciais Ocorridos:** Eron intensificou a ameaça, afirmando que poderia matar os dois e relatar à patrulha que seriam assaltantes. Os homens não atacaram e não cooperaram ainda. Aguardando Carisma (Intimidação) 1d20+1 no rolador visual. Nenhum resultado aplicado.
+- **Condições do Jogador:** 11/11 PV, CA 13, 20 flechas; 125 PO, 4 PP e 5 PC; Inspiração Heroica disponível. Sem dano ou consumo de recurso, sem iniciativa. Eron permanece parcialmente protegido pelos caixotes, mas sua presença é conhecida.
