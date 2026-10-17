@@ -1204,3 +1204,28 @@ current_scene_ls_20261016:
   money: {gp: 125, sp: 4, cp: 5}
   heroic_inspiration: true
   awaiting_player_action: true
+
+current_scene_lu_20261016:
+  campaign_id: cinzas-da-coroa-esquecida
+  session: 0
+  latest_transcript: sessions/transcripts/SESSION_0000_CONTINUACAO_20261016_LU.md
+  last_message: '0674 — Mestre'
+  location: 'Porta posterior da guarita de pedágio antiga, Ponte Velha, Lorn; Bram e Lio alguns metros fora na direção da estrada'
+  time: 'Manhã'
+  eron: 'Disparou uma flecha no chão à frente dos dois homens e ordenou que parassem; arco em mãos, sem nova ação presumida'
+  bram: 'Parou, levantou mãos afastadas da faca e disse que Selk havia mencionado sobrenome River e descrição de Eron ontem, pedindo aviso se aparecesse'
+  lio: 'Parou, ergueu mãos e demonstrou surpresa por Bram saber do nome River'
+  knowledge_of_eron: 'Bram atribui a Hadran Selk a informação; veracidade, motivo e origem da informação não foram confirmados'
+  arrow_warning: 'Flecha cravada no solo úmido pouco à frente de Bram; não foi recuperada'
+  arrows_current: 19
+  arrows_before: 20
+  new_rolls_this_turn: 0
+  combat: false
+  initiative_started: false
+  hp_current: 11
+  hp_max: 11
+  armor_class: 13
+  money: {gp: 125, sp: 4, cp: 5}
+  heroic_inspiration: true
+  hit_dice_available: '1d8'
+  awaiting_player_action: true
