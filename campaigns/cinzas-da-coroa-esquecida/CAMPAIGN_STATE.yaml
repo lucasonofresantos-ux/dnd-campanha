@@ -459,3 +459,10 @@ checkpoint_20261017_RU:
   location: 'Passagem lateral da Rua dos Mercadores, Lorn, 16h46'
   situation: 'Homem confirmou se chamar Veler Sann, disse trabalhar com negócios comerciais e administrativos. Eron notou anel de prata com pedra vermelha escura na mão direita, compatível com descrição de Iven, sem identidade do contratante comprovada. Sann encobriu o anel e perguntou o que Eron deseja. Neris oculta; 6 metros, envelope e porta aberta.'
   resources_unchanged: true
+
+checkpoint_20261017_RV:
+  transcript: 'sessions/transcripts/SESSION_0000_CONTINUACAO_20261017_RV.md'
+  last_message: '0991 Mestre'
+  location: 'Passagem lateral Rua dos Mercadores, Lorn, por volta 16h47'
+  situation: 'Eron disse a Sann ter chegado buscando trabalho de escolta e questionou a vigilância e conhecimento de Tomas. Sann afirmou conhecer passado como oficial da guarda e movimentações por administração, pátio e cais; perguntou quem paga investigação. Disse ouvir versões de fuga ou silenciamento de Tomas, sem confirmar fatos. Sann perguntou por que Eron o seguiu à porta de fundos. Neris permanece oculta; nenhum combate.'
+  resources_unchanged: true
