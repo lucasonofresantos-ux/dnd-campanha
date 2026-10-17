@@ -480,3 +480,10 @@ checkpoint_20261017_RY:
   location: 'Passagem lateral da Rua dos Mercadores, Lorn, 16h50'
   situation: 'Eron mencionou nove prisioneiros, feridos permanentes e criatura destruída no armazém. Sann reagiu com surpresa, disse ter ouvido relatos e perguntou especificamente sobre documentos daquele armazém. Sann recuou meio passo ao batente, Neris segue oculta, sem combate.'
   resources_unchanged: true
+
+checkpoint_20261017_SB:
+  transcript: 'sessions/transcripts/SESSION_0000_CONTINUACAO_20261017_SB.md'
+  last_message: '1003 Mestre'
+  location: 'Passagem lateral Rua dos Mercadores, Lorn, 16h54'
+  situation: 'Sann negou acesso a envelope lacrado com cera azul escura. Identificou homem de colete cinza como Oren Vask, segurança, e cocheiro como Merek, transportador contratado; afirmou que deveriam seguir com pasta ao escritório comercial, sem localização confirmada. Sann se aproxima a cinco metros e pergunta motivação de Eron. Neris oculta.'
+  resources_unchanged: true
