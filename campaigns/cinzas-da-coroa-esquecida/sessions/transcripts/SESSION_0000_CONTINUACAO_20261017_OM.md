@@ -29,3 +29,19 @@ Eron destranca a porta da guarita e sai com Neris. O ar frio e úmido traz o che
     <caption>1d20 → [6] + 6 = 12 · Python (`secrets.randbelow`)</caption>
   </box>
 </row>
+
+A estrada apresenta algum movimento. Uma carroça de lenha segue em direção à cidade; dois trabalhadores passam no sentido contrário, discutindo o preço de uma entrega. Eron observa ambos, mas não percebe nada que os relacione à investigação.
+
+Ao atravessarem a região do velho moinho, ele olha novamente para trás. Nenhuma pessoa que tenha visto consegue ser identificada seguindo-os de maneira persistente. Entretanto, com o movimento aumentando nas ruas de Lorn, **Eron não consegue descartar a possibilidade de alguém estar acompanhando seus passos sem se destacar da multidão.**
+
+Neris caminha ao seu lado, atenta às conversas e aos arredores, sem demonstrar perceber uma ameaça imediata.
+
+Algum tempo depois, chegam a uma construção de pedra próxima à praça comercial. Uma tabuleta com a insígnia municipal identifica o **posto da guarda de Lorn**. Junto à entrada, dois guardas conversam em voz baixa. Um deles, homem de barba curta e expressão cansada, interrompe a conversa quando vê Eron e Neris se aproximarem.
+
+— Bom dia. Precisam comunicar alguma ocorrência ou vieram procurar alguém?
+
+O guarda permanece diante da entrada, aguardando a resposta. Neris fica ao lado de Eron, deixando que ele conduza a conversa.
+
+## Mensagem de andamento visível do Mestre (literal)
+
+A Percepção saiu **12 (6 no dado +6)**; no trajeto, Eron não identificou ninguém seguindo os dois de forma persistente, mas isso não elimina um observador discreto. A rolagem já está salva no GitHub. A criação do novo arquivo de transcrição foi bloqueada nas tentativas iniciais; vou preservar o texto integral e tentar sincronizar o restante.
