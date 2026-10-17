@@ -29,3 +29,5 @@ Ela volta a examinar os documentos.
 — Nenhuma está assinada. Mas há algo que me preocupa mais do que a ausência de um nome. Quem escreveu sabia onde fazer essas cartas chegarem até você. Primeiro em Caldria, depois aqui. E continua oferecendo a mesma recompensa: cinquenta moedas pelo desaparecido e outras cinquenta pelo objeto.
 
 Neris deixa os papéis sobre o balcão, sem se apropriar deles.
+
+— Não reconheço uma assinatura pessoal. Reconheço o símbolo, mas isso não basta para identificar quem o utilizou. E, pelo que me contou, ainda não sabemos se Veler Sann, o homem que contratou Darrik, trabalha para o remetente ou se está investigando a mesma coisa por conta própria.
