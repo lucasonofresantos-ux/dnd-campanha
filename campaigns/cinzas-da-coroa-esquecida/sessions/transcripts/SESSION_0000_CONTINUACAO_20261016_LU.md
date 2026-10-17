@@ -39,3 +39,11 @@ Bram engole em seco.
 — E por que Selk conhece esse homem? — pergunta Lio.
 
 — **Não sei!** Ele não explicou de onde tirou seu nome, nem por que esperava que aparecesse aqui.
+
+Bram encara Eron, mantendo as mãos erguidas.
+
+— Também nos mandou avisá-lo se alguém com essa descrição aparecesse procurando a folha. Foi isso que omiti. Agora sabe tudo o que ele me disse a seu respeito.
+
+Lio olha para a flecha cravada no chão, mas não tenta recolhê-la. Os dois permanecem imóveis, à vista de Eron, esperando sua reação.
+
+**A flecha de advertência não atingiu ninguém.** Eron gastou uma flecha, que permanece cravada no solo à frente de Bram. Nenhum combate começou.
