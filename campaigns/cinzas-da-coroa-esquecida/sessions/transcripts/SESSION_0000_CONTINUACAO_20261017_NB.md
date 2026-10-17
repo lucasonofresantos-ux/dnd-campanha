@@ -34,3 +34,17 @@ Lá fora, a chuva continua intensa. As duas portas permanecem trancadas, e nenhu
 ## Observações de continuidade
 
 Jogador controla Eron: declarou beijo e abraço, depois deixou a decisão de prosseguir ou parar a Neris. Neris correspondeu por vontade própria e optou por permanecer abraçada e beijá-lo, sem compromisso futuro. As portas conhecidas continuam trancadas por dentro, não há garantia de vigilância completa. Não houve novo teste, gasto, combate, dano ou coleta de itens; 11/11 PV, CA 13, 19 flechas, 125 PO, 4 PP e 5 PC. Inspiração Heroica disponível. Fragmento de couro da vala não foi recolhido.
+
+## Mensagem 0741 — Mestre (fechamento visível literal)
+
+**Registro confirmado no GitHub:** a transcrição NB, o índice e o estado da campanha foram sincronizados. A transcrição anterior MX, que estava pendente, também foi recuperada. Não houve novas rolagens.
+
+[Consultar a transcrição desta cena](https://github.com/lucasonofresantos-ux/dnd-campanha/blob/main/campaigns/cinzas-da-coroa-esquecida/sessions/transcripts/SESSION_0000_CONTINUACAO_20261017_NB.md)
+
+[LOG DE MEMÓRIA DA CAMPANHA]
+
+- **Localização Atual:** Interior da antiga guarita de pedágio, Ponte Velha, Lorn; duas portas conhecidas trancadas por dentro.
+- **NPCs Presentes e Relação:** Neris Halden, próxima de Eron, retribuindo voluntariamente seus gestos de carinho; ainda mantém suas próprias reservas.
+- **Linha de Missão Ativa:** Localizar Tomas Rell, descobrir os funcionários de serviço na guarita e consultar os registros de arrecadação.
+- **Eventos Cruciais Ocorridos:** Eron beijou e abraçou Neris, deixando a decisão de continuar ou parar com ela. Neris escolheu prolongar o beijo e o abraço. Nenhum novo movimento externo foi identificado.
+- **Condições do Jogador:** 11/11 PV, CA 13, 19 flechas, 125 PO, 4 PP e 5 PC; Inspiração Heroica disponível. Sem combate ou gastos. O fragmento de couro da vala ainda não foi recolhido.
