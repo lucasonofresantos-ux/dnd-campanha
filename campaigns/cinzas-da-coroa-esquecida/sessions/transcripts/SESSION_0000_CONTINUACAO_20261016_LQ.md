@@ -21,3 +21,5 @@ O homem magro empalidece ao ouvir Eron falar em matar os dois e apresentar outra
 Os dois permanecem atentos. A reação à intimidação ainda depende do teste; ninguém atacou ou revelou novas informações.
 
 **Carisma (Intimidação): 1d20 +1.** Teste pendente; nenhum dado ainda enviado.
+
+Rolador D&D — Intimidação. Eron River · Carisma (Intimidação) +1. Dado d20 azul, aguardando rolagem. Botão Rolar d20; botão Usar resultado na campanha, inicialmente desabilitado. Histórico local das faces e totais. O resultado só será aplicado após ser enviado. O sorteio local do aplicativo usa Math.random, não Python.
