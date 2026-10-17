@@ -30,4 +30,4 @@ O homem magro passa a mão pelo rosto, frustrado.
 
 O barbudo não responde imediatamente. Em vez disso, aproxima a lamparina de uma superfície de madeira e começa a examinar algumas marcas.
 
-**Nenhum dos dois demonstra ter percebido Eron.**
+**Nenhum dos dois demonstra ter percebido Eron.** A porta dos fundos permanece entreaberta, e ele está oculto atrás dos caixotes, com os dois homens ao alcance de uma aproximação adicional. Ainda não há confirmação de que sejam fiscais, guardas ou criminosos.
