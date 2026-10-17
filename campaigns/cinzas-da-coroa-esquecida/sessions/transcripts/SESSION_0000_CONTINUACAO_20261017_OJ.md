@@ -37,3 +37,11 @@ Eron declarou que seria melhor vestir-se e ofereceu uma nova intimidade breve a 
 **Registro confirmado no GitHub:** transcrição OJ (0809–0810), índice e estado canônico gravados e verificados.
 
 [Consultar transcrição OJ](https://github.com/lucasonofresantos-ux/dnd-campanha/blob/main/campaigns/cinzas-da-coroa-esquecida/sessions/transcripts/SESSION_0000_CONTINUACAO_20261017_OJ.md)
+
+[LOG DE MEMÓRIA DA CAMPANHA]
+
+- **Localização Atual:** Antiga guarita de pedágio, Ponte Velha, Lorn; portas trancadas por dentro, chuva quase cessando.
+- **NPCs Presentes e Relação:** Neris Halden, afetuosa com Eron, vestida, preferindo retomar a investigação após recusar outra intimidade.
+- **Linha de Missão Ativa:** Investigar Tomas Rell, os registros do pedágio e o interesse de Hadran Selk; Eron pretende consultar a guarda de Lorn.
+- **Eventos Cruciais Ocorridos:** Eron concordou que seria melhor vestir-se, mas ofereceu brincando outra intimidade. Neris beijou-o e declinou, incentivando-o a preparar-se para a investigação. Ninguém saiu da guarita.
+- **Condições do Jogador:** 11/11 PV, CA 13, 19 flechas, 125 PO, 4 PP e 5 PC; Inspiração Heroica disponível. Arranhões superficiais sem dano. Eron ainda não declarou vestir-se, recolher sua capa ou as cartas; couro escuro na vala não recolhido. Sem rolagens ou gastos.
