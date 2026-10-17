@@ -341,3 +341,10 @@ Eron deixou a carroca e dirigiu-se verbalmente ao homem de olho esquerdo esbranq
 - A maçaneta da porta de serviço dos fundos cede: estava destrancada. Eron abre apenas uma fresta e entra, ocultando-se atrás de caixotes a aproximadamente 4m dos dois homens, sem reação observada.
 - Um homem robusto e barbudo com casaco gasto examina balcão e um compartimento vazio; outro magro, com manto escuro sem insígnias visíveis, procura em gaveta retirada de armário. Dizem que alguém sabia o que procurar e perguntam se vasculham o restante. Nenhuma identificação profissional ou vínculo com Tomas confirmados. Porta de serviço permanece entreaberta.
 - Eron 11/11 PV, CA 13, 20 flechas, 125 PO 4 PP 5 PC; sem combate, gasto, item obtido ou dano. Transcrição LN.
+
+## LO 0661–0662 — Primeiro contato na guarita
+- Eron se manifesta verbalmente de trás dos caixotes: "Querem ajuda para procurar? Mas principalmente oque estamos procurando?"
+- Homem magro se assusta e deixa cair gaveta; barbudo volta-se para a voz e aproxima a mão da faca, sem desembainhar. Exigem saber quem é Eron e quanto ouviu.
+- Barbudo afirma procurar registro de passagem de cargas que teria sido retirado da guarita; essa é declaração do NPC, não comprovada, nem há relação confirmada com Tomas Rell.
+- A fala revelou presença e direção aproximada de Eron, que permanece atrás dos caixotes a aproximadamente 4m deles, conservando cobertura, mas não ocultação de sua presença. Nenhum teste, iniciativa, combate, gasto ou dano; 11/11 PV, CA13, 20 flechas, 125 PO, 4 PP, 5 PC.
+- Transcrição: sessions/transcripts/SESSION_0000_CONTINUACAO_20261016_LO.md.
