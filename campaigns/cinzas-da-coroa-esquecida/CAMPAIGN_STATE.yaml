@@ -40,7 +40,7 @@ character:
   guard_starting_equipment_option_pending: false
   exile: "Proibido retornar a Valdrén após condenação por assassinato de Edric Valmont; Eron afirma ter sido incriminado"
 narrative:
-  scene: "Eron deseja ir à guarda de Lorn falar com responsável e descobrir quem estava de serviço quando Tomas supostamente passou; acha estar perto de meio-dia. Neris considera plausível pela luz, sem fixar hora, sugere consultar patrulhas e arquivos e não presume que guarda da cidade controlava o pedágio. Ainda estão na guarita. Eron não declarou vestir-se ou recolher capa. Cartas sobre balcão, chuva fraca, portas trancadas."
+  scene: "Eron disse ser melhor vestir-se e provocou Neris oferecendo outra intimidade. Neris beijou-o por vontade própria e declinou com humor, preferindo retomar a investigação e consulta à guarda. Eron ainda não se vestiu nem saiu. Cartas no balcão, capa de Eron no assoalho; chuva quase cessou; portas trancadas."
   prior_events_imported: false
   character_actions_so_far:
     - 'Consultar histórico completo das ações em sessions/INDEX.md e transcripts/'
