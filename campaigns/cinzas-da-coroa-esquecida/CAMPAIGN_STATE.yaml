@@ -61,7 +61,7 @@ narrative:
     - '121 Percepção caminho ao posto da guarda: 1d20 [6]+6=12, Python secrets.randbelow (OM)'
   consumed_resources:
     - 'Saldo atual 19 flechas, após recuperar uma flecha intacta da terra; segunda flecha partida e inutilizável. Gastos anteriores registrados no índice.'
-  pending_action: "Arven Cael fechou a porta sem trancar a pedido de Eron e perguntou se os desaparecimentos se relacionam à guarita. Eron ainda não respondeu nem apresentou provas; duas cadeiras oferecidas, sem declaração de sentar-se."
+  pending_action: "Eron mostrou fragmento rasgado de registro sobre Tomas Rell, sem entregá-lo definitivamente. Tenente Arven Cael pede localização exata onde o papel foi achado; ainda não consultou escalas nem confirmou funcionários ou guardas."
   clocks_advanced: null
 isolation:
   previous_camp_global_untouched: true
@@ -69,12 +69,12 @@ isolation:
   pre_execution_state_archive: "archive/CAMPAIGN_STATE_PRE_EXECUCAO_2026-10-12.yaml"
   dm_plan_retained: "dm/WORLD_BIBLE.md"
 transcript:
-  current: "sessions/transcripts/SESSION_0000_CONTINUACAO_20261017_OR.md"
+  current: "sessions/transcripts/SESSION_0000_CONTINUACAO_20261017_OS.md"
   index: "sessions/INDEX.md"
-  previous: "sessions/transcripts/SESSION_0000_CONTINUACAO_20261017_OQ.md"
+  previous: "sessions/transcripts/SESSION_0000_CONTINUACAO_20261017_OR.md"
   literal_complete_current_execution: false
-  last_confirmed_message: "0827 — Mestre (narração OR, sincronizada)"
-  pending: "Aguardar Mensagem 0828 — Jogador"
+  last_confirmed_message: "0829 — Mestre (narração OS, sincronizada)"
+  pending: "Aguardar Mensagem 0830 — Jogador"
 
 operational_checkpoint:
   updated_at: "2026-10-17"
