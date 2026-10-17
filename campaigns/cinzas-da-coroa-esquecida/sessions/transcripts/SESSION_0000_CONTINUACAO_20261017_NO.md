@@ -25,3 +25,7 @@ Neris segura delicadamente a mão dele e a beija. Depois, por iniciativa própri
 Ela o aproxima para outro beijo e passa os braços ao redor de seus ombros. A chuva continua caindo sobre a velha guarita, enquanto a lamparina projeta sombras sobre as paredes de madeira.
 
 Neris permanece deitada sobre a capa, próxima de Eron, aguardando o que ele fará em seguida.
+
+## Mensagem de andamento visível posterior do Mestre (literal)
+
+A cena está definida e a continuidade foi conferida: retirar a túnica não bastava para deixá-la nua, pois Neris ainda usava a camisa de linho. O GitHub bloqueou a transcrição NO e a atualização do índice; vou preservar ambas as mensagens da cena em arquivo local, deixando NJ também marcado como pendente.
