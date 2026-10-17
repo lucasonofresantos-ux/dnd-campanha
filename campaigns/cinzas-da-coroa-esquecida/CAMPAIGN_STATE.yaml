@@ -445,3 +445,10 @@ checkpoint_20261017_RQ:
   location: 'Rua dos Mercadores, Lorn, 16h43'
   situation: 'Eron e Neris seguem Sann. Sann entregou pasta de couro ao cocheiro e recebeu envelope; entrou sozinho em passagem com curva a 25 metros. Homem de colete cinzento ficou com carruagem. Eron pretende encerrar ate 17h15 para encontro de Iven às 18h.'
   resources_unchanged: true
+
+checkpoint_20261017_RS:
+  transcript: 'sessions/transcripts/SESSION_0000_CONTINUACAO_20261017_RS.md'
+  last_message: '0985 Mestre'
+  location: 'Passagem lateral Rua dos Mercadores, Lorn, 16h45'
+  roll: 'Furtividade 17+5=22, jogador'
+  situation: 'Eron oculto; Sann a 6 m entra em porta traseira de edifício de pedra, envelope em mão, prestes a fechar. Neris atrás de Eron. Nenhum ataque ou confronto ainda.'
