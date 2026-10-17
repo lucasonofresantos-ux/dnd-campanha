@@ -66,12 +66,12 @@ isolation:
   pre_execution_state_archive: "archive/CAMPAIGN_STATE_PRE_EXECUCAO_2026-10-12.yaml"
   dm_plan_retained: "dm/WORLD_BIBLE.md"
 transcript:
-  current: "sessions/transcripts/SESSION_0000_CONTINUACAO_20261017_NV.md"
+  current: "sessions/transcripts/SESSION_0000_CONTINUACAO_20261017_NX.md"
   index: "sessions/INDEX.md"
   previous: "sessions/transcripts/SESSION_0000_CONTINUACAO_20261017_NU.md"
   literal_complete_current_execution: false
-  last_confirmed_message: "0782 — Mestre (narrativa NV, sincronizada)"
-  pending: "Aguardar Mensagem 0783 — Jogador"
+  last_confirmed_message: "0786 — Mestre (narrativa NX, sincronizada)"
+  pending: "Aguardar Mensagem 0787 — Jogador"
 
 operational_checkpoint:
   updated_at: "2026-10-17"
