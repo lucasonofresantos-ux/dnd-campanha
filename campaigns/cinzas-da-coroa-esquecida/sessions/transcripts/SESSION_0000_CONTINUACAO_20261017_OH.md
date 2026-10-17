@@ -37,3 +37,7 @@ Neris recosta-se no banco. Um fio de água escorre pela moldura da janela, enqua
 ## Continuidade
 
 Eron afirma que Garrick não mostrou credenciais até o momento, mas que ainda não há informação ou fundamento para exigi-las ou interrogá-lo. Neris reconhece a prudência e diferencia perguntas voluntárias de interrogatório, sem determinar a conduta de Eron. Neris recorda a folha de T. Rell com estojo lacrado, as duas cartas anônimas com árvore sem folhas, o próprio medalhão e as declarações anteriores de Bram e Lio acerca de Hadran Selk; alerta para a possível reunião na balança coberta no fim da tarde, sem garantir que Selk aparecerá. Ninguém saiu da guarita; o tempo não avançou significativamente. Cartas continuam sobre o balcão sob controle de Eron, fragmentos de escrituração em mãos de Eron, medalhão com Neris. Neris vestida; Eron não declarou vestir-se nem recolher sua capa do assoalho. Portas conhecidas trancadas, chuva fraca, lamparina acesa; não há observação da estrada. Sem rolagem, testes, ganhos, gastos, cura, danos, novas condições ou alterações na missão. Eron 11/11 PV, CA 13, 19 flechas, 125 PO, 4 PP, 5 PC e Inspiração Heroica. Arranhões superficiais nas costas, sem dano mecânico; tira de couro escuro da vala não recolhida.
+
+## Mensagem 0806 — Mestre (fechamento visível)
+
+Transcrição OH, índice e estado confirmados no GitHub. Garrick não foi interrogado. Neris mencionou a reunião potencial de Bram com Selk na balança coberta ao fim da tarde. PV 11/11, CA 13, 19 flechas, 125 PO, 4 PP, 5 PC, Inspiração Heroica; sem testes ou gastos.
