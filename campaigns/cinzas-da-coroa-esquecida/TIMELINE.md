@@ -371,3 +371,9 @@ Eron deixou a carroca e dirigiu-se verbalmente ao homem de olho esquerdo esbranq
 - LU: Ainda próximo à porta traseira, Eron usou o arco para disparar uma flecha em solo úmido à frente dos homens, ordenando parada. Eles obedeceram e levantaram as mãos. Bram alegou que Selk havia mencionado “River” e traços físicos compatíveis com Eron antes da tarefa, e pedido aviso caso aparecesse procurando a folha; Lio aparentemente não sabia. Isto é relato de Bram, não confirmação da origem do conhecimento de Selk.
 - Nenhum teste foi necessário para acertar uma área ampla de chão como advertência sem alvo vivo; a flecha ficou cravada à frente de Bram e é recuperável se Eron decidir. Munição de Eron 20→19. Sem dano, combate ou itens novos; HP 11/11, CA 13; 125 PO 4 PP 5 PC.
 - Fontes: transcripts LT 0671–0672 e LU 0673–0674.
+
+## LV 0675–0676 — Intuição sobre Bram e Lio
+- Eron solicitou rolagem real de Intuição; ficha revisada 2024 indica bônus +4. O Mestre executou script skills/dice-roller/dice_roller.py usando secrets.randbelow, resultado natural 8, modificador +4, total **12**, registro 108 em dice/ROLL_LOG.csv.
+- Eron interpreta a surpresa e o medo de Lio como genuínos. Bram hesita e escolhe palavras cuidadosamente; ocultou até ser pressionado a informação de que Selk teria mencionado River, mas a rolagem não prova mentira adicional nem emboscada.
+- Posição inalterada: Eron junto à entrada da guarita, arco em mãos; Bram e Lio parados do lado de fora com mãos levantadas, flecha de advertência cravada no solo. 11/11 PV, CA 13, 19 flechas no inventário, 125 PO 4 PP 5 PC. Nenhum combate, novo gasto ou deslocamento.
+- Transcrição: sessions/transcripts/SESSION_0000_CONTINUACAO_20261016_LV.md.
