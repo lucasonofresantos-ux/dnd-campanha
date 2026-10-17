@@ -335,3 +335,9 @@ Eron deixou a carroca e dirigiu-se verbalmente ao homem de olho esquerdo esbranq
 - Eron percorreu os últimos ~8 m com cobertura dos salgueiros, encostou-se à parede junto ao batente externo da porta de serviço, sem reação perceptível do interior. Marcas de uso recente no batente. Ouviu ruído de madeira, papéis e duas vozes masculinas. Uma reclamou que o registro deveria estar ali; outra afirmou que alguém chegou antes e o encaixe estava vazio; procuram outra folha.
 - Identidades e ligação com Tomas Rell desconhecidas. Nenhuma arma sacada expressamente, nenhum combate, dano ou despesa. Posição atual: fora da guarita, ao lado da porta dos fundos, oculto. PV 11/11; CA13, 20 flechas, 125 PO 4 PP 5 PC.
 - Fonte: sessions/transcripts/SESSION_0000_CONTINUACAO_20261016_LM.md.
+
+## LN 0659–0660 — Entrada furtiva na guarita antiga
+- Eron aproveita continuidade da Furtividade 25 (1d20 [19]+6 do rolador do jogador, ordem 105); nenhum novo teste ou recurso.
+- A maçaneta da porta de serviço dos fundos cede: estava destrancada. Eron abre apenas uma fresta e entra, ocultando-se atrás de caixotes a aproximadamente 4m dos dois homens, sem reação observada.
+- Um homem robusto e barbudo com casaco gasto examina balcão e um compartimento vazio; outro magro, com manto escuro sem insígnias visíveis, procura em gaveta retirada de armário. Dizem que alguém sabia o que procurar e perguntam se vasculham o restante. Nenhuma identificação profissional ou vínculo com Tomas confirmados. Porta de serviço permanece entreaberta.
+- Eron 11/11 PV, CA 13, 20 flechas, 125 PO 4 PP 5 PC; sem combate, gasto, item obtido ou dano. Transcrição LN.
