@@ -372,3 +372,10 @@ checkpoint_20261017_QY:
   location: 'Beco próximo ao Javali de Ferro, Lorn, 15h30 ficcionais'
   situation: 'Eron pressiona adaga sem cortar pescoço de homem capa castanha; mandou-o calar e chamou Neris, que compareceu e pediu cautela. Homem imóvel, mãos afastadas, ainda não desarmado nem agarrado; nenhum dano.'
   resources: '11/11 PV, CA 13, 19 flechas, 124 PO, 1 PP, 5 PC; inspiração heroica disponível'
+
+checkpoint_20261017_RA:
+  transcript: 'sessions/transcripts/SESSION_0000_CONTINUACAO_20261017_RA.md'
+  last_message: '0949 Mestre'
+  location: 'Beco proximo ao Javali de Ferro, Lorn'
+  situation: 'Eron ameacou o homem com a adaga. Homem disse cooperar. Neris retirou do forro uma placa fina com balanca sobre tres linhas onduladas. Estojo e bolsa ainda por verificar; revista incompleta; origem da placa e identidade desconhecidas. Sem dano.'
+  resources_unchanged: true
