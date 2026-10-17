@@ -27,3 +27,5 @@ Eron desliza para dentro e consegue alcançar a proteção de alguns caixotes em
 O homem magro passa a mão pelo rosto, frustrado.
 
 — E agora? Vasculhamos o resto?
+
+O barbudo não responde imediatamente. Em vez disso, aproxima a lamparina de uma superfície de madeira e começa a examinar algumas marcas.
