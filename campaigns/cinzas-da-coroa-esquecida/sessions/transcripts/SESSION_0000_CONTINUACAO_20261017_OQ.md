@@ -45,3 +45,17 @@ Ele fecha o livro em que escrevia, mantendo a atenção em Eron.
 ## Continuidade canônica, sem segredos
 
 Eron e Neris entraram no posto municipal e foram até a sala do oficial de serviço, com armas de Eron embainhadas e pertences sob sua posse. Eron apresentou-se como Eron River e perguntou nome do oficial. NPC **Tenente Arven Cael**, homem ~45 anos, cabelo castanho grisalho, barba curta, uniforme azul-escuro e insígnia municipal de prata, apresentou-se como oficial de serviço daquela manhã, não necessariamente comandante da guarda. Neris identificou-se como Neris Halden. O tenente conhece apenas a informação dada pelo sentinela, sobre a última semana da guarita de pedágio da Ponte Velha, e ainda não recebeu provas, nomes de Tomas, Hadran Selk, cartas ou fragmentos de livro. Há duas cadeiras oferecidas, mas Eron não declarou sentar-se. O tenente perguntou o que Eron deseja saber; não iniciar revelação ou resposta de Eron. Hora próxima do meio-dia, ainda sem horário fixo. Nenhuma rolagem, dano, cura, gasto, condição ou mudança de recursos. Eron PV 11/11, CA 13, 19 flechas, 125 PO, 4 PP, 5 PC e Inspiração Heroica. Tira de couro na vala exterior ainda não recolhida; possível encontro Bram/Selk ao fim da tarde não garantido.
+
+## Mensagem 0825 — Mestre (fechamento visível literal)
+
+**Registro no GitHub:** transcrição OQ (0824–0825), estado canônico e índice complementar gravados e verificados. O índice principal `sessions/INDEX.md` ainda aguarda sincronização porque sua atualização foi bloqueada.
+
+[Transcrição da conversa com o tenente](https://github.com/lucasonofresantos-ux/dnd-campanha/blob/main/campaigns/cinzas-da-coroa-esquecida/sessions/transcripts/SESSION_0000_CONTINUACAO_20261017_OQ.md)
+
+[LOG DE MEMÓRIA DA CAMPANHA]
+
+- **Localização Atual:** Sala do oficial de serviço no posto municipal da guarda de Lorn, perto da praça comercial.
+- **NPCs Presentes e Relação:** Neris Halden, acompanhante e colaboradora de Eron; tenente Arven Cael, oficial de serviço, receptivo e cauteloso. Guardas em outras áreas do posto.
+- **Linha de Missão Ativa:** Procurar Tomas Rell, investigar os registros da antiga guarita de pedágio e o interesse de Hadran Selk.
+- **Eventos Cruciais Ocorridos:** Eron e Neris entraram e se apresentaram. O oficial identificou-se como tenente Arven Cael, ofereceu cadeiras e perguntou o que Eron deseja saber sobre a guarita. Eron ainda não revelou documentos ou o nome de Tomas.
+- **Condições do Jogador:** 11/11 PV, CA 13, 19 flechas, 125 PO, 4 PP e 5 PC; Inspiração Heroica disponível. Armas embainhadas e pertences consigo; couro da vala não recolhido. Sem novos testes, gastos ou danos.
