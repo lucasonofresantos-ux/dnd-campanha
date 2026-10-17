@@ -31,3 +31,11 @@ Lio vira a cabeça, surpreso.
 — Você não me contou isso!
 
 — Porque não era da sua conta! — retruca Bram, antes de voltar a atenção para Eron. — Ele disse que um homem chamado **River** poderia aparecer fazendo perguntas sobre Tomas Rell. Descreveu alguém da sua idade, com olhos cinzentos e cabelos começando a grisalhar.
+
+Bram engole em seco.
+
+— Quando você saiu de trás daqueles caixotes, reconheci a descrição. Não sabia com certeza, mas depois de todas aquelas perguntas... achei que fosse você.
+
+— E por que Selk conhece esse homem? — pergunta Lio.
+
+— **Não sei!** Ele não explicou de onde tirou seu nome, nem por que esperava que aparecesse aqui.
