@@ -664,3 +664,7 @@ Arquivos produzidos nesta conferência: `transcripts/AUDITORIA_CONTINUIDADE_2026
 LR 0667–0668: rolagem 107 Intimidacao 20; Bram e Lio falam de Selk.
 
 [LS — 0669–0670](transcripts/SESSION_0000_CONTINUACAO_20261016_LS.md) — Eron pergunta a Bram e Lio local e hora para entregar a folha. Lio diz que Selk aguardaria hoje antes do anoitecer na balança coberta do pátio dos armazéns. Eles não viram Tomas. Informação ainda não verificada; sem novos testes ou combate.
+
+[LT — 0671–0672](transcripts/SESSION_0000_CONTINUACAO_20261016_LT.md) — Eron sai dos caixotes, exige descrição física de Hadran Selk, revista Bram e Lio, não encontra folha ou cilindro e devolve pertences. Eles relatam oferta de 20 PO pelo serviço, 4 adiantadas. Bram e Lio saem da guarita, mas Bram chama Eron de River sem apresentação registrada.
+
+[LU — 0673–0674](transcripts/SESSION_0000_CONTINUACAO_20261016_LU.md) — Eron dispara uma flecha de advertência ao solo à frente de Bram e exige saber como conhecem seu nome, ordenando que não corram. Bram e Lio param e levantam mãos; Bram afirma ter ouvido de Hadran Selk o sobrenome River e descrição física de Eron ao serem contratados ontem. Selk teria pedido ser avisado se Eron aparecesse perguntando pela folha. Lio demonstra surpresa. A informação é relato de Bram, não verificado. Consumo de 1 flecha: 20→19 (flecha cravada no solo, não recuperada). Sem ataque contra criatura, rolagem, dano ou combate.
