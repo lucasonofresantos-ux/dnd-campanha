@@ -574,3 +574,10 @@ checkpoint_20261017_SS:
   location: 'Corredor coberto fundos da Casa da Balanca, Lorn, 18h04'
   situation: 'Eron preparou arco curto com uma flecha, sem disparar; permanece oculto com Neris. Não existe prova de druida vigiando. Contratante desconhecido usa luvas, cicatriz na sobrancelha esquerda, exigiu anotacoes de Iven. Homem de avental fecha porta de cargas; outro guarda cobre porta lateral; terceiro aproxima-se por fora. Iven em risco de cerco, nao ferido. Linha de tiro de Eron limitada pela parede.'
   resources_unchanged: true
+
+checkpoint_20261017_SU_CORRECAO_PE:
+  transcript: 'sessions/transcripts/SESSION_0000_CONTINUACAO_20261017_SU_CORRECAO_PE.md'
+  situation: 'Mesmo ataque com arco ja registrado no SU com dano critico 4d6 [4,5,3,4]+2=18. Nova rolagem executada nesta conversa [6,3,6,6]+2=23 duplicada e anulada para nao modificar canone. Flecha atravessa pe e prende bota no assoalho temporariamente, sem condicao Contido oficial automatica. Homem avental parcialmente visivel, guarda lateral parcialmente visivel, homem do saco na rua quase inteiro.'
+  canonical_damage: 18
+  initiative_pending: true
+  arrows: 18
