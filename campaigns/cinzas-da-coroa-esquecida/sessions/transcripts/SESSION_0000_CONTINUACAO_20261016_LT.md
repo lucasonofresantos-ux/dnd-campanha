@@ -22,3 +22,7 @@ Lio, mais nervoso, levanta os braços e começa a responder sobre Hadran Selk.
 Bram acrescenta:
 
 — Costuma vestir um casaco de lã azul-escuro, bem cortado. Carrega uma pasta rígida de couro e usa um anel de prata na mão direita. Mas a cicatriz é o melhor sinal. Dá para reconhecê-lo de perto.
+
+— **Como sabíamos que era Selk?** — Lio prossegue. — Fomos apresentados a ele por um funcionário do pátio dos armazéns. Bram já tinha tratado de transporte com ele antes. Não examinamos documento nenhum, se é isso que quer saber.
+
+Eron inicia a revista. Bram permite que retire a faca do cinto para examiná-la e Lio esvazia os bolsos, com as mãos visíveis. Uma busca cuidadosa encontra:
