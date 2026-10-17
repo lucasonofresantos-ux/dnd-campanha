@@ -35,3 +35,17 @@ A lamparina ainda arde. Lá fora, a chuva enfraqueceu, mas o céu permanece enco
 
 ## Continuidade do estado
 A fala do jogador acima está preservada sem correções. A cena adulta foi narrada sem descrição sexual gráfica. Neris agiu por vontade própria e os dois chegaram ao clímax, com Neris exausta e pedindo descanso. Eron não teve nova ação presumida após o encerramento. Neris e Eron estão na guarita de pedágio da Ponte Velha, Lorn, sobre a capa estendida, com lamparina acesa, céu encoberto e chuva enfraquecida. Duas portas conhecidas trancadas por dentro; nenhuma garantia de privacidade ou segurança exterior. Marca superficial de unhas nas costas de Eron, sem dano mecânico. Sem rolagens, gasto, perda de recursos, achados ou evolução de missão. Eron: PV 11/11, CA 13, 19 flechas, 125 PO, 4 PP, 5 PC, Inspiração Heroica. Couro escuro da vala ainda não recolhido. Investigar Tomas Rell e registros do pedágio permanece em aberto.
+
+## Mensagem 0790 — Mestre (fechamento visível literal)
+
+**Registro confirmado no GitHub:** transcrição NZ (0789–0790), índice e estado canônico foram gravados e verificados. O índice também foi atualizado com a passagem NY antes pendente.
+
+[Consultar a transcrição NZ](https://github.com/lucasonofresantos-ux/dnd-campanha/blob/main/campaigns/cinzas-da-coroa-esquecida/sessions/transcripts/SESSION_0000_CONTINUACAO_20261017_NZ.md)
+
+[LOG DE MEMÓRIA DA CAMPANHA]
+
+- **Localização Atual:** Antiga guarita de pedágio, Ponte Velha, Lorn; duas portas conhecidas trancadas por dentro.
+- **NPCs Presentes e Relação:** Neris Halden, próxima de Eron, afetuosa e agora exausta, pedindo descanso.
+- **Linha de Missão Ativa:** Investigar Tomas Rell e os registros do pedágio; investigação temporariamente interrompida.
+- **Eventos Cruciais Ocorridos:** Eron comparou Neris a uma mulher do verão. O encontro chegou ao fim com o clímax de ambos; Neris pediu para descansar. A chuva enfraqueceu, mas não cessou.
+- **Condições do Jogador:** 11/11 PV, CA 13, 19 flechas, 125 PO, 4 PP, 5 PC; Inspiração Heroica disponível. Arranhões superficiais anteriores, sem dano mecânico. Nenhuma nova rolagem, gasto ou mudança de recursos. Fragmento de couro da vala ainda não recolhido.
