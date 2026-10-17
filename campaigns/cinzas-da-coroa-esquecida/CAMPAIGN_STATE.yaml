@@ -350,3 +350,11 @@ checkpoint_20261017_QU:
   last_message: '0937 — Mestre'
   location: 'Beco perto do Javali de Ferro, Lorn'
   situation: 'Neris aguarda Eron se ocultar entre caixotes. Teste Furtividade 1d20 +5 oferecido em rolador interativo, aguardando resultado. Nenhum resultado lançado ou aplicado.'
+
+checkpoint_20261017_QV:
+  transcript: 'sessions/transcripts/SESSION_0000_CONTINUACAO_20261017_QV.md'
+  last_message: '0939 — Mestre'
+  location: 'Beco próximo do Javali de Ferro, Lorn, 15h30 ficcional'
+  roll: 'Furtividade 1d20 [20] +5 =25, rolagem informada jogador'
+  situation: 'Eron oculto entre caixotes; Neris seguiu para rua paralela. Homem capa castanha entrou no beco, a aproximadamente 4 m, não percebeu Eron; identidade e intenções ainda não confirmadas.'
+  resources_unchanged: true
