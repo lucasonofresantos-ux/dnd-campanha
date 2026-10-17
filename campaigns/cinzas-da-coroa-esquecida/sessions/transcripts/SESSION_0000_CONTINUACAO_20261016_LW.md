@@ -27,3 +27,7 @@ Lio olha para Bram, indignado.
 — Eu não sei o que Selk pretende! — Bram responde, quase gritando, antes de baixar novamente a voz. — Ele me pagou para procurar uma folha e lhe contar se River aparecesse. Pensei que fosse algum cobrador, um rival comercial... Não perguntei mais porque precisava do dinheiro.
 
 Bram volta a encarar Eron.
+
+— **Não sei onde Tomas está. Não sei quem recebeu a carga. E não sei como Selk conhece seu nome.** Essa é a verdade que tenho para lhe dar. Se quer respostas que eu não possuo, terá de perguntar ao próprio Selk.
+
+Lio permanece imóvel, respirando rapidamente. Bram mantém as mãos à vista, sem avançar ou procurar a faca. Os dois continuam obedecendo, embora o medo já tenha substituído qualquer possibilidade de uma conversa cordial.
