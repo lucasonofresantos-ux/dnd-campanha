@@ -24,3 +24,5 @@ A figura encapuzada se abaixa bruscamente. Por um instante, parece prestes a des
 A pessoa abandona a proteção do marco. É uma figura de estatura mediana, envolta numa capa verde-acinzentada, com o rosto ainda sombreado pelo capuz. Mantém uma mão levantada enquanto começa a atravessar o terreno em direção à guarita, evitando movimentos bruscos.
 
 Ao chegar a aproximadamente **25 metros de Eron**, para.
+
+— Eu saí, como mandou! — grita. — Mas não vou me aproximar de um homem que acaba de disparar contra mim sem saber o que pretende!
