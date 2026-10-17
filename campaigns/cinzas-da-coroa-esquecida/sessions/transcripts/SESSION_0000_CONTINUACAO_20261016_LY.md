@@ -31,3 +31,5 @@ Lio finalmente intervém:
 Bram torna a encarar Eron.
 
 — Estarei lá antes das cinco. Direi que encontrei você somente quando estiver diante dele, como exigiu. Agora, podemos seguir?
+
+O vento frio passa pela porta da guarita. A flecha continua cravada na terra, diante dos dois homens, que permanecem aguardando a resposta de Eron.
