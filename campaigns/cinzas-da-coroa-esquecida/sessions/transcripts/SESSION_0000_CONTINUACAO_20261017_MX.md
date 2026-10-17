@@ -31,3 +31,19 @@ A mulher inclina ligeiramente a cabeça, com um sorriso discreto.
 — Agora me diga, Eron River... **vamos continuar falando em suposições ou pretende me dizer o que realmente deseja?**
 
 Ela aguarda, sem desviar os olhos dos dele.
+
+## Mensagem 0733 — Mestre (fechamento visível literal)
+
+A transcrição da cena foi preservada em [arquivo local para sincronização](sandbox:/mnt/data/SESSION_0000_CONTINUACAO_20261017_MX_PENDENTE.md). Os registros anteriores MV e MW tiveram commits confirmados no GitHub, mas a gravação desta nova interação continua bloqueada.
+
+[LOG DE MEMÓRIA DA CAMPANHA]
+
+- **Localização Atual:** Interior da antiga guarita de pedágio, Lorn.
+- **NPCs Presentes e Relação:** Neris Halden, interessada em conhecer melhor Eron, mas ainda cautelosa.
+- **Linha de Missão Ativa:** Investigar Tomas Rell e identificar os funcionários responsáveis pelos registros do pedágio.
+- **Eventos Cruciais Ocorridos:** Eron insinuou seu interesse pessoal. Neris aproximou-se um passo e perguntou o que ele realmente deseja.
+- **Condições do Jogador:** 11/11 PV, CA 13, 19 flechas, 125 PO, 4 PP e 5 PC. Inspiração Heroica disponível; sem novas rolagens ou gastos.
+
+## Nota de recuperação
+
+O fechamento acima reproduz uma pendência da ocasião original; a transcrição foi recuperada mais tarde, sem alterar retroativamente a narrativa.
