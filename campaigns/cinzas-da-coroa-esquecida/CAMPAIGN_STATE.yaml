@@ -487,3 +487,10 @@ checkpoint_20261017_SB:
   location: 'Passagem lateral Rua dos Mercadores, Lorn, 16h54'
   situation: 'Sann negou acesso a envelope lacrado com cera azul escura. Identificou homem de colete cinza como Oren Vask, segurança, e cocheiro como Merek, transportador contratado; afirmou que deveriam seguir com pasta ao escritório comercial, sem localização confirmada. Sann se aproxima a cinco metros e pergunta motivação de Eron. Neris oculta.'
   resources_unchanged: true
+
+checkpoint_20261017_SC:
+  transcript: 'sessions/transcripts/SESSION_0000_CONTINUACAO_20261017_SC.md'
+  last_message: '1005 Mestre'
+  location: 'Passagem lateral da Rua dos Mercadores, Lorn, 16h55'
+  situation: 'Sann contou rumores sobre passado de Eron como investigador em Valdren, assassinato de Edric Valmont e exilio, bem como incidente no armazem de Caldria. Perguntou se Eron ainda investiga morte do comandante. Neris oculta, Sann e Eron conversam sem combate.'
+  resources_unchanged: true
