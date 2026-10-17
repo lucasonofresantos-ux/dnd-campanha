@@ -22,3 +22,5 @@ O magro se apressa em falar, antes que o companheiro possa impedi-lo.
 — Sou **Lio Marr**, copista de remessas. Ele é **Bram Keld**, trabalha com transporte de cargas.
 
 Não somos guardas nem fiscais. Fomos contratados ontem para recuperar uma folha de um livro de registros que ficava escondido aqui.
+
+Bram lança um olhar severo a Lio, mas não o interrompe.
