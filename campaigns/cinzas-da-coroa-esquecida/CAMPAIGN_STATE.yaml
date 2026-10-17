@@ -466,3 +466,10 @@ checkpoint_20261017_RV:
   location: 'Passagem lateral Rua dos Mercadores, Lorn, por volta 16h47'
   situation: 'Eron disse a Sann ter chegado buscando trabalho de escolta e questionou a vigilância e conhecimento de Tomas. Sann afirmou conhecer passado como oficial da guarda e movimentações por administração, pátio e cais; perguntou quem paga investigação. Disse ouvir versões de fuga ou silenciamento de Tomas, sem confirmar fatos. Sann perguntou por que Eron o seguiu à porta de fundos. Neris permanece oculta; nenhum combate.'
   resources_unchanged: true
+
+checkpoint_20261017_RX:
+  transcript: 'sessions/transcripts/SESSION_0000_CONTINUACAO_20261017_RX.md'
+  last_message: '0995 Mestre'
+  location: 'Passagem lateral, Rua dos Mercadores, Lorn, Caldria, 16h49'
+  situation: 'Eron fez referência à reputação de violência e sorriu, e questionou sobre acontecimento mais recente em Caldria. Sann respondeu cautelosamente e pediu para especificar acontecimento, sem confirmar rumores. Neris oculta. Lorn cidade, Caldria região.'
+  resources_unchanged: true
