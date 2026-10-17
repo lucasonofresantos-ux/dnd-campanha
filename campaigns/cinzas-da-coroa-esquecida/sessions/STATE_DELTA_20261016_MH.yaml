@@ -1,0 +1,14 @@
+scene: MH_0700_0701
+transcript: sessions/transcripts/SESSION_0000_CONTINUACAO_20261016_MH.md
+last_message: '0701 — Mestre'
+location: 'Interior da guarita antiga de Lorn, porta posterior trancada'
+neris: 'Sentada, diz ter visto Tomas ha cinco ou seis dias com estojo comprido de couro escuro, duas correias'
+lead: 'Possivel livro de arrecadacao dos arquivos administrativos em Lorn'
+knowledge: 'Neris nao viu conteudo e nao sabe o que Tomas tinha ao desaparecer'
+eron: 'Nunca veio a cidade; achou estranho que conheçam nome e descricao; perguntou sobre Tomas'
+hp: 11
+ac: 13
+arrows: 18
+coins: {gp: 125, sp: 4, cp: 5}
+combat: false
+rolls_new: 0
