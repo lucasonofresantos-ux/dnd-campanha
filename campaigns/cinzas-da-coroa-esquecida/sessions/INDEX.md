@@ -767,3 +767,7 @@ A conversa original denominada 01.08 ainda não está disponível para confronto
 
 [NW 0783–0784](transcripts/SESSION_0000_CONTINUACAO_20261017_NW.md): encontro íntimo consensual, transcrito literalmente; tempo passou, sem novos recursos gastos.
 [NX 0785–0786](transcripts/SESSION_0000_CONTINUACAO_20261017_NX.md): Neris chegou novamente ao clímax e deixou leves marcas de unhas nas costas de Eron, sem dano mecânico. Perguntou se ele estava bem; nenhuma rolagem. 11/11 PV, CA 13, 19 flechas.
+
+[NY — 0787–0788](transcripts/SESSION_0000_CONTINUACAO_20261017_NY.md) — Eron mudou de posição e convidou Neris a conduzir o encontro; ela assumiu iniciativa por vontade própria, depois o provocou sobre a metáfora da garoa de outono. Sem rolagens, danos ou recursos gastos. Checkpoint intermediário em STATE_DELTA_20261017_NY.yaml.
+
+[NZ — 0789–0790](transcripts/SESSION_0000_CONTINUACAO_20261017_NZ.md) — Eron comparou Neris a uma mulher do verão e declarou o desfecho da intimidade. O Mestre confirmou que ambos chegaram ao clímax e Neris pediu descanso, mantendo a narração não gráfica e o consentimento de ambos. Chuva enfraquecida, guarita da Ponte Velha em Lorn, duas portas fechadas por dentro e lamparina acesa. Sem novas rolagens, gastos ou danos: 11/11 PV, CA 13, 19 flechas, 125 PO, 4 PP, 5 PC, Inspiração Heroica; marcas superficiais nas costas de Eron sem dano mecânico. Investigação de Tomas Rell e fragmento de couro da vala pendentes.
