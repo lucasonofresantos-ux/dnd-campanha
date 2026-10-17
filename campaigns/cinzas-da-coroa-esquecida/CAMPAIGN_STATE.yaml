@@ -323,3 +323,10 @@ checkpoint_20261017_QN:
   roll: 'Percepção d20 [16]+6=22, aplicativo local, valor enviado pelo jogador, sem novo sorteio'
   situation: 'Homem capa castanha segue rotas paralelas, observa carroça de Bren a uns 50 passos da banca de verduras. Bren chegou à oficina; Neris pergunta discretamente sobre o perseguidor.'
   resources_unchanged: true
+
+checkpoint_20261017_QO:
+  transcript: 'sessions/transcripts/SESSION_0000_CONTINUACAO_20261017_QO.md'
+  last_message: '0925 — Mestre'
+  location: 'Oficina de Dagan Murr em Lorn, por volta das 15h ficcionais'
+  situation: 'Dagan orçou pino 4 PP, bucha 2 PP, mão de obra 2 PP; total provisório 8 PP, sujeito a inspeção. Bren contrariado; reparo ainda não autorizado nem pago. Eron quer conquistar a confiança de Bren.'
+  resources_unchanged: true
