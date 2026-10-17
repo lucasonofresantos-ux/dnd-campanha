@@ -38,7 +38,7 @@ character:
   guard_starting_equipment_option_pending: false
   exile: "Proibido retornar a Valdrén após condenação por assassinato de Edric Valmont; Eron afirma ter sido incriminado"
 narrative:
-  scene: "Eron e Neris voltaram à guarita. Ela confirma não ser casada, corresponde ao flerte sem firmar compromisso e pergunta se Eron está interessado nela ou agindo como investigador."
+  scene: "Eron e Neris estão juntos e observam a estrada do interior da guarita. Neris aceitou aconchegar-se voluntariamente; uma carroça de condutor encapuzado, carga sob lona escura, passou rumo à Ponte Velha sem parar."
   prior_events_imported: false
   character_actions_so_far:
     - 'Consultar histórico completo das ações em sessions/INDEX.md e transcripts/'
@@ -56,7 +56,7 @@ narrative:
     - 'Registros em dice/ROLL_LOG.csv: 117 Percepção [12]+6=18; 118 Investigação [3]+4=7, ambos Python (MR)'
   consumed_resources:
     - 'Saldo atual 19 flechas, após recuperar uma flecha intacta da terra; segunda flecha partida e inutilizável. Gastos anteriores registrados no índice.'
-  pending_action: "Neris aguarda resposta de Eron sobre seu interesse; última busca na guarita ainda não realizada. Couro da vala permanece não recolhido."
+  pending_action: "Eron pode continuar a conversa ou a investigação enquanto observa a estrada; carruagem afastou-se. Couro da vala permanece não recolhido."
   clocks_advanced: null
 isolation:
   previous_camp_global_untouched: true
@@ -64,17 +64,17 @@ isolation:
   pre_execution_state_archive: "archive/CAMPAIGN_STATE_PRE_EXECUCAO_2026-10-12.yaml"
   dm_plan_retained: "dm/WORLD_BIBLE.md"
 transcript:
-  current: "sessions/transcripts/SESSION_0000_CONTINUACAO_20261017_MU.md"
+  current: "sessions/transcripts/SESSION_0000_CONTINUACAO_20261017_MZ.md"
   index: "sessions/INDEX.md"
-  previous: "sessions/transcripts/SESSION_0000_CONTINUACAO_20261017_MT.md"
+  previous: "sessions/transcripts/SESSION_0000_CONTINUACAO_20261017_MY.md"
   literal_complete_current_execution: false
-  last_confirmed_message: "0727 — Mestre (narrativa MU, sincronizada)"
-  pending: "Aguardar Mensagem 0728 — Jogador; MS MT MU recuperadas no GitHub; índice e log social nº 119 pendentes de atualização"
+  last_confirmed_message: "0737 — Mestre (narrativa MZ, sincronizada)"
+  pending: "Aguardar Mensagem 0738 — Jogador; MX 0732–0733 pode continuar pendente"
 
 operational_checkpoint:
   updated_at: "2026-10-17"
   state_delta: "sessions/STATE_DELTA_20261016_MK.yaml"
-  source_transcript: "sessions/transcripts/SESSION_0000_CONTINUACAO_20261017_MU.md"
+  source_transcript: "sessions/transcripts/SESSION_0000_CONTINUACAO_20261017_MZ.md"
   source_index: "sessions/INDEX.md"
   note: "Este é o estado jogável atual; transcrições ML/MM/MN/MQ recuperadas, sem comprovação independente de completude da conversa 01.08."
 
@@ -124,3 +124,12 @@ continuity_20261017_MU:
   new_rolls_this_turn: 0
   transcriptions: ['sessions/transcripts/SESSION_0000_CONTINUACAO_20261017_MS.md','sessions/transcripts/SESSION_0000_CONTINUACAO_20261017_MT.md','sessions/transcripts/SESSION_0000_CONTINUACAO_20261017_MU.md']
   outstanding: 'Índice e dice/ROLL_LOG nº 119 ainda pendentes se não houver commit separado'
+
+checkpoint_20261017_MZ:
+  transcript: "sessions/transcripts/SESSION_0000_CONTINUACAO_20261017_MZ.md"
+  last_message: "0737 — Mestre"
+  intimacy: "Neris beijou Eron antes; agora aceitou seu abraço e vigia a estrada junto a ele"
+  roadway: "Carroça com condutor encapuzado e carga sob lona escura passou sem parar rumo à Ponte Velha; identidade não apurada"
+  no_new_rolls_or_resources: true
+  arrows: 19
+  leather_fragment_collected: false
