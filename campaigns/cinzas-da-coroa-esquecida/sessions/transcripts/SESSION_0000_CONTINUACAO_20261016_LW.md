@@ -17,3 +17,9 @@ Bram e Lio se viram lentamente na direção de Eron, mantendo as mãos erguidas.
 — Pelos deuses, River... Já entendi que pode nos ferir — responde Bram, com a voz rouca. — Não precisa demonstrar.
 
 Ele respira fundo, olhando brevemente para a flecha cravada entre suas botas.
+
+— Há uma coisa que não expliquei direito. **Selk me ordenou que voltasse ao pátio dos armazéns hoje, mesmo que não encontrássemos a folha.** Queria saber se alguém havia passado por esta guarita procurando os registros. E, principalmente, se esse alguém era você.
+
+Lio olha para Bram, indignado.
+
+— Então ele não nos contratou apenas para buscar o maldito papel?
