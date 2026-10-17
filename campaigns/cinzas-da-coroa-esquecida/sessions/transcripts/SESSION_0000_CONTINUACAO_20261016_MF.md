@@ -19,3 +19,5 @@ A mulher observa Eron por alguns instantes, depois olha para a guarita.
 Ela caminha até a entrada, mantendo as mãos afastadas do corpo. Ao passar pelo batente, toma cuidado para não se aproximar demais de Eron. Dirige-se até a extremidade do velho balcão e ali permanece, de frente para ele.
 
 Eron conserva a mulher em seu campo de visão enquanto fecha a porta dos fundos e desliza o ferrolho interno. O ferro enferrujado encaixa-se com um estalo.
+
+O interior da guarita fica mais escuro. A lamparina ainda acesa ilumina as gavetas abertas, os caixotes deslocados e o compartimento vazio onde Bram e Lio procuravam os registros. O cheiro de madeira úmida mistura-se ao de poeira antiga.
