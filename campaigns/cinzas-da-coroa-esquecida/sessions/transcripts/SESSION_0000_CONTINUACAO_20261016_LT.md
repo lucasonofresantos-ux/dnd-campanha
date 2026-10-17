@@ -49,3 +49,11 @@ Os dois saem pela porta dos fundos e seguem em direção à estrada. **Eron perm
 Há, porém, um detalhe na despedida de Bram: **ele chamou Eron de “River”**, embora Eron não tenha lhe informado seu sobrenome durante esse encontro.
 
 A guarita agora está silenciosa. A lamparina continua acesa sobre o antigo balcão, e o compartimento de registros permanece vazio.
+
+**[LOG DE MEMÓRIA DA CAMPANHA]**
+
+- **Localização Atual:** Interior da antiga guarita de pedágio, perto da Ponte Velha, em Lorn.
+- **NPCs Presentes e Relação:** Bram Keld e Lio Marr deixaram a guarita sob ameaça, levando os pertences. Não há garantia de que manterão silêncio. Hadran Selk foi descrito por eles, não visto por Eron.
+- **Linha de Missão Ativa:** Investigar Tomas Rell, o cilindro de mapas, a folha de registro desaparecida e o encontro atribuído a Hadran Selk no pátio dos armazéns antes do anoitecer.
+- **Eventos Cruciais Ocorridos:** Eron pediu características físicas de Selk e como foi identificado; revistou Bram e Lio, sem encontrar a folha ou cilindro. Bram relatou oferta de 20 PO para os dois (4 PO adiantadas, 16 PO condicionadas à entrega). Ambos saíram. Bram chamou Eron de River, sem apresentação registrada nesta cena. Informações sobre Selk são relatos dos NPCs.
+- **Condições do Jogador:** 11/11 PV; CA 13; 20 flechas; 125 PO, 4 PP e 5 PC. Inspiração Heroica disponível. Nenhuma nova rolagem, gasto, dano ou combate. Eron não reteve itens revistados.
