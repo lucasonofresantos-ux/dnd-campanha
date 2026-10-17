@@ -23,3 +23,17 @@ Neris o beija novamente, por iniciativa própria.
 — Mas quero que continue me ouvindo, mesmo quando estivermos tão próximos. Combinado?
 
 A lamparina lança uma luz tênue sobre o assoalho. Neris permanece junto de Eron, receptiva à aproximação, enquanto a chuva encobre os ruídos da estrada.
+
+## Mensagem de andamento visível (literal; emitida antes da narração)
+
+Vou continuar a reação de Neris à aproximação de Eron, respeitando a escolha dela de continuar ou parar. Depois registro a cena e confiro a sincronização do turno anterior no GitHub.
+
+## Mensagens de andamento visíveis posteriores (literais)
+
+A fala de Eron já foi gravada literalmente no GitHub. A gravação da resposta do Mestre foi bloqueada nas primeiras tentativas; vou tentar completar o arquivo em partes antes de atualizar o índice e o estado.
+
+A narração NU, o índice e o estado principal receberam commits. Vou conferir a íntegra da transcrição e acrescentar a mensagem de andamento que antecedeu a cena, para manter a ordem literal do histórico.
+
+## Nota de auditoria
+
+A mensagem anterior à narração consta nesta seção por ter sido recuperada depois da gravação inicial; sua posição cronológica correta é entre as mensagens 0779 e 0780. Não houve rolagens, gastos, cura, combate ou nova informação de missão.
