@@ -695,3 +695,8 @@ checkpoint_20261017_TY:
   transcript: 'sessions/transcripts/SESSION_0000_CONTINUACAO_20261017_TY.md'
   location: 'Deposito superior Casa da Balanca, Lorn, aproximadamente 18h21'
   situation: 'Eron disse a Belric que o tinha desamarrado para manter disfarce e ordenou que ficasse ali. Belric entendeu encenacao, permaneceu sentado em liberdade, disse que ficaria ate Eron autorizar saida. Escada inferior livre. Nenhum teste, dano ou recurso alterado.'
+
+checkpoint_20261017_UB:
+  transcript: 'sessions/transcripts/SESSION_0000_CONTINUACAO_20261017_UB.md'
+  location: 'Sala principal da Casa da Balanca, Lorn, aprox. 18h23'
+  situation: 'Eron informou a Neris que Belric alegadamente estava preso e foi solto, ocultando que nunca foi amarrado. Eron perguntou a Valen sobre ruídos no escritorio. Valen disse que escritorio normalmente fica fechado com chave em seu casaco e revelou parede falsa atras de armarios para compartimento de valores/documentos. Afirmou existir acesso antigo pelo corredor de servico, que ordenou fechar ha meses mas nao verificou. Nao confirmou presença de pessoa no local. Neris cuida de Valen, Iven ainda proximo a saida aguardando partida. Escritório não vistoriado, chave ainda em bolso interno esquerdo.'
