@@ -40,7 +40,7 @@ character:
   guard_starting_equipment_option_pending: false
   exile: "Proibido retornar a Valdrén após condenação por assassinato de Edric Valmont; Eron afirma ter sido incriminado"
 narrative:
-  scene: "Neris confirmou ter gostado do encontro anterior e pediu Eron por perto. Ela repousa sobre a capa na guarita, com chuva fina e portas trancadas por dentro."
+  scene: "Eron está nu e deitado junto a Neris sobre a capa no assoalho. Neris corresponde a seus beijos, pede cuidado no pescoço e declara não desejar que ele pare agora. Chuva fina, portas conhecidas trancadas por dentro."
   prior_events_imported: false
   character_actions_so_far:
     - 'Consultar histórico completo das ações em sessions/INDEX.md e transcripts/'
@@ -58,7 +58,7 @@ narrative:
     - 'Registros em dice/ROLL_LOG.csv: 117 Percepção [12]+6=18; 118 Investigação [3]+4=7, ambos Python (MR)'
   consumed_resources:
     - 'Saldo atual 19 flechas, após recuperar uma flecha intacta da terra; segunda flecha partida e inutilizável. Gastos anteriores registrados no índice.'
-  pending_action: "Neris pediu a Eron para ficar próximo. Eron decide seus próximos atos; investigação de Tomas pendente, fragmento de couro da vala não recolhido."
+  pending_action: "Neris quer continuar próxima de Eron, com cuidado e atenção aos seus limites; o jogador decide próximos atos. Missão Tomas pendente; fragmento da vala não recolhido."
   clocks_advanced: null
 isolation:
   previous_camp_global_untouched: true
@@ -66,17 +66,17 @@ isolation:
   pre_execution_state_archive: "archive/CAMPAIGN_STATE_PRE_EXECUCAO_2026-10-12.yaml"
   dm_plan_retained: "dm/WORLD_BIBLE.md"
 transcript:
-  current: "sessions/transcripts/SESSION_0000_CONTINUACAO_20261017_NT.md"
+  current: "sessions/transcripts/SESSION_0000_CONTINUACAO_20261017_NU.md"
   index: "sessions/INDEX.md"
-  previous: "sessions/transcripts/SESSION_0000_CONTINUACAO_20261017_NS.md"
+  previous: "sessions/transcripts/SESSION_0000_CONTINUACAO_20261017_NT.md"
   literal_complete_current_execution: false
-  last_confirmed_message: "0778 — Mestre (narrativa NT, sincronizada)"
-  pending: "Aguardar Mensagem 0779 — Jogador"
+  last_confirmed_message: "0780 — Mestre (narrativa NU, sincronizada)"
+  pending: "Aguardar Mensagem 0781 — Jogador"
 
 operational_checkpoint:
   updated_at: "2026-10-17"
   state_delta: "sessions/STATE_DELTA_20261016_MK.yaml"
-  source_transcript: "sessions/transcripts/SESSION_0000_CONTINUACAO_20261017_NT.md"
+  source_transcript: "sessions/transcripts/SESSION_0000_CONTINUACAO_20261017_NU.md"
   source_index: "sessions/INDEX.md"
   note: "Este é o estado jogável atual; transcrições ML/MM/MN/MQ recuperadas, sem comprovação independente de completude da conversa 01.08."
 
