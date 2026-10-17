@@ -43,3 +43,19 @@ Neris permanece silenciosa ao lado de Eron. O segundo guarda continua junto à e
 A mensagem original de Eron menciona "posto da guarda abandonado", seguida da retificação literal "guarita do pedágio abandonada". Não corrigir o texto original: a intenção canônica é antiga GUARITA DE PEDÁGIO (edificação investigada por Eron e Neris) na estrada ocidental antes da Ponte Velha, não um antigo quartel militar. O posto MUNICIPAL da guarda, junto à praça comercial de Lorn, é edifício diferente onde Eron e Neris se encontram neste momento.
 
 O sentinela de barba curta demonstrou reconhecer qual edifício é referido, sem confirmar que a guarda municipal mantinha ali guarnição ou seus registros, e pergunta pela natureza geral do assunto. Eron não apresentou cartas nem fragmentos ou relatou ainda seus detalhes ao guarda. Não iniciou audiência, entrada no posto, teste, combate ou troca de itens. Dois guardas à entrada, Neris acompanha Eron, ambos do lado de fora. O fragmento de couro junto à vala continua não recolhido. Percepção da viagem 121 = 1d20 [6]+6=12 já lançada no log. Eron 11/11 PV, CA 13, 19 flechas, 125 PO, 4 PP, 5 PC, Inspiração Heroica.
+
+## Mensagem 0821 — Mestre (fechamento visível literal)
+
+**Correção registrada:** a referência correta é à **guarita de pedágio abandonada**, não a um posto abandonado da guarda. O posto da guarda onde Eron está agora é outro edifício.
+
+**GitHub:** a transcrição pendente OM foi recuperada; ON, OO, o índice e o estado canônico foram gravados e verificados. A Percepção nº 121 (12 no total) permanece no log, sem nova rolagem.
+
+[Consultar a transcrição OO](https://github.com/lucasonofresantos-ux/dnd-campanha/blob/main/campaigns/cinzas-da-coroa-esquecida/sessions/transcripts/SESSION_0000_CONTINUACAO_20261017_OO.md)
+
+[LOG DE MEMÓRIA DA CAMPANHA]
+
+- **Localização Atual:** Entrada do posto municipal da guarda de Lorn, próximo à praça comercial.
+- **NPCs Presentes e Relação:** Neris Halden acompanha Eron; dois guardas estão na entrada, um deles conversando com Eron.
+- **Linha de Missão Ativa:** Localizar Tomas Rell, investigar os antigos registros de pedágio e o interesse de Hadran Selk.
+- **Eventos Cruciais Ocorridos:** Eron informou seu nome e corrigiu o assunto da visita para a antiga guarita de pedágio da estrada da Ponte Velha. O sentinela reconheceu a referência e perguntou qual é a natureza da possível ocorrência. Eron ainda não apresentou provas nem entrou no posto.
+- **Condições do Jogador:** 11/11 PV, CA 13, 19 flechas, 125 PO, 4 PP e 5 PC; Inspiração Heroica disponível. Pertences consigo; fragmento de couro da vala não recolhido. Sem novos testes, danos ou gastos.
