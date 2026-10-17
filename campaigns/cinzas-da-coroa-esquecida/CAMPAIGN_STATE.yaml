@@ -231,3 +231,10 @@ checkpoint_20261017_PU:
   latest_roll: 'Investigação 1d20[7]+4=11, executado com Python secrets.randbelow'
   situation: 'Eron confirmou referências individuais ausentes em dois dias; Edren entrou com protocolo azul-escuro, ainda fechado'
   resources_unchanged: true
+
+checkpoint_20261017_PV:
+  transcript: 'sessions/transcripts/SESSION_0000_CONTINUACAO_20261017_PV.md'
+  last_message: '0887 — Mestre'
+  location: 'Sala de Odran Vell, Escritório Municipal de Arrecadação, Lorn'
+  situation: 'Protocolo da remessa da Ponte Velha sem assinatura de recebedor; referência de encaminhamento sem entrega confirmada. Edren busca registros do transporte.'
+  resources_unchanged: true
