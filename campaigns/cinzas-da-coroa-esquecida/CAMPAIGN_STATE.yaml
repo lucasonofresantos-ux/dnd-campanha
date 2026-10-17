@@ -61,7 +61,7 @@ narrative:
     - '121 Percepção caminho ao posto da guarda: 1d20 [6]+6=12, Python secrets.randbelow (OM)'
   consumed_resources:
     - 'Saldo atual 19 flechas, após recuperar uma flecha intacta da terra; segunda flecha partida e inutilizável. Gastos anteriores registrados no índice.'
-  pending_action: "Eron ofereceu aguardar a conferência dos registros. Tenente Cael iniciou consulta à pasta com escalas e comunicações de serviço; resultados e nomes ainda não apurados. Aguardar retorno da consulta ou intervenção do jogador."
+  pending_action: "Tenente Arven Cael consulta registros de ocorrências e escalas; Eron aguarda. Há relatos não confirmados de outros desaparecimentos e extravios, nenhuma relação estabelecida. Administrador da cobrança ainda não identificado."
   clocks_advanced: null
 isolation:
   previous_camp_global_untouched: true
@@ -69,12 +69,12 @@ isolation:
   pre_execution_state_archive: "archive/CAMPAIGN_STATE_PRE_EXECUCAO_2026-10-12.yaml"
   dm_plan_retained: "dm/WORLD_BIBLE.md"
 transcript:
-  current: "sessions/transcripts/SESSION_0000_CONTINUACAO_20261017_OU.md"
+  current: "sessions/transcripts/SESSION_0000_CONTINUACAO_20261017_OV.md"
   index: "sessions/INDEX.md"
-  previous: "sessions/transcripts/SESSION_0000_CONTINUACAO_20261017_OT.md"
+  previous: "sessions/transcripts/SESSION_0000_CONTINUACAO_20261017_OU.md"
   literal_complete_current_execution: false
-  last_confirmed_message: "0833 — Mestre (narração OU, sincronizada)"
-  pending: "Aguardar Mensagem 0834 — Jogador"
+  last_confirmed_message: "0835 — Mestre (narração OV, sincronizada)"
+  pending: "Aguardar Mensagem 0836 — Jogador"
 
 operational_checkpoint:
   updated_at: "2026-10-17"
