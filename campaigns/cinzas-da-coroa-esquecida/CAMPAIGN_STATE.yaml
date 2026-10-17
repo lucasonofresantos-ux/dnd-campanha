@@ -206,3 +206,11 @@ checkpoint_20261017_PN:
   observation: 'Odran formal, atenção aumentada à menção da última semana, olhou papéis à direita; não se conclui mentira'
   current_question: 'Odran perguntou em nome de quem fazem investigação; Neris não respondeu ainda'
   resources_unchanged: true
+
+checkpoint_20261017_PP:
+  transcript: 'sessions/transcripts/SESSION_0000_CONTINUACAO_20261017_PP.md'
+  previous: 'sessions/transcripts/SESSION_0000_CONTINUACAO_20261017_PO.md'
+  last_message: '0875 — Mestre (PP)'
+  location: 'Sala de Odran Vell, Escritório Municipal de Arrecadação de Lorn'
+  situation: 'Odran registrou nome Tomas Rell, identificou documentos a direita como balancetes e recibos, perguntou por que são relevantes; Neris aguarda Eron.'
+  no_resource_changes: true
