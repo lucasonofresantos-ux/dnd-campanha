@@ -33,3 +33,11 @@ O transportador volta a atenção para Eron.
 Bram e Lio continuam parados diante de Eron, aguardando permissão para seguir. O vento movimenta as folhas dos salgueiros, e a flecha de advertência permanece cravada na terra entre eles.
 
 Nenhuma nova rolagem é necessária. Bram aceitou o combinado sob a intimidação anterior, mas Eron não tem como garantir antecipadamente que ele cumprirá a promessa quando estiver fora de seu alcance.
+
+**[LOG DE MEMÓRIA DA CAMPANHA]**
+
+- **Localização Atual:** Porta dos fundos da guarita de pedágio antiga, perto da Ponte Velha, Lorn, durante a manhã; Bram e Lio estão alguns metros do lado de fora.
+- **NPCs Presentes e Relação:** Bram Keld e Lio Marr, assustados, voltados para Eron e com as mãos erguidas. Bram aceitou verbalmente as condições sob ameaça; Lio deseja deixar o assunto.
+- **Linha de Missão Ativa:** Investigar Tomas Rell, cilindro de mapas, livro/folha desaparecida e o interesse de Hadran Selk por Eron.
+- **Eventos Cruciais Ocorridos:** Eron exigiu horário de encontro e que Bram compareça, revele a Selk que encontrou River apenas pessoalmente na balança coberta e não o avise antes, permitindo a Bram conservar o pagamento. Bram disse que **não existe hora exata marcada**, apenas o fim da tarde antes do anoitecer, durante a última conferência de cargas. Prometeu cumprir; não há garantia futura. Pagamento pendente de Selk: 16 PO, com 4 PO já adiantadas aos dois. Nenhuma nova rolagem ou combate.
+- **Condições do Jogador:** 11/11 PV; CA 13; 19 flechas no inventário e uma de advertência cravada no solo, não recuperada; 125 PO, 4 PP e 5 PC. Inspiração Heroica disponível. Arco em mãos, sem danos ou novos gastos.
