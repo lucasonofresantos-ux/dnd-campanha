@@ -11,3 +11,5 @@ Bem estou curioso dos papéis que estavam aqui agora entre logo e não se preocu
 Vou continuar da entrada da guarita, mantendo Eron de frente para a mulher e sem revelar antecipadamente o significado do medalhão. Também vou verificar o último estado salvo e tentar sincronizar a transcrição pendente antes de registrar a nova cena.
 
 ## Mensagem 0697 — Mestre (narração visível)
+
+A mulher observa Eron por alguns instantes, depois olha para a guarita.
