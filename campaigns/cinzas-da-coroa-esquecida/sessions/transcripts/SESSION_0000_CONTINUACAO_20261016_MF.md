@@ -26,5 +26,7 @@ O interior da guarita fica mais escuro. A lamparina ainda acesa ilumina as gavet
 
 A mulher lança um olhar ao compartimento vazio atrás do balcão, mas não se aproxima dele.
 
+— Agora, sobre esses papéis... talvez tenhamos razões para conversar.
+
 
 Ela olha novamente para Eron.
