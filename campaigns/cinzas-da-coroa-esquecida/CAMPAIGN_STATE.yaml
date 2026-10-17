@@ -40,7 +40,7 @@ character:
   guard_starting_equipment_option_pending: false
   exile: "Proibido retornar a Valdrén após condenação por assassinato de Edric Valmont; Eron afirma ter sido incriminado"
 narrative:
-  scene: "Na guarita, Neris está deitada sobre a capa de Eron. A aproximação prossegue por escolha mútua, com beijos e limites respeitados. Lamparina acesa, chuva fina, duas portas conhecidas trancadas por dentro."
+  scene: "Na guarita, Eron e Neris compartilham intimidade por escolha mútua. Algum tempo decorreu. Neris repousa sobre a capa estendida no assoalho, tranquila. Chuva fina e lamparina; duas portas conhecidas trancadas por dentro."
   prior_events_imported: false
   character_actions_so_far:
     - 'Consultar histórico completo das ações em sessions/INDEX.md e transcripts/'
@@ -58,7 +58,7 @@ narrative:
     - 'Registros em dice/ROLL_LOG.csv: 117 Percepção [12]+6=18; 118 Investigação [3]+4=7, ambos Python (MR)'
   consumed_resources:
     - 'Saldo atual 19 flechas, após recuperar uma flecha intacta da terra; segunda flecha partida e inutilizável. Gastos anteriores registrados no índice.'
-  pending_action: "Eron decide próximos atos na guarita; Neris responde voluntariamente ao carinho e mantém autonomia. Missão de Tomas aberta; couro da vala ainda não recolhido."
+  pending_action: "Eron decide suas próximas ações na guarita após momento reservado com Neris. Missão de Tomas segue aberta; couro da vala não recolhido."
   clocks_advanced: null
 isolation:
   previous_camp_global_untouched: true
@@ -66,17 +66,17 @@ isolation:
   pre_execution_state_archive: "archive/CAMPAIGN_STATE_PRE_EXECUCAO_2026-10-12.yaml"
   dm_plan_retained: "dm/WORLD_BIBLE.md"
 transcript:
-  current: "sessions/transcripts/SESSION_0000_CONTINUACAO_20261017_NQ.md"
+  current: "sessions/transcripts/SESSION_0000_CONTINUACAO_20261017_NR.md"
   index: "sessions/INDEX.md"
-  previous: "sessions/transcripts/SESSION_0000_CONTINUACAO_20261017_NP.md"
+  previous: "sessions/transcripts/SESSION_0000_CONTINUACAO_20261017_NQ.md"
   literal_complete_current_execution: false
-  last_confirmed_message: "0772 — Mestre (narrativa NQ, sincronizada)"
-  pending: "Aguardar Mensagem 0773 — Jogador; NJ 0756–0758 segue pendente; complemento literal NO em conferência"
+  last_confirmed_message: "0774 — Mestre (narrativa NR, sincronizada)"
+  pending: "Aguardar Mensagem 0775 — Jogador; NJ 0756–0758 e complemento NO pendentes"
 
 operational_checkpoint:
   updated_at: "2026-10-17"
   state_delta: "sessions/STATE_DELTA_20261016_MK.yaml"
-  source_transcript: "sessions/transcripts/SESSION_0000_CONTINUACAO_20261017_NQ.md"
+  source_transcript: "sessions/transcripts/SESSION_0000_CONTINUACAO_20261017_NR.md"
   source_index: "sessions/INDEX.md"
   note: "Este é o estado jogável atual; transcrições ML/MM/MN/MQ recuperadas, sem comprovação independente de completude da conversa 01.08."
 
