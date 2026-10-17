@@ -40,7 +40,7 @@ character:
   guard_starting_equipment_option_pending: false
   exile: "Proibido retornar a Valdrén após condenação por assassinato de Edric Valmont; Eron afirma ter sido incriminado"
 narrative:
-  scene: "Eron se vestiu, equipou armadura e armas e recolheu seus pertences: capa, duas cartas anônimas e dois fragmentos de registro. Perguntou se Neris o acompanha durante o dia e se sabe se defender. Neris aceitou acompanhar e disse saber observar, ocultar-se, evitar lutas e reagir, mas não ser guerreira; vestiu sua própria capa, com medalhão. Ambos continuam no interior da guarita, portas trancadas por dentro, chuva quase cessou."
+  scene: "Eron observou o exterior pelas aberturas da guarita antes de sair; Percepção Python 1d20 [13]+6=19. Não viu vigias/espiões no campo visível da estrada, marco ou lateral do rio; fundos, pontos cegos e salgueiros cerrados permanecem sem visão. Neris brincou com alusão de Eron a outras batalhas e perguntou se viu algo. Ambos vestidos e equipados, ainda DENTRO da guarita; portas fechadas por dentro, chuva quase cessou."
   prior_events_imported: false
   character_actions_so_far:
     - 'Consultar histórico completo das ações em sessions/INDEX.md e transcripts/'
@@ -56,9 +56,10 @@ narrative:
     - "Neris Halden (nome alegado; afirmações ainda não comprovadas)"
   rolls_this_execution:
     - 'Registros em dice/ROLL_LOG.csv: 117 Percepção [12]+6=18; 118 Investigação [3]+4=7, ambos Python (MR)'
+    - '120 Percepção da guarita: 1d20 [13]+6=19, Python secrets.randbelow (OL)'
   consumed_resources:
     - 'Saldo atual 19 flechas, após recuperar uma flecha intacta da terra; segunda flecha partida e inutilizável. Gastos anteriores registrados no índice.'
-  pending_action: "Eron já está vestido e equipado, com pertences recolhidos. Neris pronta a acompanhá-lo. Nenhum dos dois saiu da guarita nem abriu portas. Fragmento de couro da vala não recolhido. Encontro Bram/Selk apenas possível no fim da tarde."
+  pending_action: "Neris perguntou se Eron viu algo suspeito. Eron decide resposta, possível verificação adicional dos pontos cegos e eventual saída; portas seguem trancadas. Couro da vala não recolhido. Bram/Selk possivelmente ao fim da tarde."
   clocks_advanced: null
 isolation:
   previous_camp_global_untouched: true
@@ -66,17 +67,17 @@ isolation:
   pre_execution_state_archive: "archive/CAMPAIGN_STATE_PRE_EXECUCAO_2026-10-12.yaml"
   dm_plan_retained: "dm/WORLD_BIBLE.md"
 transcript:
-  current: "sessions/transcripts/SESSION_0000_CONTINUACAO_20261017_OK.md"
+  current: "sessions/transcripts/SESSION_0000_CONTINUACAO_20261017_OL.md"
   index: "sessions/INDEX.md"
-  previous: "sessions/transcripts/SESSION_0000_CONTINUACAO_20261017_OJ.md"
+  previous: "sessions/transcripts/SESSION_0000_CONTINUACAO_20261017_OK.md"
   literal_complete_current_execution: false
-  last_confirmed_message: "0812 — Mestre (narrativa OK, sincronizada)"
-  pending: "Aguardar Mensagem 0813 — Jogador"
+  last_confirmed_message: "0814 — Mestre (narrativa OL, sincronizada)"
+  pending: "Aguardar Mensagem 0815 — Jogador"
 
 operational_checkpoint:
   updated_at: "2026-10-17"
   state_delta: "sessions/STATE_DELTA_20261016_MK.yaml"
-  source_transcript: "sessions/transcripts/SESSION_0000_CONTINUACAO_20261017_OK.md"
+  source_transcript: "sessions/transcripts/SESSION_0000_CONTINUACAO_20261017_OL.md"
   source_index: "sessions/INDEX.md"
   note: "Este é o estado jogável atual; transcrições ML/MM/MN/MQ recuperadas, sem comprovação independente de completude da conversa 01.08."
 
