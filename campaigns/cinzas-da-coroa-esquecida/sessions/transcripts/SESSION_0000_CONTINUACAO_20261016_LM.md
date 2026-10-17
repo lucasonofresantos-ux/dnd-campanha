@@ -39,3 +39,9 @@ Com o ouvido próximo à madeira, distingue o ruído de alguma coisa pesada send
 — Eu disse que o registro estava aqui — resmunga uma voz rouca.
 
 — E eu disse que alguém chegou antes de nós — responde outra, mais contida. — Olhe para o encaixe. Está vazio.
+
+O som de madeira raspando contra pedra interrompe a conversa.
+
+— Então procure a outra folha. Não vou sair daqui de mãos vazias.
+
+Há alguns passos no interior, seguidos pelo ruído de algo pequeno sendo colocado sobre uma superfície rígida.
