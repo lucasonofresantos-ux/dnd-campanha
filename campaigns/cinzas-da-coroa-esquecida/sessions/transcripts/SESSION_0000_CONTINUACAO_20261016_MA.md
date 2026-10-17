@@ -14,3 +14,5 @@ Vou resolver o disparo contra o marco, sem tratá-lo como um ataque direto à pe
 Eron ergue o arco curto, volta-se para o antigo marco de pedra entre os salgueiros e dispara uma flecha na direção dele.
 
 — **Saia daí! Agora! Venha até aqui!**
+
+A figura encapuzada está a aproximadamente **50 metros**, além do alcance normal do arco curto, que é de 24 metros. Por isso, o disparo exige um **ataque à distância com desvantagem** para verificar se a flecha atinge o marco.
