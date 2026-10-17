@@ -38,7 +38,7 @@ character:
   guard_starting_equipment_option_pending: false
   exile: "Proibido retornar a Valdrén após condenação por assassinato de Edric Valmont; Eron afirma ter sido incriminado"
 narrative:
-  scene: "Exterior da guarita: Eron examinou os sulcos e pegadas próximos ao beiral; Investigação d20 [7]+4=11, sem identificação confiável do objeto, idade ou relação com Tomas"
+  scene: "Exterior da guarita: exames de vala e vegetação concluídos. Vala: fragmento de correia de couro escuro com dois furos, costura dupla e arrebite de latão; origem não confirmada. Vegetação: sinais de passagem sem identificação."
   prior_events_imported: false
   character_actions_so_far:
     - 'Consultar histórico completo das ações em sessions/INDEX.md e transcripts/'
@@ -47,14 +47,15 @@ narrative:
     - 'Carta anônima com árvore sem folhas, aberta e em posse de Eron'
     - 'Dois fragmentos encaixáveis de escrituração de pedágio: T. Rell, 01 estojo lacrado, conf. arq.; em mãos de Eron'
     - 'Medalhão árvore sem folhas visto em posse de Neris, não adquirido por Eron'
+    - 'Fragmento de tira de couro escuro achado na vala (não guardado por Eron; possível prova)'
   allies_present: []
   npcs_directly_in_scene:
     - "Neris Halden (nome alegado; afirmações ainda não comprovadas)"
   rolls_this_execution:
-    - 'Registros e proveniência dos dados em dice/ROLL_LOG.csv; rolagem 114 Investigação d20=7 +4=11 (MO)'
+    - 'Registros e proveniência dos dados em dice/ROLL_LOG.csv; rolagens 115: d20 [19]+4=23 e 116: d20 [10]+4=14 (MP)'
   consumed_resources:
     - 'Saldo de flechas atual 18; gastos anteriores registrados no índice e nos arquivos financeiros'
-  pending_action: "Eron escolhe próximo passo na área externa da guarita; vala e vegetação próximas ainda não foram inspecionadas a fundo"
+  pending_action: "Eron decide se recolhe o fragmento da vala e qual seu próximo passo; Neris presente, nenhuma identificação de Tomas confirmada"
   clocks_advanced: null
 isolation:
   previous_camp_global_untouched: true
@@ -62,17 +63,17 @@ isolation:
   pre_execution_state_archive: "archive/CAMPAIGN_STATE_PRE_EXECUCAO_2026-10-12.yaml"
   dm_plan_retained: "dm/WORLD_BIBLE.md"
 transcript:
-  current: "sessions/transcripts/SESSION_0000_CONTINUACAO_20261017_MO.md"
+  current: "sessions/transcripts/SESSION_0000_CONTINUACAO_20261017_MP.md"
   index: "sessions/INDEX.md"
-  previous: "sessions/transcripts/SESSION_0000_CONTINUACAO_20261016_MK.md"
+  previous: "sessions/transcripts/SESSION_0000_CONTINUACAO_20261017_MO.md"
   literal_complete_current_execution: false
-  last_confirmed_message: "0715 — Mestre (narrativa MO, texto principal sincronizado)"
-  pending: "Aguardar Mensagem 0716 — Jogador; ML/MM/MN transcrição literal pendente"
+  last_confirmed_message: "0717 — Mestre (narrativa MP, sincronizada)"
+  pending: "Aguardar Mensagem 0718 — Jogador; ML/MM/MN transcrição literal pendente"
 
 operational_checkpoint:
   updated_at: "2026-10-17"
   state_delta: "sessions/STATE_DELTA_20261016_MK.yaml"
-  source_transcript: "sessions/transcripts/SESSION_0000_CONTINUACAO_20261017_MO.md"
+  source_transcript: "sessions/transcripts/SESSION_0000_CONTINUACAO_20261017_MP.md"
   source_index: "sessions/INDEX.md"
   note: "Este é o estado jogável atual; a cena inicial de 2026-10-12 está retida no histórico Git e nos arquivos de arquivo. Completude literal de 01.08 não certificada sem fonte original."
 
@@ -93,3 +94,10 @@ roll_20261017_MO:
   source: "skills/dice-roller/dice_roller.py executado localmente a partir de copia identica verificada"
   source_transcript: "sessions/transcripts/SESSION_0000_CONTINUACAO_20261017_MO.md"
   notes: 'Investigação de marcas externas, sem confirmar relação com Tomas'
+
+rolls_20261017_MP:
+  vala: {log_number: 115, expression: '1d20+4', natural: 19, bonus: 4, total: 23}
+  vegetacao: {log_number: 116, expression: '1d20+4', natural: 10, bonus: 4, total: 14}
+  transcript: "sessions/transcripts/SESSION_0000_CONTINUACAO_20261017_MP.md"
+  no_combat_or_spending: true
+  fragment_of_leather_collected: false
