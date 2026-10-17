@@ -61,7 +61,7 @@ narrative:
     - '121 Percepção caminho ao posto da guarda: 1d20 [6]+6=12, Python secrets.randbelow (OM)'
   consumed_resources:
     - 'Saldo atual 19 flechas, após recuperar uma flecha intacta da terra; segunda flecha partida e inutilizável. Gastos anteriores registrados no índice.'
-  pending_action: "Tenente Arven Cael consulta registros de ocorrências e escalas; Eron aguarda. Há relatos não confirmados de outros desaparecimentos e extravios, nenhuma relação estabelecida. Administrador da cobrança ainda não identificado."
+  pending_action: "Tenente permitiu a Eron examinar os papéis da guarda na sala. Investigação 21 encontrou lacunas sobre data de retirada e destinatário dos livros de pedágio; Cael perguntou se Eron encontrou algo. Aguardar Eron."
   clocks_advanced: null
 isolation:
   previous_camp_global_untouched: true
@@ -69,12 +69,12 @@ isolation:
   pre_execution_state_archive: "archive/CAMPAIGN_STATE_PRE_EXECUCAO_2026-10-12.yaml"
   dm_plan_retained: "dm/WORLD_BIBLE.md"
 transcript:
-  current: "sessions/transcripts/SESSION_0000_CONTINUACAO_20261017_OV.md"
+  current: "sessions/transcripts/SESSION_0000_CONTINUACAO_20261017_OX.md"
   index: "sessions/INDEX.md"
-  previous: "sessions/transcripts/SESSION_0000_CONTINUACAO_20261017_OU.md"
+  previous: "sessions/transcripts/SESSION_0000_CONTINUACAO_20261017_OW.md"
   literal_complete_current_execution: false
-  last_confirmed_message: "0835 — Mestre (narração OV, sincronizada)"
-  pending: "Aguardar Mensagem 0836 — Jogador"
+  last_confirmed_message: "0839 — Mestre (narração OX, sincronizada)"
+  pending: "Aguardar Mensagem 0840 — Jogador"
 
 operational_checkpoint:
   updated_at: "2026-10-17"
@@ -170,3 +170,9 @@ transcript_recovery_20261017_NN:
   restored: [NG, NH, NI, NK, NM]
   still_pending: [NJ]
   note: "NJ preservado em cópia local, não alegar commit. Nenhuma alteração a rolagens ou recursos."
+
+checkpoint_20261017_OX:
+  transcript: 'sessions/transcripts/SESSION_0000_CONTINUACAO_20261017_OX.md'
+  roll: {expression: '1d20+4', natural: 17, bonus: 4, total: 21, source: 'Python secrets.randbelow executado'}
+  discovery: 'Nos papéis consultados, sem data definida de retirada dos livros e sem destinatário identificado'
+  resources_unchanged: true
