@@ -21,3 +21,13 @@ A flecha atravessa a abertura da porta dos fundos e se crava na terra úmida, **
 Lio se encolhe imediatamente. Bram interrompe a caminhada e ergue as mãos, devagar, mantendo-as bem afastadas da faca.
 
 — Não se mova, Lio — murmura ele.
+
+Quando Eron exige saber como conhecem seu nome, Bram permanece calado por alguns instantes. A expressão do transportador muda. Já não parece apenas assustado; parece perceber que cometeu um erro.
+
+— **Foi Selk** — responde finalmente. — Foi ele quem mencionou seu nome ontem, quando nos contratou.
+
+Lio vira a cabeça, surpreso.
+
+— Você não me contou isso!
+
+— Porque não era da sua conta! — retruca Bram, antes de voltar a atenção para Eron. — Ele disse que um homem chamado **River** poderia aparecer fazendo perguntas sobre Tomas Rell. Descreveu alguém da sua idade, com olhos cinzentos e cabelos começando a grisalhar.
