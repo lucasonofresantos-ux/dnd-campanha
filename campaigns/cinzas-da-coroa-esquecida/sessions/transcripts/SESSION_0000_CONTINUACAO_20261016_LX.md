@@ -15,3 +15,9 @@ Vou conferir a última cena e registrar a fala de Eron. Bram já disse que Selk 
 Bram permanece com as mãos erguidas. Ao ouvir o nome de Zariel, lança um olhar rápido para Lio, que se benze discretamente. O transportador respira fundo antes de responder.
 
 — **Selk não marcou uma hora exata, River.** Disse que estaria na balança coberta durante a última conferência de cargas, **no fim da tarde, antes do anoitecer**. É quando os despachantes acertam os fretes do dia. Não posso lhe dar uma hora de sino que ele não me deu.
+
+Bram engole em seco.
+
+— Vou comparecer. Direi que vasculhamos a guarita, que não encontramos a folha e que encontrei você aqui. Não enviarei mensageiro nem procurarei Selk antes de falar com ele pessoalmente, na balança. Quanto ao pagamento... faltam dezesseis peças de ouro. Se ele me pagar, ficarei com elas, como permitiu.
+
+Lio lança um olhar desconfortável ao companheiro.
