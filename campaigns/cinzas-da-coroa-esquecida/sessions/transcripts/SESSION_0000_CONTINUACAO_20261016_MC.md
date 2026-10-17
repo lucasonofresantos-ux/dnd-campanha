@@ -14,3 +14,5 @@ Vou usar exatamente **[15, 16] → 15 +4 = 19**, sem repetir o ataque. Vou resol
 ## Mensagem 0691 — Mestre (resposta visível)
 
 **2d20kl1 [15, 16] → 15 +4 =19.** Dado do rolador visual local confirmado pelo jogador, sem repetir.
+
+A flecha corta o ar e atinge a borda do marco de pedra com um estalo seco. Uma lasca salta da superfície envelhecida, enquanto a haste se parte e cai entre as raízes dos salgueiros.
