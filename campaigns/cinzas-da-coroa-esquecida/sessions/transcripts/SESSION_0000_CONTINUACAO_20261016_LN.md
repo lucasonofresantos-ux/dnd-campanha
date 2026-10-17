@@ -17,3 +17,9 @@ Aproveitando o mesmo movimento furtivo, **Eron mantém seu resultado de Furtivid
 Com extrema delicadeza, ele experimenta a maçaneta da porta dos fundos. A lingueta cede: **não está trancada**. Eron pressiona a madeira lentamente, abrindo apenas uma fresta. Uma corrente de ar úmido atravessa o vão, trazendo o cheiro de pergaminho velho, poeira e óleo de lamparina.
 
 Os dois homens continuam ocupados. Um deles, robusto, de barba castanha e casaco de couro gasto, está inclinado sobre um antigo balcão de fiscalização. O outro, mais magro, usando um manto escuro sem insígnias visíveis, examina uma pequena gaveta retirada de um armário. Ambos estão de costas para a entrada.
+
+Eron desliza para dentro e consegue alcançar a proteção de alguns caixotes empilhados contra a parede. A aproximadamente **quatro metros dos homens**, encontra uma posição de onde consegue observá-los por uma abertura entre as caixas, sem precisar atravessar o espaço descoberto do cômodo.
+
+— Aqui também não tem nada — murmura o homem magro, largando a gaveta.
+
+— Então alguém sabia exatamente o que procurar — responde o barbudo, examinando um compartimento vazio atrás do balcão.
