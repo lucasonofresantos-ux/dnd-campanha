@@ -730,3 +730,5 @@ A conversa original denominada 01.08 ainda não está disponível para confronto
 
 [MX 0732–0733](transcripts/SESSION_0000_CONTINUACAO_20261017_MX.md): íntegra recuperada após bloqueio, sem alterar registros históricos.
 [NB 0740–0741](transcripts/SESSION_0000_CONTINUACAO_20261017_NB.md): Eron beija e abraça Neris, deixando a decisão de continuar ou parar com ela. Neris retribui e prefere continuar sem pressa. Duas portas de acesso trancadas por dentro; nenhum teste, gasto ou coleta; 11/11 PV, CA 13, 19 flechas, 125 PO, 4 PP, 5 PC.
+
+[NC — 0742–0743](transcripts/SESSION_0000_CONTINUACAO_20261017_NC.md) — Eron manifesta desejo de investigar as curvas de Neris, ergue-a e senta-a no balcão, beija-a e tenta acariciá-la mais intimamente. Neris aceita o beijo e se mantém próxima, mas detém e redireciona a mão dele à própria cintura e declara desejar ir devagar. Nenhuma rolagem adicional, ameaça identificada, gasto ou avanço de investigação. Duas portas conhecidas permanecem trancadas por dentro; privacidade não garantida. Eron 11/11 PV, CA 13, 19 flechas, 125 PO 4 PP 5 PC, Inspiração Heroica; couro da vala não recolhido.
