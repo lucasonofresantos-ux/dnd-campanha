@@ -43,3 +43,6 @@ A ameaça de Eron parece ter conseguido o que ele queria: **os dois estão coope
 
 - **Localização Atual:** Guarita antiga, Eron oculto parcialmente pelos caixotes, a cerca de 4 m de Bram e Lio.
 - **NPCs Presentes e Relação:** Lio Marr e Bram Keld, nomes declarados pelos homens; cooperando por receio de Eron.
+- **Linha de Missão Ativa:** Investigar Tomas Rell, o cilindro de mapas e o registro de cargas desaparecido.
+- **Eventos Cruciais Ocorridos:** Intimidação 1d20 [19]+1=20 informada via Roll20 pelo jogador, log nº 107. Lio e Bram disseram ter sido contratados por Hadran Selk ontem para recuperar folha sobre entrega associada a Tomas quatro dias antes; relato não verificado. Nenhum dos dois viu Tomas pessoalmente.
+- **Condições do Jogador:** 11/11 PV, CA13, 20 flechas; 125 PO, 4 PP, 5 PC. Inspiração Heroica disponível. Sem combate, ferimentos ou gastos.
