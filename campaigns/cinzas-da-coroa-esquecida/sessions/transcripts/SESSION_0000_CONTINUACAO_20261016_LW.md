@@ -31,3 +31,5 @@ Bram volta a encarar Eron.
 — **Não sei onde Tomas está. Não sei quem recebeu a carga. E não sei como Selk conhece seu nome.** Essa é a verdade que tenho para lhe dar. Se quer respostas que eu não possuo, terá de perguntar ao próprio Selk.
 
 Lio permanece imóvel, respirando rapidamente. Bram mantém as mãos à vista, sem avançar ou procurar a faca. Os dois continuam obedecendo, embora o medo já tenha substituído qualquer possibilidade de uma conversa cordial.
+
+Nenhum novo teste é necessário neste momento: a Intimidação 20 anterior continua produzindo consequências nesta mesma confrontação. Isso não garante que Bram saiba mais do que declarou, nem que todas as suas afirmações sejam verdadeiras.
