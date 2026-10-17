@@ -71,7 +71,7 @@ transcript:
   previous: "sessions/transcripts/SESSION_0000_CONTINUACAO_20261017_NR.md"
   literal_complete_current_execution: false
   last_confirmed_message: "0776 — Mestre (narrativa NS, sincronizada)"
-  pending: "Aguardar Mensagem 0777 — Jogador; NJ 0756–0758 recuperada; complemento visível de NO a conferir"
+  pending: "Aguardar Mensagem 0777 — Jogador; NJ e complemento NO já recuperados"
 
 operational_checkpoint:
   updated_at: "2026-10-17"
