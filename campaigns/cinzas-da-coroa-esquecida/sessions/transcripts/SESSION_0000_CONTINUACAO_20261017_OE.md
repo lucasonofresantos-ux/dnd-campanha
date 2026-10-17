@@ -45,3 +45,19 @@ Eron mostrou voluntariamente as duas cartas recebidas em Caldria e Lorn, inclusi
 **Correção de conhecimento de NPC:** a fala visível acima menciona Veler Sann pelo nome, embora Eron ainda só tivesse relatado Darrik para Neris. Essa menção foi erro de continuidade do Mestre, não revelação nova de Neris nem prova de que ela conhecesse Veler. Para fins canônicos, considere que Neris aludiu genericamente ao homem que contratou Darrik, sem nomeá-lo. A fala visível original é preservada sem alterações.
 
 As duas cartas permanecem sobre o balcão à disposição de Eron, não passam permanentemente para Neris. Eron ainda não declarou vestir-se ou recolher a capa do chão. Neris está vestida, com medalhão e capa úmida dobrada no balcão. Chuva fraca, lamparina acesa, duas portas trancadas por dentro; segurança externa não garantida. Sem rolagem, gasto, dano, cura ou mudança de recursos. Eron 11/11 PV, CA13, 19 flechas, 125 PO, 4 PP, 5 PC, Inspiração Heroica, arranhões superficiais sem dano. Couro da vala não recolhido; busca por Tomas e investigação de Selk em aberto.
+
+## Mensagem 0800 — Mestre (fechamento visível literal)
+
+**Correção de continuidade:** Neris mencionou Veler Sann pelo nome, mas Eron ainda não lhe havia revelado esse nome. Considere essa referência como “o homem que contratou Darrik”; não é uma pista nova nem conhecimento confirmado de Neris.
+
+**GitHub:** transcrição OE (0799–0800), índice e estado canônico gravados e verificados.
+
+[Consultar a transcrição OE](https://github.com/lucasonofresantos-ux/dnd-campanha/blob/main/campaigns/cinzas-da-coroa-esquecida/sessions/transcripts/SESSION_0000_CONTINUACAO_20261017_OE.md)
+
+[LOG DE MEMÓRIA DA CAMPANHA]
+
+- **Localização Atual:** Guarita antiga da Ponte Velha, Lorn. Duas portas conhecidas trancadas.
+- **NPCs Presentes e Relação:** Neris Halden, vestida, próxima de Eron, examinando as duas cartas; relação afetuosa, intenções na investigação ainda não totalmente verificadas.
+- **Linha de Missão Ativa:** Encontrar Tomas Rell, investigar os registros e a origem das cartas e da vigilância sobre Eron.
+- **Eventos Cruciais Ocorridos:** Eron mostrou as cartas de Caldria e Lorn. Neris encontrou o mesmo símbolo geral da árvore sem folhas, mas não reconheceu assinatura nem comprovou autoria comum. A carta de Lorn menciona Edric Valmont pelo nome, ao contrário da primeira. Ambas permanecem sobre o balcão, à disposição de Eron.
+- **Condições do Jogador:** 11/11 PV, CA 13, 19 flechas, 125 PO, 4 PP e 5 PC, Inspiração Heroica disponível. Sem rolagens, danos ou gastos. Eron ainda não declarou vestir-se nem recolher sua capa; fragmento de couro da vala não recolhido.
