@@ -639,3 +639,9 @@ checkpoint_20261017_TG:
   last_message: '1065 Mestre'
   location: 'Sala do armazem da Casa da Balanca, Lorn, 18h04'
   situation: 'Eron sacou adaga restante e ordenou sob ameacas que homem de avental levasse guarda inconsciente para dentro, e homem de espada rendido largasse arma e viesse. Homem de avental arrastou o companheiro, homem ferido no joelho aproximou-se desarmado com adaga de Eron ainda cravada. Interrogador ferido junto a mesa desafia Eron verbalmente. Iven mantém disfarce e maos visiveis. Neris vigia entrada. Sem novas rolagens ou dano.'
+
+checkpoint_20261017_TH:
+  transcript: 'sessions/transcripts/SESSION_0000_CONTINUACAO_20261017_TH.md'
+  last_message: '1067 Mestre'
+  location: 'Interior do armazem da Casa da Balanca, Lorn, apos 18h04'
+  situation: 'Eron ameacou interrogador de luvas, perguntou se existia mais alguem. Interrogador afirmou haver trabalhadores e nao saber se restavam outros no edificio. Homem avental rendido revelou que velho Belric entrou antes da reuniao no deposito dos fundos e nao foi visto saindo. Porta interna oculta leva ao deposito e escada dos fundos. Neris alerta que Belric pode ser so trabalhador. Presenca de Belric e veracidade ainda nao confirmadas. Sem novos ataques, testes ou gastos.'
