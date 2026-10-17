@@ -1306,3 +1306,30 @@ current_scene_lx_20261016:
   combat: false
   new_expenses: 0
   awaiting_player_action: true
+
+current_scene_ly_20261016:
+  campaign_id: cinzas-da-coroa-esquecida
+  session: 0
+  latest_transcript: sessions/transcripts/SESSION_0000_CONTINUACAO_20261016_LY.md
+  last_message: '0683 — Mestre'
+  location: 'Porta posterior da guarita antiga, Ponte Velha, Lorn; Bram e Lio alguns metros fora e voltados a Eron'
+  time: 'Manhã'
+  eron: 'Pediu dividir igualmente as 20 PO e indagou sobre 18h como momento de encontro com Selk'
+  bram: 'Concordou em dividir 20 PO igualmente, 10 para cada; explicou 18h talvez tarde demais e estimou última conferência em torno de 17h, comprometendo-se a chegar antes'
+  lio: 'Confirmou ser usual encerrar registros e saída de despachantes com diminuição do movimento; ainda intimidado'
+  payment_reported: {total_gp: 20, advance_total_gp: 4, advance_each_gp: 2, balance_total_gp: 16, balance_each_gp_if_paid: 8, total_each_gp_if_paid: 10, paid_balance: false}
+  meeting_time: 'Em torno das 17h, chegar antes; mera estimativa de Bram, não hora exata fixada por Selk; 18h possivelmente tarde demais'
+  future_compliance_unverified: true
+  npc_departure: 'Bram e Lio ainda aguardam permissão de Eron, não partiram nesta troca'
+  arrow_warning: 'Flecha cravada no solo junto a Bram, não recuperada'
+  arrows_current: 19
+  hp_current: 11
+  hp_max: 11
+  armor_class: 13
+  money: {gp: 125, sp: 4, cp: 5}
+  heroic_inspiration: true
+  hit_dice_available: '1d8'
+  new_rolls_this_turn: 0
+  combat: false
+  new_expenses: 0
+  awaiting_player_action: true
