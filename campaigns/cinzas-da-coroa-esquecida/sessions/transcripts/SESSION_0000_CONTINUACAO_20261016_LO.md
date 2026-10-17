@@ -35,3 +35,11 @@ Ele estreita os olhos.
 — Agora me explique uma coisa: por que alguém entraria escondido numa guarita abandonada e ofereceria ajuda a dois desconhecidos?
 
 **Nenhuma arma foi desembainhada.** Os homens estão alertas, a aproximadamente quatro metros. A fala de Eron revelou sua presença e a direção aproximada de onde está, mas ele permanece fisicamente protegido pelos caixotes.
+
+**[LOG DE MEMÓRIA DA CAMPANHA]**
+
+- **Localização Atual:** Interior da antiga guarita de pedágio, junto aos caixotes, aproximadamente 4 m dos dois homens.
+- **NPCs Presentes e Relação:** Homem robusto barbudo com casaco de couro, desconfiado e mão perto da faca; homem magro de manto escuro, assustado e desconfiado. Não identificados; nenhum sacou arma.
+- **Linha de Missão Ativa:** Investigar Tomas Rell, o cilindro de mapas e a origem do bilhete.
+- **Eventos Cruciais Ocorridos:** Eron falou de trás dos caixotes, ofereceu ajuda e perguntou o que procuravam. Os homens passaram a conhecer sua presença e direção aproximada. O barbudo alegou procurar registro de passagem de cargas anteriormente guardado na guarita, desaparecido. Eles questionaram identidade/motivos de Eron. Nenhuma rolagem nem combate.
+- **Condições do Jogador:** 11/11 PV, CA 13, 20 flechas; 125 PO, 4 PP e 5 PC. Inspiração Heroica e 1d8 disponíveis. Cobertura dos caixotes mantida, mas já não oculto quanto à presença; sem gastos ou danos.
