@@ -560,3 +560,10 @@ checkpoint_20261017_SO:
   roll: 'Furtividade 20 natural +6=26, informada pelo jogador'
   situation: 'Eron alcançou corredor sem ser notado, Neris oculta junto a pilastra. Visao porta de cargas e fresta para interior. Vigia na janela nao percebeu Eron. Homem de casaco castanho olhou janela e se afastou. Voz masculina dentro ordenou deixar porta destrancada para visita. Iven ainda nao chegou; dez minutos para 18h.'
   resources_unchanged: true
+
+checkpoint_20261017_SP:
+  transcript: 'sessions/transcripts/SESSION_0000_CONTINUACAO_20261017_SP.md'
+  last_message: '1031 Mestre'
+  location: 'Corredor coberto, fundos Casa da Balanca, Lorn, 17h50'
+  situation: 'Jogador solicita rolador para Percepcao +6, para observar pessoas, vigias, observadores, perseguidores e conversas. Rolador virtual mostrado, nenhuma rolagem realizada; aguarda jogador. Neris oculta proxima, Iven ainda nao chegou.'
+  resources_unchanged: true
