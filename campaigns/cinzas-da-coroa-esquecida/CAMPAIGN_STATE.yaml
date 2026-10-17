@@ -415,3 +415,12 @@ checkpoint_20261017_RK:
   npcs: 'Neris acompanha Eron; Iven afastou-se para compromisso das 18h'
   situation: 'Eron indicou Bran e o contratante de Bran no compromisso das 16h30, Percepção 17+6=23 não identificou perseguidor inequívoco. Pretende esconder-se para vigiar conversa; Furtividade 1d20+5 ainda aguardada.'
   resources_unchanged: true
+
+checkpoint_20261017_RL:
+  transcript: 'sessions/transcripts/SESSION_0000_CONTINUACAO_20261017_RL.md'
+  last_message: '0971 Mestre'
+  location: 'Esconderijo nas proximidades do ponto do encontro de 16h30, Lorn, endereço não recuperado'
+  time: '16h15 ficcional'
+  roll: 'Furtividade de Eron, 1d20 [19]+5=24, informado pelo jogador'
+  situation: 'Eron escondido observando a área; Neris acompanha, mas teste de Eron não garante furtividade dela. Bran e interlocutor ainda não chegaram. Nome Veler Sann apareceu em contexto anterior como contratante de vigilância, sem confirmação que é o mesmo do encontro.'
+  resources_unchanged: true
