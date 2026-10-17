@@ -11,3 +11,7 @@ Me dê o horário que vai se encontrar com o Selk na balança, e eu espero que v
 Vou conferir a última cena e registrar a fala de Eron. Bram já disse que Selk esperaria a entrega antes do anoitecer; vou pedir que ele esclareça se havia uma hora marcada, sem transformar essa informação em algo que ele não sabe.
 
 ## Mensagem 0680 — Mestre (narração visível)
+
+Bram permanece com as mãos erguidas. Ao ouvir o nome de Zariel, lança um olhar rápido para Lio, que se benze discretamente. O transportador respira fundo antes de responder.
+
+— **Selk não marcou uma hora exata, River.** Disse que estaria na balança coberta durante a última conferência de cargas, **no fim da tarde, antes do anoitecer**. É quando os despachantes acertam os fretes do dia. Não posso lhe dar uma hora de sino que ele não me deu.
