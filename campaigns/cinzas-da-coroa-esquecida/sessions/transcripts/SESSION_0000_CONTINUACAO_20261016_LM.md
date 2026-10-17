@@ -45,3 +45,7 @@ O som de madeira raspando contra pedra interrompe a conversa.
 — Então procure a outra folha. Não vou sair daqui de mãos vazias.
 
 Há alguns passos no interior, seguidos pelo ruído de algo pequeno sendo colocado sobre uma superfície rígida.
+
+**Eron consegue distinguir duas pessoas conversando, mas não vê seus rostos.** Pelo conteúdo, parecem procurar algum registro ou documento. Ainda não há como determinar se são fiscais, guardas ou outras pessoas, nem se aquilo tem relação direta com Tomas Rell.
+
+Nenhum movimento indica que tenham percebido sua aproximação atual. A porta continua fechada, e Eron permanece oculto junto ao batente, ouvindo.
