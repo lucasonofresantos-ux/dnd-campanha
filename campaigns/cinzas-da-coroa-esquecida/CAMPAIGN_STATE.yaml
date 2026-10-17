@@ -613,3 +613,11 @@ checkpoint_20261017_TA:
   last_message: '1053 Mestre'
   location: 'Corredor coberto na Casa da Balanca, Lorn, 18h04, inicio rodada 3'
   situation: 'Eron aguardou acao; na rodada 2 homem avental quase fechou porta de cargas, guarda ferido joelho continua bloqueando Iven. Homem armado de fora localizou Eron no corredor e Neris interpôs-se. Interrogador reconheceu nome River e tentou levantar com pe preso. Iven continua fingindo rendição, nao agiu contra o grupo. Terceira rodada com iniciativa 22, turno de Eron disponivel; arco em maos, espada ainda nao usada; 11 PV, 16 flechas.'
+
+checkpoint_20261017_TC:
+  transcript: 'sessions/transcripts/SESSION_0000_CONTINUACAO_20261017_TC.md'
+  last_message: '1057 Mestre'
+  location: 'Entrada lateral Casa da Balanca, Lorn, 18h04, terceira rodada'
+  situation: 'Eron se deslocou e golpeou com pomo de espada curta guarda com joelho ferido, ataque Python 15+4=19, dano 1d6[3]+2=5. Guarda inconsciente vivo; Iven ainda dentro do armazem, entrada lateral livre. Neris enfrenta homem armado do lado de fora. Interrogador ferido reconheceu Eron. Terceira rodada acao de Eron usada.'
+  arrows: 16
+  eron_hp: 11
