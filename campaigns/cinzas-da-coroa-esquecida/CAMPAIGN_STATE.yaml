@@ -3,10 +3,10 @@ campaign_number: 2
 title: As Cinzas da Coroa Esquecida
 status: active
 execution: "reinicio_autorizado_2026-10-12"
-session: 1
+session: 0
 ruleset: "D&D 5E 2024 / SRD 5.2.1 (Guarda e Tenaz: PHB 2024)"
-current_location: "Acesso ocidental de Lorn, Caldria"
-current_time: "Outono, fim da tarde, chuva fria"
+current_location: "Guarita antiga de pedágio perto da Ponte Velha, Lorn, Caldria; porta posterior trancada"
+current_time: "Outono, manhã; hora exata não fixada; tempo úmido"
 character:
   name: Eron River
   source: "character/ERON_RIVER_2024_FICHA_ATIVA.md"
@@ -24,43 +24,54 @@ character:
   passive_perception: 16
   hit_dice: "1d8"
   hit_dice_available: 1
-  heroic_inspiration: false
-  arrows: 20
-  money_confirmed_gp: 8
-  money_background_pending: true
+  heroic_inspiration: true
+  arrows: 18
+  money_confirmed_gp: 125
+  money_current: {gp: 125, sp: 4, cp: 5}
+  money_background_pending: false
   weapon_masteries: [shortsword_vex, dagger_nick]
   conditions: []
   spell_slots: []
   cunning_action: false
-  languages_pending: 3
+  languages_pending: 0
   guard_gaming_set_variant_pending: true
-  guard_starting_equipment_option_pending: true
-  exile: "Proibido retornar a Valdrén; motivos exatos não estabelecidos"
+  guard_starting_equipment_option_pending: false
+  exile: "Proibido retornar a Valdrén após condenação por assassinato de Edric Valmont; Eron afirma ter sido incriminado"
 narrative:
-  scene: "Primeira cena, na chegada ao acesso ocidental de Lorn"
+  scene: "Guarita antiga de Lorn: Eron e Neris examinaram o espaço sob uma tábua do piso e localizaram fragmento de documento"
   prior_events_imported: false
-  character_actions_so_far: []
+  character_actions_so_far:
+    - 'Consultar histórico completo das ações em sessions/INDEX.md e transcripts/'
   accepted_quests: []
-  discovered_plot_items: []
+  discovered_plot_items:
+    - 'Carta anônima com árvore sem folhas, aberta e em posse de Eron'
+    - 'Dois fragmentos encaixáveis de escrituração de pedágio: T. Rell, 01 estojo lacrado, conf. arq.; em mãos de Eron'
+    - 'Medalhão árvore sem folhas visto em posse de Neris, não adquirido por Eron'
   allies_present: []
   npcs_directly_in_scene:
-    - "Funcionário do pedágio, desconhecido"
-    - "Dois guardas da passagem, desconhecidos"
-    - "Carroceiro ruivo, desconhecido"
-    - "Menino junto à carroça, desconhecido"
-  rolls_this_execution: []
-  consumed_resources: []
-  pending_action: "Primeira ação livre de Eron River"
-  clocks_advanced: false
+    - "Neris Halden (nome alegado; afirmações ainda não comprovadas)"
+  rolls_this_execution:
+    - 'Registros públicos e fontes dos dados em dice/ROLL_LOG.csv; últimas rolagens 111 e 112, MJ, não repetidas em MK'
+  consumed_resources:
+    - 'Saldo de flechas atual 18; gastos anteriores registrados no índice e nos arquivos financeiros'
+  pending_action: "Eron e Neris junto à tábua levantada, fragmentos nas mãos de Eron; próximo turno do jogador sem ação automática"
+  clocks_advanced: null
 isolation:
   previous_camp_global_untouched: true
   original_session_0000_retained: true
   pre_execution_state_archive: "archive/CAMPAIGN_STATE_PRE_EXECUCAO_2026-10-12.yaml"
   dm_plan_retained: "dm/WORLD_BIBLE.md"
 transcript:
-  current: "sessions/transcripts/SESSION_0001_FULL.md"
+  current: "sessions/transcripts/SESSION_0000_CONTINUACAO_20261016_MK.md"
   index: "sessions/INDEX.md"
-  previous: "sessions/transcripts/SESSION_0000_FULL.md"
-  literal_complete_current_execution: true
-  last_confirmed_message: "0002 — Mestre"
-  pending: "Aguardar Mensagem 0003 — Jogador"
+  previous: "sessions/transcripts/SESSION_0000_CONTINUACAO_20261016_MJ.md"
+  literal_complete_current_execution: false
+  last_confirmed_message: "0707 — Mestre"
+  pending: "Aguardar Mensagem 0708 — Jogador"
+
+operational_checkpoint:
+  updated_at: "2026-10-16"
+  state_delta: "sessions/STATE_DELTA_20261016_MK.yaml"
+  source_transcript: "sessions/transcripts/SESSION_0000_CONTINUACAO_20261016_MK.md"
+  source_index: "sessions/INDEX.md"
+  note: "Este é o estado jogável atual; a cena inicial de 2026-10-12 está retida no histórico Git e nos arquivos de arquivo. Completude literal de 01.08 não certificada sem fonte original."
