@@ -658,3 +658,8 @@ checkpoint_20261017_TL:
   situation: 'Eron entregou 1 PO para Belric como pagamento por silencio. Belric aceitou, concordou em permanecer no banco e dizer que estava impedido por medo, mas nao deseja ser amarrado. Relatou entregas noturnas duvidosas e um escritorio superior acessivel com chave do homem de luvas. Belric nao viu outras pessoas no deposito e nao sabe quem fugiu. Porta posterior ainda destrancada e escritorio nao vasculhado.'
   gold_spent: 1
   eron_gold_estimated_from_prior: 123
+
+checkpoint_20261017_TN:
+  transcript: 'sessions/transcripts/SESSION_0000_CONTINUACAO_20261017_TN.md'
+  location: 'Sala principal da Casa da Balanca, Lorn, aproximadamente 18h12'
+  situation: 'Eron trancou a porta posterior e verificou os demais acessos exteriores conhecidos. Janela basculante alta demasiado estreita para adulto. Porta do escritorio superior permanece fechada, nao vasculhada; possiveis passagens secretas nao descartadas. Belric permaneceu no deposito. Eron voltou a Neris e prisioneiros; Iven amarrado para manter disfarce, dois rendidos presos, terceiro inconsciente. Interrogador de luvas ainda com pe preso e aparencia palida, sangrando, necessita atencao. Nenhum novo dano, recurso ou rolagem.'
