@@ -529,3 +529,11 @@ checkpoint_20261017_SI:
   location: 'Passagem lateral Rua dos Mercadores, Lorn, 17h01'
   situation: 'Sann e Eron despediram-se, combinaram cerveja por Sann e comida por Eron sem data; Sann entrou e trancou porta. Neris oculta. Percepcao 1d20+6 aguardando dado do jogador para localizar observadores/ouvintes; nenhuma rolagem efetuada.'
   resources_unchanged: true
+
+checkpoint_20261017_SJ:
+  transcript: 'sessions/transcripts/SESSION_0000_CONTINUACAO_20261017_SJ.md'
+  last_message: '1019 Mestre'
+  location: 'Passagem lateral Rua dos Mercadores, Lorn, 17h02'
+  roll: 'Percepcao 20 natural +6=26, jogador usou rolador virtual'
+  situation: 'Eron viu observador desconhecido com lente em janela segundo andar de armazem na margem oposta do canal, depois recuou. Marcas recentes de botas terminam atras de pilha de madeira junto a ponte; observador passado ou presente desconhecido. Nao se confirma escuta da conversa. Neris oculta, nao percebeu janela.'
+  resources_unchanged: true
