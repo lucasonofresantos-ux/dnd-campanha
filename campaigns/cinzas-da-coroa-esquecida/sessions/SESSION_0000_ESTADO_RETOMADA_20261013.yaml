@@ -1165,3 +1165,26 @@ current_scene_lp_20261016:
   new_rolls: 0
   new_expenses: 0
   awaiting_player_action: true
+
+current_scene_lq_20261016:
+  campaign_id: cinzas-da-coroa-esquecida
+  session: 0
+  transcript: sessions/transcripts/SESSION_0000_CONTINUACAO_20261016_LQ.md
+  last_message: '0666 — Mestre'
+  location: 'Interior da antiga guarita, Eron coberto por caixotes ~4m de dois homens'
+  eron: 'Ameaçou matar os homens e fingir à patrulha que eram assaltantes; exige cooperação; pediu rolador para o teste'
+  npc_robust: 'Barbudo tenso, mantém mão perto da faca embainhada, sem atacar'
+  npc_thin: 'Magro pálido e com olhar à porta, sem atacar'
+  pending_test: {skill: 'Carisma (Intimidação)', expression: '1d20+1', bonus: 1, dice_result: null, visual_roller_offered: true, result_sent: false}
+  combat: false
+  initiative_started: false
+  new_rolls: 0
+  new_expenses: 0
+  hp_current: 11
+  hp_max: 11
+  armor_class: 13
+  arrows: 20
+  money: {gp: 125, sp: 4, cp: 5}
+  heroic_inspiration: true
+  hit_dice_available: '1d8'
+  awaiting_player_action: true
