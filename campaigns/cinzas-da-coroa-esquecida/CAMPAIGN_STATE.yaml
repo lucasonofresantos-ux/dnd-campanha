@@ -685,3 +685,8 @@ checkpoint_20261017_TV:
   transcript: 'sessions/transcripts/SESSION_0000_CONTINUACAO_20261017_TV.md'
   location: 'Sala principal Casa da Balanca, Lorn, aproximadamente 18h19'
   situation: 'Eron sugeriu cirurgiao ou curandeiro a Valen e perguntou a Iven Marlow se poderia buscar ajuda caso libertado. Iven disse conhecer Maela perto do Mercado dos Graos, que atende feridos, e aceita buscar ajuda se Eron esclarecer que nao armara emboscada e que prisioneiros poderao sair. Iven continua amarrado, nao foi solto nem saiu. Neris propôs comprimir ferimento sem remover flecha. Portas externas ainda fechadas.'
+
+checkpoint_20261017_TX:
+  transcript: 'sessions/transcripts/SESSION_0000_CONTINUACAO_20261017_TX.md'
+  location: 'Deposito superior Casa da Balanca, Lorn, aproximadamente 18h20'
+  situation: 'Eron afirmou em voz alta que Belric estava amarrado, para sustentar a historia, e correu até deposito. Belric encontrado sentado, livre de amarras e sem ferimentos, como combinado; porta posterior continua trancada. Belric assustado perguntou se algo ocorreu. Neris prossegue primeiros socorros de Valen, Iven ainda perto da entrada antes de partir buscar Maela. Outros presos permanecem amarrados.'
