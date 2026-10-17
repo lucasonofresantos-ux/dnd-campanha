@@ -31,3 +31,11 @@ Eron inicia a revista. Bram permite que retire a faca do cinto para examiná-la 
 - **Lio:** estojo de penas, pequeno tinteiro, caderno de anotações comerciais, bolsa de moedas e alguns lacres de cera sem uso.
 
 **A folha procurada não está com nenhum dos dois.** Também não há cilindro de mapas entre os objetos examinados. Eron devolve os pertences; nenhuma moeda ou equipamento muda de proprietário.
+
+— Quanto ao pagamento — responde Bram —, **vinte peças de ouro pelos dois**. Quatro adiantadas ontem, duas para cada um, e dezesseis quando entregássemos a folha. Uma quantia alta por um pedaço de papel, eu sei. Foi por isso que aceitei.
+
+Lio confirma com um aceno.
+
+Quando Eron ordena que deixem a guarita, o copista se dirige imediatamente à porta dos fundos.
+
+— Não encontramos o registro. É isso que direi.
