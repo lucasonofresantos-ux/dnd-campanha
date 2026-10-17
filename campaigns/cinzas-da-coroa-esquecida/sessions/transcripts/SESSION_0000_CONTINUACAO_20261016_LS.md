@@ -37,3 +37,6 @@ Um vento atravessa a porta entreaberta, fazendo a chama da lamparina vacilar. Os
 **[LOG DE MEMÓRIA DA CAMPANHA]**
 - **Localização Atual:** Guarita antiga junto à Ponte Velha, atrás de caixotes, aproximadamente 4 m de Bram e Lio.
 - **NPCs Presentes e Relação:** Bram Keld e Lio Marr continuam cooperando sob pressão, sem tentar fugir ou sacar armas.
+- **Linha de Missão Ativa:** Tomas Rell, cilindro de mapas, folha de registro e Hadran Selk.
+- **Eventos Cruciais Ocorridos:** Segundo Lio, encontro com Selk marcado hoje antes do anoitecer junto à balança coberta do pátio dos armazéns. Ele e Bram não viram Tomas; Selk teria pedido a folha para descobrir o destinatário de uma entrega registrada há quatro dias. Informações não verificadas.
+- **Condições do Jogador:** 11/11 PV, CA 13, 20 flechas; 125 PO, 4 PP e 5 PC. Inspiração Heroica disponível. Nenhum teste novo, dano ou gasto.
