@@ -599,3 +599,11 @@ checkpoint_20261017_SX:
   arrows: 17
   eron_hp: 11
   eron_ac: 13
+
+checkpoint_20261017_SY:
+  transcript: 'sessions/transcripts/SESSION_0000_CONTINUACAO_20261017_SY.md'
+  last_message: '1049 Mestre'
+  location: 'Corredor coberto, Casa da Balanca, Lorn, 18h04, segunda rodada'
+  situation: 'Eron disparou contra joelho do guarda bloqueando Iven, 16+4=20, acerto sob cobertura parcial. Dano 1d6[3]+2=5. Guarda ferido, recuou e abriu parcialmente passagem, sem condicao automatica. Iven age a seguir. Homem armado fora do armazem localiza melhor direcao dos disparos. Eron usou acao, permanece 16 flechas.'
+  arrows: 16
+  eron_hp: 11
