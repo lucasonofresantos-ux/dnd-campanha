@@ -1253,3 +1253,29 @@ current_scene_lv_20261016:
   combat: false
   new_expenses: 0
   awaiting_player_action: true
+
+current_scene_lw_20261016:
+  campaign_id: cinzas-da-coroa-esquecida
+  session: 0
+  latest_transcript: sessions/transcripts/SESSION_0000_CONTINUACAO_20261016_LW.md
+  last_message: '0678 — Mestre'
+  location: 'Limiar da porta posterior da guarita antiga na Ponte Velha, Lorn; Bram e Lio alguns metros do lado de fora'
+  time: 'Manhã'
+  eron: 'Arco em mãos; ordenou que ambos se virassem e ameaçou ferir ombros, cotovelos e joelhos de Bram para exigir mais informações'
+  bram: 'Virou-se com mãos levantadas; receoso, alegou que Selk ordenou retorno ao pátio de armazéns mesmo sem a folha, para informar sobre possíveis visitantes, especialmente River; afirma não saber paradeiro de Tomas nem origem da informação sobre River'
+  lio: 'Virou-se com mãos levantadas, amedrontado e indignado ao ouvir nova informação sobre a incumbência de Bram'
+  npc_claims_unverified: 'Bram atribui nova instrução de relatório a Hadran Selk; não há comprovação independente'
+  intimidation: {previous_roll: 107, natural: 19, modifier: 1, total: 20, still_applicable_to_same_encounter: true}
+  new_rolls_this_turn: 0
+  arrow_warning: 'Flecha de advertência no solo, não recolhida'
+  arrows_current: 19
+  hp_current: 11
+  hp_max: 11
+  armor_class: 13
+  money: {gp: 125, sp: 4, cp: 5}
+  heroic_inspiration: true
+  hit_dice_available: '1d8'
+  combat: false
+  initiative_started: false
+  new_expenses: 0
+  awaiting_player_action: true
