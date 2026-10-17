@@ -26,3 +26,7 @@ Quando Eron menciona o medalhão, ela hesita, mas finalmente afasta a capa e erg
 Ela baixa o medalhão, mas o deixa visível.
 
 — Meu nome é **Neris Halden**. Quanto aos papéis, não, não estão comigo. Pode acreditar ou não. Se estivessem, eu não teria passado a manhã observando quem vinha procurá-los.
+
+Neris apoia os antebraços sobre a mesa, sem esconder as mãos.
+
+— **Conheço Tomas Rell.** Não muito bem, mas o suficiente para saber que ele não era simplesmente um transportador de mercadorias. Algumas de suas entregas envolviam documentos, e ele sabia que certos nomes não deveriam ser pronunciados em público.
