@@ -717,3 +717,7 @@ LR 0667–0668: rolagem 107 Intimidacao 20; Bram e Lio falam de Selk.
 ### Sincronização posterior — 2026-10-17
 Registros que estavam indicados acima como pendentes tiveram a íntegra da conversa acessível recuperada em arquivos dedicados, sem apagar as notas históricas de bloqueio: [ML 0708–0709](transcripts/SESSION_0000_CONTINUACAO_20261016_ML.md), [MM 0710–0711](transcripts/SESSION_0000_CONTINUACAO_20261016_MM.md) e [MN 0712–0713](transcripts/SESSION_0000_CONTINUACAO_20261017_MN.md). O resultado 14 inicialmente publicado em MM não teve execução Python verificável e foi corrigido pela rolagem válida 7 no registro nº 113; texto histórico mantido. Também recuperada [MQ 0718–0719](transcripts/SESSION_0000_CONTINUACAO_20261017_MQ.md).
 A conversa original denominada 01.08 ainda não está disponível para confronto integral externo aos arquivos do GitHub; não certificar correspondência palavra por palavra com o chat anterior.
+
+[MS 0722–0723](transcripts/SESSION_0000_CONTINUACAO_20261017_MS.md): retorno à guarita e flerte; Persuasão Roll20 [20]+1=21; Neris receptiva, sem controle da vontade alheia.
+[MT 0724–0725](transcripts/SESSION_0000_CONTINUACAO_20261017_MT.md): Eron elogia Neris; ela abre porta, entra, ajusta lamparina e retribui cordialidade.
+[MU 0726–0727](transcripts/SESSION_0000_CONTINUACAO_20261017_MU.md): Eron observa ausência de aliança; Neris afirma não ser casada e pergunta se interesse dele é pessoal ou profissional. Sem dados novos. MS, MT e MU recuperados após bloqueios anteriores.
