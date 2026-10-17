@@ -69,14 +69,14 @@ transcript:
   previous: "sessions/transcripts/SESSION_0000_CONTINUACAO_20261017_MQ.md"
   literal_complete_current_execution: false
   last_confirmed_message: "0721 — Mestre (narrativa MR, sincronizada)"
-  pending: "Aguardar Mensagem 0722 — Jogador; ML/MM/MN transcrição literal pendente"
+  pending: "Aguardar Mensagem 0722 — Jogador; ML/MM/MN/MQ recuperadas no GitHub; comparação integral com conversa 01.08 não certificada"
 
 operational_checkpoint:
   updated_at: "2026-10-17"
   state_delta: "sessions/STATE_DELTA_20261016_MK.yaml"
   source_transcript: "sessions/transcripts/SESSION_0000_CONTINUACAO_20261017_MR.md"
   source_index: "sessions/INDEX.md"
-  note: "Este é o estado jogável atual; a cena inicial de 2026-10-12 está retida no histórico Git e nos arquivos de arquivo. Completude literal de 01.08 não certificada sem fonte original."
+  note: "Este é o estado jogável atual; transcrições ML/MM/MN/MQ recuperadas, sem comprovação independente de completude da conversa 01.08."
 
 roll_correction_20261016:
   expression: '1d20+6'
@@ -84,7 +84,7 @@ roll_correction_20261016:
   total: 7
   log_number: 113
   earlier_published_total_14: 'não auditado, não válido como sorteio'
-  transcript_pending: 'ML/MM/MN; escrita de transcripts bloqueada pela ferramenta'
+  transcript_pending: 'Histórico de bloqueio inicial ML/MM/MN; arquivos recuperados em 2026-10-17 (ver INDEX)'
 
 roll_20261017_MO:
   expression: '1d20+4'
@@ -112,3 +112,8 @@ rolls_20261017_MR:
   unusable_broken_arrow: 1
   fragment_of_leather_collected: false
   no_combat: true
+
+transcript_recovery_20261017:
+  files: ['sessions/transcripts/SESSION_0000_CONTINUACAO_20261016_ML.md', 'sessions/transcripts/SESSION_0000_CONTINUACAO_20261016_MM.md', 'sessions/transcripts/SESSION_0000_CONTINUACAO_20261017_MN.md', 'sessions/transcripts/SESSION_0000_CONTINUACAO_20261017_MQ.md']
+  previous_write_blockage: resolved_for_these_files
+  literal_comparison_with_01_08: not_verified
