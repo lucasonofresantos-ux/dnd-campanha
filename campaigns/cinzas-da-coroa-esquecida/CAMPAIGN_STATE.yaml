@@ -365,3 +365,10 @@ checkpoint_20261017_QW:
   location: 'Beco do Javali de Ferro, Lorn'
   situation: 'Perseguidor passou por Eron sem detecta-lo, parou e virou, agora de costas a cerca de 3 metros, Eron segue oculto; Neris mais adiante.'
   resources_unchanged: true
+
+checkpoint_20261017_QY:
+  transcript: 'sessions/transcripts/SESSION_0000_CONTINUACAO_20261017_QY.md'
+  last_message: '0945 — Mestre'
+  location: 'Beco próximo ao Javali de Ferro, Lorn, 15h30 ficcionais'
+  situation: 'Eron pressiona adaga sem cortar pescoço de homem capa castanha; mandou-o calar e chamou Neris, que compareceu e pediu cautela. Homem imóvel, mãos afastadas, ainda não desarmado nem agarrado; nenhum dano.'
+  resources: '11/11 PV, CA 13, 19 flechas, 124 PO, 1 PP, 5 PC; inspiração heroica disponível'
