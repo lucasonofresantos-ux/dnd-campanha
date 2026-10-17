@@ -25,3 +25,8 @@ Por alguns instantes, ninguém se move. A lamparina crepita sobre o balcão, pro
 **Teste de Carisma (Intimidação): `1d20 +1`.**
 
 A ameaça é séria, mas pode tanto fazê-los cooperar quanto aumentar a resistência deles. O resultado determinará como os dois reagem e o que estarão dispostos a revelar.
+
+**[LOG DE MEMÓRIA DA CAMPANHA]**
+
+- **Localização Atual:** Interior da guarita, atrás dos caixotes, a cerca de quatro metros dos dois homens.
+- **NPCs Presentes e Relação:** Homem barbudo tenso, com faca embainhada; homem magro recuou ao ouvir a ameaça e reagiu ao nome Tomas Rell.
