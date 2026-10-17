@@ -36,3 +36,6 @@ O barbudo não responde imediatamente. Em vez disso, aproxima a lamparina de uma
 
 - **Localização Atual:** Interior da antiga guarita de pedágio, atrás de caixotes, a 4 m dos dois homens.
 - **NPCs Presentes e Relação:** Dois homens não identificados, um robusto e barbudo, outro magro de manto escuro; sem reação perceptível à entrada.
+- **Linha de Missão Ativa:** Investigar Tomas Rell, o cilindro de mapas e a origem do aviso sobre Eron.
+- **Eventos Cruciais Ocorridos:** Porta dos fundos destrancada; Eron entrou e se ocultou atrás de caixotes usando a Furtividade 25 já rolada (sem novo teste). Dois homens vasculham documentos e um compartimento vazio.
+- **Condições do Jogador:** 11/11 PV, CA 13, 20 flechas; 125 PO, 4 PP e 5 PC. Inspiração Heroica e 1d8 disponíveis. Nenhum dano, combate ou gasto.
