@@ -40,7 +40,7 @@ character:
   guard_starting_equipment_option_pending: false
   exile: "Proibido retornar a Valdrén após condenação por assassinato de Edric Valmont; Eron afirma ter sido incriminado"
 narrative:
-  scene: "Eron perguntou se poderia continuar a intimidade com Neris; ela concordou por escolha própria e não interrompeu. Depois de um tempo, Neris repousa na capa sobre o assoalho e pede Eron perto. Chuva enfraquece, portas trancadas por dentro, exterior fora de vista."
+  scene: "Neris confirmou ter gostado do encontro anterior e pediu Eron por perto. Ela repousa sobre a capa na guarita, com chuva fina e portas trancadas por dentro."
   prior_events_imported: false
   character_actions_so_far:
     - 'Consultar histórico completo das ações em sessions/INDEX.md e transcripts/'
@@ -66,17 +66,17 @@ isolation:
   pre_execution_state_archive: "archive/CAMPAIGN_STATE_PRE_EXECUCAO_2026-10-12.yaml"
   dm_plan_retained: "dm/WORLD_BIBLE.md"
 transcript:
-  current: "sessions/transcripts/SESSION_0000_CONTINUACAO_20261017_NS.md"
+  current: "sessions/transcripts/SESSION_0000_CONTINUACAO_20261017_NT.md"
   index: "sessions/INDEX.md"
-  previous: "sessions/transcripts/SESSION_0000_CONTINUACAO_20261017_NR.md"
+  previous: "sessions/transcripts/SESSION_0000_CONTINUACAO_20261017_NS.md"
   literal_complete_current_execution: false
-  last_confirmed_message: "0776 — Mestre (narrativa NS, sincronizada)"
-  pending: "Aguardar Mensagem 0777 — Jogador; NJ e complemento NO já recuperados"
+  last_confirmed_message: "0778 — Mestre (narrativa NT, sincronizada)"
+  pending: "Aguardar Mensagem 0779 — Jogador"
 
 operational_checkpoint:
   updated_at: "2026-10-17"
   state_delta: "sessions/STATE_DELTA_20261016_MK.yaml"
-  source_transcript: "sessions/transcripts/SESSION_0000_CONTINUACAO_20261017_NS.md"
+  source_transcript: "sessions/transcripts/SESSION_0000_CONTINUACAO_20261017_NT.md"
   source_index: "sessions/INDEX.md"
   note: "Este é o estado jogável atual; transcrições ML/MM/MN/MQ recuperadas, sem comprovação independente de completude da conversa 01.08."
 
