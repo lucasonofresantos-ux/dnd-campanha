@@ -23,3 +23,7 @@ Ele respira fundo, olhando brevemente para a flecha cravada entre suas botas.
 Lio olha para Bram, indignado.
 
 — Então ele não nos contratou apenas para buscar o maldito papel?
+
+— Eu não sei o que Selk pretende! — Bram responde, quase gritando, antes de baixar novamente a voz. — Ele me pagou para procurar uma folha e lhe contar se River aparecesse. Pensei que fosse algum cobrador, um rival comercial... Não perguntei mais porque precisava do dinheiro.
+
+Bram volta a encarar Eron.
