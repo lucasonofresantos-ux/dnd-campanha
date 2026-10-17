@@ -190,3 +190,10 @@ checkpoint_20261017_PL:
   previous: 'sessions/transcripts/SESSION_0000_CONTINUACAO_20261017_PK.md'
   last_confirmed_message: '0867 — Mestre (PL)'
   resources: '11/11 PV, CA 13, 19 flechas, 124 PO, 8 PP, 5 PC, inspiração heroica disponível'
+
+checkpoint_20261017_PM:
+  location: 'Escritório Municipal de Arrecadação, próximo à escada para a sala de Odran Vell'
+  last_message: '0869 — Mestre (PM)'
+  pending_action: 'Odran Vell convidou Eron e Neris a entrarem; aguardando Eron'
+  transcript: 'sessions/transcripts/SESSION_0000_CONTINUACAO_20261017_PM.md'
+  resources_unchanged: true
