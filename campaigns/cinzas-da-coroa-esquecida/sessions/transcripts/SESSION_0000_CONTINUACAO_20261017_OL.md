@@ -67,3 +67,4 @@ Eron declarou não gostar de batalhas em vão, fez alusão bem-humorada à intim
 - **NPCs Presentes e Relação:** Neris Halden, afetuosa e pronta para acompanhar Eron; perguntou se ele viu algo suspeito.
 - **Linha de Missão Ativa:** Investigar Tomas Rell e o cilindro de mapas, consultar a guarda de Lorn e acompanhar o possível encontro com Hadran Selk.
 - **Eventos Cruciais Ocorridos:** Eron verificou o exterior pelas aberturas existentes. **Percepção: 1d20 [13] +6 = 19.** Não identificou observadores nas áreas visíveis da estrada, do marco ou da lateral do rio. Fundos, pontos cegos e vegetação densa não foram completamente examinados.
+- **Condições do Jogador:** 11/11 PV, CA 13, 19 flechas, 125 PO, 4 PP e 5 PC; Inspiração Heroica disponível. Equipado e com pertences recolhidos; marcas superficiais sem dano mecânico. Couro escuro da vala não recolhido. Sem gastos, ferimentos ou outras rolagens.
