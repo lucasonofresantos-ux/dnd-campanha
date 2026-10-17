@@ -21,3 +21,5 @@ O copista respira fundo, parecendo aliviado por poder responder sem ser interrom
 — **A entrega seria hoje, antes do anoitecer, no pátio dos armazéns de Lorn.** Selk disse que nos esperaria junto à balança coberta, onde conferem as cargas. Deveríamos entregar a folha diretamente a ele, não a um funcionário.
 
 Lio olha para o compartimento vazio atrás do balcão.
+
+— Quanto a Tomas Rell... nós não sabemos onde ele está. Nunca o vimos. Selk nos disse que Rell desapareceu e que, quatro dias atrás, houve uma entrega registrada nesta guarita. A folha deveria identificar quem recebeu a mercadoria. Não sei se o próprio Tomas a entregou ou se alguém a transportava em seu nome.
