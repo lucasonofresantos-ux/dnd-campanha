@@ -721,3 +721,5 @@ A conversa original denominada 01.08 ainda não está disponível para confronto
 [MS 0722–0723](transcripts/SESSION_0000_CONTINUACAO_20261017_MS.md): retorno à guarita e flerte; Persuasão Roll20 [20]+1=21; Neris receptiva, sem controle da vontade alheia.
 [MT 0724–0725](transcripts/SESSION_0000_CONTINUACAO_20261017_MT.md): Eron elogia Neris; ela abre porta, entra, ajusta lamparina e retribui cordialidade.
 [MU 0726–0727](transcripts/SESSION_0000_CONTINUACAO_20261017_MU.md): Eron observa ausência de aliança; Neris afirma não ser casada e pergunta se interesse dele é pessoal ou profissional. Sem dados novos. MS, MT e MU recuperados após bloqueios anteriores.
+
+[MY — 0734–0735](transcripts/SESSION_0000_CONTINUACAO_20261017_MY.md) — Eron toma a mão de Neris e sugere que a guarita sob chuva poderia ser um lugar romântico e até render um beijo. Neris, por iniciativa própria, entrelaça os dedos dele e o beija brevemente nos lábios. Ambos permanecem no interior junto ao balcão; Neris aguarda a reação, sem declaração adicional do jogador. Sem nova rolagem; 11/11 PV, CA 13, 19 flechas, 125 PO 4 PP 5 PC. Transcrição MX anterior continua pendente de recuperação no GitHub.
