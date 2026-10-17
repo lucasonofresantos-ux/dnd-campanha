@@ -35,3 +35,5 @@ Um vento atravessa a porta entreaberta, fazendo a chama da lamparina vacilar. Os
 — Há outra coisa — diz Lio, hesitante. — Quando nos contratou, Selk parecia mais preocupado em descobrir **quem recebeu o volume** do que em encontrar Tomas. É uma impressão minha, mas lembro bem das perguntas que ele fez.
 
 **[LOG DE MEMÓRIA DA CAMPANHA]**
+- **Localização Atual:** Guarita antiga junto à Ponte Velha, atrás de caixotes, aproximadamente 4 m de Bram e Lio.
+- **NPCs Presentes e Relação:** Bram Keld e Lio Marr continuam cooperando sob pressão, sem tentar fugir ou sacar armas.
