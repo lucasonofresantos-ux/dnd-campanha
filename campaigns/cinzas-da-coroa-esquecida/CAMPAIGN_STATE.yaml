@@ -537,3 +537,11 @@ checkpoint_20261017_SJ:
   roll: 'Percepcao 20 natural +6=26, jogador usou rolador virtual'
   situation: 'Eron viu observador desconhecido com lente em janela segundo andar de armazem na margem oposta do canal, depois recuou. Marcas recentes de botas terminam atras de pilha de madeira junto a ponte; observador passado ou presente desconhecido. Nao se confirma escuta da conversa. Neris oculta, nao percebeu janela.'
   resources_unchanged: true
+
+checkpoint_20261017_SK:
+  transcript: 'sessions/transcripts/SESSION_0000_CONTINUACAO_20261017_SK.md'
+  last_message: '1021 Mestre'
+  location: 'Oculto próximo ao armazém dos fundos da Casa da Balança, Lorn, 17h24'
+  roll: 'Furtividade 20 natural +6=26, jogador; ficha ativa +6 de especializacao'
+  situation: 'Eron e Neris se deslocaram ao local do encontro de Iven 18h. Eron oculto tem visão da porta de carga e rua de servico; janela superior entreaberta, trabalhador de avental, trilha de rodas e passagem lateral com fundo desconhecido. Neris perto mas nao abarcada pelo mesmo teste. Percepcao 26 anterior nao se aplica automaticamente a nova cena. Contratante ainda nao identificado.'
+  resources_unchanged: true
