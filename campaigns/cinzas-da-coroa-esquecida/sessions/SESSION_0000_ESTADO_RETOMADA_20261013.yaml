@@ -1333,3 +1333,29 @@ current_scene_ly_20261016:
   combat: false
   new_expenses: 0
   awaiting_player_action: true
+
+current_scene_md_20261016:
+  campaign_id: cinzas-da-coroa-esquecida
+  session: 0
+  latest_transcript: sessions/transcripts/SESSION_0000_CONTINUACAO_20261016_MD.md
+  last_message: '0693 — Mestre'
+  location: 'Porta posterior da antiga guarita de pedágio, Ponte Velha, Lorn'
+  time: 'Manhã'
+  eron: 'Arco em mãos, anunciou que disparara contra o marco como advertência e exigiu que observadora se aproximasse'
+  observer: 'Mulher humana de 30 a 40 anos aproximadamente, cabelos castanhos presos, olhos claros, capa verde-acinzentada salpicada de lama; a cerca de 8 metros, duas mãos visíveis, nenhuma arma empunhada'
+  observer_item: 'Peça metálica circular presa perto do peito; marcas ainda ilegíveis; não presumir identidade, filiação ou intenção'
+  bram_lio: 'Seguem se afastando pela estrada após serem liberados'
+  attack_previous: {expression: '2d20kl1+4', rolls: [15, 16], kept: 15, modifier: 4, total: 19, source: 'jogador_rolador_visual_local', roll_log_order: 110}
+  perception_previous: {natural: 20, modifier: 6, total: 26, source: 'jogador_informou_origem_nao_especificada', roll_log_order: 109}
+  arrow_warning_1: 'Flecha no solo à frente de Bram, ainda não recuperada'
+  arrow_warning_2: 'Flecha atingiu marco de pedra a ~50m e haste se partiu'
+  arrows_current: 18
+  hp_current: 11
+  hp_max: 11
+  armor_class: 13
+  money: {gp: 125, sp: 4, cp: 5}
+  heroic_inspiration: true
+  hit_dice_available: '1d8'
+  new_rolls_this_turn: 0
+  combat: false
+  awaiting_player_action: true
