@@ -17,3 +17,11 @@ Neris recebe as duas cartas e as coloca lado a lado sobre o balcão, aproximando
 — Duas cartas... enviadas a cidades diferentes, oferecendo praticamente o mesmo trabalho — murmura. — E ambas trazendo esta árvore.
 
 Ela ergue o próprio medalhão e o aproxima dos lacres.
+
+— O desenho é muito semelhante: a árvore despida, as raízes e o círculo. É a mesma marca de custódia que lhe mostrei. Mas não posso garantir que os lacres tenham sido feitos pela mesma matriz. Alguém poderia ter reproduzido o símbolo.
+
+Neris começa a ler as cartas. Quando chega ao trecho que menciona a morte de **Edric Valmont**, na carta recebida em Lorn, interrompe a leitura e olha para Eron.
+
+— Esta segunda carta é mais específica. A primeira menciona seu exílio e a morte de seu comandante. Esta conhece até o nome dele.
+
+Ela volta a examinar os documentos.
