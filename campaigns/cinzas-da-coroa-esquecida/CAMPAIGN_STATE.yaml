@@ -344,3 +344,9 @@ checkpoint_20261017_QT:
   location: 'Beco proximo ao Javali de Ferro, Lorn, por volta das 15h25'
   situation: 'Neris concordou em atrair possivel perseguidor mas expressou limites morais. Eron ainda precisa executar teste de Furtividade para se ocultar; nao ha resultado nem contato com perseguidor ainda.'
   resources: '11/11 PV; CA 13; 19 flechas; 124 PO, 1 PP, 5 PC; Inspiracao Heroica disponivel'
+
+checkpoint_20261017_QU:
+  transcript: 'sessions/transcripts/SESSION_0000_CONTINUACAO_20261017_QU.md'
+  last_message: '0937 — Mestre'
+  location: 'Beco perto do Javali de Ferro, Lorn'
+  situation: 'Neris aguarda Eron se ocultar entre caixotes. Teste Furtividade 1d20 +5 oferecido em rolador interativo, aguardando resultado. Nenhum resultado lançado ou aplicado.'
