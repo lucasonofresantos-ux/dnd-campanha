@@ -522,3 +522,10 @@ checkpoint_20261017_SG:
   location: 'Passagem lateral Rua dos Mercadores, Lorn, 16h59'
   situation: 'Eron apertou mao de Sann e perguntou sobre Darian e termos de eventual servico, nao hoje. Sann disse que Darian desapareceu ha cerca de tres meses, visto pela ultima vez no antigo entreposto fluvial, convocado por manifesto divergente; relatos de furto surgiram depois. Sann diz desejar Tomas vivo, para questionar sobre registros. Nenhum contrato aceito; discussao amanha possivel. Neris oculta.'
   resources_unchanged: true
+
+checkpoint_20261017_SI:
+  transcript: 'sessions/transcripts/SESSION_0000_CONTINUACAO_20261017_SI.md'
+  last_message: '1017 Mestre'
+  location: 'Passagem lateral Rua dos Mercadores, Lorn, 17h01'
+  situation: 'Sann e Eron despediram-se, combinaram cerveja por Sann e comida por Eron sem data; Sann entrou e trancou porta. Neris oculta. Percepcao 1d20+6 aguardando dado do jogador para localizar observadores/ouvintes; nenhuma rolagem efetuada.'
+  resources_unchanged: true
