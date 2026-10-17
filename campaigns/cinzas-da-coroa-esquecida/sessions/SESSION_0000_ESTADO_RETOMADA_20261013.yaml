@@ -1193,3 +1193,14 @@ current_scene_ls_20261016:
   transcript: 'sessions/transcripts/SESSION_0000_CONTINUACAO_20261016_LS.md'
   last_message: '0670 — Mestre'
   location: 'Guarita, Eron junto a caixotes, Bram e Lio a 4 m'
+  intimidation_roll20: '19 +1 = 20; roll log 107; resolvido'
+  selk_meeting_claim: 'Hoje antes do anoitecer, balanca coberta do patio de armazens de Lorn'
+  tomas: 'Bram e Lio nao viram Tomas; nao conhecem paradeiro; relato atribuido a Selk'
+  combat: false
+  hp_current: 11
+  hp_max: 11
+  armor_class: 13
+  arrows: 20
+  money: {gp: 125, sp: 4, cp: 5}
+  heroic_inspiration: true
+  awaiting_player_action: true
