@@ -49,3 +49,11 @@ Há alguns passos no interior, seguidos pelo ruído de algo pequeno sendo coloca
 **Eron consegue distinguir duas pessoas conversando, mas não vê seus rostos.** Pelo conteúdo, parecem procurar algum registro ou documento. Ainda não há como determinar se são fiscais, guardas ou outras pessoas, nem se aquilo tem relação direta com Tomas Rell.
 
 Nenhum movimento indica que tenham percebido sua aproximação atual. A porta continua fechada, e Eron permanece oculto junto ao batente, ouvindo.
+
+**[LOG DE MEMÓRIA DA CAMPANHA]**
+
+- **Localização Atual:** Junto ao batente exterior da porta dos fundos da antiga guarita de pedágio, perto da Ponte Velha.
+- **NPCs Presentes e Relação:** Pelo menos dois interlocutores masculinos não identificados no interior da guarita; desconhecem-se suas intenções e qualquer relação com Eron.
+- **Linha de Missão Ativa:** Investigar o desaparecimento de Tomas Rell, o cilindro de mapas e a origem do aviso sobre Eron.
+- **Eventos Cruciais Ocorridos:** Furtividade **19 +6 =25** e Percepção **18 +6 =24** recebidas do rolador visual do jogador, sem nova rolagem. Eron chegou silenciosamente à porta e ouviu pessoas procurando um registro desaparecido e outra folha. Não foi percebida reação dos ocupantes à aproximação atual.
+- **Condições do Jogador:** 11/11 PV, CA 13, 20 flechas; 125 PO, 4 PP e 5 PC. Inspiração Heroica disponível. Nenhum combate ou recurso gasto. Eron permanece do lado de fora, oculto.
