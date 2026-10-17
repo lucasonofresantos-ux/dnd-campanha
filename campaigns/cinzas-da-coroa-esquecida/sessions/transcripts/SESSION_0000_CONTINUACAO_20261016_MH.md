@@ -12,3 +12,7 @@ Registro: 2026-10-16
 Vou conferir o que Neris poderia saber sobre a última entrega de Tomas, sem atribuir a ela informações que só o Mestre conhece. Depois continuo o diálogo e registro esta troca no histórico da campanha.
 
 ## Mensagem 0701 — Mestre (narração visível)
+
+Neris escuta atentamente, apoiando os cotovelos no velho balcão. Quando Eron menciona que pessoas desconhecidas já sabiam seu nome e sua aparência, ela franze a testa.
+
+— Então alguém estava à sua espera antes mesmo de você chegar a Lorn... — murmura. — Isso torna a situação mais interessante. E perigosa. Mas não vou fingir que sei quem está por trás disso.
