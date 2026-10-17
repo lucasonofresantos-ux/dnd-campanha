@@ -18,3 +18,5 @@ O silêncio que se segue às palavras de Eron é pesado. O homem magro engole em
 — Está bem. Não queremos morrer por causa de um maldito livro — diz ele, erguendo as mãos à altura do peito. — Vamos conversar. Mas guarde suas ameaças. Já entendemos.
 
 O magro se apressa em falar, antes que o companheiro possa impedi-lo.
+
+— Sou **Lio Marr**, copista de remessas. Ele é **Bram Keld**, trabalha com transporte de cargas.
