@@ -17,3 +17,5 @@ Ao ouvir o nome **Tomas Rell**, o homem magro lança um olhar rápido para o com
 — Entrou sem que ouvíssemos, isso é verdade — responde o barbudo, com a voz mais baixa. — Mas não confunda nos surpreender com poder nos matar sem consequências.
 
 — Ele falou de Rell... — começa o magro.
+
+— Eu ouvi! — interrompe o barbudo, sem tirar os olhos da direção de Eron.
