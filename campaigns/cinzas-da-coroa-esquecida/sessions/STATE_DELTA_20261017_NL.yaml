@@ -1,0 +1,23 @@
+campaign: cinzas-da-coroa-esquecida
+date: "2026-10-17"
+last_transcript: "sessions/transcripts/SESSION_0000_CONTINUACAO_20261017_NL.md"
+last_message: "0762 — Mestre"
+location: "Antiga guarita de pedágio, Ponte Velha, Lorn"
+scene: "Eron estendeu a própria capa no assoalho e conduziu Neris até ela; Neris aceitou deitar-se, retribuiu os beijos e pediu não ser tratada como conquista"
+npc: "Neris Halden"
+doors: "Duas portas trancadas por dentro, janelas sem segurança garantida"
+weather: "Chuva fina"
+player:
+  hp: 11
+  hp_max: 11
+  ac: 13
+  arrows: 19
+  gp: 125
+  sp: 4
+  cp: 5
+  heroic_inspiration: true
+  conditions: []
+new_rolls: 0
+new_expenditures: 0
+leather_fragment_from_ditch_collected: false
+backlog_transcripts: ["NG parcial", "NH pendente", "NI pendente", "NJ pendente", "NK pendente"]
