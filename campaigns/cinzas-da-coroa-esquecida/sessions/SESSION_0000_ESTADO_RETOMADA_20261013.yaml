@@ -1095,3 +1095,28 @@ current_scene_lm_20261016:
   new_expenses: 0
   combat: false
   awaiting_player_action: true
+
+current_scene_ln_20261016:
+  campaign_id: cinzas-da-coroa-esquecida
+  session: 0
+  last_transcript: sessions/transcripts/SESSION_0000_CONTINUACAO_20261016_LN.md
+  last_message: '0660 — Mestre'
+  location: 'Interior da guarita antiga, oculto atrás de caixotes a cerca de 4m de dois homens'
+  time: 'Manhã'
+  eron: 'Entrou pela porta dos fundos destrancada; mantém cobertura junto aos caixotes; não atacou nem foi observado'
+  stealth: {expression: '1d20+6', natural: 19, modifier: 6, total: 25, reused_from: 105}
+  new_rolls: 0
+  rear_door: 'Entreaberta'
+  occupants: 'Dois homens não identificados; robusto barbudo de casaco de couro e magro de manto escuro sem insígnias visíveis; procurando registros e folha'
+  room_features: 'Balcão antigo de fiscalização, armário com gaveta removida, caixotes, lamparina e compartimento vazio'
+  suspicion: 'Nenhuma reação perceptível até aqui; intenções dos homens desconhecidas'
+  hp_current: 11
+  hp_max: 11
+  armor_class: 13
+  arrows: 20
+  money: {gp: 125, sp: 4, cp: 5}
+  heroic_inspiration: true
+  hit_dice_available: '1d8'
+  combat: false
+  new_expenses: 0
+  awaiting_player_action: true
