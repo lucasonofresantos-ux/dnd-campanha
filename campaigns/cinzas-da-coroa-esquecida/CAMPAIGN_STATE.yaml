@@ -651,3 +651,10 @@ checkpoint_20261017_TI:
   last_message: '1069 Mestre'
   location: 'Interior do armazem Casa da Balanca, Lorn, pouco depois de 18h04'
   situation: 'Neris com cordames do armazem amarrou e revistou tres subordinados, dois rendidos e um inconsciente. Homem avental: faca curta, chaves, 8 PP. Guarda inconsciente: punhal na bota, 4 PP, apito. Homem externo: espada curta, bainha vazia, 6 PP, adaga de Eron ainda no joelho. Armas e objetos reunidos em caixa, nao adicionados ao inventario. Interrogador de luvas ainda nao amarrado nem revistado, pe cravado na madeira. Iven mantém disfarce. Ruido de madeira vindo da direcao do deposito de fundos, causa desconhecida. Sem dano ou rolagens.'
+
+checkpoint_20261017_TL:
+  transcript: 'sessions/transcripts/SESSION_0000_CONTINUACAO_20261017_TL.md'
+  location: 'Patamar e deposito superior Casa da Balanca, Lorn, aproximadamente 18h08'
+  situation: 'Eron entregou 1 PO para Belric como pagamento por silencio. Belric aceitou, concordou em permanecer no banco e dizer que estava impedido por medo, mas nao deseja ser amarrado. Relatou entregas noturnas duvidosas e um escritorio superior acessivel com chave do homem de luvas. Belric nao viu outras pessoas no deposito e nao sabe quem fugiu. Porta posterior ainda destrancada e escritorio nao vasculhado.'
+  gold_spent: 1
+  eron_gold_estimated_from_prior: 123
