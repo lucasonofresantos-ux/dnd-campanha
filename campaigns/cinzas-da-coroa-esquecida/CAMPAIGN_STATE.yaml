@@ -424,3 +424,10 @@ checkpoint_20261017_RL:
   roll: 'Furtividade de Eron, 1d20 [19]+5=24, informado pelo jogador'
   situation: 'Eron escondido observando a área; Neris acompanha, mas teste de Eron não garante furtividade dela. Bran e interlocutor ainda não chegaram. Nome Veler Sann apareceu em contexto anterior como contratante de vigilância, sem confirmação que é o mesmo do encontro.'
   resources_unchanged: true
+
+checkpoint_20261017_RM:
+  transcript: 'sessions/transcripts/SESSION_0000_CONTINUACAO_20261017_RM.md'
+  last_message: '0973 Mestre'
+  location: 'Oculto próximo a ponto de encontro de Bran, Lorn, 16h30 ficcional'
+  situation: 'Bran chegou; interlocutor humano cerca de 50 anos, casaco escuro, cabelos grisalhos, barba curta, pasta de couro e bolsa moedas. Bran disse ter informação sobre River; identidade do interlocutor ainda não verificada. Eron e Neris ocultos, ouvindo.'
+  resources_unchanged: true
