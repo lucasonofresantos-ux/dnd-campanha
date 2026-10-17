@@ -358,3 +358,9 @@ Eron deixou a carroca e dirigiu-se verbalmente ao homem de olho esquerdo esbranq
 - O magro empalidece e olha a porta, o barbudo aperta a mandíbula com a faca ainda embainhada. Nenhuma agressão ou cooperação foi resolvida, aguardando Carisma (Intimidação) 1d20+1.
 - Mestre apresentou rolador visual d20 azul, com bônus +1, Math.random local e ação Usar resultado na campanha. Nada foi rolado ou informado ainda. Eron permanece na guarita atrás dos caixotes a cerca de 4m dos homens; 11/11 PV, CA 13, 20 flechas, 125 PO 4 PP 5 PC.
 - Transcrição LQ 0665–0666.
+
+## LR–LS 0667–0670 — A entrega encomendada por Hadran Selk
+- LR: Eron informou dado natural 19 no Roll20; Intimidação +1, total 20, registrada no ROLL_LOG.csv como nº 107. Bram e Lio aceitaram conversar, não houve combate. Afirmaram ser transportador e copista de remessas e terem sido contratados ontem por Hadran Selk, despachante do pátio dos armazéns, para recuperar folha relativa a entrega associada a Tomas Rell quatro dias atrás. Nenhum dos dois viu Tomas; Selk teria descrito volume comprido em couro e pedido para evitar a patrulha.
+- LS: Eron pede ponto e horário da entrega e detalhes do sumiço. Lio diz que Selk os receberia hoje antes do anoitecer junto à balança coberta no pátio dos armazéns em Lorn; deveriam entregar a folha diretamente a ele. Lio diz que Selk parecia mais interessado no destinatário da mercadoria que em Tomas. Todas são declarações ou impressões atribuídas aos NPCs, não prova de desaparecimento ou do destinatário.
+- Eron continua na guarita atrás dos caixotes, aproximadamente 4m de Bram e Lio. Manhã; 11/11 PV, CA 13, 20 flechas, 125 PO, 4 PP e 5 PC. Sem nova rolagem em LS, dano, combate ou gasto.
+- Fontes: transcripts SESSION_0000_CONTINUACAO_20261016_LR.md e LS.md.
