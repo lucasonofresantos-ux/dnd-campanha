@@ -494,3 +494,10 @@ checkpoint_20261017_SC:
   location: 'Passagem lateral da Rua dos Mercadores, Lorn, 16h55'
   situation: 'Sann contou rumores sobre passado de Eron como investigador em Valdren, assassinato de Edric Valmont e exilio, bem como incidente no armazem de Caldria. Perguntou se Eron ainda investiga morte do comandante. Neris oculta, Sann e Eron conversam sem combate.'
   resources_unchanged: true
+
+checkpoint_20261017_SD:
+  transcript: 'sessions/transcripts/SESSION_0000_CONTINUACAO_20261017_SD.md'
+  last_message: '1007 Mestre'
+  location: 'Passagem lateral da Rua dos Mercadores, Lorn, 16h56'
+  situation: 'Eron confirmou exilio e respeito por Edric Valmont, negou lembrar-se de mata-lo e relatou sobreviventes do armazem. Sann afirmou que registros de Tomas incluem pessoas transportadas com identidades falsas, uma constando entrada e saida no mesmo dia por rotas distintas. Sann com relógio de bolso, Neris ainda oculta, sem confronto.'
+  resources_unchanged: true
