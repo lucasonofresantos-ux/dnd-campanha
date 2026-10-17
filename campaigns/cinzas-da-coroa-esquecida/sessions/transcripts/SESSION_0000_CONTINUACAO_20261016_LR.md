@@ -30,3 +30,5 @@ Bram lança um olhar severo a Lio, mas não o interrompe.
 — **Nenhum de nós viu Rell pessoalmente** — esclarece Bram. — Sabemos o que Selk nos contou. Ele queria a folha porque nela deveria constar quem recebeu a carga. Disse que nos pagaria quando a entregássemos.
 
 Lio hesita, depois acrescenta:
+
+— Selk mencionou um volume pequeno, comprido, protegido por couro. Não disse o que havia dentro. E insistiu que não procurássemos a patrulha.
