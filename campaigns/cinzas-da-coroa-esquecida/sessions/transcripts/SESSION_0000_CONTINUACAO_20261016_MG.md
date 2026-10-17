@@ -42,3 +42,11 @@ Neris volta os olhos para Eron.
 Ela aguarda um instante.
 
 — Você disse que quer encontrá-lo. **Por quê? O que sabe sobre o desaparecimento dele?**
+
+**[LOG DE MEMÓRIA DA CAMPANHA]**
+
+- **Localização Atual:** Interior da antiga guarita de pedágio junto à Ponte Velha, Lorn; porta posterior trancada com ferrolho interno; lamparina acesa.
+- **NPCs Presentes e Relação:** Mulher que se apresentou como **Neris Halden**, humana de cerca de 30–40 anos, cautelosa, sentada junto ao balcão; identidade e relatos ainda não verificados. Bram e Lio seguem pela estrada.
+- **Linha de Missão Ativa:** Encontrar Tomas Rell e compreender a folha de registros de cargas desaparecida, o cilindro de mapas, o interesse de Hadran Selk e a vigilância da guarita.
+- **Eventos Cruciais Ocorridos:** Eron declarou procurar Tomas Rell, perguntou sobre medalhão e supôs que a mulher estivesse com as folhas, propondo sentar-se. Neris exibiu medalhão de metal gasto com gravação de **árvore sem folhas e raízes que atravessam círculo de pequenos traços**; descreveu-o como marca de custódia de pessoas que preservam documentos. Afirmou que não possui as folhas e que conhece Tomas e algumas de suas entregas de documentos; procurava descobrir quem vinha buscar um registro. Perguntou por que Eron procura Tomas. São falas dela, não confirmação independente. Eron não recolheu nem recebeu o medalhão. Nenhum teste novo.
+- **Condições do Jogador:** 11/11 PV, CA 13, 18 flechas, 125 PO, 4 PP, 5 PC; Inspiração Heroica disponível. Arco mantido sob seu controle, sem ataque, dano ou gasto.
