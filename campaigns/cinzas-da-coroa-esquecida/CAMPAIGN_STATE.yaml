@@ -197,3 +197,12 @@ checkpoint_20261017_PM:
   pending_action: 'Odran Vell convidou Eron e Neris a entrarem; aguardando Eron'
   transcript: 'sessions/transcripts/SESSION_0000_CONTINUACAO_20261017_PM.md'
   resources_unchanged: true
+
+checkpoint_20261017_PN:
+  transcript: 'sessions/transcripts/SESSION_0000_CONTINUACAO_20261017_PN.md'
+  last_message: '0871 — Mestre (PN)'
+  location: 'Sala de Odran Vell, Escritório Municipal de Arrecadação, Lorn'
+  last_roll: 'Intuição 1d20 [11]+4=15 executado com Python secrets.randbelow'
+  observation: 'Odran formal, atenção aumentada à menção da última semana, olhou papéis à direita; não se conclui mentira'
+  current_question: 'Odran perguntou em nome de quem fazem investigação; Neris não respondeu ainda'
+  resources_unchanged: true
