@@ -29,3 +29,5 @@ Bram intervém, agora com menos firmeza.
 — E Selk ofereceu dinheiro suficiente para compensar uma viagem até esta ruína. Não gostou quando perguntamos por que não procurava os registros oficiais.
 
 — Disse que não podia confiar na patrulha — acrescenta Lio. — Mas não explicou por quê.
+
+Um vento atravessa a porta entreaberta, fazendo a chama da lamparina vacilar. Os dois homens continuam diante de Eron, sem tentar alcançar armas ou fugir.
