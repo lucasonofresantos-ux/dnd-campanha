@@ -379,3 +379,10 @@ checkpoint_20261017_RA:
   location: 'Beco proximo ao Javali de Ferro, Lorn'
   situation: 'Eron ameacou o homem com a adaga. Homem disse cooperar. Neris retirou do forro uma placa fina com balanca sobre tres linhas onduladas. Estojo e bolsa ainda por verificar; revista incompleta; origem da placa e identidade desconhecidas. Sem dano.'
   resources_unchanged: true
+
+checkpoint_20261017_RC:
+  transcript: 'sessions/transcripts/SESSION_0000_CONTINUACAO_20261017_RC.md'
+  last_message: '0953 Mestre'
+  location: 'Beco próximo ao Javali de Ferro, Lorn, aprox. 15h30 ficcional'
+  situation: 'Iven sob ameaça de adaga, ainda sem ferimentos. Alegou entrega de anotações ao cair da tarde no depósito atrás da Casa da Balança e possível reconhecimento da voz do contratante. Disse que placa pertence ao irmão fiscal de armazéns desaparecido há 3 meses, acusado de roubo de documentos. Informações não verificadas; Neris opõe-se a execução.'
+  resources_unchanged: true
