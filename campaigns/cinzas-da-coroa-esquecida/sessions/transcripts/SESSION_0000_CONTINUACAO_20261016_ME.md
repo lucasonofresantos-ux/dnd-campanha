@@ -21,3 +21,5 @@ Agora, a oito metros de distância, distingue melhor seus contornos: **um medalh
 Ao ouvir a pergunta sobre Bram e Lio, a mulher olha brevemente para a estrada por onde os dois se afastam.
 
 — **Por volta das nove da manhã**, eu diria. Ouvi o sino da torre pouco antes de vê-los chegar. Entraram naquela guarita e passaram algum tempo lá dentro.
+
+Ela estreita os olhos.
