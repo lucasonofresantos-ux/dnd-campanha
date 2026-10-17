@@ -7,7 +7,7 @@ session: 0
 ruleset: "D&D 5E 2024 / SRD 5.2.1 (Guarda e Tenaz: PHB 2024)"
 audience_rating: "18+"
 tone: "Fantasia medieval adulta: romance, conflito e consequências; intimidade narrada sem descrição sexual gráfica"
-current_location: "Exterior do posto municipal da guarda, junto à praça comercial de Lorn, Caldria; Neris Halden acompanha Eron"
+current_location: "Sala do oficial de serviço, posto municipal da guarda na praça comercial de Lorn, Caldria; com Neris Halden e tenente Arven Cael"
 current_time: "Outono, manhã; hora exata não fixada; chuva e solo úmido"
 character:
   name: Eron River
@@ -40,7 +40,7 @@ character:
   guard_starting_equipment_option_pending: false
   exile: "Proibido retornar a Valdrén após condenação por assassinato de Edric Valmont; Eron afirma ter sido incriminado"
 narrative:
-  scene: "Eron informou ao sentinela apenas que gostaria de conversar sobre a última semana da antiga guarita de pedágio antes da Ponte Velha. Guarda de barba curta transmitiu pedido, regressou minutos depois e convidou Eron e Neris a entrar com armas embainhadas. Oficial de serviço, nome ainda não informado, visível à distância numa sala com mesa de relatórios e mapa. Eron e Neris continuam fora, à entrada aberta, sem revelar cartas, fragmentos ou Tomas."
+  scene: "Eron e Neris entraram no posto municipal da guarda. Eron apresentou-se como Eron River, perguntou o nome do oficial e foi recebido pelo tenente Arven Cael, responsável pelo serviço da manhã, humano de aproximadamente 45 anos, uniforme azul-escuro e insígnia de prata. Neris apresentou-se como Neris Halden. Cael conhece apenas o assunto geral da última semana da antiga guarita de pedágio antes da Ponte Velha, ofereceu cadeiras, e pergunta o que Eron deseja saber. Ainda não foram mostradas cartas, fragmentos nem citado Tomas."
   prior_events_imported: false
   character_actions_so_far:
     - 'Consultar histórico completo das ações em sessions/INDEX.md e transcripts/'
@@ -54,13 +54,14 @@ narrative:
   allies_present: []
   npcs_directly_in_scene:
     - "Neris Halden (nome alegado; afirmações ainda não comprovadas)"
+    - "Tenente Arven Cael (oficial de serviço da guarda municipal de Lorn; apresentou-se a Eron)"
   rolls_this_execution:
     - 'Registros em dice/ROLL_LOG.csv: 117 Percepção [12]+6=18; 118 Investigação [3]+4=7, ambos Python (MR)'
     - '120 Percepção da guarita: 1d20 [13]+6=19, Python secrets.randbelow (OL)'
     - '121 Percepção caminho ao posto da guarda: 1d20 [6]+6=12, Python secrets.randbelow (OM)'
   consumed_resources:
     - 'Saldo atual 19 flechas, após recuperar uma flecha intacta da terra; segunda flecha partida e inutilizável. Gastos anteriores registrados no índice.'
-  pending_action: "Guarda de barba curta convidou Eron e Neris a entrar para falar ao oficial de serviço, solicitando armas embainhadas. Aguardar decisão de Eron; ainda estão do lado de fora. Couro da vala não recolhido. Bram/Selk possivelmente ao fim da tarde."
+  pending_action: "Tenente Arven Cael perguntou a Eron o que exatamente deseja saber sobre a antiga guarita de pedágio da Ponte Velha. Duas cadeiras foram oferecidas, mas Eron não declarou sentar-se. Couro da vala não recolhido; Bram/Selk possivelmente ao fim da tarde."
   clocks_advanced: null
 isolation:
   previous_camp_global_untouched: true
@@ -68,17 +69,17 @@ isolation:
   pre_execution_state_archive: "archive/CAMPAIGN_STATE_PRE_EXECUCAO_2026-10-12.yaml"
   dm_plan_retained: "dm/WORLD_BIBLE.md"
 transcript:
-  current: "sessions/transcripts/SESSION_0000_CONTINUACAO_20261017_OP.md"
+  current: "sessions/transcripts/SESSION_0000_CONTINUACAO_20261017_OQ.md"
   index: "sessions/INDEX.md"
-  previous: "sessions/transcripts/SESSION_0000_CONTINUACAO_20261017_OO.md"
+  previous: "sessions/transcripts/SESSION_0000_CONTINUACAO_20261017_OP.md"
   literal_complete_current_execution: false
-  last_confirmed_message: "0823 — Mestre (narrativa OP, sincronizada)"
-  pending: "Aguardar Mensagem 0824 — Jogador"
+  last_confirmed_message: "0825 — Mestre (narrativa OQ, sincronizada)"
+  pending: "Aguardar Mensagem 0826 — Jogador"
 
 operational_checkpoint:
   updated_at: "2026-10-17"
   state_delta: "sessions/STATE_DELTA_20261016_MK.yaml"
-  source_transcript: "sessions/transcripts/SESSION_0000_CONTINUACAO_20261017_OP.md"
+  source_transcript: "sessions/transcripts/SESSION_0000_CONTINUACAO_20261017_OQ.md"
   source_index: "sessions/INDEX.md"
   note: "Este é o estado jogável atual; transcrições ML/MM/MN/MQ recuperadas, sem comprovação independente de completude da conversa 01.08."
 
