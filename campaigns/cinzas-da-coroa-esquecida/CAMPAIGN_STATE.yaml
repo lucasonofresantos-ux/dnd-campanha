@@ -5,7 +5,7 @@ status: active
 execution: "reinicio_autorizado_2026-10-12"
 session: 0
 ruleset: "D&D 5E 2024 / SRD 5.2.1 (Guarda e Tenaz: PHB 2024)"
-current_location: "Marco de pedra entre salgueiros, a aproximadamente 50 m da guarita, Ponte Velha, Lorn, Caldria"
+current_location: "Interior da antiga guarita de pedágio, Ponte Velha, Lorn, Caldria; junto ao balcão com Neris Halden"
 current_time: "Outono, manhã; hora exata não fixada; chuva e solo úmido"
 character:
   name: Eron River
@@ -38,7 +38,7 @@ character:
   guard_starting_equipment_option_pending: false
   exile: "Proibido retornar a Valdrén após condenação por assassinato de Edric Valmont; Eron afirma ter sido incriminado"
 narrative:
-  scene: "Eron e Neris no marco de pedra; flecha do solo recuperada (aljava 19), outra quebrada; Percepção 18 vê gravação desgastada sob musgo, Investigação 7 não decifra."
+  scene: "Eron e Neris voltaram à guarita. Ela confirma não ser casada, corresponde ao flerte sem firmar compromisso e pergunta se Eron está interessado nela ou agindo como investigador."
   prior_events_imported: false
   character_actions_so_far:
     - 'Consultar histórico completo das ações em sessions/INDEX.md e transcripts/'
@@ -56,7 +56,7 @@ narrative:
     - 'Registros em dice/ROLL_LOG.csv: 117 Percepção [12]+6=18; 118 Investigação [3]+4=7, ambos Python (MR)'
   consumed_resources:
     - 'Saldo atual 19 flechas, após recuperar uma flecha intacta da terra; segunda flecha partida e inutilizável. Gastos anteriores registrados no índice.'
-  pending_action: "Eron decide próxima ação no marco de pedra; gravação não decifrada. Fragmento de couro da vala ainda não recolhido."
+  pending_action: "Neris aguarda resposta de Eron sobre seu interesse; última busca na guarita ainda não realizada. Couro da vala permanece não recolhido."
   clocks_advanced: null
 isolation:
   previous_camp_global_untouched: true
@@ -64,17 +64,17 @@ isolation:
   pre_execution_state_archive: "archive/CAMPAIGN_STATE_PRE_EXECUCAO_2026-10-12.yaml"
   dm_plan_retained: "dm/WORLD_BIBLE.md"
 transcript:
-  current: "sessions/transcripts/SESSION_0000_CONTINUACAO_20261017_MR.md"
+  current: "sessions/transcripts/SESSION_0000_CONTINUACAO_20261017_MU.md"
   index: "sessions/INDEX.md"
-  previous: "sessions/transcripts/SESSION_0000_CONTINUACAO_20261017_MQ.md"
+  previous: "sessions/transcripts/SESSION_0000_CONTINUACAO_20261017_MT.md"
   literal_complete_current_execution: false
-  last_confirmed_message: "0721 — Mestre (narrativa MR, sincronizada)"
-  pending: "Aguardar Mensagem 0722 — Jogador; ML/MM/MN/MQ recuperadas no GitHub; comparação integral com conversa 01.08 não certificada"
+  last_confirmed_message: "0727 — Mestre (narrativa MU, sincronizada)"
+  pending: "Aguardar Mensagem 0728 — Jogador; MS MT MU recuperadas no GitHub; índice e log social nº 119 pendentes de atualização"
 
 operational_checkpoint:
   updated_at: "2026-10-17"
   state_delta: "sessions/STATE_DELTA_20261016_MK.yaml"
-  source_transcript: "sessions/transcripts/SESSION_0000_CONTINUACAO_20261017_MR.md"
+  source_transcript: "sessions/transcripts/SESSION_0000_CONTINUACAO_20261017_MU.md"
   source_index: "sessions/INDEX.md"
   note: "Este é o estado jogável atual; transcrições ML/MM/MN/MQ recuperadas, sem comprovação independente de completude da conversa 01.08."
 
@@ -117,3 +117,10 @@ transcript_recovery_20261017:
   files: ['sessions/transcripts/SESSION_0000_CONTINUACAO_20261016_ML.md', 'sessions/transcripts/SESSION_0000_CONTINUACAO_20261016_MM.md', 'sessions/transcripts/SESSION_0000_CONTINUACAO_20261017_MN.md', 'sessions/transcripts/SESSION_0000_CONTINUACAO_20261017_MQ.md']
   previous_write_blockage: resolved_for_these_files
   literal_comparison_with_01_08: not_verified
+
+continuity_20261017_MU:
+  scene: 'Neris na guarita, confirma não ser casada, responde em tom de flerte e aguarda resposta de Eron'
+  roll_ms: 'Roll20 d20 natural 20 + Carisma 1 = 21 Persuasão, não rolado pelo Mestre'
+  new_rolls_this_turn: 0
+  transcriptions: ['sessions/transcripts/SESSION_0000_CONTINUACAO_20261017_MS.md','sessions/transcripts/SESSION_0000_CONTINUACAO_20261017_MT.md','sessions/transcripts/SESSION_0000_CONTINUACAO_20261017_MU.md']
+  outstanding: 'Índice e dice/ROLL_LOG nº 119 ainda pendentes se não houver commit separado'
