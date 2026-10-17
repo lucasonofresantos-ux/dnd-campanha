@@ -15,3 +15,5 @@ Vou continuar da entrada da guarita, mantendo Eron de frente para a mulher e sem
 A mulher observa Eron por alguns instantes, depois olha para a guarita.
 
 — Trancar a porta? — pergunta, com cautela. — Muito bem. Prefiro conversar longe dos olhos de quem passa pela estrada. Mas espero que cumpra sua palavra de não me matar.
+
+Ela caminha até a entrada, mantendo as mãos afastadas do corpo. Ao passar pelo batente, toma cuidado para não se aproximar demais de Eron. Dirige-se até a extremidade do velho balcão e ali permanece, de frente para ele.
