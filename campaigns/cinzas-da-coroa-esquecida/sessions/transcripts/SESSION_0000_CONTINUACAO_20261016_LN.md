@@ -29,3 +29,5 @@ O homem magro passa a mão pelo rosto, frustrado.
 — E agora? Vasculhamos o resto?
 
 O barbudo não responde imediatamente. Em vez disso, aproxima a lamparina de uma superfície de madeira e começa a examinar algumas marcas.
+
+**Nenhum dos dois demonstra ter percebido Eron.**
