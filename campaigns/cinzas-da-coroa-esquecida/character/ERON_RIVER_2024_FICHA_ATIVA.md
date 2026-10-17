@@ -92,3 +92,10 @@ Local: acesso ocidental da cidade de Lorn, Caldria; fim da tarde chuvoso de outo
 - Sem novos dados: Furtividade Roll20 20+6=26 e Percepcao 18+6=24 continuam resultados da observacao anterior. Eron nao se revelou nem iniciou combate.
 - Recursos: **11/11 PV, CA 13, 20 flechas; 125 PO, 6 PP e 5 PC**; Inspiracao Heroica, 1d8 de Vida, carta e chave do quarto preservados. Curativo limpo.
 - Fonte: sessions/transcripts/SESSION_0000_CONTINUACAO_20261016_KQ.md.
+
+## Atualização operacional MR — marco de pedra (2026-10-17)
+- Recuperou flecha de advertência intacta perto da guarita: **18 → 19 flechas utilizáveis**. A flecha que atingiu o marco foi encontrada quebrada, inutilizável, não somada ao total.
+- Testes reais em Python: **Percepção d20 [12]+6=18** (rolagem 117); **Investigação d20 [3]+4=7** (rolagem 118).
+- Local atual: marco de pedra entre salgueiros, cerca de 50 m da guarita, com Neris Halden. Gravação antiga deteriorada visível, sem leitura identificada. Fragmento de couro na vala anterior ainda não foi declarado recolhido.
+- Sem mudanças de PV, CA, dinheiro, inspiração ou demais recursos: **11/11 PV, CA 13, 19 flechas; 125 PO, 4 PP, 5 PC**.
+- Transcrição: `sessions/transcripts/SESSION_0000_CONTINUACAO_20261017_MR.md`.
