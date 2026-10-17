@@ -39,3 +39,9 @@ Lio confirma com um aceno.
 Quando Eron ordena que deixem a guarita, o copista se dirige imediatamente à porta dos fundos.
 
 — Não encontramos o registro. É isso que direi.
+
+Bram hesita por um instante, lança um último olhar ao compartimento vazio atrás do balcão e segue o companheiro.
+
+— Que não nos encontremos novamente nessas circunstâncias, River.
+
+Os dois saem pela porta dos fundos e seguem em direção à estrada. **Eron permanece sozinho dentro da guarita.** O compromisso de silêncio foi aceito sob ameaça, mas não há garantia de que Bram e Lio o cumprirão depois de se afastarem.
