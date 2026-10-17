@@ -30,3 +30,7 @@ A mulher lança um olhar ao compartimento vazio atrás do balcão, mas não se a
 
 
 Ela olha novamente para Eron.
+
+— Mas antes quero saber uma coisa: **você está procurando os registros para encontrar alguém ou para impedir que outra pessoa os encontre?**
+
+O medalhão de metal escurecido permanece preso ao peito dela, parcialmente coberto pela capa. Suas mãos continuam visíveis.
