@@ -47,3 +47,11 @@ Bram encara Eron, mantendo as mãos erguidas.
 Lio olha para a flecha cravada no chão, mas não tenta recolhê-la. Os dois permanecem imóveis, à vista de Eron, esperando sua reação.
 
 **A flecha de advertência não atingiu ninguém.** Eron gastou uma flecha, que permanece cravada no solo à frente de Bram. Nenhum combate começou.
+
+**[LOG DE MEMÓRIA DA CAMPANHA]**
+
+- **Localização Atual:** Porta dos fundos da antiga guarita de pedágio, perto da Ponte Velha; Bram e Lio parados do lado de fora, em direção à estrada.
+- **NPCs Presentes e Relação:** Bram Keld, assustado e com mãos erguidas; Lio Marr, também parado e surpreso. Ambos sob ameaça de Eron; ninguém ferido.
+- **Linha de Missão Ativa:** Investigar Tomas Rell, cilindro de mapas, folha desaparecida de registros de cargas e possíveis vínculos de Hadran Selk.
+- **Eventos Cruciais Ocorridos:** Eron disparou flecha de advertência para o chão à frente deles e exigiu saber como Bram conhecia seu sobrenome. Bram atribuiu a Hadran Selk um aviso anterior sobre homem chamado River, com descrição física de Eron, e pedido de notícia caso aparecesse. Lio reagiu surpreso. É relato de Bram, não fato independentemente comprovado. Não houve rolagem ou dano.
+- **Condições do Jogador:** 11/11 PV, CA 13, **19 flechas** (uma de advertência cravada no solo e ainda não recuperada); 125 PO, 4 PP, 5 PC. Inspiração Heroica e 1d8 de Vida disponíveis. Arco nas mãos. Sem combate ou novo gasto além da flecha.
