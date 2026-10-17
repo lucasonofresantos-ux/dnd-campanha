@@ -61,7 +61,7 @@ narrative:
     - '121 Percepção caminho ao posto da guarda: 1d20 [6]+6=12, Python secrets.randbelow (OM)'
   consumed_resources:
     - 'Saldo atual 19 flechas, após recuperar uma flecha intacta da terra; segunda flecha partida e inutilizável. Gastos anteriores registrados no índice.'
-  pending_action: "Eron e Neris almoçam no Javali de Ferro; Neris perguntou se Eron sempre leva tão a sério as investigações. Aguarda resposta."
+  pending_action: "Neris contou aspectos de seu passado segundo suas próprias declarações e perguntou a Eron o que gostaria de saber primeiro. Refeição no Javali de Ferro, sem gastos novos."
   clocks_advanced: null
 isolation:
   previous_camp_global_untouched: true
@@ -69,12 +69,12 @@ isolation:
   pre_execution_state_archive: "archive/CAMPAIGN_STATE_PRE_EXECUCAO_2026-10-12.yaml"
   dm_plan_retained: "dm/WORLD_BIBLE.md"
 transcript:
-  current: "sessions/transcripts/SESSION_0000_CONTINUACAO_20261017_PF.md"
+  current: "sessions/transcripts/SESSION_0000_CONTINUACAO_20261017_PH.md"
   index: "sessions/INDEX.md"
-  previous: "sessions/transcripts/SESSION_0000_CONTINUACAO_20261017_PE.md"
+  previous: "sessions/transcripts/SESSION_0000_CONTINUACAO_20261017_PG.md"
   literal_complete_current_execution: false
-  last_confirmed_message: "0855 — Mestre (PF)"
-  pending: "Aguardar Mensagem 0856 — Jogador"
+  last_confirmed_message: "0859 — Mestre (PH)"
+  pending: "Aguardar Mensagem 0860 — Jogador"
 
 operational_checkpoint:
   updated_at: "2026-10-17"
