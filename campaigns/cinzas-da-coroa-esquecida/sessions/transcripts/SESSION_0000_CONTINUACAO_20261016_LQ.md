@@ -19,3 +19,5 @@ O homem magro empalidece ao ouvir Eron falar em matar os dois e apresentar outra
 — Está ameaçando nos matar e ainda dizer que fomos assaltantes? — pergunta o barbudo, com voz contida. — Então quero ouvir muito bem o que vem a seguir.
 
 Os dois permanecem atentos. A reação à intimidação ainda depende do teste; ninguém atacou ou revelou novas informações.
+
+**Carisma (Intimidação): 1d20 +1.** Teste pendente; nenhum dado ainda enviado.
