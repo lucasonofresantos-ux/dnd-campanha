@@ -214,3 +214,11 @@ checkpoint_20261017_PP:
   location: 'Sala de Odran Vell, Escritório Municipal de Arrecadação de Lorn'
   situation: 'Odran registrou nome Tomas Rell, identificou documentos a direita como balancetes e recibos, perguntou por que são relevantes; Neris aguarda Eron.'
   no_resource_changes: true
+
+checkpoint_20261017_PS:
+  transcript: 'sessions/transcripts/SESSION_0000_CONTINUACAO_20261017_PS.md'
+  last_message: '0881 — Mestre'
+  location: 'Sala de Odran Vell, Escritório Municipal de Arrecadação, Lorn'
+  situation: 'Odran pode solicitar protocolo de entrada das remessas ao arquivista, mas perguntou se Eron investiga apenas Tomas ou os livros; tocou sino e passos se aproximam.'
+  pending_transcripts: 'PQ e PR não confirmadas; preservar fala dos turnos anteriores quando sincronizar'
+  resources_unchanged: true
