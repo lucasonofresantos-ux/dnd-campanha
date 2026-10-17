@@ -705,3 +705,5 @@ LR 0667–0668: rolagem 107 Intimidacao 20; Bram e Lio falam de Selk.
 [ML — 0708–0709] — Eron vai examinar o entorno da guarita; teste externo de Percepção solicitado.
 
 [MM/MN — 0710–0713, pendência] Jogador solicitou rolagem, depois perguntou sobre registro no GitHub. A resposta anterior publicou Percepção 8+6=14 sem execução Python verificável; a correção foi executada agora em Python com resultado 1+6=7, log 113. As respostas integrais de ML/MM/MN ainda não foram salvas como transcrição, pois a operação de escrita de transcripts foi bloqueada. Não confundir indexação e log com transcrição literal completa.
+
+[MO — 0714–0715](transcripts/SESSION_0000_CONTINUACAO_20261017_MO.md) — Eron solicita rolagem de Investigação nas duas marcas externas perto do beiral da guarita. Script Python com secrets.randbelow realmente executado: d20 [7]+4=11 (log 114). Investigação identifica solo comprimido e perturbado, mas nem objeto nem idade das marcas ou ligação com Tomas podem ser determinados. Neris cautelosa ao avaliar pegadas sobrepostas. Nenhum item, gasto ou combate. Transcrição MO registrada; ML/MM/MN seguem pendentes de gravação literal.
