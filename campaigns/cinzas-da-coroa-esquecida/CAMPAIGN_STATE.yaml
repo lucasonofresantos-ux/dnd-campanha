@@ -386,3 +386,10 @@ checkpoint_20261017_RC:
   location: 'Beco próximo ao Javali de Ferro, Lorn, aprox. 15h30 ficcional'
   situation: 'Iven sob ameaça de adaga, ainda sem ferimentos. Alegou entrega de anotações ao cair da tarde no depósito atrás da Casa da Balança e possível reconhecimento da voz do contratante. Disse que placa pertence ao irmão fiscal de armazéns desaparecido há 3 meses, acusado de roubo de documentos. Informações não verificadas; Neris opõe-se a execução.'
   resources_unchanged: true
+
+checkpoint_20261017_RE:
+  transcript: 'sessions/transcripts/SESSION_0000_CONTINUACAO_20261017_RE.md'
+  last_message: '0957 Mestre'
+  location: 'Beco próximo ao Javali de Ferro, Lorn, cerca de 15h35'
+  situation: 'Eron retirou e guardou adaga. Iven Marlow aceitou conversar sobre colaboração condicional, pede informação sobre irmão Darian Marlow. Iven não está amarrado e abaixou mãos. Faca separada sobre caixote; Neris conserva estojo, placa e demais pertences. Nenhum item transferido para Eron e nenhum dano.'
+  resources: '11/11 PV; CA 13; 19 flechas; 124 PO, 1 PP, 5 PC; inspiração heroica disponível'
