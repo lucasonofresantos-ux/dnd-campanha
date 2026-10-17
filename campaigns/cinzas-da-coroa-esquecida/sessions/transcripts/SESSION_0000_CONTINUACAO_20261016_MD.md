@@ -23,3 +23,11 @@ Sua voz continua firme, embora a tensão seja evidente.
 — Agora me diga uma coisa, arqueiro: **pretende me interrogar ou simplesmente atirar em qualquer pessoa que encontre nesta estrada?**
 
 Ela permanece imóvel, com ambas as mãos visíveis. Bram e Lio continuam se afastando, sem interferir na conversa.
+
+**[LOG DE MEMÓRIA DA CAMPANHA]**
+
+- **Localização Atual:** Entrada dos fundos da antiga guarita de pedágio perto da Ponte Velha, Lorn. A observadora está a aproximadamente oito metros, no terreno aberto.
+- **NPCs Presentes e Relação:** Mulher humana desconhecida, idade aproximada de 30–40 anos, capa verde-acinzentada, cabelos castanhos presos, olhos claros, ambas as mãos visíveis e nenhuma arma empunhada; Bram e Lio se afastam pela estrada.
+- **Linha de Missão Ativa:** Investigar Tomas Rell, folha de registros de cargas, cilindro de mapas, Hadran Selk e a possível vigilância da guarita.
+- **Eventos Cruciais Ocorridos:** Eron esclareceu que atirou no marco como advertência e exigiu aproximação. A observadora se aproximou até cerca de oito metros e parou, mantendo as mãos erguidas. O objeto circular metálico junto ao peito continua sem identificação. Ataque anterior contra marco: 2d20kl1 [15, 16] → 15+4=19, acerto, sem dano à pessoa. Não houve nova rolagem.
+- **Condições do Jogador:** 11/11 PV, CA 13, 18 flechas; primeira flecha de advertência permanece no solo diante da guarita, segunda quebrou-se no marco; 125 PO, 4 PP e 5 PC. Inspiração Heroica disponível. Arco em mãos, sem combate ou dano neste turno.
