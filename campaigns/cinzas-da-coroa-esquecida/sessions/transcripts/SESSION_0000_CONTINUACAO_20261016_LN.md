@@ -23,3 +23,7 @@ Eron desliza para dentro e consegue alcançar a proteção de alguns caixotes em
 — Aqui também não tem nada — murmura o homem magro, largando a gaveta.
 
 — Então alguém sabia exatamente o que procurar — responde o barbudo, examinando um compartimento vazio atrás do balcão.
+
+O homem magro passa a mão pelo rosto, frustrado.
+
+— E agora? Vasculhamos o resto?
