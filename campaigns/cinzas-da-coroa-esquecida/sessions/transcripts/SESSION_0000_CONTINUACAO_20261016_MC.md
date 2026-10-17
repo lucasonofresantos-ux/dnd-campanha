@@ -12,3 +12,5 @@ Mestre, use minha rolagem do rolador visual local para o disparo de Eron contra 
 Vou usar exatamente **[15, 16] → 15 +4 = 19**, sem repetir o ataque. Vou resolver o impacto no marco de pedra e a reação de quem estava escondido. Também tentarei sincronizar esta rolagem e os registros anteriores que ficaram pendentes no GitHub.
 
 ## Mensagem 0691 — Mestre (resposta visível)
+
+**2d20kl1 [15, 16] → 15 +4 =19.** Dado do rolador visual local confirmado pelo jogador, sem repetir.
