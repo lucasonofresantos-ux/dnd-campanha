@@ -329,3 +329,9 @@ Eron deixou a carroca e dirigiu-se verbalmente ao homem de olho esquerdo esbranq
 - Da área dos fundos, Eron identifica porta de acesso principal voltada à estrada, janela lateral parcialmente vedada, porta posterior com sinais de uso e marcas de botas recentes no barro. Ouve arrastar breve de madeira dentro da construção, sem identificar ocupante ou fonte. Não houve reação perceptível; isso não comprova que permaneceu despercebido.
 - Está parcialmente oculto entre salgueiros a cerca de 8m da porta posterior, ainda no exterior. Sem combate, dano ou consumo de recursos. PV 11/11; CA13; 20 flechas; 125 PO, 4 PP e 5 PC.
 - Transcrição literal da interação LK permanece pendente de commit GitHub, com cópia local gerada; reconstituir do texto preservado, nunca inferir literalmente somente a partir da cronologia.
+
+## LM 0657–0658 — Escuta furtiva à porta posterior da guarita
+- Eron enviou resultados do rolador visual local sem pedir nova execução: Furtividade 1d20 [19]+6=25, Percepção 1d20 [18]+6=24. Aceitos sem rerrolar e registrados no ROLL_LOG.csv como ordens 105/106, origem jogador_rolador_visual_local_math_random, não Python.
+- Eron percorreu os últimos ~8 m com cobertura dos salgueiros, encostou-se à parede junto ao batente externo da porta de serviço, sem reação perceptível do interior. Marcas de uso recente no batente. Ouviu ruído de madeira, papéis e duas vozes masculinas. Uma reclamou que o registro deveria estar ali; outra afirmou que alguém chegou antes e o encaixe estava vazio; procuram outra folha.
+- Identidades e ligação com Tomas Rell desconhecidas. Nenhuma arma sacada expressamente, nenhum combate, dano ou despesa. Posição atual: fora da guarita, ao lado da porta dos fundos, oculto. PV 11/11; CA13, 20 flechas, 125 PO 4 PP 5 PC.
+- Fonte: sessions/transcripts/SESSION_0000_CONTINUACAO_20261016_LM.md.
