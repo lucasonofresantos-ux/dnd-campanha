@@ -13,3 +13,5 @@ Vou continuar da entrada da guarita, mantendo Eron de frente para a mulher e sem
 ## Mensagem 0697 — Mestre (narração visível)
 
 A mulher observa Eron por alguns instantes, depois olha para a guarita.
+
+— Trancar a porta? — pergunta, com cautela. — Muito bem. Prefiro conversar longe dos olhos de quem passa pela estrada. Mas espero que cumpra sua palavra de não me matar.
