@@ -23,3 +23,5 @@ Ao ouvir o nome **Tomas Rell**, o homem magro lança um olhar rápido para o com
 Por alguns instantes, ninguém se move. A lamparina crepita sobre o balcão, projetando as sombras dos três pela parede de pedra.
 
 **Teste de Carisma (Intimidação): `1d20 +1`.**
+
+A ameaça é séria, mas pode tanto fazê-los cooperar quanto aumentar a resistência deles.
