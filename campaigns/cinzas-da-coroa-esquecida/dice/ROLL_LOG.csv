@@ -125,3 +125,5 @@ cinzas-da-coroa-esquecida,0000,142,percepcao_observadores_passagem,jogador_dado_
 cinzas-da-coroa-esquecida,0000,143,furtividade_ir_encontro_iven,jogador_dado_informado,20,,20,6,26,true,"SK 1020-1021; ficha ativa +6"
 cinzas-da-coroa-esquecida,0000,144,furtividade_posicao_corredor_iven,jogador_dado_informado,20,,20,6,26,true,"SO 1028-1029; 20 natural"
 cinzas-da-coroa-esquecida,0000,145,percepcao_vigilia_iven,jogador_dado_virtual_informado,20,,20,6,26,true,"SQ 1032-1033; 20 natural"
+cinzas-da-coroa-esquecida,0000,152,ataque_arco_guarda_lateral,jogador_dado_informado,16,,16,4,20,true,"SY 1048-1049; cobertura parcial; acerto"
+cinzas-da-coroa-esquecida,0000,153,dano_arco_guarda_lateral,python_secrets_randbelow,3,,3,2,5,true,"SY 1048-1049; 1d6+2"
