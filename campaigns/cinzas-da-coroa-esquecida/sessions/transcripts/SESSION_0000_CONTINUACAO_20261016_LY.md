@@ -33,3 +33,11 @@ Bram torna a encarar Eron.
 — Estarei lá antes das cinco. Direi que encontrei você somente quando estiver diante dele, como exigiu. Agora, podemos seguir?
 
 O vento frio passa pela porta da guarita. A flecha continua cravada na terra, diante dos dois homens, que permanecem aguardando a resposta de Eron.
+
+**[LOG DE MEMÓRIA DA CAMPANHA]**
+
+- **Localização Atual:** Porta dos fundos da antiga guarita perto da Ponte Velha, Lorn, durante a manhã.
+- **NPCs Presentes e Relação:** Bram Keld e Lio Marr, ambos intimidados, com mãos levantadas e à espera de permissão para sair.
+- **Linha de Missão Ativa:** Investigar Tomas Rell, o cilindro de mapas, a folha de registros e por que Hadran Selk conhece Eron.
+- **Eventos Cruciais Ocorridos:** Eron ordenou dividir igualmente as 20 PO oferecidas por Selk (10 PO a cada: 2 já recebidas por cada um, 8 restantes apenas se Selk pagar). Perguntou se 18h seria o fim da tarde e mandou Bram ir nesse horário caso Selk estivesse lá, ou propor outra estimativa. Bram avaliou 18h como possivelmente tarde demais no outono e sugeriu chegar **antes das 17h**, pois a última conferência de cargas seria em torno das 17h, **sem hora exata combinada**. Lio confirmou a rotina. Bram disse que iria antes das 17h e contaria a Selk que encontrou Eron apenas pessoalmente. Os dois continuam aguardando liberação. Nenhum teste, dano ou gasto.
+- **Condições do Jogador:** 11/11 PV, CA 13, 19 flechas no inventário e uma de advertência cravada no solo ainda não recuperada; 125 PO, 4 PP e 5 PC. Inspiração Heroica disponível. Arco em mãos. Sem combate ou novos recursos gastos.
