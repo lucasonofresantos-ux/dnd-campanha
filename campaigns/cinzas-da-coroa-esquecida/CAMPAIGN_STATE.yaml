@@ -452,3 +452,10 @@ checkpoint_20261017_RS:
   location: 'Passagem lateral Rua dos Mercadores, Lorn, 16h45'
   roll: 'Furtividade 17+5=22, jogador'
   situation: 'Eron oculto; Sann a 6 m entra em porta traseira de edifício de pedra, envelope em mão, prestes a fechar. Neris atrás de Eron. Nenhum ataque ou confronto ainda.'
+
+checkpoint_20261017_RU:
+  transcript: 'sessions/transcripts/SESSION_0000_CONTINUACAO_20261017_RU.md'
+  last_message: '0989 Mestre'
+  location: 'Passagem lateral da Rua dos Mercadores, Lorn, 16h46'
+  situation: 'Homem confirmou se chamar Veler Sann, disse trabalhar com negócios comerciais e administrativos. Eron notou anel de prata com pedra vermelha escura na mão direita, compatível com descrição de Iven, sem identidade do contratante comprovada. Sann encobriu o anel e perguntou o que Eron deseja. Neris oculta; 6 metros, envelope e porta aberta.'
+  resources_unchanged: true
