@@ -31,3 +31,11 @@ Seus dedos se aproximam instintivamente do medalhão, mas ela interrompe o movim
 — Vejo que também notou isto — comenta, olhando para a peça metálica. — Está curioso sobre o que significa?
 
 Ela mantém a distância de oito metros. O medalhão continua parcialmente encoberto, e a mulher não fez qualquer movimento para sacar uma arma.
+
+**[LOG DE MEMÓRIA DA CAMPANHA]**
+
+- **Localização Atual:** Junto à porta posterior da antiga guarita de pedágio, perto da Ponte Velha, Lorn. A mulher observadora está a cerca de oito metros.
+- **NPCs Presentes e Relação:** Mulher humana ainda não identificada, de capa verde-acinzentada, cabelos castanhos presos e olhos claros, cautelosa, sem arma empunhada; Bram e Lio afastam-se pela estrada.
+- **Linha de Missão Ativa:** Investigar Tomas Rell, o registro de cargas e o cilindro de mapas, Hadran Selk e a vigilância sobre a guarita.
+- **Eventos Cruciais Ocorridos:** Eron observou que a mulher ocultava deliberadamente com a mão um medalhão circular de metal escurecido preso à roupa por cordão curto; gravações não legíveis a oito metros. A mulher estima ter visto Bram e Lio chegarem por volta de nove da manhã, após sino da torre; afirma não saber que procuravam papéis e nega ter dito que só passava pela estrada. Declarações ainda não verificadas. Nenhum teste novo.
+- **Condições do Jogador:** 11/11 PV, CA 13, 18 flechas na aljava (uma flecha antiga cravada na terra, segunda danificada no marco); 125 PO, 4 PP e 5 PC. Inspiração Heroica disponível; arco em mãos. Sem combate, novos gastos ou ferimentos.
