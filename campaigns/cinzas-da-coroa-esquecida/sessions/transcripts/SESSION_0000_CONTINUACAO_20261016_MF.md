@@ -39,3 +39,4 @@ O medalhão de metal escurecido permanece preso ao peito dela, parcialmente cobe
 **[LOG DE MEMÓRIA DA CAMPANHA]**
 - **Localização Atual:** Interior da antiga guarita de pedágio, próxima à Ponte Velha, Lorn. Porta dos fundos fechada e travada com ferrolho pelo lado de dentro; a situação das demais saídas não foi verificada.
 - **NPCs Presentes e Relação:** Mulher humana não identificada, aparentemente entre trinta e quarenta anos, com capa verde-acinzentada; cautelosa, permanece junto à extremidade do balcão, de frente para Eron. Bram e Lio se afastam pela estrada.
+- **Linha de Missão Ativa:** Investigar Tomas Rell, o cilindro de mapas, o registro de cargas desaparecido e o interesse de Hadran Selk. Identificar a observadora e o medalhão.
