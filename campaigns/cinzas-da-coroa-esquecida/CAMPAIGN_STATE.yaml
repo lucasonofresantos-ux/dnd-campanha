@@ -438,3 +438,10 @@ checkpoint_20261017_RO:
   location: 'Ruas proximas ao encontro de Bran, Lorn, 16h37 ficcional'
   situation: 'Eron expressou desejo futuro de cortar dedo de Bran; nenhuma agressao a Bran ocorreu. Eron e Neris pretendem seguir senhor Sann a 30 m. Carruagem fechada aguarda perto da rota, ligacao com Sann desconhecida. Teste Furtividade +5 solicitado, ainda nao realizado.'
   resources_unchanged: true
+
+checkpoint_20261017_RQ:
+  transcript: 'sessions/transcripts/SESSION_0000_CONTINUACAO_20261017_RQ.md'
+  last_message: '0981 Mestre'
+  location: 'Rua dos Mercadores, Lorn, 16h43'
+  situation: 'Eron e Neris seguem Sann. Sann entregou pasta de couro ao cocheiro e recebeu envelope; entrou sozinho em passagem com curva a 25 metros. Homem de colete cinzento ficou com carruagem. Eron pretende encerrar ate 17h15 para encontro de Iven às 18h.'
+  resources_unchanged: true
