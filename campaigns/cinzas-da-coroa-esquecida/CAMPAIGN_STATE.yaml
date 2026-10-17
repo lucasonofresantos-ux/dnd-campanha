@@ -276,3 +276,10 @@ checkpoint_20261017_QE:
   roll: 'Percepção 1d20[18]+6=24, Python secrets.randbelow executado'
   situation: 'Eron percebe homem de capa castanha possivelmente acompanhando; carroça de roda defeituosa com condutor desconhecido parou em frente ao galpão.'
   resources_unchanged: true
+
+checkpoint_20261017_QF:
+  transcript: 'sessions/transcripts/SESSION_0000_CONTINUACAO_20261017_QF.md'
+  last_message: '0907 — Mestre'
+  location: 'Pátio dos Armazéns do Cais Sul, junto à carroça de Bren Orvik, Lorn'
+  situation: 'Neris conduziu abordagem e Bren Orvik confirmou sua identidade. Bren perguntou o que querem saber do transporte municipal; ferramenta na mão, cauteloso. Homem de capa castanha fora de vista.'
+  resources_unchanged: true
