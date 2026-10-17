@@ -23,3 +23,5 @@ Bram inclina a cabeça, ainda com as mãos erguidas, enquanto Lio observa o comp
 Ao ouvir Eron mencionar as seis da tarde, Bram olha para o céu encoberto além dos salgueiros.
 
 — **Às seis talvez já seja tarde demais, River.** Nesta época do ano escurece cedo. A última conferência costuma acontecer antes disso. Se eu tivesse de apostar, diria **por volta das cinco da tarde**, talvez um pouco antes. Não foi uma hora marcada por Selk, entenda, mas conheço a rotina daquele pátio. Eu chegaria antes das cinco para não correr o risco de perdê-lo.
+
+Lio finalmente intervém:
