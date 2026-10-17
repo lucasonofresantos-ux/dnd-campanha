@@ -16,3 +16,9 @@ Eron sai de trás dos caixotes. Bram acompanha seus movimentos com o olhar, mas 
 — Já entendemos que não está brincando — responde Bram. — Faça o que precisa fazer.
 
 Lio, mais nervoso, levanta os braços e começa a responder sobre Hadran Selk.
+
+— **É humano**, senhor. Deve ter entre quarenta e cinquenta anos. Um pouco mais alto que eu, talvez **um metro e setenta e oito**. Corpo largo, mas não gordo; uns **oitenta quilos**, calculo. Tem cabelo castanho-escuro, já grisalho nas têmporas, penteado para trás. **Olhos verde-acinzentados**, nariz comprido e uma pequena cicatriz atravessando a sobrancelha esquerda.
+
+Bram acrescenta:
+
+— Costuma vestir um casaco de lã azul-escuro, bem cortado. Carrega uma pasta rígida de couro e usa um anel de prata na mão direita. Mas a cicatriz é o melhor sinal. Dá para reconhecê-lo de perto.
