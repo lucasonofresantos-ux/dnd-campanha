@@ -27,3 +27,11 @@ O magro recupera a compostura e pergunta, desconfiado:
 — Você ouviu nossa conversa?
 
 O barbudo lança-lhe um olhar irritado antes de responder à pergunta de Eron.
+
+— Estamos procurando **um registro de passagem de cargas**. Deveria estar guardado nesta guarita, mas alguém o retirou. E antes que pergunte, não estamos interessados em levar nada que não nos diga respeito.
+
+Ele estreita os olhos.
+
+— Agora me explique uma coisa: por que alguém entraria escondido numa guarita abandonada e ofereceria ajuda a dois desconhecidos?
+
+**Nenhuma arma foi desembainhada.** Os homens estão alertas, a aproximadamente quatro metros. A fala de Eron revelou sua presença e a direção aproximada de onde está, mas ele permanece fisicamente protegido pelos caixotes.
