@@ -58,7 +58,7 @@ narrative:
     - 'Registros em dice/ROLL_LOG.csv: 117 Percepção [12]+6=18; 118 Investigação [3]+4=7, ambos Python (MR)'
   consumed_resources:
     - 'Saldo atual 19 flechas, após recuperar uma flecha intacta da terra; segunda flecha partida e inutilizável. Gastos anteriores registrados no índice.'
-  pending_action: "Eron declarou intenção de conversar com o responsável pela guarda em Lorn; ainda não declarou sair, vestir-se ou recolher sua capa. Neris espera. Couro da vala não recolhido. Bram pode encontrar Selk na balança coberta no fim da tarde."
+  pending_action: "Neris aguarda Eron vestir-se e se preparar para investigar. Eron não declarou vestir-se de fato, recolher cartas/capa ou sair. Couro da vala não recolhido. Possível encontro Bram/Selk no fim da tarde."
   clocks_advanced: null
 isolation:
   previous_camp_global_untouched: true
