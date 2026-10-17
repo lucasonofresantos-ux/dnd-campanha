@@ -31,3 +31,5 @@ Bram intervém, agora com menos firmeza.
 — Disse que não podia confiar na patrulha — acrescenta Lio. — Mas não explicou por quê.
 
 Um vento atravessa a porta entreaberta, fazendo a chama da lamparina vacilar. Os dois homens continuam diante de Eron, sem tentar alcançar armas ou fugir.
+
+— Há outra coisa — diz Lio, hesitante. — Quando nos contratou, Selk parecia mais preocupado em descobrir **quem recebeu o volume** do que em encontrar Tomas. É uma impressão minha, mas lembro bem das perguntas que ele fez.
