@@ -40,7 +40,7 @@ character:
   guard_starting_equipment_option_pending: false
   exile: "Proibido retornar a Valdrén após condenação por assassinato de Edric Valmont; Eron afirma ter sido incriminado"
 narrative:
-  scene: "Na guarita, Neris está vestida e corou ao elogio de Eron. Hadran Selk foi lembrado como contratante de Bram e Lio. Neris reiterou que o sinal da árvore sem folhas é marca de custódia, perguntou se Eron já a viu em outro lugar. Chuva fraca; portas trancadas."
+  scene: "Na guarita, Neris, vestida e com medalhão, pergunta onde Eron viu a marca da árvore sem folhas. Disse que portadores da marca podem ter interesses diferentes; colocou sua capa úmida dobrada no balcão. Eron não declarou vestir-se ou recolher sua capa. Chuva fraca; portas trancadas."
   prior_events_imported: false
   character_actions_so_far:
     - 'Consultar histórico completo das ações em sessions/INDEX.md e transcripts/'
@@ -58,7 +58,7 @@ narrative:
     - 'Registros em dice/ROLL_LOG.csv: 117 Percepção [12]+6=18; 118 Investigação [3]+4=7, ambos Python (MR)'
   consumed_resources:
     - 'Saldo atual 19 flechas, após recuperar uma flecha intacta da terra; segunda flecha partida e inutilizável. Gastos anteriores registrados no índice.'
-  pending_action: "Neris pergunta se Eron viu o sinal em outro lugar. Eron decide resposta e próximos passos; ele não declarou vestir-se ou guardar a capa. Couro da vala não recolhido."
+  pending_action: "Neris pergunta onde Eron encontrou o símbolo: medalhão, documento ou selo. Eron escolhe o que revela e suas próximas ações; couro da vala não recolhido."
   clocks_advanced: null
 isolation:
   previous_camp_global_untouched: true
@@ -66,17 +66,17 @@ isolation:
   pre_execution_state_archive: "archive/CAMPAIGN_STATE_PRE_EXECUCAO_2026-10-12.yaml"
   dm_plan_retained: "dm/WORLD_BIBLE.md"
 transcript:
-  current: "sessions/transcripts/SESSION_0000_CONTINUACAO_20261017_OB.md"
+  current: "sessions/transcripts/SESSION_0000_CONTINUACAO_20261017_OC.md"
   index: "sessions/INDEX.md"
-  previous: "sessions/transcripts/SESSION_0000_CONTINUACAO_20261017_OA.md"
+  previous: "sessions/transcripts/SESSION_0000_CONTINUACAO_20261017_OB.md"
   literal_complete_current_execution: false
-  last_confirmed_message: "0794 — Mestre (narrativa OB, sincronizada)"
-  pending: "Aguardar Mensagem 0795 — Jogador"
+  last_confirmed_message: "0796 — Mestre (narrativa OC, sincronizada)"
+  pending: "Aguardar Mensagem 0797 — Jogador"
 
 operational_checkpoint:
   updated_at: "2026-10-17"
   state_delta: "sessions/STATE_DELTA_20261016_MK.yaml"
-  source_transcript: "sessions/transcripts/SESSION_0000_CONTINUACAO_20261017_OB.md"
+  source_transcript: "sessions/transcripts/SESSION_0000_CONTINUACAO_20261017_OC.md"
   source_index: "sessions/INDEX.md"
   note: "Este é o estado jogável atual; transcrições ML/MM/MN/MQ recuperadas, sem comprovação independente de completude da conversa 01.08."
 
