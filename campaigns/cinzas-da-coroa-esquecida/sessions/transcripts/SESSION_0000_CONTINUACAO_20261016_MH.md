@@ -18,3 +18,5 @@ Neris escuta atentamente, apoiando os cotovelos no velho balcão. Quando Eron me
 — Então alguém estava à sua espera antes mesmo de você chegar a Lorn... — murmura. — Isso torna a situação mais interessante. E perigosa. Mas não vou fingir que sei quem está por trás disso.
 
 Ela aproxima a lamparina alguns centímetros, examinando a madeira marcada do balcão antes de continuar.
+
+— **Vi Tomas pela última vez há uns cinco ou seis dias**, no largo dos carroceiros de Lorn. Ele carregava um estojo comprido, envolvido em couro escuro, com duas correias apertadas ao redor. Era parecido com os tubos usados por cartógrafos para transportar mapas. Não o vi abrir. Portanto, não posso afirmar o que havia dentro, muito menos se ainda estava com ele quando desapareceu.
