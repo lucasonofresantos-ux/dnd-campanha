@@ -15,3 +15,5 @@ Perdão pode continuar
 Vou retomar da pergunta sobre o horário e a divisão das 20 moedas, sem avançar as ações de Eron além do que você já determinou. Também vou registrar as duas mensagens no histórico da campanha.
 
 ## Mensagem 0683 — Mestre (narração visível)
+
+Bram inclina a cabeça, ainda com as mãos erguidas, enquanto Lio observa o companheiro com desconfiança.
