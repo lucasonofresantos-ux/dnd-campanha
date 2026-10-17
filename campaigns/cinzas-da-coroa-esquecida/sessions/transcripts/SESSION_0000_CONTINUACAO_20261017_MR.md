@@ -56,3 +56,17 @@ O vento move os galhos acima dos dois. Da estrada chega o ranger distante de uma
 
 ## Proveniência das rolagens
 Executado em 2026-10-17 no container: `python /mnt/data/rpg_work/dice_roller.py '1d20+6'` → `{"expression": "1d20+6", "rolls": [12], "kept_indices": [0], "modifier": 6, "total": 18}`; depois `python /mnt/data/rpg_work/dice_roller.py '1d20+4'` → `{"expression": "1d20+4", "rolls": [3], "kept_indices": [0], "modifier": 4, "total": 7}`. Script local cotejado com o conteúdo do repo `skills/dice-roller/dice_roller.py`.
+
+## Mensagem 0721 — Mestre (fechamento visível)
+
+**Registro confirmado no GitHub:** transcrição desta interação, rolagens nº 117 e 118, inventário, índice e cronologia foram atualizados. Também recuperei os arquivos ML, MM, MN e MQ, que estavam pendentes. A comparação integral com a conversa original “01.08” continua sem verificação independente.
+
+[Consultar a transcrição da investigação do marco](https://github.com/lucasonofresantos-ux/dnd-campanha/blob/main/campaigns/cinzas-da-coroa-esquecida/sessions/transcripts/SESSION_0000_CONTINUACAO_20261017_MR.md)
+
+[LOG DE MEMÓRIA DA CAMPANHA]
+
+- **Localização Atual:** Junto ao marco de pedra entre os salgueiros, aproximadamente 50 m da guarita de Lorn.
+- **NPCs Presentes e Relação:** Neris Halden, cautelosa, acompanhando Eron.
+- **Linha de Missão Ativa:** Investigar Tomas Rell, a carga desaparecida e os registros de pedágio.
+- **Eventos Cruciais Ocorridos:** Primeira flecha recuperada intacta; segunda encontrada quebrada. Percepção 18 identificou gravação desgastada no marco; Investigação 7 não permitiu decifrá-la.
+- **Condições do Jogador:** 11/11 PV, CA 13, **19 flechas utilizáveis**, 125 PO, 4 PP, 5 PC e Inspiração Heroica disponível. Sem combate. Fragmento de couro da vala ainda não recolhido.
