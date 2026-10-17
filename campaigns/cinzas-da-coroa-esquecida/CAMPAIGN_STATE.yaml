@@ -358,3 +358,10 @@ checkpoint_20261017_QV:
   roll: 'Furtividade 1d20 [20] +5 =25, rolagem informada jogador'
   situation: 'Eron oculto entre caixotes; Neris seguiu para rua paralela. Homem capa castanha entrou no beco, a aproximadamente 4 m, não percebeu Eron; identidade e intenções ainda não confirmadas.'
   resources_unchanged: true
+
+checkpoint_20261017_QW:
+  transcript: 'sessions/transcripts/SESSION_0000_CONTINUACAO_20261017_QW.md'
+  last_message: '0941 Mestre'
+  location: 'Beco do Javali de Ferro, Lorn'
+  situation: 'Perseguidor passou por Eron sem detecta-lo, parou e virou, agora de costas a cerca de 3 metros, Eron segue oculto; Neris mais adiante.'
+  resources_unchanged: true
