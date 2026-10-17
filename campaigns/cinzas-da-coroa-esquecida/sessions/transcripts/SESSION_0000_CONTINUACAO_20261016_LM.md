@@ -31,3 +31,5 @@ Vou usar exatamente os resultados enviados: **Furtividade 25** e **Percepção 2
   </box>
 </row>
 <caption>Resultados do seu rolador visual, aceitos sem repetir os dados.</caption>
+
+Eron aproveita o vento que agita os salgueiros e atravessa silenciosamente os últimos oito metros. Desvia das partes enlameadas onde os passos poderiam produzir ruído e alcança a parede dos fundos da guarita. As dobradiças da pequena porta apresentam ferrugem, mas há marcas mais claras no batente, como se tivesse sido aberta recentemente. Eron se posiciona ao lado da entrada, fora da linha direta de visão de quem pudesse abrir a porta.
