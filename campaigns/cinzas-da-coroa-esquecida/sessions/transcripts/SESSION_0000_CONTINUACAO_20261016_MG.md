@@ -38,3 +38,7 @@ Ela olha para o compartimento vazio atrás do balcão.
 Neris volta os olhos para Eron.
 
 — Agora compreende por que preferi ficar entre os salgueiros? Eu não sabia se aqueles dois trabalhavam para alguém que queria encontrar Tomas... ou fazer desaparecer o que ele deixou para trás.
+
+Ela aguarda um instante.
+
+— Você disse que quer encontrá-lo. **Por quê? O que sabe sobre o desaparecimento dele?**
