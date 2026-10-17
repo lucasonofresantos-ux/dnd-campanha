@@ -40,7 +40,7 @@ character:
   guard_starting_equipment_option_pending: false
   exile: "Proibido retornar a Valdrén após condenação por assassinato de Edric Valmont; Eron afirma ter sido incriminado"
 narrative:
-  scene: "Sobre a capa no assoalho da guarita, Eron beija Neris e aguarda seu gesto. Neris o abraça, envolve voluntariamente a cintura dele com as pernas e retribui os beijos. Chuva fina e lamparina acesa; portas conhecidas trancadas por dentro."
+  scene: "Depois de novo encontro íntimo consensual, Neris descansa sobre a capa com Eron. Deixou arranhões superficiais nas costas dele, desculpou-se e perguntou se ele está bem. Chuva mais fraca, portas conhecidas trancadas por dentro."
   prior_events_imported: false
   character_actions_so_far:
     - 'Consultar histórico completo das ações em sessions/INDEX.md e transcripts/'
@@ -58,7 +58,7 @@ narrative:
     - 'Registros em dice/ROLL_LOG.csv: 117 Percepção [12]+6=18; 118 Investigação [3]+4=7, ambos Python (MR)'
   consumed_resources:
     - 'Saldo atual 19 flechas, após recuperar uma flecha intacta da terra; segunda flecha partida e inutilizável. Gastos anteriores registrados no índice.'
-  pending_action: "Eron escolhe próximos atos. Neris permanece abraçada a ele e mantém a decisão sobre seus limites. Missão Tomas pendente; couro da vala não recolhido."
+  pending_action: "Neris pergunta se Eron está bem. Eron decide resposta. Missão Tomas segue aberta; couro da vala ainda não recolhido."
   clocks_advanced: null
 isolation:
   previous_camp_global_untouched: true
@@ -68,7 +68,7 @@ isolation:
 transcript:
   current: "sessions/transcripts/SESSION_0000_CONTINUACAO_20261017_NX.md"
   index: "sessions/INDEX.md"
-  previous: "sessions/transcripts/SESSION_0000_CONTINUACAO_20261017_NU.md"
+  previous: "sessions/transcripts/SESSION_0000_CONTINUACAO_20261017_NW.md"
   literal_complete_current_execution: false
   last_confirmed_message: "0786 — Mestre (narrativa NX, sincronizada)"
   pending: "Aguardar Mensagem 0787 — Jogador"
@@ -76,7 +76,7 @@ transcript:
 operational_checkpoint:
   updated_at: "2026-10-17"
   state_delta: "sessions/STATE_DELTA_20261016_MK.yaml"
-  source_transcript: "sessions/transcripts/SESSION_0000_CONTINUACAO_20261017_NV.md"
+  source_transcript: "sessions/transcripts/SESSION_0000_CONTINUACAO_20261017_NX.md"
   source_index: "sessions/INDEX.md"
   note: "Este é o estado jogável atual; transcrições ML/MM/MN/MQ recuperadas, sem comprovação independente de completude da conversa 01.08."
 
