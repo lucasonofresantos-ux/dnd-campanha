@@ -33,3 +33,11 @@ Bram volta a encarar Eron.
 Lio permanece imóvel, respirando rapidamente. Bram mantém as mãos à vista, sem avançar ou procurar a faca. Os dois continuam obedecendo, embora o medo já tenha substituído qualquer possibilidade de uma conversa cordial.
 
 Nenhum novo teste é necessário neste momento: a Intimidação 20 anterior continua produzindo consequências nesta mesma confrontação. Isso não garante que Bram saiba mais do que declarou, nem que todas as suas afirmações sejam verdadeiras.
+
+**[LOG DE MEMÓRIA DA CAMPANHA]**
+
+- **Localização Atual:** Porta dos fundos da guarita antiga, perto da Ponte Velha. Bram e Lio estão alguns metros à frente, do lado de fora.
+- **NPCs Presentes e Relação:** Bram Keld e Lio Marr, ambos voltados para Eron, com as mãos erguidas, assustados e cooperando sob ameaça.
+- **Linha de Missão Ativa:** Investigar Tomas Rell, o cilindro de mapas, os registros de cargas e as informações de Hadran Selk sobre Eron.
+- **Eventos Cruciais Ocorridos:** Eron ameaçou ferir Bram se ele estivesse omitindo informações. Bram declarou que Selk ordenou que retornasse ao pátio dos armazéns mesmo sem a folha e informasse se River aparecera. Lio demonstrou surpresa. Relato de Bram não verificado; não houve novo teste ou combate.
+- **Condições do Jogador:** 11/11 PV, CA 13, 19 flechas no inventário; uma flecha de advertência permanece cravada no solo. 125 PO, 4 PP e 5 PC. Inspiração Heroica disponível. Arco em mãos, sem ferimentos ou novos gastos.
