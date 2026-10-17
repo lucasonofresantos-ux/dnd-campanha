@@ -29,3 +29,7 @@ Lio lança um olhar desconfortável ao companheiro.
 O transportador volta a atenção para Eron.
 
 — Entendi suas condições. Mas há uma coisa que você deveria considerar: **Selk já esperava que você pudesse aparecer por aqui.** Não sei por quê, nem se pretende encontrá-lo. Só sei que foi ele quem me deu seu nome.
+
+Bram e Lio continuam parados diante de Eron, aguardando permissão para seguir. O vento movimenta as folhas dos salgueiros, e a flecha de advertência permanece cravada na terra entre eles.
+
+Nenhuma nova rolagem é necessária. Bram aceitou o combinado sob a intimidação anterior, mas Eron não tem como garantir antecipadamente que ele cumprirá a promessa quando estiver fora de seu alcance.
