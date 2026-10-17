@@ -182,3 +182,11 @@ checkpoint_20261017_PF:
   money: {gp: 124, sp: 8, cp: 5}
   perception_previous_PD: '2+6=8 narrada; execução independente não auditada nesta recuperação'
   no_new_rolls: true
+
+checkpoint_20261017_PL:
+  location: 'Interior do Escritório Municipal de Arrecadação, Lorn'
+  situation: 'Neris abriu conversa com funcionário, que identificou Odran Vell como responsável ocupado. Funcionário pede nomes para anunciar. Homem de capa castanha não visível pela janela limitada.'
+  transcript_current: 'sessions/transcripts/SESSION_0000_CONTINUACAO_20261017_PL.md'
+  previous: 'sessions/transcripts/SESSION_0000_CONTINUACAO_20261017_PK.md'
+  last_confirmed_message: '0867 — Mestre (PL)'
+  resources: '11/11 PV, CA 13, 19 flechas, 124 PO, 8 PP, 5 PC, inspiração heroica disponível'
