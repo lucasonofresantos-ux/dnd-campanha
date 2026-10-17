@@ -24,4 +24,4 @@ Por alguns instantes, ninguém se move. A lamparina crepita sobre o balcão, pro
 
 **Teste de Carisma (Intimidação): `1d20 +1`.**
 
-A ameaça é séria, mas pode tanto fazê-los cooperar quanto aumentar a resistência deles.
+A ameaça é séria, mas pode tanto fazê-los cooperar quanto aumentar a resistência deles. O resultado determinará como os dois reagem e o que estarão dispostos a revelar.
