@@ -21,3 +21,11 @@ Bram engole em seco.
 — Vou comparecer. Direi que vasculhamos a guarita, que não encontramos a folha e que encontrei você aqui. Não enviarei mensageiro nem procurarei Selk antes de falar com ele pessoalmente, na balança. Quanto ao pagamento... faltam dezesseis peças de ouro. Se ele me pagar, ficarei com elas, como permitiu.
 
 Lio lança um olhar desconfortável ao companheiro.
+
+— Bram, eu não quero mais participar disso. Nem sei por que aquele despachante está tão interessado nesse homem.
+
+— Você não precisa dizer nada, Lio — responde Bram, sem baixar as mãos.
+
+O transportador volta a atenção para Eron.
+
+— Entendi suas condições. Mas há uma coisa que você deveria considerar: **Selk já esperava que você pudesse aparecer por aqui.** Não sei por quê, nem se pretende encontrá-lo. Só sei que foi ele quem me deu seu nome.
