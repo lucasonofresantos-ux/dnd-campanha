@@ -633,3 +633,9 @@ checkpoint_20261017_TE:
   last_message: '1061 Mestre'
   location: 'Casa da Balanca, Lorn, 18h04, inicio quarta rodada'
   situation: 'Eron esperou seu turno. Iven se afastou da porta com maos erguidas, homem de avental mantem rendicao, ultimo homem armado atacou Neris mas ela esquivou. Interrogador ferido preso no assoalho ameacou Eron verbalmente. Terceira rodada terminou; Eron tem acao e deslocamento disponíveis na quarta rodada, espada curta e adaga em maos, 11 PV, CA13, 16 flechas.'
+
+checkpoint_20261017_TG:
+  transcript: 'sessions/transcripts/SESSION_0000_CONTINUACAO_20261017_TG.md'
+  last_message: '1065 Mestre'
+  location: 'Sala do armazem da Casa da Balanca, Lorn, 18h04'
+  situation: 'Eron sacou adaga restante e ordenou sob ameacas que homem de avental levasse guarda inconsciente para dentro, e homem de espada rendido largasse arma e viesse. Homem de avental arrastou o companheiro, homem ferido no joelho aproximou-se desarmado com adaga de Eron ainda cravada. Interrogador ferido junto a mesa desafia Eron verbalmente. Iven mantém disfarce e maos visiveis. Neris vigia entrada. Sem novas rolagens ou dano.'
