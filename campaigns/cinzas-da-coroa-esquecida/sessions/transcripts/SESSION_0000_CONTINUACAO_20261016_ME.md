@@ -25,3 +25,5 @@ Ao ouvir a pergunta sobre Bram e Lio, a mulher olha brevemente para a estrada po
 Ela estreita os olhos.
 
 — Mas não sabia que procuravam papéis. Estava longe demais para ouvir a conversa. E não disse que estava apenas passando por aqui.
+
+Seus dedos se aproximam instintivamente do medalhão, mas ela interrompe o movimento ao perceber que Eron acompanha sua mão.
