@@ -26,3 +26,5 @@ Não somos guardas nem fiscais. Fomos contratados ontem para recuperar uma folha
 Bram lança um olhar severo a Lio, mas não o interrompe.
 
 — Por **Hadran Selk** — acrescenta o copista, nervoso. — Um despachante que trabalha com mercadorias no pátio dos armazéns. Ele disse que havia uma anotação sobre uma entrega associada a Tomas Rell, feita há quatro dias.
+
+— **Nenhum de nós viu Rell pessoalmente** — esclarece Bram. — Sabemos o que Selk nos contou. Ele queria a folha porque nela deveria constar quem recebeu a carga. Disse que nos pagaria quando a entregássemos.
