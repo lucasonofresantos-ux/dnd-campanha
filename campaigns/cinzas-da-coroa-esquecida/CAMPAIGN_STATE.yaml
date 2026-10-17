@@ -7,7 +7,7 @@ session: 0
 ruleset: "D&D 5E 2024 / SRD 5.2.1 (Guarda e Tenaz: PHB 2024)"
 audience_rating: "18+"
 tone: "Fantasia medieval adulta: romance, conflito e consequências; intimidade narrada sem descrição sexual gráfica"
-current_location: "À entrada do Javali de Ferro em Lorn, com Neris Halden; ainda não entraram"
+current_location: "À mesa lateral do Javali de Ferro em Lorn, com Neris Halden, almoço em andamento"
 current_time: "Outono, manhã; hora exata não fixada; chuva e solo úmido"
 character:
   name: Eron River
@@ -61,7 +61,7 @@ narrative:
     - '121 Percepção caminho ao posto da guarda: 1d20 [6]+6=12, Python secrets.randbelow (OM)'
   consumed_resources:
     - 'Saldo atual 19 flechas, após recuperar uma flecha intacta da terra; segunda flecha partida e inutilizável. Gastos anteriores registrados no índice.'
-  pending_action: "Eron e Neris chegaram à entrada do Javali de Ferro para almoçar, sem entrar ou gastar. Percepção 14 não identificou perseguidor persistente; vigilância não excluída."
+  pending_action: "Eron e Neris almoçam no Javali de Ferro; Neris perguntou se Eron sempre leva tão a sério as investigações. Aguarda resposta."
   clocks_advanced: null
 isolation:
   previous_camp_global_untouched: true
@@ -69,12 +69,12 @@ isolation:
   pre_execution_state_archive: "archive/CAMPAIGN_STATE_PRE_EXECUCAO_2026-10-12.yaml"
   dm_plan_retained: "dm/WORLD_BIBLE.md"
 transcript:
-  current: "sessions/transcripts/SESSION_0000_CONTINUACAO_20261017_PB.md"
+  current: "sessions/transcripts/SESSION_0000_CONTINUACAO_20261017_PF.md"
   index: "sessions/INDEX.md"
-  previous: "sessions/transcripts/SESSION_0000_CONTINUACAO_20261017_PA.md"
+  previous: "sessions/transcripts/SESSION_0000_CONTINUACAO_20261017_PE.md"
   literal_complete_current_execution: false
-  last_confirmed_message: "0847 — Mestre (PB)"
-  pending: "Aguardar Mensagem 0848 — Jogador"
+  last_confirmed_message: "0855 — Mestre (PF)"
+  pending: "Aguardar Mensagem 0856 — Jogador"
 
 operational_checkpoint:
   updated_at: "2026-10-17"
@@ -176,3 +176,9 @@ checkpoint_20261017_OX:
   roll: {expression: '1d20+4', natural: 17, bonus: 4, total: 21, source: 'Python secrets.randbelow executado'}
   discovery: 'Nos papéis consultados, sem data definida de retirada dos livros e sem destinatário identificado'
   resources_unchanged: true
+
+checkpoint_20261017_PF:
+  current_location: 'Javali de Ferro, mesa lateral com Neris, refeição em andamento'
+  money: {gp: 124, sp: 8, cp: 5}
+  perception_previous_PD: '2+6=8 narrada; execução independente não auditada nesta recuperação'
+  no_new_rolls: true
