@@ -40,7 +40,7 @@ character:
   guard_starting_equipment_option_pending: false
   exile: "Proibido retornar a Valdrén após condenação por assassinato de Edric Valmont; Eron afirma ter sido incriminado"
 narrative:
-  scene: "Eron contou a Neris sobre Garrick na Ponte Velha, a oferta 50+50 PO por Tomas Rell e o cilindro de mapas, e os pedidos ainda não aprovados de bônus por Tomas vivo e conversa com fonte sobre Valdrén. Também explicou Darrik como vigia pago por Veler Sann e o bilhete anônimo relatado por Veler. Neris agora conhece legitimamente o nome Veler, mas não há vínculo comprovado entre ele e Garrick. Neris pergunta se Garrick apresentou prova de autoridade do remetente. Cartas sobre balcão, chuva fraca, portas conhecidas trancadas."
+  scene: "Eron afirma não ter provas ou motivos para exigir credenciais ou interrogar Garrick. Neris concorda com a prudência, lembra registros T. Rell / estojo lacrado, duas cartas com árvore sem folhas e possível encontro de Bram com Hadran Selk na balança coberta no fim da tarde. Não há garantia de comparecimento de Selk. Cartas sobre balcão, chuva fraca, lamparina acesa, portas trancadas."
   prior_events_imported: false
   character_actions_so_far:
     - 'Consultar histórico completo das ações em sessions/INDEX.md e transcripts/'
@@ -58,7 +58,7 @@ narrative:
     - 'Registros em dice/ROLL_LOG.csv: 117 Percepção [12]+6=18; 118 Investigação [3]+4=7, ambos Python (MR)'
   consumed_resources:
     - 'Saldo atual 19 flechas, após recuperar uma flecha intacta da terra; segunda flecha partida e inutilizável. Gastos anteriores registrados no índice.'
-  pending_action: "Neris pergunta se Garrick mostrou selo, documento ou outra prova de que representava o remetente da proposta. Eron decide o que responde e faz. Couro da vala não recolhido."
+  pending_action: "Neris considera útil apurar o interesse de Hadran Selk antes que a possível reunião de fim de tarde aconteça. Eron decide como proceder; couro da vala não recolhido."
   clocks_advanced: null
 isolation:
   previous_camp_global_untouched: true
@@ -66,17 +66,17 @@ isolation:
   pre_execution_state_archive: "archive/CAMPAIGN_STATE_PRE_EXECUCAO_2026-10-12.yaml"
   dm_plan_retained: "dm/WORLD_BIBLE.md"
 transcript:
-  current: "sessions/transcripts/SESSION_0000_CONTINUACAO_20261017_OG.md"
+  current: "sessions/transcripts/SESSION_0000_CONTINUACAO_20261017_OH.md"
   index: "sessions/INDEX.md"
-  previous: "sessions/transcripts/SESSION_0000_CONTINUACAO_20261017_OF.md"
+  previous: "sessions/transcripts/SESSION_0000_CONTINUACAO_20261017_OG.md"
   literal_complete_current_execution: false
-  last_confirmed_message: "0804 — Mestre (narrativa OG, sincronizada)"
-  pending: "Aguardar Mensagem 0805 — Jogador"
+  last_confirmed_message: "0806 — Mestre (narrativa OH, sincronizada)"
+  pending: "Aguardar Mensagem 0807 — Jogador"
 
 operational_checkpoint:
   updated_at: "2026-10-17"
   state_delta: "sessions/STATE_DELTA_20261016_MK.yaml"
-  source_transcript: "sessions/transcripts/SESSION_0000_CONTINUACAO_20261017_OG.md"
+  source_transcript: "sessions/transcripts/SESSION_0000_CONTINUACAO_20261017_OH.md"
   source_index: "sessions/INDEX.md"
   note: "Este é o estado jogável atual; transcrições ML/MM/MN/MQ recuperadas, sem comprovação independente de completude da conversa 01.08."
 
