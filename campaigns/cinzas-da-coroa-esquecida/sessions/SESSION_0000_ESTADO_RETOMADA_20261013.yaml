@@ -1070,3 +1070,28 @@ current_scene_lk_20261016:
   new_expenses: 0
   combat: false
   awaiting_player_action: true
+
+current_scene_lm_20261016:
+  campaign_id: cinzas-da-coroa-esquecida
+  session: 0
+  latest_transcript: sessions/transcripts/SESSION_0000_CONTINUACAO_20261016_LM.md
+  last_message: '0658 — Mestre'
+  location: 'Junto ao batente exterior da porta de serviço nos fundos da antiga guarita de pedágio, Ponte Velha, Lorn'
+  time: 'Manhã'
+  eron: 'Oculto junto à parede externa, ouvindo pessoas dentro; ainda não entrou ou abriu porta'
+  stealth: {expression: '1d20+6', natural: 19, modifier: 6, total: 25, log_order: 105, roller: 'jogador_rolador_visual_local_math_random'}
+  perception: {expression: '1d20+6', natural: 18, modifier: 6, total: 24, log_order: 106, roller: 'jogador_rolador_visual_local_math_random'}
+  interior: 'Duas vozes masculinas audíveis, identidade não revelada, parecem procurar registro e outra folha; ruído de madeira e papéis'
+  heard_words: ['Eu disse que o registro estava aqui', 'E eu disse que alguém chegou antes de nós. Olhe para o encaixe. Está vazio', 'Então procure a outra folha. Não vou sair daqui de mãos vazias']
+  detection: 'Nenhuma reação perceptível à aproximação atual, mas não garantir invisibilidade absoluta'
+  rear_door: 'Fechada, marcas recentes de uso no batente'
+  hp_current: 11
+  hp_max: 11
+  armor_class: 13
+  arrows: 20
+  money: {gp: 125, sp: 4, cp: 5}
+  heroic_inspiration: true
+  hit_dice_available: '1d8'
+  new_expenses: 0
+  combat: false
+  awaiting_player_action: true
