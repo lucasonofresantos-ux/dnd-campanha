@@ -118,3 +118,5 @@ cinzas-da-coroa-esquecida,0000,134,percepcao_trajeto_oficina,jogador_app_local,1
 cinzas-da-coroa-esquecida,0000,135,furtividade_beco_javali,jogador_app_local,20,,20,5,25,true,"QV 0938-0939; resultado informado jogador; 20 natural não é sucesso automático de perícia"
 cinzas-da-coroa-esquecida,0000,136,percepcao_antes_encontro_bran,jogador_dado_informado,17,,17,6,23,true,"RK 0968-0969; furtividade pendente"
 cinzas-da-coroa-esquecida,0000,137,furtividade_antes_encontro_bran,jogador_dado_informado,19,,19,5,24,true,"RL 0970-0971; posição oculta; Neris não coberta automaticamente pelo teste"
+cinzas-da-coroa-esquecida,0000,138,furtividade_seguir_sann,jogador_dado_informado,20,,20,5,25,true,"RP 0978-0979"
+cinzas-da-coroa-esquecida,0000,139,percepcao_observadores_sann,jogador_dado_informado,19,,19,6,25,true,"RP 0978-0979"
