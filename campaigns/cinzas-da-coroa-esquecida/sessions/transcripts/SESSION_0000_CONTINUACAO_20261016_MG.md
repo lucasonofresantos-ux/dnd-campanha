@@ -34,3 +34,7 @@ Neris apoia os antebraços sobre a mesa, sem esconder as mãos.
 Ela olha para o compartimento vazio atrás do balcão.
 
 — Faz algum tempo que não tenho notícias dele. Vim até aqui porque soube que havia gente procurando um registro relacionado a uma de suas entregas. Queria descobrir quem eram essas pessoas antes de me apresentar.
+
+Neris volta os olhos para Eron.
+
+— Agora compreende por que preferi ficar entre os salgueiros? Eu não sabia se aqueles dois trabalhavam para alguém que queria encontrar Tomas... ou fazer desaparecer o que ele deixou para trás.
