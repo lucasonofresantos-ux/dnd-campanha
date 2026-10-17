@@ -24,3 +24,5 @@ Ela aproxima a lamparina alguns centímetros, examinando a madeira marcada do ba
 Neris ergue os olhos para Eron.
 
 — Mas posso lhe dar outra pista. **Uma entrega registrada nesta guarita normalmente deixa mais de um vestígio.** Existe o registro de passagem e há também os lançamentos de cobrança e conferência de carga. Os dois não são necessariamente guardados no mesmo lugar.
+
+Ela aponta para o compartimento vazio atrás do balcão.
