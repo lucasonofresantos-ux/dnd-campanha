@@ -314,3 +314,12 @@ checkpoint_20261017_QM:
   location: 'Rua principal em direção à oficina de Dagan Murr, Lorn'
   situation: 'Bren leva carroça avariada; Neris acompanha; Eron pediu rolador para Percepção +6, aguardando resultado antes de resolver vigilância e chegada.'
   roll_pending: '1d20+6; nenhum dado lançado/aplicado nesta resposta'
+
+checkpoint_20261017_QN:
+  transcript: 'sessions/transcripts/SESSION_0000_CONTINUACAO_20261017_QN.md'
+  last_message: '0923 — Mestre'
+  location: 'Entrada da oficina de Dagan Murr, Lorn'
+  time: 'por volta das 15h, ficcional'
+  roll: 'Percepção d20 [16]+6=22, aplicativo local, valor enviado pelo jogador, sem novo sorteio'
+  situation: 'Homem capa castanha segue rotas paralelas, observa carroça de Bren a uns 50 passos da banca de verduras. Bren chegou à oficina; Neris pergunta discretamente sobre o perseguidor.'
+  resources_unchanged: true
