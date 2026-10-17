@@ -23,3 +23,5 @@ Eron conserva a mulher em seu campo de visão enquanto fecha a porta dos fundos 
 O interior da guarita fica mais escuro. A lamparina ainda acesa ilumina as gavetas abertas, os caixotes deslocados e o compartimento vazio onde Bram e Lio procuravam os registros. O cheiro de madeira úmida mistura-se ao de poeira antiga.
 
 — Sim, eu estava lá fora quando você chegou — admite ela. — Vi alguém entrar discretamente pela parte de trás. Não sabia quem era. Minha atenção estava nos dois homens que já haviam entrado aqui.
+
+A mulher lança um olhar ao compartimento vazio atrás do balcão, mas não se aproxima dele.
