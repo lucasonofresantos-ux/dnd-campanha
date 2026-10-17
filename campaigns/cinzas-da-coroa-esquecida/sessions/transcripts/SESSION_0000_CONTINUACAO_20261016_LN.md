@@ -31,3 +31,8 @@ O homem magro passa a mão pelo rosto, frustrado.
 O barbudo não responde imediatamente. Em vez disso, aproxima a lamparina de uma superfície de madeira e começa a examinar algumas marcas.
 
 **Nenhum dos dois demonstra ter percebido Eron.** A porta dos fundos permanece entreaberta, e ele está oculto atrás dos caixotes, com os dois homens ao alcance de uma aproximação adicional. Ainda não há confirmação de que sejam fiscais, guardas ou criminosos.
+
+**[LOG DE MEMÓRIA DA CAMPANHA]**
+
+- **Localização Atual:** Interior da antiga guarita de pedágio, atrás de caixotes, a 4 m dos dois homens.
+- **NPCs Presentes e Relação:** Dois homens não identificados, um robusto e barbudo, outro magro de manto escuro; sem reação perceptível à entrada.
