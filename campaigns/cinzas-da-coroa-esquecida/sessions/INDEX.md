@@ -703,3 +703,5 @@ LR 0667–0668: rolagem 107 Intimidacao 20; Bram e Lio falam de Selk.
 
 
 [ML — 0708–0709] — Eron vai examinar o entorno da guarita; teste externo de Percepção solicitado.
+
+[MM/MN — 0710–0713, pendência] Jogador solicitou rolagem, depois perguntou sobre registro no GitHub. A resposta anterior publicou Percepção 8+6=14 sem execução Python verificável; a correção foi executada agora em Python com resultado 1+6=7, log 113. As respostas integrais de ML/MM/MN ainda não foram salvas como transcrição, pois a operação de escrita de transcripts foi bloqueada. Não confundir indexação e log com transcrição literal completa.
