@@ -101,3 +101,4 @@ cinzas-da-coroa-esquecida,0000,116,investigacao_vegetacao_guarita,python_secrets
 cinzas-da-coroa-esquecida,0000,117,percepcao_marco_pedra,python_secrets_randbelow,12,,12,6,18,true,"MR 0720-0721; script executado; gravacao antiga sob musgo"
 cinzas-da-coroa-esquecida,0000,118,investigacao_marco_pedra,python_secrets_randbelow,3,,3,4,7,true,"MR 0720-0721; script executado; gravacao nao decifrada"
 cinzas-da-coroa-esquecida,0000,119,persuasao_neris_guarita,roll20_jogador,20,,20,1,21,true,"MS 0722-0723; d20 natural informado pelo jogador no Roll20, Persuasão +1; não reexecutado; NPC mantém autonomia"
+cinzas-da-coroa-esquecida,0000,119,persuasao_neris,roll20_jogador,20,,20,1,21,true,"MS 0722-0723; natural 20 declarado pelo jogador no Roll20; Persuasão sem proficiência, CAR +1; NPC receptiva, sem sucesso automático; sem rerrolagem"
