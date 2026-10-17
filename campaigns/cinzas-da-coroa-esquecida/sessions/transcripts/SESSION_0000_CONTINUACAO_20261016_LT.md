@@ -10,3 +10,9 @@ Eu saio de trás do esconderijo, e não se importem mas vou revistar os dois par
 Vou conferir os registros da campanha para manter a descrição de Hadran Selk coerente. Depois resolvo a reação de Bram e Lio à revista, identifico o que Eron consegue verificar e registro a interação no GitHub.
 
 ## Mensagem 0672 — Mestre (narração e diálogo visíveis)
+
+Eron sai de trás dos caixotes. Bram acompanha seus movimentos com o olhar, mas mantém as mãos afastadas da faca. Quando Eron anuncia que vai revistá-los, o transportador contrai o maxilar.
+
+— Já entendemos que não está brincando — responde Bram. — Faça o que precisa fazer.
+
+Lio, mais nervoso, levanta os braços e começa a responder sobre Hadran Selk.
