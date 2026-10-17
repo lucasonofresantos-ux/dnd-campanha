@@ -1279,3 +1279,30 @@ current_scene_lw_20261016:
   initiative_started: false
   new_expenses: 0
   awaiting_player_action: true
+
+current_scene_lx_20261016:
+  campaign_id: cinzas-da-coroa-esquecida
+  session: 0
+  latest_transcript: sessions/transcripts/SESSION_0000_CONTINUACAO_20261016_LX.md
+  last_message: '0680 — Mestre'
+  location: 'Porta posterior da guarita antiga, perto da Ponte Velha, Lorn; Bram e Lio alguns metros do lado de fora'
+  time: 'Manhã'
+  eron: 'Com arco em mãos, impôs a Bram encontro presencial com Selk na balança coberta e proibiu aviso anterior sob ameaça; não permitiu explicitamente que saíssem ainda'
+  bram: 'De mãos erguidas, disse não haver hora exata marcada com Selk, apenas fim da tarde antes do anoitecer na última conferência de cargas; prometeu comparecer e relatar a presença de River apenas pessoalmente'
+  lio: 'Mãos erguidas, medo; declarou não querer mais participar'
+  meeting_time_claim: 'Fim da tarde, última conferência de cargas na balança coberta do pátio dos armazéns, antes do anoitecer. Nenhuma hora de sino exata foi marcada'
+  future_compliance_unverified: true
+  payment_claim: '20 PO pelos dois, 4 PO já adiantadas; 16 PO restantes condicionadas a entrega; Eron não recebeu moedas'
+  prior_intimidation: {roll_order: 107, total: 20, applied_to_same_continuous_confrontation: true}
+  new_rolls_this_turn: 0
+  arrow_warning: 'Uma flecha de advertência permanece cravada no solo, ainda não recuperada'
+  arrows_current: 19
+  hp_current: 11
+  hp_max: 11
+  armor_class: 13
+  money: {gp: 125, sp: 4, cp: 5}
+  heroic_inspiration: true
+  hit_dice_available: '1d8'
+  combat: false
+  new_expenses: 0
+  awaiting_player_action: true
