@@ -18,3 +18,11 @@ Novos testes de Eron — contornando a guarita
 **Furtividade: 14** — 1d20 → [8] +6 = 14.
 
 Dois lançamentos independentes, executados com o rolador Python do projeto (`secrets.randbelow`). Sem vantagem ou desvantagem.
+
+Eron aguarda até que uma rajada de vento agite os salgueiros, aproveitando o farfalhar das folhas para se deslocar. Mantendo-se baixo, abandona o trecho mais exposto da estrada e contorna a guarita pelo lado do barranco, utilizando pedras, vegetação e o desnível do terreno como cobertura. Desta vez, consegue avançar sem produzir ruídos evidentes. Nenhuma voz ou movimento denuncia uma reação imediata de quem possa estar lá dentro.
+
+Ao examinar a construção por outros ângulos, Eron identifica três pontos importantes:
+
+- **Frente:** uma porta de madeira voltada para a estrada, aparentemente fechada, e a portinhola onde viu a sombra.
+- **Lateral do rio:** uma janela estreita, parcialmente obstruída por tábuas. Dali não consegue distinguir o interior.
+- **Fundos:** uma porta de serviço menor, com dobradiças enferrujadas, mas sinais de uso recente perto da soleira.
