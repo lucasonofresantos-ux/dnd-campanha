@@ -28,3 +28,5 @@ Ao chegar a aproximadamente **25 metros de Eron**, para.
 — Eu saí, como mandou! — grita. — Mas não vou me aproximar de um homem que acaba de disparar contra mim sem saber o que pretende!
 
 A outra mão permanece próxima ao peito, onde Eron havia visto o reflexo metálico. **Nenhuma arma está visivelmente empunhada.**
+
+Bram e Lio continuam se afastando pela estrada. A pessoa desconhecida agora está em terreno aberto, diante de Eron, e aguarda sua reação.
