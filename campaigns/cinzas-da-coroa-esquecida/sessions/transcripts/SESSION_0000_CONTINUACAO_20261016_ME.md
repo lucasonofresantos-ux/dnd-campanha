@@ -23,3 +23,5 @@ Ao ouvir a pergunta sobre Bram e Lio, a mulher olha brevemente para a estrada po
 — **Por volta das nove da manhã**, eu diria. Ouvi o sino da torre pouco antes de vê-los chegar. Entraram naquela guarita e passaram algum tempo lá dentro.
 
 Ela estreita os olhos.
+
+— Mas não sabia que procuravam papéis. Estava longe demais para ouvir a conversa. E não disse que estava apenas passando por aqui.
