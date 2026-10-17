@@ -13,3 +13,5 @@ A percepção que tenho, oque ela estava tampando com a outra mão.
 Vou conferir a posição da observadora e o que Eron já conseguiu enxergar com Percepção 26. Depois resolvo a resposta dela sobre Bram e Lio e registro a cena, junto das pendências de transcrição, no GitHub.
 
 ## Mensagem 0695 — Mestre (resposta visível)
+
+Eron mantém os olhos na peça metálica junto ao peito da desconhecida. Com a **Percepção 26** obtida anteriormente, ele já havia notado que a mulher pressionava deliberadamente os dedos contra aquele objeto enquanto observava a guarita.
