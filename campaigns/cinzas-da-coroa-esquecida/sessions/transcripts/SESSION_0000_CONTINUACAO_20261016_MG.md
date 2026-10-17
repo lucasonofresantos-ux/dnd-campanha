@@ -20,3 +20,7 @@ A mulher observa os bancos de madeira junto ao balcão. Escolhe um deles, arrast
 Quando Eron menciona o medalhão, ela hesita, mas finalmente afasta a capa e ergue a peça pelo cordão.
 
 À luz da lamparina, Eron distingue a gravação: **uma árvore sem folhas, com raízes compridas que atravessam um círculo de pequenos traços**. O metal está gasto, sobretudo nas bordas.
+
+— É uma marca de custódia. Não é insígnia da guarda nem símbolo de alguma casa nobre. Há pessoas que se dedicam a preservar documentos que outros prefeririam destruir. Eu trabalho com algumas delas.
+
+Ela baixa o medalhão, mas o deixa visível.
