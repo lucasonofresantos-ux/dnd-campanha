@@ -45,3 +45,7 @@ Bram hesita por um instante, lança um último olhar ao compartimento vazio atr�
 — Que não nos encontremos novamente nessas circunstâncias, River.
 
 Os dois saem pela porta dos fundos e seguem em direção à estrada. **Eron permanece sozinho dentro da guarita.** O compromisso de silêncio foi aceito sob ameaça, mas não há garantia de que Bram e Lio o cumprirão depois de se afastarem.
+
+Há, porém, um detalhe na despedida de Bram: **ele chamou Eron de “River”**, embora Eron não tenha lhe informado seu sobrenome durante esse encontro.
+
+A guarita agora está silenciosa. A lamparina continua acesa sobre o antigo balcão, e o compartimento de registros permanece vazio.
