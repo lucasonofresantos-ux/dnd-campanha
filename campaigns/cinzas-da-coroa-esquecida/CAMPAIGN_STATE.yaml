@@ -291,3 +291,11 @@ checkpoint_20261017_QI:
   time: 'Por volta das 14h30 conforme estimativa de Bren, não relógio verificado por Eron'
   situation: 'Eron ofereceu ajuda para levar carroça a Dagan; Bren pede auxílio a descarregar sacos antes de movimentar; Eron não iniciou descarga ainda.'
   resources_unchanged: true
+
+checkpoint_20261017_QJ:
+  transcript: 'sessions/transcripts/SESSION_0000_CONTINUACAO_20261017_QJ.md'
+  last_message: '0915 — Mestre'
+  location: 'Armazéns do Cais Sul, junto à carroça de Bren Orvik, Lorn'
+  roll: 'Dado físico do jogador, Percepção 16+6=22'
+  situation: 'Eron vigia acessos; homem de capa castanha observado a cerca de 50 passos, parcialmente oculto na passagem lateral; Bren e carregadores terminam descarregamento antes de seguir à oficina.'
+  resources_unchanged: true
