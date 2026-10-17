@@ -30,3 +30,6 @@ A ameaça é séria, mas pode tanto fazê-los cooperar quanto aumentar a resist�
 
 - **Localização Atual:** Interior da guarita, atrás dos caixotes, a cerca de quatro metros dos dois homens.
 - **NPCs Presentes e Relação:** Homem barbudo tenso, com faca embainhada; homem magro recuou ao ouvir a ameaça e reagiu ao nome Tomas Rell.
+- **Linha de Missão Ativa:** Investigar Tomas Rell, cilindro de mapas e registro de cargas desaparecido.
+- **Eventos Cruciais Ocorridos:** Eron ameaçou os dois homens enquanto propunha cooperação. Intimidação (Carisma) +1 solicitada, ainda sem rolagem e sem definição sobre cooperação.
+- **Condições do Jogador:** 11/11 PV; CA 13; 20 flechas; 125 PO, 4 PP e 5 PC. Inspiração Heroica disponível. Nenhum dano, gasto ou combate. Continua atrás de caixotes, mas sua presença já é conhecida.
