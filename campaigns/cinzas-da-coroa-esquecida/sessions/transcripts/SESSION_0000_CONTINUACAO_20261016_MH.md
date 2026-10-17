@@ -22,3 +22,5 @@ Ela aproxima a lamparina alguns centímetros, examinando a madeira marcada do ba
 — **Vi Tomas pela última vez há uns cinco ou seis dias**, no largo dos carroceiros de Lorn. Ele carregava um estojo comprido, envolvido em couro escuro, com duas correias apertadas ao redor. Era parecido com os tubos usados por cartógrafos para transportar mapas. Não o vi abrir. Portanto, não posso afirmar o que havia dentro, muito menos se ainda estava com ele quando desapareceu.
 
 Neris ergue os olhos para Eron.
+
+— Mas posso lhe dar outra pista. **Uma entrega registrada nesta guarita normalmente deixa mais de um vestígio.** Existe o registro de passagem e há também os lançamentos de cobrança e conferência de carga. Os dois não são necessariamente guardados no mesmo lugar.
