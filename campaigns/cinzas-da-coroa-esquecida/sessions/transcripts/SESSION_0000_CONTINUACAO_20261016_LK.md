@@ -26,3 +26,9 @@ Ao examinar a construção por outros ângulos, Eron identifica três pontos imp
 - **Frente:** uma porta de madeira voltada para a estrada, aparentemente fechada, e a portinhola onde viu a sombra.
 - **Lateral do rio:** uma janela estreita, parcialmente obstruída por tábuas. Dali não consegue distinguir o interior.
 - **Fundos:** uma porta de serviço menor, com dobradiças enferrujadas, mas sinais de uso recente perto da soleira.
+
+O detalhe mais interessante está no solo úmido atrás da construção. Há **marcas de botas relativamente recentes**, algumas sobrepostas, próximas à porta dos fundos. Não são nítidas o bastante para determinar quantas pessoas passaram por ali ou em qual direção seguiram. A lama está revolvida, enquanto a vegetação ao redor permanece praticamente intacta.
+
+Agora, protegido parcialmente por um grupo de salgueiros a cerca de **oito metros dos fundos da guarita**, Eron ouve um breve arrastar de madeira no interior. Não distingue vozes, passos ou a origem exata do som.
+
+**A Furtividade 14 permitiu contornar a construção sem chamar atenção de forma evidente, mas não garante que o ocupante desconheça sua presença**, especialmente depois do ruído de cascalho na primeira aproximação.
