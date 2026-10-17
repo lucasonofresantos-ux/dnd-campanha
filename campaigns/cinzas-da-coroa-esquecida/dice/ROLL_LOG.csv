@@ -87,3 +87,4 @@ cinzas-da-coroa-esquecida,0000,102,furtividade_guarita,python_secrets_randbelow,
 cinzas-da-coroa-esquecida,0000,103,percepcao_contornar_guarita,python_secrets_randbelow,8,,8,6,14,true,"Script real Python executado no container; LK 0653-0654"
 cinzas-da-coroa-esquecida,0000,104,furtividade_contornar_guarita,python_secrets_randbelow,8,,8,6,14,true,"LK"
 cinzas-da-coroa-esquecida,0000,105,furtividade_aproximacao_porta_posterior_guarita,jogador_rolador_visual_local_math_random,19,,19,6,25,true,"Face natural informada pelo jogador via rolador visual local em 0657; sorteio cliente nao Python; aplicada por pedido expresso, sem reexecucao; LM 0657–0658"
+cinzas-da-coroa-esquecida,0000,106,percepcao_escuta_porta_posterior_guarita,jogador_rolador_visual_local_math_random,18,,18,6,24,true,"Face natural informada pelo jogador via rolador visual local em 0657; sorteio cliente nao Python; aplicada sem reexecucao; ouviu duas vozes sobre registro e folha na guarita; LM 0657–0658"
