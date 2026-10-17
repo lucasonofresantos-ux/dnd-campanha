@@ -8,3 +8,5 @@ Rolei no roll 20, tirei 19 no dado, mais um de carisma, fica 20.
 ## Mensagem visível de andamento do Mestre
 
 Vou aplicar o **19 natural do Roll20 +1 = 20** em Intimidação, sem repetir a rolagem. Vou conferir a cena registrada, resolver a reação dos dois homens e salvar a fala, o teste e suas consequências no GitHub.
+
+## Mensagem 0668 — Mestre (texto visível)
