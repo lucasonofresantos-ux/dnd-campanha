@@ -1188,3 +1188,8 @@ current_scene_lq_20261016:
   heroic_inspiration: true
   hit_dice_available: '1d8'
   awaiting_player_action: true
+
+current_scene_ls_20261016:
+  transcript: 'sessions/transcripts/SESSION_0000_CONTINUACAO_20261016_LS.md'
+  last_message: '0670 — Mestre'
+  location: 'Guarita, Eron junto a caixotes, Bram e Lio a 4 m'
