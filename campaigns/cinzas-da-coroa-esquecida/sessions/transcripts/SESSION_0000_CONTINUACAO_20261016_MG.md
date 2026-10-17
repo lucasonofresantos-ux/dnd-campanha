@@ -16,3 +16,7 @@ Vou retomar a conversa dentro da guarita, conferindo o que já foi estabelecido 
 A mulher observa os bancos de madeira junto ao balcão. Escolhe um deles, arrasta-o para perto da lamparina e se senta de modo que possa enxergar tanto Eron quanto a porta. O banco range sob seu peso.
 
 — Tomas Rell... — repete, estudando o rosto de Eron. — Então é por causa dele que está fazendo tantas perguntas.
+
+Quando Eron menciona o medalhão, ela hesita, mas finalmente afasta a capa e ergue a peça pelo cordão.
+
+À luz da lamparina, Eron distingue a gravação: **uma árvore sem folhas, com raízes compridas que atravessam um círculo de pequenos traços**. O metal está gasto, sobretudo nas bordas.
