@@ -545,3 +545,10 @@ checkpoint_20261017_SK:
   roll: 'Furtividade 20 natural +6=26, jogador; ficha ativa +6 de especializacao'
   situation: 'Eron e Neris se deslocaram ao local do encontro de Iven 18h. Eron oculto tem visão da porta de carga e rua de servico; janela superior entreaberta, trabalhador de avental, trilha de rodas e passagem lateral com fundo desconhecido. Neris perto mas nao abarcada pelo mesmo teste. Percepcao 26 anterior nao se aplica automaticamente a nova cena. Contratante ainda nao identificado.'
   resources_unchanged: true
+
+checkpoint_20261017_SM:
+  transcript: 'sessions/transcripts/SESSION_0000_CONTINUACAO_20261017_SM.md'
+  last_message: '1025 Mestre'
+  location: 'Fundos da Casa da Balanca, Lorn, 17h42'
+  situation: 'Eron e Neris completaram reconhecimento externo sem serem abordados. Portas de cargas e lateral, corredor coberto, portao traseiro para viela, escada exterior e janela superior. Homem aparentemente vigilante no andar superior; trabalhador no patio. Iven ainda nao apareceu. Eron considera posição próxima no corredor mas precisa novo teste Furtividade +6 para cruzar trecho exposto. Antiga Furtividade 26 aplica ao deslocamento ja realizado. Nenhum novo teste rolado.'
+  resources_unchanged: true
