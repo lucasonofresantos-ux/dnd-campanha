@@ -1,0 +1,11 @@
+scene: MJ_0704_0705
+last_message: '0705 — Mestre'
+location: 'Guarita antiga de Lorn; porta posterior trancada; Neris presente'
+checks: {perception: {die: 19, modifier: 6, total: 25, source: player}, investigation: {die: 20, modifier: 4, total: 24, source: player}}
+findings: ['Fragmento de tabela com conf. arq. encontrado em gaveta; não recolhido ao inventário', 'Tábua do piso atrás de armário recolocada, não levantada', 'Materiais de escritório comuns sem coleta declarada']
+hp: 11
+ac: 13
+arrows: 18
+coins: {gp: 125, sp: 4, cp: 5}
+combat: false
+audit: 'Conversa 01.08 não certificada literalmente sem chat original'
