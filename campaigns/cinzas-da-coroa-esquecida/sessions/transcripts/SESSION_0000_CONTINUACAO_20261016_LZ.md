@@ -37,3 +37,13 @@ Eron acompanha sua partida, mas não concentra a atenção apenas neles. Examina
 Então, entre duas árvores, **algo se move contra a direção do vento**.
 
 A aproximadamente **cinquenta metros**, do outro lado da estrada, há um antigo marco de pedra quase encoberto pela vegetação. Agachada atrás dele, Eron distingue **uma terceira pessoa**, envolta numa capa verde-acinzentada. O capuz esconde a maior parte do rosto.
+
+A figura não observa o rio nem a estrada em geral. Sua atenção está voltada para a guarita e, ocasionalmente, para Bram e Lio.
+
+Eron percebe outros detalhes: a pessoa permanece abaixada mesmo quando não há ninguém próximo, e muda discretamente de posição para conservar uma abertura entre os ramos. **É o comportamento de alguém que está vigiando, não de um viajante descansando.**
+
+Por um breve instante, a mão enluvada da figura se move até um pequeno objeto junto ao peito. Um reflexo metálico aparece e desaparece. A distância impede Eron de identificar o objeto.
+
+A pessoa ainda **não demonstrou perceber que foi descoberta**. Continua atrás do marco, parcialmente oculta.
+
+A guarita permanece às costas de Eron. Bram e Lio se afastam pela estrada. A figura desconhecida está a cerca de cinquenta metros, entre os salgueiros.
