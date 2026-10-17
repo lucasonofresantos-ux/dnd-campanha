@@ -31,4 +31,4 @@ Ela aponta para o compartimento vazio atrás do balcão.
 
 A mulher volta a recostar-se no banco.
 
-— Há uma coisa que me intriga, entretanto. Você diz que nunca esteve nesta cidade, mas alguém já forneceu seu nome e sua descrição a homens contratados para procurar os registros de Tomas. **Quem lhe disse que Tomas estava desaparecido?**
+— Há uma coisa que me intriga, entretanto. Você diz que nunca esteve nesta cidade, mas alguém já forneceu seu nome e sua descrição a homens contratados para procurar os registros de Tomas. **Quem lhe disse que Tomas estava desaparecido?** E como acabou envolvido nisso?
