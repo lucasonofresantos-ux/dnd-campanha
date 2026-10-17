@@ -11,3 +11,5 @@ A percepção que tenho, oque ela estava tampando com a outra mão.
 ## Mensagem visível de andamento do Mestre
 
 Vou conferir a posição da observadora e o que Eron já conseguiu enxergar com Percepção 26. Depois resolvo a resposta dela sobre Bram e Lio e registro a cena, junto das pendências de transcrição, no GitHub.
+
+## Mensagem 0695 — Mestre (resposta visível)
