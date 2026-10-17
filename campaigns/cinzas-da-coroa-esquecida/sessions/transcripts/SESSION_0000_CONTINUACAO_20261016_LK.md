@@ -32,3 +32,13 @@ O detalhe mais interessante está no solo úmido atrás da construção. Há **m
 Agora, protegido parcialmente por um grupo de salgueiros a cerca de **oito metros dos fundos da guarita**, Eron ouve um breve arrastar de madeira no interior. Não distingue vozes, passos ou a origem exata do som.
 
 **A Furtividade 14 permitiu contornar a construção sem chamar atenção de forma evidente, mas não garante que o ocupante desconheça sua presença**, especialmente depois do ruído de cascalho na primeira aproximação.
+
+**[LOG DE MEMÓRIA DA CAMPANHA]**
+
+- **Localização Atual:** Sob os salgueiros, cerca de 8 metros atrás da antiga guarita de pedágio junto à Ponte Velha, estrada ocidental de Lorn.
+- **NPCs Presentes e Relação:** Presença não identificada no interior da guarita; não foi avistado perseguidor no percurso anterior.
+- **Linha de Missão Ativa:** Procurar Tomas Rell, investigar o cilindro de mapas e a origem das informações sobre Eron.
+- **Eventos Cruciais Ocorridos:** Rolagens reais e independentes Percepção 1d20 [8]+6=14 (nº 103) e Furtividade 1d20 [8]+6=14 (nº 104). Eron contornou a construção, viu a porta frontal, a janela lateral e a porta posterior com sinais de uso, além de marcas de botas relativamente recentes. Ouviu arrastar de madeira, sem identificar a fonte. Não sabe se está sendo observado.
+- **Condições do Jogador:** 11/11 PV, CA 13, 20 flechas; 125 PO, 4 PP, 5 PC. Inspiração Heroica e 1d8 de Vida disponíveis. Sem dano, combate, gasto ou entrada no edifício.
+
+Nota: cópia local; o transcript LK não tinha commit confirmado no momento de geração. As rolagens nº 103 e 104 foram confirmadas no log canônico do GitHub (commits `fa26ec0` e `d2a190a`).
