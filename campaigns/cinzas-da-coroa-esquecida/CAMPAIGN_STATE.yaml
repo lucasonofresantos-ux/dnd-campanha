@@ -330,3 +330,10 @@ checkpoint_20261017_QO:
   location: 'Oficina de Dagan Murr em Lorn, por volta das 15h ficcionais'
   situation: 'Dagan orçou pino 4 PP, bucha 2 PP, mão de obra 2 PP; total provisório 8 PP, sujeito a inspeção. Bren contrariado; reparo ainda não autorizado nem pago. Eron quer conquistar a confiança de Bren.'
   resources_unchanged: true
+
+checkpoint_20261017_QP:
+  transcript: 'sessions/transcripts/SESSION_0000_CONTINUACAO_20261017_QP.md'
+  last_message: '0927 — Mestre'
+  location: 'Oficina de Dagan Murr, Lorn'
+  situation: 'Dagan aceitou orçamento de 7 PP para conserto, sujeito a inspeção de danos adicionais. Reparos iniciados; nenhum pagamento feito. Bren agradecido a Eron.'
+  resources_unchanged: true
