@@ -348,3 +348,7 @@ Eron deixou a carroca e dirigiu-se verbalmente ao homem de olho esquerdo esbranq
 - Barbudo afirma procurar registro de passagem de cargas que teria sido retirado da guarita; essa é declaração do NPC, não comprovada, nem há relação confirmada com Tomas Rell.
 - A fala revelou presença e direção aproximada de Eron, que permanece atrás dos caixotes a aproximadamente 4m deles, conservando cobertura, mas não ocultação de sua presença. Nenhum teste, iniciativa, combate, gasto ou dano; 11/11 PV, CA13, 20 flechas, 125 PO, 4 PP, 5 PC.
 - Transcrição: sessions/transcripts/SESSION_0000_CONTINUACAO_20261016_LO.md.
+
+## LP 0663–0664 — Ameaça na guarita
+- Eron mencionou Tomas Rell, afirmou que poderia ter matado os dois homens sem ser percebido, e propôs cooperação. O magro recuou e reagiu ao nome Rell; o barbudo contestou, mão junto à faca embainhada.
+- O Mestre pediu Carisma (Intimidação) 1d20+1; aguardar rolagem do jogador antes de definir cooperação ou resistência. Nenhum combate, dano ou gasto. Eron atrás dos caixotes a cerca de 4m; PV11/11, CA13, 20 flechas, 125 PO 4 PP 5 PC.
