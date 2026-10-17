@@ -36,3 +36,5 @@ Lio hesita, depois acrescenta:
 Bram aponta com o queixo para o compartimento vazio atrás do balcão.
 
 — Era ali que o livro deveria estar. Mas alguém retirou o conteúdo antes de chegarmos. É tudo o que encontramos até agora.
+
+A ameaça de Eron parece ter conseguido o que ele queria: **os dois estão cooperando e não demonstram intenção imediata de lutar ou fugir**. Entretanto, as informações sobre Tomas vieram, segundo eles, do contratante. Sua veracidade permanece por verificar.
