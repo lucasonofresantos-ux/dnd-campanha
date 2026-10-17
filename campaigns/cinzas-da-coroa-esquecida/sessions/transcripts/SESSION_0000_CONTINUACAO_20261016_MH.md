@@ -28,3 +28,5 @@ Neris ergue os olhos para Eron.
 Ela aponta para o compartimento vazio atrás do balcão.
 
 — Se arrancaram a folha daqui, talvez tenham esquecido o lançamento correspondente no **livro de arrecadação**, que costuma seguir para os arquivos administrativos de Lorn. Ele pode não revelar o conteúdo da mercadoria, mas deve permitir identificar uma data, um transportador ou o responsável pelo pagamento. Isso depende de como a passagem foi registrada.
+
+A mulher volta a recostar-se no banco.
