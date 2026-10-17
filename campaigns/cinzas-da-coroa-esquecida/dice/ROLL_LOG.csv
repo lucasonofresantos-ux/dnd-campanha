@@ -129,3 +129,5 @@ cinzas-da-coroa-esquecida,0000,152,ataque_arco_guarda_lateral,jogador_dado_infor
 cinzas-da-coroa-esquecida,0000,153,dano_arco_guarda_lateral,python_secrets_randbelow,3,,3,2,5,true,"SY 1048-1049; 1d6+2"
 cinzas-da-coroa-esquecida,0000,154,ataque_pomo_espada_guarda,python_secrets_randbelow,15,,15,4,19,true,"TC; acerto não letal"
 cinzas-da-coroa-esquecida,0000,155,dano_pomo_espada_guarda,python_secrets_randbelow,3,,3,2,5,true,"TC; guarda inconsciente, vivo"
+cinzas-da-coroa-esquecida,0000,158,furtividade_exploracao_armazem,jogador_dado_informado,19,,19,6,25,true,"TJ; busca discreta"
+cinzas-da-coroa-esquecida,0000,159,investigacao_saidas_armazem,jogador_dado_informado,20,,20,4,24,true,"TJ; jogador chamou inspecao"
