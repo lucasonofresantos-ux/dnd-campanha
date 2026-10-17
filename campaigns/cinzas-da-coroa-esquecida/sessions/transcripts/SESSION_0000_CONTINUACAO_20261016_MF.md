@@ -25,3 +25,6 @@ O interior da guarita fica mais escuro. A lamparina ainda acesa ilumina as gavet
 — Sim, eu estava lá fora quando você chegou — admite ela. — Vi alguém entrar discretamente pela parte de trás. Não sabia quem era. Minha atenção estava nos dois homens que já haviam entrado aqui.
 
 A mulher lança um olhar ao compartimento vazio atrás do balcão, mas não se aproxima dele.
+
+
+Ela olha novamente para Eron.
