@@ -283,3 +283,11 @@ checkpoint_20261017_QF:
   location: 'Pátio dos Armazéns do Cais Sul, junto à carroça de Bren Orvik, Lorn'
   situation: 'Neris conduziu abordagem e Bren Orvik confirmou sua identidade. Bren perguntou o que querem saber do transporte municipal; ferramenta na mão, cauteloso. Homem de capa castanha fora de vista.'
   resources_unchanged: true
+
+checkpoint_20261017_QI:
+  transcript: 'sessions/transcripts/SESSION_0000_CONTINUACAO_20261017_QI.md'
+  last_message: '0913 — Mestre'
+  location: 'Armazéns do Cais Sul, junto à carroça avariada de Bren Orvik'
+  time: 'Por volta das 14h30 conforme estimativa de Bren, não relógio verificado por Eron'
+  situation: 'Eron ofereceu ajuda para levar carroça a Dagan; Bren pede auxílio a descarregar sacos antes de movimentar; Eron não iniciou descarga ainda.'
+  resources_unchanged: true
