@@ -16,3 +16,5 @@ Vou aplicar o **19 natural do Roll20 +1 = 20** em Intimidação, sem repetir a r
 O silêncio que se segue às palavras de Eron é pesado. O homem magro engole em seco, olhando alternadamente para os caixotes e para a porta dos fundos. O barbudo observa a posição de Eron por mais alguns instantes, então afasta lentamente a mão da faca.
 
 — Está bem. Não queremos morrer por causa de um maldito livro — diz ele, erguendo as mãos à altura do peito. — Vamos conversar. Mas guarde suas ameaças. Já entendemos.
+
+O magro se apressa em falar, antes que o companheiro possa impedi-lo.
