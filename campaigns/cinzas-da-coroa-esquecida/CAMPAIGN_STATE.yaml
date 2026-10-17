@@ -61,7 +61,7 @@ narrative:
     - '121 Percepção caminho ao posto da guarda: 1d20 [6]+6=12, Python secrets.randbelow (OM)'
   consumed_resources:
     - 'Saldo atual 19 flechas, após recuperar uma flecha intacta da terra; segunda flecha partida e inutilizável. Gastos anteriores registrados no índice.'
-  pending_action: "Tenente permitiu a Eron examinar os papéis da guarda na sala. Investigação 21 encontrou lacunas sobre data de retirada e destinatário dos livros de pedágio; Cael perguntou se Eron encontrou algo. Aguardar Eron."
+  pending_action: "Tenente Cael propôs abrir ocorrência formal sobre lacunas nos registros, perguntando se Eron consente em incluir seu nome e a origem do fragmento; nomes dos guardas ainda não confirmados."
   clocks_advanced: null
 isolation:
   previous_camp_global_untouched: true
@@ -69,12 +69,12 @@ isolation:
   pre_execution_state_archive: "archive/CAMPAIGN_STATE_PRE_EXECUCAO_2026-10-12.yaml"
   dm_plan_retained: "dm/WORLD_BIBLE.md"
 transcript:
-  current: "sessions/transcripts/SESSION_0000_CONTINUACAO_20261017_OX.md"
+  current: "sessions/transcripts/SESSION_0000_CONTINUACAO_20261017_OY.md"
   index: "sessions/INDEX.md"
-  previous: "sessions/transcripts/SESSION_0000_CONTINUACAO_20261017_OW.md"
+  previous: "sessions/transcripts/SESSION_0000_CONTINUACAO_20261017_OX.md"
   literal_complete_current_execution: false
-  last_confirmed_message: "0839 — Mestre (narração OX, sincronizada)"
-  pending: "Aguardar Mensagem 0840 — Jogador"
+  last_confirmed_message: "0841 — Mestre (OY)"
+  pending: "Aguardar Mensagem 0842 — Jogador"
 
 operational_checkpoint:
   updated_at: "2026-10-17"
