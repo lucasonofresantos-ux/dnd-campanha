@@ -607,3 +607,9 @@ checkpoint_20261017_SY:
   situation: 'Eron disparou contra joelho do guarda bloqueando Iven, 16+4=20, acerto sob cobertura parcial. Dano 1d6[3]+2=5. Guarda ferido, recuou e abriu parcialmente passagem, sem condicao automatica. Iven age a seguir. Homem armado fora do armazem localiza melhor direcao dos disparos. Eron usou acao, permanece 16 flechas.'
   arrows: 16
   eron_hp: 11
+
+checkpoint_20261017_TA:
+  transcript: 'sessions/transcripts/SESSION_0000_CONTINUACAO_20261017_TA.md'
+  last_message: '1053 Mestre'
+  location: 'Corredor coberto na Casa da Balanca, Lorn, 18h04, inicio rodada 3'
+  situation: 'Eron aguardou acao; na rodada 2 homem avental quase fechou porta de cargas, guarda ferido joelho continua bloqueando Iven. Homem armado de fora localizou Eron no corredor e Neris interpôs-se. Interrogador reconheceu nome River e tentou levantar com pe preso. Iven continua fingindo rendição, nao agiu contra o grupo. Terceira rodada com iniciativa 22, turno de Eron disponivel; arco em maos, espada ainda nao usada; 11 PV, 16 flechas.'
