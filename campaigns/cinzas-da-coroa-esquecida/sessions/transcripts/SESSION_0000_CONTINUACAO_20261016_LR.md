@@ -24,3 +24,5 @@ O magro se apressa em falar, antes que o companheiro possa impedi-lo.
 Não somos guardas nem fiscais. Fomos contratados ontem para recuperar uma folha de um livro de registros que ficava escondido aqui.
 
 Bram lança um olhar severo a Lio, mas não o interrompe.
+
+— Por **Hadran Selk** — acrescenta o copista, nervoso. — Um despachante que trabalha com mercadorias no pátio dos armazéns. Ele disse que havia uma anotação sobre uma entrega associada a Tomas Rell, feita há quatro dias.
