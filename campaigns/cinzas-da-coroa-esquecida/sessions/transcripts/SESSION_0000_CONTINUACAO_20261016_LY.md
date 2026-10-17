@@ -17,3 +17,5 @@ Vou retomar da pergunta sobre o horário e a divisão das 20 moedas, sem avança
 ## Mensagem 0683 — Mestre (narração visível)
 
 Bram inclina a cabeça, ainda com as mãos erguidas, enquanto Lio observa o companheiro com desconfiança.
+
+— Dez peças de ouro para cada um, então — concorda Bram. — Já recebemos duas cada. Se Selk pagar as outras dezesseis, serão oito para mim e oito para Lio. Mas não posso garantir que ele vá pagar por uma folha que não encontramos.
