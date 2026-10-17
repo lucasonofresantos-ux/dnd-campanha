@@ -38,7 +38,7 @@ character:
   guard_starting_equipment_option_pending: false
   exile: "Proibido retornar a Valdrén após condenação por assassinato de Edric Valmont; Eron afirma ter sido incriminado"
 narrative:
-  scene: "Exterior da guarita: Eron e Neris observam beiral, vala e marcas gerais no solo; Percepção real 1d20 [1]+6=7, sem vestígio atribuído a Tomas"
+  scene: "Exterior da guarita: Eron examinou os sulcos e pegadas próximos ao beiral; Investigação d20 [7]+4=11, sem identificação confiável do objeto, idade ou relação com Tomas"
   prior_events_imported: false
   character_actions_so_far:
     - 'Consultar histórico completo das ações em sessions/INDEX.md e transcripts/'
@@ -51,10 +51,10 @@ narrative:
   npcs_directly_in_scene:
     - "Neris Halden (nome alegado; afirmações ainda não comprovadas)"
   rolls_this_execution:
-    - 'Registros públicos e fontes dos dados em dice/ROLL_LOG.csv; últimas rolagens 111 e 112, MJ, não repetidas em MK'
+    - 'Registros e proveniência dos dados em dice/ROLL_LOG.csv; rolagem 114 Investigação d20=7 +4=11 (MO)'
   consumed_resources:
     - 'Saldo de flechas atual 18; gastos anteriores registrados no índice e nos arquivos financeiros'
-  pending_action: "Eron escolhe como investigar o terreno após Percepção externa 7; nenhuma descoberta confirmada vinculada a Tomas"
+  pending_action: "Eron escolhe próximo passo na área externa da guarita; vala e vegetação próximas ainda não foram inspecionadas a fundo"
   clocks_advanced: null
 isolation:
   previous_camp_global_untouched: true
@@ -62,17 +62,17 @@ isolation:
   pre_execution_state_archive: "archive/CAMPAIGN_STATE_PRE_EXECUCAO_2026-10-12.yaml"
   dm_plan_retained: "dm/WORLD_BIBLE.md"
 transcript:
-  current: "sessions/transcripts/SESSION_0000_CONTINUACAO_20261016_MK.md"
+  current: "sessions/transcripts/SESSION_0000_CONTINUACAO_20261017_MO.md"
   index: "sessions/INDEX.md"
-  previous: "sessions/transcripts/SESSION_0000_CONTINUACAO_20261016_MJ.md"
+  previous: "sessions/transcripts/SESSION_0000_CONTINUACAO_20261016_MK.md"
   literal_complete_current_execution: false
-  last_confirmed_message: "0713 — Mestre (resposta visível no chat; literal não sincronizado)"
-  pending: "Aguardar próxima ação de Eron; ML/MM/MN transcrição literal pendente"
+  last_confirmed_message: "0715 — Mestre (narrativa MO, texto principal sincronizado)"
+  pending: "Aguardar Mensagem 0716 — Jogador; ML/MM/MN transcrição literal pendente"
 
 operational_checkpoint:
-  updated_at: "2026-10-16"
+  updated_at: "2026-10-17"
   state_delta: "sessions/STATE_DELTA_20261016_MK.yaml"
-  source_transcript: "sessions/transcripts/SESSION_0000_CONTINUACAO_20261016_MK.md"
+  source_transcript: "sessions/transcripts/SESSION_0000_CONTINUACAO_20261017_MO.md"
   source_index: "sessions/INDEX.md"
   note: "Este é o estado jogável atual; a cena inicial de 2026-10-12 está retida no histórico Git e nos arquivos de arquivo. Completude literal de 01.08 não certificada sem fonte original."
 
@@ -83,3 +83,13 @@ roll_correction_20261016:
   log_number: 113
   earlier_published_total_14: 'não auditado, não válido como sorteio'
   transcript_pending: 'ML/MM/MN; escrita de transcripts bloqueada pela ferramenta'
+
+roll_20261017_MO:
+  expression: '1d20+4'
+  dice: [7]
+  modifier: 4
+  total: 11
+  roll_number: 114
+  source: "skills/dice-roller/dice_roller.py executado localmente a partir de copia identica verificada"
+  source_transcript: "sessions/transcripts/SESSION_0000_CONTINUACAO_20261017_MO.md"
+  notes: 'Investigação de marcas externas, sem confirmar relação com Tomas'
