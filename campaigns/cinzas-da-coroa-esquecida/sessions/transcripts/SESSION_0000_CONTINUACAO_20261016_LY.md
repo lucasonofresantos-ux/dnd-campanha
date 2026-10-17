@@ -27,3 +27,5 @@ Ao ouvir Eron mencionar as seis da tarde, Bram olha para o céu encoberto além 
 Lio finalmente intervém:
 
 — E eu posso confirmar isso. Quando o movimento diminui, fecham os registros e os despachantes começam a ir embora.
+
+Bram torna a encarar Eron.
