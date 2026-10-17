@@ -54,3 +54,9 @@ As portas permanecem trancadas por dentro. Nenhum dos dois saiu da guarita.
 ## Continuidade
 
 Eron declarou não gostar de batalhas em vão, fez alusão bem-humorada à intimidade anterior, e tentou observar vigias ou espiões pelas aberturas existentes antes de sair. Neris reagiu com humor, não declarou nova intimidade e deixou Eron observar sem obstruir. Já foram identificadas portinhola da frente voltada à estrada e janela estreita parcialmente coberta de tábuas para o lado do rio; Eron examina as áreas visíveis de dentro da guarita. Com Percepção 19 não identificou pessoas na estrada, perto do marco ou no trecho visível para o rio, nem passos ou vozes; a observação não cobre fundos, pontos cegos e salgueiros cerrados e NÃO exclui observadores escondidos. Neris pergunta se Eron observou algo suspeito; não presume resposta. Ambos continuam no INTERIOR, vestidos, com pertences de Eron recolhidos, medalhão e capa com Neris. As portas conhecidas seguem trancadas por dentro. Chuva quase cessou. Não avançar para saída, patrulha ou reunião com Selk sem ação do jogador. Objetivos: falar com autoridade da guarda de Lorn sobre passagem de Tomas, investigar registros T. Rell / estojo lacrado, cartas, possível encontro Bram/Selk ao fim da tarde. Tira de couro escuro da vala ainda não foi recolhida. Sem recursos gastos, dano, cura ou condições. Eron 11/11 PV, CA 13, 19 flechas, 125 PO, 4 PP, 5 PC, Inspiração Heroica.
+
+## Mensagem 0814 — Mestre (fechamento visível literal)
+
+**Registro no GitHub confirmado:** a transcrição OL (0813–0814), a rolagem nº 120 no log de dados, o índice da sessão e o estado canônico foram gravados e verificados.
+
+[Consultar a transcrição OL](https://github.com/lucasonofresantos-ux/dnd-campanha/blob/main/campaigns/cinzas-da-coroa-esquecida/sessions/transcripts/SESSION_0000_CONTINUACAO_20261017_OL.md)
