@@ -663,3 +663,8 @@ checkpoint_20261017_TN:
   transcript: 'sessions/transcripts/SESSION_0000_CONTINUACAO_20261017_TN.md'
   location: 'Sala principal da Casa da Balanca, Lorn, aproximadamente 18h12'
   situation: 'Eron trancou a porta posterior e verificou os demais acessos exteriores conhecidos. Janela basculante alta demasiado estreita para adulto. Porta do escritorio superior permanece fechada, nao vasculhada; possiveis passagens secretas nao descartadas. Belric permaneceu no deposito. Eron voltou a Neris e prisioneiros; Iven amarrado para manter disfarce, dois rendidos presos, terceiro inconsciente. Interrogador de luvas ainda com pe preso e aparencia palida, sangrando, necessita atencao. Nenhum novo dano, recurso ou rolagem.'
+
+checkpoint_20261017_TP:
+  transcript: 'sessions/transcripts/SESSION_0000_CONTINUACAO_20261017_TP.md'
+  location: 'Sala principal Casa da Balanca, Lorn, cerca de 18h13'
+  situation: 'Eron reafirmou ameaca a interrogador; Neris desaprova mutilacao adicional, pronta a iniciar primeiros socorros. Interrogador de luvas declarou se chamar Odrik Valen e administrar operacoes do armazem, ainda sem verificacao independente. Neris ordenou que mantivesse maos na mesa e preparou curativos. Chave escritorio permanece bolso interno esquerdo de Valen; flecha ainda cravada no pe, tratamento nao iniciado.'
