@@ -26,3 +26,8 @@ Bram acrescenta:
 — **Como sabíamos que era Selk?** — Lio prossegue. — Fomos apresentados a ele por um funcionário do pátio dos armazéns. Bram já tinha tratado de transporte com ele antes. Não examinamos documento nenhum, se é isso que quer saber.
 
 Eron inicia a revista. Bram permite que retire a faca do cinto para examiná-la e Lio esvazia os bolsos, com as mãos visíveis. Uma busca cuidadosa encontra:
+
+- **Bram:** uma faca de trabalho, bolsa de moedas, dois recibos de frete antigos e um cordão com chaves.
+- **Lio:** estojo de penas, pequeno tinteiro, caderno de anotações comerciais, bolsa de moedas e alguns lacres de cera sem uso.
+
+**A folha procurada não está com nenhum dos dois.** Também não há cilindro de mapas entre os objetos examinados. Eron devolve os pertences; nenhuma moeda ou equipamento muda de proprietário.
