@@ -39,3 +39,17 @@ Ela sorri, aguardando a resposta dele.
 ## Continuidade
 
 Nenhuma rolagem, recurso consumido, avanço de investigação, novo intruso identificado ou dano. Neris ainda sentada no balcão; recebe a liberdade de ditar ritmo, escolhe beijo carinhoso e prefere privacidade. Eron não recebeu nenhuma ação, sentimento ou fala não dita pelo jogador. Duas portas trancadas por dentro, mas segurança não garantida; 11/11 PV, CA 13, 19 flechas, 125 PO, 4 PP, 5 PC, Inspiração Heroica. Fragmento de couro da vala não recolhido.
+
+## Mensagem 0745 — Mestre (fechamento visível literal)
+
+**Registro no GitHub confirmado:** a transcrição ND (mensagens 0744–0745), o índice e o estado da campanha foram sincronizados e verificados. Não houve nova rolagem.
+
+[Consultar a transcrição ND](https://github.com/lucasonofresantos-ux/dnd-campanha/blob/main/campaigns/cinzas-da-coroa-esquecida/sessions/transcripts/SESSION_0000_CONTINUACAO_20261017_ND.md)
+
+[LOG DE MEMÓRIA DA CAMPANHA]
+
+- **Localização Atual:** Interior da antiga guarita de pedágio, Lorn; duas portas conhecidas trancadas por dentro.
+- **NPCs Presentes e Relação:** Neris Halden, afetuosa e interessada em Eron, mas atenta à própria autonomia e à privacidade.
+- **Linha de Missão Ativa:** Investigar Tomas Rell e descobrir os responsáveis pelos registros do pedágio.
+- **Eventos Cruciais Ocorridos:** Eron deixou Neris conduzir o momento e mencionou a possibilidade de serem surpreendidos. Ela declarou preferir privacidade e o beijou novamente; nenhuma ameaça foi identificada.
+- **Condições do Jogador:** 11/11 PV, CA 13, 19 flechas, 125 PO, 4 PP e 5 PC; Inspiração Heroica disponível. Sem danos, gastos ou novos testes. Fragmento de couro da vala ainda não recolhido.
