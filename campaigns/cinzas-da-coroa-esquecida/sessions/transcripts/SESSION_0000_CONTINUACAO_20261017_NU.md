@@ -37,3 +37,7 @@ A narração NU, o índice e o estado principal receberam commits. Vou conferir 
 ## Nota de auditoria
 
 A mensagem anterior à narração consta nesta seção por ter sido recuperada depois da gravação inicial; sua posição cronológica correta é entre as mensagens 0779 e 0780. Não houve rolagens, gastos, cura, combate ou nova informação de missão.
+
+## Mensagem 0780 — Mestre (fechamento visível)
+
+Registro no GitHub confirmado: transcrição NU, índice e estado atualizados. Não houve rolagens. Local: guarita de pedágio, Ponte Velha, Lorn. Neris disse não querer parar agora, pediu cuidado; Eron mantém 11/11 PV, CA 13, 19 flechas, 125 PO, 4 PP, 5 PC e Inspiração Heroica. Investigação de Tomas segue pendente. Fragmento de couro da vala não recolhido.
