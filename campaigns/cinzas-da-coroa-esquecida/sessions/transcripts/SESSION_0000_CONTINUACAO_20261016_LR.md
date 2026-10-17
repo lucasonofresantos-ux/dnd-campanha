@@ -32,3 +32,5 @@ Bram lança um olhar severo a Lio, mas não o interrompe.
 Lio hesita, depois acrescenta:
 
 — Selk mencionou um volume pequeno, comprido, protegido por couro. Não disse o que havia dentro. E insistiu que não procurássemos a patrulha.
+
+Bram aponta com o queixo para o compartimento vazio atrás do balcão.
