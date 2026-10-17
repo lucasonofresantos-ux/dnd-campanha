@@ -5,7 +5,7 @@ status: active
 execution: "reinicio_autorizado_2026-10-12"
 session: 0
 ruleset: "D&D 5E 2024 / SRD 5.2.1 (Guarda e Tenaz: PHB 2024)"
-current_location: "Entorno posterior da guarita de pedágio, Ponte Velha, Lorn, Caldria"
+current_location: "Marco de pedra entre salgueiros, a aproximadamente 50 m da guarita, Ponte Velha, Lorn, Caldria"
 current_time: "Outono, manhã; hora exata não fixada; chuva e solo úmido"
 character:
   name: Eron River
@@ -25,7 +25,7 @@ character:
   hit_dice: "1d8"
   hit_dice_available: 1
   heroic_inspiration: true
-  arrows: 18
+  arrows: 19
   money_confirmed_gp: 125
   money_current: {gp: 125, sp: 4, cp: 5}
   money_background_pending: false
@@ -38,7 +38,7 @@ character:
   guard_starting_equipment_option_pending: false
   exile: "Proibido retornar a Valdrén após condenação por assassinato de Edric Valmont; Eron afirma ter sido incriminado"
 narrative:
-  scene: "Exterior da guarita: exames de vala e vegetação concluídos. Vala: fragmento de correia de couro escuro com dois furos, costura dupla e arrebite de latão; origem não confirmada. Vegetação: sinais de passagem sem identificação."
+  scene: "Eron e Neris no marco de pedra; flecha do solo recuperada (aljava 19), outra quebrada; Percepção 18 vê gravação desgastada sob musgo, Investigação 7 não decifra."
   prior_events_imported: false
   character_actions_so_far:
     - 'Consultar histórico completo das ações em sessions/INDEX.md e transcripts/'
@@ -48,14 +48,15 @@ narrative:
     - 'Dois fragmentos encaixáveis de escrituração de pedágio: T. Rell, 01 estojo lacrado, conf. arq.; em mãos de Eron'
     - 'Medalhão árvore sem folhas visto em posse de Neris, não adquirido por Eron'
     - 'Fragmento de tira de couro escuro achado na vala (não guardado por Eron; possível prova)'
+    - 'Marco antigo: gravação apagada sob musgo; significado indeterminado; não recolhido'
   allies_present: []
   npcs_directly_in_scene:
     - "Neris Halden (nome alegado; afirmações ainda não comprovadas)"
   rolls_this_execution:
-    - 'Registros e proveniência dos dados em dice/ROLL_LOG.csv; rolagens 115: d20 [19]+4=23 e 116: d20 [10]+4=14 (MP)'
+    - 'Registros em dice/ROLL_LOG.csv: 117 Percepção [12]+6=18; 118 Investigação [3]+4=7, ambos Python (MR)'
   consumed_resources:
-    - 'Saldo de flechas atual 18; gastos anteriores registrados no índice e nos arquivos financeiros'
-  pending_action: "Eron decide se recolhe o fragmento da vala e qual seu próximo passo; Neris presente, nenhuma identificação de Tomas confirmada"
+    - 'Saldo atual 19 flechas, após recuperar uma flecha intacta da terra; segunda flecha partida e inutilizável. Gastos anteriores registrados no índice.'
+  pending_action: "Eron decide próxima ação no marco de pedra; gravação não decifrada. Fragmento de couro da vala ainda não recolhido."
   clocks_advanced: null
 isolation:
   previous_camp_global_untouched: true
@@ -63,17 +64,17 @@ isolation:
   pre_execution_state_archive: "archive/CAMPAIGN_STATE_PRE_EXECUCAO_2026-10-12.yaml"
   dm_plan_retained: "dm/WORLD_BIBLE.md"
 transcript:
-  current: "sessions/transcripts/SESSION_0000_CONTINUACAO_20261017_MP.md"
+  current: "sessions/transcripts/SESSION_0000_CONTINUACAO_20261017_MR.md"
   index: "sessions/INDEX.md"
-  previous: "sessions/transcripts/SESSION_0000_CONTINUACAO_20261017_MO.md"
+  previous: "sessions/transcripts/SESSION_0000_CONTINUACAO_20261017_MQ.md"
   literal_complete_current_execution: false
-  last_confirmed_message: "0717 — Mestre (narrativa MP, sincronizada)"
-  pending: "Aguardar Mensagem 0718 — Jogador; ML/MM/MN transcrição literal pendente"
+  last_confirmed_message: "0721 — Mestre (narrativa MR, sincronizada)"
+  pending: "Aguardar Mensagem 0722 — Jogador; ML/MM/MN transcrição literal pendente"
 
 operational_checkpoint:
   updated_at: "2026-10-17"
   state_delta: "sessions/STATE_DELTA_20261016_MK.yaml"
-  source_transcript: "sessions/transcripts/SESSION_0000_CONTINUACAO_20261017_MP.md"
+  source_transcript: "sessions/transcripts/SESSION_0000_CONTINUACAO_20261017_MR.md"
   source_index: "sessions/INDEX.md"
   note: "Este é o estado jogável atual; a cena inicial de 2026-10-12 está retida no histórico Git e nos arquivos de arquivo. Completude literal de 01.08 não certificada sem fonte original."
 
@@ -101,3 +102,13 @@ rolls_20261017_MP:
   transcript: "sessions/transcripts/SESSION_0000_CONTINUACAO_20261017_MP.md"
   no_combat_or_spending: true
   fragment_of_leather_collected: false
+
+rolls_20261017_MR:
+  perception: {log_number: 117, expression: '1d20+6', natural: 12, bonus: 6, total: 18}
+  investigation: {log_number: 118, expression: '1d20+4', natural: 3, bonus: 4, total: 7}
+  transcript: 'sessions/transcripts/SESSION_0000_CONTINUACAO_20261017_MR.md'
+  arrows_before: 18
+  arrows_after_recovery: 19
+  unusable_broken_arrow: 1
+  fragment_of_leather_collected: false
+  no_combat: true
