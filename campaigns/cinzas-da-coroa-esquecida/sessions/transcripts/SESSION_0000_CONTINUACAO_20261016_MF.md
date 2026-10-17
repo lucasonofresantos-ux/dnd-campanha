@@ -37,3 +37,4 @@ O medalhão de metal escurecido permanece preso ao peito dela, parcialmente cobe
 
 
 **[LOG DE MEMÓRIA DA CAMPANHA]**
+- **Localização Atual:** Interior da antiga guarita de pedágio, próxima à Ponte Velha, Lorn. Porta dos fundos fechada e travada com ferrolho pelo lado de dentro; a situação das demais saídas não foi verificada.
