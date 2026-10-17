@@ -111,3 +111,6 @@ Em fala literal na Sessão 0000, transcrição `sessions/transcripts/SESSION_000
 
 ## Estado de equipamento em 2026-10-16 — LU 0673–0674
 Após disparar 1 flecha de advertência no barro à frente de Bram Keld, Eron passa de 20 para **19 flechas no inventário**; a flecha permanece cravada no solo, não recolhida. Arco em mãos. PV 11/11, CA 13, 125 PO, 4 PP, 5 PC, Inspiração Heroica disponível. Sem ataque contra criatura, rolagem, dano ou combate. Este registro atual complementa estados históricos anteriores da ficha, sem os reescrever.
+
+## Atualização de equipamento: vigia da guarita, 2026-10-16 (MC–MG)
+Eron disparou a segunda flecha, desta vez contra um marco de pedra distante aproximadamente 50 m. Desvantagem por longo alcance: d20 [15,16], mantido 15, +4 = 19 (rolagem 110, visual do jogador), atingiu a pedra; haste partiu-se. **Flechas atuais disponíveis: 18.** A primeira flecha de advertência continua cravada na terra, sem recuperação declarada. HP 11/11; CA13; 125 PO, 4 PP, 5 PC. Inspiração Heroica disponível. Nenhuma despesa além dessa flecha, nenhuma pessoa ferida ou combate formal.
