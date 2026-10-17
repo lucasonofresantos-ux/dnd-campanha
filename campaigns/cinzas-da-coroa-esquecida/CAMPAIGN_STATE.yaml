@@ -590,3 +590,12 @@ checkpoint_20261017_SV:
   arrows: 18
   initiative_pending: true
   second_attack_roll_reserved: 17
+
+checkpoint_20261017_SX:
+  transcript: 'sessions/transcripts/SESSION_0000_CONTINUACAO_20261017_SX.md'
+  last_message: '1047 Mestre'
+  location: 'Corredor coberto Casa da Balanca, Lorn, 18h04, inicio segunda rodada'
+  situation: 'Eron observa sem nova acao. Iven avanca ate entrada lateral mas vigia bloqueia sua saida. Homem avental ferido refugia-se atras da porta de cargas. Homem do saco vazio saca espada curta e procura Eron no corredor. Neris muda para outra pilastra e avisa por gesto. Interrogador tenta se libertar da flecha cravada sem sucesso narrado e ordena matar arqueiro. Primeira rodada terminou; Eron proximo a agir no topo da segunda.'
+  arrows: 17
+  eron_hp: 11
+  eron_ac: 13
