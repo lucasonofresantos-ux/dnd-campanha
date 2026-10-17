@@ -400,3 +400,9 @@ checkpoint_20261017_RG:
   location: 'Beco próximo ao Javali de Ferro, Lorn, ~15h40 ficcional'
   situation: 'Eron ofereceu proteger Iven no encontro às 18h em depósito junto à Casa da Balança e prometeu não entregá-lo se colaborar; Iven aceitou hora, disse não ser guerreiro. Neris apresentou anotações e pergunta quais pertences devolver; Iven ainda não saiu. Relatos não verificados.'
   resources_unchanged: true
+
+checkpoint_20261017_RH:
+  transcript: 'sessions/transcripts/SESSION_0000_CONTINUACAO_20261017_RH.md'
+  last_message: '0963 Mestre'
+  location: 'Beco próximo ao Javali de Ferro, Lorn, ~15h40'
+  situation: 'Neris devolveu todos os objetos de Iven (bolsa de 11 PP/6 PC, estojo, carvão, chave, placa do irmão e faca). Iven anotou relato enganoso de buscas inconclusivas; perguntou se deve somente entregar ou manter contratante conversando no encontro às 18h. Nenhuma moeda nem equipamento de Eron mudou.'
