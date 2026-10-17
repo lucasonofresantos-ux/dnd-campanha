@@ -431,3 +431,10 @@ checkpoint_20261017_RM:
   location: 'Oculto próximo a ponto de encontro de Bran, Lorn, 16h30 ficcional'
   situation: 'Bran chegou; interlocutor humano cerca de 50 anos, casaco escuro, cabelos grisalhos, barba curta, pasta de couro e bolsa moedas. Bran disse ter informação sobre River; identidade do interlocutor ainda não verificada. Eron e Neris ocultos, ouvindo.'
   resources_unchanged: true
+
+checkpoint_20261017_RO:
+  transcript: 'sessions/transcripts/SESSION_0000_CONTINUACAO_20261017_RO.md'
+  last_message: '0977 Mestre'
+  location: 'Ruas proximas ao encontro de Bran, Lorn, 16h37 ficcional'
+  situation: 'Eron expressou desejo futuro de cortar dedo de Bran; nenhuma agressao a Bran ocorreu. Eron e Neris pretendem seguir senhor Sann a 30 m. Carruagem fechada aguarda perto da rota, ligacao com Sann desconhecida. Teste Furtividade +5 solicitado, ainda nao realizado.'
+  resources_unchanged: true
