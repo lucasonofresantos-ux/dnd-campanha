@@ -33,3 +33,11 @@ Eron mantém os olhos em Bram e Lio, observando suas expressões, a maneira como
 Com esse resultado, Eron **não consegue determinar se Bram contou toda a verdade ou se ainda esconde informações**. Tampouco encontra sinais suficientes para concluir que os dois tenham preparado uma emboscada.
 
 Bram continua com as mãos erguidas. Lio permanece imóvel ao seu lado. A flecha segue cravada no chão à frente deles.
+
+**[LOG DE MEMÓRIA DA CAMPANHA]**
+
+- **Localização Atual:** Na entrada posterior da guarita antiga, perto da Ponte Velha; Bram e Lio parados do lado de fora.
+- **NPCs Presentes e Relação:** Bram Keld, transportador, e Lio Marr, copista, imóveis com as mãos erguidas e intimidados. Lio parece genuinamente assustado; Bram permanece cauteloso.
+- **Linha de Missão Ativa:** Investigar Tomas Rell, o cilindro de mapas, o registro desaparecido e o que Hadran Selk sabe sobre Eron.
+- **Eventos Cruciais Ocorridos:** Teste real de Sabedoria (Intuição) 1d20 [8]+4=12, Python secrets.randbelow, registro 108. Eron percebe medo sincero de Lio e sua surpresa aparentemente espontânea com o sobrenome River; Bram seleciona cuidadosamente palavras, mas o teste não confirma mentira, conhecimento adicional ou emboscada. Não houve novo deslocamento, ataque ou gasto.
+- **Condições do Jogador:** 11/11 PV; CA 13; 19 flechas no inventário (mais uma de advertência cravada no solo, não recuperada); 125 PO, 4 PP e 5 PC. Inspiração Heroica disponível. Arco em mãos. Sem combate ou dano.
