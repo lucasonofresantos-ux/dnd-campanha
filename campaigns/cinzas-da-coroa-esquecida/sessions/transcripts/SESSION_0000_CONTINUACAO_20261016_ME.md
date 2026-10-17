@@ -29,3 +29,5 @@ Ela estreita os olhos.
 Seus dedos se aproximam instintivamente do medalhão, mas ela interrompe o movimento ao perceber que Eron acompanha sua mão.
 
 — Vejo que também notou isto — comenta, olhando para a peça metálica. — Está curioso sobre o que significa?
+
+Ela mantém a distância de oito metros. O medalhão continua parcialmente encoberto, e a mulher não fez qualquer movimento para sacar uma arma.
