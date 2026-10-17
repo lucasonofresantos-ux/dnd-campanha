@@ -406,3 +406,12 @@ checkpoint_20261017_RH:
   last_message: '0963 Mestre'
   location: 'Beco próximo ao Javali de Ferro, Lorn, ~15h40'
   situation: 'Neris devolveu todos os objetos de Iven (bolsa de 11 PP/6 PC, estojo, carvão, chave, placa do irmão e faca). Iven anotou relato enganoso de buscas inconclusivas; perguntou se deve somente entregar ou manter contratante conversando no encontro às 18h. Nenhuma moeda nem equipamento de Eron mudou.'
+
+checkpoint_20261017_RK:
+  transcript: 'sessions/transcripts/SESSION_0000_CONTINUACAO_20261017_RK.md'
+  last_message: '0969 Mestre'
+  location: 'Proximidades do ponto do encontro das 16h30 em Lorn; endereço exato não recuperado'
+  time: '16h10, ficcional'
+  npcs: 'Neris acompanha Eron; Iven afastou-se para compromisso das 18h'
+  situation: 'Eron indicou Bran e o contratante de Bran no compromisso das 16h30, Percepção 17+6=23 não identificou perseguidor inequívoco. Pretende esconder-se para vigiar conversa; Furtividade 1d20+5 ainda aguardada.'
+  resources_unchanged: true
