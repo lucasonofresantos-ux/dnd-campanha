@@ -21,3 +21,5 @@ Ao ouvir o nome **Tomas Rell**, o homem magro lança um olhar rápido para o com
 — Eu ouvi! — interrompe o barbudo, sem tirar os olhos da direção de Eron.
 
 Por alguns instantes, ninguém se move. A lamparina crepita sobre o balcão, projetando as sombras dos três pela parede de pedra.
+
+**Teste de Carisma (Intimidação): `1d20 +1`.**
