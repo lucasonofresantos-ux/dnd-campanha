@@ -1,0 +1,13 @@
+# Sessão 0000 — Continuação MF
+Campanha: As Cinzas da Coroa Esquecida
+Registro: 2026-10-16
+
+## Mensagem 0696 — Jogador (literal)
+
+Bem estou curioso dos papéis que estavam aqui agora entre logo e não se preocupa, não pretendo matar lá, só não me atenta, sei que estava aqui quando eu cheguei, e sim tô curioso disso agora venha, não me preocupo com armas por que não vai me fazer diferença se estiver armada ou não, isso não é uma ameaça se é oque você acha é uma realidade. Só não vou te dar minhas costas. Entre e vamos trancar essa porta
+
+## Mensagem visível de andamento do Mestre
+
+Vou continuar da entrada da guarita, mantendo Eron de frente para a mulher e sem revelar antecipadamente o significado do medalhão. Também vou verificar o último estado salvo e tentar sincronizar a transcrição pendente antes de registrar a nova cena.
+
+## Mensagem 0697 — Mestre (narração visível)
