@@ -15,3 +15,5 @@ Vou conferir a posição da observadora e o que Eron já conseguiu enxergar com 
 ## Mensagem 0695 — Mestre (resposta visível)
 
 Eron mantém os olhos na peça metálica junto ao peito da desconhecida. Com a **Percepção 26** obtida anteriormente, ele já havia notado que a mulher pressionava deliberadamente os dedos contra aquele objeto enquanto observava a guarita.
+
+Agora, a oito metros de distância, distingue melhor seus contornos: **um medalhão circular de metal escurecido**, preso à roupa por um cordão curto. Há marcas gravadas na superfície, mas a posição da peça e as dobras da capa ainda impedem a leitura do desenho completo. Ela estava ocultando o medalhão, não empunhando uma arma.
