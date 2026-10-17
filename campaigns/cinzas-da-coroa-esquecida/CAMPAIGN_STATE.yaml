@@ -238,3 +238,11 @@ checkpoint_20261017_PV:
   location: 'Sala de Odran Vell, Escritório Municipal de Arrecadação, Lorn'
   situation: 'Protocolo da remessa da Ponte Velha sem assinatura de recebedor; referência de encaminhamento sem entrega confirmada. Edren busca registros do transporte.'
   resources_unchanged: true
+
+checkpoint_20261017_PX:
+  transcript: 'sessions/transcripts/SESSION_0000_CONTINUACAO_20261017_PX.md'
+  last_message: '0891 — Mestre'
+  location: 'Pátio do Depósito de Transportes Municipais, Rua dos Curtidores, Lorn'
+  roll: 'Percepção 1d20[1]+6=7, Python secrets.randbelow'
+  situation: 'Neris acompanha Eron; homem barbudo não identificado perguntou quem procuram. Seguimento não determinado.'
+  resources_unchanged: true
