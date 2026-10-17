@@ -254,3 +254,10 @@ checkpoint_20261017_QB:
   roll: 'Percepção 1d20[8]+6=14, Python secrets.randbelow'
   situation: 'Bancária oferece consultar contratos de Bren Orvik hoje, pergunta se é problema com entrega ou carga. Neris aguarda Eron.'
   resources_unchanged: true
+
+checkpoint_20261017_QC:
+  transcript: 'sessions/transcripts/SESSION_0000_CONTINUACAO_20261017_QC.md'
+  last_message: '0901 — Mestre'
+  location: 'Banca de contratos do Pátio dos Carroceiros, Lorn'
+  situation: 'Bren não assinou contrato na banca hoje, pode ter contratado diretamente. Atendente pergunta tipo de frete e destino. Neris junto a Eron.'
+  resources_unchanged: true
