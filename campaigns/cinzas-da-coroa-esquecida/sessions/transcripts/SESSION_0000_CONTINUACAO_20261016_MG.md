@@ -24,3 +24,5 @@ Quando Eron menciona o medalhão, ela hesita, mas finalmente afasta a capa e erg
 — É uma marca de custódia. Não é insígnia da guarda nem símbolo de alguma casa nobre. Há pessoas que se dedicam a preservar documentos que outros prefeririam destruir. Eu trabalho com algumas delas.
 
 Ela baixa o medalhão, mas o deixa visível.
+
+— Meu nome é **Neris Halden**. Quanto aos papéis, não, não estão comigo. Pode acreditar ou não. Se estivessem, eu não teria passado a manhã observando quem vinha procurá-los.
