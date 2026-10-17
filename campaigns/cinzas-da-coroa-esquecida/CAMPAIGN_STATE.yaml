@@ -680,3 +680,8 @@ checkpoint_20261017_TU:
   location: 'Sala principal Casa da Balanca, Lorn, 18h18'
   roll: 'Persuasao 20 natural +1 = 21, jogador informou dado'
   situation: 'Eron disse querer Tomas vivo e propos tregua sem ressentimentos. Valen aceitou tregua verbal sem agressões adicionais, mas nao esquece ferimento; pediu cuidado e libertacao posterior de seus homens. Valen afirma que registros incluem nomes importantes e pessoas oficialmente ausentes de Caldria. Chave do escritorio ainda no bolso dele. Neris pronta para tratar ferimento, tratamento ainda nao iniciado.'
+
+checkpoint_20261017_TV:
+  transcript: 'sessions/transcripts/SESSION_0000_CONTINUACAO_20261017_TV.md'
+  location: 'Sala principal Casa da Balanca, Lorn, aproximadamente 18h19'
+  situation: 'Eron sugeriu cirurgiao ou curandeiro a Valen e perguntou a Iven Marlow se poderia buscar ajuda caso libertado. Iven disse conhecer Maela perto do Mercado dos Graos, que atende feridos, e aceita buscar ajuda se Eron esclarecer que nao armara emboscada e que prisioneiros poderao sair. Iven continua amarrado, nao foi solto nem saiu. Neris propôs comprimir ferimento sem remover flecha. Portas externas ainda fechadas.'
