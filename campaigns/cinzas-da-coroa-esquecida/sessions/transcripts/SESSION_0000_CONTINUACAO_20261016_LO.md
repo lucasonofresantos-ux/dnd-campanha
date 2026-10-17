@@ -19,3 +19,11 @@ O homem magro dá um sobressalto e deixa a gaveta escapar das mãos. Ela bate co
 — **Pelos deuses! Quem está aí?** — exclama o magro, procurando a origem da voz.
 
 O barbudo ergue a outra mão, ordenando silêncio ao companheiro. Seus olhos percorrem os caixotes até se fixarem na direção de Eron.
+
+— Não sei como entrou, estranho, mas recomendo que mantenha as mãos onde possamos vê-las.
+
+O magro recupera a compostura e pergunta, desconfiado:
+
+— Você ouviu nossa conversa?
+
+O barbudo lança-lhe um olhar irritado antes de responder à pergunta de Eron.
