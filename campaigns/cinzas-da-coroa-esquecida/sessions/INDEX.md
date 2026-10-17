@@ -758,3 +758,5 @@ A conversa original denominada 01.08 ainda não está disponível para confronto
 [NJ — 0756–0758](transcripts/SESSION_0000_CONTINUACAO_20261017_NJ.md) — Recuperadas integralmente as duas mensagens do jogador e a narração e fechamento visíveis do Mestre. As menções a bloqueio de gravação dentro do arquivo são históricas; NJ já está sincronizada e conferida em 2026-10-17.
 
 [Verificação complementar NO](transcripts/SESSION_0000_CONTINUACAO_20261017_NO.md) — Mensagem de andamento visível posterior também recuperada. NJ e NO estão agora sincronizados no GitHub.
+
+[NT — 0777–0778](transcripts/SESSION_0000_CONTINUACAO_20261017_NT.md) — Jogador pediu clareza sobre o resultado da intimidade anterior com Neris. Mestre confirmou, sem descrição gráfica, que Neris teve orgasmo durante o encontro previamente narrado, e Neris verbalizou satisfação e pediu proximidade de Eron. Esclarecimento do acontecimento anterior, não novo ato ou avanço de tempo. Sem testes, danos, gastos ou recursos consumidos. Neris permanece sobre a capa na guarita; chuva fina e portas conhecidas trancadas. 11/11 PV, CA13, 19 flechas, 125 PO, 4 PP, 5 PC, Inspiração Heroica.
