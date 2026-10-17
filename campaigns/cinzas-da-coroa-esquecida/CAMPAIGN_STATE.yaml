@@ -674,3 +674,9 @@ checkpoint_20261017_TS:
   location: 'Sala principal Casa da Balanca, Lorn, aproximadamente 18h16'
   roll: 'Enganacao 18 natural +1=19, jogador informou dado'
   situation: 'Eron alega a Valen que só procurava escolta e foi levado a investigar Tomas por vigias enviados atras dele. Valen parece aceitar explicacao provisoria. Confirma que Iven e Darian Marlow sao irmaos, diz que Darian trabalhava com registros e esteve no antigo entreposto fluvial, desaparecendo depois de investigar divergencias. Segundo Valen, Tomas Rell foi ultima pessoa a ver Darian, alegacao nao verificada. Prisioneiros seguem sob controle, ferimento de Valen ainda nao tratado.'
+
+checkpoint_20261017_TU:
+  transcript: 'sessions/transcripts/SESSION_0000_CONTINUACAO_20261017_TU.md'
+  location: 'Sala principal Casa da Balanca, Lorn, 18h18'
+  roll: 'Persuasao 20 natural +1 = 21, jogador informou dado'
+  situation: 'Eron disse querer Tomas vivo e propos tregua sem ressentimentos. Valen aceitou tregua verbal sem agressões adicionais, mas nao esquece ferimento; pediu cuidado e libertacao posterior de seus homens. Valen afirma que registros incluem nomes importantes e pessoas oficialmente ausentes de Caldria. Chave do escritorio ainda no bolso dele. Neris pronta para tratar ferimento, tratamento ainda nao iniciado.'
