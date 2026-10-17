@@ -15,3 +15,5 @@ Vou registrar essa nova fala de Eron e manter a intimidação já resolvida em 2
 Bram olha para Lio e depois para os caixotes de onde vem a voz de Eron. Mantém as mãos afastadas da faca e responde com evidente contrariedade:
 
 — Não estou tentando intimidá-lo. Só não quero que fale mais do que realmente sabe. — Ele se volta para o companheiro. — Pois bem, Lio. Conte o resto.
+
+O copista respira fundo, parecendo aliviado por poder responder sem ser interrompido.
