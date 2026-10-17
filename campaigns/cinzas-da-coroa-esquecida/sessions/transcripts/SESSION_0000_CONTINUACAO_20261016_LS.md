@@ -17,3 +17,5 @@ Bram olha para Lio e depois para os caixotes de onde vem a voz de Eron. Mantém 
 — Não estou tentando intimidá-lo. Só não quero que fale mais do que realmente sabe. — Ele se volta para o companheiro. — Pois bem, Lio. Conte o resto.
 
 O copista respira fundo, parecendo aliviado por poder responder sem ser interrompido.
+
+— **A entrega seria hoje, antes do anoitecer, no pátio dos armazéns de Lorn.** Selk disse que nos esperaria junto à balança coberta, onde conferem as cargas. Deveríamos entregar a folha diretamente a ele, não a um funcionário.
