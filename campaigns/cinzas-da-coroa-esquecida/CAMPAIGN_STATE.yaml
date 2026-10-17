@@ -307,3 +307,10 @@ checkpoint_20261017_QL:
   time: 'aproximadamente 14h40, ficcional'
   situation: 'Eron contou a Neris sobre homem de capa castanha; saíram a pé com Bren conduzindo carroça defeituosa. Figura de capa castanha vista no Cais Sul; continuidade da perseguição não confirmada. Rua principal escolhida por Bren.'
   resources_unchanged: true
+
+checkpoint_20261017_QM:
+  transcript: 'sessions/transcripts/SESSION_0000_CONTINUACAO_20261017_QM.md'
+  last_message: '0921 — Mestre, interface d20 exibida'
+  location: 'Rua principal em direção à oficina de Dagan Murr, Lorn'
+  situation: 'Bren leva carroça avariada; Neris acompanha; Eron pediu rolador para Percepção +6, aguardando resultado antes de resolver vigilância e chegada.'
+  roll_pending: '1d20+6; nenhum dado lançado/aplicado nesta resposta'
