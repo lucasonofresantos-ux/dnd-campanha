@@ -20,3 +20,5 @@ A flecha corta o ar e atinge a borda do marco de pedra com um estalo seco. Uma l
 A figura encapuzada se abaixa bruscamente. Por um instante, parece prestes a desaparecer entre as árvores. Entretanto, após ouvir a ordem de Eron, ergue lentamente uma das mãos, mostrando a palma vazia.
 
 — **Está bem! Estou saindo! Não dispare outra vez!**
+
+A pessoa abandona a proteção do marco. É uma figura de estatura mediana, envolta numa capa verde-acinzentada, com o rosto ainda sombreado pelo capuz. Mantém uma mão levantada enquanto começa a atravessar o terreno em direção à guarita, evitando movimentos bruscos.
