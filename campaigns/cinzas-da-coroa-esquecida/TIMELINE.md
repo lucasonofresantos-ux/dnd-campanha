@@ -417,3 +417,10 @@ Eron deixou a carroca e dirigiu-se verbalmente ao homem de olho esquerdo esbranq
 - Neris, segundo seu próprio relato, viu Tomas no largo dos carroceiros há cerca de cinco ou seis dias carregando estojo comprido em couro escuro com duas correias, semelhante ao de mapas; não o viu abrir nem sabe se ainda o tinha ao desaparecer. Ela sugere procurar lançamentos correlatos de cobrança ou conferência de carga em livro de arrecadação possivelmente arquivado em Lorn; não garante que exista registro ou que revele o destinatário. Pergunta a Eron quem mencionou desaparecimento e como ele se envolveu. Relatos da NPC permanecem não verificados.
 - A cena continua na guarita com Neris sentada junto ao balcão; Eron não declarou sentar-se. Porta posterior trancada pelo ferrolho, lamparina acesa. 11/11 PV, CA13, 18 flechas, 125 PO, 4 PP, 5 PC, Inspiração Heroica disponível. Nenhum teste, gasto, combate ou ferimento.
 - Fonte: sessions/transcripts/SESSION_0000_CONTINUACAO_20261016_MH.md.
+
+## Marco de pedra — ponte velha (2026-10-17, sessões ML–MR)
+- Eron investigou o entorno da guarita após examinar os fragmentos do registro de T. Rell; a vala revelou fragmento de couro escuro com arrebite de latão, ainda sem vínculo confirmado com Tomas e sem recolhimento declarado. Vegetação e sulcos inconclusivos.
+- Neris afirmou não ter examinado o marco antigo de pedra (~50 m da guarita), onde vigiava e que Eron acertou com disparo de advertência.
+- Eron recolheu a primeira flecha intacta junto à guarita, chegando a **19 flechas utilizáveis**; a segunda foi encontrada quebrada perto do marco, não recuperável como munição.
+- Rolagens reais junto ao marco: Percepção **[12]+6=18** e Investigação **[3]+4=7** (ROLL_LOG nº 117 e 118). Vestígios de gravação sob musgo notados, mas significado não decifrado; nenhuma ligação de fato confirmada com Tomas.
+- Os registros integrais ML, MM, MN e MQ, antes pendentes por bloqueios de gravação, foram recuperados em 2026-10-17, sem reescrever diálogos antigos ou inventar conteúdo da conversa original 01.08. A equivalência integral com a conversa 01.08 continua não certificada.
