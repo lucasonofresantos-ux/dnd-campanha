@@ -18,3 +18,5 @@ Eron ergue o arco curto, volta-se para o antigo marco de pedra entre os salgueir
 A figura encapuzada está a aproximadamente **50 metros**, além do alcance normal do arco curto, que é de 24 metros. Por isso, o disparo exige um **ataque à distância com desvantagem** para verificar se a flecha atinge o marco.
 
 **Role `2d20kl1 +4`** — dois d20, usando o menor resultado, mais 4 de ataque. Pode usar o Roll20 ou me pedir para rolar com Python.
+
+A segunda flecha foi disparada: Eron fica com **18 flechas na aljava**. O impacto e a reação da figura serão resolvidos após a rolagem, sem presumir que ela obedecerá à ordem.
