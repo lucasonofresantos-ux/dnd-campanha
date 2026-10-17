@@ -19,3 +19,5 @@ Eron mantém os olhos na peça metálica junto ao peito da desconhecida. Com a *
 Agora, a oito metros de distância, distingue melhor seus contornos: **um medalhão circular de metal escurecido**, preso à roupa por um cordão curto. Há marcas gravadas na superfície, mas a posição da peça e as dobras da capa ainda impedem a leitura do desenho completo. Ela estava ocultando o medalhão, não empunhando uma arma.
 
 Ao ouvir a pergunta sobre Bram e Lio, a mulher olha brevemente para a estrada por onde os dois se afastam.
+
+— **Por volta das nove da manhã**, eu diria. Ouvi o sino da torre pouco antes de vê-los chegar. Entraram naquela guarita e passaram algum tempo lá dentro.
