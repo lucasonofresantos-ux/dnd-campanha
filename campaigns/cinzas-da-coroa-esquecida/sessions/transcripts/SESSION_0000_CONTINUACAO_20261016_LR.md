@@ -12,3 +12,5 @@ Vou aplicar o **19 natural do Roll20 +1 = 20** em Intimidação, sem repetir a r
 ## Mensagem 0668 — Mestre (texto visível)
 
 **Carisma (Intimidação): 1d20 [19] +1 = 20. Sucesso.** Dado do Roll20 informado pelo jogador; nenhuma nova rolagem.
+
+O silêncio que se segue às palavras de Eron é pesado. O homem magro engole em seco, olhando alternadamente para os caixotes e para a porta dos fundos. O barbudo observa a posição de Eron por mais alguns instantes, então afasta lentamente a mão da faca.
