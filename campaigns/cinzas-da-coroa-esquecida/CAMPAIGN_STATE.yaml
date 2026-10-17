@@ -690,3 +690,8 @@ checkpoint_20261017_TX:
   transcript: 'sessions/transcripts/SESSION_0000_CONTINUACAO_20261017_TX.md'
   location: 'Deposito superior Casa da Balanca, Lorn, aproximadamente 18h20'
   situation: 'Eron afirmou em voz alta que Belric estava amarrado, para sustentar a historia, e correu até deposito. Belric encontrado sentado, livre de amarras e sem ferimentos, como combinado; porta posterior continua trancada. Belric assustado perguntou se algo ocorreu. Neris prossegue primeiros socorros de Valen, Iven ainda perto da entrada antes de partir buscar Maela. Outros presos permanecem amarrados.'
+
+checkpoint_20261017_TY:
+  transcript: 'sessions/transcripts/SESSION_0000_CONTINUACAO_20261017_TY.md'
+  location: 'Deposito superior Casa da Balanca, Lorn, aproximadamente 18h21'
+  situation: 'Eron disse a Belric que o tinha desamarrado para manter disfarce e ordenou que ficasse ali. Belric entendeu encenacao, permaneceu sentado em liberdade, disse que ficaria ate Eron autorizar saida. Escada inferior livre. Nenhum teste, dano ou recurso alterado.'
