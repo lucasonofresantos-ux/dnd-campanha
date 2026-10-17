@@ -261,3 +261,10 @@ checkpoint_20261017_QC:
   location: 'Banca de contratos do Pátio dos Carroceiros, Lorn'
   situation: 'Bren não assinou contrato na banca hoje, pode ter contratado diretamente. Atendente pergunta tipo de frete e destino. Neris junto a Eron.'
   resources_unchanged: true
+
+checkpoint_20261017_QD:
+  transcript: 'sessions/transcripts/SESSION_0000_CONTINUACAO_20261017_QD.md'
+  last_message: '0903 — Mestre'
+  location: 'Pátio dos Carroceiros, Lorn'
+  situation: 'Tavin disse ter ouvido Bren mencionar os Armazéns do Cais Sul como destino, sem confirmação de permanência; possível problema mecânico no eixo.'
+  resources_unchanged: true
