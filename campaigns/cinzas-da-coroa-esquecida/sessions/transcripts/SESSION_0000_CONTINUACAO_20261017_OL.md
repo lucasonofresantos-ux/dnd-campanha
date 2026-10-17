@@ -60,3 +60,9 @@ Eron declarou não gostar de batalhas em vão, fez alusão bem-humorada à intim
 **Registro no GitHub confirmado:** a transcrição OL (0813–0814), a rolagem nº 120 no log de dados, o índice da sessão e o estado canônico foram gravados e verificados.
 
 [Consultar a transcrição OL](https://github.com/lucasonofresantos-ux/dnd-campanha/blob/main/campaigns/cinzas-da-coroa-esquecida/sessions/transcripts/SESSION_0000_CONTINUACAO_20261017_OL.md)
+
+[LOG DE MEMÓRIA DA CAMPANHA]
+
+- **Localização Atual:** Interior da antiga guarita de pedágio, Ponte Velha, Lorn; portas trancadas por dentro, chuva quase cessando.
+- **NPCs Presentes e Relação:** Neris Halden, afetuosa e pronta para acompanhar Eron; perguntou se ele viu algo suspeito.
+- **Linha de Missão Ativa:** Investigar Tomas Rell e o cilindro de mapas, consultar a guarda de Lorn e acompanhar o possível encontro com Hadran Selk.
