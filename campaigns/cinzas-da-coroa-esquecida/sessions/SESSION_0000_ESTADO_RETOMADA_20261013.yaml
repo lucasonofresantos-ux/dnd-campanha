@@ -1142,3 +1142,26 @@ current_scene_lo_20261016:
   new_rolls: 0
   new_expenses: 0
   awaiting_player_action: true
+
+current_scene_lp_20261016:
+  campaign_id: cinzas-da-coroa-esquecida
+  session: 0
+  last_message: '0664 — Mestre'
+  latest_transcript: sessions/transcripts/SESSION_0000_CONTINUACAO_20261016_LP.md
+  location: 'Interior da guarita de pedágio, Eron junto aos caixotes a cerca de 4m de dois homens'
+  eron: 'Falou sobre Tomas Rell, ameaçou matar os homens se quisesse, propôs cooperação; sua presença é conhecida, ainda tem cobertura'
+  robust_man: 'Barbudo tenso, mão perto de faca ainda embainhada, contestou a certeza de Eron sobre ameaça'
+  thin_man: 'Magro assustado, recuou; reagiu ao nome de Tomas Rell'
+  test_pending: {skill: 'Carisma (Intimidação)', expression: '1d20+1', modifier: 1, player_roll_required: true}
+  intimidate_resolved: false
+  hp_current: 11
+  hp_max: 11
+  armor_class: 13
+  arrows: 20
+  money: {gp: 125, sp: 4, cp: 5}
+  heroic_inspiration: true
+  hit_dice_available: '1d8'
+  combat: false
+  new_rolls: 0
+  new_expenses: 0
+  awaiting_player_action: true
