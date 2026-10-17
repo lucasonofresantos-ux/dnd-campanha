@@ -1120,3 +1120,25 @@ current_scene_ln_20261016:
   combat: false
   new_expenses: 0
   awaiting_player_action: true
+
+current_scene_lo_20261016:
+  campaign_id: cinzas-da-coroa-esquecida
+  session: 0
+  last_message: "0662 — Mestre"
+  transcript: "sessions/transcripts/SESSION_0000_CONTINUACAO_20261016_LO.md"
+  location: "Interior da guarita de pedágio, atrás dos caixotes, a ~4m de dois homens"
+  eron: "Falou oferecendo ajuda; sua presença e direção aproximada são agora conhecidas, mas permanece sob cobertura"
+  robust_man: "Homem barbudo de casaco gasto, assustado, mão junto à faca embainhada, alegou procurar registro de cargas desaparecido"
+  thin_man: "Homem magro de manto escuro sem insígnias, derrubou gaveta e perguntou quanto Eron ouviu"
+  claims_unverified: "Registro de passagem de cargas teria sido retirado da guarita"
+  hp_current: 11
+  hp_max: 11
+  armor_class: 13
+  arrows: 20
+  money: {gp: 125, sp: 4, cp: 5}
+  heroic_inspiration: true
+  hit_dice_available: "1d8"
+  combat: false
+  new_rolls: 0
+  new_expenses: 0
+  awaiting_player_action: true
