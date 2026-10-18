@@ -200,3 +200,29 @@ Ele então se vira para Belric e determina que preparem uma lona e um transporte
 - Linha de Missão Ativa: Levar a carcaça intacta a Lethan Voss, relojoeiro e reparador de fechaduras na Rua das Fundições, para avaliação; investigar a origem das caixas no escritório de Odrik; resolver a dívida de Odrik.
 - Eventos Cruciais Ocorridos: Eron obteve 18 em Persuasão (rolagem informada pelo jogador), sugeriu examinar a criatura com alguém que conheça engrenagens e peças de precisão, advertiu que a perfuraria novamente se voltasse a se mover e pediu a Odrik que investigasse quem enviou as caixas. Odrik concordou em providenciar o transporte sem desmontar a carcaça, investigar os registros de entrada e deixar de lado os ressentimentos imediatos, embora mantenha cautela.
 - Condições do Jogador: 11/11 PV, CA 13, 13 flechas restantes.
+
+
+## Jogador — literal
+
+Eu vou acompanhar o transporte da coisa, mas quem mandou e porque é contigo. E puta merda você não quer negociar as 100PO eu tô dizendo que a flecha no seu pé vale 50, vamos negociar isso
+
+## Mestre — literal
+
+Odrik observa Eron por um instante, como se tentasse decidir se aquilo é uma cobrança séria ou mais uma provocação. Quando você insiste que a flecha vale 50 PO, ele solta uma risada curta, mas faz uma careta ao mudar o peso sobre o pé ferido.
+
+— Então você quer descontar cinquenta pela flecha e ainda receber as cem moedas? River, você tem um jeito muito peculiar de fazer negócios.
+
+Ele aponta para a carcaça enquanto Belric e outro funcionário preparam uma lona resistente para transportá-la.
+
+— Vou cuidar de descobrir quem mandou as caixas e por quê. Isso é comigo, como você pediu. Mas sobre o pagamento, vamos deixar claro: se os 100 PO são a dívida original e você está oferecendo descontar 50 PO pelo ferimento, então estamos falando de 50 PO restantes. Não vou pagar duas vezes pelo mesmo acordo.
+
+Odrik estende a mão, sem sorrir desta vez.
+
+— Cinquenta moedas e encerramos essa parte da história. Aceita?
+
+[LOG DE MEMÓRIA DA CAMPANHA]
+- Localização Atual: Sala da Casa da Balança, Lorn, Caldria, aproximadamente 18h35.
+- NPCs Presentes e Relação: Odrik continua desconfiado, mas negocia com Eron e assume a investigação sobre quem enviou as caixas e por quê. Belric e outro funcionário preparam a lona para o transporte; Neris e Maela estão presentes; Iven retornou com Maela.
+- Linha de Missão Ativa: Eron acompanhará o transporte da carcaça para avaliação por Lethan Voss; Odrik investigará a origem das caixas; negociar a dívida de Odrik.
+- Eventos Cruciais Ocorridos: Eron declarou que acompanhará o transporte e deixou a investigação das caixas sob responsabilidade de Odrik. Propôs negociar a dívida de 100 PO, afirmando que a flecha no pé vale 50 PO. Odrik interpretou a proposta como desconto de 50 PO sobre os 100 PO e ofereceu encerrar a dívida por 50 PO; Eron ainda não respondeu à oferta.
+- Condições do Jogador: 11/11 PV, CA 13, 13 flechas restantes.
