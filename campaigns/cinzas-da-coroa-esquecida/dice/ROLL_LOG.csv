@@ -140,3 +140,7 @@ cinzas-da-coroa-esquecida,0000,163,percepcao_teto_escritorio,jogador_dado_inform
 cinzas-da-coroa-esquecida,0000,166,investigacao_vestigios,jogador_dado_informado,19,,19,4,23,true,"UL"
 
 cinzas-da-coroa-esquecida,0000,167,furtividade_isca_lateral,jogador_dado_informado,20,,20,6,26,true,"UQ"
+
+cinzas-da-coroa-esquecida,0000,168,ataque de arco contra criatura,jogador_dado_informado,1d20,17 natural,17,4,21,true,"US"
+cinzas-da-coroa-esquecida,0000,169,dano do arco,python_secrets,1d6,5,5,2,7,true,"US"
+cinzas-da-coroa-esquecida,0000,170,Ataque Furtivo,python_secrets,1d6,5,5,0,5,true,"US"
