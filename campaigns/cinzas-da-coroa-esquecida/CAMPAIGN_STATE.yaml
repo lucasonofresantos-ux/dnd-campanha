@@ -768,3 +768,11 @@ checkpoint_20261017_UT:
   location: 'Lateral oposta da Casa da Balança, Lorn, Caldria, aproximadamente 18h35'
   situation: 'Criatura abriu o torso e a cavidade luminosa começou a carregar o raio. Ação preparada de Eron foi acionada; ataque com arco 1d20+4 aguardando rolagem do jogador. Raio ainda não liberado.'
   hp: '11/11'
+
+checkpoint_20261017_UV:
+  transcript: 'sessions/transcripts/SESSION_0000_CONTINUACAO_20261017_UV.md'
+  location: 'Lateral oposta da Casa da Balança, Lorn, Caldria, aproximadamente 18h35'
+  situation: 'Ataque preparado de Eron acionado quando a criatura abriu o torso para liberar raio. 20 natural, crítico; dano 22 perfurante (arco 2d6 [5,4]+2, Ataque Furtivo 2d6 [5,6]). Descarga irregular atingiu parede abaixo do beiral; criatura ferida e ainda se debatendo, destruição não confirmada.'
+  hp: '11/11'
+  arrows: 14
+  readied_action: 'consumida'
