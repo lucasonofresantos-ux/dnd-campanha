@@ -735,3 +735,8 @@ checkpoint_20261017_UL:
   location: 'Entrada do corredor de manutencao oculto, Casa da Balanca, 18h28'
   roll: 'Investigacao 19+4=23 dado informado pelo jogador'
   situation: 'Examinou sem tocar: engrenagem de bronze desgastada e deformada, arranhoes em grupos de tres na escada, substancia escura com limalhas metalicas, marcas similares a criatura de Caldria, lacunas em encaixes de caixote e vestigios de transporte de pecas para forro. Arranhoes fresquissimos com tinta solta. Identidade da coisa nao confirmada. Som tic acima. Eron oculto e passagem aberta.'
+
+checkpoint_20261017_UM:
+  transcript: 'sessions/transcripts/SESSION_0000_CONTINUACAO_20261017_UM.md'
+  location: 'Deposito superior da Casa da Balanca, proximo a escada, Lorn, aprox 18h29'
+  situation: 'Eron questionou se mecanismo se monta sozinho, sem resposta definitiva. Recuou furtivamente do escritorio deixando passagem oculta aberta. Foi a Belric no deposito e ordenou que se juntasse aos demais embaixo. Belric levou seu pequeno livro e desceu sem incidente aparente, falou com Neris. Eron permanece em cima; criatura no forro desconhecida, sem contato nem combate.'
