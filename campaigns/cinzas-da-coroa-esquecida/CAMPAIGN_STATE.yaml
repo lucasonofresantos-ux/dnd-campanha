@@ -740,3 +740,8 @@ checkpoint_20261017_UM:
   transcript: 'sessions/transcripts/SESSION_0000_CONTINUACAO_20261017_UM.md'
   location: 'Deposito superior da Casa da Balanca, proximo a escada, Lorn, aprox 18h29'
   situation: 'Eron questionou se mecanismo se monta sozinho, sem resposta definitiva. Recuou furtivamente do escritorio deixando passagem oculta aberta. Foi a Belric no deposito e ordenou que se juntasse aos demais embaixo. Belric levou seu pequeno livro e desceu sem incidente aparente, falou com Neris. Eron permanece em cima; criatura no forro desconhecida, sem contato nem combate.'
+
+checkpoint_20261017_UN:
+  transcript: 'sessions/transcripts/SESSION_0000_CONTINUACAO_20261017_UN.md'
+  location: 'Sala principal, andar inferior da Casa da Balanca, Lorn, 18h30'
+  situation: 'Eron desceu silenciosamente e se juntou a Neris, Iven, Belric, Odrik Valen e tres subordinados presos. Pediu silencio e encostou porta sem ruido. Todos obedecem. Ruido abafado rrr toc veio de cima e outro som afastou-se em direcao ao fundo do armazem. Origem nao identificada; escritorio superior continua com acesso oculto aberto. Valen ferido em atendimento por Neris; Iven ainda junto saida.'
