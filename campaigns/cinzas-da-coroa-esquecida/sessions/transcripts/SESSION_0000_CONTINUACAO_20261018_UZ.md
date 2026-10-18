@@ -151,3 +151,24 @@ Ele procura algo que possa servir de ferramenta, enquanto Neris aproxima uma lan
 - Linha de Missão Ativa: Investigar a criatura e a ameaça à Casa da Balança; resolver a dívida de Odrik.
 - Eventos Cruciais Ocorridos: Eron sugeriu que Odrik já poderia perdoá-lo pela flecha no pé e propôs desmontar a criatura. Odrik aceitou examiná-la com cautela.
 - Condições do Jogador: 11/11 PV, CA 13, 13 flechas restantes.
+
+
+## Jogador — literal
+
+Odrik não mecha esse pé, depois vamos levar isso para alguém que possa saber desmontar isso, do que nós desmontarmos sem saber oque estamos fazendo
+
+## Mestre — literal
+
+Odrik já está estendendo a mão para a carcaça quando Eron o interrompe. Ele para e olha para o próprio pé, como se só agora se lembrasse de que ainda precisa dele para caminhar.
+
+— Está bem, River. Não vou mexer no pé — responde, recuando da criatura. — E quanto a levar isso a alguém que entenda do assunto… pela primeira vez hoje, você está sugerindo algo sensato.
+
+Neris mantém a lanterna apontada para o corpo, mas não toca nele. A decisão parece aliviar parte da tensão na sala: ninguém ali sabe se aquelas placas escondem um mecanismo, uma anatomia desconhecida ou alguma coisa que não deveria existir. Desmontá-la às cegas pode destruir pistas importantes — ou trazer um risco que todos preferem evitar.
+
+[LOG DE MEMÓRIA DA CAMPANHA]
+
+- Localização Atual: Sala da Casa da Balança, Lorn, Caldria, aproximadamente 18h35.
+- NPCs Presentes e Relação: Odrik Valen continua desconfiado, mas concorda em não tocar na criatura e aceita a prudência de Eron; Neris ilumina a carcaça sem tocá-la; Belric permanece atento à porta e ao corredor. Iven segue ausente, buscando Maela.
+- Linha de Missão Ativa: Preservar e investigar a criatura, procurando alguém capaz de examiná-la com segurança; resolver a dívida de Odrik.
+- Eventos Cruciais Ocorridos: Eron aconselhou Odrik a não mexer no pé ferido e propôs levar a criatura a alguém que saiba examiná-la, em vez de desmontá-la sem conhecimento. Odrik concordou em recuar.
+- Condições do Jogador: 11/11 PV, CA 13, 13 flechas restantes.
