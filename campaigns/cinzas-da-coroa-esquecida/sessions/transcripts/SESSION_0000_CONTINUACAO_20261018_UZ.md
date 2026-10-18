@@ -12,6 +12,8 @@ A nova flecha corta o armazém e atinge a criatura no torso, entre duas placas e
 
 Como a criatura já reagiu aos disparos anteriores e Eron não está oculto, este ataque não recebe Ataque Furtivo: não há outro inimigo da criatura confirmado a até 1,5 m dela. Role o dano da arma: **1d6**. Somarei +2 de Destreza ao resultado. A flecha foi consumida; restam **13 flechas**. Aguardo o dano para aplicar a consequência do impacto.
 
+Fora de jogo: a transcrição, o índice, o estado canônico e o log de dados foram gravados no GitHub; os commits foram verificados.
+
 [LOG DE MEMÓRIA DA CAMPANHA]
 
 - Localização Atual: Interior da Casa da Balança, no lado oposto do armazém em relação aos demais, aproximadamente 18h35.
