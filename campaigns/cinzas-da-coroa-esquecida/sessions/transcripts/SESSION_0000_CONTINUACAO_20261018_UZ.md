@@ -468,3 +468,34 @@ Ele se inclina um pouco sobre o balcão, baixando a voz para que os clientes pr�
 - Linha de Missão Ativa: Ouvir os rumores sobre Eron; aguardar notícias de Lethan; confirmar o envio das 75 PO prometidas por Odrik.
 - Eventos Cruciais Ocorridos: Eron pediu e pagou o jantar e perguntou a Marden se havia algum recado. Marden disse ter ouvido o nome de Eron circular naquele dia, mas não sabe quem começou o rumor e ofereceu contar o que ouviu.
 - Condições do Jogador: 11/11 PV, CA 13, 13 flechas restantes.
+
+
+## Jogador — literal
+
+- Pode me contar já por favor.
+
+## Mestre — literal
+
+Marden assente, apoiando os antebraços no balcão. Antes de falar, lança um olhar discreto pelo salão para se certificar de que ninguém está prestando atenção demais.
+
+— Foi mais cedo, perto do meio-dia. Um carroceiro que costuma trazer farinha para cá comentou que dois sujeitos andavam fazendo perguntas pela cidade. Queriam saber de um goblin chamado Eron River — ou, pelo menos, de um goblin que corresponde à sua descrição. Um deles parecia conhecer seu nome; o outro deixava que ele falasse.
+
+Marden franze a testa, tentando recordar os detalhes.
+
+— Não ouvi o que disseram ao carroceiro, palavra por palavra. Mas ele me contou que os dois perguntaram onde você costumava ficar e se alguém sabia para onde tinha ido depois de passar pela Casa da Balança. Não pareciam guardas. Também não estavam perguntando como quem procura um conhecido para tomar uma cerveja.
+
+O taberneiro endireita as costas e retoma o tom habitual, embora ainda fale baixo.
+
+— Pode ser coincidência. Pode ser gente querendo contratar você. Ou pode ser outra coisa. Não vou fingir que sei. O carroceiro não soube dizer de onde vieram, e eu não vi esses homens pessoalmente.
+
+Neris já está sentada à mesa próxima. Ao notar que Marden terminou, ela olha na sua direção, atenta, mas não interrompe a conversa.
+
+— Isso é tudo que ouvi, Eron — conclui Marden. — Se descobrir quem são, talvez descubra por que estão perguntando por você.
+
+[LOG DE MEMÓRIA DA CAMPANHA]
+
+- Localização Atual: Javali de Ferro, salão da estalagem em Lorn, Caldria.
+- NPCs Presentes e Relação: Eron conversa com Marden, o taberneiro; Neris está sentada a uma mesa próxima e acompanha a conversa.
+- Linha de Missão Ativa: Investigar quem está perguntando por Eron e por quê; ouvir possíveis rumores; aguardar notícias de Lethan sobre a carcaça; confirmar o envio das 75 PO prometidas por Odrik.
+- Eventos Cruciais Ocorridos: Marden relatou que, por volta do meio-dia, dois homens perguntaram a um carroceiro sobre um goblin identificado como Eron River e sobre seu paradeiro após a passagem pela Casa da Balança. Marden não viu os homens e não sabe quem são nem suas intenções.
+- Condições do Jogador: 11/11 PV, CA 13, 13 flechas restantes.
