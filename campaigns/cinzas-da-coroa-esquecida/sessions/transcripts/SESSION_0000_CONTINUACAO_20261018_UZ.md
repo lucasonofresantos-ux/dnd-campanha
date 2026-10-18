@@ -412,3 +412,32 @@ Ele aponta para a cavidade apagada.
 - Linha de Missão Ativa: Decidir o que fazer com a carcaça após a inspeção inicial; investigar sua natureza e a origem das caixas.
 - Eventos Cruciais Ocorridos: Lethan encontrou placas com encaixes e tensão acumulada e fibras que não reconhece. Não detectou atividade, calor crescente ou descarga durante os testes; considera a carcaça inerte no momento, mas não garante que seja impossível reativá-la.
 - Condições do Jogador: 11/11 PV, CA 13, 13 flechas restantes.
+
+
+## Jogador — literal
+
+- Ele vai ficar com o senhor, mas cuidado eu acho que isso se montou sozinho, e posso decapitar isso por garantia?
+
+## Mestre — literal
+
+Lethan olha para você por cima dos óculos, depois volta os olhos para a carcaça.
+
+— Pode deixar comigo, mas não vou prometer que consigo mantê-la segura só trancando a porta. Vou isolar a área de trabalho e ninguém vai mexer nela sem mim. Se realmente se montou sozinha, isso muda bastante o que precisamos descobrir.
+
+Quando você pergunta se pode decapitá-la por garantia, Lethan ergue uma mão imediatamente.
+
+— Eu não faria isso aqui. Não sabemos se essa parte é cabeça, núcleo, carcaça protetora ou apenas um conjunto de peças. Cortar agora pode romper algo que ainda não compreendemos — e, se houver energia residual, talvez seja exatamente a pior coisa a fazer. Também pode destruir pistas sobre como ela se montou.
+
+Ele pensa por um momento e acrescenta:
+
+— Posso ficar com ela e examiná-la por etapas, sem abrir a cavidade azul. Se você quiser reduzir o risco, ajude-me a manter as pessoas afastadas e a deixar o corpo isolado. Não posso garantir segurança absoluta, mas posso evitar uma intervenção precipitada.
+
+Neris observa a carcaça e depois olha para você, aguardando sua decisão. Lethan começa a preparar um espaço isolado no fundo da oficina, mas não tenta mover a carcaça sozinho.
+
+[LOG DE MEMÓRIA DA CAMPANHA]
+
+- Localização Atual: Oficina de Lethan Voss, Rua das Fundições, Lorn, Caldria.
+- NPCs Presentes e Relação: Lethan concordou em ficar com a carcaça e isolá-la para exame; Neris acompanha Eron. Maela ficou cuidando de Odrik; Belric ficou responsável pelos 75 PO.
+- Linha de Missão Ativa: Deixar a carcaça sob os cuidados de Lethan, definir medidas de segurança e investigar como ela foi construída ou se montou sozinha.
+- Eventos Cruciais Ocorridos: Eron entregou a carcaça aos cuidados de Lethan, alertou que ela talvez tenha se montado sozinha e perguntou se poderia decapitá-la por garantia. Lethan desaconselhou cortar qualquer parte antes de entender a estrutura e a possível energia residual.
+- Condições do Jogador: 11/11 PV, CA 13, 13 flechas restantes.
