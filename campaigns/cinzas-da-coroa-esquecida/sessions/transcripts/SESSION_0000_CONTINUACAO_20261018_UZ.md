@@ -376,3 +376,39 @@ Lethan ergue os olhos para você.
 - Linha de Missão Ativa: Permitir que Lethan inspecione a carcaça com cautela, mantendo vigilância; investigar sua natureza e a origem das caixas.
 - Eventos Cruciais Ocorridos: Eron afirmou que não deixará a carga sozinha e suspeita que seja um mecanismo, mas não quer arriscar que volte a se mover. Lethan observou características semelhantes a peças montadas e fibras desconhecidas; não confirmou que seja um mecanismo nem garantiu que não ofereça perigo.
 - Condições do Jogador: 11/11 PV, CA 13, 13 flechas restantes.
+
+
+## Jogador — literal
+
+- Então faça, eu aguardo.
+(Eu vou esperar ele examinar a coisa)
+
+## Mestre — literal
+
+— Muito bem. Não toque em nada enquanto eu estiver trabalhando — diz Lethan.
+
+O relojoeiro apoia a lanterna num suporte e escolhe uma pinça comprida com cabos revestidos, uma haste de madeira seca e um pequeno espelho articulado. Primeiro, examina a carcaça por todos os lados, procurando juntas, encaixes e sinais de movimento. Depois, aproxima o espelho da cavidade apagada para olhar o interior sem colocar o rosto sobre ela.
+
+Você aguarda junto à carroça, sem perder a carga de vista. Neris permanece perto o bastante para ajudar, mas respeita o espaço que Lethan pediu. O som da oficina — engrenagens pequenas, metal sendo limado e o tique-taque de relógios — parece estranhamente comum diante do objeto estendido na carroça.
+
+Lethan usa a haste para testar, com pressão mínima, uma das placas externas. Ela não se abre como uma tampa; em vez disso, cede alguns milímetros e volta à posição, como uma peça presa por tensão. Ele repete o teste em dois pontos diferentes e escuta atentamente. Não há clique de mecanismo nem reação visível, mas uma das fibras internas vibra quando a placa retorna.
+
+— Isso é interessante — murmura. — Algumas partes parecem montadas, sim. Há encaixes e tensão acumulada. Mas estas fibras… não são molas comuns. E não vou forçar mais para descobrir.
+
+Ele ilumina novamente a cavidade azul. A luz continua apagada. Com a pinça isolada, toca de leve um filamento exposto na borda, sem introduzir a ferramenta no centro. Nada acontece. Lethan espera um pouco, observa a ferramenta e repete o teste num ponto diferente. Não há descarga nem movimento.
+
+Por fim, ele se afasta e limpa as lentes dos óculos.
+
+— Não encontrei sinal de atividade neste momento. Não há movimento autônomo, calor crescente nem descarga durante os testes que fiz. Posso dizer que está inerte agora. Não posso garantir que seja impossível reativá-lo, especialmente sem entender de onde vinha a energia ou o que acionava essas partes.
+
+Ele aponta para a cavidade apagada.
+
+— Se quiserem transportar isto outra vez, mantenham-na coberta e não tentem desmontar nada. Eu precisaria de mais tempo e de ferramentas melhores para descobrir o que é. Posso continuar o trabalho, mas não vou prometer uma resposta hoje.
+
+[LOG DE MEMÓRIA DA CAMPANHA]
+
+- Localização Atual: Oficina de Lethan Voss, Rua das Fundições, Lorn, Caldria; carcaça na carroça, sob vigilância.
+- NPCs Presentes e Relação: Lethan examinou a carcaça com ferramentas isoladas; Neris acompanha Eron. Maela ficou cuidando de Odrik, e Belric é responsável pelo pagamento de 75 PO.
+- Linha de Missão Ativa: Decidir o que fazer com a carcaça após a inspeção inicial; investigar sua natureza e a origem das caixas.
+- Eventos Cruciais Ocorridos: Lethan encontrou placas com encaixes e tensão acumulada e fibras que não reconhece. Não detectou atividade, calor crescente ou descarga durante os testes; considera a carcaça inerte no momento, mas não garante que seja impossível reativá-la.
+- Condições do Jogador: 11/11 PV, CA 13, 13 flechas restantes.
