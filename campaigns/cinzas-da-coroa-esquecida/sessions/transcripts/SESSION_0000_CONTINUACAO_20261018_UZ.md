@@ -288,3 +288,30 @@ Belric confirma com a cabeça e volta a organizar os funcionários. A negociaç�
 - Linha de Missão Ativa: Acompanhar a carcaça até Lethan Voss para avaliação; Odrik investigar quem enviou as caixas e por quê; receber os 75 PO acordados.
 - Eventos Cruciais Ocorridos: Eron esclareceu que os 100 PO originais eram pelo resgate, reajustou o valor total do trabalho para 150 PO e descontou 75 PO pelo ferimento no pé de Odrik. Odrik aceitou 75 PO como pagamento final, incluindo a quitação da dívida antiga.
 - Condições do Jogador: 11/11 PV, CA 13, 13 flechas restantes.
+
+
+## Jogador — literal
+
+Refaça essa última parte, Odrik estava com uma flecha no pé fencada no chão e estávamos esperando Iven voltar com alguém para removê-la
+
+## Mestre — literal
+
+Você tem razão. Eu confundi duas coisas diferentes e avancei a cena incorretamente. **Odrik continua com a flecha atravessando o pé e cravada no chão.** Ninguém a removeu, Maela ainda não chegou, e o grupo continua esperando Iven voltar com alguém que possa cuidar do ferimento sem piorá-lo. A carcaça também continua na sala; o transporte até Lethan Voss ainda não partiu.
+
+Belric olha para a porta do corredor.
+
+— Iven foi buscar ajuda para tirar a flecha. Ainda não voltou. Lethan Voss é outra coisa: o relojoeiro da Rua das Fundições que pode examinar a criatura. Não é ele quem estamos esperando para tratar o pé de Odrik.
+
+Odrik, preso ao chão pela própria ferida, lança um olhar irritado para a porta.
+
+— Quando Iven voltar, espero que traga alguém que saiba o que está fazendo. E que seja logo.
+
+**Fora do jogo — nome e origem:** a criatura ainda não tem nome ou espécie definidos na campanha. Eu a criei como uma criatura original para esta aventura, não a retirei diretamente do *Manual dos Monstros* ou de outro livro oficial. Até agora, os fatos estabelecidos são seu corpo escuro com placas ou fibras, uma cavidade que emitia luz azul e uma descarga perigosa. Sua natureza e origem continuam desconhecidas e poderão ser investigadas em jogo.
+
+[LOG DE MEMÓRIA DA CAMPANHA]
+
+- Localização Atual: Sala da Casa da Balança, Lorn, Caldria, aproximadamente 18h35.
+- NPCs Presentes e Relação: Odrik está com o pé atravessado por uma flecha cravada no chão. Belric, Neris e os demais funcionários estão na sala. Iven está ausente, buscando alguém que possa remover a flecha. Maela ainda não chegou.
+- Linha de Missão Ativa: Aguardar o retorno de Iven com ajuda para tratar o ferimento de Odrik; depois, organizar o transporte da carcaça intacta até Lethan Voss; Odrik investigará quem enviou as caixas e por quê.
+- Eventos Cruciais Ocorridos: Eron corrigiu a continuidade: a flecha segue fincada no pé de Odrik e no chão, e ninguém a removeu. A criatura permanece sem nome ou origem identificados.
+- Condições do Jogador: 11/11 PV, CA 13, 13 flechas restantes.
