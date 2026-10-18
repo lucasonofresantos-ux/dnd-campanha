@@ -226,3 +226,36 @@ Odrik estende a mão, sem sorrir desta vez.
 - Linha de Missão Ativa: Eron acompanhará o transporte da carcaça para avaliação por Lethan Voss; Odrik investigará a origem das caixas; negociar a dívida de Odrik.
 - Eventos Cruciais Ocorridos: Eron declarou que acompanhará o transporte e deixou a investigação das caixas sob responsabilidade de Odrik. Propôs negociar a dívida de 100 PO, afirmando que a flecha no pé vale 50 PO. Odrik interpretou a proposta como desconto de 50 PO sobre os 100 PO e ofereceu encerrar a dívida por 50 PO; Eron ainda não respondeu à oferta.
 - Condições do Jogador: 11/11 PV, CA 13, 13 flechas restantes.
+
+
+## Jogador — literal
+
+Você está vendo isso aqui? (Eu aponto para a criatura) Quanto você cobraria para matar uma coisa dessas? E fiz isso sem baixas, meu preço é 150, menis a flecha no pé, vamos fechar em 75, e cá entre nós, melhor uma flecha no pé doque um raio dessa coisa na cabeça, da última vez que eu tinha lutado com uma coisa similar, o raio dela destruí uma rocha
+
+## Mestre — literal
+
+Odrik acompanha o gesto de Eron e encara a carcaça sobre a lona. Quando você menciona o raio capaz de destruir uma rocha, a expressão dele muda: a lembrança do ataque parece tornar o argumento bem mais concreto do que qualquer ameaça ou bravata.
+
+— Cento e cinquenta peças de ouro para matar uma coisa dessas sem perder ninguém? — Ele olha para os funcionários que começam a preparar o transporte. — Se eu contratasse mercenários para proteger este lugar e eles resolvessem o problema sem deixar ninguém morto, provavelmente pagaria mais do que isso.
+
+Odrik volta os olhos para você.
+
+— Mas você está misturando duas contas, River. Os 100 PO que eu te devo são uma coisa. O serviço de hoje é outra. E a flecha no meu pé… — Ele faz uma careta quando Maela se ajoelha para examiná-lo. — …não foi exatamente um benefício que eu solicitei.
+
+Maela lança um olhar breve para Odrik, como se aconselhasse que ele parasse de se mexer, e começa a examinar o ferimento.
+
+— Agora, se está propondo cobrar 150 pelo serviço, descontar o valor que você atribuiu à flecha e fechar por 75, preciso saber se esses 75 são pelo trabalho de hoje ou se pretende encerrar também a dívida antiga.
+
+Ele ergue um dedo antes que Eron responda.
+
+— Porque não vou fingir que você não nos salvou. E também não vou fingir que atirar no meu pé fazia parte do plano. Você quer 75 peças de ouro pelo serviço de hoje? Posso considerar a proposta. Mas diga claramente se os 100 PO antigos continuam na conta ou se está propondo um acordo único.
+
+Maela termina de examinar o pé e começa a limpar o ferimento. Odrik prende uma careta, mas não interrompe a negociação. Ao fundo, os funcionários aguardam para erguer a lona com a criatura.
+
+[LOG DE MEMÓRIA DA CAMPANHA]
+
+- Localização Atual: Sala da Casa da Balança, Lorn, Caldria, aproximadamente 18h35.
+- NPCs Presentes e Relação: Odrik reconhece o valor do que Eron fez, mas discorda que a flecha no pé seja benefício; está negociando a remuneração do serviço. Maela examina o ferimento de Odrik. Neris, Belric e funcionários estão presentes; a carcaça aguarda transporte. Iven está com o grupo.
+- Linha de Missão Ativa: Acompanhar a carcaça até Lethan Voss para avaliação; Odrik investigar quem enviou as caixas e por quê; esclarecer os termos financeiros entre Eron e Odrik.
+- Eventos Cruciais Ocorridos: Eron argumentou que seu trabalho valeria 150 PO e propôs fechar em 75, mencionando a flecha no pé e o risco do raio da criatura. Odrik disse que a dívida antiga de 100 PO e o serviço de hoje são contas separadas e pediu que Eron esclareça se os 75 PO são apenas pelo serviço ou um acordo único.
+- Condições do Jogador: 11/11 PV, CA 13, 13 flechas restantes.
