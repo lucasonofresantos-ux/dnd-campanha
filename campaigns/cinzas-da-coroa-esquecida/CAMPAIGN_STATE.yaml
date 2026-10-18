@@ -729,3 +729,9 @@ checkpoint_20261017_UH:
   location: 'Escritorio superior junto ao armario maior, Lorn, 18h27'
   roll: 'Furtividade 19+6=25, informada pelo jogador'
   situation: 'Eron aproximou-se sem ser percebido. Engrenagem de bronze visivel pelo vao atras do armario e em movimento; tabua do forro ergueu alguns milimetros, sombra desconhecida passou na abertura sem acompanhar engrenagens. Lingueta de bronze ao alcance, ainda nao acionada. Sem recursos alterados.'
+
+checkpoint_20261017_UL:
+  transcript: 'sessions/transcripts/SESSION_0000_CONTINUACAO_20261017_UL.md'
+  location: 'Entrada do corredor de manutencao oculto, Casa da Balanca, 18h28'
+  roll: 'Investigacao 19+4=23 dado informado pelo jogador'
+  situation: 'Examinou sem tocar: engrenagem de bronze desgastada e deformada, arranhoes em grupos de tres na escada, substancia escura com limalhas metalicas, marcas similares a criatura de Caldria, lacunas em encaixes de caixote e vestigios de transporte de pecas para forro. Arranhoes fresquissimos com tinta solta. Identidade da coisa nao confirmada. Som tic acima. Eron oculto e passagem aberta.'
