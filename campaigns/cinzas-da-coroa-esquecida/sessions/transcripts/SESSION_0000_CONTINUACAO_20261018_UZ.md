@@ -51,3 +51,22 @@ Eron permanece com **11/11 PV, CA 13 e 13 flechas**.
 ## Jogador — literal
 
 Eu retiro as flechas de dentro do bicho, sei que não vai dá para aproveitar, mas para que Odrik não saiba como mate, e depois disso arrasto a coisa para a sala onde estão, e falo para Neris abrir a sala
+
+
+## Mestre — literal
+
+Eron se aproxima da criatura caída, mantendo-se atento aos membros imóveis. Uma a uma, retira as flechas presas entre as placas do torso. As hastes estão tortas pelo impacto, e as pontas apresentam sinais de deformação; nenhuma parece valer o risco de ser reaproveitada. O gesto também apaga parte dos vestígios mais evidentes de como o último golpe atingiu a criatura — mas não garante que Odrik deixe de deduzir o que aconteceu.
+
+Você agarra o corpo e começa a arrastá-lo pelo piso do armazém. A carcaça raspa nas tábuas, produzindo um ruído áspero que ecoa entre as paredes. A cavidade no torso permanece apagada. Não há movimento visível, embora você ainda não tenha confirmado que a criatura está morta.
+
+— **Neris, abra a sala!** — sua voz atravessa o armazém.
+
+Neris se move para atender ao chamado. Do outro lado, Odrik percebe o barulho e volta a atenção para a criatura que você está trazendo. A expressão dele endurece quando reconhece o corpo; por enquanto, não diz nada.
+
+[LOG DE MEMÓRIA DA CAMPANHA]
+
+- Localização Atual: Interior da Casa da Balança, arrastando a criatura caída em direção à sala onde estão os demais, aproximadamente 18h35.
+- NPCs Presentes e Relação: Neris atende ao pedido para abrir a sala; Odrik percebe o corpo sendo arrastado e observa em silêncio; Belric e os demais continuam no local. Iven segue ausente, buscando Maela.
+- Linha de Missão Ativa: Lidar com a criatura caída e investigar a ameaça na Casa da Balança.
+- Eventos Cruciais Ocorridos: Eron retirou as flechas do corpo para dificultar a identificação do método usado para matá-la; as flechas ficaram deformadas e sem condição aparente de reutilização. Começou a arrastar a criatura para a sala dos demais. A morte permanece não confirmada.
+- Condições do Jogador: 11/11 PV, CA 13, 13 flechas restantes.
