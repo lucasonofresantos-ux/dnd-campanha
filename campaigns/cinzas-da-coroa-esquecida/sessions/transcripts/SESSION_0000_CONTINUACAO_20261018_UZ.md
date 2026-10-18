@@ -499,3 +499,38 @@ Neris já está sentada à mesa próxima. Ao notar que Marden terminou, ela olha
 - Linha de Missão Ativa: Investigar quem está perguntando por Eron e por quê; ouvir possíveis rumores; aguardar notícias de Lethan sobre a carcaça; confirmar o envio das 75 PO prometidas por Odrik.
 - Eventos Cruciais Ocorridos: Marden relatou que, por volta do meio-dia, dois homens perguntaram a um carroceiro sobre um goblin identificado como Eron River e sobre seu paradeiro após a passagem pela Casa da Balança. Marden não viu os homens e não sabe quem são nem suas intenções.
 - Condições do Jogador: 11/11 PV, CA 13, 13 flechas restantes.
+
+
+## Jogador — literal
+
+- já é um começo, e obrigado meu amigo, acredito que já paguei se não me foge a memória, então vou comer e por favor duas cervejas também.
+
+Percepção 18 natural, quero acompanhar os boatos na taverna enquanto jantou com Neris.
+
+## Mestre — literal
+
+Marden abre um sorriso breve e confirma com um aceno.
+
+— O jantar, sim, já está pago. Duas cervejas são oito cobres; deixo anotado na conta.
+
+Ele passa o pedido a um ajudante e, pouco depois, duas canecas de cerveja chegam à mesa de Eron e Neris. O cheiro do jantar quente mistura-se ao malte, à madeira úmida e à fumaça da lareira. Neris começa a comer sem pressa, deixando que você acompanhe o salão.
+
+**Percepção: 1d20+6 → 18 natural +6 = 24.** Resultado informado pelo jogador; o modificador +6 consta na ficha canônica.
+
+Você separa algumas conversas do ruído geral. Perto da porta, dois carroceiros discutem uma carga coberta que teria saído da Casa da Balança. Um diz que as rodas pareciam suportar peso demais e que, quando a carroça passou por uma rua irregular, ouviu-se um som de metal raspando sob a lona. O companheiro responde que podia ser apenas ferragem mal presa e que nenhum dos dois viu o conteúdo. Eles não sabem o que havia no carregamento nem quem o transportava.
+
+Mais perto do balcão, um trabalhador do Mercado dos Grãos conta a outro que dois desconhecidos fizeram perguntas durante a tarde sobre a pessoa que estivera na Casa da Balança. Segundo ele, um dos homens conduzia a conversa; o outro falava pouco e prestava atenção às entradas e saídas. Queriam saber que caminho aquela pessoa tomara ao deixar o armazém. O trabalhador não sabe seus nomes, não os viu usando insígnias e não pode afirmar se eram os mesmos homens de quem Marden ouviu falar.
+
+As conversas não provam que a carga coberta e os dois desconhecidos estejam ligados — nem que algum relato descreva exatamente os acontecimentos que você presenciou. Mas ambas as histórias circulam entre pessoas diferentes, e ambas apontam para a Casa da Balança.
+
+Neris percebe que sua atenção se desviou do prato e acompanha seu olhar pelo salão. Baixa um pouco a voz:
+
+— Ouviu alguma coisa que mereça nossa atenção?
+
+[LOG DE MEMÓRIA DA CAMPANHA]
+
+- Localização Atual: Javali de Ferro, salão da estalagem em Lorn, Caldria.
+- NPCs Presentes e Relação: Eron janta com Neris; Marden é o taberneiro. Outros frequentadores conversam no salão.
+- Linha de Missão Ativa: Investigar quem procura Eron e por quê; avaliar rumores sobre carga coberta ligada à Casa da Balança; aguardar notícias de Lethan sobre a carcaça; confirmar as 75 PO prometidas por Odrik.
+- Eventos Cruciais Ocorridos: Marden confirmou o jantar pago e anotou 8 PC pelas cervejas, ainda sem pagamento confirmado. Percepção 18 natural +6 =24, resultado informado pelo jogador. Eron ouviu rumores sobre uma carga coberta que saiu da Casa da Balança e sobre dois desconhecidos perguntando pelo caminho tomado por alguém que estivera no armazém. Não há confirmação de ligação entre os relatos nem identificação da carga ou dos homens.
+- Condições do Jogador: 11/11 PV, CA 13, 13 flechas restantes; 8 PC pelas cervejas anotados e pendentes.
