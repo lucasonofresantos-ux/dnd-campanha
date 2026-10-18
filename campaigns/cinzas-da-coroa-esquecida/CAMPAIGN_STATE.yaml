@@ -750,3 +750,9 @@ checkpoint_20261017_UO:
   transcript: 'sessions/transcripts/SESSION_0000_CONTINUACAO_20261017_UO.md'
   location: 'Sala principal da Casa da Balanca, Lorn, aproximadamente 18h31 ou minutos seguintes'
   situation: 'Eron suspeita que mecanismo ou criatura tenha sido enviado para matar Valen, nao confirmado. Propôs 100 PO menos 50 pelo ferimento que causou: pagamento de 50 PO. Valen concordou condicionalmente somente se sobrevivem e Eron resolve problema; nao pagou. Eron pediu que Neris fugisse se houver perigo, ela aceita priorizar evacuacao mas cuidara dos feridos. Eron libertou os dois capturados conscientes: homem com ombro atingido e homem com adaga no joelho; terceiro desacordado continua amarrado. Todos desarmados. Iven estava na porta e ainda nao tinha saido; agora efetivamente partiu para buscar curadora Maela; ainda nao voltou. Todos aguardam em silencio. Ruido mecanico se move no teto sobre sala; poeira cai, origem ainda nao identificada.'
+
+checkpoint_20261017_UQ:
+  transcript: 'sessions/transcripts/SESSION_0000_CONTINUACAO_20261017_UQ.md'
+  location: 'Lateral oposta do armazem Casa da Balanca, Lorn, aprox 18h35'
+  roll: 'Furtividade 20 natural +6 = 26, dado informado pelo jogador'
+  situation: 'Eron saiu pela lateral e contornou armazem, chamou criatura e atirou pedra perto da lanterna para atrai-la. Som e movimento respondem dentro do armazem; dedos escuros articulados aparecem numa abertura sob o beiral. Criatura ainda parcialmente oculta, identidade nao confirmada. Neris mantem porta fechada ate reconhecer voz de Eron. Nenhum dano ou recurso gasto.'
