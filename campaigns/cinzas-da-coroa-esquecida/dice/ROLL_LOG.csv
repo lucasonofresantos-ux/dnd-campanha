@@ -138,3 +138,5 @@ cinzas-da-coroa-esquecida,0000,162,furtividade_corredor_escritorio,jogador_dado_
 cinzas-da-coroa-esquecida,0000,163,percepcao_teto_escritorio,jogador_dado_informado,20,,20,6,26,true,"UE; 20 natural"
 
 cinzas-da-coroa-esquecida,0000,166,investigacao_vestigios,jogador_dado_informado,19,,19,4,23,true,"UL"
+
+cinzas-da-coroa-esquecida,0000,167,furtividade_isca_lateral,jogador_dado_informado,20,,20,6,26,true,"UQ"
