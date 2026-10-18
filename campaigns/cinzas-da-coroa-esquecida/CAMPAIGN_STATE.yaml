@@ -7,8 +7,8 @@ session: 0
 ruleset: "D&D 5E 2024 / SRD 5.2.1 (Guarda e Tenaz: PHB 2024)"
 audience_rating: "18+"
 tone: "Fantasia medieval adulta: romance, conflito e consequências; intimidade narrada sem descrição sexual gráfica"
-current_location: "À mesa lateral do Javali de Ferro em Lorn, com Neris Halden, almoço em andamento"
-current_time: "Outono, manhã; hora exata não fixada; chuva e solo úmido"
+current_location: "Interior da Casa da Balança, Lorn, lado oposto do armazém em relação aos demais, aproximadamente 18h35"
+current_time: "Outono, aproximadamente 18h35 (horário ficcional estimado)"
 character:
   name: Eron River
   source: "character/ERON_RIVER_2024_FICHA_ATIVA.md"
@@ -27,9 +27,9 @@ character:
   hit_dice: "1d8"
   hit_dice_available: 1
   heroic_inspiration: true
-  arrows: 19
+  arrows: 13
   money_confirmed_gp: 125
-  money_current: {gp: 125, sp: 4, cp: 5}
+  money_current: {gp: 124, sp: 1, cp: 5}
   money_background_pending: false
   weapon_masteries: [shortsword_vex, dagger_nick]
   conditions: []
@@ -40,7 +40,7 @@ character:
   guard_starting_equipment_option_pending: false
   exile: "Proibido retornar a Valdrén após condenação por assassinato de Edric Valmont; Eron afirma ter sido incriminado"
 narrative:
-  scene: "Eron e Neris entraram no posto municipal da guarda. Eron apresentou-se como Eron River, perguntou o nome do oficial e foi recebido pelo tenente Arven Cael, responsável pelo serviço da manhã, humano de aproximadamente 45 anos, uniforme azul-escuro e insígnia de prata. Neris apresentou-se como Neris Halden. Cael conhece apenas o assunto geral da última semana da antiga guarita de pedágio antes da Ponte Velha, ofereceu cadeiras, e pergunta o que Eron deseja saber. Ainda não foram mostradas cartas, fragmentos nem citado Tomas."
+  scene: "Eron está dentro da Casa da Balança, no lado oposto do armazém em relação aos demais. A criatura permanece agarrada ao beiral, ferida após um ataque de 12 de dano e um crítico de 22; a descarga irregular atingiu a parede. O terceiro disparo de Eron acertou com 17 natural +4 =21; o dano do arco ainda aguarda rolagem."
   prior_events_imported: false
   character_actions_so_far:
     - 'Consultar histórico completo das ações em sessions/INDEX.md e transcripts/'
@@ -53,15 +53,18 @@ narrative:
     - 'Marco antigo: gravação apagada sob musgo; significado indeterminado; não recolhido'
   allies_present: []
   npcs_directly_in_scene:
-    - "Neris Halden (nome alegado; afirmações ainda não comprovadas)"
-    - "Tenente Arven Cael (oficial de serviço da guarda municipal de Lorn; apresentou-se a Eron)"
+    - "Neris Halden (dentro do armazém, afastada do confronto)"
+    - "Odrik Valen (ferido, dentro do armazém, afastado do confronto)"
+    - "Belric (dentro do armazém, afastado do confronto)"
+    - "Iven (partiu para buscar Maela; ainda não retornou)"
+    - "Demais presentes no armazém, afastados do confronto"
   rolls_this_execution:
     - 'Registros em dice/ROLL_LOG.csv: 117 Percepção [12]+6=18; 118 Investigação [3]+4=7, ambos Python (MR)'
     - '120 Percepção da guarita: 1d20 [13]+6=19, Python secrets.randbelow (OL)'
     - '121 Percepção caminho ao posto da guarda: 1d20 [6]+6=12, Python secrets.randbelow (OM)'
   consumed_resources:
     - 'Saldo atual 19 flechas, após recuperar uma flecha intacta da terra; segunda flecha partida e inutilizável. Gastos anteriores registrados no índice.'
-  pending_action: "Neris relatou sua versão do vínculo com Tomas e aspectos de sua criação, ainda não verificados, e perguntou se a curiosidade de Eron é de investigador ou de homem."
+  pending_action: "Aguardar o jogador rolar o dano do arco (1d6); somar +2 de Destreza. Ataque acertou com 21, uma flecha consumida, sem Ataque Furtivo confirmado."
   clocks_advanced: null
 isolation:
   previous_camp_global_untouched: true
@@ -69,12 +72,12 @@ isolation:
   pre_execution_state_archive: "archive/CAMPAIGN_STATE_PRE_EXECUCAO_2026-10-12.yaml"
   dm_plan_retained: "dm/WORLD_BIBLE.md"
 transcript:
-  current: "sessions/transcripts/SESSION_0000_CONTINUACAO_20261017_PI.md"
-  index: "sessions/INDEX.md"
-  previous: "sessions/transcripts/SESSION_0000_CONTINUACAO_20261017_PH.md"
-  literal_complete_current_execution: false
-  last_confirmed_message: "0861 — Mestre (PI)"
-  pending: "Aguardar Mensagem 0862 — Jogador"
+  current: "sessions/transcripts/SESSION_0000_CONTINUACAO_20261018_UZ.md"
+  index: "sessions/INDEX_20261017_OQ.md"
+  previous: "sessions/transcripts/SESSION_0000_CONTINUACAO_20261017_UY.md"
+  literal_complete_current_execution: true
+  last_confirmed_message: "Mestre (UZ) — ataque 21 confirmado; dano pendente"
+  pending: "Aguardar rolagem do dano de arco: 1d6 + 2 de Destreza"
 
 operational_checkpoint:
   updated_at: "2026-10-17"
@@ -791,3 +794,14 @@ checkpoint_20261017_UY:
   transcript: 'sessions/transcripts/SESSION_0000_CONTINUACAO_20261017_UY.md'
   location: 'Interior da Casa da Balanca, lado oposto do armazem em relacao aos demais, aproximadamente 18h35'
   situation: 'Correcao explicita do jogador: Eron nao saiu do armazem; atravessou para o outro lado por dentro para manter os demais seguros. Eron declarou preparar outra flecha e disparar contra a criatura. Ataque 1d20+4 pendente de rolagem do jogador; resultado, dano e consumo de flecha ainda nao atualizados. Estado anterior registrado: 11/11 PV, CA 13, 14 flechas antes deste disparo.'
+
+
+checkpoint_20261018_UZ:
+  transcript: 'sessions/transcripts/SESSION_0000_CONTINUACAO_20261018_UZ.md'
+  location: 'Interior da Casa da Balanca, lado oposto do armazem em relacao aos demais, aproximadamente 18h35'
+  attack: {expression: '1d20+4', natural: 17, bonus: 4, total: 21, result: 'acerto', source: 'dado informado pelo jogador'}
+  damage_pending: 'arco 1d6 + 2 de Destreza; sem Ataque Furtivo confirmado neste disparo'
+  arrows: 13
+  hp: '11/11'
+  ac: 13
+  situation: 'A flecha acertou o torso entre placas escuras. A criatura permanece agarrada ao beiral; nao foi confirmado que a flecha atingiu o nucleo ou que a criatura foi destruida. Aguardar dano para resolver consequencias.'
