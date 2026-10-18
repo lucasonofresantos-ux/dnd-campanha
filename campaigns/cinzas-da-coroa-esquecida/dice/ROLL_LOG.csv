@@ -151,3 +151,4 @@ cinzas-da-coroa-esquecida,0000,173,Ataque Furtivo crítico,python_secrets,2d6,5;
 
 cinzas-da-coroa-esquecida,0000,174,ataque_de_arco_contra_criatura,jogador_dado_informado,1d20,17,17,4,21,true,"UZ; 17 natural informado pelo jogador; acerto; dano 1d6 pendente"
 cinzas-da-coroa-esquecida,0000,175,dano_arco_criatura,python_secrets_randbelow,1d6,5,5,2,7,true,"UZ; rolagem real em Python; dano perfurante"
+cinzas-da-coroa-esquecida,0000,176,persuasao_odrik_sem_ressentimentos,jogador_dado_informado,,18,18,0,18,true,"UZ; resultado 18 informado pelo jogador; tratado como total de Persuasão, modificador não especificado"
