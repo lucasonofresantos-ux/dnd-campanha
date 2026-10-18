@@ -718,3 +718,8 @@ checkpoint_20261017_UF:
   retcon_approved: 'Eron pegou chave de Valen da mesa antes de subir; omissao corrigida por solicitação do jogador.'
   situation: 'Eron abriu silenciosamente alguns centimetros a porta do escritorio com chave. De fora viu escrivaninha com documentos, tres armarios, maior a esquerda, lanterna apagada, copo de agua. Pequena abertura sobre armario entre parede e forro. Ruido mecanico e tremor atras do armario e na estrutura superior. Nenhuma criatura ou pessoa vista, nenhum sinal de deteccao. Eron ainda fora, porta semiaberta, nao investigou interior.'
   key_office: 'posse de Eron'
+
+checkpoint_20261017_UG:
+  transcript: 'sessions/transcripts/SESSION_0000_CONTINUACAO_20261017_UG.md'
+  location: 'Interior do escritorio superior da Casa da Balanca, Lorn, 18h27'
+  situation: 'Eron entrou furtivamente pela porta entreaberta, parou antes de chegar ao armario maior. Ouviu tic, metal cessou e parede vibrou; abertura estreita acima, origem desconhecida. Ainda nao moveu armario nem acionou lingueta. Novo teste de Furtividade 1d20+6 solicitado e pendente de jogador.'
