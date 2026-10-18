@@ -126,3 +126,28 @@ Ele olha para o pé que você atingiu antes e depois volta os olhos para você, 
 - Linha de Missão Ativa: Investigar a criatura e a ameaça à Casa da Balança; resolver a dívida de Odrik.
 - Eventos Cruciais Ocorridos: Eron contestou que estivesse ameaçando Odrik e perguntou o que teria acontecido sem sua intervenção. Odrik respondeu que provavelmente teriam morrido ou ficado feridos e revelou que não viu como a criatura entrou.
 - Condições do Jogador: 11/11 PV, CA 13, 13 flechas restantes.
+
+
+## Jogador — literal
+
+- Não estou pedindo para confiar, mas acredito que já pode me perdoar pela flecha no pé, um conselho, sim vamos desmontar isso.
+
+## Mestre — literal
+
+Odrik olha para o próprio pé e depois encara Eron. Por um instante, parece prestes a responder com outra provocação, mas solta o ar pelo nariz.
+
+— Perdoar a flecha? Se eu voltar a andar sem mancar, talvez considere. E, da próxima vez que resolver me ajudar, tente não acertar uma parte que eu uso para ficar de pé.
+
+Neris deixa escapar uma risada curta, nervosa, que desaparece quase imediatamente. Odrik se ajoelha perto do corpo, mantendo distância das partes que ainda parecem estranhas demais para tocar sem cuidado. A criatura cheira a metal molhado e fuligem; sob a luz das lanternas, a superfície escura parece menos carne do que uma estrutura de placas e fibras contraídas.
+
+— Certo — diz Odrik. — Vamos desmontar isso. Mas devagar. Se ainda houver alguma coisa funcionando aí dentro, prefiro descobrir antes de enfiar a mão.
+
+Ele procura algo que possa servir de ferramenta, enquanto Neris aproxima uma lanterna. Belric permanece alguns passos atrás, atento à porta e ao corredor. Ninguém parece saber exatamente onde começar — e, agora que a criatura está imóvel, cada detalhe do corpo parece uma possível pista.
+
+[LOG DE MEMÓRIA DA CAMPANHA]
+
+- Localização Atual: Sala da Casa da Balança, aproximadamente 18h35.
+- NPCs Presentes e Relação: Odrik Valen continua desconfiado, mas aceita examinar a criatura com Eron; brinca sobre a flecha no pé. Neris está junto à lanterna; Belric vigia a porta e o corredor. Iven segue ausente, buscando Maela.
+- Linha de Missão Ativa: Investigar a criatura e a ameaça à Casa da Balança; resolver a dívida de Odrik.
+- Eventos Cruciais Ocorridos: Eron sugeriu que Odrik já poderia perdoá-lo pela flecha no pé e propôs desmontar a criatura. Odrik aceitou examiná-la com cautela.
+- Condições do Jogador: 11/11 PV, CA 13, 13 flechas restantes.
