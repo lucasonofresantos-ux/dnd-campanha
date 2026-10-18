@@ -103,3 +103,26 @@ Ele aponta para o corpo, sem se aproximar.
 - Linha de Missão Ativa: Investigar a criatura e a ameaça à Casa da Balança; resolver a dívida de Odrik com Eron.
 - Eventos Cruciais Ocorridos: Eron cravou a espada no torso da criatura; uma última faísca azulada escapou e os membros relaxaram, sem sinais posteriores de atividade. Eron arrastou o corpo para a sala e reafirmou que Odrik ainda lhe deve 100 PO após o desconto de 50 PO. Odrik questionou quem enviou a criatura e por quê.
 - Condições do Jogador: 11/11 PV, CA 13, 13 flechas restantes.
+
+
+## Jogador — literal
+
+Não foi uma ameaça Odrik, mas um fato, e pelo jeito está coisa se monta sozinha, mas é só uma teoria até agora, você tem sorte, agora me diz, se eu não estive se vindo aqui, oque teria acontecido?
+
+## Mestre — literal
+
+Odrik sustenta seu olhar por alguns segundos. A mandíbula continua rígida, mas ele não tenta mais transformar a conversa numa disputa sobre o tom da sua voz. Atrás dele, um dos homens olha para a carcaça e se afasta discretamente, como se temesse que ela voltasse a se mover.
+
+— Se você não tivesse vindo? — Odrik repete, soltando o ar pelo nariz. — Então provavelmente estaríamos mortos, ou essa coisa teria nos deixado feridos o bastante para terminar o serviço depois. Eu não vi como ela entrou. Quando percebi o que estava acontecendo, já estava sobre nós.
+
+Ele olha para o pé que você atingiu antes e depois volta os olhos para você, contrariado por ter de admitir aquilo.
+
+— Você nos deu uma chance de reagir. Isso é um fato, River. E a dívida continua sendo a dívida.
+
+[LOG DE MEMÓRIA DA CAMPANHA]
+
+- Localização Atual: Sala da Casa da Balança, aproximadamente 18h35.
+- NPCs Presentes e Relação: Neris mantém a porta aberta; Odrik Valen admite que Eron lhes deu uma chance de reagir, embora continue defensivo; Belric e os demais estão presentes. Iven segue ausente, buscando Maela.
+- Linha de Missão Ativa: Investigar a criatura e a ameaça à Casa da Balança; resolver a dívida de Odrik.
+- Eventos Cruciais Ocorridos: Eron contestou que estivesse ameaçando Odrik e perguntou o que teria acontecido sem sua intervenção. Odrik respondeu que provavelmente teriam morrido ou ficado feridos e revelou que não viu como a criatura entrou.
+- Condições do Jogador: 11/11 PV, CA 13, 13 flechas restantes.
