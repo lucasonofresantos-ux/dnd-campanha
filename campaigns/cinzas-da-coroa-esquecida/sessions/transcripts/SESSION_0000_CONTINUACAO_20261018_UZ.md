@@ -172,3 +172,31 @@ Neris mantém a lanterna apontada para o corpo, mas não toca nele. A decisão p
 - Linha de Missão Ativa: Preservar e investigar a criatura, procurando alguém capaz de examiná-la com segurança; resolver a dívida de Odrik.
 - Eventos Cruciais Ocorridos: Eron aconselhou Odrik a não mexer no pé ferido e propôs levar a criatura a alguém que saiba examiná-la, em vez de desmontá-la sem conhecimento. Odrik concordou em recuar.
 - Condições do Jogador: 11/11 PV, CA 13, 13 flechas restantes.
+
+
+## Jogador — literal
+
+Tem alguém aqui que mexa com peças de precisão? Sabe coisas pequenas e engrenagens? Leve para ele, pelo jeito isso já está morto, mas se ele se mexer eu fenco de novo a espada.
+Odrik veja quem mandou as caixas que coloca se no seu escritório, que estou achando que isso se montou sozinho.
+Rolei 18 em persuasão 
+Odrik sen ressentimentos então?
+
+## Mestre — literal
+
+Odrik ergue as mãos, mostrando que não pretende tocar nem no próprio pé nem na carcaça. Quando Eron fala em procurar alguém que entenda de engrenagens e peças de precisão, ele pondera por alguns segundos antes de responder:
+
+— Aqui dentro, não conheço ninguém com esse ofício. Mas há Lethan Voss, um relojoeiro e reparador de fechaduras na Rua das Fundições. Trabalha com molas, mecanismos pequenos e engrenagens delicadas. Não sei se já viu algo parecido, mas é nossa melhor pista. Vamos levar isso até ele com cuidado.
+
+Ao ouvir a pergunta sobre ressentimentos, Odrik sustenta o olhar de Eron. A postura defensiva cede um pouco: a forma como você aborda a conversa, junto do que fez durante o ataque, parece convencê-lo de que não está tentando provocá-lo por prazer.
+
+— Sem ressentimentos, River… por enquanto. Ainda vou me lembrar daquela flecha quando meu pé doer, mas também vou me lembrar de que você ficou aqui e enfrentou essa coisa. Não confunda isso com confiança plena; mas, sim, estamos acertados quanto a isso.
+
+Ele então se vira para Belric e determina que preparem uma lona e um transporte para a carcaça, sem desmontá-la nem separar suas peças. Quanto às caixas, Odrik assume a responsabilidade de verificar o registro de entrada, as marcas e quem as enviou. Nesse instante, os passos no corredor chegam à porta: Iven retorna acompanhado de Maela, a curandeira. Ela percebe o pé ferido de Odrik e depois olha para o corpo escuro no chão, com uma expressão de cautela.
+
+[LOG DE MEMÓRIA DA CAMPANHA]
+
+- Localização Atual: Sala da Casa da Balança, Lorn, Caldria, aproximadamente 18h35.
+- NPCs Presentes e Relação: Odrik Valen está menos defensivo após a abordagem de Eron, aceita deixar de lado a hostilidade imediata, mas ainda não confia plenamente nele. Neris e Belric estão presentes; Belric organizará o transporte da carcaça. Iven retornou com Maela, a curandeira.
+- Linha de Missão Ativa: Levar a carcaça intacta a Lethan Voss, relojoeiro e reparador de fechaduras na Rua das Fundições, para avaliação; investigar a origem das caixas no escritório de Odrik; resolver a dívida de Odrik.
+- Eventos Cruciais Ocorridos: Eron obteve 18 em Persuasão (rolagem informada pelo jogador), sugeriu examinar a criatura com alguém que conheça engrenagens e peças de precisão, advertiu que a perfuraria novamente se voltasse a se mover e pediu a Odrik que investigasse quem enviou as caixas. Odrik concordou em providenciar o transporte sem desmontar a carcaça, investigar os registros de entrada e deixar de lado os ressentimentos imediatos, embora mantenha cautela.
+- Condições do Jogador: 11/11 PV, CA 13, 13 flechas restantes.
