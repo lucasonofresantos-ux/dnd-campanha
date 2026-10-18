@@ -133,3 +133,6 @@ cinzas-da-coroa-esquecida,0000,158,furtividade_exploracao_armazem,jogador_dado_i
 cinzas-da-coroa-esquecida,0000,159,investigacao_saidas_armazem,jogador_dado_informado,20,,20,4,24,true,"TJ; jogador chamou inspecao"
 cinzas-da-coroa-esquecida,0000,160,enganacao_valen,jogador_dado_informado,18,,18,1,19,true,"TS; Eron explica como se envolveu com Tomas"
 cinzas-da-coroa-esquecida,0000,161,persuasao_tregua_valen,jogador_dado_informado,20,,20,1,21,true,"TU; tregua verbal"
+
+cinzas-da-coroa-esquecida,0000,162,furtividade_corredor_escritorio,jogador_dado_informado,20,,20,6,26,true,"UE; 20 natural"
+cinzas-da-coroa-esquecida,0000,163,percepcao_teto_escritorio,jogador_dado_informado,20,,20,6,26,true,"UE; 20 natural"
