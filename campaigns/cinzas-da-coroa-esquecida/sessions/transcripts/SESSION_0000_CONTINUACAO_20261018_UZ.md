@@ -579,3 +579,59 @@ Neris tira o manto dos ombros, mas permanece de pé por um momento, observando v
 - Linha de Missão Ativa: Investigar quem procura Eron e por quê; avaliar rumores sobre pessoas, cargas e depósitos; aguardar notícias de Lethan sobre a carcaça; confirmar as 75 PO prometidas por Odrik.
 - Eventos Cruciais Ocorridos: Eron e Neris terminaram o jantar e as cervejas e foram para o quarto já pago, para conversar em particular. Os rumores ouvidos no salão continuam vagos, sem identificação confirmada dos desconhecidos.
 - Condições do Jogador: 11/11 PV, CA 13, 13 flechas restantes; 8 PC pelas duas cervejas continuam anotados na conta, sem pagamento confirmado.
+
+
+## Jogador — literal
+
+- Teve dois fazendo perguntas por um goblin com meu nome e descrição, acredito que seja de Valdreon, e tem boatos de viajantes desviando de algumas rotas e outros indo fazer entregas em depósitos onde não deveriam ter entregas. E pretendo reclamar de alguma coisa dos meus métodos de hoje?
+
+## Mestre — literal
+
+Neris escuta sem interromper. Ao ouvir o nome de Valdreon, seu olhar se estreita um pouco, mas ela não trata sua suspeita como certeza.
+
+— Pode ser gente de Valdreon, mas, por enquanto, você só sabe que perguntaram por um goblin com seu nome ou sua aparência. Eu não juntaria as duas coisas antes de termos algo mais concreto. E esses rumores sobre rotas e depósitos… combinam com uma cidade onde alguém está tentando movimentar coisas sem chamar atenção. Não provam que seja a mesma gente, mas eu também não os ignoraria.
+
+Ela se acomoda melhor na beira da cama e responde à sua segunda pergunta com franqueza.
+
+— Reclamar? Não vou fingir que tudo o que você fez hoje me agradou. Atirar no pé de Odrik foi arriscado; podia ter transformado uma negociação numa inimizade, e você não sabia tudo o que estava acontecendo quando disparou. Depois, tentou esconder as flechas para que ele não soubesse como você matou aquela coisa. Entendo por que queria controlar o que ele descobriria, mas isso também pode voltar contra você se ele perceber.
+
+Neris faz uma pausa, escolhendo as palavras.
+
+— Mas eu vi você enfrentar aquela coisa quando ela podia ter matado todos ali. Você não fugiu e, depois, teve o bom senso de não desmontá-la às cegas e levá-la a alguém que entende de mecanismos. Isso contou. Não vou lhe dar sermão como se eu fosse sua comandante, Eron. Só quero que entenda uma coisa: ser capaz de fazer algo perigoso não significa que toda vez seja a escolha certa. E, se vamos continuar trabalhando juntos, preciso saber que você consegue ouvir isso sem achar que estou tentando controlá-lo.
+
+Ela sustenta seu olhar, séria, mas não hostil.
+
+— Então, sim, tenho reservas sobre alguns dos seus métodos. Também reconheço o que você fez bem. As duas coisas podem ser verdade ao mesmo tempo.
+
+Neris fica em silêncio, deixando espaço para sua resposta.
+
+## Jogador — literal
+
+- Não acho que está tentando me controlar, mas o fato de descordar de mim e me alertar me mostra sua lealdade. Mas estou quebrado, e referente as pernas, pés e ombros hoje era isso ou arriscar que matassem o Iven, e estávamos em menor número, se eles estivessem sem ferimento seria difícil controla los, mas fiz de tudo para não mata Los nem deixar que nós matassem.
+- Agora oque você quer fazer, repetir o episódio da guarita antes de um banho e dormir?
+
+## Mestre — literal
+
+Neris escuta sua explicação com atenção. Quando você menciona Iven, ela assente uma vez, sem tentar diminuir o risco que vocês enfrentavam.
+
+— Eu entendo melhor o que você estava tentando fazer. Estavam em desvantagem, Iven corria perigo, e você queria impedir que a situação terminasse em mais mortes. Não vou fingir que havia uma solução limpa e óbvia no meio daquela confusão. Ainda acho que ferir alguém pode trazer consequências que você não controla — mas isso não significa que eu ignore o que você estava tentando proteger. E agradeço por me dizer como você viu a situação, em vez de simplesmente encerrar a conversa.
+
+A tensão em seu rosto diminui um pouco quando você muda de assunto. Um sorriso discreto aparece no canto da boca dela.
+
+— Você realmente não sabe deixar uma conversa séria terminar de maneira séria, não é?
+
+Neris se aproxima um passo, mas para diante de você, deixando a escolha clara no próprio gesto e no tom.
+
+— O episódio da guarita… não está fora de questão. Mas você acabou de me dizer que está quebrado, e eu também passei um dia longo. Vamos tomar banho primeiro, cada um no seu tempo. Depois vemos se ainda queremos repetir alguma coisa — sem promessas feitas só porque estamos cansados, e sem pressão.
+
+Ela pega o manto e o dobra sobre a cadeira, então olha para você com uma expressão mais suave.
+
+— Você pode ir primeiro, Eron. Eu espero.
+
+[LOG DE MEMÓRIA DA CAMPANHA]
+
+- Localização Atual: Quarto já pago no Javali de Ferro, Lorn, Caldria, à noite.
+- NPCs Presentes e Relação: Eron e Neris estão no quarto; Neris aceitou dividir o quarto por prudência e conversar em particular. Há intimidade sugerida pelo episódio anterior da guarita, mas nenhum novo encontro ocorreu nesta cena.
+- Linha de Missão Ativa: Investigar quem procura Eron e por quê; avaliar rumores sobre pessoas, cargas e depósitos; aguardar notícias de Lethan sobre a carcaça; confirmar as 75 PO prometidas por Odrik.
+- Eventos Cruciais Ocorridos: Eron explicou que os ferimentos infligidos durante o confronto tinham o objetivo de reduzir a desvantagem numérica e proteger Iven sem matar os adversários. Neris reconheceu o contexto, mantendo suas reservas sobre os riscos. Eron perguntou se repetiriam o episódio da guarita; Neris sugeriu banho primeiro e deixou qualquer intimidade posterior condicionada à vontade e disposição de ambos.
+- Condições do Jogador: 11/11 PV, CA 13, 13 flechas restantes; 8 PC pelas duas cervejas continuam anotados na conta, sem pagamento confirmado.
