@@ -259,3 +259,32 @@ Maela termina de examinar o pé e começa a limpar o ferimento. Odrik prende uma
 - Linha de Missão Ativa: Acompanhar a carcaça até Lethan Voss para avaliação; Odrik investigar quem enviou as caixas e por quê; esclarecer os termos financeiros entre Eron e Odrik.
 - Eventos Cruciais Ocorridos: Eron argumentou que seu trabalho valeria 150 PO e propôs fechar em 75, mencionando a flecha no pé e o risco do raio da criatura. Odrik disse que a dívida antiga de 100 PO e o serviço de hoje são contas separadas e pediu que Eron esclareça se os 75 PO são apenas pelo serviço ou um acordo único.
 - Condições do Jogador: 11/11 PV, CA 13, 13 flechas restantes.
+
+
+## Jogador — literal
+
+Não, os 100 PO antigos era para te tirar vivo daqui, só coloquei o bônus de matar essa coisa, então é o mesmo trabalho de antes mas com o preço corrigido, sei que não solicitou a flecha no pé, mas estou colocando como acidente de trabalho e descontando, assim ficamos sem recebimentos
+
+## Mestre — literal
+
+Odrik fica em silêncio por um instante, acompanhando a conta com os olhos. Quando entende que você está revendo o valor total — e não cobrando o serviço de hoje por fora da dívida antiga —, ele solta uma risada curta, que termina numa careta quando Maela toca o ferimento.
+
+— “Acidente de trabalho”, é? Vou lembrar dessa expressão quando voltar a andar direito.
+
+Ele olha novamente para a carcaça.
+
+— Certo. O resgate estava em cem. Com a criatura, você está avaliando o trabalho inteiro em cento e cinquenta; desconta setenta e cinco pelo meu pé e encerra tudo em setenta e cinco. Não é a conta que eu faria, mas você resolveu o problema e ninguém morreu. Fechado: **75 PO no total**, e considero encerrada a dívida antiga também.
+
+Odrik faz um gesto para Belric.
+
+— Registre o pagamento para River. Assim que o transporte estiver encaminhado, providencie as moedas.
+
+Belric confirma com a cabeça e volta a organizar os funcionários. A negociação termina sem nova discussão. Maela continua tratando o pé de Odrik, enquanto Neris mantém a lanterna apontada para a carcaça, pronta para acompanhar o transporte até Lethan Voss.
+
+[LOG DE MEMÓRIA DA CAMPANHA]
+
+- Localização Atual: Sala da Casa da Balança, Lorn, Caldria, aproximadamente 18h35.
+- NPCs Presentes e Relação: Odrik aceitou encerrar a dívida antiga e o serviço atual por 75 PO no total; Maela trata seu pé. Neris, Belric, Iven e funcionários estão presentes. A carcaça aguarda transporte.
+- Linha de Missão Ativa: Acompanhar a carcaça até Lethan Voss para avaliação; Odrik investigar quem enviou as caixas e por quê; receber os 75 PO acordados.
+- Eventos Cruciais Ocorridos: Eron esclareceu que os 100 PO originais eram pelo resgate, reajustou o valor total do trabalho para 150 PO e descontou 75 PO pelo ferimento no pé de Odrik. Odrik aceitou 75 PO como pagamento final, incluindo a quitação da dívida antiga.
+- Condições do Jogador: 11/11 PV, CA 13, 13 flechas restantes.
