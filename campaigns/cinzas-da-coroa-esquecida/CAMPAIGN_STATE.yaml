@@ -711,3 +711,10 @@ checkpoint_20261017_UE:
   location: 'Corredor superior proximo escritorio Casa da Balanca, Lorn, aprox 18h26'
   rolls: 'Furtividade 20+6=26 e Percepcao 20+6=26, informados por jogador'
   situation: 'Eron subiu oculto para investigar ruído. Arranhoes recentes no alto do batente, tabua deslocada entre vigas acima do corredor, atrito parecido metal em madeira e estalo no alto com queda de poeira. Nenhuma criatura vista e nenhum observador detectado, origem nao confirmada. Porta do escritorio fechada; chave segue sobre mesa no terreo, nao recolhida. Belric escondido no deposito; Neris cuida de feridos embaixo.'
+
+checkpoint_20261017_UF:
+  transcript: 'sessions/transcripts/SESSION_0000_CONTINUACAO_20261017_UF.md'
+  location: 'Corredor superior da Casa da Balanca, frente ao escritorio, 18h26'
+  retcon_approved: 'Eron pegou chave de Valen da mesa antes de subir; omissao corrigida por solicitação do jogador.'
+  situation: 'Eron abriu silenciosamente alguns centimetros a porta do escritorio com chave. De fora viu escrivaninha com documentos, tres armarios, maior a esquerda, lanterna apagada, copo de agua. Pequena abertura sobre armario entre parede e forro. Ruido mecanico e tremor atras do armario e na estrutura superior. Nenhuma criatura ou pessoa vista, nenhum sinal de deteccao. Eron ainda fora, porta semiaberta, nao investigou interior.'
+  key_office: 'posse de Eron'
