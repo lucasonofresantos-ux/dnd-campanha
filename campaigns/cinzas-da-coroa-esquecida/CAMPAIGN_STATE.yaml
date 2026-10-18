@@ -756,3 +756,9 @@ checkpoint_20261017_UQ:
   location: 'Lateral oposta do armazem Casa da Balanca, Lorn, aprox 18h35'
   roll: 'Furtividade 20 natural +6 = 26, dado informado pelo jogador'
   situation: 'Eron saiu pela lateral e contornou armazem, chamou criatura e atirou pedra perto da lanterna para atrai-la. Som e movimento respondem dentro do armazem; dedos escuros articulados aparecem numa abertura sob o beiral. Criatura ainda parcialmente oculta, identidade nao confirmada. Neris mantem porta fechada ate reconhecer voz de Eron. Nenhum dano ou recurso gasto.'
+
+checkpoint_20261017_US:
+  transcript: 'sessions/transcripts/SESSION_0000_CONTINUACAO_20261017_US.md'
+  location: 'Lateral oposta da Casa da Balança, Lorn, Caldria, aproximadamente 18h35'
+  situation: 'Flecha atingiu a criatura no vão entre as placas/engrenagens. Ataque natural 17 +4 =21; dano total 12 (5 arco +2 Destreza +5 Ataque Furtivo). Criatura ferida, permanece no beiral, posição aproximada de Eron pode ter sido revelada.'
+  hp: '11/11'
