@@ -315,3 +315,29 @@ Odrik, preso ao chão pela própria ferida, lança um olhar irritado para a port
 - Linha de Missão Ativa: Aguardar o retorno de Iven com ajuda para tratar o ferimento de Odrik; depois, organizar o transporte da carcaça intacta até Lethan Voss; Odrik investigará quem enviou as caixas e por quê.
 - Eventos Cruciais Ocorridos: Eron corrigiu a continuidade: a flecha segue fincada no pé de Odrik e no chão, e ninguém a removeu. A criatura permanece sem nome ou origem identificados.
 - Condições do Jogador: 11/11 PV, CA 13, 13 flechas restantes.
+
+
+## Jogador — literal
+
+Percepção 18 quero ver se alguém nos segue.
+- vamos.
+- Maela pessoa que não os deixe 
+E seguimos até entregar essa criatura ou mecanismo.
+
+## Mestre — literal
+
+Você assume a dianteira da carroça, mantendo os olhos nas esquinas, nas janelas e nos reflexos das vitrines. **Percepção 18**: enquanto atravessam as ruas de Lorn, você observa não apenas quem está atrás, mas também quem parece mudar de caminho para acompanhar o grupo.
+
+O movimento da cidade segue ao redor de vocês: comerciantes fechando as bancas, carroças disputando espaço e pedestres desviando da carga coberta. Você não identifica ninguém que possa afirmar com segurança estar seguindo vocês. Ainda assim, algumas pessoas olham para a lona por curiosidade; transportar uma carga daquele tamanho pelas ruas não passa despercebido.
+
+— Maela, cuide para que ninguém os deixe desamparados — você diz antes de partir, deixando claro que Odrik deve continuar sob os cuidados dela.
+
+Neris caminha perto da carroça, com a lanterna à mão. De vez em quando, olha para a lona, mas não toca nela. O trajeto até a Rua das Fundições segue sem incidentes aparentes. O cheiro de carvão e metal aquecido fica mais forte à medida que vocês se aproximam das oficinas.
+
+[LOG DE MEMÓRIA DA CAMPANHA]
+
+- Localização Atual: A caminho da Rua das Fundições, Lorn, Caldria, com a carcaça coberta na carroça.
+- NPCs Presentes e Relação: Neris acompanha Eron; funcionários ajudam no transporte. Maela ficou encarregada de cuidar de Odrik, e Belric ficou responsável pelo pagamento acordado.
+- Linha de Missão Ativa: Entregar a carcaça a Lethan Voss para avaliação e investigar sua natureza; descobrir quem enviou as caixas e por quê.
+- Eventos Cruciais Ocorridos: Eron declarou 18 em Percepção para verificar se estavam sendo seguidos. Não identificou ninguém que pudesse confirmar estar seguindo o grupo; curiosos observaram a carga. O grupo seguiu em direção à oficina de Lethan.
+- Condições do Jogador: 11/11 PV, CA 13, 13 flechas restantes.
