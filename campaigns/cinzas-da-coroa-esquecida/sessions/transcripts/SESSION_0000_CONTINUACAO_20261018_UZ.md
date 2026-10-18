@@ -70,3 +70,36 @@ Neris se move para atender ao chamado. Do outro lado, Odrik percebe o barulho e 
 - Linha de Missão Ativa: Lidar com a criatura caída e investigar a ameaça na Casa da Balança.
 - Eventos Cruciais Ocorridos: Eron retirou as flechas do corpo para dificultar a identificação do método usado para matá-la; as flechas ficaram deformadas e sem condição aparente de reutilização. Começou a arrastar a criatura para a sala dos demais. A morte permanece não confirmada.
 - Condições do Jogador: 11/11 PV, CA 13, 13 flechas restantes.
+
+
+## Jogador — literal
+
+Eu cravo a espada na na coisa para garantir que está morta e termino de arrastar para a sala
+
+- Odrik, vou manter o desconto das 50 PO, mas ainda me deve 100 moedas, está porra aqui ia mata vocês tudo. Se eu não tive se vindo aqui e metido uma flecha no seu pé, agora você estaria morto.
+
+## Mestre — literal
+
+A porta da sala começa a se abrir quando você alcança a criatura. Antes de terminar de arrastá-la, Eron firma a carcaça no chão e crava a espada em seu torso, entre as placas escuras.
+
+Por um instante, nada acontece. Então, um estalo seco percorre o interior do corpo. Uma última faísca azulada escapa da cavidade apagada, acompanhada por um cheiro acre, semelhante a metal queimado. Os membros se contraem uma única vez e relaxam. Dessa vez, mesmo observando de perto, você não percebe qualquer sinal de atividade. A criatura parece definitivamente destruída.
+
+Você termina de arrastá-la para dentro da sala. O peso raspa no piso, e os presentes abrem espaço para o corpo. Neris mantém a porta aberta; Odrik olha primeiro para a criatura e depois para você.
+
+— Odrik, vou manter o desconto das 50 PO, mas ainda me deve 100 moedas. Essa porra aqui ia matar vocês tudo. Se eu não tivesse vindo aqui e metido uma flecha no seu pé, agora você estaria morto.
+
+Odrik aperta a mandíbula. O olhar desce por um instante até o próprio pé, lembrando-se do disparo anterior. Ele parece prestes a responder com raiva, mas a carcaça aos seus pés interrompe o impulso.
+
+— Você tem um talento especial para transformar uma dívida numa ameaça, River — diz ele, em voz baixa. — Mas não vou fingir que não vi o que acabou de acontecer. Se aquela coisa veio atrás de nós, quero saber **quem a mandou e por quê**.
+
+Ele aponta para o corpo, sem se aproximar.
+
+— E espero que não tenha trazido mais alguma coisa junto com ela.
+
+[LOG DE MEMÓRIA DA CAMPANHA]
+
+- Localização Atual: Sala da Casa da Balança, aproximadamente 18h35.
+- NPCs Presentes e Relação: Neris mantém a porta aberta; Odrik Valen reconhece que Eron os salvou, mas mantém postura defensiva e questiona a origem da criatura; Belric e os demais estão presentes. Iven segue ausente, buscando Maela.
+- Linha de Missão Ativa: Investigar a criatura e a ameaça à Casa da Balança; resolver a dívida de Odrik com Eron.
+- Eventos Cruciais Ocorridos: Eron cravou a espada no torso da criatura; uma última faísca azulada escapou e os membros relaxaram, sem sinais posteriores de atividade. Eron arrastou o corpo para a sala e reafirmou que Odrik ainda lhe deve 100 PO após o desconto de 50 PO. Odrik questionou quem enviou a criatura e por quê.
+- Condições do Jogador: 11/11 PV, CA 13, 13 flechas restantes.
