@@ -534,3 +534,29 @@ Neris percebe que sua atenção se desviou do prato e acompanha seu olhar pelo s
 - Linha de Missão Ativa: Investigar quem procura Eron e por quê; avaliar rumores sobre carga coberta ligada à Casa da Balança; aguardar notícias de Lethan sobre a carcaça; confirmar as 75 PO prometidas por Odrik.
 - Eventos Cruciais Ocorridos: Marden confirmou o jantar pago e anotou 8 PC pelas cervejas, ainda sem pagamento confirmado. Percepção 18 natural +6 =24, resultado informado pelo jogador. Eron ouviu rumores sobre uma carga coberta que saiu da Casa da Balança e sobre dois desconhecidos perguntando pelo caminho tomado por alguém que estivera no armazém. Não há confirmação de ligação entre os relatos nem identificação da carga ou dos homens.
 - Condições do Jogador: 11/11 PV, CA 13, 13 flechas restantes; 8 PC pelas cervejas anotados e pendentes.
+
+## Jogador — literal
+
+- Vamos comer e beber e conversamos no quarto depois, se quiseres dividir um quarto comigo claro, mas acho que é melhor conversar, no momento vamos presta atenção nos boatos enquanto comemos.
+
+## Mestre — literal
+
+Neris interrompe a refeição por um instante, olhando para você por cima da caneca. A expressão dela suaviza com o convite, embora mantenha a cautela habitual.
+
+— Quero conversar, sim. E dividir o quarto pode ser sensato, considerando tudo o que aconteceu hoje. — Ela esboça um sorriso discreto. — Mas, por enquanto, vamos comer. Não quero que você acabe frio e faminto porque passou a noite inteira investigando alguma coisa.
+
+Vocês voltam ao jantar. Você mantém a atenção no salão sem encarar ninguém por tempo demais, deixando que as conversas cheguem até você naturalmente. O ambiente segue movimentado: canecas batem nas mesas, alguém ri alto perto da lareira e dois comerciantes discutem o preço dos cereais.
+
+Perto do balcão, uma voz rouca reclama que os transportadores estão evitando certas ruas depois do anoitecer. Outro homem responde que não é por causa de ladrões comuns: há quem prefira dar uma volta maior a passar perto de depósitos onde ninguém explica o que está sendo descarregado. Nenhum dos dois cita nomes ou lugares com clareza suficiente para ligar a conversa à Casa da Balança.
+
+Um pouco depois, um rapaz com as botas enlameadas comenta que viu gente fazendo perguntas a trabalhadores do mercado, mas se cala quando o companheiro lhe pede detalhes. Pode ser apenas receio de se meter em assuntos alheios; você não consegue distinguir a razão.
+
+Neris come em silêncio por alguns minutos, ocasionalmente observando quem entra e sai. Até agora, ninguém se aproxima da mesa de vocês nem demonstra interesse evidente em Eron. Os rumores continuam vagos, mas a repetição de perguntas sobre pessoas, cargas e depósitos sugere que há inquietação circulando pela cidade — sem revelar ainda quem está por trás dela.
+
+[LOG DE MEMÓRIA DA CAMPANHA]
+
+- Localização Atual: Javali de Ferro, salão da estalagem em Lorn, Caldria.
+- NPCs Presentes e Relação: Eron janta com Neris; ela aceitou conversar no quarto e considera sensato dividi-lo. Marden continua trabalhando no salão.
+- Linha de Missão Ativa: Investigar quem procura Eron e por quê; avaliar rumores sobre pessoas, cargas e depósitos; aguardar notícias de Lethan sobre a carcaça; confirmar as 75 PO prometidas por Odrik.
+- Eventos Cruciais Ocorridos: Durante o jantar, Eron continuou ouvindo rumores vagos sobre transportadores evitando ruas após o anoitecer, depósitos onde cargas são descarregadas sem explicações e pessoas fazendo perguntas a trabalhadores do mercado. Nenhuma conversa identificou pessoas ou locais com clareza suficiente para confirmar ligação com a Casa da Balança. Ninguém demonstrou interesse evidente em Eron.
+- Condições do Jogador: 11/11 PV, CA 13, 13 flechas restantes; 8 PC pelas duas cervejas anotados e ainda pendentes.
