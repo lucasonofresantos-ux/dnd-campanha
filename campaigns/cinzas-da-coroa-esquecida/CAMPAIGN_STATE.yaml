@@ -762,3 +762,9 @@ checkpoint_20261017_US:
   location: 'Lateral oposta da Casa da Balança, Lorn, Caldria, aproximadamente 18h35'
   situation: 'Flecha atingiu a criatura no vão entre as placas/engrenagens. Ataque natural 17 +4 =21; dano total 12 (5 arco +2 Destreza +5 Ataque Furtivo). Criatura ferida, permanece no beiral, posição aproximada de Eron pode ter sido revelada.'
   hp: '11/11'
+
+checkpoint_20261017_UT:
+  transcript: 'sessions/transcripts/SESSION_0000_CONTINUACAO_20261017_UT.md'
+  location: 'Lateral oposta da Casa da Balança, Lorn, Caldria, aproximadamente 18h35'
+  situation: 'Criatura abriu o torso e a cavidade luminosa começou a carregar o raio. Ação preparada de Eron foi acionada; ataque com arco 1d20+4 aguardando rolagem do jogador. Raio ainda não liberado.'
+  hp: '11/11'
