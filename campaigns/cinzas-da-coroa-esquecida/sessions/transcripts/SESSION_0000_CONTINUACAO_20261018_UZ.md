@@ -341,3 +341,38 @@ Neris caminha perto da carroça, com a lanterna à mão. De vez em quando, olha 
 - Linha de Missão Ativa: Entregar a carcaça a Lethan Voss para avaliação e investigar sua natureza; descobrir quem enviou as caixas e por quê.
 - Eventos Cruciais Ocorridos: Eron declarou 18 em Percepção para verificar se estavam sendo seguidos. Não identificou ninguém que pudesse confirmar estar seguindo o grupo; curiosos observaram a carga. O grupo seguiu em direção à oficina de Lethan.
 - Condições do Jogador: 11/11 PV, CA 13, 13 flechas restantes.
+
+
+## Jogador — literal
+
+- Neris, faça as honras, não vou deixar isso sozinho, acho que é um mecanismo e não uma criatura, mas não quero arriscar que se levante, então vou vigiar até o senhor Lethan me dizer que não tem mais perigo
+
+## Mestre — literal
+
+Neris dá um pequeno aceno e bate à porta da oficina com os nós dos dedos. Depois de alguns instantes, uma voz áspera responde lá de dentro:
+
+— Se é para afiar alguma coisa, deixem na bancada. Se é para reclamar do preço, voltem amanhã!
+
+A porta se abre apenas uma fresta. Um homem magro, de cabelos grisalhos presos atrás da cabeça e óculos de lentes grossas, observa Neris. Seu olhar desce até a carroça coberta e depois se volta para você.
+
+— Isso não parece uma fechadura nem um relógio — diz ele. — O que trouxeram para a minha porta?
+
+Neris explica que vocês precisam que ele examine a carcaça, sem afirmar que seja uma criatura viva nem um mecanismo. Lethan pega uma lanterna de oficina e se aproxima com cautela, mas para antes de tocar na lona.
+
+— Fez bem em não deixar isso sozinho. E fez bem em não decidir o que é antes de examinarmos. Descubram a carga só o suficiente para eu ver a superfície. Não mexam na cavidade azul, mesmo que agora esteja apagada.
+
+Você permanece junto à carroça, atento a qualquer movimento. Lethan observa as placas escuras à luz da lanterna, depois examina as fibras entre elas e os pontos chamuscados ao redor da cavidade. Não toca diretamente no corpo.
+
+— Hm. Há peças aqui que parecem ter sido montadas… mas estas fibras não se comportam como metal, couro ou qualquer material de oficina que eu reconheça. — Ele se agacha para observar melhor, mantendo as mãos afastadas. — Não vou dizer que é um mecanismo. E também não posso garantir que esteja inerte só porque não se mexe.
+
+Lethan ergue os olhos para você.
+
+— Posso fazer uma inspeção mais cuidadosa, com ferramentas isoladas e sem abrir essa cavidade. Mas, para declarar que não há mais perigo, vou precisar de tempo. Se você quer vigiar, fique aí e não deixe ninguém tocar nela.
+
+[LOG DE MEMÓRIA DA CAMPANHA]
+
+- Localização Atual: Em frente à oficina de Lethan Voss, Rua das Fundições, Lorn, Caldria; carcaça coberta na carroça, parcialmente descoberta para inspeção visual.
+- NPCs Presentes e Relação: Neris acompanha Eron e chamou Lethan. Lethan Voss começou a examinar a carcaça sem tocá-la diretamente. Maela ficou cuidando de Odrik; Belric ficou responsável pelos 75 PO.
+- Linha de Missão Ativa: Permitir que Lethan inspecione a carcaça com cautela, mantendo vigilância; investigar sua natureza e a origem das caixas.
+- Eventos Cruciais Ocorridos: Eron afirmou que não deixará a carga sozinha e suspeita que seja um mecanismo, mas não quer arriscar que volte a se mover. Lethan observou características semelhantes a peças montadas e fibras desconhecidas; não confirmou que seja um mecanismo nem garantiu que não ofereça perigo.
+- Condições do Jogador: 11/11 PV, CA 13, 13 flechas restantes.
