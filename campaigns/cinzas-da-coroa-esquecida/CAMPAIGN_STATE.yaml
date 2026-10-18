@@ -776,3 +776,7 @@ checkpoint_20261017_UV:
   hp: '11/11'
   arrows: 14
   readied_action: 'consumida'
+
+checkpoint_20261017_UW:
+  transcript: 'sessions/transcripts/SESSION_0000_CONTINUACAO_20261017_UW.md'
+  situation: 'Após o crítico e a descarga irregular, a flecha permanece cravada no centro da cavidade. O torso está entreaberto, luz falhando em pulsos; não é possível confirmar se a abertura ficou travada ou se fechará. Criatura ainda se debate no beiral.'
