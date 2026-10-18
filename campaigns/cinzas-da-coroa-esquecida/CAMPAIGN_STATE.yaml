@@ -723,3 +723,9 @@ checkpoint_20261017_UG:
   transcript: 'sessions/transcripts/SESSION_0000_CONTINUACAO_20261017_UG.md'
   location: 'Interior do escritorio superior da Casa da Balanca, Lorn, 18h27'
   situation: 'Eron entrou furtivamente pela porta entreaberta, parou antes de chegar ao armario maior. Ouviu tic, metal cessou e parede vibrou; abertura estreita acima, origem desconhecida. Ainda nao moveu armario nem acionou lingueta. Novo teste de Furtividade 1d20+6 solicitado e pendente de jogador.'
+
+checkpoint_20261017_UH:
+  transcript: 'sessions/transcripts/SESSION_0000_CONTINUACAO_20261017_UH.md'
+  location: 'Escritorio superior junto ao armario maior, Lorn, 18h27'
+  roll: 'Furtividade 19+6=25, informada pelo jogador'
+  situation: 'Eron aproximou-se sem ser percebido. Engrenagem de bronze visivel pelo vao atras do armario e em movimento; tabua do forro ergueu alguns milimetros, sombra desconhecida passou na abertura sem acompanhar engrenagens. Lingueta de bronze ao alcance, ainda nao acionada. Sem recursos alterados.'
