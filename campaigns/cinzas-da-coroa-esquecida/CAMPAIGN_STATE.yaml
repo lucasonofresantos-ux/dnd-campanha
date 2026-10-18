@@ -705,3 +705,9 @@ checkpoint_20261017_UC:
   transcript: 'sessions/transcripts/SESSION_0000_CONTINUACAO_20261017_UC.md'
   location: 'Sala principal Casa da Balanca, Lorn, 18h23'
   situation: 'Eron perguntou sobre engrenagens. Odrik Valen relatou dois caixotes reforcados com cintas de ferro recebidos ha semanas, manifestados como pecas de precisao, levados ao escritorio superior mediante autorizacao de transporte. Afirma que deixaram de constar inventario comum, mas nao verificou conteudo. Perguntou se Eron encontrou peca ligada ao local. Afirmacoes nao verificadas; Neris cuida do ferimento, Iven perto da porta.'
+
+checkpoint_20261017_UE:
+  transcript: 'sessions/transcripts/SESSION_0000_CONTINUACAO_20261017_UE.md'
+  location: 'Corredor superior proximo escritorio Casa da Balanca, Lorn, aprox 18h26'
+  rolls: 'Furtividade 20+6=26 e Percepcao 20+6=26, informados por jogador'
+  situation: 'Eron subiu oculto para investigar ruído. Arranhoes recentes no alto do batente, tabua deslocada entre vigas acima do corredor, atrito parecido metal em madeira e estalo no alto com queda de poeira. Nenhuma criatura vista e nenhum observador detectado, origem nao confirmada. Porta do escritorio fechada; chave segue sobre mesa no terreo, nao recolhida. Belric escondido no deposito; Neris cuida de feridos embaixo.'
