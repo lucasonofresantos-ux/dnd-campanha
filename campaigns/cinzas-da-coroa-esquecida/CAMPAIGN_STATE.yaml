@@ -785,3 +785,9 @@ checkpoint_20261017_UW:
 checkpoint_20261017_UX:
   transcript: 'sessions/transcripts/SESSION_0000_CONTINUACAO_20261017_UX.md'
   situation: 'Retomada após confirmação da transcrição UW. Eron está na lateral oposta da Casa da Balança, Lorn, aproximadamente 18h35. A criatura continua debatendo-se no beiral; flecha cravada no centro da cavidade do torso, abertura entreaberta e luz irregular. Não confirmado se ficará aberta, se fechará ou se a criatura foi destruída. Eron 11/11 PV, CA 13 conforme estado recente, 14 flechas; ação preparada consumida. Aguardando próxima ação do jogador.'
+
+
+checkpoint_20261017_UY:
+  transcript: 'sessions/transcripts/SESSION_0000_CONTINUACAO_20261017_UY.md'
+  location: 'Interior da Casa da Balanca, lado oposto do armazem em relacao aos demais, aproximadamente 18h35'
+  situation: 'Correcao explicita do jogador: Eron nao saiu do armazem; atravessou para o outro lado por dentro para manter os demais seguros. Eron declarou preparar outra flecha e disparar contra a criatura. Ataque 1d20+4 pendente de rolagem do jogador; resultado, dano e consumo de flecha ainda nao atualizados. Estado anterior registrado: 11/11 PV, CA 13, 14 flechas antes deste disparo.'
