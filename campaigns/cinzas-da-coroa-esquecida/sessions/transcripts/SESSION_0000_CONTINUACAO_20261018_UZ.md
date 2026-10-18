@@ -560,3 +560,22 @@ Neris come em silêncio por alguns minutos, ocasionalmente observando quem entra
 - Linha de Missão Ativa: Investigar quem procura Eron e por quê; avaliar rumores sobre pessoas, cargas e depósitos; aguardar notícias de Lethan sobre a carcaça; confirmar as 75 PO prometidas por Odrik.
 - Eventos Cruciais Ocorridos: Durante o jantar, Eron continuou ouvindo rumores vagos sobre transportadores evitando ruas após o anoitecer, depósitos onde cargas são descarregadas sem explicações e pessoas fazendo perguntas a trabalhadores do mercado. Nenhuma conversa identificou pessoas ou locais com clareza suficiente para confirmar ligação com a Casa da Balança. Ninguém demonstrou interesse evidente em Eron.
 - Condições do Jogador: 11/11 PV, CA 13, 13 flechas restantes; 8 PC pelas duas cervejas anotados e ainda pendentes.
+
+
+## Jogador — literal
+
+Terminamos de comer e beber e vamos para o quarto que já está pago
+
+## Mestre — literal
+
+A refeição termina sem que surja outro rumor claro o bastante para identificar os desconhecidos. Neris deixa a caneca vazia sobre a mesa e acompanha você escada acima, até o quarto que já está pago. O barulho do salão diminui assim que a porta se fecha; ficam apenas os sons abafados da estalagem e a luz morna de uma vela sobre a pequena mesa.
+
+Neris tira o manto dos ombros, mas permanece de pé por um momento, observando você com expressão séria. — Certo. Aqui podemos conversar sem precisar disputar cada palavra com o barulho da taverna. O que quer me contar primeiro, Eron? — Ela espera sua resposta, sem presumir qual assunto você pretende abordar.
+
+[LOG DE MEMÓRIA DA CAMPANHA]
+
+- Localização Atual: Quarto já pago no Javali de Ferro, Lorn, Caldria, à noite.
+- NPCs Presentes e Relação: Eron e Neris estão no quarto; Neris aceitou dividir o quarto por prudência e conversar em particular. Marden permanece trabalhando no salão.
+- Linha de Missão Ativa: Investigar quem procura Eron e por quê; avaliar rumores sobre pessoas, cargas e depósitos; aguardar notícias de Lethan sobre a carcaça; confirmar as 75 PO prometidas por Odrik.
+- Eventos Cruciais Ocorridos: Eron e Neris terminaram o jantar e as cervejas e foram para o quarto já pago, para conversar em particular. Os rumores ouvidos no salão continuam vagos, sem identificação confirmada dos desconhecidos.
+- Condições do Jogador: 11/11 PV, CA 13, 13 flechas restantes; 8 PC pelas duas cervejas continuam anotados na conta, sem pagamento confirmado.
