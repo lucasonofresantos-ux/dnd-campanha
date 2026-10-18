@@ -441,3 +441,30 @@ Neris observa a carcaça e depois olha para você, aguardando sua decisão. Leth
 - Linha de Missão Ativa: Deixar a carcaça sob os cuidados de Lethan, definir medidas de segurança e investigar como ela foi construída ou se montou sozinha.
 - Eventos Cruciais Ocorridos: Eron entregou a carcaça aos cuidados de Lethan, alertou que ela talvez tenha se montado sozinha e perguntou se poderia decapitá-la por garantia. Lethan desaconselhou cortar qualquer parte antes de entender a estrutura e a possível energia residual.
 - Condições do Jogador: 11/11 PV, CA 13, 13 flechas restantes.
+
+
+## Jogador — literal
+
+Vou até o Marden, o taberneiro, e peço uma janta, e já a pago, e pergunto a ele se tem algum recado para mim
+
+## Mestre — literal
+
+Marden está atrás do balcão, terminando de servir uma caneca a um cliente quando você se aproxima. O taberneiro reconhece Eron e ergue as sobrancelhas ao ouvir o pedido de jantar. Neris procura uma mesa próxima, de onde consegue acompanhar o movimento do salão sem ficar no meio da passagem.
+
+— Uma janta para você e sua companheira, então — diz Marden, confirmando o pedido. Ele informa o preço antes de preparar a conta; você paga, e ele guarda as moedas, sem deixar a cobrança para depois.
+
+Quando você pergunta se há algum recado para Eron River, o taberneiro interrompe por um instante o que está fazendo. Olha para você, depois para o salão movimentado.
+
+— Recado entregue diretamente, não tenho nenhum. Mas você perguntou por rumores outro dia, não foi? Ouvi seu nome circular por aqui hoje. Não vou dizer que sei quem começou, porque não sei. E não quero atribuir palavras a alguém sem ter certeza.
+
+Ele se inclina um pouco sobre o balcão, baixando a voz para que os clientes próximos não ouçam com facilidade.
+
+— Posso contar o que ouvi, mas não é muita coisa. Quer ouvir agora ou prefere que eu leve a comida primeiro?
+
+[LOG DE MEMÓRIA DA CAMPANHA]
+
+- Localização Atual: Javali de Ferro, salão da estalagem em Lorn, Caldria.
+- NPCs Presentes e Relação: Eron falou com Marden, o taberneiro; Neris está procurando uma mesa próxima. Lethan Voss ficou na oficina com a carcaça.
+- Linha de Missão Ativa: Ouvir os rumores sobre Eron; aguardar notícias de Lethan; confirmar o envio das 75 PO prometidas por Odrik.
+- Eventos Cruciais Ocorridos: Eron pediu e pagou o jantar e perguntou a Marden se havia algum recado. Marden disse ter ouvido o nome de Eron circular naquele dia, mas não sabe quem começou o rumor e ofereceu contar o que ouviu.
+- Condições do Jogador: 11/11 PV, CA 13, 13 flechas restantes.
