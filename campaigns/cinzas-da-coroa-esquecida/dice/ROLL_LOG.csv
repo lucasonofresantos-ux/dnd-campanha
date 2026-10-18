@@ -148,3 +148,5 @@ cinzas-da-coroa-esquecida,0000,170,Ataque Furtivo,python_secrets,1d6,5,5,0,5,tru
 cinzas-da-coroa-esquecida,0000,171,ataque preparado com arco contra criatura,jogador_dado_informado,1d20,20 natural,20,4,24,true,"UV; crítico"
 cinzas-da-coroa-esquecida,0000,172,dano crítico do arco,python_secrets,2d6,5;4,9,2,11,true,"UV"
 cinzas-da-coroa-esquecida,0000,173,Ataque Furtivo crítico,python_secrets,2d6,5;6,11,0,11,true,"UV"
+
+cinzas-da-coroa-esquecida,0000,174,ataque_de_arco_contra_criatura,jogador_dado_informado,1d20,17,17,4,21,true,"UZ; 17 natural informado pelo jogador; acerto; dano 1d6 pendente"
