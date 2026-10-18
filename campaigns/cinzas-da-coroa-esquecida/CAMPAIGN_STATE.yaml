@@ -798,10 +798,10 @@ checkpoint_20261017_UY:
 
 checkpoint_20261018_UZ:
   transcript: 'sessions/transcripts/SESSION_0000_CONTINUACAO_20261018_UZ.md'
-  location: 'Interior da Casa da Balanca, lado oposto do armazem em relacao aos demais, aproximadamente 18h35'
-  attack: {expression: '1d20+4', natural: 17, bonus: 4, total: 21, result: 'acerto', source: 'dado informado pelo jogador'}
-  damage_pending: 'arco 1d6 + 2 de Destreza; sem Ataque Furtivo confirmado neste disparo'
-  arrows: 13
+  location: 'Javali de Ferro, salao da estalagem em Lorn, Caldria, durante o jantar'
+  last_roll: {expression: '1d20+6', natural: 18, bonus: 6, total: 24, result: 'percepcao bem-sucedida; dado informado pelo jogador'}
   hp: '11/11'
   ac: 13
-  situation: 'A flecha acertou o torso entre placas escuras. A criatura permanece agarrada ao beiral; nao foi confirmado que a flecha atingiu o nucleo ou que a criatura foi destruida. Aguardar dano para resolver consequencias.'
+  arrows: 13
+  pending_tab: '8 PC pelas duas cervejas; pagamento ainda nao confirmado'
+  situation: 'Eron janta com Neris no Javali de Ferro; jantar ja pago, duas cervejas servidas e 8 PC anotados na conta. Marden relatou que dois homens perguntaram por Eron. Com Percepcao 18 natural +6 =24, Eron ouviu carroceiros comentarem uma carga coberta que teria saido da Casa da Balanca com ruido de metal sob a lona, e um trabalhador relatar dois desconhecidos perguntando pelo caminho tomado por alguem que estivera no armazem. Nenhum relato identifica com certeza a carga ou os homens, nem confirma conexao entre esses assuntos. Lethan permanece responsavel pela carcaca; pagamento de 75 PO prometido por Odrik nao confirmado.'
