@@ -635,3 +635,32 @@ Ela pega o manto e o dobra sobre a cadeira, então olha para você com uma expre
 - Linha de Missão Ativa: Investigar quem procura Eron e por quê; avaliar rumores sobre pessoas, cargas e depósitos; aguardar notícias de Lethan sobre a carcaça; confirmar as 75 PO prometidas por Odrik.
 - Eventos Cruciais Ocorridos: Eron explicou que os ferimentos infligidos durante o confronto tinham o objetivo de reduzir a desvantagem numérica e proteger Iven sem matar os adversários. Neris reconheceu o contexto, mantendo suas reservas sobre os riscos. Eron perguntou se repetiriam o episódio da guarita; Neris sugeriu banho primeiro e deixou qualquer intimidade posterior condicionada à vontade e disposição de ambos.
 - Condições do Jogador: 11/11 PV, CA 13, 13 flechas restantes; 8 PC pelas duas cervejas continuam anotados na conta, sem pagamento confirmado.
+
+
+## Jogador — literal
+
+- Ainda tenho forças para mais uma batalha kkkkkk. Só vamos trancar a porta.
+Eu tomo banho mas não me visto, e digo para ela.
+- sua vez agora.
+
+## Mestre — literal
+
+A tranca desliza com um clique firme. O ruído da estalagem fica abafado atrás da porta, e por alguns minutos você consegue deixar o peso do dia escorrer junto com a água. Quando volta, ainda sem se vestir, encontra Neris ajeitando as próprias roupas e toalha para o banho.
+
+Ela ergue os olhos para você; a surpresa inicial logo dá lugar a um sorriso divertido.
+
+— Uma batalha, hein? Você fala como se já soubesse como isso vai terminar.
+
+Neris pega suas coisas e caminha até o pequeno espaço de banho. Antes de fechar a porta, olha por cima do ombro, com um brilho travesso no olhar.
+
+— Fica aí, Eron. Eu disse banho primeiro.
+
+A porta se fecha entre vocês. Você ouve a água começar a correr, enquanto a vela continua tremulando sobre a mesa e a noite segue do lado de fora. Neris não recusou a ideia de vocês ficarem juntos, mas também não transformou a provocação numa promessa: a decisão ainda será dos dois, quando ela voltar.
+
+[LOG DE MEMÓRIA DA CAMPANHA]
+
+- Localização Atual: Quarto já pago no Javali de Ferro, Lorn, Caldria, à noite.
+- NPCs Presentes e Relação: Eron está no quarto; Neris está no espaço de banho do quarto. A relação ganhou um tom de provocação e intimidade, mas nenhum novo encontro íntimo ocorreu.
+- Linha de Missão Ativa: Investigar quem procura Eron e por quê; avaliar rumores sobre rotas e depósitos; aguardar notícias de Lethan sobre a carcaça; confirmar as 75 PO prometidas por Odrik.
+- Eventos Cruciais Ocorridos: Eron trancou a porta, tomou banho e, sem se vestir, avisou Neris de que era a vez dela. Neris respondeu com humor e foi tomar banho, sem dar por garantido o que acontecerá depois.
+- Condições do Jogador: 11/11 PV, CA 13, 13 flechas restantes; 8 PC das duas cervejas continuam anotados na conta, sem pagamento confirmado.
