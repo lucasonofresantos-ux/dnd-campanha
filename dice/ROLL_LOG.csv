@@ -43,3 +43,6 @@ date,campaign_id,stage,attempt,expression,six_rolls_faces_in_order,six_attribute
 2026-11-23,ERON-RIVER-ASTERION-001,skill_check_stealth,1,1d20+9,18,"18+9",27,true
 2026-11-23,ERON-RIVER-ASTERION-001,skill_check_perception,1,1d20+7,12,"12+7",19,true
 2026-11-23,ERON-RIVER-ASTERION-001,skill_check_investigation,1,1d20+6,20,"20+6",26,true
+2026-11-23,ERON-RIVER-ASTERION-001,skill_check_perception,2,1d20+7,8,"8+7",15,true
+2026-11-23,ERON-RIVER-ASTERION-001,skill_check_stealth,2,1d20+9,13,"13+9",22,true
+2026-11-23,ERON-RIVER-ASTERION-001,skill_check_survival,2,1d20+5,12,"12+5",17,true
