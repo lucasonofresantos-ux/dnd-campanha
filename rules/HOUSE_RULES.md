@@ -1,6 +1,6 @@
 # Regras da Mesa
 
-Estado inicial: nenhuma house rule mecânica aprovada.
+Estado anterior à criação de Eron: nenhuma house rule mecânica aprovada. A exceção aprovada para Eron está registrada abaixo e não altera automaticamente outras campanhas.
 
 ## Princípios
 - Regra oficial/SRD prevalece quando aplicável.
