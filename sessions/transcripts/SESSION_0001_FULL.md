@@ -599,3 +599,66 @@ Outra possibilidade é **+1 em Força, +1 em Inteligência e +1 em Sabedoria**: 
 - Condições do Jogador: Eron River, humano, 25 anos, 1,80 m; 10 PV máximos; FOR 12, DES 20, CON 15, INT 17, SAB 15, CAR 14 antes do bônus do Guarda.
 
 **GitHub:** commits confirmados para regra própria, pré-ficha, índice e transcrição.
+
+## [019] JOGADOR — 2026-11-23
+
+aceito sim
+
+## [020] MESTRE — 2026-11-23
+
+<badge color="success"><icon name="check-circle" inline/> Atributos confirmados</badge>
+
+Perfeito! Eron River receberá **+2 em Inteligência e +1 em Sabedoria** pelo antecedente Guarda, além dos bônus que já recebeu de Artesão.
+
+## Atributos definitivos de Eron River
+
+| Atributo | Dados | Artesão | Guarda | Final | Mod. |
+|---|---:|---:|---:|---:|---:|
+| Força | 12 | — | — | **12** | +1 |
+| Destreza | 18 | +2 | — | **20** | +5 |
+| Constituição | 15 | — | — | **15** | +2 |
+| Inteligência | 16 | +1 | +2 | **19** | +4 |
+| Sabedoria | 15 | — | +1 | **16** | +3 |
+| Carisma | 14 | — | — | **14** | +2 |
+
+Os bônus dos dois antecedentes são uma regra especial que aprovamos para Eron. Nenhum valor ultrapassa o limite de 20.
+
+Essa distribuição é excelente para um Ladino investigador que pretende adquirir níveis de Artífice.
+
+## Próxima etapa — quatro perícias de Ladino
+
+Já temos quatro perícias concedidas pelos dois antecedentes completos:
+
+- **Artesão:** Investigação e Persuasão.
+- **Guarda:** Atletismo e Percepção.
+
+Como Ladino de nível 1, Eron deve escolher **quatro perícias adicionais** dentre estas seis ainda disponíveis:
+
+{@body const skillOptions = ["Acrobacia","Enganação","Intuição","Intimidação","Prestidigitação","Furtividade"]}
+{@body const [selectedSkills, setSelectedSkills] = DIL.useState(["Enganação","Intuição","Prestidigitação","Furtividade"])}
+<box border radius="lg" padding={3} gap={3}>
+  <text weight="medium">Escolha quatro perícias</text>
+  <text size="xs" color="secondary">Minha sugestão inicial está marcada. Você pode alterar as escolhas.</text>
+  <grid columns={2} gap={2}>
+    {#each skillOptions as skill}
+      <grid-item>
+        <checkbox key={skill} checked={selectedSkills.includes(skill)} disabled={!selectedSkills.includes(skill)&&selectedSkills.length>=4} onChange={(checked)=>setSelectedSkills(prev=>checked?[...prev,skill]:prev.filter(x=>x!==skill))} lineThrough={false}>{skill}</checkbox>
+      </grid-item>
+    {/each}
+  </grid>
+  <row align="center" justify="between">
+    <text color="secondary" size="xs">{selectedSkills.length} de 4 selecionadas</text>
+    <button disabled={selectedSkills.length!==4} onClick={()=>GenUI.issueNewTurn("Escolho estas quatro perícias da classe Ladino para Eron River: "+selectedSkills.join(", ")+".")}>Confirmar perícias</button>
+  </row>
+</box>
+
+Depois, escolheremos separadamente a **perícia adicional do Humano**, as duas Especializações e o restante da ficha.
+
+**[LOG DE MEMÓRIA DA CAMPANHA]**
+- Localização Atual: Indefinida; ficha em criação.
+- NPCs Presentes e Relação: Nenhum em cena.
+- Linha de Missão Ativa: Nenhuma; campanha não iniciada.
+- Eventos Cruciais Ocorridos: Aumentos dos dois antecedentes confirmados; atributos definitivos de Eron registrados.
+- Condições do Jogador: Humano, Ladino 1, 10 PV máximos; FOR 12, DES 20, CON 15, INT 19, SAB 16, CAR 14.
+
+**GitHub:** commits confirmados para atualização da ficha, índice e transcrição pré-campanha.
