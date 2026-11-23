@@ -80,3 +80,30 @@ Iria, a vigia, apoia a ponta da lança no chão antes de acrescentar:
 - Condições do Jogador: Ladino 1, **12/12 PV**, **CA 16**, **0/300 XP**, 36 PO e 8 PP. Sem condições; nenhuma rolagem necessária até agora.
 
 **GitHub:** transcrição e estado da campanha atualizados; commits confirmados.
+
+## [005] JOGADOR — 2026-11-23
+
+- dona Mara, posso seguir sim, mas não é das ideias mais sensatas seguir um lobo no escuro, se não se importar vou sair pouco antes do amanhecer
+
+## [006] MESTRE — 2026-11-23
+
+Mara observa a mata por um instante e parece aliviada por você não pretender se embrenhar entre as árvores às cegas.
+
+— Faz bem em ter cautela, senhor. Se puder nos ajudar, agradeço. Vou recolher as cabras que restaram para o galpão antes de escurecer. Só espero que a cerca aguente mais uma noite.
+
+Iria passa os olhos pelas pegadas no barro.
+
+— Pouco antes do amanhecer ainda estará escuro. Com as primeiras luzes, vai enxergar melhor o terreno, mas esta chuva pode apagar o que resta dos rastros. Se quiser examiná-los antes, estão aí. — Ela indica a cerca quebrada. — E, se precisar de um teto até amanhã, a estalagem de Alda fica depois do bebedouro.
+
+Mara assente, sem insistir. O vento frio faz ranger uma das tábuas soltas do curral. Ainda é fim da manhã; há várias horas até o anoitecer.
+
+**O que Eron faz enquanto espera?**
+
+**[LOG DE MEMÓRIA DA CAMPANHA]**
+- Localização Atual: Junto ao curral de Mara, Pouso das Três Fontes.
+- NPCs Presentes e Relação: Mara Telha (grata pela disposição de ajudar) e Iria Vento-Seco (cautelosa e prestativa).
+- Linha de Missão Ativa: Eron declarou intenção de seguir os rastros pouco antes do amanhecer. Recompensa proposta: 12 PO, ainda não recebida.
+- Eventos Cruciais Ocorridos: Mara pretende abrigar as cabras restantes; Iria alertou sobre a escuridão e a possibilidade de a chuva apagar os rastros. Nenhuma investigação começou.
+- Condições do Jogador: Ladino 1, **12/12 PV**, **CA 16**, **0/300 XP**, 36 PO e 8 PP. Sem condições; nenhuma rolagem ou descanso realizado.
+
+**GitHub:** estado, cronologia e transcrição da interação atualizados; commits confirmados.
