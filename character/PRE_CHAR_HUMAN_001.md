@@ -186,3 +186,11 @@ Aguardar escolha de distribuição e regras de origem. Não iniciar campanha aut
 - Os dois antecedentes completos mecânicos Artesão e Guarda continuam a conceder equipamentos de criação SEPARADOS, conforme regra própria aprovada. Não presumir opção A/B.
 - Próxima escolha única: pacote de equipamento do Artesão 2024. Opção A: Ferramentas de Ferreiro (correspondentes à proficiência escolhida), duas bolsas, roupas de viajante, 32 PO. Opção B: 50 PO. Valores depois do pacote, somados aos 8 PO de Ladino, serão 40 PO (A) ou 58 PO (B), antes do Guarda.
 - Fonte verificada 2026-11-23: D&D Beyond Basic Rules (2024), Rogue; Roll20 Compendium Artisan (2024).
+
+## Equipamento do antecedente Artesão — confirmado em 2026-11-23
+- Mensagem literal do jogador: "A"; resposta à pergunta imediatamente anterior de equipamentos do ANTECEDENTE ARTESÃO.
+- Pacote A Artesão (2024) **confirmado**: 1 conjunto físico de Ferramentas de Ferreiro (correspondente à proficiência escolhida), 2 bolsas, 1 conjunto de roupas de viajante, **32 PO**.
+- Total de moedas confirmadas até agora: 8 PO (pacote A Ladino) + 32 PO (pacote A Artesão) = **40 PO**, sem moedas do Guarda (pacote A/B ainda pendente).
+- Contagem de equipamento confirmado da classe: couro 1, espada curta de Gruner 1 (sem duplicação), adagas 2, arco curto 1, flechas 20, aljava 1, ferramentas de ladrão 1, pacote de assaltante 1; mais os novos itens do Artesão. Os conjuntos de ferramentas Coureiro/Entalhador/Pedreiro são proficiências sem conjuntos físicos entregues até agora.
+- Próxima escolha: pacote A ou B do ANTECEDENTE GUARDA. A: Lança, Besta leve, 20 Virotes, Baralho de Cartas físico (gaming set já escolhido), Lanterna coberta, Algemas, Aljava, Roupas de viajante, 12 PO, para total 52 PO. B: 50 PO, para total 90 PO; sem os itens do pacote A. Não presumir escolha.
+- Fonte verificada em 2026-11-23: Roll20 Compendium PHB 2024, Artisan e Guard.
