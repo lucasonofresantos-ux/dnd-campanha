@@ -662,3 +662,45 @@ Depois, escolheremos separadamente a **perícia adicional do Humano**, as duas E
 - Condições do Jogador: Humano, Ladino 1, 10 PV máximos; FOR 12, DES 20, CON 15, INT 19, SAB 16, CAR 14.
 
 **GitHub:** commits confirmados para atualização da ficha, índice e transcrição pré-campanha.
+
+## [021] JOGADOR — 2026-11-23
+
+Escolho estas quatro perícias da classe Ladino para Eron River: Enganação, Intuição, Prestidigitação, Furtividade.
+
+## [022] MESTRE — 2026-11-23
+
+<text color="success" weight="medium"><icon name="check-circle" inline/> Quatro perícias de Ladino confirmadas para Eron River!</text>
+
+Eron começa com **8 perícias proficientes**, somando as quatro da classe Ladino às quatro concedidas pelos antecedentes completos Guarda e Artesão.
+
+## Perícias atuais de Eron — Nível 1
+
+| Perícia | Origem | Bônus total |
+|---|---|---:|
+| Enganação | Ladino | **+4** |
+| Intuição | Ladino | **+5** |
+| Prestidigitação | Ladino | **+7** |
+| Furtividade | Ladino | **+7** |
+| Investigação | Artesão | **+6** |
+| Persuasão | Artesão | **+4** |
+| Atletismo | Guarda | **+3** |
+| Percepção | Guarda | **+5** |
+
+Os valores incluem os modificadores de atributos e o bônus de proficiência de +2. Ainda não incluem a **Especialização**, que escolheremos mais adiante.
+
+## Próxima escolha — perícia adicional do Humano
+
+Pela característica **Habilidoso** do Humano (2024), Eron recebe proficiência em **mais uma perícia à sua escolha**, sem repetir uma que já possui.
+
+Para seu futuro Ladino/Artífice, recomendo **Arcanismo (+6)**: aproveita sua Inteligência 19 e ajuda a compreender fenômenos mágicos. Outra escolha interessante seria **Sobrevivência (+5)**, para rastreamento, orientação e vida nas regiões selvagens. Você também pode escolher qualquer outra perícia disponível que ainda não possua.
+
+**Qual perícia você escolhe pela espécie Humano: Arcanismo, Sobrevivência ou outra?** Depois disso, vamos escolher as duas Especializações de Ladino.
+
+**[LOG DE MEMÓRIA DA CAMPANHA]**
+- Localização Atual: Não definida; criação do personagem.
+- NPCs Presentes e Relação: Nenhum em cena.
+- Linha de Missão Ativa: Nenhuma; aventura ainda não iniciada.
+- Eventos Cruciais Ocorridos: Confirmadas Enganação, Intuição, Prestidigitação e Furtividade como perícias de Ladino; total atual de oito perícias proficientes.
+- Condições do Jogador: Eron River, Humano, Ladino nível 1, 10 PV; FOR 12, DES 20, CON 15, INT 19, SAB 16, CAR 14. Falta perícia humana, Especializações, ferramentas, talento humano e equipamentos.
+
+**GitHub:** commit confirmado para ficha, índice e transcrição pré-campanha.
