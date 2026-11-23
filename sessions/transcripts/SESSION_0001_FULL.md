@@ -851,3 +851,44 @@ Como Eron aprendeu a trabalhar na forja de Gruner Barba de Cobre, minha recomend
 - Condições do Jogador: Eron River, humano, Ladino 1, **12 PV máximos**; FOR 12, DES 20, CON 15, INT 19, SAB 16, CAR 14; Especializações em Furtividade e Percepção. Ferramentas, maestrias e equipamentos ainda pendentes.
 
 **GitHub:** commits confirmados para ficha, índice, regras consolidadas e transcrição pré-campanha.
+
+## [029] JOGADOR — 2026-11-23
+
+Vou de ferramentas de ferreiro
+
+## [030] MESTRE — 2026-11-23
+
+**Confirmado! Eron River terá proficiência com Ferramentas de Ferreiro**, concedida pelo antecedente Artesão.
+
+Essa escolha combina com seu aprendizado na oficina de Gruner Barba de Cobre, onde aprendeu a trabalhar com metais, conservar armas e reparar equipamentos.
+
+É importante distinguir duas coisas: **proficiência** significa saber utilizar as ferramentas; possuir fisicamente um conjunto delas depende do equipamento inicial que escolheremos depois.
+
+Agora falta selecionar as **três proficiências adicionais** concedidas pelo talento de origem Crafter, sem repetir Ferramentas de Ferreiro.
+
+## Próxima escolha — as três ferramentas de Crafter
+
+Pelo *Player's Handbook 2024*, as três ferramentas devem ser escolhidas entre as opções da tabela de Fabricação Rápida. Como você já escolheu Ferramentas de Ferreiro, estas são as outras sete opções: <Cite ref="turn700893view0"/>
+
+| Ferramentas | Exemplos do que permitem fabricar rapidamente |
+|---|---|
+| **Funileiro** | Sino, pá, caixa de fogo |
+| **Coureiro** | Bolsa e estojos |
+| **Tecelão** | Corda, rede, tenda |
+| Carpinteiro | Escada, tocha |
+| Pedreiro | Roldana e talha |
+| Oleiro | Jarra, lampião |
+| Entalhador | Clava, bordão |
+
+**Minha recomendação para Eron é Funileiro, Coureiro e Tecelão.** Essa combinação complementa sua formação em ferraria e favorece invenções, infiltração e exploração. Você pode escolher qualquer trio da tabela.
+
+**Quais três ferramentas Eron vai escolher pelo talento Crafter?**
+
+**[LOG DE MEMÓRIA DA CAMPANHA]**
+- Localização Atual: Não definida — criação do personagem.
+- NPCs Presentes e Relação: Nenhum em cena.
+- Linha de Missão Ativa: Nenhuma; campanha ainda não iniciada.
+- Eventos Cruciais Ocorridos: Ferramentas de Ferreiro confirmadas pelo antecedente Artesão.
+- Condições do Jogador: Eron River, Humano, Ladino nível 1, 12 PV máximos; FOR 12, DES 20, CON 15, INT 19, SAB 16, CAR 14; Especializações em Furtividade e Percepção. Três ferramentas de Crafter, conjunto de jogo, maestrias e equipamentos ainda pendentes.
+
+**GitHub:** commits confirmados para ficha, índice e transcrição pré-campanha.
