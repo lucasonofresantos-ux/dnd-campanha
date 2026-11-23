@@ -17,7 +17,9 @@
 - Ao fim da manhã, Mara Telha e Iria Vento-Seco discutem diante de curral com cerca danificada; há marcas de patas e arrasto na lama em direção ao bosque. Mara informa perda de duas cabras em três noites e oferece 12 PO por uma solução verificável; Eron ainda não aceitou trabalho, tomou decisão, rolou dados ou recebeu XP.
 - Eron aproxima-se de Mara e diz: "boa tarde senhora, oque está acontecendo?". Mara relata a primeira cabra desaparecida do pasto superior, a segunda do cercado, sangue e marcas. Iria acredita serem pegadas de canídeo, danificadas pela chuva e seguindo ao bosque; não sabe quantos animais são. Iria pergunta sobre experiência de Eron em rastreamento. A oferta de 12 PO não foi aceita.
 - Eron declara a Mara que sabe seguir rastros, mas prefere sair pouco antes do amanhecer para não caçar um lobo no escuro. Mara demonstra alívio, pretende recolher as cabras antes de anoitecer. Iria alerta que pouco antes do amanhecer ainda estará escuro e a chuva pode apagar rastros; indica as marcas no curral e a estalagem de Alda. **Tempo ainda no fim da manhã**, sem avanço automático até o amanhecer. Intenção de investigação anunciada, sem começar o rastreamento.
-- **XP permanece 0/300; sem combate, testes ou recursos consumidos.**
+- Jogador autorizou rolagem de **Sobrevivência +5** para seguir um pouco as pegadas; Mestre executou o script Python `skills/dice-roller/dice_roller.py 1d20+5` (fonte GitHub copiada ao executor), usando `secrets.randbelow`: **d20 [20] +5 = 25**, sucesso em rastros úmidos após chuva.
+- Eron caminhou cerca de 100 metros em aproximadamente 5 minutos, até a borda do bosque. Identificou pegadas nítidas compatíveis com um canídeo de porte considerável e impressão irregular/mais rasa de uma pata dianteira, sugerindo claudicação. Rastro continua entre raízes e samambaias. Não avistou animal; não confirmou ausência de companheiros nem causa da claudicação.
+- **XP permanece 0/300; sem combate, recursos consumidos, recompensa ou descanso.**
 
 ## Índices
 - Estado: `CAMPAIGN_STATE.yaml`.
