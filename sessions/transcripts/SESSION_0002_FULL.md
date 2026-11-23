@@ -149,3 +149,56 @@ Passaram-se apenas alguns minutos desde a conversa com Mara; **ainda é fim da m
 - Condições do Jogador: Ladino 1, **12/12 PV**, **CA 16**, **0/300 XP**, 36 PO e 8 PP. Sem condições; não houve combate ou gasto de recursos.
 
 **GitHub:** rolagem, transcrição e estado atualizados com commits confirmados.
+
+## [009] JOGADOR — 2026-11-23
+
+Pode rolar furtividade e percepção, como o evento não mudou posso continuar utilizando os mesmos dados para seguir as pegadas
+
+## [010] MESTRE — 2026-11-23
+
+Sim. **O teste anterior de Sobrevivência (25) continua válido** enquanto Eron estiver seguindo o mesmo rastro, sem interrupções ou mudanças relevantes nas condições. Não precisa rolar Sobrevivência novamente a cada trecho.
+
+## Novas rolagens de Eron
+
+<box border radius="lg" padding={3} gap={3}>
+  <grid columns={2} gap={3}>
+    <grid-item>
+      <box gap={1}>
+        <text color="secondary" weight="medium" size="xs">Furtividade · 1d20+9</text>
+        <title size="2xl" color="success" tabularNums>27</title>
+        <text size="sm">D20 <text weight="medium" inline>18</text> + 9</text>
+      </box>
+    </grid-item>
+    <grid-item>
+      <box gap={1}>
+        <text color="secondary" weight="medium" size="xs">Percepção · 1d20+7</text>
+        <title size="2xl" tabularNums>19</title>
+        <text size="sm">D20 <text weight="medium" inline>12</text> + 7</text>
+      </box>
+    </grid-item>
+  </grid>
+  <divider color="subtle"/>
+  <row align="center" justify="between">
+    <text color="secondary" size="sm">Sobrevivência mantida</text>
+    **25**
+  </row>
+</box>
+
+Eron avança silenciosamente, atento tanto às marcas no chão quanto aos sons do bosque. Os três resultados passam a orientar este trecho da exploração; a Furtividade não garante invisibilidade caso ele se exponha a uma criatura.
+
+Sob as copas fechadas dos pinheiros, a luz se reduz a faixas pálidas entre os ramos. Eron acompanha pegadas quase apagadas, folhas revolvidas e pequenos sinais de passagem, evitando os galhos secos. Depois de aproximadamente meia hora, o terreno desce até um **riacho estreito**, cujo murmúrio encobre os ruídos mais distantes da mata.
+
+Junto à margem, a lama preservou uma impressão mais definida: o mesmo animal parece ter apoiado mal uma das patas dianteiras. Há pequenas manchas escuras sobre uma pedra e, alguns passos adiante, Eron distingue **um fio metálico retorcido entre os juncos**, preso perto da base de um arbusto. Da posição onde está, não é possível dizer se as manchas são sangue nem para que aquele metal servia.
+
+O rastro parece continuar pela margem oposta, em direção a uma encosta de pedras e vegetação cerrada. Nenhuma criatura está visível, e ainda não há motivo para afirmar que alguém percebeu a aproximação de Eron.
+
+**O que Eron faz?**
+
+**[LOG DE MEMÓRIA DA CAMPANHA]**
+- Localização Atual: Margem de um riacho no bosque acima do Pouso das Três Fontes, aproximadamente meia hora de caminhada após a borda da mata.
+- NPCs Presentes e Relação: Nenhum NPC à vista; Mara e Iria permaneceram no povoado.
+- Linha de Missão Ativa: Investigação dos ataques ao rebanho; 12 PO oferecidas por Mara, sem recompensa recebida.
+- Eventos Cruciais Ocorridos: Sobrevivência anterior **25 mantida**; Furtividade **1d20+9 → [18] +9 = 27**; Percepção **1d20+7 → [12] +7 = 19**. Eron encontrou marcas da pata irregular, manchas escuras e um fio metálico retorcido à margem do riacho.
+- Condições do Jogador: Ladino 1, **12/12 PV**, **CA 16**, **0/300 XP**, 36 PO e 8 PP; sem condições ou recursos gastos. Fim da manhã, próximo ao meio-dia.
+
+**GitHub:** rolagens, transcrição e estado da campanha atualizados; commits confirmados.
