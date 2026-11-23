@@ -151,3 +151,11 @@ Aguardar escolha de distribuição e regras de origem. Não iniciar campanha aut
 - Recomendação apresentada: Funileiro (Tinker's), Coureiro (Leatherworker's), Tecelão (Weaver's), mas seleção ainda PENDENTE.
 - Para evitar confusões com recomendações antigas, ferramentas de joalheiro não constam da tabela Fast Crafting e não podem ser escolhidas para as três proficiências específicas do talento Crafter.
 - Fonte conferida: Roll20 Compendium, talento Crafter (PHB 2024), https://roll20.net/compendium/dnd5e/Feats:Crafter?expansion=32231 .
+
+## Três ferramentas de Crafter confirmadas — 2026-11-23
+- Mensagem literal do jogador: "Funileiro vem com artifice depois, vou de coureiro, entalhador e pedreiro".
+- Proficiências concedidas pelo talento Crafter: **Ferramentas de Coureiro (Leatherworker's Tools)**, **Ferramentas de Entalhador (Woodcarver's Tools)** e **Ferramentas de Pedreiro (Mason's Tools)**.
+- Somadas à proficiência de **Ferramentas de Ferreiro (Smith's Tools)** concedida pelo antecedente Artesão, são quatro proficiências distintas em ferramentas de artesão.
+- **Ferramentas de Funileiro (Tinker's Tools)** NÃO são proficientes no nível 1 de Ladino e NÃO foram escolhidas pelo Crafter; quando Eron adquirir seu primeiro nível como Artífice pela multiclasse 2025, será concedida a proficiência de Funileiro segundo o bloco As a Multiclass Character (sujeito à confirmação da edição final antes da transição).
+- O personagem ainda não recebeu automaticamente um conjunto físico dessas quatro ferramentas por suas proficiências, pois equipamento inicial não foi selecionado.
+- Próxima escolha: um conjunto de jogo pelo antecedente Guarda entre Dados, Baralho, Xadrez de Dragão e Três-Dragões Ante. Equipamento físico, Maestrias e demais decisões continuam pendentes.
