@@ -6,5 +6,5 @@
 - Transcrição literal: [SESSION_0001_FULL.md](transcripts/SESSION_0001_FULL.md)
 - Ficha em elaboração: [PRE_CHAR_HUMAN_001.md](../character/PRE_CHAR_HUMAN_001.md)
 - Rolagens: [ROLL_LOG.csv](../dice/ROLL_LOG.csv)
-- Última interação registrada: jogador perguntou sobre proficiências de Artesão/Crafter e desconto na compra de itens não mágicos. Mestre confirmou +1 ferramenta de antecedente e +3 do talento (até 4 distintas) e desconto de 20%.
-- Próximo passo: confirmar Artesão como antecedente mecânico principal, escolher quatro ferramentas, classe inicial (Ladino ou Artífice), distribuição de atributos e idiomas. Não iniciar aventura antes da confirmação.
+- Última interação registrada: jogador confirmou atributos de Ladino (FOR 12, DES 20, CON 15, INT 17, SAB 15, CAR 14) e pediu esclarecer dados 18→20 e escolhas restantes; Mestre explicou origem dos bônus de antecedente e pausou preparação da campanha.
+- Próximo passo: obter confirmação da classe e nível iniciais; em seguida selecionar perícias, especializações, ferramentas, maestrias, equipamentos e calcular derivados. Campanha não iniciada.
