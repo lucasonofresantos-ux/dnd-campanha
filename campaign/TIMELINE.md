@@ -15,7 +15,8 @@
 ## Dia 1 — final do outono — sessão narrativa 0002
 - Antes do primeiro lance do jogador: Eron está num entroncamento da Estrada do Cascalho, nos arredores do Pouso das Três Fontes, território independente de Avenhar, fora das fronteiras de Valdren.
 - Ao fim da manhã, Mara Telha e Iria Vento-Seco discutem diante de curral com cerca danificada; há marcas de patas e arrasto na lama em direção ao bosque. Mara informa perda de duas cabras em três noites e oferece 12 PO por uma solução verificável; Eron ainda não aceitou trabalho, tomou decisão, rolou dados ou recebeu XP.
-- **XP inicial 0/300; nenhum combate ou ação registrada**.
+- Eron aproxima-se de Mara e diz: "boa tarde senhora, oque está acontecendo?". Mara relata a primeira cabra desaparecida do pasto superior, a segunda do cercado, sangue e marcas. Iria acredita serem pegadas de canídeo, danificadas pela chuva e seguindo ao bosque; não sabe quantos animais são. Iria pergunta sobre experiência de Eron em rastreamento. A oferta de 12 PO não foi aceita.
+- **XP permanece 0/300; sem combate, testes ou recursos consumidos.**
 
 ## Índices
 - Estado: `CAMPAIGN_STATE.yaml`.
