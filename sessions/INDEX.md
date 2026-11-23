@@ -6,5 +6,5 @@
 - Transcrição literal: [SESSION_0001_FULL.md](transcripts/SESSION_0001_FULL.md)
 - Ficha em elaboração: [PRE_CHAR_HUMAN_001.md](../character/PRE_CHAR_HUMAN_001.md)
 - Rolagens: [ROLL_LOG.csv](../dice/ROLL_LOG.csv)
-- Última interação registrada: jogador confirmou atributos de Ladino (FOR 12, DES 20, CON 15, INT 17, SAB 15, CAR 14) e pediu esclarecer dados 18→20 e escolhas restantes; Mestre explicou origem dos bônus de antecedente e pausou preparação da campanha.
-- Próximo passo: obter confirmação da classe e nível iniciais; em seguida selecionar perícias, especializações, ferramentas, maestrias, equipamentos e calcular derivados. Campanha não iniciada.
+- Última interação registrada: jogador confirmou Ladino como classe inicial no nível 1; Mestre informou PV 10, proficiência +2, testes de resistência Destreza e Inteligência e Ataque Furtivo 1d6.
+- Próximo passo: jogador escolher quatro perícias de Ladino; depois uma perícia adicional humana, especializações, ferramentas, armas e equipamento. Campanha não iniciada.
