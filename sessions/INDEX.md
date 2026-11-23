@@ -6,5 +6,5 @@
 - Transcrição literal: [SESSION_0001_FULL.md](transcripts/SESSION_0001_FULL.md)
 - Ficha em elaboração: [PRE_CHAR_HUMAN_001.md](../character/PRE_CHAR_HUMAN_001.md)
 - Rolagens: [ROLL_LOG.csv](../dice/ROLL_LOG.csv)
-- Última interação registrada: jogador escolheu opção A do equipamento inicial de Ladino (armadura de couro, espada curta, duas adagas, arco curto, flechas, aljava, ferramentas de ladrão, pacote de assaltante, 8 PO). CA 16.
-- Próximo passo: escolher pacote inicial A ou B do antecedente Artesão; depois pacote do Guarda e conferência final. Campanha não iniciada.
+- Última interação registrada: jogador escolheu opção A do antecedente Artesão (Ferramentas de Ferreiro, 2 bolsas, roupas de viajante e 32 PO), totalizando 40 PO com os 8 PO da classe Ladino.
+- Próximo passo: selecionar pacote A ou B do antecedente Guarda; então consolidar inventário, ficha e demais valores. Campanha não iniciada.
