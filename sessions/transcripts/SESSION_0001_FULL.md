@@ -99,3 +99,71 @@ Se quiser, me diga **quais dois antecedentes** deseja combinar. Podemos estabele
 - Condições do Jogador: Humano em elaboração; atributos 18, 16, 15, 15, 14, 12; classe e antecedentes não definidos.
 
 **GitHub:** commit confirmado. Registro atualizado sem vincular a uma campanha narrativa.
+
+## [005] JOGADOR — 2026-11-23
+
+queria começar com guarda e artesão como antecendentes
+
+## [006] MESTRE — 2026-11-23
+
+**Aprovado!** Seu personagem humano terá **Guarda e Artesão** como duas experiências importantes de sua vida.
+
+Como Mestre, recomendo uma combinação que permita começar com os talentos **Alerta e Artesão (Crafter)**, respeitando as regras de D&D 5E 2024, sem precisar duplicar os benefícios de dois antecedentes.
+
+## Minha proposta para o personagem
+
+<box gap={3}>
+  <row align="start" gap={3}>
+    <AsyncImage query="Dungeons and Dragons medieval city watch human guard leather armor lantern spear fantasy art" aspectRatio="3:4" maxWidth="124px"/>
+    <box flex="1" gap={1}>
+      **<Entity category="other" value="Guarda" disambig="Antecedente de D&D 2024"/>**
+
+      <text color="secondary" size="xs">Experiência narrativa</text>
+
+      Trabalhou protegendo uma cidade, patrulhando ruas, vigiando portões e reconhecendo ameaças.
+
+      Essa experiência justifica seu treinamento de vigilância e o talento Alerta.
+    </box>
+  </row>
+  <divider color="subtle"/>
+  <row align="start" gap={3}>
+    <AsyncImage query="Dungeons and Dragons fantasy medieval human artisan craftsman workshop tools woodwork gears detailed concept art" aspectRatio="3:4" maxWidth="124px"/>
+    <box flex="1" gap={1}>
+      **<Entity category="other" value="Artesão" disambig="Antecedente de D&D 2024"/>**
+
+      <text color="secondary" size="xs">Antecedente mecânico recomendado</text>
+
+      Aprendeu um ofício, trabalhou com ferramentas, investigou defeitos e desenvolveu habilidade para fabricar e reparar objetos.
+
+      Esse antecedente concede o talento de origem Artesão (Crafter).
+    </box>
+  </row>
+</box>
+
+## Benefícios da combinação
+
+| Origem | Benefício |
+|---|---|
+| Artesão | Talento de origem **Crafter** |
+| Artesão | Proficiência em Investigação e Persuasão |
+| Artesão | Proficiência com um tipo de ferramentas de artesão |
+| Humano — Versátil | Talento de origem **Alerta** |
+| Humano — Habilidoso | Uma perícia adicional; recomendo Percepção |
+| Criação do personagem | Comum e outros dois idiomas à escolha |
+
+As regras permitem que o Humano escolha um talento de origem adicional, enquanto o antecedente Artesão permite aumentar Destreza, Inteligência ou Força. Isso é especialmente útil porque você ainda está decidindo entre Ladino e Artífice. <Cite refs={["turn362512view1","turn942010view3","turn942010view0","turn942212search15"]}/>
+
+Assim, seu personagem pode ter a experiência de ambos os ofícios e começar com os dois talentos desejados, sem receber dois pacotes completos de antecedentes.
+
+Para manter sua escolha em aberto, ainda não determinei qual antecedente fornece os benefícios mecânicos. **Recomendo Artesão como principal**, especialmente se você escolher Ladino: ele permite aumentar Destreza, enquanto Guarda permite aumentos em Força, Inteligência ou Sabedoria. <Cite ref="turn362512view0"/>
+
+**Você confirma Artesão como antecedente mecânico principal, recebendo Alerta pelo Humano?**
+
+**[LOG DE MEMÓRIA DA CAMPANHA]**
+- Localização Atual: Não definida — personagem em criação.
+- NPCs Presentes e Relação: Nenhum.
+- Linha de Missão Ativa: Nenhuma.
+- Eventos Cruciais Ocorridos: Guarda e Artesão escolhidos como experiências do personagem; combinação mecânica recomendada, ainda não confirmada.
+- Condições do Jogador: Humano, pele clara, 1,80 m; atributos 18, 16, 15, 15, 14 e 12 ainda sem distribuição; Ladino ou Artífice.
+
+**GitHub:** commits confirmados para o rascunho, o índice e a transcrição pré-campanha.
