@@ -57,3 +57,12 @@ Aguardar escolha de distribuição e regras de origem. Não iniciar campanha aut
 - Se Artesão for confirmado como antecedente mecânico (ainda pendente), proposta de atributos brutos: FOR 12, DES 18, CON 15, INT 16, SAB 15, CAR 14 (foco Ladino); alternativa FOR 12, DES 16, CON 15, INT 18, SAB 15, CAR 14 (foco Artífice). Possíveis aumentos do antecedente Artesão, +2 DES/+1 INT no primeiro, +2 INT/+1 DES no segundo; nenhuma opção final confirmada.
 - Conselho de evolução: especializações de ambas classes normalmente no nível 3 da classe respectiva, não do personagem; equilibrar o atraso em habilidades poderosas ao multiclassar.
 - Status: proposta de multiclasse, NÃO confirmação irrevogável de classe inicial, progressão, subclassificação nem atributos.
+
+## Checagem de Artesão/Crafter — 2026-11-23
+- O jogador questionou corretamente se Artesão/Crafter concede três proficiências e desconto de 20% nas compras de itens não mágicos.
+- PHB 2024: antecedente Artesão concede uma proficiência em um tipo de ferramentas de artesão; o talento de origem Crafter concede mais três tipos diferentes escolhidos da tabela Fast Crafting. Com escolhas não repetidas, quatro proficiências em ferramentas de artesão ao todo.
+- Crafter concede desconto de 20% quando compra item não mágico; não altera, por si, preço de revenda, nem incide sobre itens mágicos.
+- Crafter também permite fazer equipamento de vida temporária da tabela Fast Crafting ao fim de um Descanso Longo, sujeito a ferramentas adequadas; item dura até o próximo Descanso Longo.
+- Proficiência não fornece automaticamente conjuntos físicos correspondentes.
+- Fonte consultada: D&D Beyond, The Backgrounds and Origin Feats in the 2024 Player's Handbook; Let's Explore the Crafting Rules in the 2024 Player's Handbook; Roll20 Compendium de Artisan e Crafter (PHB 2024).
+- Permanece pendente confirmação de Artesão como antecedente mecânico principal e quais ferramentas escolherá.
