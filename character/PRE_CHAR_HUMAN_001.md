@@ -175,3 +175,14 @@ Aguardar escolha de distribuição e regras de origem. Não iniciar campanha aut
 - Ataque Furtivo do Ladino 1: +1d6 uma vez por turno com arma Elegante ou à Distância, satisfeitas as condições; não é automático em todo golpe.
 - Próxima decisão: pacote inicial de classe Ladino 2024. Opção A: Armadura de Couro, duas Adagas, Espada curta, Arco curto, 20 Flechas, Aljava, Ferramentas de Ladrão, Pacote de Assaltante, 8 PO. Opção B: 100 PO. Ainda NÃO escolhido. A espada curta de Gruner pode ser a espada curta do equipamento inicial, sem duplicação. Depois pacote Artesão e Guarda completos, escolhas A/B separadas.
 - Fontes verificadas 2026-11-23: D&D Beyond Basic Rules (2024), Character Classes — Rogue; D&D Beyond Your Guide to Weapon Mastery in the 2024 Player's Handbook.
+
+## Equipamento inicial da classe Ladino — confirmado em 2026-11-23
+- Mensagem literal do jogador: "Vou de A".
+- O jogador respondeu à escolha do pacote inicial da CLASSE Ladino 2024, não aos pacotes de antecedentes.
+- **Opção A confirmada:** Armadura de Couro (1), Adagas (2), Espada curta (1), Arco curto (1), Flechas (20), Aljava (1), Ferramentas de Ladrão (1 conjunto), Pacote de Assaltante/Burglar's Pack (1), **8 PO**.
+- A única Espada Curta é identificada ficcionalmente como a arma presenteada por Gruner Barba de Cobre; não duplicar itens.
+- CA provisória com armadura de couro equipada: 11 + Destreza +5 = **16**. PV máximos permanecem **12** pelo talento Vigoroso.
+- Ouro confirmado até aqui: **8 PO**, sem acréscimos pendentes dos pacotes de antecedentes.
+- Os dois antecedentes completos mecânicos Artesão e Guarda continuam a conceder equipamentos de criação SEPARADOS, conforme regra própria aprovada. Não presumir opção A/B.
+- Próxima escolha única: pacote de equipamento do Artesão 2024. Opção A: Ferramentas de Ferreiro (correspondentes à proficiência escolhida), duas bolsas, roupas de viajante, 32 PO. Opção B: 50 PO. Valores depois do pacote, somados aos 8 PO de Ladino, serão 40 PO (A) ou 58 PO (B), antes do Guarda.
+- Fonte verificada 2026-11-23: D&D Beyond Basic Rules (2024), Rogue; Roll20 Compendium Artisan (2024).
