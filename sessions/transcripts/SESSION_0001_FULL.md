@@ -975,3 +975,56 @@ Minha recomendação é **Espada curta e Adaga**, porque o conjunto beneficia o 
 - Condições do Jogador: Eron River, Humano, Ladino nível 1, 12 PV máximos; FOR 12, DES 20, CON 15, INT 19, SAB 16, CAR 14. Aguardando Maestrias em Armas e equipamentos.
 
 **GitHub:** commits confirmados para ficha, índice e transcrição pré-campanha.
+
+## [035] JOGADOR — 2026-11-23
+
+Espada curta e adaga
+
+## [036] MESTRE — 2026-11-23
+
+**Confirmado! Eron River terá Maestria em Espada Curta e Adaga**, as duas escolhas de armas do Ladino no nível 1.
+
+| Arma | Maestria | Benefício |
+|---|---|---|
+| **Espada curta** | **Vex** | Ao acertar um alvo e causar dano, você ganha vantagem no próximo ataque contra ele, até o fim do seu próximo turno. |
+| **Adaga** | **Nick** | Permite realizar o ataque adicional da propriedade *Leve* durante a ação Atacar, sem gastar a ação bônus. |
+
+Com Destreza 20 e proficiência +2, Eron terá **+7 nas jogadas de ataque** com ambas as armas.
+
+A combinação combina com o estilo de combate que estamos construindo: ataques rápidos, mobilidade e oportunidades para aplicar o **Ataque Furtivo de 1d6**, quando suas condições forem atendidas.
+
+## Próxima escolha — equipamento inicial de Ladino
+
+Pelas regras de 2024, você pode escolher um pacote de itens prontos ou receber moedas de ouro para comprar seu equipamento. <Cite ref="turn592613search0"/>
+
+<box border radius="lg" padding={3} gap={3}>
+  <box gap={1}>
+    **Opção A — Equipamento de Ladino**
+    - Armadura de couro
+    - Espada curta e duas adagas
+    - Arco curto, 20 flechas e aljava
+    - Ferramentas de ladrão
+    - Pacote de assaltante (*Burglar's Pack*)
+    - **8 PO**
+  </box>
+  <divider color="subtle"/>
+  <box gap={1}>
+    **Opção B — Ouro inicial**
+    - **100 PO** para comprar os equipamentos que desejar
+  </box>
+</box>
+
+**Minha recomendação é a opção A.** Ela já fornece praticamente todo o equipamento que Eron costuma utilizar, inclusive a espada curta. Na história revisada, Gruner entregou uma espada curta a Eron; podemos representar essa mesma arma no pacote inicial, sem criar uma segunda espada.
+
+Essa escolha é **somente do pacote de Ladino**. Depois faremos separadamente as escolhas de equipamento dos antecedentes Artesão e Guarda, conforme a regra especial que aprovamos.
+
+**Você escolhe a opção A (equipamentos) ou B (100 PO)?**
+
+**[LOG DE MEMÓRIA DA CAMPANHA]**
+- Localização Atual: Não definida — criação da ficha.
+- NPCs Presentes e Relação: Nenhum em cena.
+- Linha de Missão Ativa: Nenhuma; campanha ainda não iniciada.
+- Eventos Cruciais Ocorridos: Maestrias em Espada Curta (Vex) e Adaga (Nick) confirmadas.
+- Condições do Jogador: Eron River, Humano, Ladino 1, 12 PV máximos; FOR 12, DES 20, CON 15, INT 19, SAB 16, CAR 14. Equipamento inicial ainda a escolher.
+
+**GitHub:** commits confirmados para ficha, índice e transcrição pré-campanha.
