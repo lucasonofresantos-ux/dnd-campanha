@@ -116,3 +116,10 @@ Aguardar escolha de distribuição e regras de origem. Não iniciar campanha aut
 - Total de oito perícias proficientes antes da escolha de Habilidoso humano. Especialização ainda NÃO aplicada aos bônus.
 - Próxima escolha única: perícia adicional da espécie Humano por Habilidoso, sem duplicação. Recomendações apresentadas: Arcanismo (+6) ou Sobrevivência (+5), podendo escolher qualquer outra perícia disponível. Só depois escolher as duas Especializações de Ladino.
 - Ainda pendentes: talento humano Versátil, ferramentas, conjunto de jogo, maestrias em armas, equipamentos e demais detalhes.
+
+## Perícia adicional de Humano confirmada — 2026-11-23
+- Jogador escolheu literalmente: "Sobrevivência".
+- Habilidoso (Humano 2024) concede proficiência em **Sobrevivência**. Bônus nível 1: +5 (Sabedoria +3, proficiência +2), antes de qualquer Especialização.
+- Perícias atuais: Enganação +4, Intuição +5, Prestidigitação +7, Furtividade +7 (Ladino); Investigação +6, Persuasão +4 (Artesão); Atletismo +3, Percepção +5 (Guarda); Sobrevivência +5 (Humano).
+- São NOVE perícias proficientes, todas distintas. Próximo passo: escolher duas Especializações de Ladino 1 entre as nove perícias. Segundo a regra de 2024, a característica concede Especialização em DUAS proficiências em perícias (não em ferramentas de ladrão, diferente de regras anteriores). Especialização dobra bônus de proficiência de +2 para +4 para perícias escolhidas.
+- Recomendação não vinculante apresentada ao jogador: Investigação (+8 com Especialização) e Furtividade (+9 com Especialização). Nenhuma foi selecionada ainda.
