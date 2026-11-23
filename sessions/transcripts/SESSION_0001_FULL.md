@@ -1231,3 +1231,63 @@ O baralho custa **5 PP** na tabela de 2024; com o desconto de Crafter, sairia po
 - Condições do Jogador: Eron River, Humano, Ladino 1, 12 PV máximos, CA 16; FOR 12, DES 20, CON 15, INT 19, SAB 16, CAR 14; **37 PO e 2 PP**; proficiente em quatro ferramentas de artesão e com o quinto conjunto físico de Funileiro reservado para futura multiclasse.
 
 **GitHub:** commits confirmados para inventário, índice e transcrição pré-campanha.
+
+## [045] JOGADOR — 2026-11-23
+
+Sim quero e entendi que ainda não tenho proficiência em ferramentas de funileiro
+
+## [046] MESTRE — 2026-11-23
+
+<text color="success" weight="medium"><icon name="check-circle" inline/> Compra do baralho confirmada!</text>
+
+Eron River compra **1 baralho de cartas por 4 PP**, já aplicado o desconto de 20% do talento Artesão (*Crafter*).
+
+<grid columns={2} gap={3}>
+  <grid-item>
+    <box border radius="lg" padding={3} gap={1}>
+      <text color="secondary" size="xs">Saldo anterior</text>
+      <title size="xl" tabularNums>37 PO e 2 PP</title>
+    </box>
+  </grid-item>
+  <grid-item>
+    <box border radius="lg" padding={3} gap={1}>
+      <text color="secondary" size="xs">Saldo atualizado</text>
+      <title size="xl" color="success" tabularNums>36 PO e 8 PP</title>
+    </box>
+  </grid-item>
+</grid>
+
+E você entendeu corretamente a distinção:
+
+- **Ferramentas de Funileiro:** Eron possui o conjunto físico, mas ainda não tem proficiência.
+- **Ferramentas de Ferreiro, Coureiro, Entalhador e Pedreiro:** Eron possui os conjuntos físicos e as respectivas proficiências.
+- **Baralho de Cartas:** Eron agora possui o baralho físico e já tem proficiência para utilizá-lo.
+
+Nenhuma proficiência adicional foi concedida com essa compra.
+
+## Situação da ficha após as compras
+
+| Característica | Valor |
+|---|---|
+| Classe e nível | Ladino 1 |
+| PV máximos | **12** |
+| Classe de Armadura | **16** |
+| Iniciativa | **+7** (Destreza +5 e Alerta +2) |
+| Deslocamento | **9 m** |
+| Percepção passiva | **17** |
+| Maestrias | Espada Curta (Vex), Adaga (Nick) |
+| Talentos de origem | Artesão, Alerta, Vigoroso |
+| Moedas | **36 PO e 8 PP** |
+
+As escolhas mecânicas principais estão completas. Faltam a **conferência do peso e da capacidade de carga**, a consolidação do inventário completo (inclusive o conteúdo do pacote de assaltante) e os detalhes finais de apresentação do personagem.
+
+**Próxima etapa:** faremos a conferência do inventário e da capacidade de carga antes de declarar a ficha concluída. As ferramentas de Funileiro não concedem proficiência antecipada.
+
+**[LOG DE MEMÓRIA DA CAMPANHA]**
+- Localização Atual: Não definida; criação de personagem.
+- NPCs Presentes e Relação: Nenhum em cena.
+- Linha de Missão Ativa: Nenhuma; campanha ainda não iniciada.
+- Eventos Cruciais Ocorridos: Compra do baralho físico por 4 PP; dinheiro atualizado para 36 PO e 8 PP.
+- Condições do Jogador: Eron River, humano, Ladino 1, 12 PV máximos, CA 16; FOR 12, DES 20, CON 15, INT 19, SAB 16, CAR 14. Possui ferramentas de Funileiro, ainda sem proficiência.
+
+**GitHub:** commits confirmados para pré-ficha, índice e transcrição literal.
