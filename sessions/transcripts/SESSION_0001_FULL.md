@@ -287,3 +287,192 @@ Para sua combinação, eu recomendaria ferramentas de ferreiro, de funileiro e d
 - Condições do Jogador: Humano de pele clara, 1,80 m; atributos 18, 16, 15, 15, 14 e 12 ainda sem distribuição; intenção de multiclasse Ladino/Artífice; escolhas mecânicas de antecedente e ferramentas pendentes.
 
 **GitHub:** commit confirmado para a atualização do rascunho e a transcrição de pré-campanha.
+
+## [011] JOGADOR — 2026-11-23
+
+gostei da distribuição do ladino, vou ficar com ela, e o idioma seria comum, goblin, anão, elfico, e giria de ladrão claro. vou com os dois antecendentes, guarda e artesão, quero a campanha para a questão dos pais dele, e o salão dos 6 sem ligação com esse acontecimento mas como duas campanhas principais na mesma campanha, para desenvolver o personagem eron river, o salão esta esquecido a milenios e ninguem mais lembra por isso é algo isolado do acontecimento dos pais dele, coloque como ele achou isso numa caçada a um lobo no monte veyra, ou de alguma forma conecte tudo... mas no começo que ninguem saiba ou se lembre do salão dos 6 e seus caminhos, e ja vamos terminar o personagem
+
+**Anexos fornecidos junto à mensagem:** `Eron_River_Historia_Revisada.pdf`; `Thun-Khazad_Cronicas_do_Imperio_Esquecido.pdf`. PDFs referenciados, não copiados neste arquivo de transcrição. O conteúdo dos anexos não é fala literal do usuário.
+
+## [012] MESTRE — 2026-11-23 (mensagem parcial visível, interrompida antes da resposta final)
+
+# Eron River — Preparação da campanha e ficha
+
+Li os dois documentos que você enviou: *Eron River — A Marca da Bigorna Velada* e *Thûn-Khazad — Crônicas do Império Esquecido*.
+
+Vamos preservar a história revisada de Eron, seus 25 anos, a família que o criou, sua formação na forja, o serviço na Guarda Real e os acontecimentos que o levaram ao exílio.
+
+Também fica estabelecido que teremos **uma campanha longa com duas tramas principais independentes**:
+
+1. **A verdade sobre Aldren e Mirella River:** investigar os acontecimentos que destruíram a família de Eron e suas consequências.
+2. **O Salão dos Seis Caminhos:** um mistério de exploração, engenharia e história antiga ligado ao Monte Veyra, mas não à conspiração envolvendo seus pais.
+
+O Salão está esquecido há milênios. No começo da aventura, ninguém conhece sua localização, seus Caminhos ou sua verdadeira história. A possibilidade de descoberta surgirá naturalmente durante os acontecimentos, sem obrigar Eron a seguir esse caminho.
+
+## Ficha de Eron River
+
+<box border radius="xl" padding={3} gap={3}>
+  <row align="center" gap={3}>
+    <AsyncImage query="realistic dark medieval fantasy male human rogue adventurer age 25 messy black hair gray eyes lightly tanned fair skin short beard brown worn leather armor hood short sword bow muscular athletic portrait" aspectRatio="3:4" maxWidth="128px"/>
+    <box flex="1" gap={1}>
+      <title size="lg">Eron River</title>
+      <text color="secondary" size="xs">Humano • 25 anos • 1,80 m</text>
+      **Ladino / futuro Artífice**
+      <text size="sm" color="secondary">Antecedentes: Guarda e Artesão</text>
+      <badge color="secondary">Criação em andamento</badge>
+    </box>
+  </row>
+  <divider color="subtle"/>
+  <text weight="medium">Atributos confirmados</text>
+  <grid columns={3} gap={2}>
+    {#each [{n:"FOR",v:12,m:"+1"},{n:"DES",v:20,m:"+5"},{n:"CON",v:15,m:"+2"},{n:"INT",v:17,m:"+3"},{n:"SAB",v:15,m:"+2"},{n:"CAR",v:14,m:"+2"}] as a}
+      <grid-item>
+        <box background="surface-secondary" radius="md" padding={2} align="center" gap="2px">
+          <text size="2xs" color="secondary" weight="medium">{a.n}</text>
+          <title size="xl" tabularNums>{a.v}</title>
+          <text size="xs" color="secondary">{a.m}</text>
+        </box>
+      </grid-item>
+    {/each}
+  </grid>
+  <caption>Valores já incluem os bônus +2 Destreza e +1 Inteligência do antecedente Artesão, conforme sua escolha.</caption>
+</box>
+
+## Idiomas confirmados
+
+Você poderá ter exatamente os idiomas que pediu, sem precisar de uma regra especial.
+
+| Idioma | Origem |
+|---|---|
+| Comum | Criação do personagem |
+| Goblin | Idioma adicional de criação |
+| Anão | Idioma adicional de criação |
+| Élfico | Idioma adicional da classe Ladino |
+| Gíria de Ladrão | Característica de Ladino |
+
+No nível 1, o Ladino de 2024 recebe Gíria de Ladrão e também aprende outro idioma. <Cite refs={["turn659651search0","turn659651search20"]}/>
+
+Isso é particularmente coerente com a história: Goblin pela família de Brakka, Anão pelo convívio com Gruner e Élfico pelo contato com Thaelion.
+
+## [013] JOGADOR — 2026-11-23
+
+ta pera ae, agora vamos terminar de criar o personagem, me de o resultado dos dados e oque tenho que escolher e como passou de 18 para 20, vasmo chegar la juntos, oque eu preciso escolher até terminar o personagem
+
+## [014] MESTRE — 2026-11-23
+
+Perfeito! Vamos terminar a ficha de **Eron River juntos, uma escolha de cada vez**, sem pular nenhuma etapa.
+
+Por enquanto, deixamos a campanha e o Salão dos Seis Caminhos de lado. Primeiro vamos concluir o personagem, conferir as regras e calcular tudo corretamente.
+
+## 1. Resultado original dos dados
+
+Você pediu que eu rolasse os atributos até conseguir uma combinação forte. Utilizamos **4d6, descartando o menor dado**, repetindo sequências completas até atingir o critério estabelecido.
+
+A sequência escolhida foi a 40ª.
+
+| Rolagem | Dados obtidos | Descartado | Resultado |
+|---|---|---|---|
+| 1 | 3, 1, 5, 4 | 1 | **12** |
+| 2 | 6, 2, 6, 6 | 2 | **18** |
+| 3 | 5, 5, 5, 1 | 1 | **15** |
+| 4 | 3, 5, 6, 4 | 3 | **15** |
+| 5 | 6, 4, 3, 6 | 3 | **16** |
+| 6 | 5, 3, 6, 3 | Um dos 3 | **14** |
+
+<box border radius="lg" padding={3} gap={2}>
+  <text weight="medium" color="secondary" size="xs">Seus seis resultados originais, em ordem decrescente</text>
+  <grid columns={6} gap={1}>
+    {#each [18,16,15,15,14,12] as n,i}
+      <grid-item>
+        <box background={i===0?"rgba(30,140,80,0.10)":"surface-secondary"} radius="md" padding={{top:3,bottom:3,x:1}} align="center">
+          <title size="lg" color={i===0?"success":"default"} tabularNums>{n}</title>
+        </box>
+      </grid-item>
+    {/each}
+  </grid>
+  <text textAlign="center" weight="medium">Total: 90 pontos</text>
+</box>
+
+## 2. Como a Destreza passou de 18 para 20?
+
+Na edição 2024, os bônus de atributos vêm do **antecedente**, não da espécie Humano.
+
+O antecedente **Artesão** permite aumentar Força, Destreza ou Inteligência, escolhendo uma das seguintes distribuições:
+
+- +2 em um desses atributos e +1 em outro.
+- +1 em cada um dos três atributos.
+
+Na distribuição que você escolheu, colocamos **+2 em Destreza e +1 em Inteligência**.
+
+<box border radius="lg" padding={3} gap={3}>
+  <grid columns={2} gap={3}>
+    <grid-item>
+      <text color="secondary" weight="medium" size="xs">DESTREZA</text>
+      <row align="baseline" justify="center" gap={1}>
+        <title size="2xl">18</title>
+        <title color="secondary" size="md">+ 2 =</title>
+        <title size="2xl" color="success">20</title>
+      </row>
+      <caption textAlign="center">Modificador final +5</caption>
+    </grid-item>
+    <grid-item>
+      <text color="secondary" weight="medium" size="xs">INTELIGÊNCIA</text>
+      <row align="baseline" justify="center" gap={1}>
+        <title size="2xl">16</title>
+        <title color="secondary" size="md">+ 1 =</title>
+        <title size="2xl" color="success">17</title>
+      </row>
+      <caption textAlign="center">Modificador final +3</caption>
+    </grid-item>
+  </grid>
+</box>
+
+Portanto, **não modificamos as rolagens**. Apenas aplicamos os aumentos de atributos do antecedente, como a regra permite. O limite normal é 20.
+
+## 3. Atributos finais que você escolheu
+
+| Atributo | Dado | Bônus | Final | Modificador |
+|---|---:|---:|---:|---:|
+| Força | 12 | — | 12 | +1 |
+| Destreza | 18 | +2 | **20** | **+5** |
+| Constituição | 15 | — | 15 | +2 |
+| Inteligência | 16 | +1 | **17** | **+3** |
+| Sabedoria | 15 | — | 15 | +2 |
+| Carisma | 14 | — | 14 | +2 |
+
+Essa é a distribuição confirmada. É particularmente forte para um Ladino com futura multiclasse em Artífice.
+
+Conferi a criação de personagens de 2024: o antecedente Artesão realmente permite esses aumentos, e nenhum deles pode elevar um atributo acima de 20. <Cite refs={["turn901867search1","turn901867search9","turn901867search18"]}/>
+
+## 4. O que ainda falta escolher
+
+| Etapa | Situação |
+|---|---|
+| Nome, espécie, idade e aparência | **Definidos:** Eron River, humano, 25 anos, 1,80 m |
+| Atributos | **Definidos:** 12 / 20 / 15 / 17 / 15 / 14 |
+| Antecedentes | **Definidos:** Artesão mecânico e Guarda narrativo |
+| Talentos de origem | **Planejados:** Crafter pelo Artesão e Alerta pelo Humano |
+| Idiomas | **Escolhidos:** Comum, Goblin, Anão, Élfico e Gíria de Ladrão |
+| Classe e nível iniciais | **Falta confirmar:** Ladino de nível 1 ou outra configuração |
+| Perícias e Especialização | **Falta escolher:** se começar Ladino, quatro perícias da classe, uma do Humano e duas Especializações |
+| Ferramentas | **Falta escolher:** um tipo pelo Artesão e três tipos diferentes pelo Crafter |
+| Maestrias em armas | **Falta escolher:** duas armas, se começar Ladino |
+| Equipamento inicial | **Falta escolher:** itens ou ouro inicial, respeitando a história de Eron |
+| Valores derivados | Eu calculo depois: PV, CA, iniciativa, testes de resistência, ataques e outros números |
+
+As perícias **Investigação e Persuasão** já vêm do antecedente Artesão. A classe Ladino de 2024 traz quatro escolhas de perícias, duas Especializações e duas Maestrias em Armas no nível 1. <Cite refs={["turn901867search2","turn901867search18"]}/>
+
+**Não precisamos escolher uma subclasse agora:** para Ladino, a subclasse chega no nível 3 da própria classe. A entrada em Artífice pode acontecer em uma progressão futura, quando você decidir.
+
+## Próxima escolha — apenas uma por vez
+
+**Você confirma que Eron começará como Ladino de nível 1, planejando adquirir níveis de Artífice futuramente?**
+
+**[LOG DE MEMÓRIA DA CAMPANHA]**
+- Localização Atual: Não definida; criação de personagem.
+- NPCs Presentes e Relação: Nenhum em cena.
+- Linha de Missão Ativa: Campanha ainda não iniciada; preparação narrativa pausada para terminar a ficha.
+- Eventos Cruciais Ocorridos: Atributos finais confirmados; antecedentes Guarda e Artesão; idiomas escolhidos; intenção de multiclasse.
+- Condições do Jogador: Eron River, humano, 25 anos, 1,80 m; FOR 12, DES 20, CON 15, INT 17, SAB 15, CAR 14. Classe inicial ainda não confirmada.
+
+**GitHub:** atualizações da ficha, índice e transcrição pré-campanha confirmadas por commit.
