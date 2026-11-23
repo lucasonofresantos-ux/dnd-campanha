@@ -123,3 +123,13 @@ Aguardar escolha de distribuição e regras de origem. Não iniciar campanha aut
 - Perícias atuais: Enganação +4, Intuição +5, Prestidigitação +7, Furtividade +7 (Ladino); Investigação +6, Persuasão +4 (Artesão); Atletismo +3, Percepção +5 (Guarda); Sobrevivência +5 (Humano).
 - São NOVE perícias proficientes, todas distintas. Próximo passo: escolher duas Especializações de Ladino 1 entre as nove perícias. Segundo a regra de 2024, a característica concede Especialização em DUAS proficiências em perícias (não em ferramentas de ladrão, diferente de regras anteriores). Especialização dobra bônus de proficiência de +2 para +4 para perícias escolhidas.
 - Recomendação não vinculante apresentada ao jogador: Investigação (+8 com Especialização) e Furtividade (+9 com Especialização). Nenhuma foi selecionada ainda.
+
+## Duas Especializações de Ladino confirmadas — 2026-11-23
+- Escolha literal do jogador: "Furtividade e percepção".
+- Ladino 1 (2024), Especializações: **Furtividade** e **Percepção**, duas perícias nas quais já possui proficiência.
+- Bônus de proficiência +2 dobrado para +4 para essas duas perícias, não +2 adicional sobre um bônus já duplicado.
+- **Furtividade +9** = Destreza +5 + Especialização +4.
+- **Percepção +7** = Sabedoria +3 + Especialização +4.
+- **Percepção Passiva 17** = 10 + 7, salvo outras condições.
+- Outras sete perícias continuam com bônus de proficiência simples, até mudanças futuras.
+- Próxima etapa: escolher terceiro talento de origem concedido por Humano Versátil; Crafter e Alerta continuam assegurados pelos antecedentes completos. Opções apresentadas como sugestões: Lucky, Skilled, Tough e Magic Initiate (Wizard). Nenhuma terceira escolha foi feita ainda.
