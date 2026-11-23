@@ -749,3 +749,62 @@ Você também pode escolher Enganação, Intuição, Persuasão ou Atletismo.
 - Condições do Jogador: Humano, Ladino nível 1, 10 PV; FOR 12, DES 20, CON 15, INT 19, SAB 16, CAR 14. Especializações e demais equipamentos e talentos ainda pendentes.
 
 **GitHub:** commits confirmados para ficha, índice e transcrição pré-campanha.
+
+## [025] JOGADOR — 2026-11-23
+
+Furtividade e percepção
+
+## [026] MESTRE — 2026-11-23
+
+**Confirmado!** Eron River terá **Furtividade e Percepção** como suas duas Especializações de Ladino no nível 1.
+
+A Especialização dobra o bônus de proficiência aplicado à perícia, passando de +2 para +4.
+
+<grid columns={2} gap={3}>
+  <grid-item>
+    <box border radius="lg" padding={3} gap={1} align="center">
+      <icon name="footprints" color="secondary" size="lg"/>
+      <text weight="medium">Furtividade</text>
+      <title size="2xl" color="success">+9</title>
+      <caption>Destreza +5, Especialização +4</caption>
+    </box>
+  </grid-item>
+  <grid-item>
+    <box border radius="lg" padding={3} gap={1} align="center">
+      <icon name="eye" color="secondary" size="lg"/>
+      <text weight="medium">Percepção</text>
+      <title size="2xl" color="success">+7</title>
+      <caption>Sabedoria +3, Especialização +4</caption>
+    </box>
+  </grid-item>
+</grid>
+
+A **Percepção Passiva de Eron agora é 17**, antes de quaisquer modificadores circunstanciais. Isso faz dele um personagem muito atento ao ambiente, mesmo quando não está procurando algo ativamente.
+
+As outras sete perícias proficientes continuam com seus bônus normais.
+
+## Próxima escolha: terceiro talento de origem
+
+Eron já tem **Artesão (Crafter)** pelo antecedente Artesão e **Alerta** pelo antecedente Guarda. Como Humano, recebe **mais um talento de origem** pela característica Versátil.
+
+Estas são quatro boas opções do D&D 2024 para ele:
+
+| Talento | O que acrescenta |
+|---|---|
+| **Sortudo (Lucky)** | 2 pontos de sorte por Descanso Longo no nível 1, utilizáveis para favorecer seus testes de d20 ou atrapalhar ataques contra você |
+| **Habilidoso (Skilled)** | Proficiência em três outras perícias ou ferramentas, na combinação que preferir |
+| **Vigoroso (Tough)** | +2 PV por nível; Eron passaria de **10 para 12 PV** no nível 1 |
+| **Iniciado em Magia (Magic Initiate — Wizard)** | Dois truques e uma magia de nível 1 da lista de Mago, antecipando seu lado mágico |
+
+Esses benefícios seguem os talentos de origem de 2024. <Cite refs={["turn395025search1","turn395025search4"]}/>
+
+**Qual desses talentos você prefere para Eron?** Você também pode escolher outro talento de origem permitido. Depois vamos para as proficiências em ferramentas.
+
+**[LOG DE MEMÓRIA DA CAMPANHA]**
+- Localização Atual: Não definida — criação do personagem.
+- NPCs Presentes e Relação: Nenhum em cena.
+- Linha de Missão Ativa: Nenhuma; aventura ainda não iniciada.
+- Eventos Cruciais Ocorridos: Especializações de Ladino confirmadas em Furtividade e Percepção.
+- Condições do Jogador: Humano, Ladino 1, 10 PV; FOR 12, DES 20, CON 15, INT 19, SAB 16, CAR 14; Furtividade +9, Percepção +7, Percepção Passiva 17. Terceiro talento de origem e outros equipamentos pendentes.
+
+**GitHub:** commits confirmados para ficha, índice e transcrição da pré-campanha.
