@@ -166,3 +166,10 @@ Especializações do Ladino de nível 1: **Furtividade e Percepção**, dobram p
 - [D&D Beyond — Basic Rules 2024, Character Origins (Human)](https://www.dndbeyond.com/sources/dnd/br-2024/character-origins)
 - [D&D Beyond — Basic Rules 2024, Equipment](https://www.dndbeyond.com/sources/dnd/br-2024/equipment)
 - Regras excepcionais aprovadas somente para Eron em `rules/HOUSE_RULES.md`.
+
+## Vinculação à campanha e XP — 2026-11-23
+- O jogador autorizou expressamente preparar e **COMEÇAR** a campanha de Eron; campanha identificada como `ERON-RIVER-ASTERION-001` / **Estradas de Cinza e Pedra**.
+- **Progressão exclusivamente por XP**: XP inicial **0**, próximo nível **2** após **300 XP** acumulados, nível **3** após **900 XP**, sem marcos narrativos automáticos. Estado, limiares e prêmios: `campaign/CAMPAIGN_STATE.yaml`, `campaign/PROGRESSION_XP.md` e `campaign/XP_LOG.csv`.
+- Na abertura (sessão narrativa 0002), Eron está no entroncamento da Estrada do Cascalho junto ao Pouso das Três Fontes, Avenhar, fora de Valdren; 12/12 PV, CA 16, sem condições, 36 PO e 8 PP, carrega todo inventário. Não recebeu XP ou dano antes da primeira ação.
+- **Pertence pessoal já estabelecido em história fornecida pelo jogador:** `Marca da Bigorna Velada`, pequeno disco de metal familiar com uma bigorna e montanha e seis sulcos, guardado em bolsa de couro sob a roupa, presenteado por Gruner. Eron conhece seu valor afetivo e a origem familiar contada por Gruner, **não conhece qualquer função adicional**. Não atribuir efeito, preço, peso fixo ou relevância mística na ficha pública sem descoberta em jogo. Este pertence integra o patrimônio narrativo prévio, não é compra nova. Peso do pequeno objeto e bolsa particular permanecem não quantificados nos 103,88 lb; pode ser verificado quando necessário.
+- A ficha aprovada NÃO é reescrita: este é um adendo auditável de XP, vínculo e patrimônio narrativo, sem alterar decisões mecânicas.
