@@ -284,3 +284,57 @@ Eron não avista nenhuma criatura. Até onde consegue perceber, **sua aproximaç
 - Condições do Jogador: Ladino 1, **12/12 PV**, **CA 16**, **0/300 XP**, **36 PO e 8 PP**. Nenhuma condição ou recurso gasto; nenhuma criatura identificada.
 
 **GitHub:** rolagens, estado, cronologia e transcrição registrados; commits confirmados.
+
+## [015] JOGADOR — 2026-11-23
+
+Pode rolar furtividade e percepção até a abertura
+
+## [016] MESTRE — 2026-11-23
+
+## Testes de Eron — Aproximação à abertura
+
+<box border radius="lg" padding={3} gap={3}>
+  <grid columns={2} gap={3}>
+    <grid-item>
+      <box gap={1} align="center">
+        <text color="secondary" size="xs" weight="medium">Furtividade · +9</text>
+        <title size="2xl" color="success" tabularNums>27</title>
+        <caption>1d20 [18] + 9</caption>
+      </box>
+    </grid-item>
+    <grid-item>
+      <box gap={1} align="center">
+        <text color="secondary" size="xs" weight="medium">Percepção · +7</text>
+        <title size="2xl" tabularNums>20</title>
+        <caption>1d20 [13] + 7</caption>
+      </box>
+    </grid-item>
+  </grid>
+</box>
+
+Eron avança cuidadosamente pelos últimos quinze metros, aproveitando as raízes grossas e os blocos de pedra como cobertura. O cascalho úmido não estala sob suas botas. Aproximando-se da abertura, ele se abriga atrás de uma saliência rochosa, a cerca de dois metros da entrada.
+
+O cheiro de terra molhada mistura-se a um odor forte de pelo animal.
+
+Do interior escuro vem uma respiração pesada e irregular. Com os olhos acostumando-se à penumbra, Eron consegue distinguir **uma loba cinzenta deitada entre as pedras**. Ela mantém uma das patas dianteiras recolhida e, de tempos em tempos, lambe a região próxima ao tornozelo.
+
+Mas há algo mais.
+
+Perto do ventre da loba, **dois filhotes pequenos se mexem entre folhas secas e pelos**, soltando ruídos baixos.
+
+Até onde Eron consegue perceber, nenhum deles notou sua aproximação.
+
+A loba interrompe a lambida por alguns instantes e ergue ligeiramente a cabeça. Suas orelhas se movem, acompanhando algum ruído da ravina, mas ela não se levanta. Os filhotes permanecem junto dela.
+
+Eron está **a aproximadamente dois metros da entrada**, ainda protegido pela pedra. Ele não entrou na toca e não iniciou combate.
+
+**O que Eron faz?**
+
+**[LOG DE MEMÓRIA DA CAMPANHA]**
+- Localização Atual: Ravina rochosa, atrás de uma saliência a aproximadamente 2 metros da entrada de uma toca.
+- NPCs Presentes e Relação: Nenhum NPC; uma loba cinzenta e dois filhotes estão visíveis no interior da abertura, sem contato direto com Eron.
+- Linha de Missão Ativa: Investigar os ataques ao rebanho de Mara; recompensa proposta de 12 PO, ainda não recebida.
+- Eventos Cruciais Ocorridos: **Furtividade 1d20+9 → [18] +9 = 27**; **Percepção 1d20+7 → [13] +7 = 20**. Eron aproximou-se sem ser percebido, observou a loba com uma pata dianteira recolhida e encontrou dois filhotes na toca.
+- Condições do Jogador: Ladino 1, **12/12 PV**, **CA 16**, **0/300 XP**, **36 PO e 8 PP**. Nenhuma condição ativa ou recurso gasto. Não há combate em andamento.
+
+**GitHub:** rolagens, transcrição, cronologia e estado da campanha registrados; commits confirmados.
