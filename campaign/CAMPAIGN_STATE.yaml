@@ -46,25 +46,23 @@ campaign_time:
   day: 1
   time_of_day: "fim da manhã"
   season: "final do outono"
-  elapsed_game_time: "nenhum avanço desde a cena de abertura"
+  elapsed_game_time: "aproximadamente cinco minutos desde a conversa junto ao curral; ainda fim da manhã"
 location:
   continent: Asterion
   polity: "Terras Livres de Avenhar (homebrew), fora de Valdren"
   area: "entroncamento da Estrada do Cascalho, próximo ao Pouso das Três Fontes"
   nearby: "encostas arborizadas da serra cujo monte mais alto é chamado Veyra"
-  exact_position: "junto ao curral danificado de Mara Telha, na entrada do Pouso das Três Fontes"
-  travel_status: "Eron diante do curral; intenção anunciada de rastrear pouco antes do próximo amanhecer, nenhuma viagem de rastreamento iniciada"
+  exact_position: "borda do bosque, aproximadamente 100 m do curral de Mara, seguindo o rastro"
+  travel_status: "Eron adiantou uma breve inspeção de rastros ainda no fim da manhã, caminhando cerca de 100 m; plano anterior de caçada ao amanhecer não foi anulado"
 scene:
   id: OPENING-001
-  status: awaiting_player_activity_before_dawn
-  current_npcs_present:
-    - "Mara Telha (criadora de cabras, moradora local)"
-    - "Iria Vento-Seco (vigia da aldeia)"
-  immediate_visible_situation: "Eron declarou que pretende seguir o animal pouco antes do amanhecer. Mara vai recolher o rebanho restante ao galpão antes de anoitecer. Iria observa que antes do amanhecer ainda estará escuro, a chuva pode apagar os rastros; indicou cerca danificada e estalagem de Alda. Eron ainda decide como ocupar as horas restantes; sem salto temporal."
+  status: awaiting_player_next_action_at_woodline
+  current_npcs_present: []
+  immediate_visible_situation: "Eron acompanhou o rastro por cerca de 100 metros até a orla do bosque, após sucesso excepcional em Sobrevivência +5 (d20 20, total 25). Observa marcas mais rasas/irregulares de uma pata dianteira, sugerindo que o canídeo a poupa; pegadas nítidas de um animal, não exclui outros. Rastro entra por passagem estreita entre samambaias/raízes. Não avistou criatura nem prosseguiu mata adentro."
   combat: false
   initiative: []
   rounds: 0
-  dice_rolled: false
+  dice_rolled: true
   xp_awarded: false
   reward_offered_but_not_accepted: "12 PO por cessar as perdas do rebanho, seja por solução verificável não violenta, captura ou eliminação da ameaça"
 world:
@@ -79,8 +77,8 @@ world:
 transcription:
   character_creation_history: sessions/transcripts/SESSION_0001_FULL.md
   narrative_session: sessions/transcripts/SESSION_0002_FULL.md
-  last_saved_player_turn: "- dona Mara, posso seguir sim, mas não é das ideias mais sensatas seguir um lobo no escuro, se não se importar vou sair pouco antes do amanhecer"
-  last_saved_dm_turn: "[006] MESTRE — 2026-11-23; Mara e Iria respondem ao plano de esperar antes de rastrear, salvo no transcript"
+  last_saved_player_turn: "Pode rolar sobrevivência para seguir as pegadas um pouco"
+  last_saved_dm_turn: "[008] MESTRE — 2026-11-23; teste Sobrevivência [20]+5=25, rastreamento de 100 m, transcript confirmado"
 notes:
   - "Primeira resposta de cena será salva literalmente e sem revelar preparativos de dm."
   - "Nunca tratar a aprovação da ficha como XP, nem mudar recursos automaticamente."
