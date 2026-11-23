@@ -167,3 +167,82 @@ Para manter sua escolha em aberto, ainda não determinei qual antecedente fornec
 - Condições do Jogador: Humano, pele clara, 1,80 m; atributos 18, 16, 15, 15, 14 e 12 ainda sem distribuição; Ladino ou Artífice.
 
 **GitHub:** commits confirmados para o rascunho, o índice e a transcrição pré-campanha.
+
+## [007] JOGADOR — 2026-11-23
+
+acho que vou jogar com uma classe mista ladino e artifice
+
+## [008] MESTRE — 2026-11-23
+
+**Aprovado como conceito de personagem!** Um humano com multiclasse **Ladino + Artífice** combina muito bem com os antecedentes Guarda e Artesão que você escolheu.
+
+Você poderá ser um especialista em investigação, furtividade, mecanismos, armadilhas e invenções mágicas, sem precisar escolher definitivamente entre combater como ladino ou criar equipamentos como artífice.
+
+## Como funciona a multiclasse
+
+Usaremos a regra de multiclasse do D&D 5E 2024, com a versão atualizada do Artífice publicada em *Eberron: Forge of the Artificer* (2025). <Cite refs={["turn836989view3","turn836989view0"]}/>
+
+Para combinar essas classes, você precisa de:
+
+- **Destreza 13 ou superior**, para Ladino.
+- **Inteligência 13 ou superior**, para Artífice.
+
+Seus atributos rolados já permitem isso tranquilamente. A cada aumento de nível, você poderá escolher qual das duas classes desenvolver. Entretanto, começar no nível 1 significa iniciar com apenas uma delas.
+
+## Duas formas de construir seu personagem
+
+<box gap={3}>
+  <row align="start" gap={3}>
+    <AsyncImage query="fantasy human rogue adventurer dark hood leather armor daggers lockpicks medieval realistic Dungeons Dragons character art" aspectRatio="3:4" maxWidth="116px"/>
+    <box flex="1" gap={1}>
+      **Ladino primeiro, Artífice depois**
+
+      Minha recomendação para quem deseja investigar, infiltrar-se, abrir fechaduras e utilizar invenções como suporte. Você começa com quatro perícias de classe, Especialização e Ataque Furtivo. <Cite ref="turn836989view2"/>
+
+      <text color="secondary" size="xs">Prioridade: Destreza, depois Inteligência.</text>
+    </box>
+  </row>
+  <divider color="subtle"/>
+  <row align="start" gap={3}>
+    <AsyncImage query="fantasy human artificer inventor medieval leather apron magical tools arcane glowing gadgets fantasy Dungeons Dragons character art" aspectRatio="3:4" maxWidth="116px"/>
+    <box flex="1" gap={1}>
+      **Artífice primeiro, Ladino depois**
+
+      Minha recomendação para quem deseja que invenções, magia e equipamentos sejam seu principal recurso, com habilidades de ladino para infiltração.
+
+      <text color="secondary" size="xs">Prioridade: Inteligência, depois Destreza.</text>
+    </box>
+  </row>
+</box>
+
+## Distribuição sugerida dos dados
+
+Considerando **Artesão como antecedente mecânico principal**, com +2 no atributo principal e +1 no secundário:
+
+| Atributo | Começar Ladino | Começar Artífice |
+|---|---:|---:|
+| Força | 12 | 12 |
+| Destreza | **20** (18 + 2) | 17 (16 + 1) |
+| Constituição | 15 | 15 |
+| Inteligência | 17 (16 + 1) | **20** (18 + 2) |
+| Sabedoria | 15 | 15 |
+| Carisma | 14 | 14 |
+
+Essas são **propostas**, não valores ainda definidos na ficha. Seus seis resultados originais permanecem os mesmos: 18, 16, 15, 15, 14 e 12.
+
+Você também poderá manter **Alerta** como talento de origem adicional do Humano e receber **Artesão (Crafter)** pelo antecedente principal.
+
+A escolha de multiclasse tem uma consequência importante: habilidades como subclasses, Ataque Extra e aumentos de atributo dependem dos níveis de cada classe. Espalhar demais os níveis desde cedo pode atrasar recursos importantes. <Cite refs={["turn836989view2","turn836989view1","turn836989view3"]}/>
+
+**Minha sugestão é começar como Ladino**, aproveitando as perícias e a Especialização, e desenvolver o Artífice depois. Não vou fechar essa decisão sem você.
+
+**Quer começar no nível 1 como Ladino ou como Artífice?**
+
+**[LOG DE MEMÓRIA DA CAMPANHA]**
+- Localização Atual: Não definida — criação do personagem.
+- NPCs Presentes e Relação: Nenhum.
+- Linha de Missão Ativa: Nenhuma; aventura não iniciada.
+- Eventos Cruciais Ocorridos: Antecedentes narrativos Guarda e Artesão; intenção de multiclasse Ladino/Artífice.
+- Condições do Jogador: Humano, pele clara, 1,80 m; atributos rolados 18, 16, 15, 15, 14 e 12, ainda sem distribuição definitiva.
+
+**GitHub:** commits confirmados; ficha em elaboração, sem associação a campanha narrativa.
