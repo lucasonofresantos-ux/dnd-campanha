@@ -97,3 +97,14 @@ Aguardar escolha de distribuição e regras de origem. Não iniciar campanha aut
 - Humano 2024: característica Versátil permite escolher terceiro talento de origem, além de Crafter e Alerta. Habilidoso = perícia adicional. Recursos da classe Ladino 1 permanecem.
 - Atributos PROVISÓRIOS antes do bônus do Guarda: FOR 12, DES 20, CON 15, INT 17, SAB 15, CAR 14. Soma original dos dados não é alterada. Guardas possíveis, por exemplo: +2 INT +1 SAB => FOR12 DES20 CON15 INT19 SAB16 CAR14; ou +1 FOR +1 INT +1 SAB => FOR13 DES20 CON15 INT18 SAB16 CAR14.
 - Próxima decisão única: distribuição dos +3 do antecedente Guarda. Não fixar sem escolha do jogador. Permanecem pendentes perícias de classe, perícia Humano, especializações, talentos, ferramentas, jogo, equipamento, maestrias, valores derivados.
+
+## CONFIRMAÇÃO DA DISTRIBUIÇÃO DOS BÔNUS DO GUARDA — 2026-11-23
+- Mensagem literal do jogador: "aceito sim"; confirma a sugestão apresentada imediatamente antes: +2 Inteligência e +1 Sabedoria pelo Guarda.
+- Dados originais e distribuição de atributos base: FOR 12, DES 18, CON 15, INT 16, SAB 15, CAR 14.
+- Artesão (homebrew de dois antecedentes completos) aplica +2 DES, +1 INT.
+- Guarda (homebrew de dois antecedentes completos) aplica +2 INT, +1 SAB.
+- ATRIBUTOS DEFINITIVOS APÓS OS DOIS ANTECEDENTES: **FOR 12 (+1), DES 20 (+5), CON 15 (+2), INT 19 (+4), SAB 16 (+3), CAR 14 (+2)**.
+- Estes números substituem, apenas para as etapas posteriores, as referências antigas a INT 17 e SAB 15, que representavam o estágio intermediário antes da aprovação do bônus do Guarda. Rolagens originais permanecem intactas.
+- Nível 1 Ladino (2024), PV máximos 10, proficiência +2. Testes de resistência proficientes: Destreza +7 e Inteligência +6. Iniciativa +7 quando Alerta aplicado (+5 DES +2 proficiência). Percepção passiva 15 (SAB +3, Percepção proficient +2), salvo outros modificadores.
+- Perícias já recebidas dos antecedentes: Investigação, Persuasão, Atletismo e Percepção. Ainda escolher quatro de Ladino dentre Acrobacia, Enganação, Intuição, Intimidação, Prestidigitação e Furtividade, mais uma perícia do Humano (pode ser outra perícia permitida pelas regras de Habilidoso). Manter especializações, ferramentas, terceiro talento de origem, jogo, armas e equipamento pendentes.
+- A campanha narrativa permanece NÃO iniciada; seguir criação etapa a etapa.
