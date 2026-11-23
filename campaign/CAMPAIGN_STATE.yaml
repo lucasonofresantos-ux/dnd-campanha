@@ -46,19 +46,19 @@ campaign_time:
   day: 1
   time_of_day: "fim da manhã, próximo ao meio-dia"
   season: "final do outono"
-  elapsed_game_time: "aproximadamente 35 minutos desde a conversa junto ao curral; cerca de 30 minutos de travessia da mata após os 100 m iniciais"
+  elapsed_game_time: "aproximadamente 37 minutos desde a conversa junto ao curral; cerca de 2 minutos examinando laço na margem; ainda antes do meio-dia"
 location:
   continent: Asterion
   polity: "Terras Livres de Avenhar (homebrew), fora de Valdren"
   area: "entroncamento da Estrada do Cascalho, próximo ao Pouso das Três Fontes"
   nearby: "encostas arborizadas da serra cujo monte mais alto é chamado Veyra"
-  exact_position: "margem de um riacho estreito no interior do bosque, a cerca de meia hora da borda da mata; rastro aparente continua pela outra margem"
+  exact_position: "margem do riacho, junto ao arbusto e à estaca do laço de arame rompido; rastro continua aparentemente pela margem oposta"
   travel_status: "Eron decidiu continuar rastreando ainda durante o fim da manhã; atravessou a mata furtivamente até riacho, sem voltar para o povoado; plano anterior de amanhã não é compromisso vinculante"
 scene:
   id: OPENING-001
-  status: awaiting_player_action_at_creek
+  status: awaiting_player_action_after_spring_snare_discovery
   current_npcs_present: []
-  immediate_visible_situation: "Sobrevivência 25 mantida para rastreio contínuo; Furtividade 18+9=27 e Percepção 12+7=19. Após cerca de 30 minutos em mata, Eron alcançou riacho estreito; vê pegada da mesma pata dianteira irregular, manchas escuras em pedra e um fio metálico retorcido entre juncos na margem; origem das manchas e finalidade do metal não identificadas; rastro aparente continua pela margem oposta rumo a encosta pedregosa; nenhuma criatura à vista."
+  immediate_visible_situation: "Eron examina metal sem recolher ou desarmar nada; Investigação 1d20+6=[20]+6=26. Reconhece laço rudimentar de arame rompido e torcido preso a estaca enterrada junto a arbusto, pelos grossos acinzentados no arame e manchas aparentemente de sangue seco em pedra próxima; deduz que animal provavelmente fugiu ferido. Não sabe quem instalou. Marcas seguem na margem oposta, nenhuma criatura vista. Mantidos Sobrevivência 25, Furtividade 27 e Percepção 19 para a atividade contínua."
   combat: false
   initiative: []
   rounds: 0
@@ -77,8 +77,8 @@ world:
 transcription:
   character_creation_history: sessions/transcripts/SESSION_0001_FULL.md
   narrative_session: sessions/transcripts/SESSION_0002_FULL.md
-  last_saved_player_turn: "Pode rolar furtividade e percepção, como o evento não mudou posso continuar utilizando os mesmos dados para seguir as pegadas"
-  last_saved_dm_turn: "[010] MESTRE — 2026-11-23; mantém Sobrevivência 25, rola Furtividade 18+9=27, Percepção 12+7=19; mata e riacho, transcrição salva"
+  last_saved_player_turn: "Vou examinar o metal pode rolar e vou com a furtividade e percepção que tinha tirado"
+  last_saved_dm_turn: "[012] MESTRE — 2026-11-23; Investigação [20]+6=26, reconhecido laço rompido, transcript confirmado"
 notes:
   - "Primeira resposta de cena será salva literalmente e sem revelar preparativos de dm."
   - "Nunca tratar a aprovação da ficha como XP, nem mudar recursos automaticamente."
