@@ -1411,3 +1411,115 @@ As escolhas de atributos, perícias, Especializações, talentos de origem, Maes
 - Condições do Jogador: Humano, Ladino nível 1; **12 PV**, **CA 16**, **103,88/180 lb** de carga contabilizada; **36 PO e 8 PP**. Continua sem proficiência em Ferramentas de Funileiro.
 
 **GitHub:** commits confirmados para a pré-ficha, o índice e a transcrição literal.
+
+## [051] JOGADOR — 2026-11-23
+
+Confirmado
+
+## [052] MESTRE — 2026-11-23
+
+# Eron River — Ficha consolidada, nível 1
+
+As escolhas mecânicas estão confirmadas. Eron começará como **Ladino de nível 1 (D&D 2024)**, com a possibilidade de adquirir níveis de Artífice futuramente.
+
+A ficha utiliza nossa regra própria que permite **dois antecedentes completos: Artesão e Guarda**.
+
+<box border radius="lg" padding={3} gap={3}>
+  <row align="center" justify="between">
+    <box gap={1}>
+      <title size="lg">Eron River</title>
+      <text color="secondary" size="sm">Humano · Ladino 1 · 25 anos · 1,80 m</text>
+    </box>
+    <badge>Pré-campanha</badge>
+  </row>
+  <grid columns={4} gap={2}>
+    {#each [{name:"PV máximos",value:"12"},{name:"CA",value:"16"},{name:"Iniciativa",value:"+7"},{name:"Deslocamento",value:"9 m"}] as stat}
+      <grid-item>
+        <box background="surface-secondary" radius="md" padding={2} gap={1} align="center">
+          <title size="xl" tabularNums>{stat.value}</title>
+          <text color="secondary" size="3xs" textAlign="center">{stat.name}</text>
+        </box>
+      </grid-item>
+    {/each}
+  </grid>
+</box>
+
+## Atributos
+
+| Atributo | Valor | Modificador | Resistência |
+|---|---:|---:|---:|
+| Força | 12 | +1 | +1 |
+| Destreza | **20** | +5 | **+7** |
+| Constituição | 15 | +2 | +2 |
+| Inteligência | **19** | +4 | **+6** |
+| Sabedoria | 16 | +3 | +3 |
+| Carisma | 14 | +2 | +2 |
+
+**Bônus de proficiência:** +2. As resistências proficientes do Ladino são Destreza e Inteligência.
+
+## Perícias e Especializações
+
+| Perícia | Bônus |
+|---|---:|
+| Furtividade — Especialização | **+9** |
+| Percepção — Especialização | **+7** |
+| Prestidigitação | +7 |
+| Investigação | +6 |
+| Intuição | +5 |
+| Sobrevivência | +5 |
+| Enganação | +4 |
+| Persuasão | +4 |
+| Atletismo | +3 |
+
+**Percepção passiva: 17.** As nove perícias e as duas Especializações estão confirmadas.
+
+## Ataques e recursos de Ladino
+
+| Arma | Ataque | Dano | Maestria |
+|---|---:|---|---|
+| Espada curta | +7 | 1d6+5 perfurante | Vex |
+| Adaga | +7 | 1d4+5 perfurante | Nick |
+| Arco curto | +7 | 1d6+5 perfurante | Não selecionada |
+
+Com duas armas leves, **Nick** permite fazer o ataque adicional durante a ação Atacar; esse ataque normalmente causa **1d4 de dano**, sem acrescentar o modificador positivo de Destreza. O **Ataque Furtivo** acrescenta **1d6 uma vez por turno**, quando suas condições são satisfeitas. <Cite refs={["turn531900view0","turn516071view1","turn531900view5"]}/>
+
+Eron possui **1d8 como dado de vida**. Ainda não tem Ação Ardilosa (nível 2), subclasse de Ladino (nível 3) nem habilidades de Artífice.
+
+## Talentos, idiomas e ferramentas
+
+Os três talentos de origem estão confirmados: **Artesão (Crafter)**, **Alerta (Alert)** e **Vigoroso (Tough)**. Pela característica humana **Engenhoso**, Eron ganha Inspiração Heroica ao terminar um Descanso Longo. <Cite ref="turn531900view1"/>
+
+Seus idiomas são **Comum, Goblin, Anão e Élfico**, além da **Gíria de Ladrão**.
+
+Eron tem proficiência com Ferramentas de Ladrão, Ferreiro, Coureiro, Entalhador e Pedreiro, além do Baralho de Cartas. Ele **possui Ferramentas de Funileiro, mas ainda não tem proficiência**.
+
+## Patrimônio e transporte
+
+O inventário consolida os pacotes **A do Ladino, A do Artesão e B do Guarda**, mais todas as compras confirmadas. Contém armadura de couro, espada curta de Gruner, duas adagas, arco curto e 20 flechas, ferramentas, baralho, bolsas, roupas de viajante e o pacote de assaltante completo.
+
+| Controle | Valor |
+|---|---:|
+| Ouro inicial somado | 90 PO |
+| Compras com desconto | 53 PO e 2 PP |
+| **Dinheiro restante** | **36 PO e 8 PP** |
+| Peso contabilizado | **103,88 lb (47,1 kg)** |
+| Limite de carga | **180 lb (81,6 kg)** |
+
+Eron levará **todo o inventário**, conforme sua decisão. O conteúdo e os pesos de cada conjunto estão discriminados na ficha do GitHub.
+
+## Registro da ficha
+
+<Link url="https://github.com/lucasonofresantos-ux/dnd-campanha/blob/main/character/ERON_RIVER_LEVEL_01.md" title="Abrir ficha consolidada de Eron River no GitHub">Ficha consolidada — Eron River, Ladino nível 1</Link>
+
+A ficha mecânica foi consolidada. **Falta apenas sua aprovação da revisão final** e, se desejar, a definição de aspectos opcionais como alinhamento e traços de personalidade. Nenhuma aventura foi iniciada.
+
+**Você aprova esta ficha como a versão definitiva de Eron no nível 1?**
+
+**[LOG DE MEMÓRIA DA CAMPANHA]**
+- Localização Atual: Indefinida — preparação pré-campanha.
+- NPCs Presentes e Relação: Nenhum em cena.
+- Linha de Missão Ativa: Nenhuma; campanha não iniciada.
+- Eventos Cruciais Ocorridos: Atributos, nove perícias, duas Especializações, três talentos, Maestrias, equipamentos e carga consolidados em ficha única.
+- Condições do Jogador: Eron River, Humano Ladino 1, **12 PV**, **CA 16**, iniciativa **+7**, Percepção passiva **17**; **36 PO e 8 PP**; carga **103,88/180 lb**. Funileiro físico sem proficiência.
+
+**GitHub:** ficha consolidada criada e commits de pré-ficha, índice e transcrição confirmados.
