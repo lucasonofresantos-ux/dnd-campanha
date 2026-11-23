@@ -1176,3 +1176,58 @@ Observe que a opção B do Guarda não inclui um baralho físico. Eron já possu
 - Condições do Jogador: Eron River, Humano, Ladino 1, 12 PV máximos, CA 16; FOR 12, DES 20, CON 15, INT 19, SAB 16, CAR 14; **90 PO antes de compras**.
 
 **GitHub:** commits confirmados para ficha, índice e transcrição pré-campanha.
+
+## [043] JOGADOR — 2026-11-23
+
+Vou pegar elas e a de funileiro se o dinheiro der
+
+## [044] MESTRE — 2026-11-23
+
+**Sim, o dinheiro é suficiente para comprar as quatro ferramentas!** Eron River pode adquirir Coureiro, Entalhador, Pedreiro e Funileiro, aproveitando o desconto de 20% do talento Artesão (*Crafter*).
+
+## Compra confirmada — Equipamentos de Eron
+
+| Ferramentas | Preço normal | Valor pago |
+|---|---:|---:|
+| Coureiro | 5 PO | 4 PO |
+| Entalhador | 1 PO | 8 PP |
+| Pedreiro | 10 PO | 8 PO |
+| Funileiro | 50 PO | 40 PO |
+| **Total** | **66 PO** | **52 PO e 8 PP** |
+
+Os preços são os da tabela de equipamentos do D&D 2024 e o desconto segue o talento Crafter. <Cite refs={["turn600409search0","turn600409search15"]}/>
+
+<box border radius="lg" padding={3} gap={2}>
+  <grid columns={2} gap={3}>
+    <grid-item>
+      <text color="secondary" weight="medium" size="xs">Saldo anterior</text>
+      <title size="xl" tabularNums>90 PO</title>
+    </grid-item>
+    <grid-item>
+      <text color="secondary" weight="medium" size="xs">Saldo restante</text>
+      <title size="xl" color="success" tabularNums>37 PO e 2 PP</title>
+    </grid-item>
+  </grid>
+  <text size="sm" color="secondary">Total gasto: 52 PO e 8 PP.</text>
+</box>
+
+Agora Eron possui fisicamente cinco conjuntos de ferramentas de artesão: Ferreiro, Coureiro, Entalhador, Pedreiro e Funileiro. As Ferramentas de Ladrão também continuam no inventário.
+
+**Uma distinção importante:** Eron possui o conjunto de Funileiro, mas ainda não tem proficiência para utilizá-lo. Essa proficiência poderá ser adquirida quando ingressar na classe Artífice, conforme a progressão aprovada.
+
+## Próxima escolha — baralho de cartas
+
+Eron já tem proficiência com **Baralho de Cartas**, mas não recebeu um baralho físico, pois escolheu a opção B de equipamento do Guarda.
+
+O baralho custa **5 PP** na tabela de 2024; com o desconto de Crafter, sairia por **4 PP**. <Cite ref="turn337035search1"/>
+
+**Você quer comprar também o baralho por 4 PP?** Se comprar, o saldo cairá de 37 PO e 2 PP para **36 PO e 8 PP**. Caso contrário, manteremos o saldo atual e seguiremos para a conferência final da ficha.
+
+**[LOG DE MEMÓRIA DA CAMPANHA]**
+- Localização Atual: Não definida — criação do personagem.
+- NPCs Presentes e Relação: Nenhum em cena.
+- Linha de Missão Ativa: Nenhuma; aventura ainda não iniciada.
+- Eventos Cruciais Ocorridos: Compra confirmada de Coureiro, Entalhador, Pedreiro e Funileiro, com desconto de 20%.
+- Condições do Jogador: Eron River, Humano, Ladino 1, 12 PV máximos, CA 16; FOR 12, DES 20, CON 15, INT 19, SAB 16, CAR 14; **37 PO e 2 PP**; proficiente em quatro ferramentas de artesão e com o quinto conjunto físico de Funileiro reservado para futura multiclasse.
+
+**GitHub:** commits confirmados para inventário, índice e transcrição pré-campanha.
