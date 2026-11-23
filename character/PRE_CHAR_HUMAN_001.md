@@ -48,3 +48,12 @@ Aguardar escolha de distribuição e regras de origem. Não iniciar campanha aut
 - Mecânica proposta: Artesão — Crafter, Investigação, Persuasão, uma ferramenta de artesão e aumento de atributos entre Força, Destreza, Inteligência conforme o PHB 2024; Humano — Alerta pela característica Versátil, Percepção pela característica Habilidoso (sugestão).
 - Alternativa ainda possível: Guarda como antecedente mecânico (Alerta, Atletismo e Percepção, jogos; aumentos em Força, Inteligência e Sabedoria), e Crafter pelo humano Versátil; ambas as alternativas evitam duplicação de pacotes.
 - A profissão específica de artesão, distribuição dos seis atributos, classe e idiomas continuam pendentes.
+
+## Multiclasse considerada — 2026-11-23
+- O jogador manifestou preferência ainda tentativamente: "acho que vou jogar com uma classe mista ladino e artifice".
+- Combinação proposta: Ladino (PHB 2024 / SRD 5.2.1) + Artífice (Eberron: Forge of the Artificer, edição revisada 2025). Usar Artífice 2025 dependerá de aceitação dessa fonte oficial na campanha.
+- Pré-requisitos: Destreza >= 13 e Inteligência >= 13.
+- Progressão mecânica: no nível 1 há somente uma classe; ganhar níveis de outra classe nas progressões posteriores. Nível total = soma dos níveis nas duas classes.
+- Se Artesão for confirmado como antecedente mecânico (ainda pendente), proposta de atributos brutos: FOR 12, DES 18, CON 15, INT 16, SAB 15, CAR 14 (foco Ladino); alternativa FOR 12, DES 16, CON 15, INT 18, SAB 15, CAR 14 (foco Artífice). Possíveis aumentos do antecedente Artesão, +2 DES/+1 INT no primeiro, +2 INT/+1 DES no segundo; nenhuma opção final confirmada.
+- Conselho de evolução: especializações de ambas classes normalmente no nível 3 da classe respectiva, não do personagem; equilibrar o atraso em habilidades poderosas ao multiclassar.
+- Status: proposta de multiclasse, NÃO confirmação irrevogável de classe inicial, progressão, subclassificação nem atributos.
