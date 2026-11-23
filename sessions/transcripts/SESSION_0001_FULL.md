@@ -808,3 +808,46 @@ Esses benefícios seguem os talentos de origem de 2024. <Cite refs={["turn395025
 - Condições do Jogador: Humano, Ladino 1, 10 PV; FOR 12, DES 20, CON 15, INT 19, SAB 16, CAR 14; Furtividade +9, Percepção +7, Percepção Passiva 17. Terceiro talento de origem e outros equipamentos pendentes.
 
 **GitHub:** commits confirmados para ficha, índice e transcrição da pré-campanha.
+
+## [027] JOGADOR — 2026-11-23
+
+Vigoroso
+
+## [028] MESTRE — 2026-11-23
+
+**Vigoroso (Tough) confirmado!** Esse será o terceiro talento de origem de Eron River, concedido pela característica Versátil do Humano.
+
+## Pontos de Vida atualizados
+
+<box border radius="lg" padding={3} gap={2} align="center">
+  <text color="secondary" weight="medium" size="xs">PV MÁXIMOS — LADINO NÍVEL 1</text>
+  <title size="2xl" color="success" tabularNums>12 PV</title>
+  <text color="secondary" size="sm">8 (Ladino) + 2 (Constituição) + 2 (Vigoroso)</text>
+</box>
+
+O talento **Vigoroso** aumenta seus PV máximos em 2 por nível de personagem. Portanto, continuará funcionando quando Eron adquirir níveis de Artífice.
+
+Seus três talentos de origem agora estão definidos:
+
+| Origem | Talento |
+|---|---|
+| Artesão | Crafter — ferramentas, fabricação rápida e desconto de 20% |
+| Guarda | Alerta — melhora a iniciativa e permite troca de iniciativa |
+| Humano | Vigoroso — +2 PV por nível |
+
+## Próxima escolha — ferramentas de artesão
+
+Pelo antecedente **Artesão**, você escolhe proficiência em **um tipo de ferramenta de artesão**. Depois escolheremos as outras três proficiências concedidas pelo talento Crafter, sem repetições.
+
+Como Eron aprendeu a trabalhar na forja de Gruner Barba de Cobre, minha recomendação é **ferramentas de ferreiro**. Elas combinam com sua história e com a futura formação de Artífice.
+
+**Você quer escolher ferramentas de ferreiro como a primeira proficiência?**
+
+**[LOG DE MEMÓRIA DA CAMPANHA]**
+- Localização Atual: Não definida — personagem em criação.
+- NPCs Presentes e Relação: Nenhum em cena.
+- Linha de Missão Ativa: Nenhuma; campanha ainda não iniciada.
+- Eventos Cruciais Ocorridos: Vigoroso escolhido como terceiro talento de origem. Três talentos de origem definidos: Crafter, Alerta e Vigoroso.
+- Condições do Jogador: Eron River, humano, Ladino 1, **12 PV máximos**; FOR 12, DES 20, CON 15, INT 19, SAB 16, CAR 14; Especializações em Furtividade e Percepção. Ferramentas, maestrias e equipamentos ainda pendentes.
+
+**GitHub:** commits confirmados para ficha, índice, regras consolidadas e transcrição pré-campanha.
