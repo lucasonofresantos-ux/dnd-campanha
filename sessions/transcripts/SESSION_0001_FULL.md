@@ -1125,3 +1125,54 @@ Como você já escolheu o baralho de cartas como proficiência, a opção A tamb
 - Condições do Jogador: Eron River, Humano, Ladino 1, 12 PV máximos, CA 16, **40 PO**; equipamentos do Guarda ainda pendentes.
 
 **GitHub:** commits confirmados para ficha, índice e transcrição pré-campanha.
+
+## [041] JOGADOR — 2026-11-23
+
+B
+E posso já comprar as outras ferramentas que tenho talento ou proficiência?
+
+## [042] MESTRE — 2026-11-23
+
+**Sim!** Eron pode comprar agora os conjuntos físicos das ferramentas em que já possui proficiência. E, como possui o talento **Artesão (Crafter)**, recebe **20% de desconto na compra de itens não mágicos**. <Cite ref="turn948074search7"/>
+
+A opção **B do antecedente Guarda** também está confirmada: você recebe mais **50 PO**, chegando ao total de **90 PO** antes das compras.
+
+## Compra das três ferramentas
+
+| Ferramentas | Preço normal | Com 20% de desconto |
+|---|---:|---:|
+| Coureiro | 5 PO | 4 PO |
+| Entalhador | 1 PO | 8 PP |
+| Pedreiro | 10 PO | 8 PO |
+| **Total** | **16 PO** | **12 PO e 8 PP** |
+
+Preços conforme a tabela oficial de equipamentos de D&D 2024. <Cite ref="turn948074search0"/>
+
+<box border radius="lg" padding={3} gap={2}>
+  <grid columns={2} gap={3}>
+    <grid-item>
+      <text color="secondary" size="xs" weight="medium">Saldo atual</text>
+      <title size="xl" tabularNums>90 PO</title>
+    </grid-item>
+    <grid-item>
+      <text color="secondary" size="xs" weight="medium">Saldo após a compra</text>
+      <title size="xl" color="success" tabularNums>77 PO e 2 PP</title>
+    </grid-item>
+  </grid>
+  <caption>Compra proposta: três conjuntos de ferramentas com desconto, ainda não debitada do inventário.</caption>
+</box>
+
+As Ferramentas de Ferreiro e de Ladrão já estão incluídas nos equipamentos iniciais escolhidos. Não precisamos comprá-las novamente.
+
+**Você confirma a compra dos três conjuntos — Coureiro, Entalhador e Pedreiro — por 12 PO e 8 PP?** Assim que confirmar, atualizarei o inventário para 77 PO e 2 PP.
+
+Observe que a opção B do Guarda não inclui um baralho físico. Eron já possui proficiência com cartas, mas ainda não tem esse conjunto no inventário; poderemos comprá-lo separadamente.
+
+**[LOG DE MEMÓRIA DA CAMPANHA]**
+- Localização Atual: Não definida; criação do personagem.
+- NPCs Presentes e Relação: Nenhum em cena.
+- Linha de Missão Ativa: Nenhuma; campanha ainda não iniciada.
+- Eventos Cruciais Ocorridos: Pacote B do Guarda confirmado; ferramentas adicionais com preço e desconto calculados, compra pendente.
+- Condições do Jogador: Eron River, Humano, Ladino 1, 12 PV máximos, CA 16; FOR 12, DES 20, CON 15, INT 19, SAB 16, CAR 14; **90 PO antes de compras**.
+
+**GitHub:** commits confirmados para ficha, índice e transcrição pré-campanha.
