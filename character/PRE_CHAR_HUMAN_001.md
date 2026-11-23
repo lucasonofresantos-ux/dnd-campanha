@@ -166,3 +166,12 @@ Aguardar escolha de distribuição e regras de origem. Não iniciar campanha aut
 - A proficiência NÃO equivale automaticamente à posse do objeto; o baralho físico será conferido quando o jogador escolher pacote A de Guarda ou outro meio legítimo de obtê-lo. Nenhuma posse foi concedida por este ato.
 - Proficiências de ferramentas artesanais já confirmadas: Ferreiro (antecedente Artesão), Coureiro, Entalhador e Pedreiro (Crafter).
 - Próxima escolha: duas armas elegíveis para Maestria de Ladino 1. Exemplos apresentados: Espada curta (Vex), Adaga (Nick), Arco curto (Vex). Nenhuma Maestria ainda escolhida.
+
+## Maestrias em Armas confirmadas — 2026-11-23
+- Mensagem literal do jogador: "Espada curta e adaga".
+- Ladino de nível 1 (2024): as duas Maestrias em Armas escolhidas são **Espada curta (Shortsword), propriedade Vex**, e **Adaga (Dagger), propriedade Nick**.
+- Com Destreza 20 (+5), proficiência +2: ataques com ambas as armas +7. Espada curta 1d6+5 perfurante, adaga ataque principal 1d4+5 perfurante. Ataque adicional pelo Nick/Leve não recebe modificador de atributo positivo ao dano (1d4), salvo outra característica que o permita.
+- Vex: acertar e causar dano permite vantagem na próxima jogada de ataque contra o mesmo alvo antes do fim do próximo turno. Nick: ataque adicional da propriedade Leve incluído na ação Atacar sem consumir a ação bônus; ainda exige o cumprimento das regras de duas armas Leves.
+- Ataque Furtivo do Ladino 1: +1d6 uma vez por turno com arma Elegante ou à Distância, satisfeitas as condições; não é automático em todo golpe.
+- Próxima decisão: pacote inicial de classe Ladino 2024. Opção A: Armadura de Couro, duas Adagas, Espada curta, Arco curto, 20 Flechas, Aljava, Ferramentas de Ladrão, Pacote de Assaltante, 8 PO. Opção B: 100 PO. Ainda NÃO escolhido. A espada curta de Gruner pode ser a espada curta do equipamento inicial, sem duplicação. Depois pacote Artesão e Guarda completos, escolhas A/B separadas.
+- Fontes verificadas 2026-11-23: D&D Beyond Basic Rules (2024), Character Classes — Rogue; D&D Beyond Your Guide to Weapon Mastery in the 2024 Player's Handbook.
