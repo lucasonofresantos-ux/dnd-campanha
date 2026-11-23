@@ -133,3 +133,12 @@ Aguardar escolha de distribuição e regras de origem. Não iniciar campanha aut
 - **Percepção Passiva 17** = 10 + 7, salvo outras condições.
 - Outras sete perícias continuam com bônus de proficiência simples, até mudanças futuras.
 - Próxima etapa: escolher terceiro talento de origem concedido por Humano Versátil; Crafter e Alerta continuam assegurados pelos antecedentes completos. Opções apresentadas como sugestões: Lucky, Skilled, Tough e Magic Initiate (Wizard). Nenhuma terceira escolha foi feita ainda.
+
+## Talento de origem do Humano confirmado — 2026-11-23
+- Mensagem literal do jogador: "Vigoroso".
+- Escolha: talento de origem **Vigoroso (Tough)** pela característica **Versátil** da espécie Humano 2024.
+- Benefício: PV máximos +2 por nível total de personagem, incluindo níveis futuros em Artífice ao multiclassar.
+- PV máximos no Ladino 1: 8 (dado de vida máximo) +2 (modificador Constituição) +2 (Vigoroso) = **12 PV**.
+- Três talentos de origem DEFINIDOS: **Artesão (Crafter)** do antecedente Artesão, **Alerta (Alert)** do antecedente Guarda, **Vigoroso (Tough)** da espécie Humano.
+- Próxima escolha: uma proficiência com ferramentas de artesão pelo antecedente Artesão, recomendadas ferramentas de ferreiro pela história com Gruner Barba de Cobre; depois outras três diferentes pelo Crafter.
+- Não confundir 12 PV máximos com PV atuais caso o jogo inicie com alguma condição especial. Nenhuma aventura iniciada e nenhum dano registrado.
