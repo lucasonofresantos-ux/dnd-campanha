@@ -9,4 +9,5 @@
 **Situação:** ao começo da sessão, Mara Telha e Iria Vento-Seco conversam à frente de curral danificado, com rastros na lama; Mara oferece 12 PO pelo fim de ataques ao rebanho. Nenhum contrato aceito pelo personagem e nenhuma decisão atribuída a ele.
 **Transcrição literal:** `transcripts/SESSION_0002_FULL.md`.
 **Segredos e complicações:** arquivos privados em `dm/`; não copiar a este arquivo nem à mensagem pública.
-**Turno 1:** Eron se aproxima de Mara e pergunta o que está acontecendo. Mara e Iria relatam perdas de cabras e vestígios, sem conclusões sobre quantidade de predadores. Iria pergunta se Eron sabe rastrear. Aguardando resposta livre do jogador. Sem testes, XP ou missão aceita.
+**Turno 1:** Eron se aproxima de Mara e pergunta o que está acontecendo. Mara e Iria relatam perdas de cabras e vestígios.
+**Turno 2:** Eron declara que pode rastrear, mas pretende partir pouco antes do amanhecer. Mara abriga cabras no galpão à noite e Iria alerta que haverá escuridão e chuva possivelmente apagará rastros; sugere observar curral e informa local da estalagem. O dia permanece no fim da manhã; aguardando decisão do jogador sobre o que fazer nesse intervalo. Sem teste, XP, avanço de tempo, descanso ou gasto.
