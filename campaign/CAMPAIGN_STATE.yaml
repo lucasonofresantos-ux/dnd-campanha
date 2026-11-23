@@ -46,19 +46,19 @@ campaign_time:
   day: 1
   time_of_day: "perto do meio-dia"
   season: "final do outono"
-  elapsed_game_time: "aproximadamente 57 minutos desde a conversa junto ao curral; cerca de 20 minutos desde o exame do laço; perto do meio-dia"
+  elapsed_game_time: "aproximadamente 59 minutos desde a conversa junto ao curral; cerca de 2 minutos desde o ponto inicial da ravina; perto do meio-dia"
 location:
   continent: Asterion
   polity: "Terras Livres de Avenhar (homebrew), fora de Valdren"
   area: "entroncamento da Estrada do Cascalho, próximo ao Pouso das Três Fontes"
   nearby: "encostas arborizadas da serra cujo monte mais alto é chamado Veyra"
-  exact_position: "ravina rochosa no bosque, cerca de 20 minutos além do riacho; 15 metros da abertura baixa entre rochas"
-  travel_status: "Eron cruzou riacho por pedras rasas e seguiu o rastro cerca de 20 minutos morro acima até a ravina; permanece sob vegetação, sem avançar até a abertura"
+  exact_position: "ravina rochosa, atrás de saliência de pedra a aproximadamente 2 metros da entrada de toca entre rochas; Eron não entrou"
+  travel_status: "Eron avançou furtivamente por aproximadamente 13 metros na ravina até ficar a 2 metros da abertura; permanece coberto pela saliência, sem entrar nem se revelar"
 scene:
   id: OPENING-001
-  status: awaiting_player_action_at_ravine
+  status: awaiting_player_action_at_wolf_den
   current_npcs_present: []
-  immediate_visible_situation: "Novos testes solicitados: Percepção 1d20+7=[8]+7=15; Furtividade 1d20+9=[13]+9=22; Sobrevivência 1d20+5=[12]+5=17; substituem anteriores neste trecho. Eron cruza riacho por pedras rasas, acompanha rastros de pata dianteira irregular por cerca de 20 minutos até ravina rochosa. A ~15 m há abertura baixa entre blocos de pedra parcialmente coberta de raízes; rastros apontam a ela. Eron ouve som rouco curto, sem identificar a fonte. Não vê criaturas; até onde percebe não foi notado. Permanece protegido pela vegetação, sem avançar à abertura."
+  immediate_visible_situation: "Eron pediu Furtividade e Percepção para aproximar até a abertura: Furtividade 1d20+9=[18]+9=27; Percepção 1d20+7=[13]+7=20. Deslocou-se de 15 m para 2 m da entrada, protegido por saliência rochosa e sem entrar. Distinguiu no interior uma loba cinzenta deitada com uma pata dianteira recolhida, lambendo região próxima ao tornozelo, e dois filhotes pequenos junto ao ventre. Loba levantou ligeiramente cabeça e movimentou orelhas por som da ravina, mas não se levantou e, até onde Eron percebe, não o notou. Combate não iniciado."
   combat: false
   initiative: []
   rounds: 0
@@ -77,8 +77,8 @@ world:
 transcription:
   character_creation_history: sessions/transcripts/SESSION_0001_FULL.md
   narrative_session: sessions/transcripts/SESSION_0002_FULL.md
-  last_saved_player_turn: "Vou seguir pode rolar percepção furtividade e sobrevivência para continuar no rastro"
-  last_saved_dm_turn: "[014] MESTRE — 2026-11-23; Percepção 15, Furtividade 22, Sobrevivência 17; Eron alcança ravina e ouve som, transcrição salva"
+  last_saved_player_turn: "Pode rolar furtividade e percepção até a abertura"
+  last_saved_dm_turn: "[016] MESTRE — 2026-11-23; Furtividade 27, Percepção 20, loba e dois filhotes observados de fora, transcrição salva"
 notes:
   - "Primeira resposta de cena será salva literalmente e sem revelar preparativos de dm."
   - "Nunca tratar a aprovação da ficha como XP, nem mudar recursos automaticamente."
