@@ -41,3 +41,10 @@ Aguardar escolha de distribuição e regras de origem. Não iniciar campanha aut
 - Guarda (PHB 2024) possui Alerta como talento de origem; o jogador ainda não confirmou Guarda como antecedente principal.
 - Comum + dois idiomas-padrão de escolha normal de criação de personagem, independentes do antecedente.
 - Antecedentes específicos e segundo talento de origem ainda indefinidos; criação não concluída.
+
+## Escolha de conceito confirmada — 2026-11-23
+- Jogador escolheu **Guarda e Artesão** como dois antecedentes narrativos na história do mesmo humano; esta escolha de experiências está confirmada.
+- O Mestre recomendou Artesão como *pacote mecânico principal* e Guarda como experiência narrativa, com **Alerta** obtido pelo talento de origem adicional da espécie Humano. Esta atribuição mecânica **aguarda confirmação do jogador**.
+- Mecânica proposta: Artesão — Crafter, Investigação, Persuasão, uma ferramenta de artesão e aumento de atributos entre Força, Destreza, Inteligência conforme o PHB 2024; Humano — Alerta pela característica Versátil, Percepção pela característica Habilidoso (sugestão).
+- Alternativa ainda possível: Guarda como antecedente mecânico (Alerta, Atletismo e Percepção, jogos; aumentos em Força, Inteligência e Sabedoria), e Crafter pelo humano Versátil; ambas as alternativas evitam duplicação de pacotes.
+- A profissão específica de artesão, distribuição dos seis atributos, classe e idiomas continuam pendentes.
