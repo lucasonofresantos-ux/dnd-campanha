@@ -243,3 +243,44 @@ Do outro lado do riacho, as marcas continuam em direção à encosta. Eron ainda
 - Condições do Jogador: Ladino 1, **12/12 PV**, **CA 16**, **0/300 XP**, **36 PO e 8 PP**. Sem condições ou recursos gastos. Furtividade 27, Percepção 19 e Sobrevivência 25 mantidas para esta exploração.
 
 **GitHub:** rolagem, cronologia, estado e transcrição registrados com commits confirmados.
+
+## [013] JOGADOR — 2026-11-23
+
+Vou seguir pode rolar percepção furtividade e sobrevivência para continuar no rastro
+
+## [014] MESTRE — 2026-11-23
+
+## Testes de Eron River — Continuação do rastreamento
+
+<box border radius="lg" padding={3} gap={3}>
+  <grid columns={3} gap={2}>
+    {#each [{name:"Percepção",die:8,mod:7,total:15},{name:"Furtividade",die:13,mod:9,total:22},{name:"Sobrevivência",die:12,mod:5,total:17}] as r}
+      <grid-item>
+        <box gap={1} align="center">
+          <text color="secondary" weight="medium" size="xs">{r.name}</text>
+          <title size="2xl" tabularNums>{r.total}</title>
+          <caption>D20 [{r.die}] +{r.mod}</caption>
+        </box>
+      </grid-item>
+    {/each}
+  </grid>
+  <divider color="subtle"/>
+  <text size="sm">As três rolagens foram executadas com o rolador Python da campanha. Sobrevivência 17 permite continuar seguindo os vestígios; Furtividade 22 mantém uma aproximação discreta, enquanto Percepção 15 determina os detalhes notados neste trecho.</text>
+</box>
+
+Eron atravessa o riacho por pedras rasas, evitando pisar nos galhos que a corrente depositou nas margens. Do outro lado, as pegadas quase desaparecem sobre um trecho de terra compacta. Algumas folhas deslocadas e, mais adiante, outra impressão irregular da pata dianteira permitem recuperar o caminho.
+
+Após cerca de vinte minutos subindo pela mata, o terreno se estreita numa **ravina de pedra úmida**. Entre dois grandes blocos de rocha, a uns quinze metros de onde Eron está, há uma abertura baixa parcialmente encoberta por raízes. As marcas seguem naquela direção. Um som rouco e breve chega até ele, quase perdido sob o ruído da água que escorre entre as pedras. Pode ser a respiração de algum animal, mas ainda não é possível identificar sua origem com certeza.
+
+Eron não avista nenhuma criatura. Até onde consegue perceber, **sua aproximação não foi notada**. Ele está abrigado pela vegetação, com espaço para observar, recuar ou prosseguir.
+
+**O que Eron faz?**
+
+**[LOG DE MEMÓRIA DA CAMPANHA]**
+- Localização Atual: Ravina rochosa no bosque, cerca de vinte minutos além do riacho; Eron está a aproximadamente 15 metros de uma abertura entre pedras.
+- NPCs Presentes e Relação: Nenhum à vista.
+- Linha de Missão Ativa: Investigação dos ataques ao rebanho de Mara; recompensa de 12 PO proposta, ainda não recebida.
+- Eventos Cruciais Ocorridos: Percepção **[8] +7 = 15**; Furtividade **[13] +9 = 22**; Sobrevivência **[12] +5 = 17**. Eron cruzou o riacho, manteve o rastro e ouviu um som rouco próximo de uma abertura rochosa.
+- Condições do Jogador: Ladino 1, **12/12 PV**, **CA 16**, **0/300 XP**, **36 PO e 8 PP**. Nenhuma condição ou recurso gasto; nenhuma criatura identificada.
+
+**GitHub:** rolagens, estado, cronologia e transcrição registrados; commits confirmados.
