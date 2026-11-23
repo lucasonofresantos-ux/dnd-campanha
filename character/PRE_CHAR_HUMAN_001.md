@@ -88,3 +88,12 @@ Aguardar escolha de distribuição e regras de origem. Não iniciar campanha aut
 - Ataque Furtivo: 1d6 (cumprindo condições).
 - Próximo passo: escolher quatro perícias da classe, além de Investigação e Persuasão concedidas por Artesão e uma perícia de Humano por Habilidoso. Lista válida 2024: Acrobacia, Atletismo, Enganação, Intuição, Intimidação, Investigação, Percepção, Persuasão, Prestidigitação, Furtividade; eliminar duas já concedidas pelo antecedente para evitar redundâncias.
 - Escolhas ainda não concluídas: quatro perícias classe, perícia humano, duas especializações, ferramentas, maestrias em arma, equipamento e demais derivados. Não iniciar campanha.
+
+## ALTERAÇÃO EXPRESSA: DOIS ANTECEDENTES MECÂNICOS — 2026-11-23
+- Jogador determinou: "vamos começar com os dois antecedentes por inteiro, sem ser narrativo, artesão e guarda".
+- O Mestre APROVOU homebrew específica para Eron: **Artesão + Guarda**, ambos integralmente mecânicos. Esta decisão substitui a proposta antiga de Guarda apenas narrativo, sem apagar o histórico. Registrada em `rules/HOUSE_RULES.md`.
+- Artesão (PHB 2024): aumentos já confirmados +2 DES, +1 INT; perícias Investigação e Persuasão; talento Crafter; uma ferramenta de artesão à escolha; pacote A (ferramenta escolhida, duas bolsas, roupas de viajante, 32 PO) OU B (50 PO).
+- Guarda (PHB 2024): bônus ainda a distribuir +2/+1 ou +1/+1/+1 entre FOR, INT, SAB; perícias Atletismo e Percepção; talento Alerta; um conjunto de jogo à escolha; pacote A (lança, besta leve, 20 virotes, conjunto de jogo escolhido, lanterna coberta, algemas, aljava, roupa de viajante, 12 PO) OU B (50 PO).
+- Humano 2024: característica Versátil permite escolher terceiro talento de origem, além de Crafter e Alerta. Habilidoso = perícia adicional. Recursos da classe Ladino 1 permanecem.
+- Atributos PROVISÓRIOS antes do bônus do Guarda: FOR 12, DES 20, CON 15, INT 17, SAB 15, CAR 14. Soma original dos dados não é alterada. Guardas possíveis, por exemplo: +2 INT +1 SAB => FOR12 DES20 CON15 INT19 SAB16 CAR14; ou +1 FOR +1 INT +1 SAB => FOR13 DES20 CON15 INT18 SAB16 CAR14.
+- Próxima decisão única: distribuição dos +3 do antecedente Guarda. Não fixar sem escolha do jogador. Permanecem pendentes perícias de classe, perícia Humano, especializações, talentos, ferramentas, jogo, equipamento, maestrias, valores derivados.
