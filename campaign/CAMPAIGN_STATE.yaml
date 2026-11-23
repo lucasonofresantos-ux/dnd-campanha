@@ -44,21 +44,21 @@ character:
 campaign_time:
   calendar_system: "Asterion, dias relativos; nenhuma era/ano formal estabelecido"
   day: 1
-  time_of_day: "fim da manhã"
+  time_of_day: "fim da manhã, próximo ao meio-dia"
   season: "final do outono"
-  elapsed_game_time: "aproximadamente cinco minutos desde a conversa junto ao curral; ainda fim da manhã"
+  elapsed_game_time: "aproximadamente 35 minutos desde a conversa junto ao curral; cerca de 30 minutos de travessia da mata após os 100 m iniciais"
 location:
   continent: Asterion
   polity: "Terras Livres de Avenhar (homebrew), fora de Valdren"
   area: "entroncamento da Estrada do Cascalho, próximo ao Pouso das Três Fontes"
   nearby: "encostas arborizadas da serra cujo monte mais alto é chamado Veyra"
-  exact_position: "borda do bosque, aproximadamente 100 m do curral de Mara, seguindo o rastro"
-  travel_status: "Eron adiantou uma breve inspeção de rastros ainda no fim da manhã, caminhando cerca de 100 m; plano anterior de caçada ao amanhecer não foi anulado"
+  exact_position: "margem de um riacho estreito no interior do bosque, a cerca de meia hora da borda da mata; rastro aparente continua pela outra margem"
+  travel_status: "Eron decidiu continuar rastreando ainda durante o fim da manhã; atravessou a mata furtivamente até riacho, sem voltar para o povoado; plano anterior de amanhã não é compromisso vinculante"
 scene:
   id: OPENING-001
-  status: awaiting_player_next_action_at_woodline
+  status: awaiting_player_action_at_creek
   current_npcs_present: []
-  immediate_visible_situation: "Eron acompanhou o rastro por cerca de 100 metros até a orla do bosque, após sucesso excepcional em Sobrevivência +5 (d20 20, total 25). Observa marcas mais rasas/irregulares de uma pata dianteira, sugerindo que o canídeo a poupa; pegadas nítidas de um animal, não exclui outros. Rastro entra por passagem estreita entre samambaias/raízes. Não avistou criatura nem prosseguiu mata adentro."
+  immediate_visible_situation: "Sobrevivência 25 mantida para rastreio contínuo; Furtividade 18+9=27 e Percepção 12+7=19. Após cerca de 30 minutos em mata, Eron alcançou riacho estreito; vê pegada da mesma pata dianteira irregular, manchas escuras em pedra e um fio metálico retorcido entre juncos na margem; origem das manchas e finalidade do metal não identificadas; rastro aparente continua pela margem oposta rumo a encosta pedregosa; nenhuma criatura à vista."
   combat: false
   initiative: []
   rounds: 0
@@ -77,8 +77,8 @@ world:
 transcription:
   character_creation_history: sessions/transcripts/SESSION_0001_FULL.md
   narrative_session: sessions/transcripts/SESSION_0002_FULL.md
-  last_saved_player_turn: "Pode rolar sobrevivência para seguir as pegadas um pouco"
-  last_saved_dm_turn: "[008] MESTRE — 2026-11-23; teste Sobrevivência [20]+5=25, rastreamento de 100 m, transcript confirmado"
+  last_saved_player_turn: "Pode rolar furtividade e percepção, como o evento não mudou posso continuar utilizando os mesmos dados para seguir as pegadas"
+  last_saved_dm_turn: "[010] MESTRE — 2026-11-23; mantém Sobrevivência 25, rola Furtividade 18+9=27, Percepção 12+7=19; mata e riacho, transcrição salva"
 notes:
   - "Primeira resposta de cena será salva literalmente e sem revelar preparativos de dm."
   - "Nunca tratar a aprovação da ficha como XP, nem mudar recursos automaticamente."
