@@ -934,3 +934,44 @@ Minha sugestão é **Baralho de cartas**: combina com os anos de Eron na Guarda 
 - Condições do Jogador: Eron River, Humano, Ladino nível 1, 12 PV máximos; FOR 12, DES 20, CON 15, INT 19, SAB 16, CAR 14. Restam conjunto de jogo, Maestrias em Armas e equipamentos, entre outros detalhes finais.
 
 **GitHub:** commits confirmados para ficha, índice e transcrição literal pré-campanha.
+
+## [033] JOGADOR — 2026-11-23
+
+Baralho de cartas então
+
+## [034] MESTRE — 2026-11-23
+
+**Confirmado! Eron River escolheu Baralho de Cartas** como sua proficiência em conjunto de jogo, concedida pelo antecedente **Guarda**.
+
+Essa escolha combina com seu passado na Guarda Real de Vhaléria e nas Ruas Baixas, onde aprendeu a observar as pessoas e reconhecer comportamentos suspeitos.
+
+A proficiência está definida. O baralho físico será incluído no inventário se escolhermos o pacote de equipamento correspondente do Guarda.
+
+Agora concluímos as escolhas de proficiência em ferramentas e conjuntos de jogo.
+
+## Próxima etapa — Maestria em Armas
+
+Como Ladino de nível 1 (2024), Eron pode escolher **duas armas nas quais seja proficiente** para utilizar suas propriedades de Maestria. <Cite ref="turn718370search3"/>
+
+Estas são três opções especialmente adequadas ao equipamento que ele costuma usar:
+
+| Arma | Maestria | Efeito |
+|---|---|---|
+| **Espada curta** | *Vex* | Ao acertar, obtém vantagem no próximo ataque contra o mesmo alvo, dentro das condições da propriedade. |
+| **Adaga** | *Nick* | Permite realizar o ataque adicional da propriedade Leve dentro da ação Atacar, sem consumir a ação bônus. |
+| **Arco curto** | *Vex* | Ao acertar, prepara vantagem no próximo ataque contra o mesmo alvo. |
+
+<Cite refs={["turn718370search0","turn718370search12"]}/>
+
+Minha recomendação é **Espada curta e Adaga**, porque o conjunto beneficia o combate próximo com duas armas. Mas **Adaga e Arco curto** também é uma combinação interessante para alternar furtividade e ataques à distância.
+
+**Quais duas armas você escolhe para as Maestrias de Eron?** Depois passamos ao equipamento inicial.
+
+**[LOG DE MEMÓRIA DA CAMPANHA]**
+- Localização Atual: Não definida — ficha em criação.
+- NPCs Presentes e Relação: Nenhum em cena.
+- Linha de Missão Ativa: Nenhuma; campanha ainda não iniciada.
+- Eventos Cruciais Ocorridos: Baralho de Cartas escolhido como conjunto de jogo do antecedente Guarda; proficiências em ferramentas e jogos definidas.
+- Condições do Jogador: Eron River, Humano, Ladino nível 1, 12 PV máximos; FOR 12, DES 20, CON 15, INT 19, SAB 16, CAR 14. Aguardando Maestrias em Armas e equipamentos.
+
+**GitHub:** commits confirmados para ficha, índice e transcrição pré-campanha.
