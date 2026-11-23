@@ -66,3 +66,15 @@ Aguardar escolha de distribuição e regras de origem. Não iniciar campanha aut
 - Proficiência não fornece automaticamente conjuntos físicos correspondentes.
 - Fonte consultada: D&D Beyond, The Backgrounds and Origin Feats in the 2024 Player's Handbook; Let's Explore the Crafting Rules in the 2024 Player's Handbook; Roll20 Compendium de Artisan e Crafter (PHB 2024).
 - Permanece pendente confirmação de Artesão como antecedente mecânico principal e quais ferramentas escolherá.
+
+## Confirmações de Eron River — 2026-11-23
+- Identidade para esta criação: Eron River, humano, pele clara, 1,80m, 25 anos conforme `Eron_River_Historia_Revisada.pdf` fornecido pelo jogador (não copiado ao repositório).
+- Atributos BASE provenientes da 40ª sequência de seis 4d6dl1: FOR 12, DES 18, CON 15, INT 16, SAB 15, CAR 14. Dados originais em ordem de geração: 12,18,15,15,16,14.
+- O jogador aprovou expressamente a distribuição proposta para Ladino ("gostei da distribuição do ladino, vou ficar com ela").
+- Artesão tomado como antecedente MECÂNICO de 2024, com aumento +2 em Destreza e +1 em Inteligência e talentos/perícias próprios; Guarda é segundo antecedente NARRATIVO aprovado. Sem duplicação de benefícios.
+- ATRIBUTOS FINAIS: FOR 12 (+1); DES 20 (+5); CON 15 (+2); INT 17 (+3); SAB 15 (+2); CAR 14 (+2). Os bônus provêm do antecedente, sem alterar os dados.
+- Talentos de origem planejados: Crafter/Artesão (antecedente) e Alerta/Alert (Humano Versátil).
+- Idiomas pedidos: Comum, Goblin, Anão, Élfico e Gíria de Ladrão. Comum + Goblin + Anão como idiomas de criação; Élfico e Gíria de Ladrão obtidos pela característica da classe Ladino nível 1. Se não iniciar como Ladino, os dois últimos só entram na ficha ao adquirir o primeiro nível de Ladino.
+- Há intenção de progressão com multiclasse Ladino + Artífice, mas CLASSE E NÍVEL INICIAIS ainda NÃO foram confirmados.
+- Escolhas pendentes até completar nível 1: classe inicial e nível, 4 perícias de Ladino (se Ladino inicial) + perícia Humano, duas Especializações, 4 proficiências de ferramentas de artesão distintas, duas maestrias em armas, equipamentos iniciais e quantias, ficha derivada (PV, CA, testes, ataques), detalhes opcionais de personalidade/alinhamento.
+- História revisada e crônicas de Thûn-Khazad fornecidas como dois PDFs na conversa. Jogador solicitou dois arcos principais sem ligação causal e associação do Monte Veyra a uma caçada ao lobo; tarefa de planejamento de campanha foi interrompida pelo próprio jogador para finalizar primeiro a ficha. **Não começar campanha nem presumir cenas/cânone novo até confirmação.** Material sigiloso em PDFs não deve ser transcrito a documentos públicos.
