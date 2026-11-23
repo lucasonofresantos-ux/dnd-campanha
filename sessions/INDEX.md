@@ -6,5 +6,5 @@
 - Transcrição literal: [SESSION_0001_FULL.md](transcripts/SESSION_0001_FULL.md)
 - Ficha em elaboração: [PRE_CHAR_HUMAN_001.md](../character/PRE_CHAR_HUMAN_001.md)
 - Rolagens: [ROLL_LOG.csv](../dice/ROLL_LOG.csv)
-- Última interação registrada: jogador confirmou Ladino como classe inicial no nível 1; Mestre informou PV 10, proficiência +2, testes de resistência Destreza e Inteligência e Ataque Furtivo 1d6.
-- Próximo passo: jogador escolher quatro perícias de Ladino; depois uma perícia adicional humana, especializações, ferramentas, armas e equipamento. Campanha não iniciada.
+- Última interação registrada: jogador solicitou Artesão e Guarda com todos os benefícios mecânicos; Mestre aprovou homebrew excepcional para Eron, com dois pacotes completos e terceiro talento de origem pelo Humano.
+- Próximo passo: distribuir +3 do Guarda entre Força, Inteligência e Sabedoria (além do Artesão já aplicado); então decidir talento humano, perícias, ferramentas, equipamento e maestrias. Classe inicial Ladino 1. Campanha não iniciada.
