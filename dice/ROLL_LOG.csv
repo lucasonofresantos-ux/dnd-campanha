@@ -39,3 +39,4 @@ date,campaign_id,stage,attempt,expression,six_rolls_faces_in_order,six_attribute
 2026-11-23,PRE-CHAR-HUMAN-001,attribute_generation,38,6x4d6dl1,"6161 4355 5512 6565 3142 2322","13,14,12,17,9,7",72,false
 2026-11-23,PRE-CHAR-HUMAN-001,attribute_generation,39,6x4d6dl1,"2616 6335 1252 6512 2522 4114","14,14,9,13,9,9",68,false
 2026-11-23,PRE-CHAR-HUMAN-001,attribute_generation,40,6x4d6dl1,"3154 6266 5551 3564 6436 5363","12,18,15,15,16,14",90,true
+2026-11-23,ERON-RIVER-ASTERION-001,skill_check_survival,1,1d20+5,20,"20+5",25,true
