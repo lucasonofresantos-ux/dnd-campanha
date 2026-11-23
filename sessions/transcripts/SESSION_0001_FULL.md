@@ -523,3 +523,79 @@ Minha sugestão para o investigador Eron River é **Percepção, Furtividade, In
 - Condições do Jogador: 10 PV máximos; FOR 12, DES 20, CON 15, INT 17, SAB 15, CAR 14; perícias e equipamentos ainda pendentes.
 
 **GitHub:** commit confirmado para ficha, índice e transcrição pré-campanha.
+
+## [017] JOGADOR — 2026-11-23
+
+vamos começar com os dois antecedentes por inteiro, sem ser narrativo, artesão e guarda
+
+## [018] MESTRE — 2026-11-23
+
+**Aprovado, Eron River terá os dois antecedentes completos: Guarda e Artesão, com todos os benefícios mecânicos de ambos.**
+
+Como Mestre do Santuário, autorizo essa exceção para Eron. Será uma **regra própria da nossa mesa (homebrew)**, pois o D&D 5E 2024 normalmente permite apenas um antecedente completo. <Cite ref="turn714023search13"/>
+
+## Benefícios dos dois antecedentes
+
+| Benefício | Artesão | Guarda |
+|---|---|---|
+| Aumento de atributos | +2 e +1, ou +1/+1/+1 | +2 e +1, ou +1/+1/+1 |
+| Talento de origem | Crafter | Alerta |
+| Perícias | Investigação e Persuasão | Atletismo e Percepção |
+| Ferramentas | 1 tipo de ferramenta de artesão | 1 tipo de conjunto de jogo |
+| Equipamentos iniciais | Pacote completo ou 50 PO | Pacote completo ou 50 PO |
+
+<Cite refs={["turn956807view0","turn956807view1"]}/>
+
+Além disso, como Humano de 2024, Eron recebe **mais um talento de origem à escolha**, pela característica Versátil, e outra proficiência em perícia, pela característica Habilidoso. <Cite ref="turn956807view3"/>
+
+Isso significa que ele terá:
+
+- **3 talentos de origem:** Crafter, Alerta e mais um à sua escolha.
+- **4 perícias dos antecedentes:** Investigação, Persuasão, Atletismo e Percepção.
+- **4 proficiências em ferramentas de artesão:** uma do antecedente e três do Crafter, desde que diferentes e elegíveis.
+- **1 proficiência em conjunto de jogo**, pelo Guarda.
+- **Os dois conjuntos de aumentos de atributos**, respeitando o limite de 20 por atributo.
+- **Os dois pacotes de equipamento**, além do equipamento inicial da classe Ladino, escolhendo as opções correspondentes.
+
+Essa combinação torna Eron consideravelmente mais poderoso e versátil do que um personagem de nível 1 criado pelas regras padrão. Estou permitindo isso conscientemente, sem modificar os resultados dos dados.
+
+## Vamos distribuir os bônus do Guarda
+
+Já aplicamos os bônus do Artesão:
+
+| Atributo | Dado original | Artesão | Atual |
+|---|---:|---:|---:|
+| Força | 12 | — | 12 |
+| Destreza | 18 | +2 | **20** |
+| Constituição | 15 | — | 15 |
+| Inteligência | 16 | +1 | **17** |
+| Sabedoria | 15 | — | 15 |
+| Carisma | 14 | — | 14 |
+
+O antecedente Guarda permite aumentar **Força, Inteligência e Sabedoria**.
+
+Você pode colocar **+2 em um desses atributos e +1 em outro**, ou distribuir **+1 em cada um dos três**.
+
+Minha recomendação para um futuro Ladino/Artífice é **+2 em Inteligência e +1 em Sabedoria**. Com isso, Eron ficaria com:
+
+| Atributo | Resultado após os dois antecedentes |
+|---|---:|
+| Força | 12 (+1) |
+| Destreza | 20 (+5) |
+| Constituição | 15 (+2) |
+| Inteligência | **19 (+4)** |
+| Sabedoria | **16 (+3)** |
+| Carisma | 14 (+2) |
+
+Outra possibilidade é **+1 em Força, +1 em Inteligência e +1 em Sabedoria**: ficaria com FOR 13, INT 18 e SAB 16. Ambas respeitam o limite de 20.
+
+**Você prefere minha sugestão (+2 Inteligência e +1 Sabedoria) ou quer distribuir os bônus de outra forma?** Depois dessa decisão, passamos às perícias, ferramentas, talento adicional e equipamentos, uma etapa por vez.
+
+**[LOG DE MEMÓRIA DA CAMPANHA]**
+- Localização Atual: Não definida — criação de personagem.
+- NPCs Presentes e Relação: Nenhum em cena.
+- Linha de Missão Ativa: Nenhuma; campanha ainda não iniciada.
+- Eventos Cruciais Ocorridos: Guarda e Artesão aprovados integralmente, como exceção mecânica registrada; Ladino 1 confirmado.
+- Condições do Jogador: Eron River, humano, 25 anos, 1,80 m; 10 PV máximos; FOR 12, DES 20, CON 15, INT 17, SAB 15, CAR 14 antes do bônus do Guarda.
+
+**GitHub:** commits confirmados para regra própria, pré-ficha, índice e transcrição.
