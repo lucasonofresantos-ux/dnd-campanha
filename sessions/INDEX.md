@@ -18,5 +18,5 @@
 - XP: [XP_LOG.csv](../campaign/XP_LOG.csv), regras em [PROGRESSION_XP.md](../campaign/PROGRESSION_XP.md).
 - Sessão narrativa 1: [SESSION_0002.md](SESSION_0002.md), transcrição [SESSION_0002_FULL.md](transcripts/SESSION_0002_FULL.md).
 - Isolamento: não misturar com `PRE-CHAR-HUMAN-001` (que é histórico da criação), nem com campanhas de outros personagens.
-- Transcrição [SESSION_0002_FULL.md](transcripts/SESSION_0002_FULL.md), mensagens [001]–[004]: jogador se aproximou de Mara e perguntou sobre os acontecimentos; Mara e Iria explicaram perdas e vestígios. Conversa em andamento, 12 PO oferecidas mas não aceitas; 0/300 XP e nenhum teste.
+- Transcrição [SESSION_0002_FULL.md](transcripts/SESSION_0002_FULL.md), mensagens [001]–[006]: Eron conversou com Mara e Iria e anunciou intenção de rastrear pouco antes do amanhecer. Mara pretende proteger cabras; Iria alertou sobre a escuridão e a chuva. O jogador decide o que fazer ainda no fim da manhã. Oferta de 12 PO pendente; 0/300 XP e nenhum teste.
 - Planejamento secreto em `dm/` (jamais incluir em logs públicos).
