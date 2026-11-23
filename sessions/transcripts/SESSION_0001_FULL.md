@@ -476,3 +476,50 @@ As perícias **Investigação e Persuasão** já vêm do antecedente Artesão. A
 - Condições do Jogador: Eron River, humano, 25 anos, 1,80 m; FOR 12, DES 20, CON 15, INT 17, SAB 15, CAR 14. Classe inicial ainda não confirmada.
 
 **GitHub:** atualizações da ficha, índice e transcrição pré-campanha confirmadas por commit.
+
+## [015] JOGADOR — 2026-11-23
+
+ladino nivel 1, correto
+
+## [016] MESTRE — 2026-11-23
+
+<badge color="success"><icon name="check-circle" inline/> Confirmado</badge>
+
+**Eron River começará como Ladino de nível 1**, seguindo as regras de D&D 5E (2024).
+
+O Artífice ficará para uma futura evolução, quando você decidir adquirir níveis nessa classe.
+
+Com os atributos já definidos, Eron começa com:
+
+| Característica | Valor |
+|---|---|
+| Nível | 1 |
+| Classe | Ladino |
+| Pontos de Vida | **10 PV** |
+| Bônus de Proficiência | +2 |
+| Destreza | 20 (+5) |
+| Inteligência | 17 (+3) |
+| Testes de Resistência proficientes | Destreza e Inteligência |
+| Ataque Furtivo | 1d6 |
+| Talentos de origem | Artesão (Crafter) e Alerta |
+
+Os 10 PV vêm de 8 pontos iniciais da classe Ladino + 2 do modificador de Constituição.
+
+## Próxima escolha: 4 perícias de Ladino
+
+O antecedente Artesão já concede **Investigação e Persuasão**, portanto não precisamos escolhê-las novamente.
+
+Das perícias da classe Ladino, você pode escolher **quatro** entre: **Acrobacia, Atletismo, Enganação, Intuição, Intimidação, Percepção, Prestidigitação e Furtividade**. <Cite ref="turn452788search0"/>
+
+Minha sugestão para o investigador Eron River é **Percepção, Furtividade, Intuição e Enganação**. A perícia adicional do Humano pode ser escolhida depois, assim como as duas Especializações.
+
+**Quais quatro perícias você quer para Eron?**
+
+**[LOG DE MEMÓRIA DA CAMPANHA]**
+- Localização Atual: Não definida — ficha em criação.
+- NPCs Presentes e Relação: Nenhum em cena.
+- Linha de Missão Ativa: Nenhuma; campanha ainda não iniciada.
+- Eventos Cruciais Ocorridos: Eron confirmado como Ladino de nível 1.
+- Condições do Jogador: 10 PV máximos; FOR 12, DES 20, CON 15, INT 17, SAB 15, CAR 14; perícias e equipamentos ainda pendentes.
+
+**GitHub:** commit confirmado para ficha, índice e transcrição pré-campanha.
