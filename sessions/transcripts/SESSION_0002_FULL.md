@@ -338,3 +338,40 @@ Eron está **a aproximadamente dois metros da entrada**, ainda protegido pela pe
 - Condições do Jogador: Ladino 1, **12/12 PV**, **CA 16**, **0/300 XP**, **36 PO e 8 PP**. Nenhuma condição ativa ou recurso gasto. Não há combate em andamento.
 
 **GitHub:** rolagens, transcrição, cronologia e estado da campanha registrados; commits confirmados.
+
+## [017] JOGADOR — 2026-11-23
+
+Role lidar com animais para mim
+
+## [018] MESTRE — 2026-11-23
+
+<row align="center" gap={3}>
+  <box background="surface-secondary" radius="lg" padding={3} align="center" gap={1}>
+    <icon name="paw-print" size="lg"/>
+    <title size="2xl" tabularNums>18</title>
+  </box>
+  <box flex="1" gap={1}>
+    **Sabedoria (Lidar com Animais)**
+
+    `1d20+3` → **[15] + 3 = 18**
+
+    <text color="success" weight="medium"><icon name="check-circle" inline/> Sucesso</text>
+  </box>
+</row>
+
+Observando a loba à entrada da toca, Eron consegue interpretar melhor seu comportamento. A respiração pesada, a pata recolhida e a maneira como mantém os filhotes próximos sugerem **dor e comportamento defensivo**, não uma intenção imediata de atacar.
+
+Pela experiência de Eron, aproximar-se bruscamente ou bloquear a saída provavelmente provocaria uma reação agressiva. Uma aproximação lenta, sem movimentos ameaçadores e mantendo distância dos filhotes, teria mais chances de ser tolerada — embora não haja garantia.
+
+A loba continua deitada e vigilante. **Eron permanece atrás da pedra, a cerca de dois metros da entrada**. O teste ajudou a avaliar a situação; ainda não houve tentativa de contato, aproximação adicional ou domesticação.
+
+**Como Eron pretende lidar com ela?**
+
+**[LOG DE MEMÓRIA DA CAMPANHA]**
+- Localização Atual: Ravina, atrás da saliência rochosa, aproximadamente 2 m da toca.
+- NPCs Presentes e Relação: Nenhum personagem não jogador; uma loba e dois filhotes estão no interior, sem interação direta com Eron.
+- Linha de Missão Ativa: Investigar os ataques ao rebanho de Mara; recompensa de 12 PO ainda não recebida.
+- Eventos Cruciais Ocorridos: **Lidar com Animais: 1d20+3 → [15]+3 = 18**. Eron avaliou o comportamento defensivo da loba, possivelmente ligado à pata machucada e à proteção dos filhotes.
+- Condições do Jogador: Ladino 1, **12/12 PV**, **CA 16**, **0/300 XP**, **36 PO e 8 PP**. Sem condições ou recursos gastos; combate não iniciado.
+
+**GitHub:** rolagem, estado, cronologia e transcrição atualizados; commits confirmados.
