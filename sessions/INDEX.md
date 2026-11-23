@@ -9,3 +9,14 @@
 - Rolagens: [ROLL_LOG.csv](../dice/ROLL_LOG.csv)
 - Última interação registrada: jogador escreveu literalmente "Aprovado", aprovando a ficha consolidada de Eron River nível 1 sem ressalvas. Criação mecânica concluída.
 - Próximo passo: preparação de campanha, infraestrutura e auditoria do histórico narrativo no devido momento; a aventura ainda não começou e não deve começar apenas por aprovação da ficha.
+
+## ERON-RIVER-ASTERION-001 — Estradas de Cinza e Pedra
+- Campanha narrativa iniciada por autorização expressa do jogador em **2026-11-23**; progressão por XP, não marcos; Eron River Ladino 1, XP inicial **0/300**.
+- Ficha definitiva: [ERON_RIVER_LEVEL_01.md](../character/ERON_RIVER_LEVEL_01.md).
+- Estado: [CAMPAIGN_STATE.yaml](../campaign/CAMPAIGN_STATE.yaml).
+- Cronologia: [TIMELINE.md](../campaign/TIMELINE.md).
+- XP: [XP_LOG.csv](../campaign/XP_LOG.csv), regras em [PROGRESSION_XP.md](../campaign/PROGRESSION_XP.md).
+- Sessão narrativa 1: [SESSION_0002.md](SESSION_0002.md), transcrição [SESSION_0002_FULL.md](transcripts/SESSION_0002_FULL.md).
+- Isolamento: não misturar com `PRE-CHAR-HUMAN-001` (que é histórico da criação), nem com campanhas de outros personagens.
+- Cena de abertura: estrada junto ao Pouso das Três Fontes; nenhuma ação do jogador, dado ou XP antes de sua primeira resposta.
+- Planejamento secreto em `dm/` (jamais incluir em logs públicos).
