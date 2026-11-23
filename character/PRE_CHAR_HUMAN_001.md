@@ -227,3 +227,22 @@ Aguardar escolha de distribuição e regras de origem. Não iniciar campanha aut
 - Ferramentas de artesão físicas: Ferreiro, Coureiro, Entalhador, Pedreiro e Funileiro; proficiências: Ferreiro, Coureiro, Entalhador e Pedreiro apenas. Ferramentas de Ladrão físicas e sua proficiência via classe Ladino 1. Baralho físico e proficiência, ambos confirmados.
 - Derivados atuais (antes de quaisquer modificadores circunstanciais): PV máximos 12, CA couro 16, Iniciativa +7 (DEX 5 + Alert Prof 2), deslocamento Humano 9m, Percepção passiva 17, Ataque Furtivo 1d6, Maestrias Vex (espada curta) e Nick (adaga).
 - Próximas verificações: peso/carga, discriminação do conteúdo do Pacote de Assaltante, revisão dos idiomas e demais detalhes da ficha; evitar reiniciar campanha antes do fechamento. Não é necessária escolha adicional para a compra recém confirmada.
+
+## Conferência de inventário e carga — 2026-11-23
+- Mensagem literal do jogador: "Confirmado". Referência: aceitação de avançar para conferência de inventário, peso/capacidade de carga e discriminação do Pacote de Assaltante; NÃO foi nova compra, venda, descarte, nem início de campanha.
+- Fonte oficial consultada: D&D Beyond Basic Rules 2024 Equipment (https://www.dndbeyond.com/sources/dnd/br-2024/equipment), Rules Glossary (https://www.dndbeyond.com/sources/dnd/br-2024/rules-glossary), Character Classes Rogue (https://www.dndbeyond.com/sources/dnd/br-2024/character-classes). SRD 5.2.1 é fonte canônica principal no repositório.
+- Capacidade de carga: Humano Médio FOR 12 * 15 lb = **180 lb**. Arrastar/empurrar/erguer máximo FOR 12 *30 = **360 lb**; acima da carga transportável, deslocamento na ação de arrastar/empurrar limitado conforme regra.
+- Peso conferido sem duplicações:
+  - Armadura de Couro 1 ×10 lb = 10;
+  - Espada curta 1×2, duas Adagas 2×1, Arco curto 1×2, Flechas (20) 1, Aljava 1 => subtotal armas/munição **8 lb**;
+  - Ferramentas de Ladrão 1×1 lb = **1**;
+  - Pacote de Assaltante 2024 (todo o conjunto) = **42 lb**;
+  - Ferramentas Ferreiro 8 lb; Coureiro 5 lb; Entalhador 5 lb; Pedreiro 8 lb; Funileiro 10 lb => **36 lb**;
+  - Duas Bolsas 2×1 lb e Roupas de Viajante 4 lb => **6 lb**;
+  - 36 moedas PO + 8 moedas de prata = 44 moedas = **0,88 lb** (50 moedas/lb);
+  - Baralho de Cartas: peso — na tabela de jogo.
+- **PESO TOTAL CONTABILIZADO: 103,88 lb (aprox. 47,12 kg); MARGEM 76,12 lb (aprox. 34,53 kg); USO 57,71% da capacidade.** Nenhum equipamento adicionado ou descartado nesta conferência. Itens especiais narrativos de peso não especificado, se existentes e carregados, não incluídos no total.
+- Pacote de Assaltante 2024, peso agregado 42 lb: Mochila; Esferas de metal (Ball Bearings); Sino; 10 Velas; Pé de cabra; Lanterna coberta; 7 frascos de Óleo; 5 dias de Rações; Corda; Pederneira (Tinderbox); Cantil (Waterskin). Não duplicar os itens desse pacote no peso. A mochila comporta **até 30 lb de conteúdo**, de modo que a distribuição de volume entre mochila, bolsas, cintos e equipamentos externamente presos precisa ser plausível; carga de 103,88 lb não significa que tudo caiba na mochila.
+- Situação da moeda permanece **36 PO e 8 peças de prata** (PP em português, não peças de platina); sem despesas novas.
+- Pergunta seguinte: jogador prefere transportar os cinco conjuntos de ferramentas em viagem ou separar algumas para eventual armazenamento seguro quando houver essa possibilidade? Nenhum local de guarda ou depósito foi criado/assumido; não registrar armazenamento sem decisão do jogador e local seguro definido.
+- Não declarar ficha nem campanha concluída/iniciada apenas pela confirmação da conferência.
