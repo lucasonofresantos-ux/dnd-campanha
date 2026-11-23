@@ -159,3 +159,10 @@ Aguardar escolha de distribuição e regras de origem. Não iniciar campanha aut
 - **Ferramentas de Funileiro (Tinker's Tools)** NÃO são proficientes no nível 1 de Ladino e NÃO foram escolhidas pelo Crafter; quando Eron adquirir seu primeiro nível como Artífice pela multiclasse 2025, será concedida a proficiência de Funileiro segundo o bloco As a Multiclass Character (sujeito à confirmação da edição final antes da transição).
 - O personagem ainda não recebeu automaticamente um conjunto físico dessas quatro ferramentas por suas proficiências, pois equipamento inicial não foi selecionado.
 - Próxima escolha: um conjunto de jogo pelo antecedente Guarda entre Dados, Baralho, Xadrez de Dragão e Três-Dragões Ante. Equipamento físico, Maestrias e demais decisões continuam pendentes.
+
+## Conjunto de jogo do Guarda confirmado — 2026-11-23
+- Mensagem literal do jogador: "Baralho de cartas então".
+- Proficiência confirmada: **Baralho de Cartas (Playing Cards)**, escolhida pelo antecedente Guarda, integralmente mecânico conforme homebrew aprovada.
+- A proficiência NÃO equivale automaticamente à posse do objeto; o baralho físico será conferido quando o jogador escolher pacote A de Guarda ou outro meio legítimo de obtê-lo. Nenhuma posse foi concedida por este ato.
+- Proficiências de ferramentas artesanais já confirmadas: Ferreiro (antecedente Artesão), Coureiro, Entalhador e Pedreiro (Crafter).
+- Próxima escolha: duas armas elegíveis para Maestria de Ladino 1. Exemplos apresentados: Espada curta (Vex), Adaga (Nick), Arco curto (Vex). Nenhuma Maestria ainda escolhida.
