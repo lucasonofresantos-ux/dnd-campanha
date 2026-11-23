@@ -1028,3 +1028,55 @@ Essa escolha é **somente do pacote de Ladino**. Depois faremos separadamente as
 - Condições do Jogador: Eron River, Humano, Ladino 1, 12 PV máximos; FOR 12, DES 20, CON 15, INT 19, SAB 16, CAR 14. Equipamento inicial ainda a escolher.
 
 **GitHub:** commits confirmados para ficha, índice e transcrição pré-campanha.
+
+## [037] JOGADOR — 2026-11-23
+
+Vou de A
+
+## [038] MESTRE — 2026-11-23
+
+<text color="success" weight="medium"><icon name="check-circle" inline/> Opção A do Ladino confirmada!</text>
+
+Eron River recebe o **pacote completo de equipamentos iniciais da classe Ladino**, conforme D&D 5E (2024).
+
+## Inventário inicial — Ladino nível 1
+
+| Equipamento | Quantidade |
+|---|---:|
+| Armadura de couro | 1 |
+| Espada curta | 1 |
+| Adagas | 2 |
+| Arco curto | 1 |
+| Flechas | 20 |
+| Aljava | 1 |
+| Ferramentas de ladrão | 1 conjunto |
+| Pacote de assaltante | 1 |
+| Moedas de ouro | **8 PO** |
+
+A espada curta será **a mesma que Gruner Barba de Cobre entregou a Eron**, preservando sua história sem duplicar o item.
+
+Com a armadura de couro e Destreza 20, Eron terá **CA 16** (11 + 5).
+
+Os dois antecedentes completos ainda concederão seus próprios equipamentos, escolhidos separadamente.
+
+## Próxima escolha — equipamentos do Artesão
+
+Agora vamos definir **somente o pacote do antecedente Artesão**, conforme o *Player's Handbook 2024*. <Cite ref="turn521941search5"/>
+
+| Opção | O que Eron recebe |
+|---|---|
+| **A — Equipamentos** | 1 conjunto de **Ferramentas de Ferreiro**, 2 bolsas, roupas de viajante e **32 PO** |
+| **B — Ouro** | **50 PO**, sem os itens da opção A |
+
+Como Eron já possui **8 PO** pelo Ladino, escolher a opção A elevaria suas moedas para **40 PO**; a opção B, para **58 PO**.
+
+**Você prefere A ou B para o antecedente Artesão?** Depois escolheremos separadamente o equipamento do Guarda.
+
+**[LOG DE MEMÓRIA DA CAMPANHA]**
+- Localização Atual: Não definida; criação do personagem.
+- NPCs Presentes e Relação: Nenhum em cena.
+- Linha de Missão Ativa: Nenhuma; campanha ainda não iniciada.
+- Eventos Cruciais Ocorridos: Pacote A do Ladino confirmado, incluindo espada curta de Gruner, duas adagas, arco curto, armadura, equipamentos e 8 PO.
+- Condições do Jogador: Eron River, Humano, Ladino 1, **12 PV máximos**, **CA 16**; FOR 12, DES 20, CON 15, INT 19, SAB 16, CAR 14. Pacotes de Artesão e Guarda ainda pendentes.
+
+**GitHub:** commits confirmados para ficha, índice e transcrição pré-campanha.
