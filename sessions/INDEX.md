@@ -18,5 +18,5 @@
 - XP: [XP_LOG.csv](../campaign/XP_LOG.csv), regras em [PROGRESSION_XP.md](../campaign/PROGRESSION_XP.md).
 - Sessão narrativa 1: [SESSION_0002.md](SESSION_0002.md), transcrição [SESSION_0002_FULL.md](transcripts/SESSION_0002_FULL.md).
 - Isolamento: não misturar com `PRE-CHAR-HUMAN-001` (que é histórico da criação), nem com campanhas de outros personagens.
-- Cena de abertura: estrada junto ao Pouso das Três Fontes; nenhuma ação do jogador, dado ou XP antes de sua primeira resposta.
+- Cena de abertura registrada e salva em [SESSION_0002_FULL.md](transcripts/SESSION_0002_FULL.md), mensagens [001] JOGADOR e [002] MESTRE; NPCs Mara Telha e Iria Vento-Seco, oferta de 12 PO; nenhuma ação do jogador, dado ou XP antes de sua primeira resposta.
 - Planejamento secreto em `dm/` (jamais incluir em logs públicos).
