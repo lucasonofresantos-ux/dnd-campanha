@@ -6,5 +6,5 @@
 - Transcrição literal: [SESSION_0001_FULL.md](transcripts/SESSION_0001_FULL.md)
 - Ficha em elaboração: [PRE_CHAR_HUMAN_001.md](../character/PRE_CHAR_HUMAN_001.md)
 - Rolagens: [ROLL_LOG.csv](../dice/ROLL_LOG.csv)
-- Última interação registrada: jogador escolheu Baralho de Cartas como conjunto de jogo do Guarda. Todas as proficiências de ferramentas de artesão e jogo foram definidas.
-- Próximo passo: escolher duas Maestrias em Armas do Ladino 1; depois equipamentos iniciais e derivados. Campanha não iniciada.
+- Última interação registrada: jogador escolheu Maestria em Espada Curta (Vex) e Adaga (Nick), +7 no ataque com cada arma.
+- Próximo passo: escolher pacote inicial do Ladino 2024 (A equipamentos e 8 PO, ou B 100 PO); depois equipamentos dos antecedentes completos Artesão e Guarda, valores derivados e conferência final. Campanha não iniciada.
