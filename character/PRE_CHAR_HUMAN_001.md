@@ -254,3 +254,10 @@ Aguardar escolha de distribuição e regras de origem. Não iniciar campanha aut
 - Peso contabilizado anterior mantido **103,88 lb (aprox. 47,1 kg)**, capacidade **180 lb (aprox. 81,6 kg)**, sem contar pequenos objetos narrativos sem peso especificado. Sem penalidade por exceder capacidade normal; o volume, o acesso às ferramentas e obstáculos físicos continuam sujeitos à avaliação do Mestre quando relevante.
 - Moedas inalteradas: **36 PO e 8 PP**.
 - Já escolhidos idiomas: Comum, Goblin, Anão, Élfico, mais Gíria de Ladrão (característica da classe). Próxima etapa: consolidar ficha final, conferir derivados e lacunas; campanha NÃO iniciada.
+
+## Ficha consolidada disponibilizada para aprovação final — 2026-11-23
+- Mensagem literal do jogador: "Confirmado"; significa seguir para consolidação e revisão, NÃO iniciar automaticamente a campanha e NÃO atribuir aprovação final explícita à ficha antes de apresentá-la.
+- Arquivo canônico de consulta consolidada criado: `character/ERON_RIVER_LEVEL_01.md`. Arquivo de pré-criação `PRE_CHAR_HUMAN_001.md` permanece como registro histórico auditável das escolhas e revisões; para estado mecânico atual, utilizar a ficha consolidada.
+- Características adicionais de espécie revisadas com SRD 5.2.1 / Basic Rules 2024: Engenhoso (Inspiração Heroica após Descanso Longo), Habilidoso (Sobrevivência), Versátil (Vigoroso). Não ganhar Inspiração Heroica automaticamente no instante de criação sem Long Rest.
+- Derivados, habilidades Ladino 1, ataques, Maestrias, perícias, inventário e moedas foram consolidados. Não foram realizadas compras, rolagens, mudanças de atributos ou movimentações nesta mensagem.
+- Status: **Aguardando aprovação final da ficha consolidada pelo jogador**. Campanha ainda não iniciada.
