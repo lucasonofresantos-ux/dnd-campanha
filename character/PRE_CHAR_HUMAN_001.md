@@ -218,3 +218,12 @@ Aguardar escolha de distribuição e regras de origem. Não iniciar campanha aut
 - Proficiências de ferramentas artesanais: Ferreiro, Coureiro, Entalhador, Pedreiro. **Funileiro está no inventário, mas Eron não tem proficiência com elas no nível 1 de Ladino**, adquirível quando multiclassar para Artífice conforme fonte oficial aplicável.
 - Próxima escolha: compra opcional de 1x Baralho de Cartas físico, já proficiente em jogo. Custo tabela 2024 de 5 PP, com Crafter 20% = 4 PP. Ainda NÃO comprar sem resposta. Se comprar, 37 PO 2 PP - 4 PP = 36 PO 8 PP.
 - Referências: https://www.dndbeyond.com/sources/dnd/br-2024/equipment ; https://roll20.net/compendium/dnd5e/Feats%3ACrafter?expansion=32231 ; https://roll20.net/compendium/dnd5e/Items%3APlaying%20Card%20Set?expansion=33335 .
+
+## Baralho de Cartas adquirido — 2026-11-23
+- Mensagem literal do jogador: "Sim quero e entendi que ainda não tenho proficiência em ferramentas de funileiro".
+- Compra CONFIRMADA: **1x Baralho de Cartas (Playing Card Set)**, item físico, por 4 PP após aplicar desconto Crafter 20% ao preço de tabela 5 PP. Proficiência em conjunto de jogo Baralho de Cartas já havia sido adquirida pelo Guarda; a compra não concede nova proficiência.
+- Saldo ANTERIOR confirmado: 37 PO e 2 PP. Dedução: 4 PP = 0,4 PO. **Saldo ATUAL CONFIRMADO: 36 PO e 8 PP**, não debitar novamente.
+- O jogador CONFIRMOU compreender que, apesar de ter comprado um conjunto físico de Ferramentas de Funileiro, **ainda NÃO é proficiente com elas** como Ladino 1. Sua proficiência futura com Ferramentas de Funileiro ao entrar no Artífice segue dependente de adquirir o nível.
+- Ferramentas de artesão físicas: Ferreiro, Coureiro, Entalhador, Pedreiro e Funileiro; proficiências: Ferreiro, Coureiro, Entalhador e Pedreiro apenas. Ferramentas de Ladrão físicas e sua proficiência via classe Ladino 1. Baralho físico e proficiência, ambos confirmados.
+- Derivados atuais (antes de quaisquer modificadores circunstanciais): PV máximos 12, CA couro 16, Iniciativa +7 (DEX 5 + Alert Prof 2), deslocamento Humano 9m, Percepção passiva 17, Ataque Furtivo 1d6, Maestrias Vex (espada curta) e Nick (adaga).
+- Próximas verificações: peso/carga, discriminação do conteúdo do Pacote de Assaltante, revisão dos idiomas e demais detalhes da ficha; evitar reiniciar campanha antes do fechamento. Não é necessária escolha adicional para a compra recém confirmada.
