@@ -194,3 +194,14 @@ Aguardar escolha de distribuição e regras de origem. Não iniciar campanha aut
 - Contagem de equipamento confirmado da classe: couro 1, espada curta de Gruner 1 (sem duplicação), adagas 2, arco curto 1, flechas 20, aljava 1, ferramentas de ladrão 1, pacote de assaltante 1; mais os novos itens do Artesão. Os conjuntos de ferramentas Coureiro/Entalhador/Pedreiro são proficiências sem conjuntos físicos entregues até agora.
 - Próxima escolha: pacote A ou B do ANTECEDENTE GUARDA. A: Lança, Besta leve, 20 Virotes, Baralho de Cartas físico (gaming set já escolhido), Lanterna coberta, Algemas, Aljava, Roupas de viajante, 12 PO, para total 52 PO. B: 50 PO, para total 90 PO; sem os itens do pacote A. Não presumir escolha.
 - Fonte verificada em 2026-11-23: Roll20 Compendium PHB 2024, Artisan e Guard.
+
+## Equipamento do Guarda: opção B confirmada — 2026-11-23
+- Mensagem literal do jogador: "B\nE posso já comprar as outras ferramentas que tenho talento ou proficiência?"
+- Antecedente Guarda (PHB 2024), **opção B (50 PO)** escolhida, em vez de pacote físico A. Nenhuma lança, besta, virotes, baralho, algemas etc. é acrescentada pelo Guarda.
+- Saldo confirmado antes de compras: **8 PO** (Ladino A) + **32 PO** (Artesão A) + **50 PO** (Guarda B) = **90 PO**.
+- Jogador perguntou se PODE comprar os três conjuntos físicos correspondentes às proficiências adicionais de Crafter. Mestre respondeu sim, mas compra AINDA NÃO confirmada. Não retirar dinheiro nem acrescentar esses itens ao inventário até aceite expresso.
+- Preços tabela de equipamentos D&D 2024: Ferramentas de Coureiro = 5 PO; Entalhador = 1 PO; Pedreiro = 10 PO. Total sem desconto 16 PO.
+- Talento Crafter 2024 concede 20% de desconto em compras de itens não mágicos. Preços com desconto: Coureiro 4 PO; Entalhador 8 PP (=0,8 PO); Pedreiro 8 PO. **Total a pagar caso confirmado: 12 PO e 8 PP. Saldo previsto 77 PO e 2 PP.**
+- Conjunto de Ferreiro físico já veio do Artesão A e Ferramentas de Ladrão físicas do Ladino A. Proficiência em Baralho de Cartas do Guarda confirmada, mas objeto físico NÃO recebido com Guarda B; pode comprar depois.
+- Próximo passo ÚNICO: perguntar ao jogador se confirma a compra conjunta por 12 PO e 8 PP. Não registrar transação como concluída sem resposta afirmativa.
+- Fontes consultadas: D&D Beyond Basic Rules 2024 Equipment https://www.dndbeyond.com/sources/dnd/br-2024/equipment e Roll20 Crafter 2024 https://roll20.net/compendium/dnd5e/Feats%3ACrafter?expansion=32231 .
