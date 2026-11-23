@@ -1523,3 +1523,54 @@ A ficha mecânica foi consolidada. **Falta apenas sua aprovação da revisão fi
 - Condições do Jogador: Eron River, Humano Ladino 1, **12 PV**, **CA 16**, iniciativa **+7**, Percepção passiva **17**; **36 PO e 8 PP**; carga **103,88/180 lb**. Funileiro físico sem proficiência.
 
 **GitHub:** ficha consolidada criada e commits de pré-ficha, índice e transcrição confirmados.
+
+## [053] JOGADOR — 2026-11-23
+
+Aprovado
+
+## [054] MESTRE — 2026-11-23
+
+<badge color="success"><icon name="check-circle" inline/> Ficha aprovada</badge>
+
+**Eron River está oficialmente concluído como personagem de nível 1!**
+
+A ficha aprovada será a referência mecânica para nossa campanha de **D&D 5E (2024)**.
+
+<box border radius="lg" padding={3} gap={2}>
+  <title size="lg">Eron River</title>
+  <text color="secondary" size="sm">Humano · Ladino nível 1 · Artesão e Guarda</text>
+  <grid columns={4} gap={2}>
+    {#each [{label:"PV",value:"12"},{label:"CA",value:"16"},{label:"Iniciativa",value:"+7"},{label:"Percepção",value:"17"}] as s}
+      <grid-item>
+        <box background="surface-secondary" radius="md" padding={2} align="center" gap={1}>
+          <title size="lg" tabularNums>{s.value}</title>
+          <text color="secondary" size="3xs">{s.label}</text>
+        </box>
+      </grid-item>
+    {/each}
+  </grid>
+  **Dinheiro:** 36 PO e 8 PP
+
+  **Especializações:** Furtividade e Percepção
+
+  **Talentos:** Artesão, Alerta e Vigoroso
+</box>
+
+A regra especial dos **dois antecedentes completos** permanece válida para Eron, conforme aprovamos.
+
+A ficha definitiva está registrada no repositório privado:
+
+<Link url="https://github.com/lucasonofresantos-ux/dnd-campanha/blob/main/character/ERON_RIVER_LEVEL_01.md" title="Ficha definitiva de Eron River">Consultar a ficha aprovada no GitHub</Link>
+
+**Criação mecânica encerrada.** Não há mais escolhas obrigatórias para o nível 1. Características de personalidade e interpretação poderão ser aprofundadas durante o jogo, sem alterar as decisões aprovadas.
+
+A próxima etapa será preparar a infraestrutura e os conflitos da campanha, preservando os segredos do Mestre. **A aventura ainda não começou**; nenhuma cena, rolagem ou avanço de tempo ocorreu com esta aprovação.
+
+**[LOG DE MEMÓRIA DA CAMPANHA]**
+- Localização Atual: Não definida; pré-campanha.
+- NPCs Presentes e Relação: Nenhum em cena.
+- Linha de Missão Ativa: Nenhuma; campanha ainda não iniciada.
+- Eventos Cruciais Ocorridos: Ficha mecânica de Eron River, Ladino nível 1, aprovada definitivamente.
+- Condições do Jogador: 12 PV máximos, CA 16, iniciativa +7, Percepção passiva 17, 36 PO e 8 PP; todo o inventário será transportado. Sem proficiência em Funileiro, embora possua as ferramentas.
+
+**GitHub:** aprovação salva na ficha definitiva, na pré-ficha, no índice, nas regras da mesa e nesta transcrição; commits confirmados.
