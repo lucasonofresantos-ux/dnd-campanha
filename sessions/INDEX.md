@@ -6,5 +6,5 @@
 - Transcrição literal: [SESSION_0001_FULL.md](transcripts/SESSION_0001_FULL.md)
 - Ficha em elaboração: [PRE_CHAR_HUMAN_001.md](../character/PRE_CHAR_HUMAN_001.md)
 - Rolagens: [ROLL_LOG.csv](../dice/ROLL_LOG.csv)
-- Última interação registrada: jogador escolheu Guarda B (+50 PO), elevando total confirmado a 90 PO. Perguntou se pode comprar Ferramentas de Coureiro, Entalhador e Pedreiro; Mestre calculou custo com Crafter 20%: 12 PO e 8 PP; compra ainda pendente de confirmação.
-- Próximo passo: confirmar se deseja efetuar compra das três ferramentas por 12 PO e 8 PP, que deixaria 77 PO e 2 PP; depois ajustar inventário e fechar ficha. Campanha não iniciada.
+- Última interação registrada: jogador comprou quatro conjuntos físicos de ferramentas (Coureiro, Entalhador, Pedreiro e Funileiro) por 52 PO e 8 PP com desconto Crafter. Saldo confirmado: 37 PO e 2 PP; Funileiro ainda sem proficiência.
+- Próximo passo: decidir compra opcional de baralho físico por 4 PP com desconto; depois conferir ficha e inventário. Campanha ainda não iniciada.
