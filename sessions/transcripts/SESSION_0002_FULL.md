@@ -202,3 +202,44 @@ O rastro parece continuar pela margem oposta, em direção a uma encosta de pedr
 - Condições do Jogador: Ladino 1, **12/12 PV**, **CA 16**, **0/300 XP**, 36 PO e 8 PP; sem condições ou recursos gastos. Fim da manhã, próximo ao meio-dia.
 
 **GitHub:** rolagens, transcrição e estado da campanha atualizados; commits confirmados.
+
+## [011] JOGADOR — 2026-11-23
+
+Vou examinar o metal pode rolar e vou com a furtividade e percepção que tinha tirado
+
+## [012] MESTRE — 2026-11-23
+
+<row align="center" gap={3}>
+  <box background="surface-secondary" radius="lg" padding={3} align="center" gap={1}>
+    <title size="2xl" tabularNums>20</title>
+    <caption>D20 natural</caption>
+  </box>
+  <box flex="1" gap={1}>
+    **Inteligência (Investigação) +6**
+
+    `1d20+6` → **20 + 6 = 26**
+
+    <text color="success" weight="medium"><icon name="check-circle" inline/> Sucesso</text>
+  </box>
+</row>
+
+O fio de metal está parcialmente enrolado na base de um arbusto. Eron se aproxima cuidadosamente e, graças à experiência adquirida na oficina de Gruner, reconhece um mecanismo rudimentar de captura: **um laço de arame preso a uma estaca de madeira enterrada no solo**.
+
+O arame está rompido e violentamente torcido. Entre suas voltas há alguns **pelos grossos e acinzentados**, e as manchas na pedra próxima parecem ser sangue seco. A disposição das peças sugere que algum animal ficou preso ali e conseguiu escapar, possivelmente ferindo uma das patas.
+
+O laço não parece mais funcional. Entretanto, ele foi fabricado e instalado por alguém. **Quem colocou a armadilha ali permanece desconhecido.**
+
+**Furtividade 27, Percepção 19 e Sobrevivência 25 permanecem válidas** para a exploração contínua, enquanto as circunstâncias não mudarem de modo relevante.
+
+Do outro lado do riacho, as marcas continuam em direção à encosta. Eron ainda está junto ao laço rompido; não o retirou do chão nem atravessou a água.
+
+**O que Eron faz?**
+
+**[LOG DE MEMÓRIA DA CAMPANHA]**
+- Localização Atual: Margem do riacho, junto ao arbusto onde está o laço rompido.
+- NPCs Presentes e Relação: Nenhum à vista.
+- Linha de Missão Ativa: Investigar os ataques às cabras de Mara; recompensa proposta de 12 PO, ainda não recebida.
+- Eventos Cruciais Ocorridos: Investigação **1d20+6 → [20] +6 = 26**. Eron identificou uma armadilha de arame rompida, com pelos acinzentados e aparentes vestígios de sangue. O responsável pela armadilha é desconhecido.
+- Condições do Jogador: Ladino 1, **12/12 PV**, **CA 16**, **0/300 XP**, **36 PO e 8 PP**. Sem condições ou recursos gastos. Furtividade 27, Percepção 19 e Sobrevivência 25 mantidas para esta exploração.
+
+**GitHub:** rolagem, cronologia, estado e transcrição registrados com commits confirmados.
