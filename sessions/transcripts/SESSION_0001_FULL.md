@@ -892,3 +892,45 @@ Pelo *Player's Handbook 2024*, as três ferramentas devem ser escolhidas entre a
 - Condições do Jogador: Eron River, Humano, Ladino nível 1, 12 PV máximos; FOR 12, DES 20, CON 15, INT 19, SAB 16, CAR 14; Especializações em Furtividade e Percepção. Três ferramentas de Crafter, conjunto de jogo, maestrias e equipamentos ainda pendentes.
 
 **GitHub:** commits confirmados para ficha, índice e transcrição pré-campanha.
+
+## [031] JOGADOR — 2026-11-23
+
+Funileiro vem com artifice depois, vou de coureiro, entalhador e pedreiro
+
+## [032] MESTRE — 2026-11-23
+
+**Confirmado!** Eron River escolheu as três proficiências do talento **Crafter**:
+
+- **Ferramentas de Coureiro:** trabalhar couro, produzir e reparar artigos de couro.
+- **Ferramentas de Entalhador:** trabalhar madeira e criar pequenos objetos.
+- **Ferramentas de Pedreiro:** trabalhar pedra e reconhecer técnicas de construção.
+
+Somando às **Ferramentas de Ferreiro**, que vieram do antecedente Artesão, Eron possui agora **quatro proficiências em ferramentas de artesão**.
+
+A escolha combina com seu futuro como Artífice: cobre metalurgia, couro, madeira e pedra, sem gastar uma das três escolhas de Crafter com Funileiro. Vamos reservar essa proficiência para quando ele adquirir níveis de Artífice, conferindo as regras de multiclasse aplicáveis.
+
+Nenhum conjunto físico adicional de ferramentas foi incluído no inventário ainda; escolheremos os equipamentos iniciais separadamente.
+
+Sua previsão está correta: na progressão de **multiclasse para Artífice (2025)**, Eron recebe proficiência com **Ferramentas de Funileiro** ao adquirir seu primeiro nível nessa classe. Por enquanto, permanece apenas como uma aquisição futura. <Cite refs={["turn367697search0","turn367697search8"]}/>
+
+## Próxima escolha — conjunto de jogo do Guarda
+
+O antecedente Guarda também concede proficiência com **um conjunto de jogo**. Você pode escolher:
+
+- **Conjunto de dados**
+- **Baralho de cartas**
+- **Xadrez de Dragão**
+- **Três-Dragões Ante**
+
+Minha sugestão é **Baralho de cartas**: combina com os anos de Eron na Guarda Real, nas tavernas e nas Ruas Baixas, onde aprender a observar o comportamento de outras pessoas pode ser tão útil quanto conhecer as regras de um jogo.
+
+**Qual conjunto de jogo você escolhe para Eron?** Depois passamos às Maestrias em Armas e ao equipamento inicial.
+
+**[LOG DE MEMÓRIA DA CAMPANHA]**
+- Localização Atual: Não definida — personagem em criação.
+- NPCs Presentes e Relação: Nenhum em cena.
+- Linha de Missão Ativa: Nenhuma; campanha ainda não iniciada.
+- Eventos Cruciais Ocorridos: Ferramentas de Coureiro, Entalhador e Pedreiro confirmadas pelo Crafter; Ferreiro já concedida pelo antecedente Artesão.
+- Condições do Jogador: Eron River, Humano, Ladino nível 1, 12 PV máximos; FOR 12, DES 20, CON 15, INT 19, SAB 16, CAR 14. Restam conjunto de jogo, Maestrias em Armas e equipamentos, entre outros detalhes finais.
+
+**GitHub:** commits confirmados para ficha, índice e transcrição literal pré-campanha.
