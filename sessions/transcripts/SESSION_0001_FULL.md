@@ -1374,3 +1374,40 @@ Não precisamos descartar nem vender nada: o inventário de propriedade continua
 - Condições do Jogador: Eron River, Humano, Ladino 1; 12 PV máximos, CA 16; FOR 12, DES 20, CON 15, INT 19, SAB 16, CAR 14. Carga contabilizada: 103,88/180 lb, mais pequenos objetos narrativos de peso não definido; saldo 36 PO e 8 peças de prata.
 
 **GitHub:** commits confirmados para ficha, índice e transcrição pré-campanha.
+
+## [049] JOGADOR — 2026-11-23
+
+Vou levar tudo
+
+## [050] MESTRE — 2026-11-23
+
+**Confirmado! Eron River viajará levando todos os seus equipamentos**, incluindo os cinco conjuntos de ferramentas de artesão, armas, armadura, suprimentos e demais pertences.
+
+<row align="center" gap={3}>
+  <icon name="backpack" size="2xl" color="secondary"/>
+  <box flex="1" gap={1}>
+    **Carga transportada: 103,88 lb (47,1 kg)**
+
+    Capacidade máxima: 180 lb (81,6 kg).
+    <text color="success" size="sm">Dentro do limite de carga normal.</text>
+  </box>
+</row>
+
+Eron deverá distribuir os equipamentos entre a mochila, as bolsas e os pontos de fixação do restante da bagagem. Isso não significa que consiga alcançar instantaneamente qualquer ferramenta durante uma situação de combate.
+
+**Nada será deixado para trás ou armazenado em outro local.** O saldo permanece em **36 PO e 8 PP**.
+
+## Próxima etapa — revisão final da ficha
+
+Também permanecem confirmados os idiomas já escolhidos: **Comum, Goblin, Anão e Élfico**, além da **Gíria de Ladrão**, própria da classe Ladino.
+
+As escolhas de atributos, perícias, Especializações, talentos de origem, Maestrias e equipamentos estão definidas. A próxima etapa é consolidar tudo em uma ficha única, verificar os últimos valores derivados e identificar eventuais detalhes narrativos que ainda precisem de confirmação, sem iniciar a campanha.
+
+**[LOG DE MEMÓRIA DA CAMPANHA]**
+- Localização Atual: Não definida — criação do personagem.
+- NPCs Presentes e Relação: Nenhum em cena.
+- Linha de Missão Ativa: Nenhuma; campanha ainda não iniciada.
+- Eventos Cruciais Ocorridos: Eron decidiu transportar todo o inventário, incluindo os cinco conjuntos de ferramentas. Nenhum item foi deixado, vendido ou armazenado.
+- Condições do Jogador: Humano, Ladino nível 1; **12 PV**, **CA 16**, **103,88/180 lb** de carga contabilizada; **36 PO e 8 PP**. Continua sem proficiência em Ferramentas de Funileiro.
+
+**GitHub:** commits confirmados para a pré-ficha, o índice e a transcrição literal.
