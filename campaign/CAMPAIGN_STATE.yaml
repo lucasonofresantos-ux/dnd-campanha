@@ -53,14 +53,14 @@ location:
   area: "entroncamento da Estrada do Cascalho, próximo ao Pouso das Três Fontes"
   nearby: "encostas arborizadas da serra cujo monte mais alto é chamado Veyra"
   exact_position: "junto ao curral danificado de Mara Telha, na entrada do Pouso das Três Fontes"
-  travel_status: "Eron presente na abertura; jogador ainda não declarou movimento"
+  travel_status: "Eron diante do curral; intenção anunciada de rastrear pouco antes do próximo amanhecer, nenhuma viagem de rastreamento iniciada"
 scene:
   id: OPENING-001
-  status: awaiting_player_reply_to_iria
+  status: awaiting_player_activity_before_dawn
   current_npcs_present:
     - "Mara Telha (criadora de cabras, moradora local)"
     - "Iria Vento-Seco (vigia da aldeia)"
-  immediate_visible_situation: "Eron se aproximou, cumprimentou Mara e perguntou o que houve. Mara relatou duas cabras desaparecidas em três noites, sangue e marcas na lama; Iria confirmou rastros de canídeo rumo ao bosque, sem certeza de número e perguntou se Eron sabe rastrear. Oferta 12 PO ainda não aceita."
+  immediate_visible_situation: "Eron declarou que pretende seguir o animal pouco antes do amanhecer. Mara vai recolher o rebanho restante ao galpão antes de anoitecer. Iria observa que antes do amanhecer ainda estará escuro, a chuva pode apagar os rastros; indicou cerca danificada e estalagem de Alda. Eron ainda decide como ocupar as horas restantes; sem salto temporal."
   combat: false
   initiative: []
   rounds: 0
@@ -79,8 +79,8 @@ world:
 transcription:
   character_creation_history: sessions/transcripts/SESSION_0001_FULL.md
   narrative_session: sessions/transcripts/SESSION_0002_FULL.md
-  last_saved_player_turn: "Vou até a senhora\n- boa tarde senhora, oque está acontecendo?"
-  last_saved_dm_turn: "[004] MESTRE — 2026-11-23; fala de Mara e Iria, registrada literalmente no SESSION_0002_FULL.md"
+  last_saved_player_turn: "- dona Mara, posso seguir sim, mas não é das ideias mais sensatas seguir um lobo no escuro, se não se importar vou sair pouco antes do amanhecer"
+  last_saved_dm_turn: "[006] MESTRE — 2026-11-23; Mara e Iria respondem ao plano de esperar antes de rastrear, salvo no transcript"
 notes:
   - "Primeira resposta de cena será salva literalmente e sem revelar preparativos de dm."
   - "Nunca tratar a aprovação da ficha como XP, nem mudar recursos automaticamente."
