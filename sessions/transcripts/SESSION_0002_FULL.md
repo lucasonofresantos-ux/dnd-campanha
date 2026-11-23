@@ -107,3 +107,45 @@ Mara assente, sem insistir. O vento frio faz ranger uma das tábuas soltas do cu
 - Condições do Jogador: Ladino 1, **12/12 PV**, **CA 16**, **0/300 XP**, 36 PO e 8 PP. Sem condições; nenhuma rolagem ou descanso realizado.
 
 **GitHub:** estado, cronologia e transcrição da interação atualizados; commits confirmados.
+
+## [007] JOGADOR — 2026-11-23
+
+Pode rolar sobrevivência para seguir as pegadas um pouco
+
+## [008] MESTRE — 2026-11-23
+
+<row align="center" gap={3}>
+  <box background="surface-secondary" radius="lg" padding={3} align="center" justify="center">
+    <icon name="dices" size="2xl"/>
+    <title size="2xl" tabularNums>20</title>
+    <caption>D20 natural</caption>
+  </box>
+  <box flex="1" gap={1}>
+    **Teste de Sabedoria (Sobrevivência)**
+
+    `1d20+5` → **20 + 5 = 25**
+
+    <text color="success" weight="medium"><icon name="check-circle" inline/> Sucesso excepcional</text>
+  </box>
+</row>
+
+Eron se agacha junto à cerca e examina as marcas antes de acompanhá-las pelo pasto úmido. A chuva apagou os detalhes mais rasos, mas não os sulcos deixados no barro. Ele consegue seguir o rastro por cerca de cem metros, até a borda do bosque.
+
+Há algo que um observador menos experiente provavelmente deixaria passar: **as impressões de uma das patas dianteiras são irregulares e menos profundas**. O animal parece poupar o peso sobre essa pata. Em alguns pontos, a passada fica mais curta; em outros, há sinais de que parou por instantes.
+
+As marcas mais nítidas parecem pertencer a **um único canídeo de porte considerável**. Isso não garante que estivesse sozinho.
+
+Na orla das árvores, o rastro entra por uma passagem estreita entre samambaias e raízes expostas. Adiante, o chão fica coberto de folhas e agulhas de pinheiro, onde as pegadas são mais difíceis de distinguir. Você ainda não avistou nenhum animal.
+
+Passaram-se apenas alguns minutos desde a conversa com Mara; **ainda é fim da manhã**. Eron pode retornar pelo mesmo caminho sem dificuldade.
+
+**O que Eron faz?**
+
+**[LOG DE MEMÓRIA DA CAMPANHA]**
+- Localização Atual: Borda do bosque, aproximadamente 100 metros do curral de Mara.
+- NPCs Presentes e Relação: Mara Telha e Iria Vento-Seco permaneceram na região do curral, fora da posição imediata de Eron.
+- Linha de Missão Ativa: Investigar os ataques às cabras; recompensa proposta de 12 PO, ainda não recebida.
+- Eventos Cruciais Ocorridos: Sobrevivência **1d20+5 → [20] +5 = 25**; Eron acompanhou pegadas e percebeu indícios de que o canídeo evita apoiar plenamente uma pata dianteira.
+- Condições do Jogador: Ladino 1, **12/12 PV**, **CA 16**, **0/300 XP**, 36 PO e 8 PP. Sem condições; não houve combate ou gasto de recursos.
+
+**GitHub:** rolagem, transcrição e estado atualizados com commits confirmados.
