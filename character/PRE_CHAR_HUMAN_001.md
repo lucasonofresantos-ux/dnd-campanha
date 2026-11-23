@@ -261,3 +261,10 @@ Aguardar escolha de distribuição e regras de origem. Não iniciar campanha aut
 - Características adicionais de espécie revisadas com SRD 5.2.1 / Basic Rules 2024: Engenhoso (Inspiração Heroica após Descanso Longo), Habilidoso (Sobrevivência), Versátil (Vigoroso). Não ganhar Inspiração Heroica automaticamente no instante de criação sem Long Rest.
 - Derivados, habilidades Ladino 1, ataques, Maestrias, perícias, inventário e moedas foram consolidados. Não foram realizadas compras, rolagens, mudanças de atributos ou movimentações nesta mensagem.
 - Status: **Aguardando aprovação final da ficha consolidada pelo jogador**. Campanha ainda não iniciada.
+
+## FICHA DEFINITIVA APROVADA — 2026-11-23
+- Mensagem literal: "Aprovado". Referente à pergunta sobre aprovação da ficha consolidada `character/ERON_RIVER_LEVEL_01.md`.
+- Eron River, Humano, Ladino 1, com Artesão e Guarda mecânicos (house rule específica), tem a ficha consolidada DEFINITIVAMENTE APROVADA pelo jogador.
+- Não houve rolagem, compra, troca de item, alteração de condição, início narrativo ou avanço temporal nesta confirmação.
+- A pré-ficha permanece registro histórico, não referência substituta do estado final. Ler `character/ERON_RIVER_LEVEL_01.md` para o estado atual.
+- Próximas providências possíveis: preparação de campanha/infraestrutura do Mestre (em sigilo), revisão de itens pessoais narrativos no devido momento; sem começar cena até infraestrutura e premissa prontas.
