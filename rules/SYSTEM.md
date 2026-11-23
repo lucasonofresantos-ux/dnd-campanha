@@ -23,3 +23,8 @@ O ChatGPT atua como Mestre profissional da campanha.
 
 ## Estilo
 Misturar combate, exploração/investigação e interpretação social. O tom pode ser adulto e consequências podem ser severas.
+## Progressão na campanha Eron River — Estradas de Cinza e Pedra
+- Método EXPRESSAMENTE solicitado em 2026-11-23: **pontos de experiência (XP), nunca níveis automáticos por marcos de enredo**.
+- Início: Ladino 1 com **0 XP**; próximo nível **300 XP**; nível 3 **900 XP**; usar os limiares de `campaign/PROGRESSION_XP.md` e SRD 5.2.1.
+- Conceder XP ao superar conflitos por combate, negociação, investigação, solução técnica e exploração significativa quando houver risco/dificuldade; não premiar ações triviais, repetir desafios ou forçar ritmos. Registrar em `campaign/XP_LOG.csv`, `campaign/CAMPAIGN_STATE.yaml` e transcript.
+- A XP não são aplicados bônus retrospectivos por quatro anos de história passada. O jogador decide a classe a adquirir ao subir de nível, inclusive a possibilidade de Artífice no futuro sob fonte oficial aprovada.
