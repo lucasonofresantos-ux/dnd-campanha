@@ -52,15 +52,15 @@ location:
   polity: "Terras Livres de Avenhar (homebrew), fora de Valdren"
   area: "entroncamento da Estrada do Cascalho, próximo ao Pouso das Três Fontes"
   nearby: "encostas arborizadas da serra cujo monte mais alto é chamado Veyra"
-  exact_position: "estrada pública junto ao bebedouro de pedra e à paliçada da aldeia"
+  exact_position: "junto ao curral danificado de Mara Telha, na entrada do Pouso das Três Fontes"
   travel_status: "Eron presente na abertura; jogador ainda não declarou movimento"
 scene:
   id: OPENING-001
-  status: awaiting_first_player_action
+  status: awaiting_player_reply_to_iria
   current_npcs_present:
     - "Mara Telha (criadora de cabras, moradora local)"
     - "Iria Vento-Seco (vigia da aldeia)"
-  immediate_visible_situation: "moradores discutem ataques de animal a rebanhos; vestígios vistos à beira da estrada; oferta de trabalho é possível, não aceita"
+  immediate_visible_situation: "Eron se aproximou, cumprimentou Mara e perguntou o que houve. Mara relatou duas cabras desaparecidas em três noites, sangue e marcas na lama; Iria confirmou rastros de canídeo rumo ao bosque, sem certeza de número e perguntou se Eron sabe rastrear. Oferta 12 PO ainda não aceita."
   combat: false
   initiative: []
   rounds: 0
@@ -79,8 +79,8 @@ world:
 transcription:
   character_creation_history: sessions/transcripts/SESSION_0001_FULL.md
   narrative_session: sessions/transcripts/SESSION_0002_FULL.md
-  last_saved_player_turn: "Pode preparar tudo e me dá o gancho para a campanha, e já vamos começar, só por favor que ganhe níveis por xp"
-  last_saved_dm_turn: "[002] MESTRE — 2026-11-23; cena de abertura salva literalmente no SESSION_0002_FULL.md"
+  last_saved_player_turn: "Vou até a senhora\n- boa tarde senhora, oque está acontecendo?"
+  last_saved_dm_turn: "[004] MESTRE — 2026-11-23; fala de Mara e Iria, registrada literalmente no SESSION_0002_FULL.md"
 notes:
   - "Primeira resposta de cena será salva literalmente e sem revelar preparativos de dm."
   - "Nunca tratar a aprovação da ficha como XP, nem mudar recursos automaticamente."
