@@ -205,3 +205,16 @@ Aguardar escolha de distribuição e regras de origem. Não iniciar campanha aut
 - Conjunto de Ferreiro físico já veio do Artesão A e Ferramentas de Ladrão físicas do Ladino A. Proficiência em Baralho de Cartas do Guarda confirmada, mas objeto físico NÃO recebido com Guarda B; pode comprar depois.
 - Próximo passo ÚNICO: perguntar ao jogador se confirma a compra conjunta por 12 PO e 8 PP. Não registrar transação como concluída sem resposta afirmativa.
 - Fontes consultadas: D&D Beyond Basic Rules 2024 Equipment https://www.dndbeyond.com/sources/dnd/br-2024/equipment e Roll20 Crafter 2024 https://roll20.net/compendium/dnd5e/Feats%3ACrafter?expansion=32231 .
+
+## COMPRA CONFIRMADA DE QUATRO CONJUNTOS DE FERRAMENTAS — 2026-11-23
+- Mensagem literal do jogador: "Vou pegar elas e a de funileiro se o dinheiro der". Confirma compra das três ferramentas previamente cotadas (Coureiro, Entalhador e Pedreiro) E das Ferramentas de Funileiro, **se saldo suficiente**. Saldo comprovadamente suficiente.
+- Compra efetuada em fase de criação de personagem (a campanha não iniciou). Item e preço 2024 sem desconto => preço após desconto de 20% do talento Crafter:
+  - 1x Ferramentas de Coureiro (Leatherworker's Tools): 5 PO => **4 PO**;
+  - 1x Ferramentas de Entalhador (Woodcarver's Tools): 1 PO => **8 PP**;
+  - 1x Ferramentas de Pedreiro (Mason's Tools): 10 PO => **8 PO**;
+  - 1x Ferramentas de Funileiro (Tinker's Tools): 50 PO => **40 PO**.
+- Total sem desconto: 66 PO. **Total gasto: 52 PO e 8 PP** (52,8 PO). **Saldo antes: 90 PO; saldo após: 37 PO e 2 PP** (37,2 PO). NÃO debitar duas vezes.
+- Inventário físico artesanal TOTAL confirmado: 1x Ferreiro (antecedente Artesão A), 1x Coureiro (compra), 1x Entalhador (compra), 1x Pedreiro (compra), 1x Funileiro (compra). Além de 1x Ferramentas de Ladrão (classe Ladino A).
+- Proficiências de ferramentas artesanais: Ferreiro, Coureiro, Entalhador, Pedreiro. **Funileiro está no inventário, mas Eron não tem proficiência com elas no nível 1 de Ladino**, adquirível quando multiclassar para Artífice conforme fonte oficial aplicável.
+- Próxima escolha: compra opcional de 1x Baralho de Cartas físico, já proficiente em jogo. Custo tabela 2024 de 5 PP, com Crafter 20% = 4 PP. Ainda NÃO comprar sem resposta. Se comprar, 37 PO 2 PP - 4 PP = 36 PO 8 PP.
+- Referências: https://www.dndbeyond.com/sources/dnd/br-2024/equipment ; https://roll20.net/compendium/dnd5e/Feats%3ACrafter?expansion=32231 ; https://roll20.net/compendium/dnd5e/Items%3APlaying%20Card%20Set?expansion=33335 .
