@@ -642,7 +642,7 @@ Como Ladino de nível 1, Eron deve escolher **quatro perícias adicionais** dent
   <grid columns={2} gap={2}>
     {#each skillOptions as skill}
       <grid-item>
-        <checkbox key={skill} checked={selectedSkills.includes(skill)} disabled={!selectedSkills.includes(skill)&&selectedSkills.length>=4} onChange={(checked)=>setSelectedSkills(prev=>checked?[...prev,skill]:prev.filter(x=>x!==skill))} lineThrough={false}>{skill}</checkbox>
+        <checkbox checked={selectedSkills.includes(skill)} disabled={!selectedSkills.includes(skill)&&selectedSkills.length>=4} onChange={(checked)=>setSelectedSkills(prev=>checked?[...prev,skill]:prev.filter(x=>x!==skill))} lineThrough={false}>{skill}</checkbox>
       </grid-item>
     {/each}
   </grid>
