@@ -704,3 +704,48 @@ Para seu futuro Ladino/Artífice, recomendo **Arcanismo (+6)**: aproveita sua In
 - Condições do Jogador: Eron River, Humano, Ladino nível 1, 10 PV; FOR 12, DES 20, CON 15, INT 19, SAB 16, CAR 14. Falta perícia humana, Especializações, ferramentas, talento humano e equipamentos.
 
 **GitHub:** commit confirmado para ficha, índice e transcrição pré-campanha.
+
+## [023] JOGADOR — 2026-11-23
+
+Sobrevivência
+
+## [024] MESTRE — 2026-11-23
+
+<text color="success" weight="medium"><icon name="check-circle" inline/> Sobrevivência confirmada!</text>
+
+Eron River recebe **Sobrevivência** como perícia adicional da espécie Humano, pela característica **Habilidoso**.
+
+Com Sabedoria 16 (+3) e bônus de proficiência +2, temos:
+
+**Sobrevivência: +5**
+
+Agora Eron possui **9 perícias proficientes** no nível 1: quatro do Ladino, quatro dos antecedentes Guarda e Artesão, e uma do Humano.
+
+## Próxima etapa: Especialização do Ladino
+
+No nível 1, o Ladino pode escolher **duas Especializações**. Elas dobram o bônus de proficiência nas perícias escolhidas — de +2 para +4 neste nível.
+
+Para Eron, um investigador e futuro Artífice, duas possibilidades particularmente interessantes são **Investigação** e **Furtividade**. Mas a escolha será sua.
+
+Pela regra do Ladino de 2024, as duas Especializações devem ser escolhidas dentre suas **perícias proficientes**. <Cite ref="turn565431view0"/>
+
+| Perícia | Bônus atual | Com Especialização |
+|---|---:|---:|
+| Investigação | +6 | **+8** |
+| Furtividade | +7 | **+9** |
+| Prestidigitação | +7 | **+9** |
+| Sobrevivência | +5 | **+7** |
+| Percepção | +5 | **+7** |
+
+Você também pode escolher Enganação, Intuição, Persuasão ou Atletismo.
+
+**Quais duas perícias Eron vai especializar?** Minha sugestão é **Investigação e Furtividade**, mas você pode combinar quaisquer duas das nove.
+
+**[LOG DE MEMÓRIA DA CAMPANHA]**
+- Localização Atual: Não definida — criação do personagem.
+- NPCs Presentes e Relação: Nenhum em cena.
+- Linha de Missão Ativa: Nenhuma; campanha ainda não iniciada.
+- Eventos Cruciais Ocorridos: Sobrevivência escolhida pelo Humano; Eron agora tem nove perícias proficientes.
+- Condições do Jogador: Humano, Ladino nível 1, 10 PV; FOR 12, DES 20, CON 15, INT 19, SAB 16, CAR 14. Especializações e demais equipamentos e talentos ainda pendentes.
+
+**GitHub:** commits confirmados para ficha, índice e transcrição pré-campanha.
