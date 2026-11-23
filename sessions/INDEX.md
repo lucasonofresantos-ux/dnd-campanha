@@ -18,5 +18,5 @@
 - XP: [XP_LOG.csv](../campaign/XP_LOG.csv), regras em [PROGRESSION_XP.md](../campaign/PROGRESSION_XP.md).
 - Sessão narrativa 1: [SESSION_0002.md](SESSION_0002.md), transcrição [SESSION_0002_FULL.md](transcripts/SESSION_0002_FULL.md).
 - Isolamento: não misturar com `PRE-CHAR-HUMAN-001` (que é histórico da criação), nem com campanhas de outros personagens.
-- Transcrição [SESSION_0002_FULL.md](transcripts/SESSION_0002_FULL.md), mensagens [001]–[008]: Eron conversou com Mara/Iria, anunciou plano para amanhã, depois pediu rolagem Sobrevivência +5 e inspecionou rastros por 100 m. Rolagem pública d20 [20] +5 = 25, levada ao registro dice/ROLL_LOG.csv. Borda do bosque, fim da manhã; 0/300 XP, oferta de 12 PO pendente.
+- Transcrição [SESSION_0002_FULL.md](transcripts/SESSION_0002_FULL.md), mensagens [001]–[010]: Eron segue mesmo rastreio com Sobrevivência 25, Furtividade [18]+9=27 e Percepção [12]+7=19 (registrados no dice/ROLL_LOG.csv). Após 30 min no bosque, alcança riacho, observa manchas escuras e fio metálico retorcido; rastro na margem oposta. Ainda 0/300 XP e 36 PO 8 PP, sem combate.
 - Planejamento secreto em `dm/` (jamais incluir em logs públicos).
