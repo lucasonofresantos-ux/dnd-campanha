@@ -58,7 +58,7 @@ scene:
   id: OPENING-001
   status: awaiting_player_action_at_wolf_den
   current_npcs_present: []
-  immediate_visible_situation: "Eron pediu Furtividade e Percepção para aproximar até a abertura: Furtividade 1d20+9=[18]+9=27; Percepção 1d20+7=[13]+7=20. Deslocou-se de 15 m para 2 m da entrada, protegido por saliência rochosa e sem entrar. Distinguiu no interior uma loba cinzenta deitada com uma pata dianteira recolhida, lambendo região próxima ao tornozelo, e dois filhotes pequenos junto ao ventre. Loba levantou ligeiramente cabeça e movimentou orelhas por som da ravina, mas não se levantou e, até onde Eron percebe, não o notou. Combate não iniciado."
+  immediate_visible_situation: "Eron permanece atrás de pedra a 2 m da toca, ainda sem contato ou aproximação adicional. Pediu teste de Lidar com Animais: Sabedoria +3 (não proficiente), Python secrets.randbelow 1d20+3 → [15]+3=18. Ao observar respiração e postura, interpreta dor e reação defensiva pela pata e filhotes, não ataque imediato. Deduz que aproximação súbita ou bloquear saída seria perigoso, contato lento e não ameaçador poderia ser tolerado sem garantia. Loba continua deitada e vigilante; filhotes presentes, nenhum combate."
   combat: false
   initiative: []
   rounds: 0
@@ -77,8 +77,8 @@ world:
 transcription:
   character_creation_history: sessions/transcripts/SESSION_0001_FULL.md
   narrative_session: sessions/transcripts/SESSION_0002_FULL.md
-  last_saved_player_turn: "Pode rolar furtividade e percepção até a abertura"
-  last_saved_dm_turn: "[016] MESTRE — 2026-11-23; Furtividade 27, Percepção 20, loba e dois filhotes observados de fora, transcrição salva"
+  last_saved_player_turn: "Role lidar com animais para mim"
+  last_saved_dm_turn: "[018] MESTRE — 2026-11-23; Lidar com Animais [15]+3=18, observação defensiva sem contato; transcrição salva"
 notes:
   - "Primeira resposta de cena será salva literalmente e sem revelar preparativos de dm."
   - "Nunca tratar a aprovação da ficha como XP, nem mudar recursos automaticamente."
