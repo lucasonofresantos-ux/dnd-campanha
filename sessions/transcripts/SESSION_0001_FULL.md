@@ -64,3 +64,38 @@ Foram rejeitadas **39 sequências anteriores**, conforme o critério definido. O
 - Histórico de 40 sequências completas (240 rolagens 4d6dl1) em `dice/ROLL_LOG.csv`.
 - O texto de progresso temporário não integra a resposta final consolidada.
 - Não há eventos narrativos ou spoilers.
+
+## [003] JOGADOR — 2026-11-23
+
+ótimo, como mestre permite um personagem com dois antecedentes?
+
+## [004] MESTRE — 2026-11-23
+
+**Sim! Como Mestre do Santuário, permito que seu personagem tenha dois antecedentes em sua história.** Porém, faço uma distinção entre história e benefícios mecânicos.
+
+Pelas regras de D&D 5E (2024), o personagem recebe normalmente os benefícios de **um único antecedente**. Ter dois antecedentes completos, acumulando atributos, perícias, talentos e equipamentos, seria uma regra própria da mesa. <Cite refs={["turn911794view0","turn911794view1"]}/>
+
+Minha decisão para a nossa mesa é:
+
+- **Dois antecedentes narrativos:** permitido. Por exemplo, um personagem que foi Guarda da Cidade e depois trabalhou como Artesão.
+- **Benefícios mecânicos:** escolhemos um antecedente principal. O outro faz parte da história, dos contatos, dos conhecimentos e das experiências do personagem, sem duplicar automaticamente os benefícios.
+- **Personalização:** podemos adaptar um antecedente para representar melhor as duas profissões, preservando o equilíbrio das regras.
+
+## Uma vantagem importante do humano de 2024
+
+O humano possui a característica **Versátil**, que concede um talento de origem adicional. Isso significa que ele pode começar com dois talentos de origem, sem precisar receber os benefícios completos de dois antecedentes. <Cite refs={["turn911794search12","turn911794search1"]}/>
+
+Por exemplo, você poderia ter **Guarda** como antecedente mecânico, recebendo **Alerta**, e escolher outro talento de origem pela espécie Humano. O personagem também começa sabendo Comum e outros dois idiomas à escolha, independentemente do antecedente. <Cite refs={["turn993922search15","turn911794view1"]}/>
+
+E como já conseguimos atributos excelentes — **18, 16, 15, 15, 14 e 12** —, não precisamos acrescentar benefícios exagerados para construir um personagem excepcional.
+
+Se quiser, me diga **quais dois antecedentes** deseja combinar. Podemos estabelecer um como principal e o outro como parte da trajetória do personagem.
+
+**[LOG DE MEMÓRIA DA CAMPANHA]**
+- Localização Atual: Não definida — personagem em criação.
+- NPCs Presentes e Relação: Nenhum.
+- Linha de Missão Ativa: Nenhuma — campanha não iniciada.
+- Eventos Cruciais Ocorridos: Autorizados dois antecedentes narrativos; apenas um conjunto mecânico de antecedente. Humano pode obter talento de origem adicional pela espécie.
+- Condições do Jogador: Humano em elaboração; atributos 18, 16, 15, 15, 14, 12; classe e antecedentes não definidos.
+
+**GitHub:** commit confirmado. Registro atualizado sem vincular a uma campanha narrativa.
