@@ -6,5 +6,5 @@
 - Transcrição literal: [SESSION_0001_FULL.md](transcripts/SESSION_0001_FULL.md)
 - Ficha em elaboração: [PRE_CHAR_HUMAN_001.md](../character/PRE_CHAR_HUMAN_001.md)
 - Rolagens: [ROLL_LOG.csv](../dice/ROLL_LOG.csv)
-- Última interação registrada: jogador confirmou compra do Baralho de Cartas físico por 4 PP (desconto Crafter). Saldo atual 36 PO e 8 PP. Ratificou ausência de proficiência em Funileiro, embora possua o conjunto físico.
-- Próximo passo: conferência de peso/carga, conteúdo detalhado do Pacote de Assaltante e ficha completa de Eron. Campanha não iniciada.
+- Última interação registrada: jogador confirmou avanço para auditoria do inventário. Peso conferido 103,88 lb (47,12 kg), capacidade 180 lb (FOR 12 × 15); conteúdo de Pacote de Assaltante 2024 discriminado. Saldo 36 PO e 8 peças de prata inalterado.
+- Próximo passo: decidir se transporta todos os cinco conjuntos físicos de ferramentas durante viagens ou se planeja separá-los para eventual armazenamento seguro; revisar logística e últimos detalhes da ficha. Campanha não iniciada.
