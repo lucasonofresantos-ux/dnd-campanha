@@ -33,3 +33,11 @@ Histórico integral das 40 tentativas (faces dos 4d6 e valores finais): `dice/RO
 Registro de conversa: `sessions/transcripts/SESSION_0001_FULL.md`.
 
 Aguardar escolha de distribuição e regras de origem. Não iniciar campanha automaticamente.
+
+## Parecer do Mestre — 2026-11-23
+- Dois antecedentes narrativos permitidos (história de vida com mais de uma profissão/ocupação).
+- Somente um pacote mecânico de antecedente na criação (atributos, talento, perícias, ferramentas, equipamento). Não se acumulam pacotes completos, salvo futura house rule expressamente aprovada.
+- Espécie Humano (2024) permite talento adicional de origem pela característica Versátil, independentemente do antecedente.
+- Guarda (PHB 2024) possui Alerta como talento de origem; o jogador ainda não confirmou Guarda como antecedente principal.
+- Comum + dois idiomas-padrão de escolha normal de criação de personagem, independentes do antecedente.
+- Antecedentes específicos e segundo talento de origem ainda indefinidos; criação não concluída.
