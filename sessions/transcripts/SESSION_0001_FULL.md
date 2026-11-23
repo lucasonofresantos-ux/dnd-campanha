@@ -1291,3 +1291,86 @@ As escolhas mecânicas principais estão completas. Faltam a **conferência do p
 - Condições do Jogador: Eron River, humano, Ladino 1, 12 PV máximos, CA 16; FOR 12, DES 20, CON 15, INT 19, SAB 16, CAR 14. Possui ferramentas de Funileiro, ainda sem proficiência.
 
 **GitHub:** commits confirmados para pré-ficha, índice e transcrição literal.
+
+## [047] JOGADOR — 2026-11-23
+
+Confirmado
+
+## [048] MESTRE — 2026-11-23
+
+## Eron River — conferência final do inventário
+
+A escolha dos equipamentos está confirmada. Verifiquei os pesos usando a tabela oficial do D&D 5E 2024, e **Eron consegue carregar todos os equipamentos que adquiriu**, embora seja uma carga considerável para um Ladino.
+
+<grid columns={2} gap={3}>
+  <grid-item>
+    <box border radius="lg" padding={3} gap={1}>
+      <text color="secondary" weight="medium" size="xs">Peso total do inventário</text>
+      <title size="xl" tabularNums>103,88 lb</title>
+      <caption>Aproximadamente 47,1 kg</caption>
+    </box>
+  </grid-item>
+  <grid-item>
+    <box border radius="lg" padding={3} gap={1}>
+      <text color="secondary" weight="medium" size="xs">Capacidade máxima</text>
+      <title size="xl" tabularNums>180 lb</title>
+      <caption>Aproximadamente 81,6 kg</caption>
+    </box>
+  </grid-item>
+</grid>
+
+<box gap={1}>
+  <row align="center" justify="between">
+    **Capacidade utilizada**
+    <text weight="medium" tabularNums>57,7%</text>
+  </row>
+  <box background="surface-tertiary" radius="full" height="10px" clip>
+    <box background="rgba(84,147,122,0.85)" width="57.7%" height="100%" radius="full"/>
+  </box>
+  <caption>Margem disponível: 76,12 lb (aproximadamente 34,5 kg).</caption>
+</box>
+
+A capacidade é calculada por **Força 12 × 15 lb**, conforme o SRD 5.2.1 e as regras de 2024. <Cite refs={["turn585496view6","turn559122view0"]}/>
+
+## Inventário consolidado
+
+| Grupo de equipamentos | Peso |
+|---|---:|
+| Armadura de couro | 10 lb |
+| Espada curta, duas adagas, arco curto, flechas e aljava | 8 lb |
+| Ferramentas de ladrão | 1 lb |
+| Pacote de assaltante completo | 42 lb |
+| Ferramentas de Ferreiro | 8 lb |
+| Ferramentas de Coureiro | 5 lb |
+| Ferramentas de Entalhador | 5 lb |
+| Ferramentas de Pedreiro | 8 lb |
+| Ferramentas de Funileiro | 10 lb |
+| Duas bolsas e roupas de viajante | 6 lb |
+| 36 PO e 8 peças de prata | 0,88 lb |
+| Baralho de cartas | Peso desprezível |
+| **Total** | **103,88 lb** |
+
+<Cite refs={["turn585496view2","turn585496view3","turn559122view1","turn559122view3","turn559122view4","turn412539view2"]}/>
+
+O total não inclui o peso de pequenos objetos pessoais da história cujo peso ainda não está definido.
+
+## Conteúdo do pacote de assaltante
+
+O pacote de assaltante (*Burglar's Pack*) de 2024, que já está incluído nas **42 lb** acima, contém mochila, esferas de metal, sino, 10 velas, pé de cabra, lanterna coberta, 7 frascos de óleo, 5 dias de rações, corda, pederneira e cantil. Não some esses itens novamente ao peso total. <Cite ref="turn585496view0"/>
+
+**Observação sobre o transporte:** a mochila comporta até 30 lb de conteúdo. Portanto, embora a carga total esteja abaixo da capacidade de Eron, ele precisará distribuir parte dos itens entre bolsas, cintos e equipamentos presos externamente, em vez de colocar tudo dentro da mochila. <Cite ref="turn713189search17"/>
+
+## Próxima decisão — o que Eron levará consigo?
+
+**Você prefere que Eron viaje carregando todos os cinco conjuntos de ferramentas ou que mantenha algumas separadas para deixar em um local seguro quando houver essa possibilidade?**
+
+Não precisamos descartar nem vender nada: o inventário de propriedade continua o mesmo. Essa escolha serve apenas para definir o equipamento transportado durante exploração e combate.
+
+**[LOG DE MEMÓRIA DA CAMPANHA]**
+- Localização Atual: Não definida — conferência da ficha.
+- NPCs Presentes e Relação: Nenhum em cena.
+- Linha de Missão Ativa: Nenhuma; campanha ainda não iniciada.
+- Eventos Cruciais Ocorridos: Inventário e capacidade de carga conferidos, sem compras, vendas ou descartes adicionais.
+- Condições do Jogador: Eron River, Humano, Ladino 1; 12 PV máximos, CA 16; FOR 12, DES 20, CON 15, INT 19, SAB 16, CAR 14. Carga contabilizada: 103,88/180 lb, mais pequenos objetos narrativos de peso não definido; saldo 36 PO e 8 peças de prata.
+
+**GitHub:** commits confirmados para ficha, índice e transcrição pré-campanha.
