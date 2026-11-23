@@ -80,7 +80,7 @@ transcription:
   character_creation_history: sessions/transcripts/SESSION_0001_FULL.md
   narrative_session: sessions/transcripts/SESSION_0002_FULL.md
   last_saved_player_turn: "Pode preparar tudo e me dá o gancho para a campanha, e já vamos começar, só por favor que ganhe níveis por xp"
-  last_saved_dm_turn: pending_transcript_commit
+  last_saved_dm_turn: "[002] MESTRE — 2026-11-23; cena de abertura salva literalmente no SESSION_0002_FULL.md"
 notes:
   - "Primeira resposta de cena será salva literalmente e sem revelar preparativos de dm."
   - "Nunca tratar a aprovação da ficha como XP, nem mudar recursos automaticamente."
