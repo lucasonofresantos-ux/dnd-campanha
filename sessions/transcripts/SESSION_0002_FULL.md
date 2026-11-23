@@ -56,3 +56,27 @@ A vigia, que Mara chama de **Iria**, permanece em silêncio, observando tanto a 
 
 **GitHub:** estado inicial, progressão por XP, cronologia, preparação reservada do Mestre e transcrição da abertura registrados; commits confirmados.
 
+
+## [003] JOGADOR — 2026-11-23
+
+Vou até a senhora
+- boa tarde senhora, oque está acontecendo?
+
+## [004] MESTRE — 2026-11-23
+
+Mara se volta inteiramente para você e enxuga as mãos num avental áspero, ainda manchado de barro.
+
+— Boa tarde, viajante. Começou há três noites. Primeiro sumiu uma cabra do pasto de cima. Na noite passada, levaram outra daqui, de dentro do cercado. Encontramos sangue perto das tábuas e aquelas marcas seguindo para a mata. — Ela aponta para o sulco na lama. — Ouvi dizer que é lobo, mas não vi bicho nenhum. E cada noite que passa fica mais difícil convencer os vizinhos a deixar os animais aqui.
+
+Iria, a vigia, apoia a ponta da lança no chão antes de acrescentar:
+
+— As pegadas parecem de algum canídeo, mas a chuva estragou boa parte delas. O rastro segue para o bosque, na direção das encostas. Não sabemos se é um animal só. — Ela olha para Eron. — Você tem experiência em seguir rastros?
+
+**[LOG DE MEMÓRIA DA CAMPANHA]**
+- Localização Atual: Junto ao curral danificado do Pouso das Três Fontes, Avenhar.
+- NPCs Presentes e Relação: Mara Telha (criadora de cabras; conversa cordial) e Iria Vento-Seco (vigia; cautelosa, pergunta sobre experiência).
+- Linha de Missão Ativa: Oferta de 12 PO para solucionar os ataques ao rebanho; ainda não aceita.
+- Eventos Cruciais Ocorridos: Eron aproximou-se de Mara e perguntou o que estava acontecendo; Mara e Iria relataram perdas, vestígios e incerteza sobre o predador.
+- Condições do Jogador: Ladino 1, **12/12 PV**, **CA 16**, **0/300 XP**, 36 PO e 8 PP. Sem condições; nenhuma rolagem necessária até agora.
+
+**GitHub:** transcrição e estado da campanha atualizados; commits confirmados.
