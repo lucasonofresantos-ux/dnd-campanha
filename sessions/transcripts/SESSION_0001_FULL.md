@@ -1080,3 +1080,48 @@ Como Eron já possui **8 PO** pelo Ladino, escolher a opção A elevaria suas mo
 - Condições do Jogador: Eron River, Humano, Ladino 1, **12 PV máximos**, **CA 16**; FOR 12, DES 20, CON 15, INT 19, SAB 16, CAR 14. Pacotes de Artesão e Guarda ainda pendentes.
 
 **GitHub:** commits confirmados para ficha, índice e transcrição pré-campanha.
+
+## [039] JOGADOR — 2026-11-23
+
+A
+
+## [040] MESTRE — 2026-11-23
+
+<text color="success" weight="medium"><icon name="check-circle" inline/> Opção A do antecedente Artesão confirmada!</text>
+
+Eron River recebe os seguintes equipamentos:
+
+| Equipamento | Quantidade |
+|---|---:|
+| Ferramentas de Ferreiro | 1 conjunto |
+| Bolsas | 2 |
+| Roupas de viajante | 1 conjunto |
+| Moedas de ouro | **32 PO** |
+
+Como Eron já recebeu 8 PO do Ladino, seu saldo inicial acumulado passa a ser de **40 PO**.
+
+Agora ele possui fisicamente suas Ferramentas de Ferreiro, além da proficiência para utilizá-las.
+
+## Próxima escolha — equipamentos do Guarda
+
+Só resta decidir o pacote do segundo antecedente, **Guarda**, que também será recebido integralmente conforme nossa regra própria. As opções de 2024 são: <Cite ref="turn864141search1"/>
+
+| Opção | Equipamento |
+|---|---|
+| **A — Equipamentos** | Lança, besta leve, 20 virotes, **baralho de cartas**, lanterna coberta, algemas, aljava, roupas de viajante e **12 PO** |
+| **B — Ouro** | **50 PO**, sem esses itens |
+
+Se escolher **A**, Eron ficará com **52 PO** e receberá todo o equipamento listado. Se escolher **B**, ficará com **90 PO**.
+
+Como você já escolheu o baralho de cartas como proficiência, a opção A também entregará o conjunto físico correspondente.
+
+**Qual você prefere para o Guarda: A ou B?**
+
+**[LOG DE MEMÓRIA DA CAMPANHA]**
+- Localização Atual: Indefinida; ficha em criação.
+- NPCs Presentes e Relação: Nenhum em cena.
+- Linha de Missão Ativa: Nenhuma; campanha ainda não iniciada.
+- Eventos Cruciais Ocorridos: Pacote A do antecedente Artesão confirmado.
+- Condições do Jogador: Eron River, Humano, Ladino 1, 12 PV máximos, CA 16, **40 PO**; equipamentos do Guarda ainda pendentes.
+
+**GitHub:** commits confirmados para ficha, índice e transcrição pré-campanha.
