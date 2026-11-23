@@ -18,5 +18,5 @@
 - XP: [XP_LOG.csv](../campaign/XP_LOG.csv), regras em [PROGRESSION_XP.md](../campaign/PROGRESSION_XP.md).
 - Sessão narrativa 1: [SESSION_0002.md](SESSION_0002.md), transcrição [SESSION_0002_FULL.md](transcripts/SESSION_0002_FULL.md).
 - Isolamento: não misturar com `PRE-CHAR-HUMAN-001` (que é histórico da criação), nem com campanhas de outros personagens.
-- Transcrição [SESSION_0002_FULL.md](transcripts/SESSION_0002_FULL.md), mensagens [001]–[010]: Eron segue mesmo rastreio com Sobrevivência 25, Furtividade [18]+9=27 e Percepção [12]+7=19 (registrados no dice/ROLL_LOG.csv). Após 30 min no bosque, alcança riacho, observa manchas escuras e fio metálico retorcido; rastro na margem oposta. Ainda 0/300 XP e 36 PO 8 PP, sem combate.
+- Transcrição [SESSION_0002_FULL.md](transcripts/SESSION_0002_FULL.md), mensagens [001]–[012]: Eron mantém Sobrevivência 25, Furtividade 27 e Percepção 19; Investigação [20]+6=26 identifica laço rompido, pelos acinzentados e provável sangue seco no riacho; autor desconhecido, sem coleta. 0/300 XP, 36 PO 8 PP, sem combate.
 - Planejamento secreto em `dm/` (jamais incluir em logs públicos).
