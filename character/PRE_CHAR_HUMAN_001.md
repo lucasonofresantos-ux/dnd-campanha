@@ -142,3 +142,12 @@ Aguardar escolha de distribuição e regras de origem. Não iniciar campanha aut
 - Três talentos de origem DEFINIDOS: **Artesão (Crafter)** do antecedente Artesão, **Alerta (Alert)** do antecedente Guarda, **Vigoroso (Tough)** da espécie Humano.
 - Próxima escolha: uma proficiência com ferramentas de artesão pelo antecedente Artesão, recomendadas ferramentas de ferreiro pela história com Gruner Barba de Cobre; depois outras três diferentes pelo Crafter.
 - Não confundir 12 PV máximos com PV atuais caso o jogo inicie com alguma condição especial. Nenhuma aventura iniciada e nenhum dano registrado.
+
+## Ferramentas de artesão — escolha confirmada em 2026-11-23
+- Mensagem literal: "Vou de ferramentas de ferreiro".
+- Ferramentas de Ferreiro (Smith's Tools) CONFIRMADAS como proficiência de ferramenta concedida pelo antecedente Artesão (2024).
+- Não foi ainda escolhido o pacote de equipamento inicial A/B do antecedente: isto concede proficiência, não a posse física automática do conjunto.
+- Crafter concede três proficiências adicionais e DISTINTAS escolhidas exclusivamente das opções listadas na tabela Fast Crafting: Carpenter's, Leatherworker's, Mason's, Potter's, Smith's, Tinker's, Weaver's, Woodcarver's Tools. Como Smith's está confirmada pelo antecedente, escolha outras três dentre as sete restantes, sem duplicação.
+- Recomendação apresentada: Funileiro (Tinker's), Coureiro (Leatherworker's), Tecelão (Weaver's), mas seleção ainda PENDENTE.
+- Para evitar confusões com recomendações antigas, ferramentas de joalheiro não constam da tabela Fast Crafting e não podem ser escolhidas para as três proficiências específicas do talento Crafter.
+- Fonte conferida: Roll20 Compendium, talento Crafter (PHB 2024), https://roll20.net/compendium/dnd5e/Feats:Crafter?expansion=32231 .
