@@ -246,3 +246,11 @@ Aguardar escolha de distribuição e regras de origem. Não iniciar campanha aut
 - Situação da moeda permanece **36 PO e 8 peças de prata** (PP em português, não peças de platina); sem despesas novas.
 - Pergunta seguinte: jogador prefere transportar os cinco conjuntos de ferramentas em viagem ou separar algumas para eventual armazenamento seguro quando houver essa possibilidade? Nenhum local de guarda ou depósito foi criado/assumido; não registrar armazenamento sem decisão do jogador e local seguro definido.
 - Não declarar ficha nem campanha concluída/iniciada apenas pela confirmação da conferência.
+
+## Decisão de transporte integral do inventário — 2026-11-23
+- Mensagem literal do jogador: "Vou levar tudo".
+- Decisão explícita: Eron River transportará CONSIGO todos os itens físicos de seu inventário no começo da aventura: armas, armadura, pacote de assaltante, suprimentos, acessórios, baralho, ferramentas de ladrão e os cinco conjuntos de ferramentas de artesão (Ferreiro, Coureiro, Entalhador, Pedreiro, Funileiro).
+- Nenhum item foi deixado em casa, entregue a NPC, vendido ou armazenado separadamente. Nenhum novo contêiner foi concedido gratuitamente. O transporte concreto deverá ser plausível, distribuído pela mochila (limite de conteúdo 30 lb), duas bolsas, acessórios vestidos/cintos, equipamentos externamente presos ou carregados à mão; não declarar que tudo está dentro da mochila.
+- Peso contabilizado anterior mantido **103,88 lb (aprox. 47,1 kg)**, capacidade **180 lb (aprox. 81,6 kg)**, sem contar pequenos objetos narrativos sem peso especificado. Sem penalidade por exceder capacidade normal; o volume, o acesso às ferramentas e obstáculos físicos continuam sujeitos à avaliação do Mestre quando relevante.
+- Moedas inalteradas: **36 PO e 8 PP**.
+- Já escolhidos idiomas: Comum, Goblin, Anão, Élfico, mais Gíria de Ladrão (característica da classe). Próxima etapa: consolidar ficha final, conferir derivados e lacunas; campanha NÃO iniciada.
