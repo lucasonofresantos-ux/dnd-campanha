@@ -246,3 +246,44 @@ A escolha de multiclasse tem uma consequência importante: habilidades como subc
 - Condições do Jogador: Humano, pele clara, 1,80 m; atributos rolados 18, 16, 15, 15, 14 e 12, ainda sem distribuição definitiva.
 
 **GitHub:** commits confirmados; ficha em elaboração, sem associação a campanha narrativa.
+
+## [009] JOGADOR — 2026-11-23
+
+artesão pode escolher proeficiencia em 3 ferramentas correto? e o crafter da 20% de desconto em compra de objetos não magicos
+
+## [010] MESTRE — 2026-11-23
+
+**Correto! E há um detalhe ainda melhor: com o antecedente Artesão, você pode começar com proficiência em até quatro tipos diferentes de ferramentas de artesão.**
+
+Segundo o *Player's Handbook 2024*, os benefícios são:
+
+| Origem | Benefício |
+|---|---|
+| Antecedente Artesão | Proficiência em **1 tipo** de ferramenta de artesão |
+| Talento de origem Crafter | Proficiência em **3 tipos diferentes** de ferramentas de artesão, escolhidos da tabela de Fabricação Rápida |
+| **Total** | **4 proficiências diferentes**, se não repetir a escolha |
+
+Isso é confirmado pelas regras do antecedente Artesão e do talento Crafter. <Cite refs={["turn443726search3","turn443726search9"]}/>
+
+## Os três benefícios do talento Crafter
+
+1. **Proficiência com ferramentas:** três tipos diferentes de ferramentas de artesão, conforme a tabela do talento.
+2. **Desconto de 20%:** sempre que comprar um item não mágico, recebe 20% de desconto sobre o preço de compra. Por exemplo, um equipamento de 100 PO passa a custar 80 PO.
+3. **Fabricação Rápida:** ao terminar um Descanso Longo, pode fabricar um item permitido pela tabela do talento, usando as ferramentas apropriadas. O objeto dura até o fim do próximo Descanso Longo.
+
+<Cite refs={["turn443726search0","turn443726search10"]}/>
+
+**Importante:** proficiência não significa que você recebe automaticamente quatro conjuntos físicos de ferramentas. E o desconto não se aplica a itens mágicos nem representa um bônus automático na venda de equipamentos.
+
+Para seu futuro **Ladino/Artífice**, isso é especialmente interessante. Você poderá desenvolver vários ofícios e, com as habilidades de classe do Artífice, ampliar ainda mais sua especialização.
+
+Para sua combinação, eu recomendaria ferramentas de ferreiro, de funileiro e de carpinteiro, além de ferramentas de joalheiro, mas a escolha é sua e depende das opções elegíveis do talento.
+
+**[LOG DE MEMÓRIA DA CAMPANHA]**
+- Localização Atual: Não definida — personagem em criação.
+- NPCs Presentes e Relação: Nenhum.
+- Linha de Missão Ativa: Nenhuma.
+- Eventos Cruciais Ocorridos: Confirmada a regra de Artesão (1 proficiência de ferramenta) e Crafter (3 diferentes, desconto de 20% em itens não mágicos, Fabricação Rápida).
+- Condições do Jogador: Humano de pele clara, 1,80 m; atributos 18, 16, 15, 15, 14 e 12 ainda sem distribuição; intenção de multiclasse Ladino/Artífice; escolhas mecânicas de antecedente e ferramentas pendentes.
+
+**GitHub:** commit confirmado para a atualização do rascunho e a transcrição de pré-campanha.
