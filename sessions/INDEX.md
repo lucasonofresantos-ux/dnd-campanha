@@ -6,5 +6,5 @@
 - Transcrição literal: [SESSION_0001_FULL.md](transcripts/SESSION_0001_FULL.md)
 - Ficha em elaboração: [PRE_CHAR_HUMAN_001.md](../character/PRE_CHAR_HUMAN_001.md)
 - Rolagens: [ROLL_LOG.csv](../dice/ROLL_LOG.csv)
-- Última interação registrada: jogador solicitou humano com atributos rolados até obter uma combinação forte; primeira aprovação na tentativa 40.
-- Próximo passo: definir distribuição e depois escolhas de classe/antecedente/idiomas, sem iniciar aventura antes da confirmação.
+- Última interação registrada: jogador perguntou se poderia ter dois antecedentes. Mestre permitiu dois antecedentes narrativos, com um pacote mecânico de origem e humano 2024 com talento adicional de origem.
+- Próximo passo: jogador escolhe os dois antecedentes e o antecedente principal; depois distribuir atributos, escolher classe, talento humano e idiomas. Não iniciar aventura antes da confirmação.
