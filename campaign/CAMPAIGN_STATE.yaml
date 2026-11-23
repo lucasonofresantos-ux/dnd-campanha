@@ -1,0 +1,88 @@
+campaign_id: ERON-RIVER-ASTERION-001
+campaign_title: "Eron River — Estradas de Cinza e Pedra"
+status: active_session_1_opening
+system: "D&D 5E — 2024, SRD 5.2.1"
+homebrew:
+  - "Dois antecedentes mecânicos completos: Artesão e Guarda, exclusiva de Eron (rules/HOUSE_RULES.md)"
+advancement:
+  method: experience_points
+  milestones_do_not_grant_levels: true
+  current_total_xp: 0
+  next_level_xp: 300
+  rule: "Conceder XP por combate e ameaças resolvidas, investigação, exploração e desafios sociais substantivos; usar equivalências 2024, sem duplicação; registrar no XP_LOG.csv."
+character:
+  id: ERON-RIVER
+  sheet: character/ERON_RIVER_LEVEL_01.md
+  name: Eron River
+  species: Humano
+  class_levels:
+    Ladino: 1
+  character_level: 1
+  xp_total: 0
+  xp_next_level: 300
+  hp_current: 12
+  hp_max: 12
+  ac: 16
+  initiative: 7
+  passive_perception: 17
+  proficiency_bonus: 2
+  speed_ft: 30
+  conditions: []
+  exhaustion: 0
+  heroic_inspiration: false
+  hit_dice_available: "1d8"
+  money:
+    gold: 36
+    silver: 8
+    copper: 0
+  inventory_reference: character/ERON_RIVER_LEVEL_01.md
+  carrying_all_owned_equipment: true
+  carrying_weight_lb_recorded: 103.88
+  carrying_capacity_lb: 180
+  known_personal_item: "Marca da Bigorna Velada, pequeno disco familiar e bolsa de couro; uso desconhecido para Eron."
+  untrained_owned_tool: "Ferramentas de Funileiro (propriedade, sem proficiência)"
+campaign_time:
+  calendar_system: "Asterion, dias relativos; nenhuma era/ano formal estabelecido"
+  day: 1
+  time_of_day: "fim da manhã"
+  season: "final do outono"
+  elapsed_game_time: "nenhum avanço desde a cena de abertura"
+location:
+  continent: Asterion
+  polity: "Terras Livres de Avenhar (homebrew), fora de Valdren"
+  area: "entroncamento da Estrada do Cascalho, próximo ao Pouso das Três Fontes"
+  nearby: "encostas arborizadas da serra cujo monte mais alto é chamado Veyra"
+  exact_position: "estrada pública junto ao bebedouro de pedra e à paliçada da aldeia"
+  travel_status: "Eron presente na abertura; jogador ainda não declarou movimento"
+scene:
+  id: OPENING-001
+  status: awaiting_first_player_action
+  current_npcs_present:
+    - "Mara Telha (criadora de cabras, moradora local)"
+    - "Iria Vento-Seco (vigia da aldeia)"
+  immediate_visible_situation: "moradores discutem ataques de animal a rebanhos; vestígios vistos à beira da estrada; oferta de trabalho é possível, não aceita"
+  combat: false
+  initiative: []
+  rounds: 0
+  dice_rolled: false
+  xp_awarded: false
+  reward_offered_but_not_accepted: "12 PO por cessar as perdas do rebanho, seja por solução verificável não violenta, captura ou eliminação da ameaça"
+world:
+  main_plotlines_independent:
+    - "A: crime contra Aldren/Mirella e morte de Edric / conspiração de Pedra Branca e Pulgueiro"
+    - "B: mistério histórico de Thûn-Khazad e Monte Veyra"
+  player_knows_plot_B_secret: false
+  village_notes: "Não há conhecimento local do império desaparecido."
+  npcs_secret_file: dm/FACTIONS_CLOCKS_SECRET.md
+  bible_secret_file: dm/CAMPAIGN_BIBLE_SECRET.md
+  opening_secret_file: dm/OPENING_PREP_SECRET.md
+transcription:
+  character_creation_history: sessions/transcripts/SESSION_0001_FULL.md
+  narrative_session: sessions/transcripts/SESSION_0002_FULL.md
+  last_saved_player_turn: "Pode preparar tudo e me dá o gancho para a campanha, e já vamos começar, só por favor que ganhe níveis por xp"
+  last_saved_dm_turn: pending_transcript_commit
+notes:
+  - "Primeira resposta de cena será salva literalmente e sem revelar preparativos de dm."
+  - "Nunca tratar a aprovação da ficha como XP, nem mudar recursos automaticamente."
+  - "Duas tramas NÃO compartilham causa, culto, conjurador ou tecnologia antiga."
+  - "História de Eron e lore anão foram verificados em arquivos PDF disponibilizados pelo jogador nesta conversa; não há cópias dos PDFs no repositório."
