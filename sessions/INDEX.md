@@ -18,5 +18,5 @@
 - XP: [XP_LOG.csv](../campaign/XP_LOG.csv), regras em [PROGRESSION_XP.md](../campaign/PROGRESSION_XP.md).
 - Sessão narrativa 1: [SESSION_0002.md](SESSION_0002.md), transcrição [SESSION_0002_FULL.md](transcripts/SESSION_0002_FULL.md).
 - Isolamento: não misturar com `PRE-CHAR-HUMAN-001` (que é histórico da criação), nem com campanhas de outros personagens.
-- Transcrição [SESSION_0002_FULL.md](transcripts/SESSION_0002_FULL.md), mensagens [001]–[014]: Eron fez novas rolagens para continuar rastreio: Percepção [8]+7=15, Furtividade [13]+9=22, Sobrevivência [12]+5=17. Atravessou riacho e alcançou ravina após 20 min; há abertura entre rochas a 15 m, som rouco, nenhuma criatura vista. 0/300 XP, 36 PO 8 PP, sem combate.
+- Transcrição [SESSION_0002_FULL.md](transcripts/SESSION_0002_FULL.md), mensagens [001]–[016]: Eron rolou Furtividade [18]+9=27 e Percepção [13]+7=20 e se aproximou até 2 m da entrada, vendo loba com pata dianteira recolhida e dois filhotes. Está oculto atrás de saliência; combate não iniciado, 0/300 XP, 36 PO 8 PP.
 - Planejamento secreto em `dm/` (jamais incluir em logs públicos).
