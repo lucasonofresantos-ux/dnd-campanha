@@ -78,3 +78,13 @@ Aguardar escolha de distribuição e regras de origem. Não iniciar campanha aut
 - Há intenção de progressão com multiclasse Ladino + Artífice, mas CLASSE E NÍVEL INICIAIS ainda NÃO foram confirmados.
 - Escolhas pendentes até completar nível 1: classe inicial e nível, 4 perícias de Ladino (se Ladino inicial) + perícia Humano, duas Especializações, 4 proficiências de ferramentas de artesão distintas, duas maestrias em armas, equipamentos iniciais e quantias, ficha derivada (PV, CA, testes, ataques), detalhes opcionais de personalidade/alinhamento.
 - História revisada e crônicas de Thûn-Khazad fornecidas como dois PDFs na conversa. Jogador solicitou dois arcos principais sem ligação causal e associação do Monte Veyra a uma caçada ao lobo; tarefa de planejamento de campanha foi interrompida pelo próprio jogador para finalizar primeiro a ficha. **Não começar campanha nem presumir cenas/cânone novo até confirmação.** Material sigiloso em PDFs não deve ser transcrito a documentos públicos.
+
+## Classe inicial confirmada — 2026-11-23
+- O jogador confirmou literalmente: "ladino nivel 1, correto".
+- Classe atual: Ladino 1 (2024). Artífice apenas planejado para progressão futura, sem níveis adquiridos.
+- Pontos de Vida máximos: 10 = 8 (d8 no nível 1) +2 (Constituição).
+- Bônus de Proficiência: +2.
+- Proficiência em testes de resistência: Destreza (+7) e Inteligência (+5).
+- Ataque Furtivo: 1d6 (cumprindo condições).
+- Próximo passo: escolher quatro perícias da classe, além de Investigação e Persuasão concedidas por Artesão e uma perícia de Humano por Habilidoso. Lista válida 2024: Acrobacia, Atletismo, Enganação, Intuição, Intimidação, Investigação, Percepção, Persuasão, Prestidigitação, Furtividade; eliminar duas já concedidas pelo antecedente para evitar redundâncias.
+- Escolhas ainda não concluídas: quatro perícias classe, perícia humano, duas especializações, ferramentas, maestrias em arma, equipamento e demais derivados. Não iniciar campanha.
