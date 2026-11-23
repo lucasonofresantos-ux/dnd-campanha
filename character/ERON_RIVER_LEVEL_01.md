@@ -1,6 +1,6 @@
 # Eron River — ficha consolidada de personagem (D&D 5E 2024)
 
-**Status:** escolhas mecânicas consolidadas para conferência final do jogador. **Campanha NÃO iniciada.**
+**Status:** FICHA MECÂNICA DEFINITIVA APROVADA PELO JOGADOR em 2026-11-23. **Campanha NÃO iniciada.**
 **Data de consolidação:** 2026-11-23.
 **Fonte auditável das escolhas e rolagens:** `character/PRE_CHAR_HUMAN_001.md`, `sessions/transcripts/SESSION_0001_FULL.md`, `dice/ROLL_LOG.csv`.
 **Hierarquia de regras:** `rules/SYSTEM.md`, `rules/SOURCES.md`, `rules/HOUSE_RULES.md`.
@@ -153,9 +153,11 @@ Especializações do Ladino de nível 1: **Furtividade e Percepção**, dobram p
 
 **Decisão expressa do jogador:** Eron vai carregar **TUDO** ao começar; não vender, guardar, descartar ou deixar itens com terceiros. Capacidade 180 lb. A mochila pode comportar apenas parte da bagagem (até 30 lb de conteúdo), de modo que a distribuição concreta em cintos, bolsas e pontos externos de amarração dependerá da situação física. Nenhum contêiner adicional foi atribuído. Eventuais pertences narrativos de peso não definido não estão incluídos nas 103,88 lb.
 
-## Pendências para encerramento da criação
-- **Confirmação final do jogador da presente ficha consolidada**. Se identificar erro, corrigir com nova entrada de histórico auditável.
-- Detalhes opcionais (alinhamento, ideal, vínculo, defeito, traços de personalidade) podem ser escolhidos se o jogador desejar; não inventar e não bloqueiam obrigatoriamente o fechamento mecânico.
+## Aprovação final da ficha — 2026-11-23
+- Jogador confirmou literalmente: **"Aprovado"** após a apresentação da ficha consolidada de nível 1.
+- A criação mecânica da ficha de **Eron River — Ladino 1** está **CONCLUÍDA e APROVADA**.
+- Qualquer alteração posterior exigirá decisão do jogador ou aplicação legítima das regras e registro auditável, sem retcon silencioso.
+- Detalhes opcionais (alinhamento, ideal, vínculo, defeito, traços de personalidade) permanecem opcionais e não bloqueiam a aprovação mecânica já concedida.
 - Conferir eventuais pertences narrativos do histórico antes de jogar, sem revelar informações que o personagem não conhece. Não presumir valores mágicos, efeitos, preço, peso ou propriedade de objetos sem fonte e decisão.
 - Preparar infraestrutura e campanha em ambiente apropriado, protegendo segredos do Mestre; **não iniciar a aventura apenas por consolidar esta ficha**.
 
