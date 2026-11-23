@@ -108,3 +108,11 @@ Aguardar escolha de distribuição e regras de origem. Não iniciar campanha aut
 - Nível 1 Ladino (2024), PV máximos 10, proficiência +2. Testes de resistência proficientes: Destreza +7 e Inteligência +6. Iniciativa +7 quando Alerta aplicado (+5 DES +2 proficiência). Percepção passiva 15 (SAB +3, Percepção proficient +2), salvo outros modificadores.
 - Perícias já recebidas dos antecedentes: Investigação, Persuasão, Atletismo e Percepção. Ainda escolher quatro de Ladino dentre Acrobacia, Enganação, Intuição, Intimidação, Prestidigitação e Furtividade, mais uma perícia do Humano (pode ser outra perícia permitida pelas regras de Habilidoso). Manter especializações, ferramentas, terceiro talento de origem, jogo, armas e equipamento pendentes.
 - A campanha narrativa permanece NÃO iniciada; seguir criação etapa a etapa.
+
+## Quatro perícias de classe confirmadas — 2026-11-23
+- Mensagem literal: "Escolho estas quatro perícias da classe Ladino para Eron River: Enganação, Intuição, Prestidigitação, Furtividade."
+- Ladino 1 concede: Enganação (+4 = CAR +2 e proficiência +2), Intuição (+5 = SAB +3 e proficiência +2), Prestidigitação (+7 = DES +5 e proficiência +2), Furtividade (+7 = DES +5 e proficiência +2).
+- Antecedentes completos já concediam: Investigação (+6 = INT +4 + proficiência +2), Persuasão (+4 = CAR +2 + proficiência +2), Atletismo (+3 = FOR +1 + proficiência +2), Percepção (+5 = SAB +3 + proficiência +2).
+- Total de oito perícias proficientes antes da escolha de Habilidoso humano. Especialização ainda NÃO aplicada aos bônus.
+- Próxima escolha única: perícia adicional da espécie Humano por Habilidoso, sem duplicação. Recomendações apresentadas: Arcanismo (+6) ou Sobrevivência (+5), podendo escolher qualquer outra perícia disponível. Só depois escolher as duas Especializações de Ladino.
+- Ainda pendentes: talento humano Versátil, ferramentas, conjunto de jogo, maestrias em armas, equipamentos e demais detalhes.
