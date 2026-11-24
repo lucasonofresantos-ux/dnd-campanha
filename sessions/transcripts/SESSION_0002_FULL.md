@@ -1287,3 +1287,71 @@ O que ele faz antes de dormir?
 - **Condições do Jogador:** Ladino 1, **12/12 PV**, **CA 16**, **25/300 XP**, **35 PO e 5 PP**, 19 flechas utilizáveis; quatro rações intactas e uma quase consumida, pele crua de coelho parcialmente danificada e duas orelhas. Sem condições ativas.
 
 **GitHub:** pagamento, percepção, transcrição literal, cronologia e ficha atualizados; commits confirmados.
+
+## [063] JOGADOR — 2026-11-23
+
+Tranco a porta tomo um banho e me levanto cedo para ir até a olma ramos, e rolê percepção para o caminho até lá
+
+## [064] MESTRE — 2026-11-23
+
+### Dia 2 — O amanhecer no Pouso das Três Fontes
+
+Eron gira a chave na fechadura do quarto três. A porta fica trancada.
+
+Depois de um longo dia pelas encostas do Monte Veyra, ele se lava cuidadosamente com a água da bacia, retirando a poeira, a lama e o sangue seco da caçada. Sem uma tina no quarto, é um banho simples, mas suficiente para se limpar.
+
+Pouco depois, deita-se sob o cobertor grosso. O vento noturno faz a janela ranger algumas vezes, mas ninguém o incomoda.
+
+Quando a claridade pálida da manhã atravessa as frestas, Eron desperta descansado.
+
+<row align="center" gap={2} justify="between">
+  <box gap={1}>
+    <text weight="medium">Descanso longo concluído</text>
+    <text color="secondary" size="xs">Dia 2, aproximadamente 6h30</text>
+  </box>
+  <badge color="success"><icon name="check" inline/> Concluído</badge>
+</row>
+
+Eron permanece com **12/12 PV** e recupera sua **Inspiração Heroica**, graças à característica humana *Engenhoso*. Nenhuma ração de viagem foi consumida durante a noite.
+
+### Caminho até a Casa das Ervas
+
+<box border radius="lg" padding={3} gap={2}>
+  <text color="secondary" size="xs" weight="medium">Sabedoria (Percepção) +7</text>
+  <row align="baseline" justify="between">
+    <title size="2xl" tabularNums>18</title>
+    <text color="success" weight="medium"><icon name="check-circle" inline/> Sucesso</text>
+  </row>
+  <caption>`1d20+7` → [11] + 7 = 18</caption>
+</box>
+
+Eron deixa a hospedaria e segue pelas ruas ainda úmidas. O cheiro de pão sendo assado mistura-se ao de lenha e terra molhada.
+
+Ao passar perto dos currais, percebe Iria Vento-Seco conversando com Mara. A vigia está com o arco às costas e aparenta ter passado boa parte da noite acordada. As cabras estão recolhidas, e não há tumulto aparente. Eron está longe demais para distinguir as palavras das duas mulheres.
+
+Perto da segunda fonte, seu olhar encontra uma placa de madeira entalhada com folhas e raízes.
+
+**CASA DAS ERVAS — OLMA RAMO**
+
+A porta está entreaberta. Lá dentro, uma senhora de cabelos brancos presos por um lenço organiza pequenos frascos sobre o balcão. O cheiro de alecrim, folhas secas e preparações medicinais domina o ambiente.
+
+Ela percebe Eron na entrada.
+
+— Bom dia, viajante. Entre. Está precisando de algum remédio?
+
+Ela coloca um pequeno frasco sobre a prateleira.
+
+— Ferimento seu ou de outra pessoa?
+
+**São aproximadamente 7h da manhã. Eron está diante de Olma Ramo.**
+
+O que Eron diz ou faz?
+
+**[LOG DE MEMÓRIA DA CAMPANHA]**
+- **Localização Atual:** Casa das Ervas de Olma Ramo, junto à segunda fonte no Pouso das Três Fontes, aproximadamente **7h do Dia 2**.
+- **NPCs Presentes e Relação:** Olma Ramo, boticária que recebeu Eron e pergunta sobre o ferimento. Ao passar pelos currais, Eron viu Mara e Iria conversando, mas não ouviu o assunto.
+- **Linha de Missão Ativa:** Comprar materiais de curativo e alimento para retornar à loba e seus filhotes; proteger o rebanho de Mara e investigar os laços. Recompensa de **12 PO pendente**.
+- **Eventos Cruciais Ocorridos:** Eron trancou o quarto, lavou-se com a água da bacia e completou um **descanso longo**; ganhou **Inspiração Heroica** pela característica humana Engenhoso. **Percepção `1d20+7` → [11]+7=18** na caminhada. Chegou a Olma pela manhã, sem fazer compras. Nenhuma perda de cabras foi confirmada por Eron.
+- **Condições do Jogador:** Ladino 1, **12/12 PV**, **CA 16**, **25/300 XP**, **35 PO e 5 PP**, **Inspiração Heroica disponível**, 19 flechas utilizáveis; quatro rações intactas e uma quase consumida. Possui uma pele crua de coelho parcialmente danificada e duas orelhas. Chave temporária do quarto 3 ainda em sua posse. Nenhuma condição ativa.
+
+**GitHub:** descanso longo, Inspiração Heroica, rolagem, transcrição e estado da campanha atualizados; commits confirmados.
