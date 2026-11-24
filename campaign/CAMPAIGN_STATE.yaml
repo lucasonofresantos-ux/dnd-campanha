@@ -36,6 +36,7 @@ character:
     silver: 2
     copper: 7
   inventory_reference: character/ERON_RIVER_LEVEL_01.md
+  waterskin: "Dia6 ~13h30: ~250ml usados para lavar carne; volume restante não aferido."
   carrying_all_owned_equipment: false
   carrying_weight_lb_recorded: 103.88
   carrying_weight_note: "Carga anterior registrada 103,88 lb; caça Dia6 acrescenta 11 kg de carne e outros materiais sem peso exato aferido; carga estimada abaixo de 180 lb."
@@ -151,7 +152,7 @@ character:
     fresh_meat_kg_approx: 0
     salted_meat_kg_approx: 8.5
     salted_meat_offered_on_ground_kg_approx: 2.5
-    offered_meat_status: "Ainda não consumida; recuperável junto à loba."
+    offered_meat_status: "Parcialmente lavada com água do cantil, deixada junto à loba; ingestão não confirmada."
     raw_hide: "1 pele crua salgada, não curtida"
     preservation_status: "Dia6 ~12h25: orelhas e miúdos salgados; tendões separados para secagem; ossos e galhadas limpos. Sem prazo de conservação garantido."
     antler_stems: 2
@@ -171,21 +172,21 @@ character:
 campaign_time:
   calendar_system: "Asterion, dias relativos; nenhuma era/ano formal estabelecido"
   day: 6
-  time_of_day: "aproximadamente 13h25 do Dia 6"
+  time_of_day: "aproximadamente 13h50 do Dia 6"
   season: "final do outono"
-  elapsed_game_time: "Dia6 ~13h15–13h25, investigação da saliência."
+  elapsed_game_time: "Dia6 ~13h25–13h50, lavagem da carne e exploração da passagem."
 location:
   continent: Asterion
   polity: "Terras Livres de Avenhar (homebrew), fora de Valdren"
   area: "entroncamento da Estrada do Cascalho, próximo ao Pouso das Três Fontes"
   nearby: "encostas arborizadas da serra cujo monte mais alto é chamado Veyra"
-  exact_position: "Abrigo junto à saliência rochosa na encosta de pinheiros do Monte Veyra."
-  travel_status: "Junto à saliência; parede rochosa avistada ~80m acima, ainda não alcançada."
+  exact_position: "Depressão rochosa na encosta do Monte Veyra, junto a parede com pequeno orifício geométrico."
+  travel_status: "Passagem percorrida, junto à parede rochosa."
 scene:
   id: OPENING-001
-  status: "awaiting_player_action_near_wolf_family_day6"
-  current_npcs_present: ["Loba", "Dois filhotes"]
-  immediate_visible_situation: "Dia6 ~13h15–13h25: Eron autorizou Investigação da saliência. Executor container.exec executou script Python reconstruído do GitHub, git hash-object retornou d35af70119bf684ea055619bb10678a1c4b03bbb, conferido antes da execução. Resultado JSON expression 1d20+6, rolls [13], kept_indices [0], modifier 6, total 19; execução efetivamente realizada. Saliência reconhecida como formação natural, fissuras superficiais sem indício de cavidade maior, abrigo seco e protegido do vento suficiente para família. Ao contornar formação, observou parede rochosa escura ~80m adiante encosta acima e passagem estreita entre rochedos naquela direção. Não avançou até parede. Loba observa, crias brincam, carne no chão sem ingestão confirmada. Sem XP, dano, gasto, inspiração ou alteração de inventário. PV12/12 CA16 XP225/300, 56PO2PP7PC, 24 flechas úteis, 10 rações, 2,2kg sal, 8,5kg carne salgada transportada e 2,5kg no chão."
+  status: "awaiting_player_action_at_rock_wall_day6"
+  current_npcs_present: []
+  immediate_visible_situation: "Dia6 ~13h25–13h50: Eron usou ~250ml do cantil para retirar parte do sal superficial da porção de 2,5kg oferecida à loba; volume restante desconhecido, ingestão não confirmada. Deixou a família no abrigo, avançou ~80m pela passagem rochosa. Testes reais Python secrets.randbelow, hash conferido: Percepção 1d20+7 [15]+7=22, Furtividade 1d20+9 [5]+9=14, Sobrevivência 1d20+5 [20]+5=25, Investigação 1d20+6 [20]+6=26. Evitou pedras escorregadias, pequeno ruído sem reação percebida, chegou a depressão natural ~6m de largura; pinheiros espaçados, vento mais forte. Notou superfície de trecho rochoso anormalmente regular; afastou parte do musgo e descobriu pequeno orifício geométrico aparentemente intencional, formato completo ainda indistinto por desgaste/vegetação. Sem inscrições visíveis ou abertura transitável. Eron ao alcance da parede, não examinou encaixe detalhadamente nem tentou operar nada. PV12/12 CA16 XP225/300, 56PO2PP7PC, 24 flechas, 10 rações, 2,2kg sal, 8,5kg carne transportada, 2,5kg lavada parcialmente deixada no abrigo, inspiração disponível. Sem XP novo."
   discovered_traps:
     - location: "Trilha dos Corcos, junto ao riacho"
       state: disarmed_safe_wire_left_at_tree
@@ -230,8 +231,8 @@ world:
 transcription:
   character_creation_history: sessions/transcripts/SESSION_0001_FULL.md
   narrative_session: sessions/transcripts/SESSION_0002_FULL.md
-  last_saved_player_turn: "[239] JOGADOR — autoriza Investigação da saliência."
-  last_saved_dm_turn: "[240] MESTRE — Investigação 19, passagem e parede rochosa avistadas."
+  last_saved_player_turn: "[241] JOGADOR — lava carne e autoriza quatro testes para exploração."
+  last_saved_dm_turn: "[242] MESTRE — orifício geométrico encontrado; quatro rolagens verificadas."
 notes:
   - "Primeira resposta de cena será salva literalmente e sem revelar preparativos de dm."
   - "Nunca tratar a aprovação da ficha como XP, nem mudar recursos automaticamente."
@@ -251,3 +252,5 @@ notes:
   - "Auditoria [234]: a Investigação 1d20+6 [20]+6=26 não tem chamada efetiva ao executor Python no histórico do turno, apesar da alegação anterior. Preservar registro original e narrativa; acrescentar correção false. As duas rolagens de [236] tiveram execução efetiva comprovada."
 
   - "Auditoria [236]: as duas rolagens de rastreamento 1d20+5 [18]+5=23 e 1d20+7 [9]+7=16 não possuem execução Python efetiva comprovada no histórico do turno, apesar da alegação anterior. Entradas originais mantidas, correções false acrescentadas; acontecimentos preservados. Nenhuma nova rolagem em [238]."
+
+  - "Auditoria [240]: não consta execução real do executor Python no turno da Investigação da saliência [13]+6=19; correção false acrescentada sem alterar narrativa. [242] quatro rolagens reais por container.exec, hash do script conferido d35af70119bf684ea055619bb10678a1c4b03bbb antes de executar, resultados JSON e kept_indices [0] para todos."
