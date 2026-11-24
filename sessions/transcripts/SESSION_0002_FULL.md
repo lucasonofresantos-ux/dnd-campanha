@@ -6831,3 +6831,62 @@ Você também pode interromper o movimento e examinar o mecanismo com suas ferra
 - **Condições:** 12/12 PV | CA 16 | 250/300 XP. Inspiração Heroica disponível. Lanterna acesa; Marca da Bigorna Velada na bolsa.
 
 **GitHub:** transcrição, cronologia e estado atualizados; commits confirmados.
+
+## [257] JOGADOR
+
+Vou de ferramentas de ferreiro 19
+
+## [258] MESTRE
+
+### Vestíbulo de acesso — Dia 6, 14h55
+
+<card gap={2}>
+  <row align="center">
+    <icon name="hammer" size="3xl"/>
+    <box gap={1}>
+      <caption>Destreza (Ferramentas de Ferreiro)</caption>
+      <title size="2xl">26</title>
+      **19 + 5 + 2 = 26**
+      <caption>Dado informado pelo jogador: 19 natural.</caption>
+    </box>
+  </row>
+  <badge color="success">Sucesso</badge>
+</card>
+
+Utilizando suas ferramentas, você remove a oxidação acumulada na articulação, limpa o eixo e corrige o desalinhamento de uma pequena peça metálica. Não precisa substituir nenhum componente.
+
+Ao movimentar novamente a alavanca, o mecanismo funciona. As duas folhas metálicas se afastam lentamente, revelando uma ampla escadaria descendente.
+
+Os degraus possuem aproximadamente três metros de largura. Nas paredes laterais, relevos retratam anões trabalhando em forjas, extraindo minérios, cultivando plantas e marchando em formações militares.
+
+A luz da lanterna alcança apenas parte da descida. Mais abaixo, você distingue um patamar, mas não consegue enxergar o que existe além dele.
+
+Um detalhe chama sua atenção: mesmo após a abertura da porta, nenhuma iluminação interna se acende.
+
+<card gap={2}>
+  <row>
+    <box flex={1}>
+      <caption>Experiência — resolução do obstáculo mecânico</caption>
+      <title size="xl">+25 XP</title>
+    </box>
+    **275/300 XP**
+  </row>
+  <box height="8px" background="surface-tertiary" radius="full" clip>
+    <box height="8px" width="91.67%" background="#537bb5" radius="full"/>
+  </box>
+  <caption>Faltam 25 XP para o nível 2.</caption>
+</card>
+
+Você permanece no vestíbulo, diante da escadaria. A porta metálica está aberta.
+
+---
+
+**[LOG DE MEMÓRIA DA CAMPANHA]**
+- **Localização atual:** Vestíbulo do Monte Veyra, entrada da escadaria, Dia 6, 14h55.
+- **NPCs presentes:** Nenhum detectado.
+- **Missão ativa:** Exploração da construção subterrânea.
+- **Eventos cruciais:** Mecanismo reparado; segunda porta aberta; escadaria e relevos anões descobertos.
+- **Condições:** 12/12 PV | CA 16 | 275/300 XP. Inspiração Heroica disponível.
+- **Inventário:** Marca da Bigorna Velada na bolsa. Lanterna com 5h15 de autonomia restante e 6 frascos de óleo em reserva. Nenhum material adicional consumido.
+
+**GitHub:** transcrição, ficha, rolagem informada pelo jogador, XP, cronologia e estado atualizados; commits confirmados.
