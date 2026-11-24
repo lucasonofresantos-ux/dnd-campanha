@@ -200,3 +200,6 @@
 
 ## Dia 4 ~14h25 — uso da ferraria
 - Durnak oferece acesso gratuito à bancada, forja e ferramentas até 18h, com possibilidade de retornar amanhã, e materiais para 20 flechas por 4 PP. Nenhum pagamento, fabricação ou aquisição até aceitação. Nenhum XP por fabricação rotineira.
+
+## Dia 4 ~18h00 — fabricação parcial
+- Eron comprou materiais para vinte flechas por 4PP, fabricou oito utilizáveis e tem doze pendentes (265 min de trabalho). Oficina fecha; Durnak permite retorno amanhã. O dado espontâneo 20 não acelera regra de fabricação. Sem XP. Demais relógios seguem; não presumir encerramento do dia, repouso ou retorno à toca sem ação do jogador.
