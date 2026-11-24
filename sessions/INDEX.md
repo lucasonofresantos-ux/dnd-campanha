@@ -18,5 +18,5 @@
 - XP: [XP_LOG.csv](../campaign/XP_LOG.csv), regras em [PROGRESSION_XP.md](../campaign/PROGRESSION_XP.md).
 - Sessão narrativa 1: [SESSION_0002.md](SESSION_0002.md), transcrição [SESSION_0002_FULL.md](transcripts/SESSION_0002_FULL.md).
 - Isolamento: não misturar com `PRE-CHAR-HUMAN-001` (que é histórico da criação), nem com campanhas de outros personagens.
-- Transcrição [SESSION_0002_FULL.md](transcripts/SESSION_0002_FULL.md), mensagens [001]–[026]: Eron alimentou a loba duas vezes; ela está tolerante mas protetora, sem cura da pata. Perguntou o horário: aproximadamente meio-dia do Dia 1, sem avanço temporal. Quatro porções intactas e uma parcialmente consumida, 0/300 XP, 36 PO 8 PP.
+- Transcrição [SESSION_0002_FULL.md](transcripts/SESSION_0002_FULL.md), mensagens [001]–[028]: Eron perguntou se podia ver a pata ferida. A loba ficou deitada e a estendeu em mudança de postura, tornando inchaço e marca vermelha mais visíveis. Eron a ~2 m, nenhum toque/tratamento ou teste. Meio-dia Dia 1, 4 rações intactas + 1 parcialmente consumida, 0/300 XP, 36 PO 8 PP.
 - Planejamento secreto em `dm/` (jamais incluir em logs públicos).
