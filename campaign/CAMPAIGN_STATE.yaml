@@ -113,9 +113,9 @@ location:
   travel_status: "Deslocamento local concluído; Eron na ferraria, recursos inalterados."
 scene:
   id: OPENING-001
-  status: "awaiting_player_response_to_durnak"
+  status: "awaiting_player_response_to_durnak_job_offer"
   current_npcs_present: ["Durnak Mão de Ferro"]
-  immediate_visible_situation: "Dia 2 ~12h20: Eron respondeu a Bram que aprendeu na vida, agradeceu e caminhou até a ferraria próxima à terceira fonte. Conheceu Durnak Mão de Ferro, anão ferreiro de barba castanha grisalha, com marcas de queimaduras nos braços. Oficina de pedra e madeira com ferraduras, barras de ferro e ferramentas agrícolas para conserto. Durnak perguntou se Eron quer encomendar algo ou precisa de conserto; não sabe que procura trabalho. Nenhuma negociação de emprego, rolagem, XP, gasto ou mudança de recursos."
+  immediate_visible_situation: "Dia 2 ~12h20: Eron pediu trabalho a Durnak. Ferreiro informou serviço pendente de seis ferraduras, duas enxadas e ferragens de uma carroça para antes de amanhã. Ofereceu 1 PO pelo restante da tarde até 18h, com ferro e carvão da oficina, condicionado a Eron conhecer o ofício; perguntou sobre experiência em armas/armaduras ou ferramentas/ferraduras. Oferta ainda não aceita, nenhum trabalho iniciado, pagamento, XP ou rolagem."
   discovered_traps:
     - location: "Trilha dos Corcos, junto ao riacho"
       state: disarmed_safe_wire_left_at_tree
@@ -139,8 +139,8 @@ world:
 transcription:
   character_creation_history: sessions/transcripts/SESSION_0001_FULL.md
   narrative_session: sessions/transcripts/SESSION_0002_FULL.md
-  last_saved_player_turn: "- aprendi na vida, mas vou para ferraria muito obrigado"
-  last_saved_dm_turn: "[096] MESTRE — chegada à ferraria e apresentação de Durnak."
+  last_saved_player_turn: "Preciso de um trabalho"
+  last_saved_dm_turn: "[098] MESTRE — oferta de trabalho na ferraria por 1 PO até 18h, pergunta sobre experiência."
 notes:
   - "Primeira resposta de cena será salva literalmente e sem revelar preparativos de dm."
   - "Nunca tratar a aprovação da ficha como XP, nem mudar recursos automaticamente."
