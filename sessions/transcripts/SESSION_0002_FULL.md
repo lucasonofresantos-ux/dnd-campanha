@@ -5379,3 +5379,94 @@ Do lado de fora, alguns comerciantes começam a fechar suas portas. O vento frio
 - **Fabricação pendente:** 7 flechas, 2h40 de trabalho.
 
 **GitHub:** transcrição e estado da campanha atualizados; commits confirmados.
+
+## [205] JOGADOR
+
+- por favor pode guardar, quando voltar eu termino e se tiver algum serviço também já faço
+Vou pegarr um quarto com banho e uma janta, role percepção para o caminho e para ver se escutou algo enquanto comi
+
+## [206] MESTRE
+
+Vou rolar Percepção separadamente para o trajeto e para o jantar, e conferir o preço da hospedagem já estabelecido.
+
+### Ferraria de Durnak — Dia 5, 18h05
+
+— Combinado. Vou guardar tudo junto. Quanto ao serviço, se aparecer alguma encomenda maior, separo uma parte para você.
+
+Durnak recolhe as hastes, as pontas metálicas e as penas restantes, guardando-as numa caixa de madeira dentro do armário.
+
+— Boa caçada, Eron.
+
+### Caminho até a estalagem
+
+<card gap={2}>
+  <caption>Sabedoria (Percepção) — Trajeto</caption>
+  <row align="center">
+    <svg viewBox="0 0 100 100" size="68px">
+      <polygon points="50,4 94,29 94,73 50,97 6,73 6,29" fill="#214b86" stroke="#78a7e1" strokeWidth="2"/>
+      <path d="M50 4L23 65L94 73L50 4L77 65L6 73L50 4M6 29L77 65L50 97L23 65L94 29M23 65L77 65" fill="none" stroke="#78a7e1" strokeWidth="1.3"/>
+      <text x="50" y="53" fontSize="25" fontWeight="bold" fill="white" textAnchor="middle">9</text>
+    </svg>
+    <box gap={1}>
+      <title size="2xl">16</title>
+      `1d20+7` → [9] + 7 = **16**
+    </box>
+  </row>
+</card>
+
+Ao atravessar o povoado, você percebe que a circulação de pessoas diminuiu bastante. Os comerciantes recolhem suas mercadorias, enquanto um guarda acende as lanternas próximas à praça. Nada de anormal chama sua atenção.
+
+### Estalagem de Alda Tress — 18h15
+
+— Boa noite, Eron! O quarto de sempre? Vou mandar preparar a água quente.
+
+Alda serve um ensopado de carne com batatas, pão e uma caneca de chá quente.
+
+<card gap={2}>
+  <row><text>Quarto individual com banho</text><spacer/>**1 PO**</row>
+  <row><text>Jantar</text><spacer/>**3 PP**</row>
+  <divider/>
+  <row>Saldo restante<spacer/>**56 PO, 3 PP e 7 PC**</row>
+</card>
+
+### Percepção durante o jantar
+
+<card gap={2}>
+  <caption>Sabedoria (Percepção) — Conversas no salão</caption>
+  <row align="center">
+    <svg viewBox="0 0 100 100" size="68px">
+      <polygon points="50,4 94,29 94,73 50,97 6,73 6,29" fill="#214b86" stroke="#78a7e1" strokeWidth="2"/>
+      <path d="M50 4L23 65L94 73L50 4L77 65L6 73L50 4M6 29L77 65L50 97L23 65L94 29M23 65L77 65" fill="none" stroke="#78a7e1" strokeWidth="1.3"/>
+      <text x="50" y="53" fontSize="25" fontWeight="bold" fill="white" textAnchor="middle">13</text>
+    </svg>
+    <box gap={1}>
+      <title size="2xl">20</title>
+      `1d20+7` → [13] + 7 = **20**
+    </box>
+  </row>
+  <caption>Ambos os testes executados em Python com o rolador oficial da campanha e secrets.randbelow().</caption>
+</card>
+
+Enquanto come, você escuta dois homens com roupas de viagem conversando numa mesa próxima.
+
+— Se continuar esfriando assim, teremos geada nas partes altas da serra antes do fim da semana.
+
+— Pois é. Amanhã pretendo sair cedo. A trilha junto ao riacho ainda está lamacenta. Prefiro seguir pela estrada.
+
+Mais perto do balcão, um morador pergunta a Alda se Iria já retornou da patrulha.
+
+— Ainda não a vi voltar — responde a estalajadeira.
+
+Os dois viajantes continuam conversando. São aproximadamente **18h35**, e você terminou seu jantar.
+
+---
+
+**[LOG DE MEMÓRIA DA CAMPANHA]**
+- **Localização atual:** Salão da estalagem de Alda, Dia 5, 18h35.
+- **NPCs presentes:** Alda Tress, amigável; viajantes e moradores.
+- **Missão ativa:** Nenhuma.
+- **Eventos cruciais:** Materiais guardados na ferraria; quarto, banho e jantar pagos. Comentários sobre frio, trilha lamacenta e patrulha de Iria.
+- **Condições:** 12/12 PV | CA 16 | 225/300 XP | 56 PO, 3 PP e 7 PC | 25 flechas | 10 rações | 5,2 kg de sal. Inspiração Heroica disponível.
+- **Descanso longo:** Ainda não iniciado.
+
+**GitHub:** transcrição, rolagens, ficha, cronologia e estado atualizados; commits confirmados.
