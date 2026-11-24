@@ -4502,3 +4502,36 @@ Ela pensa por alguns instantes.
 - **Condições do Jogador:** 12/12 PV, CA 16, 125/300 XP, 41 PO, 9 PP e 7 PC, 21 flechas. Inspiração Heroica disponível.
 
 **GitHub:** transcrição, cronologia, estado, contratos e ressalva de rolagem registrados; commits confirmados.
+
+## [177] JOGADOR
+
+- não prometo mas vou ver oque posso fazer
+
+## [178] MESTRE
+
+### Estalagem de Alda Tress — Dia 4, 18h45
+
+Iria concorda com um movimento de cabeça.
+
+— Justo. Não quero que arrisque a vida por cinco moedas. Se encontrar alguma coisa, procure-me no posto da guarda ou perto dos currais.
+
+Mara sorri, visivelmente mais tranquila.
+
+— Confesso que esperava que voltasse trazendo a pele da loba, não que conseguisse salvá-la. Espero que ela fique bem.
+
+Iria termina sua bebida e se levanta.
+
+— Preciso começar minha ronda. Boa noite, Eron.
+
+Mara permanece à mesa, terminando sua refeição. A proposta de investigação continua disponível, sem obrigação de concluir o serviço.
+
+---
+
+**[LOG DE MEMÓRIA DA CAMPANHA]**
+- **Localização Atual:** Estalagem de Alda, Dia 4, 18h45.
+- **NPCs Presentes e Relação:** Mara à mesa; Alda no salão; Iria saiu para a ronda.
+- **Linha de Missão Ativa:** Proteção dos rebanhos (12 PO pendentes); investigação opcional dos laços (5 PO).
+- **Eventos Cruciais Ocorridos:** Intenção de investigar sem compromisso obrigatório.
+- **Condições do Jogador:** 12/12 PV, CA 16, 125/300 XP, 41 PO, 9 PP e 7 PC, 21 flechas. Inspiração Heroica disponível.
+
+**GitHub:** transcrição, cronologia, estado e relógios atualizados; commits confirmados.
