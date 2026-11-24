@@ -2821,3 +2821,103 @@ A loba demonstra sinais de recuperação, mas ainda não está plenamente curada
 - **Condições do Jogador:** 12/12 PV, CA 16, 50/300 XP, 17 flechas, três rações intactas e uma parcial, 33 PO, 3 PP e 3 PC. Inspiração Heroica disponível.
 
 **GitHub:** transcrição, inventário, cronologia, relógios da campanha e estado atualizados; commits confirmados.
+
+## [117] JOGADOR
+
+Como alguma coisa e vou sair para caçar até matar alguma coisa pode rolar tudo até lá inclusive o saque
+
+## [118] MESTRE
+
+Vou contabilizar o desjejum e resolver a caçada com os dados da campanha, incluindo ataque, dano e coleta de materiais.
+
+### Ravina da loba — Dia 3, 06h10
+
+Eron come pão e carne seca da ração aberta na noite anterior, recolhe seus pertences e parte para caçar. A umidade da manhã favorece a identificação de rastros no solo.
+
+Como você autorizou a resolução completa da caçada, farei as tentativas sucessivas sem gastar automaticamente sua Inspiração Heroica.
+
+## Caçada da manhã
+
+| Teste | 1ª tentativa | 2ª tentativa | 3ª tentativa |
+|---|---:|---:|---:|
+| Sobrevivência +5 | 16+5 = **21** | 20+5 = **25** | 15+5 = **20** |
+| Percepção +7 | 1+7 = **8** | 17+7 = **24** | 8+7 = **15** |
+| Furtividade +9 | 14+9 = **23** | 9+9 = **18** | 16+9 = **25** |
+
+Na primeira tentativa, Eron encontra rastros, mas não localiza a presa. Na segunda, avista um corço e dispara, porém erra. Prosseguindo pela mata, encontra uma fêmea adulta de corço próxima a um pequeno curso de água.
+
+### Ataques de arco curto
+
+<grid columns={2} gap={2}>
+  <grid-item>
+    <box border radius="lg" padding={3} gap={1}>
+      <caption>Primeiro disparo</caption>
+      <title size="2xl" color="danger">10</title>
+      `2d20kh1+7`
+      Dados: [2, 3]
+      3 + 7 = 10
+      <text color="danger">Errou</text>
+    </box>
+  </grid-item>
+  <grid-item>
+    <box border radius="lg" padding={3} gap={1}>
+      <caption>Segundo disparo</caption>
+      <title size="2xl" color="success">23</title>
+      `2d20kh1+7`
+      Dados: [16, 14]
+      16 + 7 = 23
+      <text color="success">Acertou</text>
+    </box>
+  </grid-item>
+</grid>
+
+<card gap={1}>
+  <caption>Dano — Arco curto + Ataque Furtivo</caption>
+  <title size="2xl">8 pontos de dano perfurante</title>
+  `2d6+5` → [1, 2] + 5 = 8
+  <text color="success" weight="medium">Corça abatida</text>
+</card>
+
+### Saque da caça
+
+<card gap={1}>
+  <caption>Sobrevivência com Ferramentas de Coureiro — Vantagem</caption>
+  <title size="2xl" color="success">18</title>
+  `2d20kh1+5` → [13, 8] → 13 + 5
+  <text color="success">Sucesso</text>
+</card>
+
+Utilizando sua experiência e as ferramentas de coureiro, Eron aproveita os materiais da caça sem comprometer significativamente a pele ou a carne.
+
+| Material obtido | Quantidade |
+|---|---:|
+| Carne fresca | Aproximadamente 8 kg |
+| Pele de corça crua | 1 |
+| Orelhas | 2 |
+| Feixe de tendões | 1 |
+| Ossos longos | 2 |
+| Coração | 1 |
+| Fígado | 1 |
+
+A fêmea não possui galhadas. A pele ainda precisa ser salgada para conservação.
+
+<caption>Todas as rolagens foram executadas em Python utilizando o script do repositório, com secrets.randbelow(). A identidade do arquivo foi conferida pelo hash Git.</caption>
+
+### Mata — 09h00
+
+Com a caça preparada, Eron está a cerca de 30 minutos da toca da loba. A manhã está fresca, e o sol começa a dissipar a umidade do chão.
+
+Duas flechas foram utilizadas e não recuperadas. Restam **15 flechas**.
+
+**O que Eron faz agora?**
+
+---
+
+**[LOG DE MEMÓRIA DA CAMPANHA]**
+- **Localização Atual:** Mata próxima à ravina, Dia 3, 09h00.
+- **NPCs Presentes e Relação:** Nenhum; loba e filhotes na toca.
+- **Linha de Missão Ativa:** Recuperação da loba, proteção dos rebanhos e investigação dos laços.
+- **Eventos Cruciais Ocorridos:** Corça abatida e saque concluído; 8 kg de carne e materiais aproveitados.
+- **Condições do Jogador:** 12/12 PV, CA 16, 50/300 XP, 15 flechas, três rações intactas e uma parcial, 33 PO, 3 PP e 3 PC. Saco de sal intacto e Inspiração Heroica disponível.
+
+**GitHub:** transcrição, rolagens, inventário, cronologia e estado atualizados; commits confirmados.
