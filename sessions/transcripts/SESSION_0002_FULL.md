@@ -5858,3 +5858,38 @@ Ela se aproxima um pouco da lareira.
 - **Condições:** 12/12 PV | CA 16 | 225/300 XP | 56 PO, 2 PP e 7 PC | 25 flechas | 10 rações | 5,2 kg de sal. Inspiração Heroica disponível.
 
 **GitHub:** transcrição, ficha, cronologia e estado atualizados; commits confirmados.
+
+## [223] JOGADOR
+
+- hoje quero caçar e ver como está a loba e talvez subir o Veyra acho que é este o nome, mas não sei quando eu desço, e sabe algo sobre o Veyra que eu deva tomar cuidado?
+
+## [224] MESTRE
+
+### Estalagem de Alda — Dia 6, 06h35
+
+— O Monte Veyra? Sim, é esse mesmo.
+
+Alda apoia as mãos sobre a mesa e olha pela janela, na direção da montanha.
+
+— Os lenhadores conhecem bem as partes baixas, mas poucos sobem além dos pinheirais. Lá em cima há ravinas profundas, pedras soltas e encostas bastante íngremes. Quando a neblina desce, é fácil perder a direção. E agora, com a geada, as pedras ficam traiçoeiras.
+
+Ela continua:
+
+— Há lobos e já ouvi relatos de ursos nas regiões menos frequentadas. Mas não conheço ninguém que tenha explorado toda aquela montanha. Também não conte com encontrar abrigos preparados por lá.
+
+Alda observa seus equipamentos.
+
+— Se pretende passar algumas noites fora, leve uma manta grossa, corda e alimento suficiente. E não deixe para procurar abrigo depois que escurecer.
+
+— Quer deixar algum recado comigo caso alguém venha procurá-lo enquanto estiver na montanha?
+
+---
+
+**[LOG DE MEMÓRIA DA CAMPANHA]**
+- **Localização atual:** Estalagem de Alda, Dia 6, 06h35.
+- **NPCs presentes e relação:** Alda Tress, amigável.
+- **Missão ativa:** Nenhum contrato. Intenção de caçar, visitar a loba e possivelmente explorar o Monte Veyra.
+- **Eventos cruciais:** Informações locais sobre terreno, clima e fauna da montanha. Relatos de ursos ainda não confirmados.
+- **Condições:** 12/12 PV | CA 16 | 225/300 XP | 56 PO, 2 PP e 7 PC | 25 flechas | 10 rações | 5,2 kg de sal. Inspiração Heroica disponível.
+
+**GitHub:** transcrição, cronologia e estado atualizados; commits confirmados.
