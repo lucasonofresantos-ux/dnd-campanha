@@ -965,3 +965,65 @@ Se ela tolerar o contato, Eron poderá realizar um teste de **Sabedoria (Medicin
 - Condições do Jogador: Ladino 1, **12/12 PV**, **CA 16**, **0/300 XP**, **36 PO e 8 PP**, 19 flechas utilizáveis. Quatro rações diárias intactas e uma quase consumida; sem dano ou condições.
 
 **GitHub:** transcrição, cronologia e estado da campanha registrados em commits confirmados.
+
+## [051] JOGADOR — 2026-11-23
+
+19 em lidar com animais para tocar na pata e examinar e se ela deixar tratar
+Medicina 20
+Resultados naturais
+(Quando falo saquear um animal é ver oque consigo aproveitar para fazer dinheiro, couro, orelhas, carne... E nesse caso ferramentas de coureiro ajuda muito)
+
+## [052] MESTRE — 2026-11-23
+
+<box border radius="lg" padding={3} gap={2}>
+  <title size="md">Resultados dos testes — Dados físicos</title>
+  <grid columns={2} gap={3}>
+    <grid-item>
+      <text color="secondary" size="xs">Lidar com Animais</text>
+      <title size="2xl" color="success" tabularNums>22</title>
+      <caption>1d20 [19] +3</caption>
+      <text color="success" weight="medium" size="sm">Sucesso</text>
+    </grid-item>
+    <grid-item>
+      <text color="secondary" size="xs">Medicina</text>
+      <title size="2xl" color="success" tabularNums>23</title>
+      <caption>1d20 [20] +3</caption>
+      <text color="success" weight="medium" size="sm">Sucesso excepcional</text>
+    </grid-item>
+  </grid>
+</box>
+
+Eron aproxima a mão lentamente. A loba acompanha cada movimento, com as orelhas ligeiramente baixas. Quando seus dedos alcançam a pata machucada, ela tensiona o corpo e mostra brevemente os dentes, mas não rosna nem tenta mordê-lo.
+
+Após alguns instantes, permite que ele sustente delicadamente o membro.
+
+Agora, com a ferida diante dos olhos, Eron compreende melhor o problema.
+
+A marca circular foi provocada por algo fino que apertou a pata com força. Junto à pequena abertura da pele, **há um fragmento de arame alojado superficialmente**, cercado por sangue seco e tecido inflamado.
+
+Com o cuidado de quem já precisou lidar com ferimentos durante seus anos de guarda, Eron retira o pequeno fragmento usando uma ferramenta fina, limpa a região com a água do cantil e improvisa uma proteção com uma faixa retirada de suas roupas de viajante.
+
+A loba solta um ganido quando o metal se desprende. Sua cabeça se move bruscamente na direção da mão de Eron, mas ela não o morde. Depois de alguns segundos, relaxa a musculatura e permite que ele termine o curativo.
+
+Quando Eron solta a pata, ela a recolhe devagar, fareja o tecido e dá algumas lambidas em sua mão.
+
+**O fragmento foi removido e a ferida recebeu os primeiros cuidados.** O inchaço ainda existe, e será necessário tempo para cicatrizar. Não há garantia de recuperação completa ou ausência de infecção, mas a causa da irritação persistente foi retirada.
+
+---
+
+**Sobre saquear animais:** sua explicação fica estabelecida para a campanha. Quando você disser *saquear*, vou considerar a inspeção de todos os materiais potencialmente aproveitáveis — carne, pele, couro, ossos, dentes, chifres, orelhas e outros componentes, conforme a criatura — utilizando as ferramentas e proficiências disponíveis.
+
+Também corrijo minha interpretação anterior do coelho: Eron havia aproveitado **uma pele parcialmente danificada e as orelhas**, além da pequena quantidade de carne. A falha anterior de Sobrevivência continua válida: houve desperdício de carne e perda da flecha. A pele está crua e precisará ser conservada ou trabalhada com as Ferramentas de Coureiro; ainda não possui valor de venda determinado.
+
+A luz da tarde enfraquece lentamente sobre a ravina. A loba permanece próxima, com os filhotes abrigados atrás dela.
+
+**O que Eron faz agora?**
+
+**[LOG DE MEMÓRIA DA CAMPANHA]**
+- Localização Atual: Entrada da toca rochosa na ravina, aproximadamente às **16h20 do Dia 1**.
+- NPCs Presentes e Relação: Loba cinzenta ferida e dois filhotes. A loba permitiu o exame e os primeiros socorros, mas continua selvagem e protetora.
+- Linha de Missão Ativa: Resolver os ataques ao rebanho de Mara; recompensa de **12 PO ainda não recebida**.
+- Eventos Cruciais Ocorridos: **Lidar com Animais [19]+3=22** e **Medicina [20]+3=23**, ambos dados físicos. Eron retirou um pequeno fragmento superficial de arame da pata, limpou a ferida e colocou uma faixa improvisada. Correção de saque: possui **uma pele crua de coelho parcialmente danificada e duas orelhas**, ainda sem curtimento ou valor definido. **+25 XP** pela assistência difícil a um animal selvagem, sem considerar resolvido o problema dos rebanhos.
+- Condições do Jogador: Ladino 1, **12/12 PV**, **CA 16**, **25/300 XP**, **36 PO e 8 PP**. **19 flechas utilizáveis**; quatro rações intactas e uma quase consumida. Uma pequena tira das roupas de viajante utilizada no curativo. Sem dano ou condições ativas.
+
+**GitHub:** duas rolagens físicas, XP, inventário, correção auditável do saque e transcrição literal salvos; commits confirmados.
