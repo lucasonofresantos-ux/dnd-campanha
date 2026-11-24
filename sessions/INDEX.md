@@ -56,3 +56,5 @@
 - Atualização: sessão 0002 até [236], Dia6 ~13h10, família localizada, sal restante 2,2kg, rolagens 23 e 16 efetivamente executadas; auditoria [234] corrigida.
 
 - Atualização: sessão 0002 até [238], Dia6 ~13h15; reencontro, carne oferecida ainda não consumida, Investigação +6 pendente; auditoria [236].
+
+- Atualização: sessão 0002 até [240], Dia6 ~13h25; Investigação 19 executada e verificada; saliência natural, passagem para parede rochosa avistada.
