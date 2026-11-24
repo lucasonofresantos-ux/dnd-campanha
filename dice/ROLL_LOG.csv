@@ -263,3 +263,5 @@ date,campaign_id,stage,attempt,expression,six_rolls_faces_in_order,six_attribute
 2026-11-24,ERON-RIVER-ASTERION-001,skill_check_investigation_key_socket_player_reported,1,1d20+6,20,"20+6",26,true
 2026-11-24,ERON-RIVER-ASTERION-001,skill_check_perception_entry_corridor_day6,1,1d20+7,16,"16+7",23,true
 2026-11-24,ERON-RIVER-ASTERION-001,skill_check_stealth_entry_corridor_day6,1,1d20+9,8,"8+9",17,true
+2026-11-24,ERON-RIVER-ASTERION-001,correction_unverified_execution_skill_check_perception_entry_corridor_day6,1,1d20+7,16,"16+7",23,false
+2026-11-24,ERON-RIVER-ASTERION-001,correction_unverified_execution_skill_check_stealth_entry_corridor_day6,1,1d20+9,8,"8+9",17,false
