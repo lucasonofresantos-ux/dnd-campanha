@@ -1165,3 +1165,70 @@ Alda aguarda sua resposta.
 - **Condições do Jogador:** Ladino 1, **12/12 PV**, **CA 16**, **25/300 XP**, **36 PO e 8 PP**, 19 flechas utilizáveis. Quatro rações intactas e uma quase consumida; uma pele crua de coelho parcialmente danificada e duas orelhas. Sem condições ativas.
 
 **GitHub:** transcrição literal, cronologia e estado da campanha salvos; commits confirmados.
+
+## [059] JOGADOR — 2026-11-23
+
+Vou querer o quarto individual e a janta também e onde consigo unguento e ataduras ou um kit de curandeiro? E claro quanto fica tudo
+
+## [060] MESTRE — 2026-11-23
+
+Alda sorri quando Eron pede um quarto individual.
+
+— Um homem que passa o dia nas montanhas merece uma boa noite de descanso. Tenho um quarto no andar de cima, com cama, cobertor, bacia de água e uma tranca na porta.
+
+Ela aponta para a panela sobre o fogo.
+
+— O jantar de hoje é ensopado de carne com legumes, pão fresco e uma caneca de água ou chá quente.
+
+Quando Eron menciona unguentos, ataduras e um kit de curandeiro, Alda apoia os cotovelos no balcão.
+
+— Procure **Olma Ramo**, na Casa das Ervas, perto da segunda fonte. Ela conhece ferimentos de gente e de animais. Costuma ter pomadas e material para curativos. Abre logo pela manhã.
+
+— Se está procurando um kit completo, talvez ela tenha um. Mas não posso garantir o estoque de amanhã.
+
+### Preços apresentados a Eron
+
+| Serviço ou material | Valor para Eron |
+|---|---:|
+| Quarto individual — 1 noite | 1 PO |
+| Jantar completo | 3 PP |
+| Unguento simples — preço estimado | 2 PP e 4 PC |
+| Ataduras limpas — preço estimado | 1 PP e 6 PC |
+| Kit de curandeiro — preço de referência | 4 PO |
+
+<text color="secondary" size="xs">PO = peças de ouro; PP = peças de prata; PC = peças de cobre. Os preços dos materiais são estimativas, sujeitos ao estoque e à confirmação da boticária.</text>
+
+Eron possui o talento **Artesão (Crafter)**, que concede 20% de desconto em itens não mágicos. Os valores estimados dos materiais acima já incluem esse desconto; a hospedagem e o serviço de jantar não. O kit de curandeiro custa normalmente 5 PO e possui dez utilizações. <Cite refs={["turn934852search0","turn934852search4"]}/>
+
+<box border radius="lg" padding={3} gap={2}>
+  <text color="secondary" weight="medium" size="xs">Total previsto</text>
+  <grid columns={2} gap={3}>
+    <grid-item>
+      <title size="xl" tabularNums>1 PO e 3 PP</title>
+      <caption>Quarto + jantar, hoje</caption>
+    </grid-item>
+    <grid-item>
+      <title size="xl" tabularNums>5 PO e 3 PP</title>
+      <caption>Quarto + jantar + kit amanhã</caption>
+    </grid-item>
+  </grid>
+  <divider color="subtle"/>
+  Se preferir apenas unguento e ataduras separados, sem o kit, a previsão total é **1 PO e 7 PP**, incluindo quarto e jantar.
+</box>
+
+Alda pega uma pequena chave de ferro e a coloca sobre o balcão, mantendo a mão junto dela.
+
+— Então, viajante, o quarto e o jantar ficam em **uma peça de ouro e três de prata**. Posso deixar o quarto para você.
+
+O ensopado borbulha atrás dela. A noite está chegando, mas Eron ainda não pagou nem começou a descansar.
+
+**O que Eron faz?**
+
+**[LOG DE MEMÓRIA DA CAMPANHA]**
+- **Localização Atual:** Salão do Posto de Descanso de Alda Tress, Pouso das Três Fontes, aproximadamente às **17h55 do Dia 1**.
+- **NPCs Presentes e Relação:** Alda Tress oferece quarto individual e jantar; viajantes permanecem no salão. Olma Ramo, boticária citada por Alda, ainda não foi encontrada.
+- **Linha de Missão Ativa:** Proteger o rebanho de Mara e retornar à loba pela manhã com suprimentos. Recompensa de 12 PO ainda pendente.
+- **Eventos Cruciais Ocorridos:** Alda cotou quarto individual por **1 PO** e jantar por **3 PP**, total **1 PO e 3 PP**. Indicou a Casa das Ervas de Olma Ramo, perto da segunda fonte. Foram apresentados preços estimados com desconto de Artesão: kit de curandeiro **4 PO**; unguento **2 PP e 4 PC**; ataduras **1 PP e 6 PC**. Disponibilidade não confirmada. Ainda não houve pagamento, jantar ou descanso.
+- **Condições do Jogador:** Ladino 1, **12/12 PV**, **CA 16**, **25/300 XP**, **36 PO e 8 PP**, 19 flechas utilizáveis. Quatro rações intactas e uma quase consumida; uma pele crua de coelho parcialmente danificada e duas orelhas. Sem condições ativas.
+
+**GitHub:** transcrição literal, estado e cronologia atualizados; commits confirmados.
