@@ -38,7 +38,7 @@ character:
   inventory_reference: character/ERON_RIVER_LEVEL_01.md
   carrying_all_owned_equipment: true
   carrying_weight_lb_recorded: 103.88
-  carrying_weight_note: "Novo material de lebre Dia3 à noite; abaixo de 180 lb, peso exato não aferido."
+  carrying_weight_note: "Carne da lebre consumida; materiais não alimentares e miúdos mantidos, abaixo de 180 lb."
   carrying_capacity_lb: 180
   known_personal_item: "Marca da Bigorna Velada, pequeno disco familiar e bolsa de couro; uso desconhecido para Eron."
   untrained_owned_tool: "Ferramentas de Funileiro (propriedade, sem proficiência)"
@@ -57,7 +57,7 @@ character:
     temporary_room_key: "chave de ferro do quarto 3, deverá ser devolvida ao encerrar hospedagem"
     long_rest_started: true
     long_rest_completed: true
-    rest_completion: "Dia3 ~06h00, descanso longo ao ar livre junto à toca; hospedagem anterior não renovada nem chave devolvida."
+    rest_completion: "Dia4 ~06h00, descanso longo ao ar livre junto à toca, iniciado Dia3 ~21h20; hospedagem anterior não renovada nem chave devolvida."
   medical_supplies:
     healer_kit:
       quantity: 1
@@ -72,7 +72,7 @@ character:
     starting_full_days: 5
     intact_full_days: 3
     partly_used_days: 0
-    food_offered: "Dia2 jantar dividido com loba; Dia3 desjejum e almoço da mesma ração, agora consumida integralmente. Restam 3 intactas."
+    food_offered: "Dia3 almoço encerrou ração parcial; jantar de lebre compartilhado, sem gastar rações; 3 intactas."
   salvaged_materials:
     rabbit_raw_hide: "vendida a Belda Cortiça Dia 2 ~11h55"
     rabbit_ears: 0
@@ -103,7 +103,9 @@ character:
     sale_total: "1 PO e 9 PP"
     preparation_result: "Sobrevivência e Coureiro 2d20kh1+5 [13,8] mantido 13+5=18, conforme registro anterior"
   harvested_hare_day3_evening:
-    fresh_meat_kg_approx: 1.2
+    fresh_meat_kg_approx: 0
+    meat_consumed_shared_kg_approx: 1.2
+    condition: "Pele, orelhas e miúdos crus sem sal após noite fria; perecíveis, qualidade comercial a avaliar."
     raw_hide: "1 pele crua em bom estado, sem sal"
     ears: 2
     small_bones: 2
@@ -119,22 +121,22 @@ character:
   animal_handling_last: "Dia3 ~10h15: dado do jogador 16+3=19; tolerou exame, curativo e carinho, sem domesticação."
 campaign_time:
   calendar_system: "Asterion, dias relativos; nenhuma era/ano formal estabelecido"
-  day: 3
-  time_of_day: "aproximadamente 20h40 do Dia 3"
+  day: 4
+  time_of_day: "aproximadamente 06h00 do Dia 4"
   season: "final do outono"
-  elapsed_game_time: "Dia3 ~19h55–20h40 retorno à toca."
+  elapsed_game_time: "Dia3 ~20h40–21h20 jantar e carinho; descanso longo até Dia4 ~06h00."
 location:
   continent: Asterion
   polity: "Terras Livres de Avenhar (homebrew), fora de Valdren"
   area: "entroncamento da Estrada do Cascalho, próximo ao Pouso das Três Fontes"
   nearby: "encostas arborizadas da serra cujo monte mais alto é chamado Veyra"
   exact_position: "Entrada da toca da loba, ravina conhecida"
-  travel_status: "Retornou à toca com materiais de lebre."
+  travel_status: "Na toca, descanso longo concluído ao amanhecer."
 scene:
   id: OPENING-001
-  status: "awaiting_player_action_at_wolf_den_day3_evening"
+  status: "awaiting_player_action_at_wolf_den_day4_morning"
   current_npcs_present: ["Loba em recuperação", "Dois filhotes"]
-  immediate_visible_situation: "Dia3 ~19h55–20h40: Eron retornou à toca pela rota conhecida, sem teste ou encontro relevante. Loba rosnou brevemente, reconheceu cheiro de Eron e relaxou; dois filhotes junto à mãe. Maior parte da carne deixada pela manhã foi consumida, sem quantidade residual aferida. Loba caminhou alguns passos apoiando melhor a pata, curativo permanece; não examinada clinicamente, nenhuma cura total presumida. Farejou bolsa com carne de lebre. Nenhum alimento entregue, recurso gasto, XP ou dano. Auditoria: a execução Python alegada nas respostas [108], [114], [118] e [146] não é comprovada pelo histórico de ferramentas disponível; os resultados permanecem registrados como apresentados, mas não são sorteios verificados. Preservar consequências narrativas e inventário já estabelecidos até eventual revisão acordada com o jogador."
+  immediate_visible_situation: "Dia3 ~20h40–21h20: Eron preparou pequena fogueira com pederneira e combustível local, assou sua porção da lebre e entregou restante cru à loba e filhotes. Toda a carne (~1,2 kg) consumida; sem gasto de rações, sal, óleo ou velas. Pele, orelhas, dois ossos pequenos, coração e fígado permanecem crus, não salgados, perecíveis; conservação comercial não garantida. Loba tolerou carinho no pescoço, voltou às crias. Eron repousou sob a saliência rochosa conhecida, ~21h20–06h00 do Dia4; descanso longo concluído sem incidentes, PV12/12, dado de vida 1d8, Inspiração Heroica já disponível não acumula, exaustão 0. Amanhecer: loba caminha próximo da toca apoiando as quatro patas, leve claudicação, sem novo exame ou confirmação de cura; um filhote brinca com extremidade do manto. Sem rolagem, XP adicional ou alterações monetárias. Rações 3 intactas, 14 flechas, 200g sal, kit9/10. Nenhuma domesticação."
   discovered_traps:
     - location: "Trilha dos Corcos, junto ao riacho"
       state: disarmed_safe_wire_left_at_tree
@@ -158,8 +160,8 @@ world:
 transcription:
   character_creation_history: sessions/transcripts/SESSION_0001_FULL.md
   narrative_session: sessions/transcripts/SESSION_0002_FULL.md
-  last_saved_player_turn: "Vou para a toca da loba de novo"
-  last_saved_dm_turn: "[148] MESTRE — retorno à toca, loba apoia melhor a pata."
+  last_saved_player_turn: "- sim trouxe a janta\nPreparo a lebre e divido com ela faço um carinho e durmo ali"
+  last_saved_dm_turn: "[150] MESTRE — jantar compartilhado e descanso longo concluído Dia4 06h00."
 notes:
   - "Primeira resposta de cena será salva literalmente e sem revelar preparativos de dm."
   - "Nunca tratar a aprovação da ficha como XP, nem mudar recursos automaticamente."
