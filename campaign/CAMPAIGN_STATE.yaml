@@ -91,7 +91,8 @@ character:
     condition: "Toda carne fresca do corco, ~10kg, foi entregue a loba e filhotes: ~2kg Dia2 ~09h40, ~8kg restantes deixados junto a entrada da toca Dia2 ~10h25, expostos a deterioracao se nao consumidos. Peles, galhadas, tendões e ossos vendidos a Belda; miúdos vendidos a Bram; orelhas vendidas a Nessa."
     preparation_result: "Sobrevivencia + Ferramentas de Coureiro com vantagem 2d20kh1+5 [1,19] mantido 19+5=24"
   harvested_roe_deer_day3:
-    fresh_meat_kg_approx: 8
+    fresh_meat_kg_approx: 6
+    meat_offered_to_wolf_kg_approx: 2
     raw_hide: "1 pele crua salgada, não curtida"
     ears: 2
     ears_condition: "salgadas"
@@ -113,21 +114,21 @@ character:
 campaign_time:
   calendar_system: "Asterion, dias relativos; nenhuma era/ano formal estabelecido"
   day: 3
-  time_of_day: "aproximadamente 09h50 da manhã do Dia 3"
+  time_of_day: "aproximadamente 09h55 da manhã do Dia 3"
   season: "final do outono"
-  elapsed_game_time: "Dia3 ~09h00–09h20 preparação dos materiais; ~09h20–09h50 retorno à toca."
+  elapsed_game_time: "Dia3 ~09h50–09h55 oferta de carne à loba e filhotes."
 location:
   continent: Asterion
   polity: "Terras Livres de Avenhar (homebrew), fora de Valdren"
   area: "entroncamento da Estrada do Cascalho, próximo ao Pouso das Três Fontes"
   nearby: "encostas arborizadas da serra cujo monte mais alto é chamado Veyra"
   exact_position: "Entrada da toca da loba, ravina conhecida"
-  travel_status: "Retornou à toca com materiais conservados e carne fresca, ainda não oferecida."
+  travel_status: "Na toca; ofereceu ~2 kg de carne, restam ~6 kg."
 scene:
   id: OPENING-001
   status: "awaiting_player_action_at_wolf_den_day3"
   current_npcs_present: ["Loba ferida", "Dois filhotes"]
-  immediate_visible_situation: "Dia 3 ~09h00–09h50: Eron preparou a pele e as duas orelhas da corça com aproximadamente 800 g de sal, deixando ~200 g no saco. Pele crua salgada, não curtida; orelhas salgadas, tendões separados para secagem, ossos limpos. Mantidos ~8 kg de carne, coração e fígado frescos e sem sal. Procedimento rotineiro com ferramentas de coureiro proficientes, sem teste. Retornou à toca após ~20 min de preparo e ~30 min de caminhada; loba e dois filhotes presentes. Loba levanta e caminha alguns passos, ainda manca, atadura suja nas bordas e no lugar. Nenhum alimento entregue, novo exame ou tratamento realizado. Sem XP, dano ou outros gastos."
+  immediate_visible_situation: "Dia 3 ~09h55: Eron ofereceu cerca de 2 kg de carne fresca de corça à loba, que aceitou e levou para perto dos dois filhotes. Alimentaram-se; loba deitou a pouco mais de 1 m de Eron com postura relaxada e orelhas atentas, pata com atadura suja parcialmente. Permanecem animais selvagens; nenhuma domesticação ou cura adicional. Restam ~6 kg de carne fresca em posse de Eron, demais materiais intactos. Nenhuma rolagem, XP, dano, gasto monetário ou tratamento."
   discovered_traps:
     - location: "Trilha dos Corcos, junto ao riacho"
       state: disarmed_safe_wire_left_at_tree
@@ -151,8 +152,8 @@ world:
 transcription:
   character_creation_history: sessions/transcripts/SESSION_0001_FULL.md
   narrative_session: sessions/transcripts/SESSION_0002_FULL.md
-  last_saved_player_turn: "Vou salgar oque pode ser salgado e vou ir para a toca da loba"
-  last_saved_dm_turn: "[120] MESTRE — materiais salgados e retorno à toca; carne ainda não entregue."
+  last_saved_player_turn: "- aqui come alguma coisa\nTiro um bom pedaço da carne da corça e dou para ela"
+  last_saved_dm_turn: "[122] MESTRE — loba e filhotes alimentados, restam 6 kg de carne."
 notes:
   - "Primeira resposta de cena será salva literalmente e sem revelar preparativos de dm."
   - "Nunca tratar a aprovação da ficha como XP, nem mudar recursos automaticamente."
