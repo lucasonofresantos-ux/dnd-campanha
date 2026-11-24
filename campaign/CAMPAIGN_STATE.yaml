@@ -64,22 +64,22 @@ character:
 campaign_time:
   calendar_system: "Asterion, dias relativos; nenhuma era/ano formal estabelecido"
   day: 1
-  time_of_day: "aproximadamente 17h40 do Dia 1, crepúsculo avançando"
+  time_of_day: "aproximadamente 17h45 do Dia 1, crepúsculo"
   season: "final do outono"
-  elapsed_game_time: "~16h20 despedida da loba, cerca de 1h20 de caminhada por ravina/riacho/trilha/pasto até o Pouso das Três Fontes; ~17h40"
+  elapsed_game_time: "~17h40 chegada ao curral de Mara; ~5 minutos de conversa, horário ~17h45"
 location:
   continent: Asterion
   polity: "Terras Livres de Avenhar (homebrew), fora de Valdren"
   area: "entroncamento da Estrada do Cascalho, próximo ao Pouso das Três Fontes"
   nearby: "encostas arborizadas da serra cujo monte mais alto é chamado Veyra"
-  exact_position: "junto ao curral de Mara Telha, no Pouso das Três Fontes, aldeia nas Terras Livres de Avenhar"
+  exact_position: "junto ao curral de Mara Telha, Pouso das Três Fontes, com luz de lanterna e cabras recolhidas"
   travel_status: "Eron deixou a toca e retornou pela rota conhecida à aldeia; loba e filhotes ficaram na toca no momento da partida, ações durante ausência desconhecidas"
 scene:
   id: OPENING-001
-  status: "awaiting_player_response_to_mara_at_corral"
+  status: "awaiting_player_reply_to_mara_on_trap_location"
   current_npcs_present:
     - Mara Telha
-  immediate_visible_situation: "Eron despediu-se verbalmente da loba, prometendo voltar pela manhã com comida e unguento, rever pata e ajudá-la a buscar matilha, pedindo que não atacasse cabras. A loba ouviu, ergueu focinho, permaneceu à entrada com dois filhotes (um se acomodou em seu flanco), faixa ainda na pata; não entende promessas humanas nem garantiu ficar ou não atacar rebanho. Eron percorreu ~1h20 da toca à aldeia sem novo teste ou evento especial. Às ~17h40 encontrou Mara Telha terminando de fechar cabras no curral com lanterna. Ela o reconheceu e perguntou se encontrou animais/rastros, disse temer novos ataques nesta noite. Eron ainda não respondeu ou revelou o que sabe. Missão rebanho não resolvida, recompensa 12PO pendente, XP25/300, HP12/12, sem gastos ou novas rolagens."
+  immediate_visible_situation: "Eron contou a Mara que encontrou loba com pata ferida por armadilha e dois filhotes, caçou coelho e ofereceu alimento; acredita que ela não atacará esta noite, mas não tem certeza; planeja voltar amanhã e ajudá-la a encontrar matilha. Perguntou por que atacaria cabras havendo caça e o nome da montanha. Mara mostrou surpresa e indignação com armadilhas, inferiu plausivelmente que a pata lesionada dificulta caça de corços e torna cabras presas mais fáceis, sem declarar essa hipótese como certeza. Mara não quer matar mãe e deixar filhotes, mas quer proteger as últimas cabras; afirmou que manterá cabras fechadas e pretende pedir vigília a Iria (ainda não a encontrou). Identificou o pico principal da serra como Monte Veyra, sem qualquer conhecimento de império antigo. Perguntou a Eron se encontrou a armadilha e onde ficava. Eron ainda não respondeu; a recompensa proposta de 12PO não foi paga. Nenhum teste novo, dano, XP ou gasto, ~17h45."
   combat: false
   initiative: []
   rounds: 0
@@ -98,8 +98,8 @@ world:
 transcription:
   character_creation_history: sessions/transcripts/SESSION_0001_FULL.md
   narrative_session: sessions/transcripts/SESSION_0002_FULL.md
-  last_saved_player_turn: "- não saia daqui até amanhã de manhã eu volto tá bom, trago comida unguento e dou mais um olhada nessa ferida, e depois disso te ajudo a achar a sua matilha, mas vê se não me come nenhuma cabra\nVou até a dona Mara"
-  last_saved_dm_turn: "[054] MESTRE — 2026-11-23; Eron promete voltar de manhã, caminha ~1h20 até Mara no curral às ~17h40; ela pergunta o que encontrou. Transcrição salva."
+  last_saved_player_turn: "- encontrei uma loba ferida na pata por uma armadilha com dois filhotes, cacei um coelho e dei para ela comer, então não acredito que vira hoje, se vier não vai ser a mesma... Vou tratar da para dela amanhã e tentar levar ela para a matilha dela, não sei por que ela atacou as cabras, tem caça na floresta, e qual o nome dessa montanha?"
+  last_saved_dm_turn: "[056] MESTRE — 2026-11-23; Mara escuta sobre loba e crias, preocupa-se com laços e rebanho, identifica Monte Veyra e pergunta por armadilha encontrada; transcrição salva."
 notes:
   - "Primeira resposta de cena será salva literalmente e sem revelar preparativos de dm."
   - "Nunca tratar a aprovação da ficha como XP, nem mudar recursos automaticamente."
