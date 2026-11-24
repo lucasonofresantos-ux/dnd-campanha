@@ -18,5 +18,5 @@
 - XP: [XP_LOG.csv](../campaign/XP_LOG.csv), regras em [PROGRESSION_XP.md](../campaign/PROGRESSION_XP.md).
 - Sessão narrativa 1: [SESSION_0002.md](SESSION_0002.md), transcrição [SESSION_0002_FULL.md](transcripts/SESSION_0002_FULL.md).
 - Isolamento: não misturar com `PRE-CHAR-HUMAN-001` (que é histórico da criação), nem com campanhas de outros personagens.
-- Transcrição [SESSION_0002_FULL.md](transcripts/SESSION_0002_FULL.md), mensagens [001]–[044]: Eron deixou a loba e dois filhotes na toca para caçar, testes reais Sobrevivência [1]+5=6, Furtividade [11]+9=20, Percepção [9]+7=16. ~15h25, oculto na mata ~20min da ravina, coelho selvagem a 18m não o vê. Arco e 20 flechas disponíveis; sem disparar ou obter alimento. 4 rações intactas + 1 quase consumida, XP 0/300, 36 PO 8 PP.
+- Transcrição [SESSION_0002_FULL.md](transcripts/SESSION_0002_FULL.md), mensagens [001]–[046]: Eron disparou arco curto de posição oculta contra coelho a 18m. Ataque com vantagem [2,10] manteve10+7=17, dano [4,3]+5=12, abatendo o animal. Carcaça e flecha alojada ainda não recolhidas. 19 flechas na aljava, XP0/300, 36 PO 8 PP, ~15h25 Dia1.
 - Planejamento secreto em `dm/` (jamais incluir em logs públicos).
