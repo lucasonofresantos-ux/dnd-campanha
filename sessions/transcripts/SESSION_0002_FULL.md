@@ -4824,3 +4824,56 @@ Mara entrega as doze moedas de ouro prometidas.
 - **Condições do Jogador:** 12/12 PV, CA 16, 175/300 XP, 55 PO, 8 PP e 7 PC, 20 flechas, 3 rações. Inspiração Heroica disponível.
 
 **GitHub:** transcrição, inventário, experiência, cronologia, estado e relógios atualizados; commits confirmados.
+
+## [185] JOGADOR
+
+- pode deixar Mara, e obrigado
+Vou atrás das armadilha na mata
+Pode rolar oque precisar 
+
+## [186] MESTRE
+
+Vou seguir as pistas dos laços já desarmados e resolver a investigação com rolagens reais, sem presumir que Eron encontrará o responsável.
+
+### Trilha dos Corços — Dia 5, 13h15
+
+Eron retorna ao local onde encontrou as pegadas pela manhã. A terra úmida ainda conserva parte das marcas.
+
+<card gap={2}>
+  <caption>Sobrevivência — Rastreamento</caption>
+  `1d20+5` → [19] + 5 = **24**
+  <divider/>
+  <caption>Investigação — Análise dos vestígios</caption>
+  `1d20+6` → [10] + 6 = **16**
+  <divider/>
+  <caption>Percepção — Observação do ambiente</caption>
+  `1d20+7` → [12] + 7 = **19**
+  <text color="success">Três sucessos</text>
+</card>
+
+As pegadas apresentam uma particularidade: o calcanhar da bota direita possui uma falha na borda da sola. Seguindo essas marcas pela encosta, Eron chega às proximidades de um pequeno abrigo de lenhadores.
+
+### Abrigo na mata — 13h50
+
+<AsyncImage query="medieval fantasy realistic secluded old timber woodcutter lean to shelter autumn dense forest moss rocks" aspectRatio="16:9"/>
+
+A aproximadamente 25 metros, Eron avista um homem de barba grisalha, vestindo roupas gastas de couro e lã. Carrega um machado na cintura e uma bolsa de ferramentas.
+
+O homem está agachado junto a uma árvore, preparando um novo laço de arame semelhante aos que Eron desarmou.
+
+Ele ainda não demonstrou ter percebido sua presença.
+
+**Eron encontrou um possível responsável pelas armadilhas.** Ainda não conhece seu nome nem sabe se ele trabalha sozinho.
+
+O que você faz?
+
+---
+
+**[LOG DE MEMÓRIA DA CAMPANHA]**
+- **Localização Atual:** Proximidades do abrigo de lenhadores, Dia 5, 13h50.
+- **NPCs Presentes e Relação:** Homem desconhecido, suspeito de instalar laços, a 25 metros.
+- **Linha de Missão Ativa:** Investigação dos laços (5 PO).
+- **Eventos Cruciais Ocorridos:** Rastros seguidos, homem avistado preparando armadilha semelhante às anteriores.
+- **Condições do Jogador:** 12/12 PV, CA 16, 175/300 XP, 55 PO, 8 PP e 7 PC, 20 flechas, 3 rações. Inspiração Heroica disponível.
+
+**GitHub:** transcrição, rolagens executadas em Python, cronologia, estado e relógios atualizados; commits confirmados.
