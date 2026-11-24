@@ -7,7 +7,7 @@ homebrew:
 advancement:
   method: experience_points
   milestones_do_not_grant_levels: true
-  current_total_xp: 250
+  current_total_xp: 275
   next_level_xp: 300
   rule: "Conceder XP por combate e ameaças resolvidas, investigação, exploração e desafios sociais substantivos; usar equivalências 2024, sem duplicação; registrar no XP_LOG.csv."
 character:
@@ -18,7 +18,7 @@ character:
   class_levels:
     Ladino: 1
   character_level: 1
-  xp_total: 250
+  xp_total: 275
   xp_next_level: 300
   hp_current: 12
   hp_max: 12
@@ -180,22 +180,21 @@ character:
 campaign_time:
   calendar_system: "Asterion, dias relativos; nenhuma era/ano formal estabelecido"
   day: 6
-  time_of_day: "aproximadamente 14h35 do Dia 6"
+  time_of_day: "aproximadamente 14h55 do Dia 6"
   season: "final do outono"
-  elapsed_game_time: "Dia6 ~14h10–14h35, investigação minuciosa do vestíbulo."
+  elapsed_game_time: "Dia6 ~14h35–14h55, reparo do mecanismo e abertura interna."
 location:
   continent: Asterion
   polity: "Terras Livres de Avenhar (homebrew), fora de Valdren"
   area: "entroncamento da Estrada do Cascalho, próximo ao Pouso das Três Fontes"
   nearby: "encostas arborizadas da serra cujo monte mais alto é chamado Veyra"
-  exact_position: "Vestíbulo interno do Monte Veyra, diante da segunda porta metálica a ~12m da entrada."
-  travel_status: "Portas fechadas; alavanca parcialmente movimentada, resistência mecânica; aguardando resolução."
+  exact_position: "Vestíbulo interno do Monte Veyra, diante da segunda porta aberta e escadaria descendente."
+  travel_status: "Porta externa fechada; porta metálica interna aberta; escadaria não percorrida."
 scene:
   id: OPENING-001
-  status: "awaiting_athletics_or_alternative_metal_door_day6"
-  pending_check: "Força (Atletismo), 1d20+3, se prosseguir forçando; alternativa de examinar mecanismo."
+  status: "awaiting_player_action_at_staircase_day6"
   current_npcs_present: []
-  immediate_visible_situation: "Dia6 14h35: Eron falou sobre o vestíbulo e iniciou acionamento da alavanca. Movimento inicial de poucos centímetros, rangido metálico e som de engrenagens atrás da porta. Resistência mecânica; oxidação é hipótese plausível reconhecida pela experiência de ferreiro. Porta interna permanece fechada, sem dano confirmado ou passagem. Informado risco de danificar ao forçar. Solicitado teste Força (Atletismo) 1d20+3 (FOR+1, proficiência+2) para prosseguir com força, ou nova ação de exame com ferramentas. Aguardando escolha/dado; nenhum sorteio, nenhum recurso gasto ou XP novo, nenhum avanço temporal significativo. PV12/12 CA16 XP250/300, inspiração disponível; lanterna acesa, disco na bolsa."
+  immediate_visible_situation: "Dia6 ~14h35–14h55: Eron escolheu ferramentas de ferreiro em vez de força bruta e informou 19, interpretado como face natural. Destreza (Ferramentas de Ferreiro) 1d20+7 [19]+7=26, dado informado pelo jogador, sem Python. Removeu oxidação da articulação, limpou eixo e corrigiu desalinhamento de pequena peça sem substituição ou consumo de materiais. Reacionou alavanca com sucesso, duas folhas metálicas se afastaram. Porta externa permanece fechada. Segunda porta aberta revela escadaria descendente ~3m de largura; relevos laterais de anões em forjas, mineração, cultivo e formações militares. Patamar visível à distância com lanterna, área além não vista. Nenhuma luz interna se acendeu. Eron no vestíbulo diante da escada, não desceu. +25 XP por resolução substantiva de obstáculo mecânico distinto do acesso externo, total 275/300. PV12/12 CA16, inspiração disponível, disco na bolsa, lanterna com ~5h15 restantes até ~20h10, 6 óleos reserva, 10 velas. Sem outros gastos, dano ou combate."
   discovered_traps:
     - location: "Trilha dos Corcos, junto ao riacho"
       state: disarmed_safe_wire_left_at_tree
@@ -240,8 +239,8 @@ world:
 transcription:
   character_creation_history: sessions/transcripts/SESSION_0001_FULL.md
   narrative_session: sessions/transcripts/SESSION_0002_FULL.md
-  last_saved_player_turn: "[255] JOGADOR — fala e aciona alavanca."
-  last_saved_dm_turn: "[256] MESTRE — resistência na alavanca, teste pendente."
+  last_saved_player_turn: "[257] JOGADOR — ferramentas de ferreiro, 19 informado."
+  last_saved_dm_turn: "[258] MESTRE — reparo 26, porta aberta, +25 XP."
 notes:
   - "Primeira resposta de cena será salva literalmente e sem revelar preparativos de dm."
   - "Nunca tratar a aprovação da ficha como XP, nem mudar recursos automaticamente."
