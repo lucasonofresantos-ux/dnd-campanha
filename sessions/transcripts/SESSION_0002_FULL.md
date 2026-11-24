@@ -1794,3 +1794,39 @@ A mata ao redor está tranquila por enquanto.
 - **Condições do Jogador:** Ladino 1, **12/12 PV**, **CA 16**, **50/300 XP**, **31 PO e 1 PP**, Inspiração Heroica disponível, **18 flechas utilizáveis**. Aproximadamente **8 kg de carne fresca de corço**, quatro rações intactas, materiais crus de caça, unguento parcialmente usado, **ataduras adicionais esgotadas**, kit de curandeiro com **10 usos** e chave temporária do quarto 3. Sem condições ativas.
 
 **GitHub:** transcrição literal, duas rolagens físicas, inventário, tratamento e estado da campanha atualizados; commits confirmados.
+
+## [079] JOGADOR — 2026-11-23
+
+- vai levar uns dias para pode se mover melhor, eu venho aqui trago comida e cuido da ferida e você não ataca nenhuma cabra e quando se curar vai para o Veyra 
+Faço um carinho nela aproveitando o último resultado de lidar com animais
+
+## [080] MESTRE — 2026-11-23
+
+### Ravina da loba — Dia 2, aproximadamente 10h20
+
+— Vai levar uns dias para poder se mover melhor. Eu venho aqui, trago comida e cuido da ferida. E você não ataca nenhuma cabra. Quando se curar, vai para o Veyra.
+
+A loba permanece deitada enquanto Eron fala. Suas orelhas se movimentam ao som da voz dele, e os olhos acompanham sua mão quando ela se aproxima.
+
+Aproveitando a confiança conquistada durante o tratamento, Eron passa delicadamente a mão pela pelagem espessa do pescoço da loba, evitando a pata ferida. Por um instante, o animal enrijece os ombros. Então permite algumas carícias, sem rosnar ou mostrar os dentes.
+
+Um dos filhotes observa de perto. O outro permanece encostado na mãe.
+
+A loba finalmente afasta um pouco a cabeça e volta a pousá-la sobre as patas. Eron respeita esse limite.
+
+**Ela aceitou o carinho.** O resultado anterior de Lidar com Animais, **19 natural +3 = 22**, continua válido para essa aproximação tranquila, que faz parte do mesmo contato estabelecido durante o curativo. Não é necessária outra rolagem.
+
+Entretanto, a loba não compreende o acordo que Eron propôs. Pode reconhecer sua voz, seu cheiro e suas ações, mas não entende a obrigação de evitar cabras nem a ordem de partir para o Monte Veyra. A fome, os filhotes e a recuperação da pata continuarão influenciando seu comportamento.
+
+Uma brisa fria atravessa a ravina. A mãe fecha parcialmente os olhos, repousando ao lado dos pequenos.
+
+**Eron ainda está junto à toca. O que faz agora?**
+
+**[LOG DE MEMÓRIA DA CAMPANHA]**
+- **Localização Atual:** Entrada da toca da loba, na ravina, aproximadamente às **10h20 do Dia 2**.
+- **NPCs Presentes e Relação:** Loba cinzenta ferida e dois filhotes. A mãe tolerou breves carícias no pescoço, mas continua selvagem, vigilante e protetora.
+- **Linha de Missão Ativa:** Acompanhar a recuperação da loba, tentar evitar novos ataques ao rebanho de Mara e investigar os laços. Recompensa de **12 PO pendente**.
+- **Eventos Cruciais Ocorridos:** Eron prometeu voltar com comida e cuidados e pediu à loba que não atacasse cabras e fosse ao Monte Veyra depois de se curar. Ela aceitou um breve carinho, aproveitando o teste anterior de **Lidar com Animais [19]+3=22**. **Nenhum acordo compreendido pelo animal, nova rolagem ou avanço de dias.**
+- **Condições do Jogador:** Ladino 1, **12/12 PV**, **CA 16**, **50/300 XP**, **31 PO e 1 PP**, Inspiração Heroica disponível e **18 flechas utilizáveis**. Aproximadamente **8 kg de carne fresca de corço**, quatro rações intactas, materiais crus da caça, unguento parcialmente usado, ataduras avulsas esgotadas, kit de curandeiro **10/10 usos** e chave temporária do quarto 3. Sem condições ativas.
+
+**GitHub:** transcrição literal, cronologia e estado da campanha atualizados; commits confirmados.
