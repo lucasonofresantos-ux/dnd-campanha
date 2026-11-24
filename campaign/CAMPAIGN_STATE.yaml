@@ -38,7 +38,7 @@ character:
   inventory_reference: character/ERON_RIVER_LEVEL_01.md
   carrying_all_owned_equipment: true
   carrying_weight_lb_recorded: 103.88
-  carrying_weight_note: "Peso 103,88 lb da abertura era referência, com pequenas mudanças posteriores não pesadas. Dia2 adicionou aproximadamente 15 kg de carne, pele crua, miúdos, galhadas, tendões e dois ossos de corço, além de kit e curativos; peso combinado estimado ainda abaixo da capacidade de 180 lb; valor exato não aferido."
+  carrying_weight_note: "Peso de abertura 103,88 lb, com mudanças posteriores sem pesagem: coleta de corço +~15kg (incluindo carne); Dia2 ~09h40 entregou ~2kg de carne à loba e consumiu restante da ração parcial. Peso exato ainda não aferido; permanece abaixo da capacidade 180lb."
   carrying_capacity_lb: 180
   known_personal_item: "Marca da Bigorna Velada, pequeno disco familiar e bolsa de couro; uso desconhecido para Eron."
   untrained_owned_tool: "Ferramentas de Funileiro (propriedade, sem proficiência)"
@@ -69,8 +69,8 @@ character:
   rations:
     starting_full_days: 5
     intact_full_days: 4
-    partly_used_days: 1
-    food_offered: "primeiro pedaço à loba; segundo dividido entre Eron e loba; almoço sem fogo dividido; às ~15h terceiro pedaço adicional dado à loba durante exame visual. Todos retirados da mesma porção diária aberta, agora quase consumida; quatro porções diárias permanecem intactas, quantidade restante não medida."
+    partly_used_days: 0
+    food_offered: "Dia1 porção aberta dividida com a loba durante o dia e quase esgotada; Dia2 ~09h40 Eron consumiu o restante da porção aberta, permanecem quatro porções diárias intactas. Dia2 ~09h40 entregou à loba e filhotes ~2kg de carne fresca de corço, não de ração."
   salvaged_materials:
     rabbit_raw_hide: "1 pele de coelho crua parcialmente danificada, apta apenas a trabalhos limitados após conservação; valor indeterminado"
     rabbit_ears: 2
@@ -79,7 +79,7 @@ character:
   harvested_roe_deer:
     day: 2
     source: "Corço adulto macho abatido perto da Trilha dos Corços"
-    fresh_meat_kg_approx: 10
+    fresh_meat_kg_approx: 8
     raw_hide: "1 pele crua com pequeno furo da flecha; conservacao pendente"
     short_antler_stems: 2
     sinew_bundles: 1
@@ -95,9 +95,9 @@ character:
 campaign_time:
   calendar_system: "Asterion, dias relativos; nenhuma era/ano formal estabelecido"
   day: 2
-  time_of_day: "aproximadamente 09h40 da manhã do Dia 2"
+  time_of_day: "aproximadamente 09h55 da manhã do Dia 2"
   season: "final do outono"
-  elapsed_game_time: "~08h55–09h05 aproximação e desarme silencioso do laço; ~09h05–09h40 caminhada carregando materiais de corço até a toca da loba"
+  elapsed_game_time: "Dia 2 ~09h40 Eron ofereceu aproximadamente 2kg carne do corço para loba e dois filhotes, comeu resto da porção de ração aberta Dia1, esperou ~15min alimentarem-se, ~09h55"
 location:
   continent: Asterion
   polity: "Terras Livres de Avenhar (homebrew), fora de Valdren"
@@ -107,9 +107,9 @@ location:
   travel_status: "Eron desarmou o segundo laço junto ao riacho, deixou arame inerte ao lado da árvore e retomou trilha conhecida carregando caça; chegou à entrada da toca sem alimentar nem tratar a loba ainda"
 scene:
   id: OPENING-001
-  status: "awaiting_player_action_at_wolf_den_day_2_after_trap_disarmed"
+  status: "awaiting_player_animal_handling_roll_to_reexamine_wolf_forepaw"
   current_npcs_present: []
-  immediate_visible_situation: "Dia2 ~08h55 Eron decidiu desarmar laço e seguir até loba; solicitou Percepção, Furtividade e teste necessário. Rolagens reais script dice_roller.py secrets.randbelow: Percepção 1d20+7 → [2]+7=9 (não viu outras pessoas, sem garantia de ausência), Furtividade 1d20+9 → [13]+9=22 (aproximação discreta); Destreza (Prestidigitação) + Ferramentas de Ladrão com vantagem por ambas proficiências pertinentes 2d20kh1+7 → [4,14], manteve 14+7=21, desarme seguro. Eron travou gatilho com ferramenta e soltou tensão da haste flexível, removeu arame do mecanismo; segundo laço da Trilha dos Corços está INATIVO, arame deixado fora da trilha junto à árvore (não coletado). Não identificou autor. Concedidos +25 XP por neutralizar perigo concreto distinto do tratamento da loba, total50/300. Sem ferimentos, materiais médicos gastos ou flechas. Em seguida percorreu ~35min até toca em ravina carregando ~10kg carne fresca e partes aproveitadas do corço (carga dentro do limite). Chegou ~09h40, loba deitada na entrada com filhotes; ao notar Eron levantou cabeça e se pôs em pé com dificuldade, farejando carne, sem rosnado ou ataque, ainda protegendo filhotes. Faixa improvisada na pata está suja de terra e ela evita apoiar a pata completamente; evolução clínica além disso não examinada. Eron NÃO ALIMENTOU nem tratou ainda a loba, nenhum teste novo de Lidar com Animais, kit10 usos unguento/ataduras intactos. 12/12PV, 31PO1PP, Inspiração Heroica, 18 flechas, XP50/300. Recompensa Mara12PO ainda pendente."
+  immediate_visible_situation: "Eron falou à loba: 'primeiro vai comer depois vai deixar eu dar um olhada nessa pata', ofereceu cerca de 2kg da carne fresca de corço numa pedra perto da entrada da toca. Loba aproximou-se cautelosamente, comeu e repartiu carne com os dois filhotes, mantendo a atitude vigilante/protetora; filhotes beliscavam os últimos pedaços e não houve ataque. Eron comeu o que restava da única ração diária já quase consumida desde Dia1, encerrando esta porção; ficam 4 rações intactas e nenhuma parcial. Carne de corço em inventário reduzida de ~10kg a ~8kg, demais partes do corço inalteradas. Por volta de 09h55 loba deitou à entrada com a pata dianteira machucada estendida, bandagem ainda suja e pele inchada visível, sem exame aprofundado; ao perceber Eron olhar, ergueu cabeça e observa movimentos sem rosnar. A alimentação foi aceita, mas o exame ainda NÃO foi feito nem a aproximação validada. Mestre pediu teste Sabedoria (Lidar com Animais) +3, AGUARDANDO d20 físico do jogador OU autorização de rolagem; NENHUM teste novo rolado ainda. Kit de curandeiro10 usos, unguento e ataduras ainda intactos. 12/12PV, 50/300XP, 31PO1PP, Inspiração Heroica disponível, 18flechas, chave de quarto3 com Eron; recompensa Mara12PO pendente."
   discovered_traps:
     - location: "Trilha dos Corcos, junto ao riacho"
       state: disarmed_safe_wire_left_at_tree
@@ -133,8 +133,8 @@ world:
 transcription:
   character_creation_history: sessions/transcripts/SESSION_0001_FULL.md
   narrative_session: sessions/transcripts/SESSION_0002_FULL.md
-  last_saved_player_turn: "Vou desarmar a armadilha e depois vou para a loba, pode rolar percepção, furtividade e oque precisar para desarmar a armadilha"
-  last_saved_dm_turn: "[074] MESTRE — 2026-11-23; Percepção9, Furtividade22, desarme com Ferramentas de Ladrão/Prestidigitação em vantagem21; armadilha neutralizada, +25XP (50/300), Eron reencontra loba e crias ~09h40; transcrição salva."
+  last_saved_player_turn: "- primeiro vai comer depois vai deixar eu dar um olhada nessa pata\nDou para ela um bom pedaço da carne de corço e como um pouco da ração e deixo ela e os filhotes comerem"
+  last_saved_dm_turn: "[076] MESTRE — 2026-11-23; Eron alimentou loba e filhotes com ~2kg de carne de corço e terminou a ração parcial; espera Lidar com Animais +3 para examinar pata; transcrição salva"
 notes:
   - "Primeira resposta de cena será salva literalmente e sem revelar preparativos de dm."
   - "Nunca tratar a aprovação da ficha como XP, nem mudar recursos automaticamente."
