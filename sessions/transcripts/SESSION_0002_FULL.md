@@ -2513,3 +2513,90 @@ Durnak observa Eron por um instante.
 - **Condições do Jogador:** 12/12 PV, CA 16, 50/300 XP, 33 PO, 3 PP e 3 PC. Inspiração Heroica disponível.
 
 **GitHub:** transcrição, rolagem, inventário, cronologia e estado atualizados; commits confirmados.
+
+## [105] JOGADOR
+
+- não, não está, aprendi com um dos meus pais, me ensinou o ofício. Amanhã se tudo der certo eu volto
+Role percepção furtividade e sobrevivência para uma caça agora a noite se achar algo pode disparar rolar o dano e saquear
+
+## [106] MESTRE
+
+Vou usar o rolador Python da campanha para os testes de caça e, caso encontre uma presa, resolver o disparo e o aproveitamento dos materiais.
+
+### Ferraria de Durnak — Dia 2, 16h10
+
+— Então teve um bom mestre. Apareça amanhã, Eron. Sempre há ferro esperando pelo martelo.
+
+Durnak despede-se com um aceno de cabeça e retorna à forja.
+
+### Mata próxima ao Pouso — Caçada ao entardecer
+
+Eron deixa a aldeia e segue em direção às áreas arborizadas. O ar começa a esfriar, e as sombras das árvores se alongam sobre o terreno.
+
+<grid columns={3} gap={2}>
+  <grid-item>
+    <box border radius="lg" padding={2} gap={1}>
+      <caption>Percepção</caption>
+      <title size="2xl" color="success">25</title>
+      <caption>1d20+7</caption>
+      **18 + 7**
+    </box>
+  </grid-item>
+  <grid-item>
+    <box border radius="lg" padding={2} gap={1}>
+      <caption>Furtividade</caption>
+      <title size="2xl" color="success">26</title>
+      <caption>1d20+9</caption>
+      **17 + 9**
+    </box>
+  </grid-item>
+  <grid-item>
+    <box border radius="lg" padding={2} gap={1}>
+      <caption>Sobrevivência</caption>
+      <title size="2xl" color="success">18</title>
+      <caption>1d20+5</caption>
+      **13 + 5**
+    </box>
+  </grid-item>
+</grid>
+
+Seguindo pegadas recentes e pequenos sinais na vegetação, Eron encontra uma fêmea de corço alimentando-se na borda de uma clareira, a aproximadamente 20 metros. O animal não percebe sua presença.
+
+### Disparo de arco curto
+
+<card gap={2}>
+  <caption>Ataque com vantagem — Eron está oculto</caption>
+  <row align="center" gap={3}>
+    <box border radius="lg" padding={3} align="center" flex={1}>
+      <title size="2xl">4</title>
+      <caption>Mantido</caption>
+    </box>
+    <box border radius="lg" padding={3} align="center" flex={1}>
+      <title size="2xl" color="secondary">~~3~~</title>
+      <caption>Descartado</caption>
+    </box>
+  </row>
+  <divider/>
+  <caption>2d20kh1+7</caption>
+  <title size="2xl" color="danger">4 + 7 = 11</title>
+  <text color="danger" weight="medium">Ataque errou — CA 13</text>
+</card>
+
+A flecha passa ao lado do animal e desaparece entre a vegetação. Assustada pelo ruído, a fêmea dispara para dentro da mata e desaparece entre as árvores.
+
+Nenhum dano foi causado e não há animal para saquear. A flecha disparada não foi recuperada.
+
+Já são aproximadamente **18h10**. A última claridade desaparece, e a escuridão começa a comprometer a visão humana de Eron.
+
+**Você permanece na mata. O que faz agora?**
+
+---
+
+**[LOG DE MEMÓRIA DA CAMPANHA]**
+- **Localização Atual:** Clareira na mata próxima ao Pouso das Três Fontes, Dia 2, 18h10.
+- **NPCs Presentes e Relação:** Nenhum presente. Durnak ofereceu possibilidade de trabalho amanhã.
+- **Linha de Missão Ativa:** Caçada, recuperação da loba e investigação dos laços.
+- **Eventos Cruciais Ocorridos:** Corço localizado, disparo errado, animal fugiu.
+- **Condições do Jogador:** 12/12 PV, CA 16, 50/300 XP, 33 PO, 3 PP e 3 PC, **17 flechas**, quatro rações e Inspiração Heroica disponível.
+
+**GitHub:** transcrição, rolagens, inventário, cronologia e estado atualizados; commits confirmados.
