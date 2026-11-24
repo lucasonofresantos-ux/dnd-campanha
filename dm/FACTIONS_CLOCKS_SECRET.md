@@ -224,3 +224,6 @@
 
 ## Dia 5 ~13h50 — rastreamento até abrigo de lenhadores
 - Odran Peça, buscando manter sua renda, prepara outro laço nas proximidades do abrigo de lenhadores. Pegadas da bota direita com desgaste característico ligam a trilha ao local; Eron vê Odran preparando um laço, mas não sabe seu nome, nem tem prova direta de todos os laços anteriores. Rastreamento Sobrevivência 24, Investigação 16 e Percepção 19, dados realmente executados em Python com hash do script verificado. Odran ainda não demonstrou perceber Eron, distância ~25m; não assumir sucesso de Furtividade nem ação de confronto. Possível falar, observar, buscar provas ou retornar à guarda conforme ação do jogador; não forçar desfecho. Sem XP ou pagamento até resolução substantiva.
+
+## Dia 5 ~14h25 — suspeito seguido
+- Odran concluiu novo laço, verificou dois outros laços e recolheu lebre; retornou a cabana, onde um lenhador conhecido o chamou pelo primeiro nome. Eron testemunhou atos sem ser percebido, identificou desgaste da sola e similaridade do arame. Odran entrou, outro lenhador empilha lenha; nenhuma prova de participação deste último. Eron a ~15m oculto, identidade parcial e evidências suficientes para apresentar relato à guarda; resolução ainda aberta. Sem XP ou alteração de recursos. Auditoria de [186]: dados automáticos não comprovados, continuidade preservada.
