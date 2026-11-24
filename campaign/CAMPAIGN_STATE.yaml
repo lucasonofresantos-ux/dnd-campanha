@@ -1,6 +1,6 @@
 campaign_id: ERON-RIVER-ASTERION-001
 campaign_title: "Eron River — Estradas de Cinza e Pedra"
-status: "awaiting_player_after_successful_wolf_paw_first_aid"
+status: active_session_1_opening
 system: "D&D 5E — 2024, SRD 5.2.1"
 homebrew:
   - "Dois antecedentes mecânicos completos: Artesão e Guarda, exclusiva de Eron (rules/HOUSE_RULES.md)"
@@ -83,7 +83,7 @@ scene:
   initiative: []
   rounds: 0
   dice_rolled: true
-  xp_awarded: false
+  xp_awarded: true
   reward_offered_but_not_accepted: "12 PO por cessar as perdas do rebanho, seja por solução verificável não violenta, captura ou eliminação da ameaça"
 world:
   main_plotlines_independent:
