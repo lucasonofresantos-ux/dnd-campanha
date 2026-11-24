@@ -180,21 +180,21 @@ character:
 campaign_time:
   calendar_system: "Asterion, dias relativos; nenhuma era/ano formal estabelecido"
   day: 6
-  time_of_day: "aproximadamente 14h55 do Dia 6"
+  time_of_day: "aproximadamente 15h05 do Dia 6"
   season: "final do outono"
-  elapsed_game_time: "Dia6 ~14h35–14h55, reparo do mecanismo e abertura interna."
+  elapsed_game_time: "Dia6 ~14h55–15h05, descida da escadaria."
 location:
   continent: Asterion
   polity: "Terras Livres de Avenhar (homebrew), fora de Valdren"
   area: "entroncamento da Estrada do Cascalho, próximo ao Pouso das Três Fontes"
   nearby: "encostas arborizadas da serra cujo monte mais alto é chamado Veyra"
-  exact_position: "Vestíbulo interno do Monte Veyra, diante da segunda porta aberta e escadaria descendente."
-  travel_status: "Porta externa fechada; porta metálica interna aberta; escadaria não percorrida."
+  exact_position: "Patamar inferior da escadaria do Monte Veyra, após 24 degraus."
+  travel_status: "Patamar inferior alcançado; corredor à frente e porta lateral direita ainda não explorados."
 scene:
   id: OPENING-001
-  status: "awaiting_player_action_at_staircase_day6"
+  status: "awaiting_player_action_at_lower_landing_day6"
   current_npcs_present: []
-  immediate_visible_situation: "Dia6 ~14h35–14h55: Eron escolheu ferramentas de ferreiro em vez de força bruta e informou 19, interpretado como face natural. Destreza (Ferramentas de Ferreiro) 1d20+7 [19]+7=26, dado informado pelo jogador, sem Python. Removeu oxidação da articulação, limpou eixo e corrigiu desalinhamento de pequena peça sem substituição ou consumo de materiais. Reacionou alavanca com sucesso, duas folhas metálicas se afastaram. Porta externa permanece fechada. Segunda porta aberta revela escadaria descendente ~3m de largura; relevos laterais de anões em forjas, mineração, cultivo e formações militares. Patamar visível à distância com lanterna, área além não vista. Nenhuma luz interna se acendeu. Eron no vestíbulo diante da escada, não desceu. +25 XP por resolução substantiva de obstáculo mecânico distinto do acesso externo, total 275/300. PV12/12 CA16, inspiração disponível, disco na bolsa, lanterna com ~5h15 restantes até ~20h10, 6 óleos reserva, 10 velas. Sem outros gastos, dano ou combate."
+  immediate_visible_situation: "Dia6 ~14h55–15h05: Eron autorizou Furtividade, Percepção e Investigação e desceu a escadaria. Execução efetiva via container.exec do script Python /tmp/eron_dice_roller.py reconstruído do GitHub; git hash-object d35af70119bf684ea055619bb10678a1c4b03bbb conferido com test antes da execução, SHA também confirmado na consulta GitHub do turno. JSON Furtividade 1d20+9 rolls [8], kept_indices [0], modifier 9, total 17; Percepção 1d20+7 rolls [3], kept_indices [0], modifier 7, total 10; Investigação 1d20+6 rolls [1], kept_indices [0], modifier 6, total 7. Passos discretos sem garantir ocultação devido à lanterna; exame de relevos e inscrições desgastadas não produz informação adicional. Desceu 24 degraus e chegou a patamar retangular ~6x4m com fragmentos de pedra no piso e dois suportes metálicos vazios nas paredes. Corredor largo horizontal à frente, porta metálica menor fechada à direita com inscrição parcialmente coberta por poeira; ar mais frio; nenhum ser avistado, sem certeza de ausência. Não examinou porta lateral nem entrou no corredor. Porta interna acima permanece aberta, externa fechada. Sem XP novo, dano, combate ou gasto além da queima de óleo. PV12/12 CA16 XP275/300, inspiração disponível; disco na bolsa, lanterna ~5h05 restantes até ~20h10, 6 óleos reserva, 10 velas. Demais recursos intactos."
   discovered_traps:
     - location: "Trilha dos Corcos, junto ao riacho"
       state: disarmed_safe_wire_left_at_tree
@@ -239,8 +239,8 @@ world:
 transcription:
   character_creation_history: sessions/transcripts/SESSION_0001_FULL.md
   narrative_session: sessions/transcripts/SESSION_0002_FULL.md
-  last_saved_player_turn: "[257] JOGADOR — ferramentas de ferreiro, 19 informado."
-  last_saved_dm_turn: "[258] MESTRE — reparo 26, porta aberta, +25 XP."
+  last_saved_player_turn: "[259] JOGADOR — autoriza três testes e desce a escadaria."
+  last_saved_dm_turn: "[260] MESTRE — Furtividade 17, Percepção 10, Investigação 7; patamar alcançado."
 notes:
   - "Primeira resposta de cena será salva literalmente e sem revelar preparativos de dm."
   - "Nunca tratar a aprovação da ficha como XP, nem mudar recursos automaticamente."
