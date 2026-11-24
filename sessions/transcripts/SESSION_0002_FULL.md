@@ -1728,3 +1728,69 @@ Você pode informar o resultado do seu d20 ou me autorizar a rolar.
 - **Condições do Jogador:** Ladino 1, **12/12 PV**, **CA 16**, **50/300 XP**, **31 PO e 1 PP**, Inspiração Heroica disponível, **18 flechas**. Carrega **~8 kg de carne fresca de corço**, demais materiais da caça e do coelho, **4 rações completas**, kit de curandeiro com **10 usos**, unguento e ataduras intactos, além da chave temporária do quarto 3. Sem condições ativas.
 
 **GitHub:** transcrição literal, estado, inventário e cronologia salvos em commits confirmados.
+
+## [077] JOGADOR — 2026-11-23
+
+Lidar com animais 19
+Medicina 20 
+Naturais
+Para tratar a ferida passar a pomada e oque for necessário
+
+## [078] MESTRE — 2026-11-23
+
+### Ravina da loba — Dia 2, aproximadamente 9h55
+
+<box border radius="lg" padding={3} gap={2}>
+  <title size="md">Resultados dos testes</title>
+  <grid columns={2} gap={3}>
+    <grid-item>
+      <text color="secondary" size="xs">Lidar com Animais +3</text>
+      <title size="2xl" color="success" tabularNums>22</title>
+      <caption>Natural 19 + 3</caption>
+    </grid-item>
+    <grid-item>
+      <text color="secondary" size="xs">Medicina +3</text>
+      <title size="2xl" color="success" tabularNums>23</title>
+      <caption>Natural 20 + 3</caption>
+    </grid-item>
+  </grid>
+  <text color="success" weight="medium" size="sm"><icon name="check-circle" inline/> Aproximação e tratamento bem-sucedidos</text>
+</box>
+
+Eron se aproxima lentamente da loba, mantendo os movimentos tranquilos. Ela acompanha sua mão quando ele se agacha ao lado da pata machucada. Por um instante, seus músculos ficam tensos. Então, após farejar os dedos de Eron, permite que ele sustente delicadamente o membro ferido.
+
+Com cuidado, Eron retira a faixa improvisada do dia anterior. Por baixo, encontra a ferida deixada pelo arame: **a região continua inchada e quente, mas não apresenta pus nem mau cheiro**. A borda já começou a fechar em alguns pontos. Não há fragmentos metálicos visíveis. O exame não permite garantir que esteja livre de infecção, mas não revela sinais evidentes de uma infecção avançada.
+
+Ele limpa a região com água do cantil, retirando a sujeira acumulada. Aplica uma camada fina do unguento de Olma e envolve a pata com as ataduras limpas, deixando espaço suficiente para não prejudicar a circulação. A loba contrai a pata uma vez quando a ferida é tocada, mas não tenta mordê-lo.
+
+Quando Eron termina, ela recolhe o membro lentamente, experimenta apoiá-lo por um instante e volta a descansar. Um dos filhotes aproxima o focinho da nova faixa; a mãe o afasta com uma leve movimentação da cabeça.
+
+**O curativo está bem aplicado.** A ferida continua exigindo repouso e acompanhamento, mas Eron conseguiu limpá-la e protegê-la sem causar novos danos.
+
+<box border radius="lg" padding={3} gap={2}>
+  **Materiais após o tratamento**
+
+  | Material | Situação |
+  |---|---|
+  | Unguento suave | 1 aplicação usada; pote parcialmente cheio |
+  | Ataduras limpas | 1 conjunto utilizado na pata |
+  | Kit de curandeiro | 10/10 usos restantes |
+  | Carne de corço | Aproximadamente 8 kg restantes |
+</box>
+
+O kit de curandeiro não perdeu uma utilização: Eron realizou cuidados comuns de Medicina, não a estabilização de uma criatura com 0 PV. Também não houve cura mágica ou recuperação imediata da pata.
+
+Por volta das **10h15**, a loba repousa na entrada da toca, os dois filhotes próximos dela. Permitiu que Eron a tratasse novamente, demonstrando maior tolerância à sua presença, mas continua sendo um animal selvagem.
+
+A mata ao redor está tranquila por enquanto.
+
+**O que Eron faz agora?**
+
+**[LOG DE MEMÓRIA DA CAMPANHA]**
+- **Localização Atual:** Entrada da toca da loba, ravina, aproximadamente às **10h15 do Dia 2**.
+- **NPCs Presentes e Relação:** Loba cinzenta ferida e dois filhotes. A mãe tolerou novamente o contato e o curativo, mas permanece selvagem e protetora.
+- **Linha de Missão Ativa:** Acompanhar a recuperação da loba, buscar solução duradoura para os ataques às cabras de Mara e investigar os laços. Recompensa de **12 PO pendente**.
+- **Eventos Cruciais Ocorridos:** Testes físicos **Lidar com Animais [19]+3=22** e **Medicina [20]+3=23**. Eron examinou, limpou e tratou a pata, sem sinais evidentes de infecção avançada. Aplicou uma porção do unguento e utilizou o conjunto de ataduras. **Nenhum XP adicional** por repetir cuidados já premiados.
+- **Condições do Jogador:** Ladino 1, **12/12 PV**, **CA 16**, **50/300 XP**, **31 PO e 1 PP**, Inspiração Heroica disponível, **18 flechas utilizáveis**. Aproximadamente **8 kg de carne fresca de corço**, quatro rações intactas, materiais crus de caça, unguento parcialmente usado, **ataduras adicionais esgotadas**, kit de curandeiro com **10 usos** e chave temporária do quarto 3. Sem condições ativas.
+
+**GitHub:** transcrição literal, duas rolagens físicas, inventário, tratamento e estado da campanha atualizados; commits confirmados.
