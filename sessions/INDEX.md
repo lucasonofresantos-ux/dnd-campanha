@@ -76,3 +76,5 @@
 - Atualização: sessão 0002 até [256], Dia6 14h35; alavanca com resistência, Atletismo +3 ou outra abordagem pendente.
 
 - Atualização: sessão 0002 até [258], Dia6 14h55; reparo da porta interna (26, jogador), +25 XP (275/300), escadaria avistada.
+
+- Atualização: sessão 0002 até [260], Dia6 15h05; patamar inferior alcançado, três rolagens Python efetivamente executadas (17,10,7), porta lateral e corredor à frente.
