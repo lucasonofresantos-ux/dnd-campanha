@@ -3713,3 +3713,76 @@ Ela para diante dele e fareja a bolsa que contém a carne da lebre.
 - **Condições do Jogador:** 12/12 PV, CA 16, 100/300 XP, 41 PO, 2 PP e 3 PC, 14 flechas, 1,2 kg de carne de lebre, demais materiais da caça. Inspiração Heroica disponível.
 
 **GitHub:** transcrição, cronologia, estado, relógios e ressalvas de auditoria atualizados; commits confirmados.
+
+## [149] JOGADOR
+
+- sim trouxe a janta
+Preparo a lebre e divido com ela faço um carinho e durmo ali
+
+## [150] MESTRE
+
+### Toca da loba — Dia 3, 21h20
+
+Eron acende uma pequena fogueira, afastada da entrada da toca. Separa uma porção da lebre para assar e oferece o restante da carne crua à loba e aos filhotes.
+
+Depois de comer, a loba aproxima-se novamente e permite que Eron acaricie seu pescoço. Ela fecha os olhos por alguns instantes, antes de retornar para junto das crias.
+
+Com a fogueira reduzida a brasas, Eron acomoda-se sob a saliência rochosa onde dormiu na noite anterior.
+
+---
+
+### Dia 4 — 06h00
+
+O canto dos pássaros anuncia o amanhecer. A noite transcorreu sem incidentes.
+
+A loba está do lado de fora da toca. Caminha entre as árvores próximas, farejando o chão e apoiando as quatro patas. Ainda apresenta uma leve dificuldade ao caminhar, mas sua recuperação é evidente.
+
+Um dos filhotes aproxima-se de Eron e puxa brincando a extremidade de seu manto.
+
+<card gap={2}>
+  <row>
+    <icon name="moon" size="xl"/>
+    **Descanso Longo concluído**
+  </row>
+  <divider/>
+  <row>
+    Pontos de Vida
+    <spacer/>
+    <text color="success" weight="medium">12/12</text>
+  </row>
+  <row>
+    Dados de Vida
+    <spacer/>
+    1d8
+  </row>
+  <row>
+    Inspiração Heroica
+    <spacer/>
+    <icon name="sparkles" color="success"/> Disponível
+  </row>
+  <row>
+    Exaustão
+    <spacer/>
+    Nenhuma
+  </row>
+  <row>
+    Rações restantes
+    <spacer/>
+    3
+  </row>
+</card>
+
+A carne da lebre foi consumida. A pele, as orelhas, os ossos e os miúdos permanecem no inventário, ainda sem conservação pelo sal.
+
+**O que Eron pretende fazer nesta manhã?**
+
+---
+
+**[LOG DE MEMÓRIA DA CAMPANHA]**
+- **Localização Atual:** Toca da loba, Dia 4, 06h00.
+- **NPCs Presentes e Relação:** Loba e dois filhotes; familiaridade e confiança crescentes, ainda selvagens.
+- **Linha de Missão Ativa:** Recuperação da loba, proteção dos rebanhos e investigação dos laços.
+- **Eventos Cruciais Ocorridos:** Jantar compartilhado, descanso longo concluído e melhora da mobilidade da loba.
+- **Condições do Jogador:** 12/12 PV, CA 16, 100/300 XP, 41 PO, 2 PP e 3 PC, 14 flechas, 3 rações, 200 g de sal, kit de curandeiro 9/10. Inspiração Heroica disponível.
+
+**GitHub:** transcrição, inventário, cronologia, estado e relógios atualizados; commits confirmados.
