@@ -735,3 +735,48 @@ Na situação atual, existe um possível fragmento metálico junto à ferida. Er
 - Condições do Jogador: Ladino 1, **12/12 PV**, **CA 16**, **0/300 XP**, **36 PO e 8 PP**. Quatro rações intactas e uma quase consumida; nenhuma despesa ou condição nova.
 
 **GitHub:** explicação, transcrição literal e estado registrados com commits confirmados.
+
+## [041] JOGADOR — 2026-11-23
+
+Role lidar com animais novamente e se for o bastante eu mexo na pata para examinar melhor se não for eu volto para onde estava, não quero matar uma loba com filhotes 
+
+## [042] MESTRE — 2026-11-23
+
+<row align="center" gap={3}>
+  <box background="surface-secondary" radius="lg" padding={3} align="center" gap={1}>
+    <icon name="paw-print" size="lg"/>
+    <title size="2xl" tabularNums>7</title>
+  </box>
+  <box flex="1" gap={1}>
+    **Sabedoria (Lidar com Animais) +3**
+
+    `1d20+3` → **[4] + 3 = 7**
+
+    <text color="danger" weight="medium"><icon name="x-circle" inline/> Falha</text>
+  </box>
+</row>
+
+Eron mantém a voz baixa e tenta se aproximar da pata ferida. A loba acompanha sua mão, mas, quando ela chega perto do membro machucado, o animal enrijece repentinamente.
+
+Um rosnado grave rompe o silêncio da ravina. A loba recolhe a pata, mostra os dentes e recua meio passo, colocando o corpo de lado entre Eron e os filhotes.
+
+É um aviso claro.
+
+**Como havia decidido, Eron interrompe a tentativa e recua lentamente até o lugar onde estava sentado.**
+
+A loba não o persegue. Permanece alerta por alguns instantes, depois volta a se deitar, ainda observando-o.
+
+O contato anterior não foi perdido por completo: ela continua tolerando sua presença. Entretanto, **não permitiu que ele manipulasse a pata nesta tentativa**.
+
+Nenhum ataque ocorreu, Eron não sofreu dano e o ferimento permanece sem tratamento.
+
+**O que Eron faz agora?**
+
+**[LOG DE MEMÓRIA DA CAMPANHA]**
+- Localização Atual: Entrada da toca na ravina, cerca das 15h; Eron recuou até seu lugar anterior, a aproximadamente 2 metros da abertura.
+- NPCs Presentes e Relação: Uma loba ferida e dois filhotes. A loba tolera a presença de Eron, mas reagiu defensivamente à tentativa de tocar a pata.
+- Linha de Missão Ativa: Investigar e resolver os ataques ao rebanho de Mara; recompensa proposta de 12 PO ainda não recebida.
+- Eventos Cruciais Ocorridos: **Lidar com Animais 1d20+3 → [4] +3 = 7 (falha)**. A loba rosnou, mostrou os dentes e recuou; Eron interrompeu a tentativa conforme havia decidido. Nenhum exame por contato ou tratamento.
+- Condições do Jogador: Ladino 1, **12/12 PV**, **CA 16**, **0/300 XP**, **36 PO e 8 PP**. Quatro porções de ração intactas e uma aberta, quase consumida. Nenhum dano, condição ou combate.
+
+**GitHub:** rolagem, transcrição literal, cronologia e estado da campanha registrados; commits confirmados.
