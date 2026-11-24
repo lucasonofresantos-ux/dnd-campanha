@@ -3353,3 +3353,34 @@ Ainda resta pouco mais de uma hora de claridade. Durnak começa a organizar suas
 - **Condições do Jogador:** 12/12 PV, CA 16, 50/300 XP, 36 PO, 2 PP e 3 PC, 15 flechas, três rações intactas. Inspiração Heroica disponível.
 
 **GitHub:** transcrição, rolagem, inventário, cronologia e estado atualizados; commits confirmados.
+
+## [135] JOGADOR
+
+- acho que terminei, vou lá ver este outro serviço
+
+## [136] MESTRE
+
+### Ponte do Córrego Curvo — Dia 3, 17h10
+
+Durnak indica o caminho pela Estrada do Cascalho. Após cerca de trinta minutos de caminhada, Eron chega a uma ponte de madeira sustentada por pilares de pedra. A correnteza passa ruidosamente sob a estrutura.
+
+Na margem, um homem de cabelos grisalhos trabalha junto a um mecanismo de roldanas utilizado para erguer uma barreira de madeira que retém os troncos carregados pela correnteza. Há ferramentas espalhadas pelo chão e uma corrente parcialmente desmontada.
+
+Ao perceber a aproximação de Eron, o homem interrompe o trabalho.
+
+— Boa tarde, viajante. Se pretende atravessar com uma carroça, terá de esperar. Uma das roldanas travou e preciso retirar a madeira acumulada antes que danifique os pilares.
+
+Ele enxuga as mãos num pedaço de pano.
+
+— Sou Avel Duro, responsável pela manutenção desta ponte. O que deseja?
+
+---
+
+**[LOG DE MEMÓRIA DA CAMPANHA]**
+- **Localização Atual:** Ponte do Córrego Curvo, Dia 3, 17h10.
+- **NPCs Presentes e Relação:** Avel Duro, recém-conhecido.
+- **Linha de Missão Ativa:** Recuperação da loba e proteção dos rebanhos; oportunidade de trabalho na ponte.
+- **Eventos Cruciais Ocorridos:** Chegada à ponte e identificação de um problema no mecanismo de roldanas.
+- **Condições do Jogador:** 12/12 PV, CA 16, 50/300 XP, 36 PO, 2 PP e 3 PC, 15 flechas, três rações intactas. Inspiração Heroica disponível.
+
+**GitHub:** transcrição, cronologia, estado e relógios atualizados; commits confirmados.
