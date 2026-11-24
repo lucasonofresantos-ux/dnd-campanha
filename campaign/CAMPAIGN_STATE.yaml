@@ -144,9 +144,9 @@ character:
 campaign_time:
   calendar_system: "Asterion, dias relativos; nenhuma era/ano formal estabelecido"
   day: 4
-  time_of_day: "aproximadamente 18h40 do Dia 4"
+  time_of_day: "aproximadamente 18h45 do Dia 4"
   season: "final do outono"
-  elapsed_game_time: "Dia4 ~18h35–18h40 conversa e negociação com Mara e Iria."
+  elapsed_game_time: "Dia4 ~18h40–18h45 conversa com Mara e Iria."
 location:
   continent: Asterion
   polity: "Terras Livres de Avenhar (homebrew), fora de Valdren"
@@ -156,9 +156,9 @@ location:
   travel_status: "No salão da estalagem; quarto 3 pago para esta noite."
 scene:
   id: OPENING-001
-  status: "awaiting_player_response_to_iria_investigation_offer"
-  current_npcs_present: ["Alda Tress", "Mara Telha", "Iria Vento-Seco"]
-  immediate_visible_situation: "Dia4 ~18h40: Eron convidou Mara e Iria à mesa, relatou recuperação quase completa da loba, previsão de caça autônoma amanhã e dois laços desarmados. Propôs investigação de autoria como serviço separado. Mara e Iria aceitaram sentar. Mara comprometeu-se a pagar as 12 PO prometidas amanhã se mais uma noite transcorrer sem perda de cabra; ainda não pagou. Iria ofereceu 5 PO por identificar responsável e apresentar evidências suficientes para confrontá-lo, sem exigir captura ou morte; oferta aguarda aceitação. Nenhum teste, XP ou recurso alterado. Saldo 41PO9PP7PC, 21 flechas, 125/300 XP, PV12/12, CA16; descanso não iniciado. Auditoria: não há chamada de executor Python comprovada no turno [174]; Percepção 17 permanece como resultado narrativo não verificado, sem rerrolagem retroativa."
+  status: "awaiting_player_action_at_inn_after_iria_departure"
+  current_npcs_present: ["Alda Tress", "Mara Telha"]
+  immediate_visible_situation: "Dia4 ~18h45: Eron disse que não promete, mas verá o que pode fazer sobre os laços. Iria aceitou a intenção sem compromisso obrigatório, indicou posto da guarda ou currais para relatar evidências e saiu para iniciar ronda. Mara reconheceu a solução não letal e desejou recuperação da loba, permaneceu à mesa. Oferta de 5 PO permanece disponível, sem garantia ou obrigação de conclusão. Recompensa de Mara 12 PO ainda condicionada à noite sem perdas. Nenhum teste, XP, gasto, pagamento ou descanso iniciado."
   discovered_traps:
     - location: "Trilha dos Corcos, junto ao riacho"
       state: disarmed_safe_wire_left_at_tree
@@ -174,7 +174,7 @@ scene:
   dice_rolled: true
   xp_awarded: true
   reward_offered_but_not_accepted: "12 PO de Mara, pagamento prometido Dia5 se noite Dia4–5 sem perdas; ainda pendente."
-  investigation_offer: "Iria oferece 5 PO por identificação do responsável e evidências suficientes para confrontá-lo; sem exigência de captura ou morte; aguardando aceitação."
+  investigation_offer: "5 PO por identificar responsável e apresentar evidências suficientes; Eron tentará sem compromisso de conclusão, oferta disponível; procurar Iria no posto da guarda ou currais."
 world:
   main_plotlines_independent:
     - "A: crime contra Aldren/Mirella e morte de Edric / conspiração de Pedra Branca e Pulgueiro"
@@ -187,8 +187,8 @@ world:
 transcription:
   character_creation_history: sessions/transcripts/SESSION_0001_FULL.md
   narrative_session: sessions/transcripts/SESSION_0002_FULL.md
-  last_saved_player_turn: "- por favor se sentem, a loba amanhã já não vai ser problema está quase completamente curada, então já vai pode caçar por conta própria, e os laços eu desarmei 2, amanhã posso tentar achar quem está colocando, mas aí já é outro serviço"
-  last_saved_dm_turn: "[176] MESTRE — Mara confirma condição de pagamento; Iria oferece 5 PO por investigação."
+  last_saved_player_turn: "- não prometo mas vou ver oque posso fazer"
+  last_saved_dm_turn: "[178] MESTRE — investigação opcional, Iria sai para ronda, Mara permanece à mesa."
 notes:
   - "Primeira resposta de cena será salva literalmente e sem revelar preparativos de dm."
   - "Nunca tratar a aprovação da ficha como XP, nem mudar recursos automaticamente."
