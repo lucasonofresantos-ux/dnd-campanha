@@ -559,3 +559,42 @@ As horas passam devagar. A luz cinzenta do meio-dia desliza pelas paredes da rav
 - Condições do Jogador: Ladino 1, **12/12 PV**, **CA 16**, **0/300 XP**, **36 PO e 8 PP**. Quatro porções diárias de ração intactas e uma porção aberta, agora bastante consumida. Nenhuma condição ativa; período de descanso sem uso de Dados de Vida.
 
 **GitHub:** transcrição integral, cronologia, inventário e estado atualizados; commits confirmados.
+
+## [031] JOGADOR — 2026-11-23
+
+Role lidar com animais 
+
+## [032] MESTRE — 2026-11-23
+
+<row align="center" gap={3}>
+  <box background="surface-secondary" radius="lg" padding={3} align="center" gap={1}>
+    <icon name="paw-print" size="lg"/>
+    <title size="2xl" tabularNums>15</title>
+  </box>
+  <box flex="1" gap={1}>
+    **Sabedoria (Lidar com Animais) +3**
+
+    `1d20+3` → **[12] +3 = 15**
+
+    <text color="success" weight="medium"><icon name="check-circle" inline/> Sucesso moderado</text>
+  </box>
+</row>
+
+Aproximadamente às 15h, a loba permanece deitada à entrada da toca. Quando Eron movimenta lentamente as mãos, ela ergue as orelhas e acompanha o gesto, mas não rosna nem se levanta.
+
+Depois de algumas horas compartilhando o espaço e recebendo alimento, **ela parece aceitar a presença tranquila de Eron**. Sua postura está menos tensa que no primeiro encontro.
+
+Entretanto, quando um dos filhotes se move atrás dela, a loba volta imediatamente a atenção para a cria.
+
+O resultado sugere que **uma aproximação lenta à pata ferida pode ser tentada**, mas não assegura que ela permitirá o toque ou suportará a dor de um exame. Eron ainda não se aproximou para isso.
+
+**O que Eron faz?**
+
+**[LOG DE MEMÓRIA DA CAMPANHA]**
+- Localização Atual: Entrada da toca na ravina, aproximadamente às 15h do Dia 1.
+- NPCs Presentes e Relação: Nenhum NPC humano; loba ferida e dois filhotes. A loba tolera a presença de Eron, mas permanece protetora.
+- Linha de Missão Ativa: Investigar e solucionar os ataques ao rebanho de Mara; recompensa proposta de 12 PO, ainda não recebida.
+- Eventos Cruciais Ocorridos: **Lidar com Animais 1d20+3 → [12] +3 = 15**; a loba continua calma diante de pequenos movimentos, sem permitir ainda contato físico ou tratamento.
+- Condições do Jogador: Ladino 1, **12/12 PV**, **CA 16**, **0/300 XP**, **36 PO e 8 PP**. Quatro porções diárias de ração intactas e uma aberta, bastante consumida; sem condições ativas ou combate.
+
+**GitHub:** rolagem e registros da campanha salvos com commits confirmados.
