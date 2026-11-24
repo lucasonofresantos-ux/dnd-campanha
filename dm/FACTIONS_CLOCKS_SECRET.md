@@ -34,3 +34,9 @@
 - Prêmio de caça local: 12 PO possível apenas se houver contrato/solução; não conceder no início.
 - Lobos podem ser afastados, acalmados, capturados, rastreados ou mortos; XP calculado pelo desafio resolvido, não por método violento.
 - NPCs são pessoas com vida própria; eles não interrompem automaticamente qualquer ação do jogador com instruções de roteiro.
+
+## Atualização reservada: contato com loba, Dia 1, ~meio-dia
+- Eron já deu um pequeno pedaço de carne seca, a loba aceitou, sem ataque.
+- Eron pediu novo teste Lidar com Animais **[17]+3=20**, sentou-se a ~2 m da abertura durante 10 minutos, sem bloquear a saída ou chegar aos filhotes. Loba tolera melhor presença, relaxou parcialmente, mas não está domesticada e não deu permissão para toque, exame ou intervenção na pata.
+- Se Eron tentar tratar o ferimento, avaliar forma concreta de aproximação, equipamentos e possibilidade de reação defensiva; não deixar rolagem anterior automatizar tratamento. Não criar armadilha ativa em torno do personagem e não esquecer que filhotes estão protegidos.
+- Sem XP até resolução significativa; nenhum avanço de relógios de dia ou mudança de facção em dez minutos.
