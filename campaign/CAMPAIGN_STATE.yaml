@@ -101,21 +101,21 @@ character:
 campaign_time:
   calendar_system: "Asterion, dias relativos; nenhuma era/ano formal estabelecido"
   day: 2
-  time_of_day: "aproximadamente 12h10 do Dia 2"
+  time_of_day: "aproximadamente 12h20 do Dia 2"
   season: "final do outono"
-  elapsed_game_time: "Dia 2 ~11h55 venda a Belda; ~12h05 consulta a Bram e Nessa; ~12h10 vendas concluídas."
+  elapsed_game_time: "Dia 2 ~12h10 vendas e conversa com Bram; ~12h20 chegada à ferraria da terceira fonte."
 location:
   continent: Asterion
   polity: "Terras Livres de Avenhar (homebrew), fora de Valdren"
   area: "entroncamento da Estrada do Cascalho, próximo ao Pouso das Três Fontes"
   nearby: "encostas arborizadas da serra cujo monte mais alto é chamado Veyra"
-  exact_position: "Açougue de Bram Cutelo, mercado do Pouso das Três Fontes"
-  travel_status: "No mercado; vendeu todos os materiais da caça restantes; possui saco de sal."
+  exact_position: "Ferraria de Durnak Mão de Ferro, próxima à terceira fonte, Pouso das Três Fontes"
+  travel_status: "Deslocamento local concluído; Eron na ferraria, recursos inalterados."
 scene:
   id: OPENING-001
-  status: "awaiting_player_response_to_bram_about_smithing"
-  current_npcs_present: ["Bram Cutelo"]
-  immediate_visible_situation: "Dia 2 ~12h10: Eron perguntou a Bram onde encontrar trabalho como ferreiro ou em outro ofício. Bram indicou ferraria próxima à terceira fonte, ocupada com ferraduras e ferramentas para o inverno, mercadores que precisam carregar carroças e Alda como possível fonte de informações sobre escoltas. Nenhum contrato garantido ou aceito. Bram perguntou se Eron aprendeu o ofício com mestre ou trabalha por conta própria; aguarda resposta. Nenhum recurso ou tempo significativo alterado."
+  status: "awaiting_player_response_to_durnak"
+  current_npcs_present: ["Durnak Mão de Ferro"]
+  immediate_visible_situation: "Dia 2 ~12h20: Eron respondeu a Bram que aprendeu na vida, agradeceu e caminhou até a ferraria próxima à terceira fonte. Conheceu Durnak Mão de Ferro, anão ferreiro de barba castanha grisalha, com marcas de queimaduras nos braços. Oficina de pedra e madeira com ferraduras, barras de ferro e ferramentas agrícolas para conserto. Durnak perguntou se Eron quer encomendar algo ou precisa de conserto; não sabe que procura trabalho. Nenhuma negociação de emprego, rolagem, XP, gasto ou mudança de recursos."
   discovered_traps:
     - location: "Trilha dos Corcos, junto ao riacho"
       state: disarmed_safe_wire_left_at_tree
@@ -139,8 +139,8 @@ world:
 transcription:
   character_creation_history: sessions/transcripts/SESSION_0001_FULL.md
   narrative_session: sessions/transcripts/SESSION_0002_FULL.md
-  last_saved_player_turn: "- onde aqui encontro algum trabalho? Seja de ferreiro ou outro"
-  last_saved_dm_turn: "[094] MESTRE — Bram indica ferraria, carga de carroças e Alda; pergunta sobre formação de Eron."
+  last_saved_player_turn: "- aprendi na vida, mas vou para ferraria muito obrigado"
+  last_saved_dm_turn: "[096] MESTRE — chegada à ferraria e apresentação de Durnak."
 notes:
   - "Primeira resposta de cena será salva literalmente e sem revelar preparativos de dm."
   - "Nunca tratar a aprovação da ficha como XP, nem mudar recursos automaticamente."
