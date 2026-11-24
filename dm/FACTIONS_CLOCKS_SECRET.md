@@ -227,3 +227,6 @@
 
 ## Dia 5 ~14h25 — suspeito seguido
 - Odran concluiu novo laço, verificou dois outros laços e recolheu lebre; retornou a cabana, onde um lenhador conhecido o chamou pelo primeiro nome. Eron testemunhou atos sem ser percebido, identificou desgaste da sola e similaridade do arame. Odran entrou, outro lenhador empilha lenha; nenhuma prova de participação deste último. Eron a ~15m oculto, identidade parcial e evidências suficientes para apresentar relato à guarda; resolução ainda aberta. Sem XP ou alteração de recursos. Auditoria de [186]: dados automáticos não comprovados, continuidade preservada.
+
+## Dia 5 ~15h40 — encerramento do contrato de investigação
+- Eron saiu sem ser detectado, apresentou relato a Iria. Ela reconhece Odran Peça e recebeu reclamações prévias, sem prova suficiente até agora. Cumprido contrato de 5PO, pagamento feito, +50XP (total225). Iria pretende organizar patrulha para averiguar e recolher laços; ainda não iniciou deslocamento. Não presumir detenção, confissão, desarme ou reação de Odran, que não sabe do relato. Outro lenhador não acusado. Iria perguntou sobre experiência investigativa de Eron, sem propor novo contrato ainda. Relógios seguem independentes.
