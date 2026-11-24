@@ -6369,3 +6369,68 @@ A loba acompanha seus movimentos com o olhar, enquanto os filhotes continuam bri
 - **Carne:** 8,5 kg transportados; 2,5 kg no chão, não consumidos.
 
 **GitHub:** transcrição, rolagem, cronologia e estado atualizados; commits confirmados.
+
+## [241] JOGADOR
+
+Lavo a carne que di para ela com um pouco da água do cantil e rolê percepção furtividade e sobrevivência para ir até este passagem e seguir por ela role investigação também para o caminho 
+
+## [242] MESTRE
+
+Vou descontar a água utilizada e resolver a travessia com os quatro testes solicitados.
+
+### Monte Veyra — Dia 6, 13h30
+
+Você utiliza um pouco da água do cantil, aproximadamente 250 ml, para retirar parte do sal superficial da carne. A loba volta a farejá-la enquanto você se prepara para partir. Ainda não é possível garantir que ela comerá a porção.
+
+Você deixa a família junto ao abrigo e segue montanha acima, aproveitando a vegetação e as rochas como cobertura.
+
+<card gap={3}>
+  {#each [["Percepção",15,7],["Furtividade",5,9],["Sobrevivência",20,5],["Investigação",20,6]] as r}
+    <row align="center">
+      <svg viewBox="0 0 100 100" size="65px">
+        <polygon points="50,4 94,29 94,73 50,97 6,73 6,29" fill="#214b86" stroke={r[1]===20?"#e6be64":"#78a7e1"} strokeWidth="2.5"/>
+        <path d="M50 4L23 65L94 73L50 4L77 65L6 73L50 4M6 29L77 65L50 97L23 65L94 29M23 65L77 65" fill="none" stroke="#93b5dd"/>
+        <text x="50" y="53" fontSize="27" fontWeight="bold" fill="white" textAnchor="middle">{r[1]}</text>
+      </svg>
+      <box flex={1} gap={1}>
+        **{r[0]}**
+        <caption>{`1d20+${r[2]} → [${r[1]}] + ${r[2]}`}</caption>
+      </box>
+      <title size="2xl">{r[1]+r[2]}</title>
+    </row>
+  {/each}
+  <divider/>
+  <caption>Quatro rolagens efetivamente executadas em Python com secrets.randbelow(). Hash do script do GitHub conferido antes da execução.</caption>
+</card>
+
+### A passagem rochosa — 13h50
+
+Você identifica os pontos mais firmes do terreno e evita as pedras escorregadias. Apesar de deslocar algumas pedras pequenas durante a subida, não percebe qualquer criatura reagindo ao ruído.
+
+A passagem estreita conduz a uma depressão natural cercada por paredes de rocha escura, com aproximadamente seis metros de largura. Os pinheiros são mais espaçados aqui, e o vento sopra com maior intensidade.
+
+<AsyncImage query="dark basalt mountain narrow rocky ravine pine forest moss lichen medieval fantasy realistic daylight" aspectRatio="16:9"/>
+
+Sua experiência como pedreiro, combinada à investigação minuciosa, permite perceber algo incomum.
+
+Em uma das paredes, existe um trecho cuja superfície apresenta uma regularidade diferente das formações vizinhas. Ao afastar um pouco do musgo, você encontra um pequeno orifício com contornos geométricos, aparentemente produzido de maneira intencional.
+
+O desgaste e a vegetação dificultam distinguir sua forma completa. Não há inscrições visíveis nem uma abertura suficientemente grande para atravessar.
+
+**Você está diante da parede, ao alcance da mão.**
+
+Atrás de você está o caminho pelo qual subiu. A loba e seus filhotes ficaram junto ao abrigo mais abaixo.
+
+---
+
+**[LOG DE MEMÓRIA DA CAMPANHA]**
+- **Localização atual:** Depressão rochosa na encosta do Monte Veyra, Dia 6, 13h50.
+- **NPCs presentes:** Nenhum avistado; família de lobos no último abrigo conhecido, cerca de 80 metros abaixo.
+- **Missão ativa:** Exploração voluntária do Veyra.
+- **Eventos cruciais:** Orifício de contornos geométricos encontrado em uma parede rochosa.
+- **Condições:** 12/12 PV | CA 16 | 225/300 XP | 56 PO, 2 PP e 7 PC | 24 flechas | 10 rações | 2,2 kg de sal.
+- **Inventário:** 8,5 kg de carne salgada; aproximadamente 250 ml de água utilizados. Volume restante do cantil não aferido. Inspiração Heroica disponível.
+
+**Auditoria:** a rolagem anterior da saliência (19) não possui execução Python comprovada; registro corrigido sem alterar os acontecimentos. As quatro rolagens atuais foram executadas e conferidas.
+
+**GitHub:** transcrição, ficha, dados, cronologia e estado atualizados; commits confirmados.
