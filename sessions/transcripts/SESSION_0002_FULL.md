@@ -933,3 +933,35 @@ Quando termina de comer, ela permanece à entrada, observando Eron. Os filhotes 
 - Condições do Jogador: Ladino 1, **12/12 PV**, **CA 16**, **0/300 XP**, **36 PO e 8 PP**. **19 flechas utilizáveis**; quatro porções diárias de ração intactas e uma quase consumida. Sem dano, condições ou combate em andamento.
 
 **GitHub:** rolagens, transcrição literal, cronologia, inventário e estado atualizados; commits confirmados.
+
+## [049] JOGADOR — 2026-11-23
+
+Ferramentas de coureiro para o couro do coelho
+E aproveito a última sobrevivência para dar mais um olhada na pata e ver se a loba deixa eu examinar 
+
+## [050] MESTRE — 2026-11-23
+
+A loba termina de repartir os pedaços do coelho com os filhotes, enquanto Eron examina seus equipamentos.
+
+**Sobre o couro:** Eron possui Ferramentas de Coureiro e proficiência para utilizá-las. Entretanto, durante o preparo do coelho, ele separou a pele, mas trouxe apenas a carne aproveitável. **A pele ficou na clareira**, a cerca de vinte e cinco minutos de caminhada. Ele poderá voltar para recuperá-la e tentar conservá-la; transformar uma pele fresca em couro utilizável exige preparação e tempo.
+
+Quanto à pata, Eron se agacha novamente, mantendo distância dos filhotes. A loba ergue a cabeça e observa suas mãos. Não rosna, mas mantém a pata machucada próxima ao corpo. A ferida continua inchada, com aquele pequeno brilho metálico junto à crosta.
+
+A última rolagem de **Sobrevivência [1] +5 = 6** já foi aplicada ao preparo do coelho. Ela não pode ser reutilizada para examinar a pata.
+
+Para verificar se a loba permitirá que Eron manipule cuidadosamente o membro, faça um novo teste:
+
+**Sabedoria (Lidar com Animais): `1d20+3`.**
+
+Se ela tolerar o contato, Eron poderá realizar um teste de **Sabedoria (Medicina) +3** para investigar o ferimento. Por enquanto, ele ainda não tocou na pata.
+
+**Qual foi o resultado de Lidar com Animais?**
+
+**[LOG DE MEMÓRIA DA CAMPANHA]**
+- Localização Atual: Fora da entrada da toca, na ravina, aproximadamente às 16h05 do Dia 1.
+- NPCs Presentes e Relação: Loba cinzenta ferida e dois filhotes. A loba observa Eron sem rosnar, mas mantém a pata recolhida.
+- Linha de Missão Ativa: Investigar e resolver os ataques ao rebanho de Mara; recompensa de 12 PO ainda não recebida.
+- Eventos Cruciais Ocorridos: Eron verificou suas Ferramentas de Coureiro; a pele do coelho não foi trazida da clareira. A rolagem anterior de Sobrevivência 6 não foi reutilizada. **Lidar com Animais +3 solicitado, aguardando resultado**; nenhum exame por toque ou tratamento.
+- Condições do Jogador: Ladino 1, **12/12 PV**, **CA 16**, **0/300 XP**, **36 PO e 8 PP**, 19 flechas utilizáveis. Quatro rações diárias intactas e uma quase consumida; sem dano ou condições.
+
+**GitHub:** transcrição, cronologia e estado da campanha registrados em commits confirmados.
