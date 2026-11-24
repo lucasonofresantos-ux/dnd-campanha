@@ -113,21 +113,21 @@ character:
 campaign_time:
   calendar_system: "Asterion, dias relativos; nenhuma era/ano formal estabelecido"
   day: 3
-  time_of_day: "aproximadamente 12h20 do Dia 3"
+  time_of_day: "aproximadamente 15h40 do Dia 3"
   season: "final do outono"
-  elapsed_game_time: "Dia3 ~12h00–12h20 almoço e caminhada à ferraria."
+  elapsed_game_time: "Dia3 ~12h20–15h40 fabricação de dobradiças e pregos."
 location:
   continent: Asterion
   polity: "Terras Livres de Avenhar (homebrew), fora de Valdren"
   area: "entroncamento da Estrada do Cascalho, próximo ao Pouso das Três Fontes"
   nearby: "encostas arborizadas da serra cujo monte mais alto é chamado Veyra"
   exact_position: "Ferraria de Durnak Mão de Ferro, terceira fonte do Pouso das Três Fontes"
-  travel_status: "Chegou à ferraria; oferta de trabalho pendente."
+  travel_status: "Na ferraria; contrato aceito, primeira etapa concluída."
 scene:
   id: OPENING-001
-  status: "awaiting_day3_smith_job_acceptance_and_roll"
+  status: "awaiting_day3_axe_repair_dexterity_roll"
   current_npcs_present: ["Durnak Mão de Ferro"]
-  immediate_visible_situation: "Dia 3 ~12h00–12h20: Eron terminou a ração parcialmente consumida (restam 3 rações intactas, nenhuma parcial) e seguiu à ferraria de Durnak. Durnak ofertou 1 PO por quatro dobradiças reforçadas, vinte pregos grandes e reparo da cabeça de um machado, materiais fornecidos, estimativa 4–5 horas. Também indicou Avel Duro, responsável pela ponte do Córrego Curvo, que precisa de alguém que entenda de ferragens e mecanismos; remuneração desconhecida. Oferta da ferraria aguarda aceitação e teste de Força (Ferramentas de Ferreiro) +3 para dobradiças e pregos. Nenhum contrato aceito, teste rolado, pagamento, XP ou dano."
+  immediate_visible_situation: "Dia 3 ~12h20–15h40: Eron aceitou a encomenda de Durnak por 1 PO, materiais da oficina. Teste de Força (Ferramentas de Ferreiro), dado natural informado pelo jogador 17, 1d20+3=20, sucesso. Quatro dobradiças reforçadas e vinte pregos grandes concluídos e aprovados. Resta reparar cabeça de machado com lâmina deformada e desgastada. Solicitado teste de Destreza (Ferramentas de Ferreiro) +7 (DES+5, proficiência+2), aguardando resultado ou autorização. Pagamento ainda pendente; nenhum XP, dano ou gasto de recursos."
   discovered_traps:
     - location: "Trilha dos Corcos, junto ao riacho"
       state: disarmed_safe_wire_left_at_tree
@@ -151,8 +151,8 @@ world:
 transcription:
   character_creation_history: sessions/transcripts/SESSION_0001_FULL.md
   narrative_session: sessions/transcripts/SESSION_0002_FULL.md
-  last_saved_player_turn: "Como um pouco e depois vou para a ferraria\n- tem mais algo que eu possa fazer?"
-  last_saved_dm_turn: "[130] MESTRE — nova oferta de trabalho e indicação da ponte."
+  last_saved_player_turn: "- sim aceito, vamos lá\n17 natural"
+  last_saved_dm_turn: "[132] MESTRE — ferraria teste 20, dobradiças e pregos concluídos; teste de Destreza +7 solicitado para machado."
 notes:
   - "Primeira resposta de cena será salva literalmente e sem revelar preparativos de dm."
   - "Nunca tratar a aprovação da ficha como XP, nem mudar recursos automaticamente."
