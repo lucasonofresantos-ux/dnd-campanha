@@ -32,11 +32,11 @@ character:
   heroic_inspiration: true
   hit_dice_available: "1d8"
   money:
-    gold: 57
-    silver: 6
+    gold: 56
+    silver: 3
     copper: 7
   inventory_reference: character/ERON_RIVER_LEVEL_01.md
-  carrying_all_owned_equipment: true
+  carrying_all_owned_equipment: false
   carrying_weight_lb_recorded: 103.88
   carrying_weight_note: "Compra Dia5 adicionou ~11,35 kg (14 lb rações e 5 kg sal); carga abaixo de 180 lb, peso exato não aferido."
   carrying_capacity_lb: 180
@@ -58,7 +58,7 @@ character:
     work_minutes_completed: 320
     work_minutes_remaining: 160
     status: paused_at_workshop_closing
-    remaining_materials_location: "Na bancada da ferraria; Durnak ofereceu armário. Aguarda decisão de Eron."
+    remaining_materials_location: "Caixa de madeira no armário da oficina de Durnak, com autorização de Eron."
   accommodation:
     inn: "Posto de Descanso de Alda Tress"
     private_room: 3
@@ -67,9 +67,9 @@ character:
     cost_gold: 1
     cost_silver: 3
     temporary_room_key: "chave de ferro do quarto 3, deverá ser devolvida ao encerrar hospedagem"
-    long_rest_started: true
-    long_rest_completed: true
-    rest_completion: "Dia5 ~06h00 no quarto 3; iniciou Dia4 ~19h15, sem interrupções; chave ainda em posse."
+    long_rest_started: false
+    long_rest_completed: false
+    rest_completion: "Último descanso concluído Dia5 ~06h00; hospedagem renovada para noite Dia5–6. Banho ainda não tomado, novo descanso não iniciado."
   medical_supplies:
     healer_kit:
       quantity: 1
@@ -156,21 +156,21 @@ character:
 campaign_time:
   calendar_system: "Asterion, dias relativos; nenhuma era/ano formal estabelecido"
   day: 5
-  time_of_day: "aproximadamente 18h00 do Dia 5"
+  time_of_day: "aproximadamente 18h35 do Dia 5"
   season: "final do outono"
-  elapsed_game_time: "Dia5 ~16h15–18h00 fabricação parcial de flechas."
+  elapsed_game_time: "Dia5 ~18h00–18h35 conversa com Durnak, trajeto, hospedagem e jantar."
 location:
   continent: Asterion
   polity: "Terras Livres de Avenhar (homebrew), fora de Valdren"
   area: "entroncamento da Estrada do Cascalho, próximo ao Pouso das Três Fontes"
   nearby: "encostas arborizadas da serra cujo monte mais alto é chamado Veyra"
-  exact_position: "Ferraria de Durnak Mão de Ferro, Pouso das Três Fontes"
-  travel_status: "Na ferraria ao fechamento; fabricação interrompida."
+  exact_position: "Salão do Posto de Descanso de Alda Tress, Pouso das Três Fontes"
+  travel_status: "Na estalagem após jantar; sem descanso iniciado."
 scene:
   id: OPENING-001
-  status: "awaiting_player_decision_on_material_storage_day5"
-  current_npcs_present: ["Durnak Mão de Ferro"]
-  immediate_visible_situation: "Dia5 ~18h00: Eron informa que talvez não volte amanhã, pois pretende caçar mais, e pergunta por recados. Durnak confirma que ninguém o procurou hoje, mantém bancada disponível para retorno futuro e oferece guardar materiais restantes no armário da oficina. Eron ainda não decidiu se deixará materiais ou os levará; não houve deslocamento, caça, descanso, novo contrato, rolagem, XP ou gasto. PV12/12 CA16 XP225/300, 57PO6PP7PC, 25 flechas, 10 rações, 5,2kg sal. Dia5 ~16h15–18h00: Eron retomou fabricação na bancada gratuita de Durnak, usando materiais já pagos. Trabalhou 105 minutos, concluindo mais cinco flechas utilizáveis. Projeto acumulado 320/480 minutos, 13/20 flechas completas, 7 pendentes, 160 minutos (2h40) restantes; 25 flechas utilizáveis no inventário (20 aljava, 5 reserva). Durnak fechou a ferraria às18h e autorizou retorno na manhã seguinte. Nenhum teste necessário por fabricação rotineira, sem XP ou novo gasto. PV12/12 CA16 XP225/300, saldo57PO6PP7PC, 10 rações, 5,2kg sal, Inspiração Heroica disponível. Materiais restantes continuam propriedade de Eron; local de armazenamento após fechamento não especificado. Nenhuma nova hospedagem contratada; aguarda ação."
+  status: "awaiting_player_action_after_dinner_day5"
+  current_npcs_present: ["Alda Tress", "Dois viajantes desconhecidos", "Moradores"]
+  immediate_visible_situation: "Dia5 ~18h00–18h35: Eron autorizou guardar materiais das sete flechas pendentes; Durnak colocou-os numa caixa de madeira no armário e disse que poderá separar trabalho futuro se houver encomenda maior; sem novo contrato. Percepção no trajeto 1d20+7 [9]+7=16, sem anormalidade percebida. ~18h15 renovou quarto 3 com banho por 1PO e jantar por 3PP, total 1PO3PP; saldo 57PO6PP7PC→56PO3PP7PC. Jantou ensopado com batatas, pão e chá, rações intactas. Percepção no jantar 1d20+7 [13]+7=20; ouviu dois viajantes comentarem possível geada nas partes altas antes do fim da semana, lama na trilha do riacho e intenção de um viajar pela estrada amanhã cedo; ouviu Alda dizer que ainda não viu Iria retornar da patrulha. Ambos os testes realmente executados via container Python com script Git d35af70119bf684ea055619bb10678a1c4b03bbb, hash verificado, secrets.randbelow. ~18h35, salão da estalagem. Banho preparado, não tomado; descanso longo não iniciado. PV12/12 CA16 XP225/300, 25 flechas, 10 rações, 5,2kg sal, kit9/10, Inspiração Heroica disponível."
   discovered_traps:
     - location: "Trilha dos Corcos, junto ao riacho"
       state: disarmed_safe_wire_left_at_tree
@@ -214,8 +214,8 @@ world:
 transcription:
   character_creation_history: sessions/transcripts/SESSION_0001_FULL.md
   narrative_session: sessions/transcripts/SESSION_0002_FULL.md
-  last_saved_player_turn: "- Durnak não sei se venho amanhã quero caçar mais um pouco, e alguém deixou algum recado para mim?"
-  last_saved_dm_turn: "[204] MESTRE — sem recados; oferta de guardar materiais."
+  last_saved_player_turn: "Mensagens [205] – autorização de guarda, hospedagem e Percepção."
+  last_saved_dm_turn: "[206] MESTRE — jantar concluído; Percepção 16 e 20."
 notes:
   - "Primeira resposta de cena será salva literalmente e sem revelar preparativos de dm."
   - "Nunca tratar a aprovação da ficha como XP, nem mudar recursos automaticamente."
