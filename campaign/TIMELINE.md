@@ -29,6 +29,8 @@
 - Eron deixou a cobertura lentamente, permaneceu ~2 m da entrada sem bloquear a saída nem se aproximar das crias; ofereceu pequeno pedaço de carne seca de suas rações e falou à loba em tom calmo. Aplicou-se o **Lidar com Animais 18** obtido anteriormente à abordagem cautelosa, sem novo sorteio. A loba rosnou, ergueu-se com esforço e manteve-se entre Eron e os dois filhotes; avançou para tomar a carne com os dentes e recuou, sem ataque. Sua pata apresenta faixa sem pelos, pele avermelhada e inchaço, compatíveis com pressão de laço. Eron não tocou nem tratou o ferimento. Nenhuma matilha observada, causa da ausência desconhecida. Passaram-se alguns minutos.
 - **Rações:** 5 dias originalmente; 4 porções intactas e uma porção parcialmente utilizada (pequeno pedaço de carne seca consumido pela loba). Peso exato não quantificado. **XP 0/300, moedas inalteradas, sem combate, cura ou descanso.**
 
+- Eron pediu nova rolagem **Lidar com Animais 1d20+3 → [17]+3=20**, executada de fato com cópia do script Python do repositório e secrets.randbelow. Sentou-se de lado a ~2 m da entrada, sem bloquear saída, e permaneceu ~10 minutos. A loba inicialmente observou, depois se deitou do lado saudável, baixou cabeça nas patas e respirou mais lentamente; segue vigilante com filhotes. Um filhote espreitou e voltou. Ferimento continua inchado, sem exame direto; não se sabe se há fragmento de arame preso. Não houve toque, ataque, domesticação, comida adicional ou recompensa. Horário próximo ao meio-dia; XP permanece **0/300**.
+
 ## Índices
 - Estado: `CAMPAIGN_STATE.yaml`.
 - XP: `XP_LOG.csv`.
