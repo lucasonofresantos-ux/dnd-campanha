@@ -169,3 +169,4 @@ date,campaign_id,stage,attempt,expression,six_rolls_faces_in_order,six_attribute
 2026-11-24,ERON-RIVER-ASTERION-001,correction_unverified_execution_skill_check_survival_leatherworker_tools_advantage,4,2d20kh1+5,"3,4","4+5",9,false
 2026-11-24,ERON-RIVER-ASTERION-001,skill_check_animal_handling_physical,11,1d20+3,15,"15+3",18,true
 2026-11-24,ERON-RIVER-ASTERION-001,skill_check_medicine_physical,4,1d20+3,19,"19+3",22,true
+2026-11-24,ERON-RIVER-ASTERION-001,smith_tools_strength_player_reported,4,1d20+3,18,"18+3",21,true
