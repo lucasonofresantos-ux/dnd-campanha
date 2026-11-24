@@ -18,5 +18,5 @@
 - XP: [XP_LOG.csv](../campaign/XP_LOG.csv), regras em [PROGRESSION_XP.md](../campaign/PROGRESSION_XP.md).
 - Sessão narrativa 1: [SESSION_0002.md](SESSION_0002.md), transcrição [SESSION_0002_FULL.md](transcripts/SESSION_0002_FULL.md).
 - Isolamento: não misturar com `PRE-CHAR-HUMAN-001` (que é histórico da criação), nem com campanhas de outros personagens.
-- Transcrição [SESSION_0002_FULL.md](transcripts/SESSION_0002_FULL.md), mensagens [001]–[030]: Eron ficou junto à toca das 12h até aproximadamente 15h, almoçou e dividiu ração com a loba sem fogo. A loba tolera melhor a presença, ainda protege filhotes; pata sem tratamento. 4 rações intactas + 1 aberta bastante consumida. Descanso sem Dados de Vida, 0/300 XP, 36 PO 8 PP, sem rolagens adicionais.
+- Transcrição [SESSION_0002_FULL.md](transcripts/SESSION_0002_FULL.md), mensagens [001]–[032]: Eron pediu nova rolagem Lidar com Animais [12]+3=15; ~15h, a loba tolera gestos lentos do personagem mas protege os filhotes; nenhum toque, aproximação adicional ou tratamento. 4 rações intactas e 1 aberta bastante consumida; 0/300 XP, 36 PO 8 PP.
 - Planejamento secreto em `dm/` (jamais incluir em logs públicos).
