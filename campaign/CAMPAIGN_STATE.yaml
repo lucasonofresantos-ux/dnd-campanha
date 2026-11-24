@@ -47,25 +47,25 @@ character:
     intact_full_days: 4
     partly_used_days: 1
     food_offered: "um pequeno pedaço de carne seca, retirado da ração em uso e aceito/consumido pela loba"
-  animal_handling_last: "1d20+3 → [15] +3 =18; reutilizado neste contato inicial e cauteloso, sem nova rolagem"
+  animal_handling_last: "1d20+3 → [17] +3=20; segundo teste, permanência calma por ~10 minutos na entrada, maior tolerância, sem domar nem permitir toque"
 campaign_time:
   calendar_system: "Asterion, dias relativos; nenhuma era/ano formal estabelecido"
   day: 1
   time_of_day: "perto do meio-dia"
   season: "final do outono"
-  elapsed_game_time: "cerca de uma hora desde a conversa junto ao curral; alguns minutos usados no contato cauteloso, perto do meio-dia"
+  elapsed_game_time: "cerca de uma hora e dez minutos desde a conversa junto ao curral; mais ~10 minutos sentado à entrada da toca; próximo ao meio-dia"
 location:
   continent: Asterion
   polity: "Terras Livres de Avenhar (homebrew), fora de Valdren"
   area: "entroncamento da Estrada do Cascalho, próximo ao Pouso das Três Fontes"
   nearby: "encostas arborizadas da serra cujo monte mais alto é chamado Veyra"
-  exact_position: "entrada da toca rochosa na ravina, aproximadamente 2 metros da abertura, com a saída desobstruída; Eron não entrou"
-  travel_status: "Eron se revelou lentamente junto à entrada da toca, permanecendo a ~2 metros e sem bloquear a saída; não entrou na toca"
+  exact_position: "sentado lateralmente junto à entrada da toca rochosa, aproximadamente 2 metros da abertura, saída livre; Eron não entrou"
+  travel_status: "Eron permaneceu na entrada da toca sem avançar; sentou-se por ~10 minutos com cautela, sem bloquear saída ou se aproximar das crias"
 scene:
   id: OPENING-001
-  status: awaiting_player_action_after_cautious_feeding
+  status: awaiting_player_action_after_wolf_calms
   current_npcs_present: []
-  immediate_visible_situation: "Eron se revelou lentamente, afastado dos filhotes, a cerca de 2 m da entrada, mantendo livre a saída; ofereceu um pedaço de carne seca da ração e falou suavemente à loba. A loba rosnou brevemente, ergueu-se com dificuldade, protegeu os dois filhotes, avançou o suficiente para apanhar a carne com os dentes e recuou para as crias; agora mastiga, alerta, mas sem rosnar. Ferimento visível na pata dianteira: faixa de pelo arrancado, pele avermelhada e inchaço aparentemente causado por laço apertado. Não houve mordida, toque ou cura; nenhuma matilha foi identificada. Aplicado Lidar com Animais anterior [15]+3=18 para tolerar esta abordagem, sem teste novo. Eron não está mais oculto."
+  immediate_visible_situation: "Eron se sentou lateralmente junto à entrada da toca, aproximadamente 2 m da abertura, saída desobstruída; pediu NOVA rolagem Lidar com Animais +3, resultado real [17]+3=20. Permaneceu quieto ~10 minutos. A loba observou, depois deitou sobre lado saudável, baixou cabeça nas patas, respirou mais devagar e tolera melhor a presença de Eron sem rosnar, ainda vigilante e protegendo dois filhotes; um filhote espreitou e voltou. Pata ferida ainda inchada/recolhida, não foi examinada de perto; não é possível saber se existe arame residual. Sem toque, cura, domesticação, combate, novo consumo ou deslocamento."
   combat: false
   initiative: []
   rounds: 0
@@ -84,8 +84,8 @@ world:
 transcription:
   character_creation_history: sessions/transcripts/SESSION_0001_FULL.md
   narrative_session: sessions/transcripts/SESSION_0002_FULL.md
-  last_saved_player_turn: "Saio devagar com o lidar animais que tirei longe das crias e sem bloquear a saída e tiro alguma carne seca da ração e ofereço \n- calma garota, calma não quero te fazer mal, só deixa eu ver isso, e oque você está fazendo sem uma matilha?"
-  last_saved_dm_turn: "[020] MESTRE — 2026-11-23; contato inicial cauteloso, loba aceitou pequeno pedaço de ração, ferimento observado; transcrição salva"
+  last_saved_player_turn: "Role lidar com animais novamente vou ficar sentado um pouco na beira da entrada até ela se acostumar um pouco mais comigo"
+  last_saved_dm_turn: "[022] MESTRE — 2026-11-23; novo Lidar com Animais [17]+3=20, dez minutos sentado, loba mais tranquila, transcrição salva"
 notes:
   - "Primeira resposta de cena será salva literalmente e sem revelar preparativos de dm."
   - "Nunca tratar a aprovação da ficha como XP, nem mudar recursos automaticamente."
