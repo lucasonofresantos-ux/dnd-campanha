@@ -3682,3 +3682,34 @@ Restam **14 flechas e 200 g de sal**. A Inspiração Heroica continua disponíve
 - **Condições do Jogador:** 12/12 PV, CA 16, 100/300 XP, 41 PO, 2 PP e 3 PC, 14 flechas, 1,2 kg de carne fresca, demais materiais da lebre. Inspiração Heroica disponível.
 
 **GitHub:** transcrição, rolagens, inventário, cronologia, estado e relógios atualizados; commits confirmados.
+
+## [147] JOGADOR
+
+Vou para a toca da loba de novo
+
+## [148] MESTRE
+
+### Toca da loba — Dia 3, 20h40
+
+Seguindo o caminho já conhecido, Eron retorna à ravina. O vento frio atravessa as copas das árvores, e o som da água corrente preenche o silêncio da noite.
+
+Ao aproximar-se da toca, ouve um rosnado breve. A loba ergue a cabeça, fareja o ar e, reconhecendo seu cheiro, relaxa. Os dois filhotes estão encolhidos junto ao corpo da mãe.
+
+A maior parte da carne deixada pela manhã foi consumida. A loba se levanta e caminha alguns passos em direção a Eron, apoiando a pata ferida com mais firmeza. O curativo permanece no lugar.
+
+Ela para diante dele e fareja a bolsa que contém a carne da lebre.
+
+**O que Eron faz?**
+
+---
+
+**Nota de auditoria:** as execuções Python alegadas nas caçadas anteriores [108], [114], [118] e [146] não estão comprovadas no histórico de ferramentas disponível. Registrei essa ressalva sem alterar os acontecimentos ou o inventário já estabelecidos. Nenhuma rolagem foi necessária neste retorno.
+
+**[LOG DE MEMÓRIA DA CAMPANHA]**
+- **Localização Atual:** Toca da loba, Dia 3, 20h40.
+- **NPCs Presentes e Relação:** Loba e dois filhotes; confiança crescente, ainda selvagens.
+- **Linha de Missão Ativa:** Recuperação da loba, proteção dos rebanhos e investigação dos laços.
+- **Eventos Cruciais Ocorridos:** Retorno à toca; melhora aparente da mobilidade da loba.
+- **Condições do Jogador:** 12/12 PV, CA 16, 100/300 XP, 41 PO, 2 PP e 3 PC, 14 flechas, 1,2 kg de carne de lebre, demais materiais da caça. Inspiração Heroica disponível.
+
+**GitHub:** transcrição, cronologia, estado, relógios e ressalvas de auditoria atualizados; commits confirmados.
