@@ -182,3 +182,6 @@
 
 ## Dia 4 ~09h05 — familiaridade com crias
 - Eron prometeu retornar no Dia5 com comida. Loba não compreende promessa em linguagem humana. Um filhote busca contato espontaneamente, outro permanece cauteloso; mãe tolera aproximação supervisionada. Nenhuma domesticação, adoção, vínculo mecânico ou nova rolagem. Recuperação final segue; prêmio do rebanho ainda depende de verificação.
+
+## Dia 4 ~09h15 — contato voluntário
+- Ambos os filhotes aceitaram carinho espontaneamente; mãe relaxada e atenta. Confiança reforçada sem domesticação, obediência ou adoção. Nenhum teste ou XP adicional. Relógios anteriores mantidos.
