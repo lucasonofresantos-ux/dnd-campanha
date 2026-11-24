@@ -1077,3 +1077,46 @@ Ela espera a resposta de Eron.
 - **Condições do Jogador:** Ladino 1, **12/12 PV**, **CA 16**, **25/300 XP**, **36 PO e 8 PP**, 19 flechas utilizáveis. Quatro rações intactas e uma quase consumida; uma pele crua de coelho parcialmente danificada e duas orelhas. Nenhuma condição ativa.
 
 **GitHub:** transcrição literal e estado da campanha salvos com commits confirmados.
+
+## [055] JOGADOR — 2026-11-23
+
+- encontrei uma loba ferida na pata por uma armadilha com dois filhotes, cacei um coelho e dei para ela comer, então não acredito que vira hoje, se vier não vai ser a mesma... Vou tratar da para dela amanhã e tentar levar ela para a matilha dela, não sei por que ela atacou as cabras, tem caça na floresta, e qual o nome dessa montanha?
+
+## [056] MESTRE — 2026-11-23
+
+Mara escuta Eron em silêncio. Quando ele menciona a loba ferida e os dois filhotes, a mulher aperta a lanterna entre os dedos.
+
+— Uma loba... com crias? — Ela olha para o curral. — E machucada por uma armadilha?
+
+Sua expressão muda da preocupação para a indignação.
+
+— Quem anda colocando armadilhas naquela mata? Temos caçadores por aqui, mas deixar um bicho preso para morrer é outra história.
+
+Ela encosta a lanterna num poste e cruza os braços.
+
+— Você diz que há caça na floresta. Mas pense comigo: se aquela pata está machucada, como ela vai perseguir um corço? Minhas cabras são muito mais fáceis de apanhar.
+
+Mara suspira.
+
+— Não quero matar uma mãe e deixar dois filhotes morrerem de fome. Mas também não posso perder minhas últimas cabras. Vou mantê-las fechadas esta noite e pedir à Iria que fique atenta. Só não posso garantir que isso resolva o problema.
+
+Quando Eron pergunta sobre a montanha, Mara acompanha seu olhar até a silhueta escura dos picos.
+
+— **Monte Veyra.** É como chamamos o monte mais alto desta serra. Dá para avistá-lo de boa parte destas terras quando não está coberto de nuvens.
+
+Ela volta a encará-lo.
+
+— Mas me diga uma coisa: **você encontrou a armadilha que feriu essa loba?** Se alguém anda espalhando laços pela encosta, precisamos saber onde estão antes que outra criatura, ou até uma pessoa, acabe presa.
+
+O vento frio atravessa o curral. Mara aguarda a resposta.
+
+**O que Eron diz ou faz?**
+
+**[LOG DE MEMÓRIA DA CAMPANHA]**
+- **Localização Atual:** Curral de Mara Telha, Pouso das Três Fontes, aproximadamente às 17h45 do Dia 1.
+- **NPCs Presentes e Relação:** Mara Telha; preocupada com o rebanho, sensibilizada pela existência dos filhotes, mas ainda exigindo uma solução segura. Iria não está presente.
+- **Linha de Missão Ativa:** Proteger as cabras e investigar os laços na mata; recompensa proposta de **12 PO ainda não recebida**. Eron pretende voltar à loba pela manhã.
+- **Eventos Cruciais Ocorridos:** Eron contou a Mara sobre a loba ferida, os dois filhotes e a carne que ofereceu; disse acreditar que ela não atacará naquela noite, embora não possa garantir. Mara levantou a hipótese de que a lesão dificulta a caça, identificou o pico como **Monte Veyra** e perguntou onde foi encontrada a armadilha. Pretende manter cabras fechadas e procurar Iria para vigilância. Nenhuma nova rolagem.
+- **Condições do Jogador:** Ladino 1, **12/12 PV**, **CA 16**, **25/300 XP**, **36 PO e 8 PP**, 19 flechas utilizáveis; quatro rações intactas e uma quase consumida, pele crua de coelho parcialmente danificada e duas orelhas. Sem condições ativas.
+
+**GitHub:** transcrição integral, estado, cronologia e registros da sessão atualizados; commits confirmados.
