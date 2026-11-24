@@ -41,7 +41,7 @@ character:
   carrying_weight_lb_recorded: 103.88
   carrying_weight_note: "Carga anterior registrada 103,88 lb; caça Dia6 acrescenta 11 kg de carne e outros materiais sem peso exato aferido; carga estimada abaixo de 180 lb."
   carrying_capacity_lb: 180
-  known_personal_item: "Marca da Bigorna Velada; acionou abertura local, permanece encaixada na parede, borda acessível."
+  known_personal_item: "Marca da Bigorna Velada recuperada e guardada na bolsa sob roupa; acionou abertura local, porta permanece aberta."
   untrained_owned_tool: "Ferramentas de Funileiro (propriedade, sem proficiência)"
   ammo:
     shortbow_arrows_in_quiver: 19
@@ -172,21 +172,21 @@ character:
 campaign_time:
   calendar_system: "Asterion, dias relativos; nenhuma era/ano formal estabelecido"
   day: 6
-  time_of_day: "aproximadamente 14h06 do Dia 6"
+  time_of_day: "aproximadamente 14h08 do Dia 6"
   season: "final do outono"
-  elapsed_game_time: "Dia6 ~14h05–14h06, inserção da peça e abertura."
+  elapsed_game_time: "Dia6 ~14h06–14h08, recuperação do disco e entrada no corredor."
 location:
   continent: Asterion
   polity: "Terras Livres de Avenhar (homebrew), fora de Valdren"
   area: "entroncamento da Estrada do Cascalho, próximo ao Pouso das Três Fontes"
   nearby: "encostas arborizadas da serra cujo monte mais alto é chamado Veyra"
-  exact_position: "Exterior de passagem de pedra aberta na parede rochosa da encosta do Monte Veyra."
-  travel_status: "Abertura de ~60cm; Eron do lado externo, não entrou."
+  exact_position: "Corredor interno do Monte Veyra, cerca de 4m após a entrada."
+  travel_status: "No trecho alcançado pela luz externa; escuridão adiante; porta aberta atrás."
 scene:
   id: OPENING-001
-  status: "awaiting_player_action_at_open_passage_day6"
+  status: "awaiting_player_action_inside_entry_corridor_day6"
   current_npcs_present: []
-  immediate_visible_situation: "Dia6 14h06: Eron inseriu a Marca da Bigorna Velada na cavidade, encaixe perfeito sem força. Após clique e pausa, ruído metálico abafado e vibração; musgo e poeira caíram. Segmento de parede recuou e deslizou lateralmente, abertura ~60cm, movimento cessou com ruído áspero. Ar frio seco, luz externa mostra primeiros metros de corredor de pedra trabalhada de grande precisão, escuridão adiante. Disco permanece encaixado com borda acessível. Eron do lado de fora, nenhum ser visível, nenhum outro ruído percebido. Sem entrada, retirada de chave ou nova operação. Não houve teste pois encaixe era compatível e resposta do mecanismo determinada pelo cenário. +25 XP adjudicados pela descoberta substantiva e confirmação do acesso oculto (único, sem duplicar pelo mesmo acesso); total 250/300. PV12/12 CA16, 56PO2PP7PC, 24 flechas, 10 rações, 2,2kg sal, 8,5kg carne salgada, inspiração disponível; demais recursos intactos."
+  immediate_visible_situation: "Dia6 ~14h06–14h08: Eron pediu Percepção e Furtividade para entrar e recuperar disco. Retirou Marca da Bigorna Velada sem força, estalo metálico, porta permaneceu aberta ~60cm; disco guardado de volta na bolsa sob roupa. Atravessou lateralmente e avançou ~4m no corredor. Execução REAL em container.exec: script reconstruído do GitHub /tmp/eron_dice_roller.py, git hash-object d35af70119bf684ea055619bb10678a1c4b03bbb conferido com test antes de executar; Python 1d20+7 JSON rolls [16], kept_indices [0], modifier 7, total 23; 1d20+9 JSON rolls [8], kept_indices [0], modifier 9, total 17. Percepção observação do limiar em luz disponível e escuta, não visão no escuro. Corredor ~3m largura e altura semelhante, piso em grandes blocos e juntas estreitas, paredes alinhadas. Identificou outra cavidade circular na face interna da entrada. Ar seco; nenhum som de passos, respiração ou movimento, nenhuma criatura ou mecanismo de armadilha perceptível na área iluminada, sem garantia geral de segurança. Escuridão absoluta adiante; Eron humano sem visão no escuro, não acendeu iluminação nem avançou além. Porta permanece aberta atrás. Nenhum novo XP, dano, gasto, combate, uso de óleo/vela/inspiração. PV12/12 CA16 XP250/300; 56PO2PP7PC, 24 flechas, 10 rações, 2,2kg sal, 8,5kg carne salgada; lanterna coberta, 7 óleos, 10 velas, pederneira disponíveis."
   discovered_traps:
     - location: "Trilha dos Corcos, junto ao riacho"
       state: disarmed_safe_wire_left_at_tree
@@ -231,8 +231,8 @@ world:
 transcription:
   character_creation_history: sessions/transcripts/SESSION_0001_FULL.md
   narrative_session: sessions/transcripts/SESSION_0002_FULL.md
-  last_saved_player_turn: "[247] JOGADOR — encaixa disco."
-  last_saved_dm_turn: "[248] MESTRE — passagem aberta parcialmente; +25 XP."
+  last_saved_player_turn: "[249] JOGADOR — recupera disco, autoriza Percepção e Furtividade para entrar."
+  last_saved_dm_turn: "[250] MESTRE — disco recuperado, corredor acessado, Percepção 23 e Furtividade 17."
 notes:
   - "Primeira resposta de cena será salva literalmente e sem revelar preparativos de dm."
   - "Nunca tratar a aprovação da ficha como XP, nem mudar recursos automaticamente."
