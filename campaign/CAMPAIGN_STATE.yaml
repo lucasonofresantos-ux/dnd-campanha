@@ -83,22 +83,21 @@ character:
 campaign_time:
   calendar_system: "Asterion, dias relativos; nenhuma era/ano formal estabelecido"
   day: 2
-  time_of_day: "aproximadamente 07h10 da manhã do Dia 2"
+  time_of_day: "aproximadamente 08h05 do Dia 2, manhã"
   season: "final do outono"
-  elapsed_game_time: "07h05 Eron descreveu a Olma a pata ferida, discutiu cuidados, comprou o kit de curandeiro, unguento e ataduras; aproximadamente 07h10"
+  elapsed_game_time: "~07h10 despedida de Olma; ~55min caminhada e rastreio pela trilha dos corços rumo a ravina; ~08h05"
 location:
   continent: Asterion
   polity: "Terras Livres de Avenhar (homebrew), fora de Valdren"
   area: "entroncamento da Estrada do Cascalho, próximo ao Pouso das Três Fontes"
   nearby: "encostas arborizadas da serra cujo monte mais alto é chamado Veyra"
-  exact_position: "Interior da Casa das Ervas de Olma Ramo, junto ao balcão, na segunda fonte do Pouso das Três Fontes"
-  travel_status: "Eron está na loja de Olma, com 1 kit de curandeiro, 1 pote de unguento e ataduras recém-comprados e pagos, ainda não foi à toca nem obteve alimento adicional"
+  exact_position: "Trilha dos Corços junto a riacho, Eron oculto atrás de tronco com musgo, corço adulto a cerca de 20m"
+  travel_status: "Eron saiu da Casa das Ervas, segue em direção à toca da loba mas parou para rastrear caça; ainda não chegou à ravina"
 scene:
   id: OPENING-001
-  status: "awaiting_player_after_buying_wound_supplies"
-  current_npcs_present:
-    - Olma Ramo
-  immediate_visible_situation: "Eron descreveu à boticária Olma que a pata do lobo estava inchada e quente, sem odor ruim, depois de ele retirar um fragmento de ferro da armadilha ontem. Disse que ela podia incluir o que fosse necessário e que pagaria, pedindo um desconto. Olma explicou que calor/inchaço podem decorrer do ferimento recente, mas a falta de mau cheiro não exclui infecção; orientou lavagem com água limpa, unguento suave em camada fina e atadura limpa frouxa, com vigilância de piora do inchaço ou secreção, e atenção ao risco de mordida. Reuniu 1 kit de curandeiro com 10 usos, 1 pote de unguento suave não mágico e 1 conjunto de ataduras limpas, previamente cotados 4PO4PP após desconto de Artesão 20%; não concedeu desconto extra. Eron expressamente autorizou o pagamento: transferiu 4PO4PP e recebeu os 3 itens, saldo passou de 35PO5PP para 31PO1PP, nenhum item médico usado ainda. O kit mundano não tem cura mágica nem impede infecção automaticamente. ~07h10 Dia2; Olma à frente dele, comércio abrindo na rua. Recompensa de Mara de 12PO ainda não paga; alimentação para loba ainda não obtida hoje, chave da hospedaria com Eron. XP25/300, PV12/12, Inspiração Heroica disponível e 19flechas."
+  status: "awaiting_player_action_hidden_from_roe_deer"
+  current_npcs_present: []
+  immediate_visible_situation: "Eron agradeceu Olma e declarou ir tratar loba e caçar no caminho, autorizando rolagens até encontrar caça. Script real dice_roller.py Python secrets.randbelow: Furtividade 1d20+9 d20[18]+9=27, Percepção 1d20+7 d20[19]+7=26, Sobrevivência 1d20+5 d20[16]+5=21; todos sucessos. Após ~55min desde ~07h10, encontrou rastros recentes de corço adulto perto do riacho na Trilha dos Corços e seguiu até clareira: corço castanho solitário vivo come folhas ~20m à frente, Eron oculto atrás de tronco com musgo, vento favorável, animal não o percebeu. Eron também notou pegadas de botas na lama e sulco estreito de aperto no tronco de árvore jovem junto ao riacho, sem prova de laço ativo ou culpado. Nenhum ataque ou abate, flecha disparada, carne obtida, XP, dinheiro ou itens usados; 19 flechas, Inspiração Heroica, kit10 usos, unguento e ataduras intactos; a toca da loba ainda à frente."
   combat: false
   initiative: []
   rounds: 0
@@ -117,8 +116,8 @@ world:
 transcription:
   character_creation_history: sessions/transcripts/SESSION_0001_FULL.md
   narrative_session: sessions/transcripts/SESSION_0002_FULL.md
-  last_saved_player_turn: "- inchada, tirei um pedaço de ferro dele ontem da armadilha mas não fedia, só inchado e quente mas faz parte do ferimento recente, mas oque precisar pode colocar junto e eu pago, e claro um desconto seria algo muito bom"
-  last_saved_dm_turn: "[068] MESTRE — 2026-11-23; Olma vende kit 10 usos, unguento e ataduras por 4PO4PP após desconto 20%, saldo 31PO1PP, orienta primeiros socorros; transcrição salva."
+  last_saved_player_turn: "- obrigado, mas tenho que ir tentar tratar de uma loba ferida e ainda caçar algo no caminho\nPode rolar furtividade, percepção e sobrevivência até achar uma caça"
+  last_saved_dm_turn: "[070] MESTRE — 2026-11-23; Furtividade [18]+9=27, Percepção [19]+7=26, Sobrevivência [16]+5=21, corço vivo 20m e Eron oculto ~08h05 sem ataque; transcrição salva."
 notes:
   - "Primeira resposta de cena será salva literalmente e sem revelar preparativos de dm."
   - "Nunca tratar a aprovação da ficha como XP, nem mudar recursos automaticamente."
