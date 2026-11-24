@@ -1232,3 +1232,58 @@ O ensopado borbulha atrás dela. A noite está chegando, mas Eron ainda não pag
 - **Condições do Jogador:** Ladino 1, **12/12 PV**, **CA 16**, **25/300 XP**, **36 PO e 8 PP**, 19 flechas utilizáveis. Quatro rações intactas e uma quase consumida; uma pele crua de coelho parcialmente danificada e duas orelhas. Sem condições ativas.
 
 **GitHub:** transcrição literal, estado e cronologia atualizados; commits confirmados.
+
+## [061] JOGADOR — 2026-11-23
+
+- Vou querer o quarto e a janta, aqui o pagamento, vou comer e subir
+Pode rolar percepção para o jantar
+
+## [062] MESTRE — 2026-11-23
+
+### Posto de Descanso — Pouso das Três Fontes
+
+Alda recolhe o pagamento de **1 peça de ouro e 3 peças de prata**, guarda as moedas numa gaveta e entrega a Eron uma pequena chave de ferro.
+
+— Quarto três, no andar de cima. Seu jantar já vem.
+
+<row align="center" justify="between">
+  <box gap={1}>
+    <text color="secondary" weight="medium" size="xs">Teste de Sabedoria (Percepção) +7</text>
+    <title size="xl" tabularNums>24</title>
+    <caption>`1d20+7` → [17] + 7</caption>
+  </box>
+  <badge color="success"><icon name="check" inline/> Sucesso</badge>
+</row>
+
+Eron se acomoda numa mesa. Alda traz uma tigela de ensopado fumegante, pão fresco e uma caneca de chá quente. A comida está bem preparada, e o calor do salão contrasta com o frio que se instala lá fora.
+
+Enquanto janta, seus olhos percorrem discretamente o ambiente. Pela janela, ele reconhece **Iria Vento-Seco** caminhando em direção aos currais, levando seu arco e uma lanterna. Parece que Mara está começando a organizar a vigilância prometida.
+
+Perto da lareira, dois trabalhadores de roupas gastas conversam em voz baixa. Entre o ruído das canecas, Eron distingue algumas palavras:
+
+— ...não é de hoje que aparecem laços perto daquele riacho.
+
+— Pois quem anda armando aquilo vai acabar arranjando problema — responde o outro.
+
+Eron não conhece os homens. Não há nada que comprove que tenham participado da instalação das armadilhas.
+
+Terminado o jantar, ele sobe a escada de madeira.
+
+### Quarto três — Aproximadamente 18h25
+
+O quarto individual é pequeno, mas limpo: uma cama de madeira com colchão de palha, cobertor grosso, bacia com água, uma cadeira e uma janela voltada para parte da aldeia.
+
+A porta possui uma tranca simples, e Eron está com a chave. Lá embaixo, ainda é possível ouvir vozes abafadas dos hóspedes.
+
+**Eron está em seu quarto, mas ainda não iniciou o descanso longo.**
+
+O que ele faz antes de dormir?
+
+**[LOG DE MEMÓRIA DA CAMPANHA]**
+- **Localização Atual:** Quarto individual nº 3 do Posto de Descanso de Alda Tress, Pouso das Três Fontes, aproximadamente às **18h25 do Dia 1**.
+- **NPCs Presentes e Relação:** Eron está sozinho no quarto; Alda e outros hóspedes permanecem no salão. Viu Iria Vento-Seco seguir em direção aos currais.
+- **Linha de Missão Ativa:** Proteger o rebanho de Mara, investigar os laços e retornar à loba pela manhã com comida e materiais de curativo. Recompensa de **12 PO ainda pendente**.
+- **Eventos Cruciais Ocorridos:** Hospedagem e jantar **pagos e realizados** por **1 PO e 3 PP**. **Percepção `1d20+7` → [17]+7=24**; Eron observou Iria e ouviu dois trabalhadores comentarem sobre laços antigos perto do riacho, sem identificar responsáveis. Recebeu a chave do quarto três e subiu. **Descanso longo ainda não iniciado.**
+- **Condições do Jogador:** Ladino 1, **12/12 PV**, **CA 16**, **25/300 XP**, **35 PO e 5 PP**, 19 flechas utilizáveis; quatro rações intactas e uma quase consumida, pele crua de coelho parcialmente danificada e duas orelhas. Sem condições ativas.
+
+**GitHub:** pagamento, percepção, transcrição literal, cronologia e ficha atualizados; commits confirmados.
