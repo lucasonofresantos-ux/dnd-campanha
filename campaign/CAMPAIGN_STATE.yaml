@@ -7,7 +7,7 @@ homebrew:
 advancement:
   method: experience_points
   milestones_do_not_grant_levels: true
-  current_total_xp: 125
+  current_total_xp: 175
   next_level_xp: 300
   rule: "Conceder XP por combate e ameaças resolvidas, investigação, exploração e desafios sociais substantivos; usar equivalências 2024, sem duplicação; registrar no XP_LOG.csv."
 character:
@@ -18,7 +18,7 @@ character:
   class_levels:
     Ladino: 1
   character_level: 1
-  xp_total: 125
+  xp_total: 175
   xp_next_level: 300
   hp_current: 12
   hp_max: 12
@@ -32,13 +32,13 @@ character:
   heroic_inspiration: true
   hit_dice_available: "1d8"
   money:
-    gold: 41
-    silver: 9
+    gold: 55
+    silver: 8
     copper: 7
   inventory_reference: character/ERON_RIVER_LEVEL_01.md
   carrying_all_owned_equipment: true
   carrying_weight_lb_recorded: 103.88
-  carrying_weight_note: "4,5 kg carne de corça restantes, demais materiais mantidos; carga abaixo de 180 lb."
+  carrying_weight_note: "Materiais da caça do Dia5 vendidos; carga abaixo de 180 lb, peso exato não aferido."
   carrying_capacity_lb: 180
   known_personal_item: "Marca da Bigorna Velada, pequeno disco familiar e bolsa de couro; uso desconhecido para Eron."
   untrained_owned_tool: "Ferramentas de Funileiro (propriedade, sem proficiência)"
@@ -134,14 +134,16 @@ character:
     useful_offal: "não aproveitados"
     preparation_result: "2d20kh1+5 [3,4] mantido 4+5=9; execução Python não comprovada, resultado narrativo preservado"
   harvested_roe_deer_day5:
-    fresh_meat_kg_approx: 4.5
+    fresh_meat_kg_approx: 0
     meat_offered_to_wolf_kg_approx: 4.5
-    raw_hide: "1 pele crua em bom estado"
+    meat_sold_kg_approx: 4.5
+    raw_hide: "vendida por 5 PP"
     antler_stems: 0
-    ears: 2
-    long_bones: 2
-    sinew_bundles: 1
-    useful_offal: "1 coração e 1 fígado frescos"
+    ears: 0
+    long_bones: 0
+    sinew_bundles: 0
+    useful_offal: "vendidos a Bram por 3 PP"
+    sale_total: "1 PO e 9 PP"
     preparation_result: "2d20kh1+5 [11,17] mantido 17+5=22; execução Python não comprovada, continuidade preservada"
   salt_supply:
     sacks: 1
@@ -154,21 +156,21 @@ character:
 campaign_time:
   calendar_system: "Asterion, dias relativos; nenhuma era/ano formal estabelecido"
   day: 5
-  time_of_day: "aproximadamente 10h05 do Dia 5"
+  time_of_day: "aproximadamente 11h55 do Dia 5"
   season: "final do outono"
-  elapsed_game_time: "Dia5 ~09h45–10h05 alimentação, exame e despedida da loba."
+  elapsed_game_time: "Dia5 ~10h05–11h55 retorno ao povoado, vendas e encerramento de contrato dos rebanhos."
 location:
   continent: Asterion
   polity: "Terras Livres de Avenhar (homebrew), fora de Valdren"
   area: "entroncamento da Estrada do Cascalho, próximo ao Pouso das Três Fontes"
   nearby: "encostas arborizadas da serra cujo monte mais alto é chamado Veyra"
-  exact_position: "Entrada da toca da loba, ravina conhecida"
-  travel_status: "Na toca, recuperação concluída e despedida."
+  exact_position: "Curral de Mara Telha, Pouso das Três Fontes"
+  travel_status: "No curral após vender materiais de caça e receber recompensa."
 scene:
   id: OPENING-001
-  status: "awaiting_player_action_after_wolf_recovery"
-  current_npcs_present: ["Loba recuperada", "Dois filhotes"]
-  immediate_visible_situation: "Dia5 ~09h45–10h05: Eron ofereceu metade dos 9 kg de carne (4,5 kg) à loba e aos filhotes. Dados naturais informados pelo jogador: Lidar com Animais 1d20+3 [14]+3=17, Medicina 1d20+3 [17]+3=20; sucessos. Exame confirma ferida completamente cicatrizada, mobilidade normal e sem dor aparente; nenhum medicamento ou curativo consumido. Loba e ambos os filhotes aceitam carinho voluntariamente; Eron despede-se, diz acreditar ser o último encontro e pede que não coma cabras. Animais reconhecem voz e gestos, sem compreender semanticamente ou garantir obediência. Recuperação concluída, independência de cuidados, animais selvagens. Restam 4,5 kg de carne de corça e demais materiais. Sem XP duplicado por cuidado; recompensa dos rebanhos pendente de confirmação com Mara, investigação opcional. PV12/12 CA16 XP125/300, saldo41PO9PP7PC, 20 flechas, 3 rações, kit9/10, sal200g. Auditoria: não há execução Python comprovada no histórico de ferramentas do turno [180]; preservar acontecimentos e inventário, marcar dados daquele turno como não verificados, sem rerrolagem retroativa."
+  status: "awaiting_player_action_after_herd_contract_resolution"
+  current_npcs_present: ["Mara Telha"]
+  immediate_visible_situation: "Dia5 ~10h05–11h55: Eron deixou a toca e retornou ao Pouso das Três Fontes. ~11h40 vendeu materiais restantes da caça do Dia5: Belda comprou pele crua de corça 5PP, feixe de tendões 1PP, dois ossos longos 5PC; Nessa comprou duas orelhas 5PC; Bram comprou coração 1PP, fígado 2PP e 4,5 kg carne fresca 9PP. Total 18PP+10PC=19PP=1PO9PP. Saldo 41PO9PP7PC passou para 43PO8PP7PC. Miúdos rejeitados da lebre antiga não vendidos, permanecem em posse, sem valor alimentar confirmado. Nenhuma rolagem ou XP por comércio. ~11h55 Eron encontrou Mara no curral e perguntou se alguma cabra virou janta. Mara confirmou três noites consecutivas sem perdas (Dia2–3, Dia3–4, Dia4–5), aceitou resolução não letal, pagou 12PO prometidas, encerrou contrato de proteção dos rebanhos e ofereceu ajuda futura não específica. Saldo final 55PO8PP7PC. +50 XP pela resolução substantiva e verificada do problema dos rebanhos, distinta dos primeiros socorros e neutralizações de laços já pontuados, não pela venda/pagamento ou mera repetição de cuidados. Total 175/300, nível1. Reputação com Mara: gratidão e respeito. Investigação opcional de Iria (5PO) permanece aberta, pegadas e arame desaparecido ainda sem autoria identificada. PV12/12 CA16, 20 flechas utilizáveis (19 na aljava e 1 reserva), 3 rações, sal200g, kit9/10, Inspiração Heroica disponível; projeto de 12 flechas pendente, 4h25 de trabalho. Nenhum novo teste."
   discovered_traps:
     - location: "Trilha dos Corcos, junto ao riacho"
       state: disarmed_safe_wire_left_at_tree
@@ -183,7 +185,8 @@ scene:
   rounds: 0
   dice_rolled: true
   xp_awarded: true
-  reward_offered_but_not_accepted: "12 PO de Mara, pagamento prometido Dia5 se noite Dia4–5 sem perdas; ainda pendente."
+  reward_offered_but_not_accepted: null
+  herd_contract_status: "Concluído Dia5 ~11h55; Mara confirmou três noites sem perdas, pagou 12 PO; +50 XP de resolução substantiva, reputação gratidão e respeito."
   investigation_offer: "5 PO por identificar responsável e apresentar evidências suficientes; Eron tentará sem compromisso de conclusão, oferta disponível; procurar Iria no posto da guarda ou currais."
 world:
   main_plotlines_independent:
@@ -197,8 +200,8 @@ world:
 transcription:
   character_creation_history: sessions/transcripts/SESSION_0001_FULL.md
   narrative_session: sessions/transcripts/SESSION_0002_FULL.md
-  last_saved_player_turn: "- Aqui vou te deixar metade da carne\nLidar com animais 14\nMedicina 17\nPara rever a para e fazer um carinho nela e nos filhotes que se aproximar\n- acho que hoje é nosso último encontro, vê se não come nenhuma cabra"
-  last_saved_dm_turn: "[182] MESTRE — alimentação, exame final, recuperação completa e despedida."
+  last_saved_player_turn: "Vou para cidade vender oque cacei e depois para a Mara\n- alguma cabra virou janta ou está tudo certo?"
+  last_saved_dm_turn: "[184] MESTRE — vendas, contrato dos rebanhos concluído, pagamento 12PO e 50XP."
 notes:
   - "Primeira resposta de cena será salva literalmente e sem revelar preparativos de dm."
   - "Nunca tratar a aprovação da ficha como XP, nem mudar recursos automaticamente."
