@@ -35,6 +35,8 @@
 
 - Eron dirigiu-se verbalmente à loba: “vai deixar eu ver esta pata machucada?”. Ela ergueu a cabeça, observou Eron, lambeu brevemente a pata e mudou de posição, deixando-a estendida sobre folhas secas; sem rosnado, mas ainda atenta. Inchaço e marca avermelhada circundante tornaram-se mais visíveis. Filhotes dormitam atrás da mãe. Eron permaneceu sentado a ~2 m, sem se aproximar, tocar, examinar diretamente ou curar; não se sabe se ela toleraria contato. Sem rolagem, tempo significativo, gastos ou XP.
 
+- Eron decidiu permanecer à entrada da toca até o meio da tarde (~15h), comendo e compartilhando almoço com a loba **sem acender fogo**. Comeu pão de viagem e carne seca da porção diária já aberta, reservando parte para a loba; ela aguardou a mão afastar-se antes de tomar o alimento. Durante cerca de três horas, a loba descansou, lambeu a pata ferida, cuidou dos filhotes; um filhote espreitou a entrada, foi chamado de volta. A loba tolera melhor movimentos tranquilos de Eron mas continua protegendo crias; ferimento inchado, sem tratamento, sem toque. Ainda Dia 1, ~15h. Rações: 4 porções intactas e 1 porção aberta bastante consumida; peso não mensurado. Descanso de várias horas, nenhum Dado de Vida utilizado, XP 0/300, sem combate ou rolagens novas.
+
 ## Índices
 - Estado: `CAMPAIGN_STATE.yaml`.
 - XP: `XP_LOG.csv`.
