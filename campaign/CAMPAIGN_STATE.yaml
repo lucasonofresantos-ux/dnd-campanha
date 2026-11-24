@@ -38,15 +38,15 @@ character:
   inventory_reference: character/ERON_RIVER_LEVEL_01.md
   carrying_all_owned_equipment: true
   carrying_weight_lb_recorded: 103.88
-  carrying_weight_note: "Peso de abertura 103.88lb; após consumo de alimentos, faixa e itens adquiridos (kit 10 usos, pote de unguento, ataduras), peso exato ainda não atualizado. Pele crua danificada e duas orelhas de coelho também incluídas."
+  carrying_weight_note: "Peso 103,88 lb da abertura era referência, com pequenas mudanças posteriores não pesadas. Dia2 adicionou aproximadamente 15 kg de carne, pele crua, miúdos, galhadas, tendões e dois ossos de corço, além de kit e curativos; peso combinado estimado ainda abaixo da capacidade de 180 lb; valor exato não aferido."
   carrying_capacity_lb: 180
   known_personal_item: "Marca da Bigorna Velada, pequeno disco familiar e bolsa de couro; uso desconhecido para Eron."
   untrained_owned_tool: "Ferramentas de Funileiro (propriedade, sem proficiência)"
   ammo:
-    shortbow_arrows_in_quiver: 19
+    shortbow_arrows_in_quiver: 18
     shortbow_arrows_fired_unrecovered: 0
-    shortbow_arrows_lost_unusable: 1
-    unrecovered_arrow_location: "Flecha extraída mas danificada e inutilizável; perdida na clareira"
+    shortbow_arrows_lost_unusable: 2
+    unrecovered_arrow_location: "Flecha do coelho Dia 1 danificada/inutilizada na clareira; flecha usada no corço Dia 2 não recuperável para reutilização (apenas uma munição disparada, metade recuperável arredondada para baixo = 0)."
   accommodation:
     inn: "Posto de Descanso de Alda Tress"
     private_room: 3
@@ -76,6 +76,18 @@ character:
     rabbit_ears: 2
     rabbit_meat: "toda a carne aproveitada entregue à loba e filhotes"
     source: "correção auditável da interpretação de saquear, sem reescrever o teste de Sobrevivência anterior"
+  harvested_roe_deer:
+    day: 2
+    source: "Corço adulto macho abatido perto da Trilha dos Corços"
+    fresh_meat_kg_approx: 10
+    raw_hide: "1 pele crua com pequeno furo da flecha; conservacao pendente"
+    short_antler_stems: 2
+    sinew_bundles: 1
+    long_bones: 2
+    useful_offal: "coracao e figado"
+    estimated_added_weight_kg: 15
+    condition: "materiais crus embalados para transporte; comecarao a se deteriorar sem conservacao"
+    preparation_result: "Sobrevivencia + Ferramentas de Coureiro com vantagem 2d20kh1+5 [1,19] mantido 19+5=24"
   animal_first_aid:
     wolf_forepaw: "fragmento metálico superficial removido, lavada com água do cantil e protegida por tira de roupa; ainda inchada, cicatrização pendente"
   looting_convention: "Ao dizer saquear um animal, Eron procura carne, couro/pele, orelhas, ossos, dentes e demais partes plausivelmente úteis ou vendáveis; ferramentas/proficiências pertinentes contam para adjudicar o rendimento, sem garantir sucesso ou preço."
@@ -83,21 +95,26 @@ character:
 campaign_time:
   calendar_system: "Asterion, dias relativos; nenhuma era/ano formal estabelecido"
   day: 2
-  time_of_day: "aproximadamente 08h05 do Dia 2, manhã"
+  time_of_day: "aproximadamente 08h55 do Dia 2, manhã"
   season: "final do outono"
-  elapsed_game_time: "~07h10 despedida de Olma; ~55min caminhada e rastreio pela trilha dos corços rumo a ravina; ~08h05"
+  elapsed_game_time: "Dia2 ~08h05: disparo de arco, caçada concluída; ~10min investigação das marcas e laço, ~40min separação e acondicionamento de carne/pele e outros produtos; ~08h55."
 location:
   continent: Asterion
   polity: "Terras Livres de Avenhar (homebrew), fora de Valdren"
   area: "entroncamento da Estrada do Cascalho, próximo ao Pouso das Três Fontes"
   nearby: "encostas arborizadas da serra cujo monte mais alto é chamado Veyra"
-  exact_position: "Trilha dos Corços junto a riacho, Eron oculto atrás de tronco com musgo, corço adulto a cerca de 20m"
-  travel_status: "Eron saiu da Casa das Ervas, segue em direção à toca da loba mas parou para rastrear caça; ainda não chegou à ravina"
+  exact_position: "Trilha dos Corços em bosque próximo ao riacho, junto ao local do corço abatido; laço de arame armado identificado na passagem estreita, mas não desativado."
+  travel_status: "Eron interrompeu retorno à toca para abater e saquear o corço e investigar as marcas de arame; carrega produtos de caça, ainda não voltou à loba."
 scene:
   id: OPENING-001
-  status: "awaiting_player_action_hidden_from_roe_deer"
+  status: "awaiting_player_after_roe_deer_harvest_and_discovery_of_active_snare"
   current_npcs_present: []
-  immediate_visible_situation: "Eron agradeceu Olma e declarou ir tratar loba e caçar no caminho, autorizando rolagens até encontrar caça. Script real dice_roller.py Python secrets.randbelow: Furtividade 1d20+9 d20[18]+9=27, Percepção 1d20+7 d20[19]+7=26, Sobrevivência 1d20+5 d20[16]+5=21; todos sucessos. Após ~55min desde ~07h10, encontrou rastros recentes de corço adulto perto do riacho na Trilha dos Corços e seguiu até clareira: corço castanho solitário vivo come folhas ~20m à frente, Eron oculto atrás de tronco com musgo, vento favorável, animal não o percebeu. Eron também notou pegadas de botas na lama e sulco estreito de aperto no tronco de árvore jovem junto ao riacho, sem prova de laço ativo ou culpado. Nenhum ataque ou abate, flecha disparada, carne obtida, XP, dinheiro ou itens usados; 19 flechas, Inspiração Heroica, kit10 usos, unguento e ataduras intactos; a toca da loba ainda à frente."
+  immediate_visible_situation: "Dia2 ~08h05 Eron oculto atrás de tronco a 20m do corço adulto usou arco curto com vantagem: 2d20kh1+7 → [8,9], maior9+7=16, acertou corço (CA13, PV4, 2024 Deer). Dano 2d6+5 → [2 arco,5 Ataque Furtivo]+5=12 perfurante, corço morto. Uma flecha consumida e sem recuperação reutilizável por regra munição 2024; 18 flechas utilizáveis. Depois Eron examinou marcas perto do riacho: Investigação 1d20+6 → [19]+6=25 e Percepção 1d20+7 → [3]+7=10. Determinou marcas de arame sob tensão em árvore jovem, estaca arrancada, rastros de solas grossas; viu um segundo laço de arame ARMADO entre folhas na trilha, conectado a haste flexível, evitou acioná-lo. Responsável e número de outros laços não determinados, laço AINDA ATIVO. Não percebeu outras pessoas ou movimento com Percepção10. Saque cuidadoso do corço com Ferramentas de Coureiro e Sobrevivência proficiente: 2d20kh1+5 → [1,19], manteve19+5=24; aproveitou aproximadamente 10kg carne fresca, 1 pele crua com pequeno furo da flecha, 2 hastes de galhada curta, 1 feixe de tendões, 2 ossos longos, coração e fígado, todos crus e carregados. Acondicionou em bagagem, necessita conservação, peso estimado ~15kg extra, sem exceder capacidade. ~08h55, nenhuma carne entregue ainda à loba, sem compras ou gastos médicos, sem XP por abate trivial. Eron pode agir em relação ao laço ativo, seguir à toca ou outros planos; 12PV, XP25/300, moedas31PO1PP, Inspiração Heroica, 18flechas, kit10 usos, unguento/ataduras intactos."
+  discovered_traps:
+    - location: "Trilha dos Corcos, junto ao riacho"
+      state: armed_not_disarmed
+      description: "segundo laco de arame escondido entre folhas ligado a haste de madeira flexivel, perto de marcas de botas e sulco de arame em arvore jovem"
+      owner_known_by_character: false
   combat: false
   initiative: []
   rounds: 0
@@ -116,8 +133,8 @@ world:
 transcription:
   character_creation_history: sessions/transcripts/SESSION_0001_FULL.md
   narrative_session: sessions/transcripts/SESSION_0002_FULL.md
-  last_saved_player_turn: "- obrigado, mas tenho que ir tentar tratar de uma loba ferida e ainda caçar algo no caminho\nPode rolar furtividade, percepção e sobrevivência até achar uma caça"
-  last_saved_dm_turn: "[070] MESTRE — 2026-11-23; Furtividade [18]+9=27, Percepção [19]+7=26, Sobrevivência [16]+5=21, corço vivo 20m e Eron oculto ~08h05 sem ataque; transcrição salva."
+  last_saved_player_turn: "Primeiro abater o corço, pode rolar o disparo e o dano e depois investigação e percepção para a armaldilha E claro vou saquear o corço"
+  last_saved_dm_turn: "[072] MESTRE — 2026-11-23; acerto 16 e dano12 (corço morto), Investigação25, Percepção10, saque de corço 24 com vantagem e ferramentas, laço ativo descoberto, 18 flechas; transcrição salva."
 notes:
   - "Primeira resposta de cena será salva literalmente e sem revelar preparativos de dm."
   - "Nunca tratar a aprovação da ficha como XP, nem mudar recursos automaticamente."
