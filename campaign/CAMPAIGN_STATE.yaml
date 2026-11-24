@@ -32,8 +32,8 @@ character:
   heroic_inspiration: true
   hit_dice_available: "1d8"
   money:
-    gold: 43
-    silver: 2
+    gold: 41
+    silver: 9
     copper: 7
   inventory_reference: character/ERON_RIVER_LEVEL_01.md
   carrying_all_owned_equipment: true
@@ -67,9 +67,9 @@ character:
     cost_gold: 1
     cost_silver: 3
     temporary_room_key: "chave de ferro do quarto 3, deverá ser devolvida ao encerrar hospedagem"
-    long_rest_started: true
-    long_rest_completed: true
-    rest_completion: "Dia4 ~06h00, descanso longo ao ar livre junto à toca, iniciado Dia3 ~21h20; hospedagem anterior não renovada nem chave devolvida."
+    long_rest_started: false
+    long_rest_completed: false
+    rest_completion: "Último descanso longo concluído Dia4 ~06h00; nova hospedagem paga para noite Dia4–5, descanso ainda não iniciado."
   medical_supplies:
     healer_kit:
       quantity: 1
@@ -84,7 +84,7 @@ character:
     starting_full_days: 5
     intact_full_days: 3
     partly_used_days: 0
-    food_offered: "Dia3 almoço encerrou ração parcial; jantar de lebre compartilhado, sem gastar rações; 3 intactas."
+    food_offered: "Dia4 almoço na ferraria e jantar na estalagem, sem gastar rações; 3 intactas."
   salvaged_materials:
     rabbit_raw_hide: "vendida a Belda Cortiça Dia 2 ~11h55"
     rabbit_ears: 0
@@ -144,21 +144,21 @@ character:
 campaign_time:
   calendar_system: "Asterion, dias relativos; nenhuma era/ano formal estabelecido"
   day: 4
-  time_of_day: "aproximadamente 18h00 do Dia 4"
+  time_of_day: "aproximadamente 18h35 do Dia 4"
   season: "final do outono"
-  elapsed_game_time: "Dia4 ~14h25–18h00 fabricação parcial de flechas."
+  elapsed_game_time: "Dia4 ~18h00–18h35 ida à estalagem, pagamento, jantar e Percepção."
 location:
   continent: Asterion
   polity: "Terras Livres de Avenhar (homebrew), fora de Valdren"
   area: "entroncamento da Estrada do Cascalho, próximo ao Pouso das Três Fontes"
   nearby: "encostas arborizadas da serra cujo monte mais alto é chamado Veyra"
-  exact_position: "Ferraria de Durnak Mão de Ferro, próxima à terceira fonte do Pouso das Três Fontes"
-  travel_status: "Na ferraria ao fechamento; projeto de flechas em andamento."
+  exact_position: "Salão do Posto de Descanso de Alda Tress, Pouso das Três Fontes"
+  travel_status: "No salão da estalagem; quarto 3 pago para esta noite."
 scene:
   id: OPENING-001
-  status: "awaiting_player_action_after_partial_arrow_crafting"
-  current_npcs_present: ["Durnak Mão de Ferro"]
-  immediate_visible_situation: "Dia4 ~14h25–18h00: Eron aceitou oferta de materiais para 20 flechas e pagou 4 PP; saldo 43PO2PP7PC. Informou 20 natural; referência Destreza/Entalhador +7 = 27, dado não exigido e sem efeito mecânico sobre tempo de fabricação. Mantidas 8h totais de fabricação rotineira segundo adjudicação anterior; Mestre permitiu conclusão individual proporcional, não aceleração por 20 natural. Trabalhou 215 min (3h35), concluiu 8 flechas utilizáveis (192 min), 23 min de progresso adicional no restante. Faltam 12 flechas e 265 min (4h25) de trabalho, materiais já pagos. Total 21 flechas utilizáveis: 20 na aljava, 1 reserva guardada separadamente. Durnak fecha às 18h, oferece retorno amanhã; fabricação interrompida por fechamento. Nenhum XP, dano, consumo de Inspiração ou ração; PV12/12 CA16 XP125/300. Local dos materiais restantes ainda não definido, não presumir transferência ou perda."
+  status: "awaiting_player_action_at_inn_day4_evening"
+  current_npcs_present: ["Alda Tress", "Mara Telha", "Iria Vento-Seco"]
+  immediate_visible_situation: "Dia4 ~18h00–18h35: Eron dirigiu-se à estalagem de Alda Tress, renovou hospedagem no quarto 3 por 1PO e jantou ensopado, pão e chá por 3PP; total 1PO3PP, saldo 41PO9PP7PC (anterior 43PO2PP7PC), chave anterior continua em posse, 3 rações intactas. Percepção autorizada, script Python de hash Git d35af70119bf684ea055619bb10678a1c4b03bbb efetivamente executado em container: 1d20+7 [10]+7=17. Ouviu Mara Telha informar a Iria duas noites sem perda de cabra, ainda recolhendo rebanho; Iria aconselhou continuar recolhimento antes de escurecer e disse desconhecer autoria dos laços. Carroças dos Mercadores do Cascalho não estão mais diante da estalagem, salão menos movimentado. Mara e Iria conversam próximas; Eron ainda no salão, descanso longo não iniciado, recompensa pendente, sem novo XP. Materiais das doze flechas pendentes de fabricação continuam de sua propriedade, localização não determinada."
   discovered_traps:
     - location: "Trilha dos Corcos, junto ao riacho"
       state: disarmed_safe_wire_left_at_tree
@@ -186,8 +186,8 @@ world:
 transcription:
   character_creation_history: sessions/transcripts/SESSION_0001_FULL.md
   narrative_session: sessions/transcripts/SESSION_0002_FULL.md
-  last_saved_player_turn: "- Eu sou rápido e aceito.\n20 natural para fazer as flechas antes as 18 hrs, vou fazer 20 flechas"
-  last_saved_dm_turn: "[172] MESTRE — materiais pagos, oito flechas concluídas, doze pendentes."
+  last_saved_player_turn: "Vou pegar um quarto e uma janta igual a última vez e vou pagar e pode rolar percepção para ver se pego algo na taverna"
+  last_saved_dm_turn: "[174] MESTRE — hospedagem, jantar e Percepção 17; relato de duas noites sem perdas."
 notes:
   - "Primeira resposta de cena será salva literalmente e sem revelar preparativos de dm."
   - "Nunca tratar a aprovação da ficha como XP, nem mudar recursos automaticamente."
