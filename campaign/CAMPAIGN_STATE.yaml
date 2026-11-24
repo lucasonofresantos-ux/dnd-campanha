@@ -64,23 +64,23 @@ character:
 campaign_time:
   calendar_system: "Asterion, dias relativos; nenhuma era/ano formal estabelecido"
   day: 1
-  time_of_day: "aproximadamente 17h50 do Dia 1, crepúsculo"
+  time_of_day: "aproximadamente 17h55 do Dia 1, início da noite"
   season: "final do outono"
-  elapsed_game_time: "~17h45 conversa com Mara sobre laço rompido e indicação da hospedaria; caminhada breve ~5min até Posto de Descanso; ~17h50"
+  elapsed_game_time: "~17h50 chegada ao Posto de Descanso; ~5min de conversa com Alda sobre preços, hospedagem e suprimentos; ~17h55"
 location:
   continent: Asterion
   polity: "Terras Livres de Avenhar (homebrew), fora de Valdren"
   area: "entroncamento da Estrada do Cascalho, próximo ao Pouso das Três Fontes"
   nearby: "encostas arborizadas da serra cujo monte mais alto é chamado Veyra"
-  exact_position: "salão do Posto de Descanso de Alda Tress, na aldeia Pouso das Três Fontes, junto ao balcão de hospedagem"
-  travel_status: "Eron conversou com Mara e seguiu até a hospedaria de Alda Tress; ainda não contratou quarto, jantou ou descansou"
+  exact_position: "salão do Posto de Descanso de Alda Tress, junto ao balcão com uma chave de ferro oferecida; nenhuma transação paga"
+  travel_status: "Eron permanece no Posto de Descanso; solicitou preços para quarto individual e jantar, e orientações de suprimentos; não recebeu chave nem iniciou descanso"
 scene:
   id: OPENING-001
-  status: "awaiting_player_lodging_choice_at_alda_tress"
+  status: "awaiting_player_after_private_room_and_dinner_price_quote"
   current_npcs_present:
     - Alda Tress
     - Viajantes não identificados no salão
-  immediate_visible_situation: "Eron disse a Mara que encontrou um laço rompido pela loba, incapaz de prender alguém naquele ponto, e quer dormir e amanhã buscar unguento e bandagens. Mara confirma que aquele laço não deve mais pegar ninguém, mas pode haver outros; pretende falar com Iria sobre isso (ainda não realizou). Recompensa 12PO permanece guardada até segurança verificável do rebanho. Mara indicou Posto de Descanso de Alda Tress para hospedagem e perguntou a ela por suprimentos ou indicação de vendedores. Após breve caminhada (~5min), Eron entrou no salão de madeira e pedra da hospedaria por volta de 17h50: mesas com viajantes, cheiro de ensopado, fogão, Alda Tress atrás de balcão (cabelos grisalhos coque). Alda oferece cama coletiva por 5 peças de prata por noite, jantar à parte, ou quarto individual de preço não dito. Eron ainda não escolheu, não pagou, não descansou nem comprou materiais. XP25/300; moedas36PO8PP."
+  immediate_visible_situation: "Eron disse que quer quarto individual e jantar, perguntou onde comprar unguento, ataduras ou kit de curandeiro e quanto custa tudo. Alda respondeu: quarto individual no andar de cima com cama, coberta, bacia e tranca, 1 PO/noite; jantar de ensopado, pão e água/chá, 3 PP. Total quarto + jantar 1 PO e 3 PP, mas Eron ainda não pagou, comeu nem recebeu chave (Alda segura chave no balcão). Alda indicou boticária Olma Ramo na Casa das Ervas próxima à segunda fonte, abre cedo amanhã, costuma oferecer remédios não mágicos e curativos, kit completo em estoque não garantido. Preços base estimados: unguento 3 PP, ataduras 2 PP, kit de curandeiro 5 PO (10 usos, SRD 2024); com desconto de Artesão 20% em itens não mágicos, preço potencial unguento 2 PP 4 PC, ataduras 1 PP 6 PC, kit 4 PO. Combinações previstas: quarto/jantar/kit 5 PO 3 PP; quarto/jantar/unguento/ataduras 1 PO 7 PP, sujeito a confirmação da vendedora. Não aplicar 20% a hospedagem e jantar como serviços. Nenhuma compra, pagamento, comida, sono, dano ou novo XP. ~17h55."
   combat: false
   initiative: []
   rounds: 0
@@ -99,8 +99,8 @@ world:
 transcription:
   character_creation_history: sessions/transcripts/SESSION_0001_FULL.md
   narrative_session: sessions/transcripts/SESSION_0002_FULL.md
-  last_saved_player_turn: "- sim encontrei e estava estourada pela loba, ela foi forte conseguiu se soltar, então no momento não vai pegar nada nem ninguém, agora vou dormir e amanhã de manhã tenho que conseguir unguento e bandagens, e onde posso arranjar um lugar para dormir hoje?"
-  last_saved_dm_turn: "[058] MESTRE — 2026-11-23; Mara reconhece laço rompido, indica hospedaria de Alda; Eron chegou ~17h50, cama coletiva 5 PP oferecida sem pagamento, transcrição salva."
+  last_saved_player_turn: "Vou querer o quarto individual e a janta também e onde consigo unguento e ataduras ou um kit de curandeiro? E claro quanto fica tudo"
+  last_saved_dm_turn: "[060] MESTRE — 2026-11-23; Alda cota quarto 1PO jantar3PP e indica boticária Olma Ramo; kit de curandeiro base5PO desconto Artesão→4PO, materiais alternativos; sem pagamento ou descanso; transcrição salva."
 notes:
   - "Primeira resposta de cena será salva literalmente e sem revelar preparativos de dm."
   - "Nunca tratar a aprovação da ficha como XP, nem mudar recursos automaticamente."
