@@ -5012,3 +5012,30 @@ Ela entrega as cinco moedas de ouro combinadas.
 - **Condições do Jogador:** 12/12 PV, CA 16, 225/300 XP, 60 PO, 8 PP e 7 PC, 20 flechas, 3 rações. Inspiração Heroica disponível.
 
 **GitHub:** transcrição, inventário, experiência, cronologia, estado e relógios atualizados; commits confirmados.
+
+## [191] JOGADOR
+
+ - um pouco mas tenho 
+
+## [192] MESTRE
+
+### Posto da Guarda — Dia 5, 15h45
+
+— Um pouco? Você encontrou um homem que vive nessas matas, seguiu seus passos sem ser descoberto e voltou com evidências, sem causar uma briga. Já vi guardas experientes fazerem menos.
+
+Iria enrola o pergaminho e o guarda numa gaveta.
+
+— Não temos muitos investigadores por estas bandas. Quando acontece alguma coisa fora do povoado, geralmente falta gente para averiguar.
+
+— Pretende permanecer no Pouso das Três Fontes por mais algum tempo ou está apenas de passagem?
+
+---
+
+**[LOG DE MEMÓRIA DA CAMPANHA]**
+- **Localização Atual:** Posto da Guarda, Dia 5, 15h45.
+- **NPCs Presentes e Relação:** Iria Vento-Seco, confiança profissional.
+- **Linha de Missão Ativa:** Nenhuma nova missão aceita.
+- **Eventos Cruciais Ocorridos:** Iria reconheceu a competência investigativa de Eron.
+- **Condições do Jogador:** 12/12 PV, CA 16, 225/300 XP, 60 PO, 8 PP e 7 PC, 20 flechas, 3 rações. Inspiração Heroica disponível.
+
+**GitHub:** transcrição, cronologia, estado e relógios atualizados; commits confirmados.
