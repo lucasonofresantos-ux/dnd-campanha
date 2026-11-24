@@ -38,7 +38,7 @@ Os dados originais do método 4d6 descartando o menor são 12, 18, 15, 15, 16, 1
 - **Percepção passiva: 17** = 10 + Percepção +7, com Especialização.
 - **Capacidade de carga: 180 lb** = FOR 12 ×15 lb (aprox. 81,65 kg).
 - **Peso de inventário contabilizado: 103,88 lb** (aprox. 47,12 kg). Margem 76,12 lb; não inclui eventuais pequenos objetos pessoais sem peso determinado.
-- **Dinheiro disponível: 35 PO e 5 PP**. Não confundir PP (peças de prata, neste registro) com platina; cada 10 PP = 1 PO.
+- **Dinheiro disponível: 31 PO e 1 PP**. Não confundir PP (peças de prata, neste registro) com platina; cada 10 PP = 1 PO.
 - **Condições / danos:** nenhum registrado até o fim da criação; não inventar efeitos ou ferimentos.
 
 ## Testes de resistência
@@ -235,3 +235,9 @@ Especializações do Ladino de nível 1: **Furtividade e Percepção**, dobram p
 - Três testes executados com script Python `dice_roller.py`, `secrets.randbelow`: Furtividade `1d20+9` → [18]+9=27; Percepção `1d20+7` → [19]+7=26; Sobrevivência `1d20+5` → [16]+5=21.
 - Após ~55min e seguindo rastros recentes encontrou **corço adulto vivo a ~20m** numa clareira, sem perceber Eron oculto atrás de tronco com musgo. Observou marcas de botas na lama e sulco estreito em árvore jovem perto do riacho, sem identificar origem.
 - **Nenhum disparo, abate, coleta, refeição ou tratamento realizado.** PV12/12, XP25/300, saldo31PO1PP, 19 flechas, Inspiração Heroica disponível e kit 10 usos, pomada e ataduras sem uso.
+
+### Dia 2 ~08h05–08h55 — corço abatido, investigação e saque
+- Eron estava oculto a 20 m do corço adulto. Ataque de arco curto com vantagem: `2d20kh1+7` → d20 **[8,9]**, mantido 9+7=**16**, acerto contra CA13. Dano incluindo Ataque Furtivo: `2d6+5` → **[2 (arco),5 (furtivo)]+5=12 perfurante**, matou o corço (bloco Deer SRD2024, 4PV). **1 flecha disparada e não reutilizável**, pela recuperação arredondada para baixo com somente uma munição. **18 flechas utilizáveis** no inventário, 2 flechas perdidas/inutilizáveis acumuladas desde abertura.
+- Marcas de botas e sulco de arame na árvore perto do riacho: **Investigação `1d20+6` [19]+6=25**, sucesso; identificou estaca arrancada, vestígio de amarração de arame e **outro laço de arame ARMADO na passagem de animais**, escondido entre folhas, ligado a haste flexível. **Não desativou**, não acionou, não identificou o autor. **Percepção `1d20+7` [3]+7=10** não revelou outra pessoa ou movimento.
+- Saque do corço com Ferramentas de Coureiro e Sobrevivência: vantagem aplicável a perícia e ferramenta ambas proficientes, `2d20kh1+5` → dados **[1,19]**, mantido 19+5=**24**, sucesso. Coletou e acondicionou **~10 kg de carne fresca; 1 pele crua de corço (pequeno furo da flecha), 2 hastes de galhada curta, 1 feixe de tendões, 2 ossos longos, coração e fígado**. Produtos todos **crus, sem conservação, tratamento ou avaliação de preço**; estimativa aproximada de +15 kg de carga, abaixo da capacidade de 180lb. Alguns restos não úteis permanecem na mata.
+- ~08h55 Dia2, retorno à loba ainda não realizado, nenhum curativo consumido, XP25/300 (abate de caça comum não rende XP), 12/12PV, 31PO1PP, Inspiração Heroica disponível, kit10 usos, unguento e ataduras intactos.
