@@ -49,6 +49,8 @@
 
 - Eron disse à loba que buscaria alimento e pediu que não saísse; deixou-a com dois filhotes na toca sem compromisso verificável de obediência. Entrou na mata em tentativa de caçar, autorizando novos testes, executados com o script real da campanha em Python (`secrets.randbelow`): **Sobrevivência 1d20+5 → [1]+5=6**, falhou seguir um rastro confiável de caça maior; **Furtividade 1d20+9 → [11]+9=20**, manteve ocultação; **Percepção 1d20+7 → [9]+7=16**, percebeu um coelho selvagem por acaso junto de clareira. Após ~20-25 min, Eron oculto atrás de tronco caído, coelho a ~18 m ainda não percebe Eron. Arco disponível, 20 flechas, nenhum disparo, captura, morte ou alimento adquirido. ~15h25 do Dia 1, sem XP, dano ou gasto.
 
+- Eron disparou arco curto contra coelho selvagem que pastava a ~18 m e ainda não o percebia. Rolagem Python real com vantagem: **2d20kh1+7 → [2,10], manteve 10 +7=17**, acerto. Dano **2d6+5 → [4,3]+5=12** (1d6 arco 4, +5 DES, 1d6 Ataque Furtivo 3), abatendo o coelho. Uma flecha ficou alojada na presa; 19 restantes na aljava. Animal abatido e flecha permanecem a 18 m na clareira, não recolhidos. XP 0/300, nenhuma carne obtida em inventário, nenhum dano. ~15h25 do Dia 1.
+
 ## Índices
 - Estado: `CAMPAIGN_STATE.yaml`.
 - XP: `XP_LOG.csv`.
