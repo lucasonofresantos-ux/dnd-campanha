@@ -128,7 +128,7 @@ scene:
   id: OPENING-001
   status: "awaiting_player_action_at_wolf_den_day3"
   current_npcs_present: ["Loba ferida", "Dois filhotes"]
-  immediate_visible_situation: "Dia 3 ~09h55–10h15: dados naturais informados pelo jogador, Lidar com Animais 1d20+3 [16]+3=19 e Medicina 1d20+3 [18]+3=21, ambos sucessos. Loba permitiu exame e retirada da faixa antiga. Inchaço consideravelmente reduzido, ferida quase fechada, sem secreção visível ou mau cheiro; não garante ausência de infecção. Eron limpou região, aplicou uma pequena porção de unguento e utilizou atadura do kit de curandeiro, consumindo 1 uso como material físico de curativo, não como estabilização ou cura mecânica; kit 9/10, unguento parcialmente cheio, ataduras avulsas zero. Acariciou pescoço, loba relaxou e repousou cabeça perto da perna de Eron; filhote farejou bota. Confiança elevada, não domesticação. Nenhum XP adicional pelo tratamento repetido, dano ou outro recurso gasto. Permanecem 6 kg de carne, 15 flechas, 33PO3PP3PC, PV12/12, CA16, XP50/300 e Inspiração Heroica."
+  immediate_visible_situation: "Dia 3 ~10h15: Eron perguntou à loba pela matilha. Ela reagiu ao tom, farejou o vento, observou a encosta e voltou aos filhotes; nenhum uivo ouvido. Nenhuma direção ou existência de matilha confirmada. Oferecido teste opcional de Sobrevivência +5 para investigar rastros; não rolado. Sem alteração de recursos, tempo significativo ou XP."
   discovered_traps:
     - location: "Trilha dos Corcos, junto ao riacho"
       state: disarmed_safe_wire_left_at_tree
@@ -152,8 +152,8 @@ world:
 transcription:
   character_creation_history: sessions/transcripts/SESSION_0001_FULL.md
   narrative_session: sessions/transcripts/SESSION_0002_FULL.md
-  last_saved_player_turn: "Lidar com animais 16\nMedicina 18\nPara tratar da pata e todo o necessário e depois faço um carinho nela"
-  last_saved_dm_turn: "[124] MESTRE — tratamento bem-sucedido, kit 9/10, carinho e recuperação gradual."
+  last_saved_player_turn: "- boa menina, boa menina, agora para onde está a sua matilha?"
+  last_saved_dm_turn: "[126] MESTRE — reação da loba à fala; investigação opcional da matilha, sem rolagem."
 notes:
   - "Primeira resposta de cena será salva literalmente e sem revelar preparativos de dm."
   - "Nunca tratar a aprovação da ficha como XP, nem mudar recursos automaticamente."
