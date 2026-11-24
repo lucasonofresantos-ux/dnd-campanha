@@ -280,3 +280,5 @@ Dia 2 ~12h05: Eron visitou Bram Cutelo, açougueiro, que ofereceu 2 PP pelo fíg
 
 
 Dia 2 ~12h10: Eron aceitou as duas ofertas; Nessa recebeu duas orelhas de coelho e pagou 3 PC; Bram recebeu coração e fígado de corço e pagou 3 PP. Saldo 32 PO, 3 PP, 3 PC. Materiais de caça esgotados; saco de sal ~1 kg mantido. Eron no açougue de Bram. Nenhum XP, dano, gasto ou teste novo.
+
+Dia 2 ~14h30–16h10: Eron apresentou-se a Durnak e reparou as duas enxadas. Dado natural 14 informado pelo jogador; Força (Ferramentas de Ferreiro) 1d20+3=17, sucesso. Seis ferraduras e duas enxadas concluídas e aprovadas; Durnak pagou 1 PO e dispensou Eron antes das 18h. Saldo 33 PO, 3 PP, 3 PC. Possibilidade de encomendas amanhã, sem contrato novo. Durnak perguntou se Eron aprendeu com anões. Sem XP novo por trabalho rotineiro, dano ou gasto de materiais próprios.
