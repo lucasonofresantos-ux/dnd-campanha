@@ -51,7 +51,7 @@ character:
 campaign_time:
   calendar_system: "Asterion, dias relativos; nenhuma era/ano formal estabelecido"
   day: 1
-  time_of_day: "perto do meio-dia"
+  time_of_day: "aproximadamente meio-dia (12h aproximadas, sem relógio consultado)"
   season: "final do outono"
   elapsed_game_time: "cerca de uma hora e doze minutos desde a conversa junto ao curral; mais poucos minutos oferecendo e comendo carne à entrada da toca, perto do meio-dia"
 location:
@@ -84,8 +84,8 @@ world:
 transcription:
   character_creation_history: sessions/transcripts/SESSION_0001_FULL.md
   narrative_session: sessions/transcripts/SESSION_0002_FULL.md
-  last_saved_player_turn: "Tiro mais um pedaço de carne seca como um pedaço e o restante ofereço para ela\n- aqui garota mais um pouco para você "
-  last_saved_dm_turn: "[024] MESTRE — 2026-11-23; segundo oferecimento de carne, Eron come parte e loba recebe resto; transcrição salva"
+  last_saved_player_turn: "Que horas que é?"
+  last_saved_dm_turn: "[026] MESTRE — 2026-11-23; informa horário aproximado (meio-dia), sem avanço; transcrição salva"
 notes:
   - "Primeira resposta de cena será salva literalmente e sem revelar preparativos de dm."
   - "Nunca tratar a aprovação da ficha como XP, nem mudar recursos automaticamente."
