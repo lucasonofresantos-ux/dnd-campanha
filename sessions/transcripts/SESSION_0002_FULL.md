@@ -1830,3 +1830,86 @@ Uma brisa fria atravessa a ravina. A mãe fecha parcialmente os olhos, repousand
 - **Condições do Jogador:** Ladino 1, **12/12 PV**, **CA 16**, **50/300 XP**, **31 PO e 1 PP**, Inspiração Heroica disponível e **18 flechas utilizáveis**. Aproximadamente **8 kg de carne fresca de corço**, quatro rações intactas, materiais crus da caça, unguento parcialmente usado, ataduras avulsas esgotadas, kit de curandeiro **10/10 usos** e chave temporária do quarto 3. Sem condições ativas.
 
 **GitHub:** transcrição literal, cronologia e estado da campanha atualizados; commits confirmados.
+
+## [081] JOGADOR — 2026-11-23
+
+Vou deixar o resto da carne do corso com ela e vou para a cidade ver oque consigo pelo que tirei do corso e do coelho
+Pode rolar percepção e furtividade para o caminho de volta
+
+## [082] MESTRE — 2026-11-23
+
+### Ravina da loba — Dia 2, 10h25
+
+Eron retira os **8 kg restantes de carne fresca de corço** de sua bagagem e os deixa sobre uma pedra protegida do sol, perto da entrada da toca.
+
+A loba ergue a cabeça, fareja a carne e observa Eron se afastar. Um dos filhotes se aproxima dos alimentos, mas a mãe o detém com o focinho antes de começar a separar mais alguns pedaços. A carne deverá sustentá-los por algum tempo, embora não possa ser conservada indefinidamente.
+
+Eron segue de volta ao Pouso das Três Fontes, carregando as peles, galhadas, tendões, ossos e miúdos aproveitados na caça.
+
+### Testes — Caminho de volta
+
+<grid columns={2} gap={3}>
+  <grid-item>
+    <box border radius="lg" padding={3} gap={1}>
+      <text color="secondary" weight="medium" size="xs">Furtividade +9</text>
+      <title size="2xl" color="success" tabularNums>27</title>
+      <caption>`1d20+9` → [18] + 9</caption>
+    </box>
+  </grid-item>
+  <grid-item>
+    <box border radius="lg" padding={3} gap={1}>
+      <text color="secondary" weight="medium" size="xs">Percepção +7</text>
+      <title size="2xl" color="success" tabularNums>26</title>
+      <caption>`1d20+7` → [19] + 7</caption>
+    </box>
+  </grid-item>
+</grid>
+
+Eron avança silenciosamente pela mata. Seus olhos identificam rastros de animais pequenos nas margens do caminho e, perto do riacho, o local onde desarmou o laço. **O arame continua fora da passagem, como ele o deixou.**
+
+Mais adiante, ouve machadadas distantes, vindas da direção de uma encosta arborizada. Não distingue o lenhador entre as árvores e não encontra ninguém que tente interceptá-lo. O restante do caminho transcorre sem incidentes.
+
+### Pouso das Três Fontes — Aproximadamente 11h50
+
+O pequeno mercado da aldeia está movimentado. Alguns moradores negociam legumes, utensílios, lenha e peles.
+
+O cheiro de couro cru leva Eron até uma oficina aberta, onde uma mulher robusta, de cabelos castanhos presos, raspa uma pele estendida sobre um cavalete. Uma placa informa: **Couros e Correias — Belda Cortiça**.
+
+Ao ver os materiais que Eron traz, ela interrompe o trabalho.
+
+— Caçou um corço? Mostre o que aproveitou.
+
+Belda examina as duas peles e os demais componentes.
+
+— A de corço foi bem retirada. Tem um furinho de flecha, mas dá para trabalhar. A de coelho está mais danificada. Pago pelo material cru, porque ainda vou precisar conservar, curtir e preparar tudo.
+
+### Oferta de Belda
+
+| Material | Valor oferecido |
+|---|---:|
+| Pele crua de corço | 5 PP |
+| Pele danificada de coelho | 5 PC |
+| Duas hastes de galhada | 2 PP |
+| Feixe de tendões | 1 PP |
+| Dois ossos longos | 5 PC |
+| Duas orelhas de coelho | Sem interesse |
+| **Total oferecido** | **9 PP** |
+
+<text color="secondary" size="xs">PP = peças de prata; PC = peças de cobre. Avaliação comercial local, não preço oficial tabelado. Os materiais ainda pertencem a Eron.</text>
+
+— **Nove pratas por esse lote**, viajante. Coração e fígado não são coisas que compro; talvez consiga alguma coisa com o açougueiro, se ainda estiverem frescos.
+
+Belda cruza os braços e espera.
+
+— E então, temos negócio?
+
+**Eron pode aceitar a oferta, tentar negociar ou procurar outro comprador. Nenhum material foi vendido ainda.**
+
+**[LOG DE MEMÓRIA DA CAMPANHA]**
+- **Localização Atual:** Oficina Couros e Correias de Belda Cortiça, no mercado do Pouso das Três Fontes, aproximadamente às **11h50 do Dia 2**.
+- **NPCs Presentes e Relação:** Belda Cortiça, coureira que examinou os materiais de caça de Eron e fez uma proposta de compra. A loba e os filhotes ficaram na toca.
+- **Linha de Missão Ativa:** Obter recursos com os produtos da caça; continuar acompanhando a recuperação da loba e evitar novas perdas no rebanho de Mara. Recompensa de **12 PO ainda pendente**.
+- **Eventos Cruciais Ocorridos:** Eron deixou os **8 kg restantes de carne de corço** na toca, somando aproximadamente 10 kg entregues à loba e aos filhotes. Rolagens **Furtividade [18]+9=27** e **Percepção [19]+7=26**. Encontrou o laço anteriormente desarmado ainda inerte e ouviu machadadas distantes. Belda ofereceu **9 PP** pelo conjunto de peles, galhadas, tendões e ossos; não demonstrou interesse nas orelhas, nem compra os miúdos. **Nenhuma venda realizada.**
+- **Condições do Jogador:** Ladino 1, **12/12 PV**, **CA 16**, **50/300 XP**, **31 PO e 1 PP**, Inspiração Heroica disponível, **18 flechas utilizáveis**. Possui a pele de corço, pele danificada de coelho, duas hastes de galhada, tendões, dois ossos longos, coração e fígado de corço, duas orelhas de coelho; **sem carne fresca de corço no inventário**. Quatro rações intactas, kit de curandeiro **10/10 usos**, unguento parcialmente usado, nenhuma atadura avulsa limpa e chave temporária do quarto 3. Sem condições ativas.
+
+**GitHub:** rolagens, deslocamento, consumo do estoque de carne, avaliação comercial, transcrição literal e estado atualizados; commits confirmados.
