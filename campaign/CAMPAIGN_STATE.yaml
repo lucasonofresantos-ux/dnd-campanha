@@ -47,7 +47,7 @@ character:
     intact_full_days: 4
     partly_used_days: 1
     food_offered: "primeiro pedaço à loba; segundo dividido entre Eron e loba; no almoço Eron comeu pão de viagem e carne seca e compartilhou parte da ração aberta com a loba. Quatro porções intactas, uma aberta bastante consumida; quantidade restante não medida."
-  animal_handling_last: "1d20+3 → [17] +3=20; segundo teste, permanência calma por ~10 minutos na entrada, maior tolerância, sem domar nem permitir toque"
+  animal_handling_last: "1d20+3 → [12] +3=15; terceiro teste, leitura atual da tolerância da loba após horas junto à toca; não houve toque ou tratamento"
 campaign_time:
   calendar_system: "Asterion, dias relativos; nenhuma era/ano formal estabelecido"
   day: 1
@@ -63,9 +63,9 @@ location:
   travel_status: "Eron permaneceu no local até aproximadamente 15h, descansando, almoçando e dividindo ração sem acender fogo; não entrou na toca nem tocou loba/filhotes"
 scene:
   id: OPENING-001
-  status: awaiting_player_action_at_den_15h
+  status: awaiting_player_action_after_animal_handling_15
   current_npcs_present: []
-  immediate_visible_situation: "Eron escolheu permanecer sentado na entrada até o meio da tarde (aprox. 15h), sem fogo. Almoçou pão de viagem e carne seca da porção diária já aberta; dividiu parte da comida com a loba, que aceitou quando sua mão se afastou. Ao longo de cerca de 3h, loba descansou, lambeu a pata e cuidou de dois filhotes; um espreitou entrada, foi chamado de volta. Agora deitada perto da boca da toca, mais habituada a movimentos tranquilos de Eron, mas protetora. Ferimento continua inchado, sem exame por toque ou tratamento. Sem combate, novas rolagens ou XP. 4 porções intactas + 1 aberta bastante consumida. Descanso sedentário de cerca de 3h, sem gastos de Dados de Vida."
+  immediate_visible_situation: "Às ~15h, Eron pediu terceiro Lidar com Animais +3 (sem declarar nova aproximação): resultado real Python [12] +3 = 15, sucesso moderado para avaliar tolerância atual. Ele movimentou as mãos devagar de onde estava; loba ergueu as orelhas e acompanhou, mas não rosnou nem se levantou. Quando filhote mexeu, voltou atenção imediatamente à cria. Ainda tolera presença de Eron, mas não permite automaticamente toque ou tratamento; Eron permanece a ~2m da entrada, não avançou. Rações 4 intactas e 1 aberta muito consumida, sem novos gastos, XP 0, combate não iniciado."
   combat: false
   initiative: []
   rounds: 0
@@ -84,8 +84,8 @@ world:
 transcription:
   character_creation_history: sessions/transcripts/SESSION_0001_FULL.md
   narrative_session: sessions/transcripts/SESSION_0002_FULL.md
-  last_saved_player_turn: "Não vou sair daqui até meia tarde mas vou almoçar e dividir o almoço com ela sem acender o fogo"
-  last_saved_dm_turn: "[030] MESTRE — 2026-11-23; Eron repousou na toca, compartilhou almoço e avançou até ~15h, transcrição salva"
+  last_saved_player_turn: "Role lidar com animais "
+  last_saved_dm_turn: "[032] MESTRE — 2026-11-23; novo Lidar com Animais [12]+3=15, loba tolera gestos lentos sem permitir toque, transcrição salva"
 notes:
   - "Primeira resposta de cena será salva literalmente e sem revelar preparativos de dm."
   - "Nunca tratar a aprovação da ficha como XP, nem mudar recursos automaticamente."
