@@ -113,9 +113,9 @@ location:
   travel_status: "No mercado; vendeu todos os materiais da caça restantes; possui saco de sal."
 scene:
   id: OPENING-001
-  status: "awaiting_player_action_after_market_sales"
+  status: "awaiting_player_response_to_bram_about_smithing"
   current_npcs_present: ["Bram Cutelo"]
-  immediate_visible_situation: "Dia 2 ~12h10: Eron aceitou as duas ofertas; Nessa recebeu duas orelhas de coelho e pagou 3 PC; Bram recebeu coração e fígado de corço e pagou 3 PP. Saldo 32 PO, 3 PP, 3 PC. Materiais de caça esgotados; saco de sal ~1 kg mantido. Eron no açougue de Bram. Nenhum XP, dano, gasto ou teste novo."
+  immediate_visible_situation: "Dia 2 ~12h10: Eron perguntou a Bram onde encontrar trabalho como ferreiro ou em outro ofício. Bram indicou ferraria próxima à terceira fonte, ocupada com ferraduras e ferramentas para o inverno, mercadores que precisam carregar carroças e Alda como possível fonte de informações sobre escoltas. Nenhum contrato garantido ou aceito. Bram perguntou se Eron aprendeu o ofício com mestre ou trabalha por conta própria; aguarda resposta. Nenhum recurso ou tempo significativo alterado."
   discovered_traps:
     - location: "Trilha dos Corcos, junto ao riacho"
       state: disarmed_safe_wire_left_at_tree
@@ -139,8 +139,8 @@ world:
 transcription:
   character_creation_history: sessions/transcripts/SESSION_0001_FULL.md
   narrative_session: sessions/transcripts/SESSION_0002_FULL.md
-  last_saved_player_turn: "Revise a transcrição e faça"
-  last_saved_dm_turn: "[090] MESTRE — vendas concluídas; saldo 32PO3PP3PC. Mensagens 084 e 086 restauradas literalmente; manutenção 091/092 em registro."
+  last_saved_player_turn: "- onde aqui encontro algum trabalho? Seja de ferreiro ou outro"
+  last_saved_dm_turn: "[094] MESTRE — Bram indica ferraria, carga de carroças e Alda; pergunta sobre formação de Eron."
 notes:
   - "Primeira resposta de cena será salva literalmente e sem revelar preparativos de dm."
   - "Nunca tratar a aprovação da ficha como XP, nem mudar recursos automaticamente."
