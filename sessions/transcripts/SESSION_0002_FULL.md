@@ -7032,3 +7032,45 @@ Você está diante da porta de manutenção, com a lanterna acesa. O corredor pr
 - **Inventário:** Marca da Bigorna Velada na bolsa; lanterna com 4h45 de autonomia restante e 6 frascos de óleo em reserva.
 
 **GitHub:** transcrição, rolagens, cronologia e estado atualizados; commits confirmados.
+
+## [263] JOGADOR
+
+Pode rolar oque precisa para abrir a porta
+
+## [264] MESTRE
+
+### Monte Veyra — Dia 6, 15h26
+
+Você gira cuidadosamente a maçaneta.
+
+*Clac.*
+
+A porta não estava trancada. Ela se abre para dentro, com um leve rangido das dobradiças. Nenhuma rolagem é necessária.
+
+Ao erguer a lanterna, você ilumina um recinto de aproximadamente cinco por quatro metros. O ambiente lembra uma pequena oficina de manutenção abandonada.
+
+Através da abertura, você consegue distinguir:
+
+- **Uma bancada de pedra**, com ferramentas metálicas cobertas de poeira.
+- **Três armários metálicos**, com portas fechadas.
+- **Uma estante**, contendo engrenagens, eixos e componentes de diferentes dimensões.
+- **Uma placa de metal gravada**, fixada na parede acima da bancada.
+- **Uma caixa retangular**, contendo peças cristalinas semelhantes às encontradas nas canaletas.
+
+O cheiro de metal oxidado predomina no ambiente. Nenhuma criatura ou movimento é perceptível.
+
+Você permanece no limiar da porta, sem ter tocado nos objetos ou entrado no recinto.
+
+---
+
+**[LOG DE MEMÓRIA DA CAMPANHA]**
+- **Localização atual:** Limiar da oficina de manutenção, Dia 6, 15h26.
+- **NPCs presentes:** Nenhum avistado.
+- **Missão ativa:** Exploração do Monte Veyra.
+- **Eventos cruciais:** Porta de manutenção aberta sem necessidade de teste; oficina localizada.
+- **Condições:** 12/12 PV | CA 16 | 275/300 XP. Inspiração Heroica disponível.
+- **Inventário:** Marca da Bigorna Velada na bolsa; lanterna com 4h44 de autonomia e 6 frascos de óleo em reserva.
+
+**Auditoria:** não há execução Python comprovada para as cinco rolagens dos dois turnos anteriores. Registros corrigidos, acontecimentos preservados. Nenhuma rolagem nova neste turno.
+
+**GitHub:** transcrição, cronologia, estado e auditoria atualizados; commits confirmados.
