@@ -70,6 +70,8 @@
 
 - **Noite Dia 1 e manha Dia 2 (~18h25 a ~07h):** Eron trancou quarto 3, lavou-se na bacia, dormiu aproximadamente de 19h15 a 06h30 e concluiu Descanso Longo. Recebeu Inspiracao Heroica por Engenhoso (Humano 2024), PV mantidos 12/12, 1d8 nao gasto, sem consumir racao nem gastar dinheiro. No caminho a Casa das Ervas solicitou e autorizou Percepcao: rolagem real Python secrets.randbelow d20 [11]+7=18. Viu Iria com arco conversando com Mara nos currais e cabras recolhidas, mas nao ouviu o assunto nem apurou perdas noturnas. Por volta de 07h Dia2 chegou a Casa das Ervas junto a segunda fonte, onde Olma Ramo organiza frascos e pergunta se precisa de remedio para ele ou outra pessoa. Nenhuma compra; chave temporaria quarto3 ainda com Eron. XP25/300, 35PO5PP, 19 flechas.
 
+- **Dia 2, ~07h05:** Eron disse a Olma Ramo que precisa de kit de curandeiro para evitar possível infecção na pata de um lobo. Olma reagiu com surpresa, mas sem hostilidade, e explicou que kit de curandeiro não impede infecção automaticamente (regra SRD 5.2.1: estabiliza criatura inconsciente a 0 PV sem Medicina, 10 usos). Verificou e exibiu **1 kit completo disponível**, com unguento suave e ataduras limpas adicionais. Preços para Eron com desconto Artesão 20%: **kit 4 PO**, **unguento 2 PP 4 PC**, **ataduras 1 PP 6 PC**, conjunto **4 PO 4 PP**. Olma perguntou se ferida permanece aberta, quente/inchada ou com secreção, aguardando resposta. Sem pagamento ou entrega dos produtos e sem rolagens, mudança de XP, inventário ou recursos.
+
 ## Índices
 - Estado: `CAMPAIGN_STATE.yaml`.
 - XP: `XP_LOG.csv`.
