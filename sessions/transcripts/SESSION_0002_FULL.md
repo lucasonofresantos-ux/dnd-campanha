@@ -2270,3 +2270,32 @@ Bram observa as ferramentas que Eron carrega.
 - **Condições do Jogador:** 12/12 PV, CA 16, 50/300 XP, 32 PO, 3 PP e 3 PC. Inspiração Heroica disponível.
 
 **GitHub:** transcrição, cronologia e estado atualizados; commits confirmados.
+
+## [095] JOGADOR
+
+- aprendi na vida, mas vou para ferraria muito obrigado
+
+## [096] MESTRE
+
+### Ferraria da terceira fonte — Dia 2, 12h20
+
+— Boa sorte, rapaz! — responde Bram, antes de voltar ao trabalho.
+
+Seguindo pela rua de terra batida, Eron passa pela terceira fonte e logo escuta o som ritmado de um martelo contra uma bigorna. A ferraria é uma construção de pedra e madeira, com uma chaminé larga e um telhado escurecido pela fuligem. Sob a cobertura externa estão empilhadas barras de ferro, ferramentas agrícolas danificadas e algumas ferraduras prontas.
+
+Um anão de barba castanha, entremeada de fios grisalhos, trabalha junto à forja. Seus braços são marcados por antigas queimaduras. Ao perceber a chegada de Eron, mergulha uma peça de ferro num recipiente de água, levantando uma nuvem de vapor.
+
+— Boa tarde. Sou **Durnak Mão de Ferro**. Veio encomendar alguma coisa ou precisa de um conserto?
+
+Ele deposita a tenaz sobre a bancada e aguarda.
+
+---
+
+**[LOG DE MEMÓRIA DA CAMPANHA]**
+- **Localização Atual:** Ferraria da terceira fonte, Pouso das Três Fontes.
+- **NPCs Presentes e Relação:** Durnak Mão de Ferro, ferreiro anão, recém-conhecido.
+- **Linha de Missão Ativa:** Busca de trabalho, recuperação da loba e investigação dos laços.
+- **Eventos Cruciais Ocorridos:** Chegada à ferraria. Nenhum trabalho contratado.
+- **Condições do Jogador:** 12/12 PV, CA 16, 50/300 XP, 32 PO, 3 PP e 3 PC. Inspiração Heroica disponível.
+
+**GitHub:** transcrição, cronologia e estado atualizados; commits confirmados.
