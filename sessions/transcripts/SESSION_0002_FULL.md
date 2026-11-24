@@ -1027,3 +1027,53 @@ A luz da tarde enfraquece lentamente sobre a ravina. A loba permanece próxima, 
 - Condições do Jogador: Ladino 1, **12/12 PV**, **CA 16**, **25/300 XP**, **36 PO e 8 PP**. **19 flechas utilizáveis**; quatro rações intactas e uma quase consumida. Uma pequena tira das roupas de viajante utilizada no curativo. Sem dano ou condições ativas.
 
 **GitHub:** duas rolagens físicas, XP, inventário, correção auditável do saque e transcrição literal salvos; commits confirmados.
+
+## [053] JOGADOR — 2026-11-23
+
+- não saia daqui até amanhã de manhã eu volto tá bom, trago comida unguento e dou mais um olhada nessa ferida, e depois disso te ajudo a achar a sua matilha, mas vê se não me come nenhuma cabra
+Vou até a dona Mara
+
+## [054] MESTRE — 2026-11-23
+
+A loba permanece deitada à entrada da toca enquanto Eron termina de falar.
+
+— Não saia daqui até amanhã de manhã. Eu volto, tá bom? Trago comida, unguento e dou mais uma olhada nessa ferida. Depois te ajudo a achar sua matilha. Mas vê se não me come nenhuma cabra.
+
+Ela ergue o focinho ao ouvir sua voz. Um dos filhotes se aproxima da mãe e se acomoda contra seu flanco. A loba observa Eron se afastar, sem rosnar. A faixa improvisada continua envolvendo sua pata dianteira.
+
+Ela parece mais tranquila, mas **Eron não tem como saber se permanecerá na toca durante a noite**.
+
+### Pouso das Três Fontes — Fim de tarde
+
+O caminho de volta exige aproximadamente uma hora e vinte minutos. Eron desce a ravina, acompanha o riacho e atravessa a trilha dos corços até alcançar os pastos. O sol desaparece atrás das montanhas enquanto ele percorre o último trecho.
+
+Por volta das **17h40**, chega ao Pouso das Três Fontes. O ar está frio, e pequenas luzes começam a surgir nas janelas.
+
+Perto do curral, **Mara Telha** está colocando as últimas cabras no abrigo. Sua roupa de trabalho tem manchas de barro, e ela segura uma lanterna enquanto verifica o portão de madeira.
+
+Ao reconhecer Eron, interrompe o serviço.
+
+— Você voltou.
+
+Ela se aproxima alguns passos, olhando rapidamente para o arco e as roupas dele.
+
+— Encontrou alguma coisa lá em cima? Os rastros? Os bichos que andam levando minhas cabras?
+
+Atrás dela, uma cabra bate os cascos contra a madeira do curral.
+
+Mara olha para o céu que escurece.
+
+— Porque, se vierem outra vez esta noite, não sei o que vai sobrar do meu rebanho.
+
+Ela espera a resposta de Eron.
+
+**O que Eron diz ou faz?**
+
+**[LOG DE MEMÓRIA DA CAMPANHA]**
+- **Localização Atual:** Pouso das Três Fontes, junto ao curral de Mara Telha, aproximadamente às **17h40 do Dia 1**.
+- **NPCs Presentes e Relação:** Mara Telha, preocupada com as cabras e aguardando notícias de Eron. A loba e dois filhotes ficaram na toca, fora de vista.
+- **Linha de Missão Ativa:** Resolver os ataques às cabras de Mara; **12 PO de recompensa ainda não recebidas**. Eron prometeu voltar à toca pela manhã com comida e unguento.
+- **Eventos Cruciais Ocorridos:** Eron despediu-se da loba e retornou à aldeia pela rota conhecida. Mara perguntou o que ele descobriu e demonstrou receio de novos ataques naquela noite. **Nenhum teste realizado ou conflito resolvido nesta etapa.**
+- **Condições do Jogador:** Ladino 1, **12/12 PV**, **CA 16**, **25/300 XP**, **36 PO e 8 PP**, 19 flechas utilizáveis. Quatro rações intactas e uma quase consumida; uma pele crua de coelho parcialmente danificada e duas orelhas. Nenhuma condição ativa.
+
+**GitHub:** transcrição literal e estado da campanha salvos com commits confirmados.
