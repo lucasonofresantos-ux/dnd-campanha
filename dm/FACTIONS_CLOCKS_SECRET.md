@@ -170,3 +170,6 @@
 
 ## Dia 3 ~20h40 — retorno à toca
 - Loba e crias permanecem na ravina; maior parte da carne deixada pela manhã consumida, sem aferição de resíduos. Mobilidade da loba melhora aparentemente, sem exame ou confirmação de plena capacidade de caça. Reconheceu Eron após rosnado inicial; permanece selvagem. Carne da lebre ainda não entregue. Não conceder recompensa dos rebanhos sem verificação independente.
+
+## Noite do Dia 3 ao Dia 4 ~06h00
+- Loba e crias receberam parte crua da lebre; Eron comeu porção assada, permaneceu no abrigo rochoso. Noite sem incidentes, loba não saiu para predar rebanhos nesta noite; demais predadores e situação dos rebanhos não verificados. Recuperação gradual, apoia quatro patas com leve claudicação; sem exame clínico novo, sem confirmação de plena capacidade de caça. Filhotes habituam-se à presença de Eron, permanecem selvagens. Avel inspecionou a estrutura após liberar detritos e não encontrou dano que impeça trânsito normal; reabertura anunciada ao amanhecer do Dia4. Mercadores do Cascalho podem retomar viagem; Eron não presenciou. Iria mantém vigilância até avaliação de Mara. Não conceder recompensa de 12 PO sem confirmação independente. Sem novo XP pelo cuidado rotineiro.
