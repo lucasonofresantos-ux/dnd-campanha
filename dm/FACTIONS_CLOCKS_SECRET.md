@@ -209,3 +209,6 @@
 
 ## Dia 4 ~18h40 — negociação dos contratos
 - Mara ouviu relato de recuperação da loba e dois laços desarmados; promete pagar 12 PO se a noite Dia4–5 transcorrer sem perda de cabra. Não garantir resultado. Iria oferece serviço separado de identificação do responsável com evidências suficientes, 5 PO, sem exigir captura ou morte; Eron ainda não aceitou. Nenhum XP, rolagem ou pagamento. Preservar segredo de autoria e relógios independentes. Percepção anterior [174] não tem execução Python comprovada; preservar narrativa e registrar correção.
+
+## Dia 4 ~18h45 — despedida de Iria
+- Eron indicou intenção de investigar sem prometer resultado. Iria aceitou, mantém 5 PO condicionadas a evidência suficiente e saiu para iniciar ronda; ainda não concluída. Mara permanece à mesa e mantém condição de pagamento das 12 PO. Nenhum avanço automático para a manhã, descanso ou XP.
