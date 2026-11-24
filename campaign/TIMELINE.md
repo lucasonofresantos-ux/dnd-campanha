@@ -60,6 +60,8 @@
 
 - **Dia 1, ~16h20–17h40:** Eron prometeu em voz alta à loba não demorar além da manhã seguinte; disse que traria comida, unguento, revisaria ferida e tentaria ajudá-la a encontrar matilha; pediu que não comesse cabras. Loba permaneceu à entrada da toca com filhotes, faixa na pata e sem rosnar à despedida, porém não compreendeu compromisso nem garantiu permanecer. Eron fez o caminho de volta pela ravina, riacho, trilha de corços e pastos até o Pouso das Três Fontes, ~80 min. Às ~17h40 encontrou Mara Telha guardando cabras, lanterna na mão, junto ao curral, preocupada com possível ataque noturno. Mara perguntou se Eron encontrou rastros ou predadores; ele ainda não respondeu. Sem novos testes, gastos, combates ou XP. Missão e prêmio12PO pendentes.
 
+- **Dia 1, ~17h45:** Eron comunicou a Mara Telha que achou loba ferida na pata por armadilha e dois filhotes; que caçou coelho e ofereceu carne; que não acredita em incursão noturna da mesma loba, mas não garante; que pretende cuidar da pata amanhã e ajudá-la a encontrar matilha. Perguntou por que atacaria cabras se existem presas selvagens e qual é o nome da montanha. Mara ficou surpresa e indignada com armadilhas; deduziu que ferimento pode dificultar caça de corços, fazendo cabras alvos mais fáceis, mas isso continua hipótese dela. Declarou não querer condenar mãe e filhotes, porém precisa proteger rebanho: manterá as cabras fechadas e pretende pedir vigília a Iria (ainda não executado). Identificou o pico mais alto como **Monte Veyra**, nome geográfico local, sem mencionar qualquer segredo ancestral. Perguntou a Eron se e onde viu armadilha, aguardando resposta. Sem teste, XP, dinheiro ou equipamento alterados; prêmio 12PO pendente.
+
 ## Índices
 - Estado: `CAMPAIGN_STATE.yaml`.
 - XP: `XP_LOG.csv`.
