@@ -4025,3 +4025,30 @@ Eles continuam sendo animais selvagens, mas já reconhecem Eron como uma presen�
 - **Condições do Jogador:** 12/12 PV, CA 16, 125/300 XP, 41 PO, 2 PP e 3 PC, 13 flechas. Inspiração Heroica disponível.
 
 **GitHub:** transcrição, cronologia, estado e relógios atualizados; commits confirmados.
+
+## [157] JOGADOR
+
+- faço carinho quando eles se aproxima e não forço nada e faço na loba também
+
+## [158] MESTRE
+
+### Toca da loba — Dia 4, 09h15
+
+O filhote mais curioso aceita o carinho e rola sobre as folhas secas, tentando alcançar a mão de Eron com as pequenas patas. Depois de observar o irmão por algum tempo, o segundo filhote também se aproxima, permitindo algumas carícias antes de voltar para junto da mãe.
+
+A loba permanece tranquila. Quando Eron acaricia sua cabeça e seu pescoço, ela fecha os olhos e repousa o focinho sobre a perna dele.
+
+Durante alguns minutos, o único som na ravina é o das folhas agitadas pelo vento e dos filhotes brincando.
+
+**Nenhum teste necessário.** Eron respeitou os limites dos animais, fortalecendo a confiança construída durante esses dias.
+
+---
+
+**[LOG DE MEMÓRIA DA CAMPANHA]**
+- **Localização Atual:** Toca da loba, Dia 4, 09h15.
+- **NPCs Presentes e Relação:** Loba e dois filhotes; confiança elevada, ainda selvagens.
+- **Linha de Missão Ativa:** Proteção dos rebanhos e investigação dos laços.
+- **Eventos Cruciais Ocorridos:** Ambos os filhotes aceitaram carinho espontaneamente.
+- **Condições do Jogador:** 12/12 PV, CA 16, 125/300 XP, 41 PO, 2 PP e 3 PC, 13 flechas. Inspiração Heroica disponível.
+
+**GitHub:** transcrição, cronologia, estado e relógios atualizados; commits confirmados.
