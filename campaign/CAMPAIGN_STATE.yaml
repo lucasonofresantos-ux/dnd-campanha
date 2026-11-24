@@ -51,21 +51,21 @@ character:
 campaign_time:
   calendar_system: "Asterion, dias relativos; nenhuma era/ano formal estabelecido"
   day: 1
-  time_of_day: "aproximadamente 15h (meio da tarde, estimado pela luz natural)"
+  time_of_day: "aproximadamente 15h25 (meio da tarde, estimado pela luz natural)"
   season: "final do outono"
-  elapsed_game_time: "aproximadamente três horas adicionais de permanência na toca desde o meio-dia; início da tarde avançou até cerca das 15h, Dia 1"
+  elapsed_game_time: "desde ~12h até 15h na toca; mais aproximadamente 20 a 25 minutos de caminhada e procura de caça na encosta; ~15h25, Dia 1"
 location:
   continent: Asterion
   polity: "Terras Livres de Avenhar (homebrew), fora de Valdren"
   area: "entroncamento da Estrada do Cascalho, próximo ao Pouso das Três Fontes"
   nearby: "encostas arborizadas da serra cujo monte mais alto é chamado Veyra"
-  exact_position: "entrada da toca rochosa na ravina; Eron retornou ao lugar anterior a cerca de 2 metros da abertura, sem bloquear passagem; ~15h"
-  travel_status: "Eron tentou aproximar mão da pata; após rosnado defensivo, interrompeu e recuou ao lugar anterior a ~2m da entrada; não tocou a pata, não entrou na toca"
+  exact_position: "encosta arborizada acima/lateral da ravina, cerca de 20 minutos de caminhada da toca; Eron oculto atrás de tronco caído, coelho selvagem a ~18 metros na borda de clareira"
+  travel_status: "Eron deixou a toca após dizer que voltaria com alimento; caminhou por cerca de 20 minutos encosta adentro tentando caçar, está escondido diante de coelho; retorno ainda não realizado"
 scene:
   id: OPENING-001
-  status: awaiting_player_action_after_wolf_rejects_touch
+  status: awaiting_player_action_hidden_near_rabbit
   current_npcs_present: []
-  immediate_visible_situation: "Eron solicitou nova rolagem Lidar com Animais para tentar examinar a pata por toque se sucesso e recuar se falha, sem desejar matar loba com filhotes. Python secrets.randbelow deu 1d20+3 → [4]+3=7, FALHA. Ao aproximar a mão, loba enrijeceu, recolheu pata, rosnou grave, mostrou dentes e recuou meio passo, protegendo crias. Eron INTERROMPEU a tentativa e recuou lentamente para seu lugar anterior a ~2m da entrada; loba não perseguiu, voltou a deitar mas mantém vigilância. Relacionamento cauteloso persiste, mas não tolerou manipulação. Nenhum toque na pata, exame direto, tratamento, mordida, dano, combate, recursos ou XP; horário ~15h."
+  immediate_visible_situation: "Eron falou à loba que ela devia estar com fome e que voltaria, pedindo para não sair. A loba ficou na toca com filhotes no instante da partida, mas não entende compromisso verbal, estado dela após a partida desconhecido a Eron. O jogador autorizou três rolagens para tentar caçar: Sobrevivência 1d20+5 → [1]+5=6 (falhou rastrear caça grande em chão lavrado pela chuva), Furtividade 1d20+9 → [11]+9=20 (segue oculto), Percepção 1d20+7 → [9]+7=16 (notou um coelho selvagem por acaso). Após ~20-25min, Eron oculto atrás de tronco caído observa coelho a cerca de 18m na borda de pequena clareira, sem ser notado. Arco curto disponível, 20 flechas no inventário; NENHUM disparo, captura ou morte declarados. ~15h25, XP 0, recursos inalterados."
   combat: false
   initiative: []
   rounds: 0
@@ -84,8 +84,8 @@ world:
 transcription:
   character_creation_history: sessions/transcripts/SESSION_0001_FULL.md
   narrative_session: sessions/transcripts/SESSION_0002_FULL.md
-  last_saved_player_turn: "Role lidar com animais novamente e se for o bastante eu mexo na pata para examinar melhor se não for eu volto para onde estava, não quero matar uma loba com filhotes "
-  last_saved_dm_turn: "[042] MESTRE — 2026-11-23; Lidar com Animais [4]+3=7, loba impede contato, Eron recua sem dano; transcrição salva"
+  last_saved_player_turn: "- Você deve estar com fome, já volto mas não saía daqui\nRole sobrevivência furtividade e percepção vou tentar caçar alguma coisa para comer"
+  last_saved_dm_turn: "[044] MESTRE — 2026-11-23; Sobrevivência 6, Furtividade 20, Percepção 16; Eron observa coelho a 18m sem atacar; transcrição salva"
 notes:
   - "Primeira resposta de cena será salva literalmente e sem revelar preparativos de dm."
   - "Nunca tratar a aprovação da ficha como XP, nem mudar recursos automaticamente."
