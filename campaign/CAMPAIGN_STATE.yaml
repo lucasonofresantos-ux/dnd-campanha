@@ -33,7 +33,7 @@ character:
   hit_dice_available: "1d8"
   money:
     gold: 43
-    silver: 6
+    silver: 2
     copper: 7
   inventory_reference: character/ERON_RIVER_LEVEL_01.md
   carrying_all_owned_equipment: true
@@ -43,10 +43,22 @@ character:
   known_personal_item: "Marca da Bigorna Velada, pequeno disco familiar e bolsa de couro; uso desconhecido para Eron."
   untrained_owned_tool: "Ferramentas de Funileiro (propriedade, sem proficiência)"
   ammo:
-    shortbow_arrows_in_quiver: 13
+    shortbow_arrows_in_quiver: 20
+    shortbow_arrows_spare: 1
+    shortbow_arrows_crafted_total: 8
     shortbow_arrows_fired_unrecovered: 0
     shortbow_arrows_lost_unusable: 7
     unrecovered_arrow_location: "Seis flechas consumidas anteriormente; mais uma no abate do corço Dia4."
+  crafting_project_arrows:
+    total_target: 20
+    completed: 8
+    pending: 12
+    material_cost_silver_paid: 4
+    work_minutes_total: 480
+    work_minutes_completed: 215
+    work_minutes_remaining: 265
+    status: paused_at_workshop_closing
+    remaining_materials_location: "Ainda não especificado pelo jogador; materiais de sua propriedade."
   accommodation:
     inn: "Posto de Descanso de Alda Tress"
     private_room: 3
@@ -132,21 +144,21 @@ character:
 campaign_time:
   calendar_system: "Asterion, dias relativos; nenhuma era/ano formal estabelecido"
   day: 4
-  time_of_day: "aproximadamente 14h25 do Dia 4"
+  time_of_day: "aproximadamente 18h00 do Dia 4"
   season: "final do outono"
-  elapsed_game_time: "Dia4 ~14h20–14h25 conversa sobre fabricar flechas."
+  elapsed_game_time: "Dia4 ~14h25–18h00 fabricação parcial de flechas."
 location:
   continent: Asterion
   polity: "Terras Livres de Avenhar (homebrew), fora de Valdren"
   area: "entroncamento da Estrada do Cascalho, próximo ao Pouso das Três Fontes"
   nearby: "encostas arborizadas da serra cujo monte mais alto é chamado Veyra"
   exact_position: "Ferraria de Durnak Mão de Ferro, próxima à terceira fonte do Pouso das Três Fontes"
-  travel_status: "Na ferraria após vender materiais de caça."
+  travel_status: "Na ferraria ao fechamento; projeto de flechas em andamento."
 scene:
   id: OPENING-001
-  status: "awaiting_player_response_to_arrow_material_offer"
+  status: "awaiting_player_action_after_partial_arrow_crafting"
   current_npcs_present: ["Durnak Mão de Ferro"]
-  immediate_visible_situation: "Dia4 ~14h25: Eron solicitou permissão para fabricar flechas na ferraria. Durnak concedeu uso gratuito do espaço, bancada, forja e ferramentas, pediu organização, ofereceu hastes secas, penas e ferro suficientes para 20 flechas por 4 PP, preço final. Fecha às 18h, permite retornar amanhã para concluir. Mestre adjudicou 8 horas totais de trabalho divisíveis entre hoje e amanhã, sem exigir teste rotineiro, conforme capacidade e proficiência estabelecidas. Oferta de materiais aguarda aceitação; nenhuma compra ou fabricação iniciada, recursos intactos."
+  immediate_visible_situation: "Dia4 ~14h25–18h00: Eron aceitou oferta de materiais para 20 flechas e pagou 4 PP; saldo 43PO2PP7PC. Informou 20 natural; referência Destreza/Entalhador +7 = 27, dado não exigido e sem efeito mecânico sobre tempo de fabricação. Mantidas 8h totais de fabricação rotineira segundo adjudicação anterior; Mestre permitiu conclusão individual proporcional, não aceleração por 20 natural. Trabalhou 215 min (3h35), concluiu 8 flechas utilizáveis (192 min), 23 min de progresso adicional no restante. Faltam 12 flechas e 265 min (4h25) de trabalho, materiais já pagos. Total 21 flechas utilizáveis: 20 na aljava, 1 reserva guardada separadamente. Durnak fecha às 18h, oferece retorno amanhã; fabricação interrompida por fechamento. Nenhum XP, dano, consumo de Inspiração ou ração; PV12/12 CA16 XP125/300. Local dos materiais restantes ainda não definido, não presumir transferência ou perda."
   discovered_traps:
     - location: "Trilha dos Corcos, junto ao riacho"
       state: disarmed_safe_wire_left_at_tree
@@ -174,8 +186,8 @@ world:
 transcription:
   character_creation_history: sessions/transcripts/SESSION_0001_FULL.md
   narrative_session: sessions/transcripts/SESSION_0002_FULL.md
-  last_saved_player_turn: "- se deixar eu fazer umas flechas aqui agradeço"
-  last_saved_dm_turn: "[170] MESTRE — permissão gratuita e materiais para 20 flechas por 4 PP."
+  last_saved_player_turn: "- Eu sou rápido e aceito.\n20 natural para fazer as flechas antes as 18 hrs, vou fazer 20 flechas"
+  last_saved_dm_turn: "[172] MESTRE — materiais pagos, oito flechas concluídas, doze pendentes."
 notes:
   - "Primeira resposta de cena será salva literalmente e sem revelar preparativos de dm."
   - "Nunca tratar a aprovação da ficha como XP, nem mudar recursos automaticamente."
