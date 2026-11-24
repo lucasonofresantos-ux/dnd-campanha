@@ -155,3 +155,6 @@
 
 ## Dia 3 ~17h10 — oferta de Avel
 - Avel oferece 3 PO pelo funcionamento da roldana, com ferramentas e peças locais; duas tentativas anteriores falharam. Correnteza em elevação, pressão de troncos crescente. Diagnóstico ainda não estabelecido publicamente; não exigir risco desnecessário nem garantir êxito. Aceitação pendente, sem pagamento.
+
+## Dia 3 ~17h15 — negociação
+- Avel cedeu aos 5 PO, condicionado ao funcionamento antes de escurecer. Sem pagamento antecipado. Pressão crescente dos detritos, diagnóstico ainda pendente. Não tratar negociação como solução do desafio técnico nem conceder XP duplicado.
