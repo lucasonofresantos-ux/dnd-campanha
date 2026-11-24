@@ -44,3 +44,5 @@
 - Atualização: sessão 0002 até [224], Dia6 ~06h35; Eron consulta Alda sobre riscos do Monte Veyra, partida ainda não iniciada.
 
 - Atualização: sessão 0002 até [226], Dia6 ~06h35; Alda aceita registrar visitantes e preservar destino de Eron. Saída ainda não iniciada.
+
+- Atualização: sessão 0002 até [228], Dia6 11h20 na toca; corço abatido, 24 flechas, 11kg carne e outros materiais; dados executados em Python e hash confirmado.
