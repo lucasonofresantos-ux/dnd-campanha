@@ -64,3 +64,6 @@ date,campaign_id,stage,attempt,expression,six_rolls_faces_in_order,six_attribute
 2026-11-23,ERON-RIVER-ASTERION-001,skill_check_medicine_physical,1,1d20+3,20,"20+3",23,true
 2026-11-23,ERON-RIVER-ASTERION-001,skill_check_perception,5,1d20+7,17,"17+7",24,true
 2026-11-23,ERON-RIVER-ASTERION-001,skill_check_perception,6,1d20+7,11,"11+7",18,true
+2026-11-23,ERON-RIVER-ASTERION-001,skill_check_stealth,5,1d20+9,18,"18+9",27,true
+2026-11-23,ERON-RIVER-ASTERION-001,skill_check_perception,7,1d20+7,19,"19+7",26,true
+2026-11-23,ERON-RIVER-ASTERION-001,skill_check_survival,5,1d20+5,16,"16+5",21,true
