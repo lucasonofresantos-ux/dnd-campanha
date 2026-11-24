@@ -4052,3 +4052,57 @@ Durante alguns minutos, o único som na ravina é o das folhas agitadas pelo ven
 - **Condições do Jogador:** 12/12 PV, CA 16, 125/300 XP, 41 PO, 2 PP e 3 PC, 13 flechas. Inspiração Heroica disponível.
 
 **GitHub:** transcrição, cronologia, estado e relógios atualizados; commits confirmados.
+
+## [159] JOGADOR
+
+- vou deixar vocês aqui acredito que 6kg de carne de corço da para vocês
+E vou para a cidade vender oque cacei e depois para a Ferraria
+
+## [160] MESTRE
+
+### Pouso das Três Fontes — Dia 4, 10h30
+
+A loba permanece junto aos filhotes e à carne deixada por Eron, observando-o partir até que desapareça entre as árvores.
+
+De volta ao povoado, Eron visita os comerciantes habituais. Belda examina as peles e oferece um valor menor pela pele danificada do corço. Bram recusa os miúdos da lebre, pois passaram a noite sem conservação adequada.
+
+| Material vendido | Valor |
+|---|---:|
+| Pele danificada de corço | 4 PP |
+| Pele de lebre | 2 PP |
+| Duas galhadas | 2 PP |
+| Dois ossos longos | 5 PC |
+| Dois ossos pequenos | 2 PC |
+| Duas orelhas de corço | 5 PC |
+| Duas orelhas de lebre | 2 PC |
+
+<card gap={2}>
+  <caption>Total recebido</caption>
+  <title size="xl" color="success">+9 PP e 4 PC</title>
+  <divider/>
+  <caption>Dinheiro disponível</caption>
+  <title size="2xl">42 PO · 1 PP · 7 PC</title>
+</card>
+
+### Ferraria de Durnak Mão de Ferro — 11h00
+
+O anão está trabalhando sobre a bigorna quando percebe a chegada de Eron.
+
+— Ah, voltou! Soube que conseguiu consertar o mecanismo da ponte. As carroças já estão atravessando novamente.
+
+Durnak pousa o martelo e aponta para duas rodas de carroça encostadas na parede.
+
+— Preciso ajustar os aros de ferro dessas duas rodas e fabricar seis cravos de fixação. Tenho todo o material. Pago **1 PO e 5 PP** pelo serviço. Se começar agora, provavelmente termina antes das três da tarde.
+
+— Interessado?
+
+---
+
+**[LOG DE MEMÓRIA DA CAMPANHA]**
+- **Localização Atual:** Ferraria de Durnak, Dia 4, 11h00.
+- **NPCs Presentes e Relação:** Durnak Mão de Ferro, empregador conhecido.
+- **Linha de Missão Ativa:** Proteção dos rebanhos e investigação dos laços.
+- **Eventos Cruciais Ocorridos:** Venda dos materiais da caça; ponte reaberta; nova oferta de trabalho.
+- **Condições do Jogador:** 12/12 PV, CA 16, 125/300 XP, 42 PO, 1 PP e 7 PC, 13 flechas, 3 rações, 200 g de sal. Inspiração Heroica disponível. Miúdos da lebre rejeitados, ainda no inventário.
+
+**GitHub:** transcrição, inventário, cronologia, estado e relógios atualizados; commits confirmados.
