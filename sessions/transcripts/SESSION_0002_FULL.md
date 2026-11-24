@@ -6282,3 +6282,48 @@ Os três parecem estar bem.
 **Auditoria:** a Investigação anterior (26) não possui execução Python comprovada; o registro foi corrigido sem alterar os acontecimentos. Os dois testes desta interação foram efetivamente executados e verificados.
 
 **GitHub:** transcrição, ficha, dados, cronologia e estado atualizados; commits confirmados.
+
+## [237] JOGADOR
+
+- que bom que está bem, aqui 2,5kg de carne para você e os pequenos
+E faço um carinho nela e vou investigar a saliência que ela esta
+
+## [238] MESTRE
+
+### Encosta do Monte Veyra — Dia 6, 13h15
+
+A loba se levanta ao reconhecer sua voz. Aproxima-se, fareja sua mão e permite que você acaricie sua cabeça. Um dos filhotes também se aproxima, enquanto o outro permanece brincando entre as raízes.
+
+Você separa os 2,5 kg de carne e os coloca diante dela. A loba fareja a porção demoradamente, mas hesita em comer devido ao sal.
+
+**Eron sabe que carne excessivamente salgada pode fazer mal aos animais.** A porção permanece no chão, ainda não consumida.
+
+Ao examinar a saliência rochosa, você percebe que ela forma um pequeno abrigo natural, protegido do vento e relativamente seco. A rocha é escura, parcialmente coberta por musgo e líquens, com algumas fissuras visíveis.
+
+Faça um teste para examinar a formação mais detalhadamente.
+
+<card gap={2}>
+  <row align="center">
+    <icon name="search" size="3xl"/>
+    <box gap={1}>
+      <caption>Inteligência (Investigação)</caption>
+      <title size="2xl">1d20 + 6</title>
+      <caption>Inteligência +4 | Proficiência +2</caption>
+    </box>
+  </row>
+  <button block={true} variant="outline" onClick={()=>GenUI.issueNewTurn("Role Investigação para examinar a saliência rochosa.")}>Rolar Investigação</button>
+</card>
+
+---
+
+**[LOG DE MEMÓRIA DA CAMPANHA]**
+- **Localização atual:** Abrigo rochoso na encosta do Monte Veyra, Dia 6, 13h15.
+- **NPCs presentes e relação:** Loba e dois filhotes; confiança anterior mantida.
+- **Missão ativa:** Exploração voluntária do Veyra.
+- **Eventos cruciais:** Reencontro com a loba; 2,5 kg de carne oferecidos, ainda não consumidos. Investigação da saliência pendente.
+- **Condições:** 12/12 PV | CA 16 | 225/300 XP | 56 PO, 2 PP e 7 PC | 24 flechas | 10 rações | 2,2 kg de sal. Inspiração Heroica disponível.
+- **Carne transportada:** 8,5 kg salgados; 2,5 kg separados no chão.
+
+**Auditoria:** as duas rolagens anteriores de rastreamento (23 e 16) não tiveram execução Python comprovada. Corrigi os registros sem alterar os acontecimentos. Nenhuma nova rolagem neste turno.
+
+**GitHub:** transcrição, ficha, cronologia, estado e auditoria atualizados; commits confirmados.
