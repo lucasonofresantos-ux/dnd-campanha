@@ -32,8 +32,8 @@ character:
   heroic_inspiration: false
   hit_dice_available: "1d8"
   money:
-    gold: 36
-    silver: 8
+    gold: 35
+    silver: 5
     copper: 0
   inventory_reference: character/ERON_RIVER_LEVEL_01.md
   carrying_all_owned_equipment: true
@@ -47,6 +47,15 @@ character:
     shortbow_arrows_fired_unrecovered: 0
     shortbow_arrows_lost_unusable: 1
     unrecovered_arrow_location: "Flecha extraída mas danificada e inutilizável; perdida na clareira"
+  accommodation:
+    inn: "Posto de Descanso de Alda Tress"
+    private_room: 3
+    room_paid: true
+    dinner_paid_and_consumed: true
+    cost_gold: 1
+    cost_silver: 3
+    temporary_room_key: "chave de ferro do quarto 3, deverá ser devolvida ao encerrar hospedagem"
+    long_rest_started: false
   rations:
     starting_full_days: 5
     intact_full_days: 4
@@ -64,23 +73,21 @@ character:
 campaign_time:
   calendar_system: "Asterion, dias relativos; nenhuma era/ano formal estabelecido"
   day: 1
-  time_of_day: "aproximadamente 17h55 do Dia 1, início da noite"
+  time_of_day: "aproximadamente 18h25 do Dia 1, início da noite"
   season: "final do outono"
-  elapsed_game_time: "~17h50 chegada ao Posto de Descanso; ~5min de conversa com Alda sobre preços, hospedagem e suprimentos; ~17h55"
+  elapsed_game_time: "~17h55 pagamento quarto e jantar, ~25min para servir e consumir jantar observando salão, alguns minutos para subir; ~18h25"
 location:
   continent: Asterion
   polity: "Terras Livres de Avenhar (homebrew), fora de Valdren"
   area: "entroncamento da Estrada do Cascalho, próximo ao Pouso das Três Fontes"
   nearby: "encostas arborizadas da serra cujo monte mais alto é chamado Veyra"
-  exact_position: "salão do Posto de Descanso de Alda Tress, junto ao balcão com uma chave de ferro oferecida; nenhuma transação paga"
-  travel_status: "Eron permanece no Posto de Descanso; solicitou preços para quarto individual e jantar, e orientações de suprimentos; não recebeu chave nem iniciou descanso"
+  exact_position: "Quarto individual nº 3, andar superior do Posto de Descanso de Alda Tress no Pouso das Três Fontes"
+  travel_status: "Eron pagou e consumiu jantar no salão, observou frequentadores, recebeu chave do quarto 3 e subiu; ainda NÃO iniciou descanso longo"
 scene:
   id: OPENING-001
-  status: "awaiting_player_after_private_room_and_dinner_price_quote"
-  current_npcs_present:
-    - Alda Tress
-    - Viajantes não identificados no salão
-  immediate_visible_situation: "Eron disse que quer quarto individual e jantar, perguntou onde comprar unguento, ataduras ou kit de curandeiro e quanto custa tudo. Alda respondeu: quarto individual no andar de cima com cama, coberta, bacia e tranca, 1 PO/noite; jantar de ensopado, pão e água/chá, 3 PP. Total quarto + jantar 1 PO e 3 PP, mas Eron ainda não pagou, comeu nem recebeu chave (Alda segura chave no balcão). Alda indicou boticária Olma Ramo na Casa das Ervas próxima à segunda fonte, abre cedo amanhã, costuma oferecer remédios não mágicos e curativos, kit completo em estoque não garantido. Preços base estimados: unguento 3 PP, ataduras 2 PP, kit de curandeiro 5 PO (10 usos, SRD 2024); com desconto de Artesão 20% em itens não mágicos, preço potencial unguento 2 PP 4 PC, ataduras 1 PP 6 PC, kit 4 PO. Combinações previstas: quarto/jantar/kit 5 PO 3 PP; quarto/jantar/unguento/ataduras 1 PO 7 PP, sujeito a confirmação da vendedora. Não aplicar 20% a hospedagem e jantar como serviços. Nenhuma compra, pagamento, comida, sono, dano ou novo XP. ~17h55."
+  status: "awaiting_player_action_in_private_room_before_sleep"
+  current_npcs_present: []
+  immediate_visible_situation: "Eron pagou a Alda 1PO e 3PP pelo quarto individual e jantar, novo saldo 35PO5PP, recebeu chave de ferro para quarto 3. Comeu ensopado de carne com legumes, pão e chá quente no salão (nenhuma ração de viagem gasta). Percepção rolada de fato em Python dice_roller.py secrets.randbelow: 1d20+7 → [17]+7=24, sucesso. Pela janela reconheceu Iria Vento-Seco com arco e lanterna caminhando em direção aos currais (não presenciou conversa com Mara nem vigia já estabelecida). Ouviu dois trabalhadores não identificados murmurarem que laços não são novidade perto do riacho e quem os arma pode ter problemas; nenhum deles comprovadamente responsável. Após terminar jantar subiu por volta de 18h25 ao quarto individual nº 3, cama de madeira com colchão de palha e cobertor, bacia d'água, cadeira e janela para aldeia; porta tem tranca simples e Eron está com chave. Está sozinho e livre para agir; descanso longo não começou. 12/12PV, XP25/300, 19flechas; sem nova compra ou uso de kit."
   combat: false
   initiative: []
   rounds: 0
@@ -99,8 +106,8 @@ world:
 transcription:
   character_creation_history: sessions/transcripts/SESSION_0001_FULL.md
   narrative_session: sessions/transcripts/SESSION_0002_FULL.md
-  last_saved_player_turn: "Vou querer o quarto individual e a janta também e onde consigo unguento e ataduras ou um kit de curandeiro? E claro quanto fica tudo"
-  last_saved_dm_turn: "[060] MESTRE — 2026-11-23; Alda cota quarto 1PO jantar3PP e indica boticária Olma Ramo; kit de curandeiro base5PO desconto Artesão→4PO, materiais alternativos; sem pagamento ou descanso; transcrição salva."
+  last_saved_player_turn: "- Vou querer o quarto e a janta, aqui o pagamento, vou comer e subir\nPode rolar percepção para o jantar"
+  last_saved_dm_turn: "[062] MESTRE — 2026-11-23; Eron pagou 1PO3PP, jantou, Percepção [17]+7=24, viu Iria e ouviu rumor de laços, subiu ao quarto 3 sem iniciar descanso; transcrição salva."
 notes:
   - "Primeira resposta de cena será salva literalmente e sem revelar preparativos de dm."
   - "Nunca tratar a aprovação da ficha como XP, nem mudar recursos automaticamente."
