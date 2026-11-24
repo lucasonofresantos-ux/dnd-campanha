@@ -176,3 +176,6 @@
 
 ## Dia 4 ~06h00–08h00 — caça e terceiro laço
 - Loba acompanha por poucos metros mas retorna às crias; ainda se recupera, não domesticação. Terceiro laço distinto desarmado por Eron na Trilha dos Corços; autoria não identificada publicamente. Odran continua responsável pelos laços de caça; não presumir que percebeu o desarme antes de retornar à área. Recompensa de Mara pendente. Eron abateu corço sem a ajuda da loba, saque parcial; nenhum vínculo com arcos principais.
+
+## Dia 4 ~09h00 — tratamento final
+- Loba recebeu 6 kg de carne com crias; ferida fechada e curativo retirado após exame bem-sucedido, sem novo consumo médico. Mobilidade quase normal, força ainda em recuperação. Confiança muito elevada, selvagem; não garantir obediência, caça bem-sucedida ou recompensa do rebanho sem verificação. Sem novo XP por tratamento repetido.
