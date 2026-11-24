@@ -188,3 +188,6 @@
 
 ## Dia 4 ~09h15–11h00 — retorno ao povoado
 - Eron deixa loba e crias na ravina, alimento já entregue. Não presumir que permanecerão indefinidamente. Reabertura da ponte confirmada publicamente por Durnak; circulação de carroças retomada. Comércio de materiais de caça concluído, miúdos da lebre rejeitados por falta de conservação. Durnak oferece serviço rotineiro em duas rodas e seis cravos, 1PO5PP, ainda não contratado. Nenhum novo XP. Recompensa dos rebanhos continua pendente de confirmação.
+
+## Dia 4 ~11h05 — contrato com Durnak
+- Durnak aceitou incluir almoço ao meio-dia na remuneração de 1PO5PP, materiais e ferramentas locais. Ajuste de aros de duas rodas e seis cravos pendentes; primeiro teste ainda não realizado. Indicou comércio de artigos de viagem perto da segunda fonte; não garantir estoque/preço. Sem pagamento, consumo ou XP até execução.
