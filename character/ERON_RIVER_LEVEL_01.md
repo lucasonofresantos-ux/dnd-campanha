@@ -223,3 +223,9 @@ Especializações do Ladino de nível 1: **Furtividade e Percepção**, dobram p
 - Eron trancou o quarto 3 e se lavou usando a bacia; dormiu de aproximadamente 19h15 do Dia 1 até 06h30 do Dia 2, concluindo descanso longo. PV12/12, dado de vida 1d8 não utilizado, ganhou **Inspiração Heroica disponível** por Engenhoso (Humano 2024).
 - Percepção 1d20+7 → face [11] +7 = **18**, rolada efetivamente em Python secrets.randbelow. No caminho para Olma, viu Iria conversando com Mara próximo aos currais; não ouviu o conteúdo nem confirmou o resultado da vigília.
 - Por volta de 07h do Dia 2 chegou à Casa das Ervas de Olma Ramo na segunda fonte; nenhuma compra ainda. A chave temporária do quarto 3 continua em posse de Eron, a devolver ao posto. Sem gasto de ração, dinheiro ou outros materiais; saldo35PO5PP, XP25/300, 19 flechas.
+
+### Dia 2 ~07h10 — compra confirmada na Casa das Ervas
+- Eron informou a Olma que a pata da loba estava inchada e quente, mas sem mau cheiro, após extração de fragmento de ferro de armadilha no Dia 1. Aceitou que Olma incluísse materiais necessários e **efetuou pagamento**.
+- **Itens adquiridos:** 1 kit de curandeiro completo (**10 usos**, nenhum gasto), **1 pote de unguento suave não mágico** (não usado), **1 conjunto de ataduras limpas** (não usado). Esses materiais servem ao manejo de primeiros socorros, **não curam magicamente e não garantem prevenção de infecção**.
+- **Preço total efetivamente pago: 4 PO e 4 PP**, já incluído desconto de 20% de Artesão (preço original 5 PO e 5 PP). **Saldo passou de 35 PO 5 PP para 31 PO 1 PP**, 0 PC. Nenhum desconto extra, troca, teste ou item grátis.
+- Olma orientou limpar com água limpa, aplicar unguento fino, atadura não apertada e observar inchaço/secreção. Ainda não houve retorno à toca nem uso dos itens. XP25/300, PV12/12, CA16, Inspiração Heroica e 19 flechas inalterados.
