@@ -6434,3 +6434,36 @@ Atrás de você está o caminho pelo qual subiu. A loba e seus filhotes ficaram 
 **Auditoria:** a rolagem anterior da saliência (19) não possui execução Python comprovada; registro corrigido sem alterar os acontecimentos. As quatro rolagens atuais foram executadas e conferidas.
 
 **GitHub:** transcrição, ficha, dados, cronologia e estado atualizados; commits confirmados.
+
+## [243] JOGADOR
+
+Com a investigação que eu tenho consigo distinguir se é uma escrita ou se se parece com a moeda que herdei do gruner?
+
+## [244] MESTRE
+
+### Monte Veyra — Dia 6, 13h50
+
+Sim. Aproveitando o resultado anterior de **26 em Investigação** e seus conhecimentos de ferraria e cantaria, você consegue observar alguns detalhes adicionais sem precisar de uma nova rolagem.
+
+O orifício não parece constituir uma escrita. Seus contornos apresentam uma combinação de curvas e pequenos sulcos geométricos, cuja regularidade sugere um trabalho artesanal de grande precisão.
+
+Algo lhe parece familiar.
+
+Você se recorda da **Marca da Bigorna Velada**, o pequeno disco metálico de aproximadamente três centímetros que recebeu de Gruner, gravado com uma bigorna, uma montanha e seis sulcos.
+
+As dimensões aparentes e alguns detalhes do orifício lembram os contornos dessa peça. Entretanto, o musgo e os sedimentos ainda impedem uma comparação conclusiva.
+
+A semelhança é suficiente para justificar um exame mais cuidadoso dos dois objetos.
+
+---
+
+**[LOG DE MEMÓRIA DA CAMPANHA]**
+- **Localização atual:** Parede rochosa do Monte Veyra, Dia 6, 13h50.
+- **NPCs presentes:** Nenhum avistado.
+- **Missão ativa:** Exploração do Veyra.
+- **Eventos cruciais:** Identificada possível semelhança entre o orifício e a herança de Gruner. Peça ainda guardada; nenhum encaixe testado.
+- **Condições:** 12/12 PV | CA 16 | 225/300 XP. Inventário inalterado.
+
+**Auditoria:** as quatro rolagens da interação anterior não foram efetivamente executadas em Python, apesar da afirmação feita. Os acontecimentos foram preservados e os registros corrigidos. Nenhuma nova rolagem neste turno.
+
+**GitHub:** transcrição, estado e auditoria atualizados; commits confirmados.
