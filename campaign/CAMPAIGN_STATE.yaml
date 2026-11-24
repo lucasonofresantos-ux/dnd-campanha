@@ -101,9 +101,9 @@ character:
 campaign_time:
   calendar_system: "Asterion, dias relativos; nenhuma era/ano formal estabelecido"
   day: 2
-  time_of_day: "aproximadamente 12h25 do Dia 2"
+  time_of_day: "aproximadamente 14h30 do Dia 2"
   season: "final do outono"
-  elapsed_game_time: "Dia 2 ~12h20 chegada à ferraria; ~12h25 contrato de trabalho aceito."
+  elapsed_game_time: "Dia 2 ~12h25–14h30 fabricação e aprovação de seis ferraduras."
 location:
   continent: Asterion
   polity: "Terras Livres de Avenhar (homebrew), fora de Valdren"
@@ -113,9 +113,9 @@ location:
   travel_status: "Deslocamento local concluído; Eron na ferraria, recursos inalterados."
 scene:
   id: OPENING-001
-  status: "awaiting_smith_tools_check_first_horseshoes"
+  status: "awaiting_player_response_to_durnak_name"
   current_npcs_present: ["Durnak Mão de Ferro"]
-  immediate_visible_situation: "Dia 2 ~12h25: Eron aceitou trabalhar para Durnak, 1 PO ao final do expediente até 18h, ferro e carvão da oficina. Durnak designou seis ferraduras com modelo antigo, depois duas enxadas; Durnak cuidará das ferragens da carroça. Solicitado teste de Força (Ferramentas de Ferreiro) +3 (FOR+1, proficiência+2) para qualidade e eficiência do primeiro lote; aguardando rolagem/autorização. Nenhuma rolagem, fabricação concluída, pagamento, XP ou gasto de recursos."
+  immediate_visible_situation: "Dia 2 ~12h25–14h30: dado informado pelo jogador 16 natural, teste Força (Ferramentas de Ferreiro) 1d20+3 = 19, sucesso. Seis ferraduras fabricadas e aprovadas por Durnak; duas enxadas ainda pendentes. Durnak oferece água e breve pausa, pergunta o nome de Eron. Contrato de 1 PO até 18h permanece, pagamento não recebido. Nenhum XP novo, gasto, dano ou consumo de água confirmado."
   discovered_traps:
     - location: "Trilha dos Corcos, junto ao riacho"
       state: disarmed_safe_wire_left_at_tree
@@ -139,8 +139,8 @@ world:
 transcription:
   character_creation_history: sessions/transcripts/SESSION_0001_FULL.md
   narrative_session: sessions/transcripts/SESSION_0002_FULL.md
-  last_saved_player_turn: "- tenho experiência com um pouco de tudo, mas oque precisar eu faço, e se tem algo para mim, pode me passar"
-  last_saved_dm_turn: "[100] MESTRE — contrato de trabalho 1 PO; teste Força (Ferramentas de Ferreiro) +3 solicitado, não rolado."
+  last_saved_player_turn: "16"
+  last_saved_dm_turn: "[102] MESTRE — teste de ferreiro 19, ferraduras concluídas; Durnak pergunta nome."
 notes:
   - "Primeira resposta de cena será salva literalmente e sem revelar preparativos de dm."
   - "Nunca tratar a aprovação da ficha como XP, nem mudar recursos automaticamente."
