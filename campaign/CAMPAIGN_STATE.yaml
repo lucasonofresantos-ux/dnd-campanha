@@ -156,21 +156,21 @@ character:
 campaign_time:
   calendar_system: "Asterion, dias relativos; nenhuma era/ano formal estabelecido"
   day: 5
-  time_of_day: "aproximadamente 18h35 do Dia 5"
+  time_of_day: "aproximadamente 20h10 do Dia 5"
   season: "final do outono"
-  elapsed_game_time: "Dia5 ~18h00–18h35 conversa com Durnak, trajeto, hospedagem e jantar."
+  elapsed_game_time: "Dia5 ~18h40–20h10, travessia noturna à cabana."
 location:
   continent: Asterion
   polity: "Terras Livres de Avenhar (homebrew), fora de Valdren"
   area: "entroncamento da Estrada do Cascalho, próximo ao Pouso das Três Fontes"
   nearby: "encostas arborizadas da serra cujo monte mais alto é chamado Veyra"
-  exact_position: "Salão do Posto de Descanso de Alda Tress, Pouso das Três Fontes"
-  travel_status: "Na estalagem após jantar; sem descanso iniciado."
+  exact_position: "Mata na encosta, a cerca de 15m da cabana dos lenhadores."
+  travel_status: "Oculto entre árvores; chegou ao destino, não interveio."
 scene:
   id: OPENING-001
-  status: "awaiting_player_action_after_dinner_day5"
-  current_npcs_present: ["Alda Tress", "Dois viajantes desconhecidos", "Moradores"]
-  immediate_visible_situation: "Dia5 ~18h00–18h35: Eron autorizou guardar materiais das sete flechas pendentes; Durnak colocou-os numa caixa de madeira no armário e disse que poderá separar trabalho futuro se houver encomenda maior; sem novo contrato. Percepção no trajeto 1d20+7 [9]+7=16, sem anormalidade percebida. ~18h15 renovou quarto 3 com banho por 1PO e jantar por 3PP, total 1PO3PP; saldo 57PO6PP7PC→56PO3PP7PC. Jantou ensopado com batatas, pão e chá, rações intactas. Percepção no jantar 1d20+7 [13]+7=20; ouviu dois viajantes comentarem possível geada nas partes altas antes do fim da semana, lama na trilha do riacho e intenção de um viajar pela estrada amanhã cedo; ouviu Alda dizer que ainda não viu Iria retornar da patrulha. Testes anteriores sem execução Python; continuidade preservada. ~18h35, salão da estalagem. Banho preparado, não tomado; descanso longo não iniciado. PV12/12 CA16 XP225/300, 25 flechas, 10 rações, 5,2kg sal, kit9/10, Inspiração Heroica disponível. Dia5 ~18h35: Eron perguntou quando Iria foi vista pela última vez. Alda relata informação recebida de terceiros: saiu pouco depois das 16h com dois vigias rumo às encostas, não a viu depois nem ouviu relatos de problemas. Alda pergunta se Eron a espera. Não confirma paradeiro atual nem situação da patrulha. Nenhuma alteração mecânica ou avanço significativo do tempo."
+  status: "awaiting_player_action_hidden_near_cabin_day5"
+  current_npcs_present: ["Iria Vento-Seco", "Dois vigias", "Odran Peça"]
+  immediate_visible_situation: "Dia5 ~18h35–20h10: Eron pediu a Alda que reaqueça o banho quando retornar; ela concordou. Saiu ~18h40, jantar já pago e consumido, sem gasto adicional. Refaz percurso conhecido até cabana dos lenhadores à noite. Script do GitHub dice_roller.py executado efetivamente em Python via container, hash git d35af70119bf684ea055619bb10678a1c4b03bbb conferido: Furtividade 1d20+9 [15]+9=24; Percepção auditiva 1d20+7 [13]+7=20; Sobrevivência 2d20kl1+5 [8,9] mantido 8, descartado 9, total13, desvantagem por orientação visual em baixa luz. Chegou ~20h10 a 15m da cabana, oculto, sem demonstração de detecção. Lanternas iluminam Iria, Odran e dois vigias junto à porta; um vigia segura feixe de arames recolhidos, quantidade/origem de cada arame não confirmadas. Iria diz que encontraram laços, Odran responde que vive da mata e sempre caçou ali; discussão tensa, armas não desembainhadas. Nenhum ataque, iniciativa, captura ou resolução jurídica confirmada; Eron não interveio. Nenhum XP/gasto, PV12/12 CA16 XP225/300, saldo56PO3PP7PC, 25 flechas, 10 rações, 5,2kg sal, kit9/10, inspiração disponível. Descanso longo não iniciado."
   discovered_traps:
     - location: "Trilha dos Corcos, junto ao riacho"
       state: disarmed_safe_wire_left_at_tree
@@ -201,7 +201,7 @@ scene:
   herd_contract_status: "Concluído Dia5 ~11h55; Mara confirmou três noites sem perdas, pagou 12 PO; +50 XP de resolução substantiva, reputação gratidão e respeito."
   investigation_offer: null
   iria_future_contact: "Ferraria de Durnak Mão de Ferro; recados para futuras contratações, sem compromisso."
-  investigation_contract_status: "Concluído Dia5 ~15h40, evidências aceitas por Iria, 5 PO pagos, +50 XP. Segundo Alda, patrulha saiu pouco depois das 16h com dois vigias rumo às encostas; resultado desconhecido por Eron; sem culpa judicial estabelecida."
+  investigation_contract_status: "Concluído Dia5 ~15h40, 5 PO e 50 XP recebidos. Patrulha localizada Dia5 ~20h10 junto à cabana, arames recolhidos; discussão com Odran em andamento, sem resolução judicial."
 world:
   main_plotlines_independent:
     - "A: crime contra Aldren/Mirella e morte de Edric / conspiração de Pedra Branca e Pulgueiro"
@@ -214,8 +214,8 @@ world:
 transcription:
   character_creation_history: sessions/transcripts/SESSION_0001_FULL.md
   narrative_session: sessions/transcripts/SESSION_0002_FULL.md
-  last_saved_player_turn: "- quando foi a última vez que a iria foi vista?"
-  last_saved_dm_turn: "[208] MESTRE — Alda informa sobre saída de Iria."
+  last_saved_player_turn: "[209] — pediu banho ao retornar e travessia noturna até cabana."
+  last_saved_dm_turn: "[210] MESTRE — patrulha localizada, Eron oculto."
 notes:
   - "Primeira resposta de cena será salva literalmente e sem revelar preparativos de dm."
   - "Nunca tratar a aprovação da ficha como XP, nem mudar recursos automaticamente."
