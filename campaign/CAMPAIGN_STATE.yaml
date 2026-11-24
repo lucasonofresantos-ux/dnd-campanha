@@ -180,21 +180,21 @@ character:
 campaign_time:
   calendar_system: "Asterion, dias relativos; nenhuma era/ano formal estabelecido"
   day: 6
-  time_of_day: "aproximadamente 15h26 do Dia 6"
+  time_of_day: "aproximadamente 15h30 do Dia 6"
   season: "final do outono"
-  elapsed_game_time: "Dia6 ~15h25–15h26, abertura da porta de manutenção."
+  elapsed_game_time: "Dia6 ~15h26–15h30, leitura da placa de manutenção."
 location:
   continent: Asterion
   polity: "Terras Livres de Avenhar (homebrew), fora de Valdren"
   area: "entroncamento da Estrada do Cascalho, próximo ao Pouso das Três Fontes"
   nearby: "encostas arborizadas da serra cujo monte mais alto é chamado Veyra"
-  exact_position: "Patamar inferior do Monte Veyra, limiar da oficina de manutenção."
-  travel_status: "Porta de manutenção aberta; recinto visto do limiar; corredor principal inexplorado."
+  exact_position: "Oficina de manutenção do Monte Veyra, junto à bancada."
+  travel_status: "Dentro da oficina; porta aberta, três armários fechados; corredor principal inexplorado."
 scene:
   id: OPENING-001
-  status: "awaiting_player_action_at_maintenance_threshold_day6"
+  status: "awaiting_player_action_inside_maintenance_room_day6"
   current_npcs_present: []
-  immediate_visible_situation: "Dia6 15h26: Eron autorizou testes necessários para abrir porta lateral. Girou maçaneta, porta destrancada conforme preparação anterior, abriu para dentro com leve rangido; nenhum teste necessário. Iluminação a partir do limiar revela recinto de manutenção ~5x4m, bancada de pedra com ferramentas metálicas empoeiradas, três armários metálicos fechados, estante com engrenagens/eixos/componentes variados, placa metálica gravada sobre bancada, caixa retangular com peças cristalinas similares às canaletas. Cheiro de metal oxidado, nenhum ser ou movimento perceptível. Eron no limiar, não entrou nem examinou/tocou/coletou bens, placa não lida. Corredor principal permanece inexplorado. Sem XP, dano, combate ou gasto adicional além da queima contínua da lanterna. PV12/12 CA16 XP275/300; inspiração disponível; disco na bolsa, lanterna ~4h44 até ~20h10, 6 óleos reserva."
+  immediate_visible_situation: "Dia6 ~15h26–15h30: Eron entrou na oficina e aproximou-se da bancada para examinar placa de liga metálica escurecida ~40x30cm fixada por quatro rebites. Removeu poeira, leu anão arcaico conhecido, sem teste. Tradução: INSTRUÇÕES DE MANUTENÇÃO. I — Isole as linhas de condução antes de substituir seus componentes. II — Não reinstale cristais que apresentem fissuras. III — Verifique a integridade das conexões antes de restabelecer a alimentação. Montanha e seis símbolos gravados na base. Eron deduz provável distribuição de energia nas canaletas e função dos cristais no sistema; não compreende princípio de funcionamento, não verificou se energizado, não identificou origem, não operou nem coletou componentes. Três armários fechados, porta da oficina aberta, corredor principal inexplorado. Sem novo dado, XP, dano ou gasto adicional exceto queima contínua da lanterna. PV12/12 CA16 XP275/300, inspiração disponível, disco na bolsa, lanterna ~4h40 até ~20h10, 6 óleos reserva."
   discovered_traps:
     - location: "Trilha dos Corcos, junto ao riacho"
       state: disarmed_safe_wire_left_at_tree
@@ -239,8 +239,8 @@ world:
 transcription:
   character_creation_history: sessions/transcripts/SESSION_0001_FULL.md
   narrative_session: sessions/transcripts/SESSION_0002_FULL.md
-  last_saved_player_turn: "[263] JOGADOR — abre porta, autoriza testes necessários."
-  last_saved_dm_turn: "[264] MESTRE — porta aberta sem teste, oficina visível."
+  last_saved_player_turn: "[265] JOGADOR — examina placa da parede."
+  last_saved_dm_turn: "[266] MESTRE — traduz instruções de manutenção sem teste."
 notes:
   - "Primeira resposta de cena será salva literalmente e sem revelar preparativos de dm."
   - "Nunca tratar a aprovação da ficha como XP, nem mudar recursos automaticamente."
