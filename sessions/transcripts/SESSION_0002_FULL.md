@@ -1625,3 +1625,68 @@ A toca da loba ainda fica adiante, na ravina. Perto do riacho, o segundo laço p
 - **Condições do Jogador:** Ladino 1, **12/12 PV**, **CA 16**, **25/300 XP**, **31 PO e 1 PP**, Inspiração Heroica disponível; **18 flechas utilizáveis**. Kit de curandeiro com 10 usos, unguento e ataduras intactos. Quatro rações completas e uma quase consumida. Carrega também os materiais anteriores do coelho e a chave temporária do quarto 3; dentro da capacidade de carga.
 
 **GitHub:** cinco rolagens, transcrição literal, recursos, inventário, cronologia e estado da campanha registrados em commits confirmados.
+
+## [073] JOGADOR — 2026-11-23
+
+Vou desarmar a armadilha e depois vou para a loba, pode rolar percepção, furtividade e oque precisar para desarmar a armadilha
+
+## [074] MESTRE — 2026-11-23
+
+### Trilha dos Corços — Dia 2, 8h55
+
+Eron deixa a carne e os materiais do corço em terreno firme, fora do alcance do laço, e se aproxima cuidadosamente da armadilha que descobriu.
+
+<box border radius="lg" padding={3} gap={2}>
+  <title size="md">Testes — Desarme da armadilha</title>
+  | Teste | Dados | Total |
+  |---|---|---:|
+  | Percepção +7 | [2] + 7 | **9** |
+  | Furtividade +9 | [13] + 9 | **22** |
+  | Prestidigitação + Ferramentas de Ladrão | [4, 14] → 14 + 7 | **21** |
+  <text color="success" weight="medium" size="sm"><icon name="check-circle" inline/> Armadilha desarmada com sucesso</text>
+  <caption>O último teste teve vantagem porque Eron possui proficiência tanto em Prestidigitação quanto nas Ferramentas de Ladrão, ambas aplicáveis ao desarme.</caption>
+</box>
+
+A vegetação úmida abafa os passos de Eron. Ele não percebe nenhuma pessoa por perto, mas as marcas das botas continuam visíveis na lama.
+
+Agachado ao lado da árvore, examina a haste tensionada. Usando uma das ferramentas de ladrão, trava temporariamente o mecanismo, retira o arame do gatilho e libera a tensão aos poucos. A madeira se endireita lentamente, sem disparar.
+
+O laço cai inerte entre as folhas.
+
+**A armadilha não oferece mais perigo.** Eron afasta o arame da passagem dos animais, deixando-o junto à árvore. Não encontrou indícios suficientes para identificar quem a instalou.
+
+Por eliminar um perigo real que ameaçava os animais e viajantes daquela trilha, Eron recebe **25 XP**.
+
+<row align="center" justify="between">
+  <text color="secondary" weight="medium">Experiência atual</text>
+  <title size="lg" tabularNums>50 / 300 XP</title>
+</row>
+
+### Ravina da loba — Aproximadamente 9h40
+
+Com os materiais da caça novamente acomodados, Eron retoma a subida pela mata. O peso do corço torna o percurso mais trabalhoso, mas ele segue pela trilha já conhecida.
+
+O som do riacho vai ficando distante. Rochas escuras surgem entre as raízes, e a entrada da toca finalmente aparece sob a saliência de pedra.
+
+**A loba ainda está ali.**
+
+Ela está deitada perto da entrada, com um dos filhotes junto ao seu flanco. O outro aparece por um instante entre as pedras, antes de recuar para a sombra.
+
+Ao perceber a chegada de Eron, a loba levanta a cabeça. Suas narinas se movem, captando o cheiro forte da carne fresca que ele carrega.
+
+Ela se ergue com alguma dificuldade. A faixa improvisada permanece na pata dianteira, embora esteja suja de terra. O animal ainda evita apoiar totalmente o membro ferido.
+
+A loba observa Eron atentamente. Não avança nem rosna, mas tampouco abandona a proteção dos filhotes.
+
+Eron está novamente diante da toca, carregando carne de corço, unguento e materiais para curativo.
+
+**O que Eron faz?**
+
+**[LOG DE MEMÓRIA DA CAMPANHA]**
+- **Localização Atual:** Entrada da toca da loba na ravina, aproximadamente às **9h40 do Dia 2**.
+- **NPCs Presentes e Relação:** Loba cinzenta ferida e dois filhotes. Ela reconhece a aproximação de Eron sem demonstrar agressividade imediata, mas permanece selvagem e protetora.
+- **Linha de Missão Ativa:** Tratar a pata da loba, alimentá-la e buscar uma solução duradoura para os ataques às cabras de Mara. Recompensa de **12 PO ainda pendente**.
+- **Eventos Cruciais Ocorridos:** **Percepção [2]+7=9**, **Furtividade [13]+9=22** e **Prestidigitação/Ferramentas de Ladrão com vantagem [4,14]→14+7=21**. Laço de arame **desarmado**, sem ferimentos; seu responsável continua desconhecido. **+25 XP**, total **50/300**. Eron voltou à toca com os materiais do corço e observou a loba ainda poupando a pata.
+- **Condições do Jogador:** Ladino 1, **12/12 PV**, **CA 16**, **50/300 XP**, **31 PO e 1 PP**, Inspiração Heroica disponível, **18 flechas utilizáveis**. Carrega aproximadamente **10 kg de carne fresca de corço**, demais componentes crus da caça, kit de curandeiro com **10 usos**, unguento e ataduras ainda intactos, quatro rações completas e uma quase consumida, além da chave temporária do quarto 3. Sem condições ativas.
+
+**GitHub:** rolagens, XP, desarme, localização, cronologia e transcrição literal salvos; commits confirmados.
