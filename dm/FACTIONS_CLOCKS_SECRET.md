@@ -152,3 +152,6 @@
 
 ## Dia 3 ~17h10 — ponte do Córrego Curvo
 - Avel trabalha no mecanismo de roldanas de barreira de retenção de madeira; uma roldana travada impede levantar a barreira. Acúmulo de troncos aumenta pressão na estrutura; trânsito de carroças suspenso preventivamente. Não definir diagnóstico interno sem exame. Avel precisa de ajuda competente, ainda não negociou com Eron. Caravana continua sujeita à suspensão, sem localização atual afirmada ao jogador. Não conectar ao arco dos laços ou outros segredos.
+
+## Dia 3 ~17h10 — oferta de Avel
+- Avel oferece 3 PO pelo funcionamento da roldana, com ferramentas e peças locais; duas tentativas anteriores falharam. Correnteza em elevação, pressão de troncos crescente. Diagnóstico ainda não estabelecido publicamente; não exigir risco desnecessário nem garantir êxito. Aceitação pendente, sem pagamento.
