@@ -4273,3 +4273,35 @@ Atualmente, você possui **13 flechas e 43 PO, 6 PP e 7 PC**. Para repor a muni�
 - **Condições do Jogador:** 12/12 PV, CA 16, 125/300 XP, 43 PO, 6 PP e 7 PC, 13 flechas, 3 rações. Inspiração Heroica disponível.
 
 **GitHub:** transcrição, cronologia e estado atualizados; commits confirmados.
+
+## [169] JOGADOR
+
+- se deixar eu fazer umas flechas aqui agradeço
+
+## [170] MESTRE
+
+### Ferraria de Durnak — Dia 4, 14h25
+
+— Claro, rapaz. Pode usar aquela bancada e a forja. Depois do trabalho que fez para mim, não vou cobrar pelo espaço.
+
+Durnak aponta para algumas hastes de madeira seca, um recipiente com penas e pequenos pedaços de ferro.
+
+— Tenho material suficiente para vinte flechas. Deixo tudo por quatro moedas de prata. Só peço que deixe as ferramentas organizadas quando terminar. Fecho a ferraria às seis, mas pode voltar amanhã para concluir o serviço.
+
+**Proposta de Durnak:**
+- Uso da ferraria e das ferramentas: gratuito.
+- Materiais para 20 flechas: 4 PP.
+- Tempo de fabricação: 8 horas de trabalho, podendo ser dividido entre hoje e amanhã por decisão do Mestre.
+
+— O que me diz?
+
+---
+
+**[LOG DE MEMÓRIA DA CAMPANHA]**
+- **Localização Atual:** Ferraria de Durnak, Dia 4, 14h25.
+- **NPCs Presentes e Relação:** Durnak Mão de Ferro, relação profissional positiva.
+- **Linha de Missão Ativa:** Proteção dos rebanhos e investigação dos laços.
+- **Eventos Cruciais Ocorridos:** Uso gratuito da ferraria autorizado; oferta de materiais para 20 flechas.
+- **Condições do Jogador:** 12/12 PV, CA 16, 125/300 XP, 43 PO, 6 PP e 7 PC, 13 flechas. Inspiração Heroica disponível.
+
+**GitHub:** transcrição, cronologia, estado e relógios atualizados; commits confirmados.
