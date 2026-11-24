@@ -179,3 +179,6 @@
 
 ## Dia 4 ~09h00 — tratamento final
 - Loba recebeu 6 kg de carne com crias; ferida fechada e curativo retirado após exame bem-sucedido, sem novo consumo médico. Mobilidade quase normal, força ainda em recuperação. Confiança muito elevada, selvagem; não garantir obediência, caça bem-sucedida ou recompensa do rebanho sem verificação. Sem novo XP por tratamento repetido.
+
+## Dia 4 ~09h05 — familiaridade com crias
+- Eron prometeu retornar no Dia5 com comida. Loba não compreende promessa em linguagem humana. Um filhote busca contato espontaneamente, outro permanece cauteloso; mãe tolera aproximação supervisionada. Nenhuma domesticação, adoção, vínculo mecânico ou nova rolagem. Recuperação final segue; prêmio do rebanho ainda depende de verificação.
