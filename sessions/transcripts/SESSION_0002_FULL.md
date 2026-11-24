@@ -4179,3 +4179,51 @@ Para fabricar os seis cravos de fixação, faça um teste de **Destreza (Ferrame
 - **Condições do Jogador:** 12/12 PV, CA 16, 125/300 XP, 42 PO, 1 PP e 7 PC, 13 flechas, 3 rações. Inspiração Heroica disponível.
 
 **GitHub:** transcrição, rolagem, cronologia, ficha, estado e relógios atualizados; commits confirmados.
+
+## [165] JOGADOR
+
+16 natural 
+
+## [166] MESTRE
+
+### Ferraria de Durnak — Dia 4, 14h20
+
+<card gap={1}>
+  <caption>Destreza — Ferramentas de Ferreiro</caption>
+  <title size="2xl" color="success">23</title>
+  `1d20+7` → [16] + 7 = **23**
+  <text color="success">Sucesso</text>
+</card>
+
+Eron termina os seis cravos de fixação, mantendo dimensões uniformes e bom acabamento. Durnak compara as peças, verifica os aros e aprova o serviço.
+
+— Você trabalha rápido e não desperdiça ferro. É bom ter alguém competente por aqui.
+
+O anão entrega a remuneração combinada.
+
+<card gap={2}>
+  <row>
+    <icon name="check-circle" color="success"/>
+    **Serviço concluído**
+  </row>
+  <caption>Pagamento recebido</caption>
+  <title size="xl" color="success">+1 PO e 5 PP</title>
+  <divider/>
+  <caption>Dinheiro disponível</caption>
+  <title size="2xl">43 PO · 6 PP · 7 PC</title>
+</card>
+
+— Por hoje é só, Eron. Ainda tem bastante luz se quiser resolver seus assuntos.
+
+O restante da tarde está livre.
+
+---
+
+**[LOG DE MEMÓRIA DA CAMPANHA]**
+- **Localização Atual:** Ferraria de Durnak, Dia 4, 14h20.
+- **NPCs Presentes e Relação:** Durnak Mão de Ferro, satisfeito com o trabalho.
+- **Linha de Missão Ativa:** Proteção dos rebanhos e investigação dos laços.
+- **Eventos Cruciais Ocorridos:** Serviço concluído e remuneração recebida.
+- **Condições do Jogador:** 12/12 PV, CA 16, 125/300 XP, 43 PO, 6 PP e 7 PC, 13 flechas, 3 rações. Inspiração Heroica disponível.
+
+**GitHub:** transcrição, rolagem, inventário, cronologia, estado e relógios atualizados; commits confirmados.
