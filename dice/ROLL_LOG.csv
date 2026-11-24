@@ -56,3 +56,5 @@ date,campaign_id,stage,attempt,expression,six_rolls_faces_in_order,six_attribute
 2026-11-23,ERON-RIVER-ASTERION-001,skill_check_survival,3,1d20+5,1,"1+5",6,true
 2026-11-23,ERON-RIVER-ASTERION-001,skill_check_stealth,4,1d20+9,11,"11+9",20,true
 2026-11-23,ERON-RIVER-ASTERION-001,skill_check_perception,4,1d20+7,9,"9+7",16,true
+2026-11-23,ERON-RIVER-ASTERION-001,ranged_attack_shortbow_advantage,1,2d20kh1+7,"2,10","10+7",17,true
+2026-11-23,ERON-RIVER-ASTERION-001,shortbow_damage_with_sneak_attack,1,2d6+5,"4,3","4+3+5",12,true
