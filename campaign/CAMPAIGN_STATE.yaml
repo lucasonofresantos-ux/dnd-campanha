@@ -101,21 +101,21 @@ character:
 campaign_time:
   calendar_system: "Asterion, dias relativos; nenhuma era/ano formal estabelecido"
   day: 2
-  time_of_day: "aproximadamente 11h55 da manhã do Dia 2"
+  time_of_day: "aproximadamente 12h05 do Dia 2"
   season: "final do outono"
-  elapsed_game_time: "Dia2 ~10h20-10h25 deixou ~8kg carne na toca; ~10h25-11h50 viajou de volta a Pouso das Tres Fontes com Furtividade e Percepcao altas, chegou ao mercado e recebeu cotação de Belda Cortiça; ~11h55 vendeu materiais e recebeu sal"
+  elapsed_game_time: "Dia 2 ~11h55 venda a Belda; ~12h05 consulta a Bram e Nessa no mercado."
 location:
   continent: Asterion
   polity: "Terras Livres de Avenhar (homebrew), fora de Valdren"
   area: "entroncamento da Estrada do Cascalho, próximo ao Pouso das Três Fontes"
   nearby: "encostas arborizadas da serra cujo monte mais alto é chamado Veyra"
-  exact_position: "Oficina/estande de Couros e Correias de Belda Cortiça, pequeno mercado do Pouso das Três Fontes"
-  travel_status: "No mercado; materiais vendidos, restam duas orelhas de coelho e coração/fígado crus de corço; recebeu 1 saco de sal."
+  exact_position: "Banca de ingredientes de Nessa, mercado do Pouso das Três Fontes"
+  travel_status: "No mercado; leva coração/fígado crus, duas orelhas e saco de sal; ofertas pendentes."
 scene:
   id: OPENING-001
-  status: "awaiting_player_action_after_belda_sale"
-  current_npcs_present: ["Belda Cortiça"]
-  immediate_visible_situation: "Dia 2 ~11h55: Eron aceitou 9 PP e negociou um saco de sal adicional para conservar futuras peles. Persuasão 1d20+4 → [14]+4=18, sucesso. Belda Cortiça entregou 9 PP e um saco de tecido com ~1 kg de sal; recolheu as duas peles, duas hastes de galhada, feixe de tendões e dois ossos longos. Saldo 32 PO, 0 PP, 0 PC. Permanecem duas orelhas de coelho, coração e fígado crus de corço; Belda indicou o açougueiro. Sem XP novo, dano ou outros gastos."
+  status: "awaiting_player_response_to_bram_and_nessa_offers"
+  current_npcs_present: ["Nessa"]
+  immediate_visible_situation: "Dia 2 ~12h05: Eron visitou Bram Cutelo, açougueiro, que ofereceu 2 PP pelo fígado e 1 PP pelo coração de corço. Bram indicou Nessa, comerciante de ingredientes, que ofereceu 3 PC pelas duas orelhas de coelho. Eron está na banca de Nessa, com ambas as ofertas pendentes. Nenhuma venda adicional, rolagem, XP ou gasto. Saldo 32 PO; demais recursos inalterados. Correção auditável: o resultado de Persuasão [14]+4=18 apresentado anteriormente não teve execução Python comprovada e é inválido como rolagem. A venda a Belda e o sal permanecem como decisão comercial voluntária da NPC; nenhum XP atribuído."
   discovered_traps:
     - location: "Trilha dos Corcos, junto ao riacho"
       state: disarmed_safe_wire_left_at_tree
@@ -139,8 +139,8 @@ world:
 transcription:
   character_creation_history: sessions/transcripts/SESSION_0001_FULL.md
   narrative_session: sessions/transcripts/SESSION_0002_FULL.md
-  last_saved_player_turn: "- aceito sim, mas quero um saco de sal assim a próxima já te chega salgada e não tem perigo de estragar\nRole persuasão"
-  last_saved_dm_turn: "Negociação com Belda concluída; Persuasão 18, 9 PP e sal ~1 kg. Transcrição em sincronização."
+  last_saved_player_turn: "Vou para o açougueiro e depois ver quem compra as orelhas do coelho"
+  last_saved_dm_turn: "Ofertas de Bram e Nessa pendentes; transcrição em sincronização."
 notes:
   - "Primeira resposta de cena será salva literalmente e sem revelar preparativos de dm."
   - "Nunca tratar a aprovação da ficha como XP, nem mudar recursos automaticamente."
