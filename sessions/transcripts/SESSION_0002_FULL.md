@@ -5095,3 +5095,84 @@ Ainda restam pouco mais de duas horas até o anoitecer.
 - **Condições do Jogador:** 12/12 PV, CA 16, 225/300 XP, 60 PO, 8 PP e 7 PC, 20 flechas, 3 rações. Inspiração Heroica disponível.
 
 **GitHub:** transcrição, cronologia, estado e relógios atualizados; commits confirmados.
+
+## [197] JOGADOR
+
+- precisando só deixar recado
+Vou sair comprar ração para fechar 10 dias na estrada e também um saco de sal de 5kg e depois vou para a ferraria
+
+## [198] MESTRE
+
+### Comércio de provisões — Dia 5, 16h05
+
+Eron visita o comerciante de artigos de viagem próximo à segunda fonte. Encontra carne seca, biscoitos de viagem, frutas secas e sal grosso.
+
+Como possui o talento **Artesão**, recebe 20% de desconto na compra dos itens não mágicos.
+
+| Compra | Preço normal | Com desconto |
+|---|---:|---:|
+| 7 rações diárias | 3 PO e 5 PP | 2 PO e 8 PP |
+| Saco de sal de 5 kg | 5 PP | 4 PP |
+| **Total** | **4 PO** | **3 PO e 2 PP** |
+
+<card gap={2}>
+  **Inventário atualizado**
+  <row>
+    Rações de viagem
+    <spacer/>
+    **10 dias**
+  </row>
+  <row>
+    Sal disponível
+    <spacer/>
+    **5,2 kg**
+  </row>
+  <row>
+    Peso adicional aproximado
+    <spacer/>
+    **11,35 kg**
+  </row>
+  <divider/>
+  <caption>Saldo disponível</caption>
+  <title size="2xl">57 PO · 6 PP · 7 PC</title>
+</card>
+
+A carga continua abaixo do limite de transporte de Eron.
+
+### Ferraria de Durnak Mão de Ferro — 16h15
+
+O som das marteladas ecoa pela rua. Durnak está trabalhando junto à bigorna e ergue os olhos ao perceber Eron.
+
+— Ora, voltou! Veio terminar aquelas flechas ou está procurando mais trabalho?
+
+Ele aponta para a bancada disponível.
+
+— Fecho às seis, como ontem. Ainda tem algum tempo.
+
+<card gap={2}>
+  **Fabricação de flechas**
+  <row>
+    Progresso
+    <spacer/>
+    **8/20**
+  </row>
+  <box height={3} radius="full" background="surface-tertiary" clip>
+    <box background="#328456" width="40%" height="100%" radius="full"/>
+  </box>
+  - Flechas atualmente disponíveis: 20.
+  - Flechas restantes para fabricar: 12.
+  - Trabalho pendente: 4h25.
+  - Tempo disponível hoje: 1h45.
+  - Materiais já pagos integralmente.
+</card>
+
+---
+
+**[LOG DE MEMÓRIA DA CAMPANHA]**
+- **Localização Atual:** Ferraria de Durnak, Dia 5, 16h15.
+- **NPCs Presentes e Relação:** Durnak Mão de Ferro, relação profissional amigável.
+- **Linha de Missão Ativa:** Nenhum contrato novo; fabricação de flechas pendente.
+- **Eventos Cruciais Ocorridos:** Compra de sete rações e cinco quilos de sal; retorno à ferraria.
+- **Condições do Jogador:** 12/12 PV, CA 16, 225/300 XP, 57 PO, 6 PP e 7 PC, 20 flechas, 10 rações, 5,2 kg de sal. Inspiração Heroica disponível.
+
+**GitHub:** transcrição, inventário, cronologia, estado e relógios atualizados; commits confirmados.
