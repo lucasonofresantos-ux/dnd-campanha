@@ -3166,3 +3166,60 @@ São aproximadamente **12h00**. Eron está no açougue, a poucos minutos da ferr
 - **Condições do Jogador:** 12/12 PV, CA 16, 50/300 XP, 15 flechas, 35 PO, 2 PP e 3 PC. Kit de curandeiro 9/10, 200 g de sal e Inspiração Heroica disponível.
 
 **GitHub:** transcrição, inventário, cronologia, estado e relógios atualizados; commits confirmados.
+
+## [129] JOGADOR
+
+Como um pouco e depois vou para a ferraria
+- tem mais algo que eu possa fazer?
+
+## [130] MESTRE
+
+### Ferraria de Durnak — Dia 3, 12h20
+
+Depois de terminar a ração que estava aberta, Eron segue até a ferraria. Durnak abre um sorriso ao vê-lo chegar.
+
+— Ah, River! Voltou mesmo. Tenho uma encomenda de quatro dobradiças reforçadas, vinte pregos grandes e o reparo de uma cabeça de machado. Pago uma moeda de ouro pelo serviço.
+
+O anão aponta para algumas peças metálicas sobre a bancada.
+
+— Também ouvi dizer que Avel Duro, responsável pela ponte do Córrego Curvo, está precisando de alguém que entenda de ferragens e mecanismos. Talvez seja um trabalho interessante para você. Mas não sei quanto ele pretende pagar.
+
+Durnak cruza os braços.
+
+— Então, aceita o serviço de hoje?
+
+<card gap={2}>
+  **Encomenda da ferraria**
+  - 4 dobradiças reforçadas.
+  - 20 pregos grandes.
+  - Reparação de um machado.
+  <divider/>
+  <row>
+    Remuneração
+    <spacer/>
+    **1 PO**
+  </row>
+  <row>
+    Materiais
+    <spacer/>
+    Fornecidos por Durnak
+  </row>
+  <row>
+    Tempo estimado
+    <spacer/>
+    4 a 5 horas
+  </row>
+</card>
+
+Caso aceite, faça um teste de **Força (Ferramentas de Ferreiro), 1d20+3**, para a fabricação das dobradiças e dos pregos.
+
+---
+
+**[LOG DE MEMÓRIA DA CAMPANHA]**
+- **Localização Atual:** Ferraria de Durnak, Dia 3, 12h20.
+- **NPCs Presentes e Relação:** Durnak Mão de Ferro, empregador anterior satisfeito.
+- **Linha de Missão Ativa:** Recuperação da loba, proteção dos rebanhos e investigação dos laços.
+- **Eventos Cruciais Ocorridos:** Nova oferta de trabalho na ferraria e indicação de serviço na ponte do Córrego Curvo.
+- **Condições do Jogador:** 12/12 PV, CA 16, 50/300 XP, 15 flechas, 35 PO, 2 PP e 3 PC, três rações intactas. Inspiração Heroica disponível.
+
+**GitHub:** transcrição, inventário, cronologia, estado e relógios atualizados; commits confirmados.
