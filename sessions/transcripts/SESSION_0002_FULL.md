@@ -6649,3 +6649,52 @@ A entrada permanece aberta atrás de você.
 - **Inventário:** Marca da Bigorna Velada recuperada. Lanterna coberta, 7 frascos de óleo, 10 velas e pederneira disponíveis; nenhuma iluminação acesa.
 
 **GitHub:** transcrição, ficha, rolagens, cronologia e estado atualizados; commits confirmados.
+
+## [251] JOGADOR
+
+Vou encaixar a moeda na cavidade interna e vou acender a lanterna
+
+## [252] MESTRE
+
+### Interior do Monte Veyra — Dia 6, 14h10
+
+Você retorna à face interna da entrada e encaixa a Marca da Bigorna Velada na segunda cavidade.
+
+O mecanismo responde imediatamente. A pesada porta de pedra desliza de volta à posição original, até que o último feixe de luz natural desaparece. Um estalo metálico encerra o movimento.
+
+Na escuridão, você abastece a lanterna com óleo e utiliza a pederneira para acendê-la. A chama revela um corredor de construção impressionante: blocos perfeitamente ajustados, teto plano e duas estreitas canaletas longitudinais entalhadas nas paredes.
+
+A aproximadamente 12 metros, o corredor termina diante de uma segunda porta, desta vez inteiramente metálica. Em sua superfície existem inscrições gravadas e relevos geométricos. Ainda não é possível distinguir seus detalhes dessa distância.
+
+<card gap={2}>
+  **Iluminação e recursos**
+  <row>
+    <icon name="lamp" color="warning" size="xl"/>
+    **Lanterna coberta acesa**
+  </row>
+  | Recurso | Situação |
+  |---|---|
+  | Luz plena | Raio de 9 metros |
+  | Penumbra | Mais 9 metros |
+  | Autonomia inicial | 6 horas |
+  | Frascos de óleo restantes | 6 |
+  | Velas | 10 |
+</card>
+
+Atrás de você, a porta de pedra está fechada. O disco continua encaixado na cavidade interna, ao alcance da mão.
+
+Nenhum teste foi necessário para operar a cavidade ou acender a lanterna.
+
+---
+
+**[LOG DE MEMÓRIA DA CAMPANHA]**
+- **Localização atual:** Face interna da entrada do Monte Veyra, Dia 6, 14h10.
+- **NPCs presentes:** Nenhum avistado.
+- **Missão ativa:** Exploração da estrutura desconhecida.
+- **Eventos cruciais:** Porta externa fechada pelo comando interno; segunda porta metálica avistada a 12 metros.
+- **Condições:** 12/12 PV | CA 16 | 250/300 XP | Inspiração Heroica disponível.
+- **Inventário:** Lanterna acesa até aproximadamente 20h10, se permanecer queimando; 6 frascos de óleo em reserva. Marca da Bigorna Velada encaixada na cavidade interna.
+
+**Auditoria:** as rolagens anteriores de Percepção 23 e Furtividade 17 não tiveram execução Python comprovada. Registros corrigidos, acontecimentos preservados.
+
+**GitHub:** transcrição, ficha, cronologia, estado e auditoria atualizados; commits confirmados.
