@@ -4141,3 +4141,41 @@ Para ajustar os dois aros de ferro, faça um teste de **Força (Ferramentas de F
 - **Condições do Jogador:** 12/12 PV, CA 16, 125/300 XP, 42 PO, 1 PP e 7 PC, 13 flechas, 3 rações. Inspiração Heroica disponível.
 
 **GitHub:** transcrição, cronologia, estado e relógios atualizados; commits confirmados.
+
+## [163] JOGADOR
+
+18 natural
+
+## [164] MESTRE
+
+### Ferraria de Durnak — Dia 4, 13h10
+
+<card gap={1}>
+  <caption>Força — Ferramentas de Ferreiro</caption>
+  <title size="2xl" color="success">21</title>
+  `1d20+3` → [18] + 3 = **21**
+  <text color="success">Sucesso</text>
+</card>
+
+Eron ajusta os aros de ferro das duas rodas, corrigindo as deformações e garantindo um encaixe firme na madeira.
+
+Ao meio-dia, Durnak interrompe o trabalho para servir o almoço: ensopado de carne com batatas, pão rústico e uma caneca de cerveja. Após a refeição, Eron termina o ajuste dos aros.
+
+O anão examina o resultado e balança a cabeça, satisfeito.
+
+— Muito bom. Agora faltam os seis cravos. Procure deixar todos com as mesmas dimensões.
+
+**Almoço consumido, sem gastar rações.**
+
+Para fabricar os seis cravos de fixação, faça um teste de **Destreza (Ferramentas de Ferreiro) — 1d20+7**.
+
+---
+
+**[LOG DE MEMÓRIA DA CAMPANHA]**
+- **Localização Atual:** Ferraria de Durnak, Dia 4, 13h10.
+- **NPCs Presentes e Relação:** Durnak Mão de Ferro, empregador satisfeito.
+- **Linha de Missão Ativa:** Trabalho na ferraria; proteção dos rebanhos e investigação dos laços.
+- **Eventos Cruciais Ocorridos:** Dois aros ajustados; almoço recebido; seis cravos pendentes.
+- **Condições do Jogador:** 12/12 PV, CA 16, 125/300 XP, 42 PO, 1 PP e 7 PC, 13 flechas, 3 rações. Inspiração Heroica disponível.
+
+**GitHub:** transcrição, rolagem, cronologia, ficha, estado e relógios atualizados; commits confirmados.
