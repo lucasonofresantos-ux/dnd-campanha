@@ -251,3 +251,8 @@ date,campaign_id,stage,attempt,expression,six_rolls_faces_in_order,six_attribute
 2026-11-24,ERON-RIVER-ASTERION-001,correction_unverified_execution_skill_check_survival_wolf_tracking_day6,1,1d20+5,18,"18+5",23,false
 2026-11-24,ERON-RIVER-ASTERION-001,correction_unverified_execution_skill_check_perception_wolf_tracking_day6,1,1d20+7,9,"9+7",16,false
 2026-11-24,ERON-RIVER-ASTERION-001,skill_check_investigation_rock_ledge_day6,1,1d20+6,13,"13+6",19,true
+2026-11-24,ERON-RIVER-ASTERION-001,correction_unverified_execution_skill_check_investigation_rock_ledge_day6,1,1d20+6,13,"13+6",19,false
+2026-11-24,ERON-RIVER-ASTERION-001,skill_check_perception_rock_passage_day6,1,1d20+7,15,"15+7",22,true
+2026-11-24,ERON-RIVER-ASTERION-001,skill_check_stealth_rock_passage_day6,1,1d20+9,5,"5+9",14,true
+2026-11-24,ERON-RIVER-ASTERION-001,skill_check_survival_rock_passage_day6,1,1d20+5,20,"20+5",25,true
+2026-11-24,ERON-RIVER-ASTERION-001,skill_check_investigation_rock_passage_day6,1,1d20+6,20,"20+6",26,true
