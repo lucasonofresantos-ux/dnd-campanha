@@ -1511,3 +1511,117 @@ O que Eron faz?
 - **Condições do Jogador:** Ladino 1, **12/12 PV**, **CA 16**, **25/300 XP**, **31 PO e 1 PP**, Inspiração Heroica disponível, **19 flechas utilizáveis**. Kit de curandeiro com **10 usos**, 1 unguento e ataduras intactos. Quatro rações intactas e uma quase consumida; pele crua danificada, duas orelhas de coelho e chave temporária do quarto 3. Sem condições ativas.
 
 **GitHub:** três rolagens, transcrição literal, cronologia e estado confirmados em commits.
+
+## [071] JOGADOR — 2026-11-23
+
+Primeiro abater o corço, pode rolar o disparo e o dano e depois investigação e percepção para a armaldilha E claro vou saquear o corço
+
+## [072] MESTRE — 2026-11-23
+
+### Trilha dos Corços — Dia 2, aproximadamente 8h05
+
+Eron permanece imóvel atrás do tronco coberto de musgo. O corço continua se alimentando, alheio ao perigo.
+
+Lentamente, Eron encaixa uma flecha no arco curto, puxa a corda até a altura do rosto e dispara.
+
+<box border radius="lg" padding={3} gap={2}>
+  <title size="md">Disparo com arco curto</title>
+  <grid columns={2} gap={3}>
+    <grid-item>
+      <text color="secondary" size="xs">Ataque com vantagem</text>
+      <title size="2xl" color="success">16</title>
+      <caption>`2d20kh1+7` → [8, 9], mantém 9 +7</caption>
+    </grid-item>
+    <grid-item>
+      <text color="secondary" size="xs">Dano perfurante</text>
+      <title size="2xl" color="success">12</title>
+      <caption>`2d6+5` → [2 arco, 5 furtivo] +5</caption>
+    </grid-item>
+  </grid>
+  <text color="success" weight="medium" size="sm"><icon name="check-circle" inline/> Acerto — corço abatido</text>
+  <caption>Corço (Deer), CA 13, 4 PV, conforme SRD 2024. <Cite refs={["turn308639search3","turn308639search6"]}/></caption>
+</box>
+
+A flecha atravessa o peito do animal. Ele dá um salto curto, cambaleia e cai entre as folhas, sem voltar a se erguer.
+
+O bosque permanece silencioso, exceto pelo murmúrio do riacho.
+
+### Investigação da armadilha
+
+<grid columns={2} gap={3}>
+  <grid-item>
+    <box border radius="lg" padding={3} gap={1}>
+      <text color="secondary" size="xs">Investigação +6</text>
+      <title size="xl" color="success">25</title>
+      <caption>`1d20+6` → [19] +6</caption>
+    </box>
+  </grid-item>
+  <grid-item>
+    <box border radius="lg" padding={3} gap={1}>
+      <text color="secondary" size="xs">Percepção +7</text>
+      <title size="xl">10</title>
+      <caption>`1d20+7` → [3] +7</caption>
+    </box>
+  </grid-item>
+</grid>
+
+Depois de confirmar a morte do corço, Eron se aproxima cuidadosamente das marcas que observou junto ao riacho.
+
+Sua investigação revela que o sulco na árvore jovem foi provocado por um arame esticado com força. No barro, identifica a marca de uma estaca arrancada e impressões de botas com solas grossas. Alguém trabalhou naquele ponto, embora as marcas não permitam identificar a pessoa.
+
+Seguindo o alinhamento das marcas, Eron encontra algo mais preocupante.
+
+**Um segundo laço de arame está armado**, parcialmente escondido entre as folhas, junto a uma passagem estreita de animais. O mecanismo aproveita a tensão de uma haste flexível de madeira. Se acionado, pode se fechar sobre a perna de uma criatura que atravesse a trilha.
+
+Eron identifica como evitá-lo, mas **a armadilha continua ativa**.
+
+O teste de Percepção não revela outros movimentos ou pessoas escondidas nas proximidades. Isso não garante que a região esteja deserta.
+
+### Saque do corço
+
+Eron retorna à presa, retira suas ferramentas de coureiro e começa a trabalhar, aproveitando a experiência de Sobrevivência para separar carne, pele e demais materiais.
+
+<box border radius="lg" padding={3} gap={2}>
+  <row align="center" justify="between">
+    <text weight="medium">Sobrevivência + Ferramentas de Coureiro</text>
+    <title size="xl" color="success">24</title>
+  </row>
+  <caption>`2d20kh1+5` → [1, 19], mantém 19 +5</caption>
+  <text color="secondary" size="xs">Vantagem por proficiência tanto na perícia quanto nas ferramentas aplicáveis ao mesmo trabalho. <Cite refs={["turn745064search0","turn745064search1"]}/></text>
+</box>
+
+Desta vez, o trabalho é cuidadoso. Eron evita perfurar as vísceras, preserva a pele e separa a carne sem contaminá-la com terra ou conteúdo intestinal. Uma pequena perfuração causada pela flecha é o único dano relevante à pele.
+
+<box border radius="lg" padding={3} gap={2}>
+  <row align="center" justify="between">
+    **Materiais aproveitados**
+    <badge color="success">Coleta concluída</badge>
+  </row>
+  | Material | Quantidade |
+  |---|---|
+  | Carne fresca | Aproximadamente 10 kg |
+  | Pele crua de corço | 1, com pequeno furo |
+  | Galhadas curtas | 2 hastes |
+  | Tendões | 1 feixe |
+  | Ossos longos aproveitáveis | 2 |
+  | Miúdos aproveitáveis | Coração e fígado |
+</box>
+
+Eron organiza as peças em sua bagagem, separando a carne dos outros materiais. Ainda são produtos crus: precisarão de conservação ou processamento para durar e adquirir valor comercial. A carga adicional é pesada, mas permanece dentro de sua capacidade.
+
+Ao terminar, o sol já alcança parte do chão da floresta. São aproximadamente **8h55**.
+
+A flecha utilizada não está em condições de reutilização; restam **18 flechas utilizáveis**. Pela regra de munição de 2024, após um confronto é possível recuperar metade das munições gastas, arredondada para baixo — neste caso, nenhuma. <Cite refs={["turn541875search0"]}/>
+
+A toca da loba ainda fica adiante, na ravina. Perto do riacho, o segundo laço permanece armado.
+
+**O que Eron faz agora?**
+
+**[LOG DE MEMÓRIA DA CAMPANHA]**
+- **Localização Atual:** Trilha dos Corços, junto ao riacho, aproximadamente às **8h55 do Dia 2**. Eron está perto do local onde abateu e saqueou o corço.
+- **NPCs Presentes e Relação:** Nenhum NPC humano visível. A loba e seus dois filhotes ainda estão fora de vista.
+- **Linha de Missão Ativa:** Levar carne e materiais de curativo à loba; investigar e neutralizar laços perigosos, protegendo o rebanho de Mara. Recompensa de **12 PO pendente**.
+- **Eventos Cruciais Ocorridos:** Corço abatido com ataque **16** e dano **12**; Investigação **25**, Percepção **10**; descoberto **outro laço armado, ainda não desativado**, sem identificar o responsável. Saque **24** com vantagem: cerca de **10 kg de carne fresca**, pele crua, duas galhadas curtas, tendões, dois ossos e coração/fígado. Uma flecha consumida; carne e pele ainda sem conservação. **Nenhum XP novo** por caça comum.
+- **Condições do Jogador:** Ladino 1, **12/12 PV**, **CA 16**, **25/300 XP**, **31 PO e 1 PP**, Inspiração Heroica disponível; **18 flechas utilizáveis**. Kit de curandeiro com 10 usos, unguento e ataduras intactos. Quatro rações completas e uma quase consumida. Carrega também os materiais anteriores do coelho e a chave temporária do quarto 3; dentro da capacidade de carga.
+
+**GitHub:** cinco rolagens, transcrição literal, recursos, inventário, cronologia e estado da campanha registrados em commits confirmados.
