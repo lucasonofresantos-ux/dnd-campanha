@@ -598,3 +598,26 @@ O resultado sugere que **uma aproximação lenta à pata ferida pode ser tentada
 - Condições do Jogador: Ladino 1, **12/12 PV**, **CA 16**, **0/300 XP**, **36 PO e 8 PP**. Quatro porções diárias de ração intactas e uma aberta, bastante consumida; sem condições ativas ou combate.
 
 **GitHub:** rolagem e registros da campanha salvos com commits confirmados.
+
+## [033] JOGADOR — 2026-11-23
+
+- se não cuidar dessa para logo, você pode perder ela e vai morrer, aí quem cuida dos filhotes?
+
+## [034] MESTRE — 2026-11-23
+
+A voz de Eron ecoa suavemente entre as pedras. A loba ergue a cabeça e fixa nele os olhos âmbar. Ela não compreende o aviso sobre perder a pata ou morrer, mas reconhece o tom de sua voz, já familiar depois das horas que passaram juntos.
+
+Um dos filhotes se remexe atrás dela. A loba olha por cima do ombro e o acomoda com o focinho. Quando volta a olhar para Eron, muda o peso do corpo e estende novamente a pata machucada sobre as folhas. Um pequeno tremor percorre o membro antes de ela deixá-lo imóvel.
+
+Ela não rosna. Também não se aproxima nem oferece a pata a Eron deliberadamente. **A confiança cresceu, mas o contato físico ainda é incerto.** Sem um exame mais próximo, ele não sabe a gravidade exata do ferimento.
+
+**O que Eron faz?**
+
+**[LOG DE MEMÓRIA DA CAMPANHA]**
+- Localização Atual: Entrada da toca na ravina, aproximadamente às 15h do Dia 1.
+- NPCs Presentes e Relação: Loba cinzenta ferida e dois filhotes; a loba tolera Eron, mas mantém a proteção das crias.
+- Linha de Missão Ativa: Investigar e solucionar os ataques ao rebanho de Mara; recompensa proposta de 12 PO, não recebida.
+- Eventos Cruciais Ocorridos: Eron alertou verbalmente a loba sobre o risco do ferimento. Ela ficou quieta e voltou a estender a pata, sem permitir expressamente o toque. Nenhum teste ou tratamento.
+- Condições do Jogador: Ladino 1, **12/12 PV**, **CA 16**, **0/300 XP**, **36 PO e 8 PP**. Quatro porções de ração intactas e uma aberta, bastante consumida; nenhuma condição ativa.
+
+**GitHub:** transcrição e registros da campanha atualizados; commits confirmados.
