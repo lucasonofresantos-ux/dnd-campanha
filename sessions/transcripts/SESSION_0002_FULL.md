@@ -3384,3 +3384,36 @@ Ele enxuga as mãos num pedaço de pano.
 - **Condições do Jogador:** 12/12 PV, CA 16, 50/300 XP, 36 PO, 2 PP e 3 PC, 15 flechas, três rações intactas. Inspiração Heroica disponível.
 
 **GitHub:** transcrição, cronologia, estado e relógios atualizados; commits confirmados.
+
+## [137] JOGADOR
+
+- quanto me paga para concertar isso?
+
+## [138] MESTRE
+
+### Ponte do Córrego Curvo — Dia 3, 17h10
+
+Avel olha para Eron, depois para o mecanismo emperrado.
+
+— Depende. Você entende de mecanismos ou é apenas ferreiro? Já tentei liberar essa maldita roldana duas vezes.
+
+Ele aponta para a madeira acumulada junto à barreira.
+
+— Pago **3 peças de ouro** se conseguir colocar o mecanismo em funcionamento. Tenho ferramentas e algumas peças de reposição. Se precisar fabricar alguma coisa, podemos conversar com Durnak.
+
+O homem observa a correnteza com preocupação.
+
+— Preferia resolver isso antes do anoitecer. O nível da água está subindo, e não quero descobrir quanto peso essa estrutura ainda suporta.
+
+— Temos um acordo?
+
+---
+
+**[LOG DE MEMÓRIA DA CAMPANHA]**
+- **Localização Atual:** Ponte do Córrego Curvo, Dia 3, 17h10.
+- **NPCs Presentes e Relação:** Avel Duro, possível contratante.
+- **Linha de Missão Ativa:** Recuperação da loba e proteção dos rebanhos; reparo da ponte.
+- **Eventos Cruciais Ocorridos:** Oferta de 3 PO pelo conserto, ainda não aceita.
+- **Condições do Jogador:** 12/12 PV, CA 16, 50/300 XP, 36 PO, 2 PP e 3 PC, 15 flechas. Inspiração Heroica disponível.
+
+**GitHub:** transcrição, cronologia, estado e relógios atualizados; commits confirmados.
