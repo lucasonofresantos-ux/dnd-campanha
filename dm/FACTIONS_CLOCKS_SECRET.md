@@ -52,3 +52,7 @@
 
 ## Dia 1, ~15h — tentativa frustrada de tocar a pata
 - Teste público Lidar com Animais com script Python `1d20+3` = [4]+3=7 (falha). Loba recolheu a pata, rosnou, mostrou dentes e recuou meio passo. Eron cumpriu condição previamente declarada e voltou ao ponto anterior ~2 m da abertura. Não houve ataque, toque, tratamento, mudança da lesão ou dano. Loba está mais atenta a aproximações da mão na pata, mas ainda aceita presença tranquila em local seguro. Fragmento residual de arame permanece na ferida (conhecimento reservado). Sem XP; não reduzir progresso por nova ação de fala mera, não forçar homicídio/combate.
+
+## Dia 1, ~15h25 — Eron sai da toca para caçar
+- Eron deixou a loba e seus dois filhotes na toca, solicitando que não saísse. A loba ouviu tom, não compreende nem deve cumprir obrigação verbal. Quando Eron saiu, estava com filhotes; sem evento adicional forçado até nova passagem de tempo plausível. Eventual deslocamento animal dependerá de fome, dor, perturbação e risco.
+- Três rolagens reais com script Python: Sobrevivência [1]+5=6, falhou rastreamento de presa maior; Furtividade [11]+9=20, oculto; Percepção [9]+7=16, descobriu coelho selvagem por oportunidade, a ~18m junto à clareira. Eron está a ~20min da toca; não disparou nem capturou ainda. Nenhum arco de conspiração relacionado ao coelho. ~15h25, Dia 1.
