@@ -30,3 +30,5 @@
 - Atualização: sessão 0002 até [210]; Dia5 20h10, Eron oculto a 15m da cabana dos lenhadores, patrulha localizada. Três testes Python verificados.
 
 - Atualização: sessão 0002 até [212], Dia5 20h15; Odran admitiu instalação, patrulha iniciou retorno; Eron oculto a 15m da cabana. Auditoria [210] corrigida.
+
+- Atualização: sessão 0002 até [214], Dia5 20h20; Eron abordou patrulha e conversa com Iria.
