@@ -650,3 +650,57 @@ A loba não rosna. Mas, quando um dos filhotes se agita, ela volta imediatamente
 - Condições do Jogador: Ladino 1, **12/12 PV**, **CA 16**, **0/300 XP**, **36 PO e 8 PP**. Quatro porções de ração intactas e uma aberta, bastante consumida. Sem condições ou combate.
 
 **GitHub:** transcrição e estado da campanha atualizados; commits confirmados.
+
+## [037] JOGADOR — 2026-11-23
+
+Lidar com animais 18 natural 
+- eu vou examinar isso melhor tá bom
+Dou mais um pedaço de carne seca para ela faço um carinho e sem tocar na pata vejo mais de perto se tem algo ali ou oque eu consigo fazer
+
+## [038] MESTRE — 2026-11-23
+
+<row align="center" gap={3}>
+  <box background="surface-secondary" radius="lg" padding={3} align="center" gap={1}>
+    <icon name="paw-print" size="lg"/>
+    <title size="2xl" tabularNums>21</title>
+  </box>
+  <box flex="1" gap={1}>
+    **Sabedoria (Lidar com Animais) +3**
+
+    `1d20+3` → **[18] + 3 = 21**
+
+    <text color="success" weight="medium"><icon name="check-circle" inline/> Sucesso</text>
+    <caption>Rolagem física informada pelo jogador</caption>
+  </box>
+</row>
+
+— Eu vou examinar isso melhor, tá bom?
+
+Eron retira outro pedaço de carne seca e o estende à loba. Ela aproxima o focinho, apanha o alimento e permanece perto enquanto mastiga. Com movimentos lentos, ele leva a mão à lateral do pescoço dela.
+
+A princípio, o corpo da loba enrijece. Suas orelhas se voltam para trás e os olhos acompanham a mão desconhecida. Mas, depois de alguns instantes, ela permite que os dedos percorram o pelo espesso de seu pescoço. Não rosna, nem tenta morder.
+
+**Pela primeira vez, Eron consegue acariciá-la.**
+
+Sem tocar na pata ferida, ele inclina o corpo para observá-la melhor, mantendo-se afastado dos filhotes.
+
+A marca é estreita e profunda, compatível com algo que apertou violentamente o membro. Há inchaço, pele irritada e uma pequena ferida coberta por sangue ressecado e sujeira. Na borda da crosta, algo chama sua atenção: **um minúsculo brilho acinzentado, semelhante à ponta de um fio metálico**.
+
+De onde está, Eron não consegue determinar se é um fragmento preso à pele ou apenas arame enroscado nos pelos endurecidos pelo sangue.
+
+A loba mantém a pata suspensa e observa atentamente seus movimentos. Quando a mão dele se aproxima da região machucada, ela retrai ligeiramente a perna, mas não ameaça atacá-lo.
+
+Eron percebe que limpar a sujeira seria um primeiro cuidado razoável. Contudo, descobrir a profundidade do ferimento e verificar aquele possível fragmento metálico exigirá um exame mais direto, com risco de provocar dor.
+
+**A loba aceita o carinho, mas a pata ainda é um limite delicado.**
+
+**O que Eron faz?**
+
+**[LOG DE MEMÓRIA DA CAMPANHA]**
+- Localização Atual: À entrada da toca na ravina, por volta das 15h do Dia 1; loba a uma distância que permite carinho.
+- NPCs Presentes e Relação: Loba ferida e dois filhotes; a loba aceitou alimento e carinho no pescoço, mas ainda protege as crias e retrai a pata machucada.
+- Linha de Missão Ativa: Investigar e solucionar os ataques ao rebanho de Mara; recompensa proposta de 12 PO ainda não recebida.
+- Eventos Cruciais Ocorridos: **Lidar com Animais: dado físico [18] +3 = 21**. Eron deu mais carne seca, acariciou a loba e observou, sem tocar, a marca profunda, a ferida suja e um pequeno brilho semelhante a arame junto à crosta. Não houve tratamento.
+- Condições do Jogador: Ladino 1, **12/12 PV**, **CA 16**, **0/300 XP**, **36 PO e 8 PP**. Quatro rações diárias intactas e uma aberta, quase consumida; sem condições ou combate.
+
+**GitHub:** rolagem física, transcrição literal, inventário e estado da campanha registrados; commits confirmados.
