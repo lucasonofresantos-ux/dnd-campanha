@@ -33,8 +33,8 @@ character:
   hit_dice_available: "1d8"
   money:
     gold: 32
-    silver: 0
-    copper: 0
+    silver: 3
+    copper: 3
   inventory_reference: character/ERON_RIVER_LEVEL_01.md
   carrying_all_owned_equipment: true
   carrying_weight_lb_recorded: 103.88
@@ -75,7 +75,7 @@ character:
     food_offered: "Dia1 porção aberta dividida com a loba durante o dia e quase esgotada; Dia2 ~09h40 Eron consumiu o restante da porção aberta, permanecem quatro porções diárias intactas. Dia2 ~09h40 entregou à loba e filhotes ~2kg de carne fresca de corço, não de ração."
   salvaged_materials:
     rabbit_raw_hide: "vendida a Belda Cortiça Dia 2 ~11h55"
-    rabbit_ears: 2
+    rabbit_ears: 0
     rabbit_meat: "toda a carne aproveitada entregue à loba e filhotes"
     source: "correção auditável da interpretação de saquear, sem reescrever o teste de Sobrevivência anterior"
   harvested_roe_deer:
@@ -86,9 +86,9 @@ character:
     short_antler_stems: 0
     sinew_bundles: 0
     long_bones: 0
-    useful_offal: "coracao e figado"
+    useful_offal: "vendidos a Bram Cutelo Dia 2 ~12h10"
     estimated_added_weight_kg: 15
-    condition: "Toda carne fresca do corco, ~10kg, foi entregue a loba e filhotes: ~2kg Dia2 ~09h40, ~8kg restantes deixados junto a entrada da toca Dia2 ~10h25, expostos a deterioracao se nao consumidos. Peles, galhadas, tendões e ossos vendidos a Belda; miúdos crus permanecem com Eron."
+    condition: "Toda carne fresca do corco, ~10kg, foi entregue a loba e filhotes: ~2kg Dia2 ~09h40, ~8kg restantes deixados junto a entrada da toca Dia2 ~10h25, expostos a deterioracao se nao consumidos. Peles, galhadas, tendões e ossos vendidos a Belda; miúdos vendidos a Bram; orelhas vendidas a Nessa."
     preparation_result: "Sobrevivencia + Ferramentas de Coureiro com vantagem 2d20kh1+5 [1,19] mantido 19+5=24"
   salt_supply:
     sacks: 1
@@ -101,21 +101,21 @@ character:
 campaign_time:
   calendar_system: "Asterion, dias relativos; nenhuma era/ano formal estabelecido"
   day: 2
-  time_of_day: "aproximadamente 12h05 do Dia 2"
+  time_of_day: "aproximadamente 12h10 do Dia 2"
   season: "final do outono"
-  elapsed_game_time: "Dia 2 ~11h55 venda a Belda; ~12h05 consulta a Bram e Nessa no mercado."
+  elapsed_game_time: "Dia 2 ~11h55 venda a Belda; ~12h05 consulta a Bram e Nessa; ~12h10 vendas concluídas."
 location:
   continent: Asterion
   polity: "Terras Livres de Avenhar (homebrew), fora de Valdren"
   area: "entroncamento da Estrada do Cascalho, próximo ao Pouso das Três Fontes"
   nearby: "encostas arborizadas da serra cujo monte mais alto é chamado Veyra"
-  exact_position: "Banca de ingredientes de Nessa, mercado do Pouso das Três Fontes"
-  travel_status: "No mercado; leva coração/fígado crus, duas orelhas e saco de sal; ofertas pendentes."
+  exact_position: "Açougue de Bram Cutelo, mercado do Pouso das Três Fontes"
+  travel_status: "No mercado; vendeu todos os materiais da caça restantes; possui saco de sal."
 scene:
   id: OPENING-001
-  status: "awaiting_player_response_to_bram_and_nessa_offers"
-  current_npcs_present: ["Nessa"]
-  immediate_visible_situation: "Dia 2 ~12h05: Eron visitou Bram Cutelo, açougueiro, que ofereceu 2 PP pelo fígado e 1 PP pelo coração de corço. Bram indicou Nessa, comerciante de ingredientes, que ofereceu 3 PC pelas duas orelhas de coelho. Eron está na banca de Nessa, com ambas as ofertas pendentes. Nenhuma venda adicional, rolagem, XP ou gasto. Saldo 32 PO; demais recursos inalterados. Correção auditável: o resultado de Persuasão [14]+4=18 apresentado anteriormente não teve execução Python comprovada e é inválido como rolagem. A venda a Belda e o sal permanecem como decisão comercial voluntária da NPC; nenhum XP atribuído."
+  status: "awaiting_player_action_after_market_sales"
+  current_npcs_present: ["Bram Cutelo"]
+  immediate_visible_situation: "Dia 2 ~12h10: Eron aceitou as duas ofertas; Nessa recebeu duas orelhas de coelho e pagou 3 PC; Bram recebeu coração e fígado de corço e pagou 3 PP. Saldo 32 PO, 3 PP, 3 PC. Materiais de caça esgotados; saco de sal ~1 kg mantido. Eron no açougue de Bram. Nenhum XP, dano, gasto ou teste novo."
   discovered_traps:
     - location: "Trilha dos Corcos, junto ao riacho"
       state: disarmed_safe_wire_left_at_tree
@@ -139,8 +139,8 @@ world:
 transcription:
   character_creation_history: sessions/transcripts/SESSION_0001_FULL.md
   narrative_session: sessions/transcripts/SESSION_0002_FULL.md
-  last_saved_player_turn: "Vou para o açougueiro e depois ver quem compra as orelhas do coelho"
-  last_saved_dm_turn: "Ofertas de Bram e Nessa pendentes; transcrição em sincronização."
+  last_saved_player_turn: "Aceito o pagamento"
+  last_saved_dm_turn: "Vendas a Bram e Nessa concluídas; saldo 32PO3PP3PC. Lacuna anterior na transcrição sinalizada."
 notes:
   - "Primeira resposta de cena será salva literalmente e sem revelar preparativos de dm."
   - "Nunca tratar a aprovação da ficha como XP, nem mudar recursos automaticamente."
