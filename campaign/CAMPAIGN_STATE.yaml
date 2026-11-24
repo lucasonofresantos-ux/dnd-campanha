@@ -38,15 +38,15 @@ character:
   inventory_reference: character/ERON_RIVER_LEVEL_01.md
   carrying_all_owned_equipment: true
   carrying_weight_lb_recorded: 103.88
-  carrying_weight_note: "Materiais da caça Dia3 vendidos ou oferecidos; carga abaixo de 180 lb, peso exato não aferido."
+  carrying_weight_note: "Novo material de lebre Dia3 à noite; abaixo de 180 lb, peso exato não aferido."
   carrying_capacity_lb: 180
   known_personal_item: "Marca da Bigorna Velada, pequeno disco familiar e bolsa de couro; uso desconhecido para Eron."
   untrained_owned_tool: "Ferramentas de Funileiro (propriedade, sem proficiência)"
   ammo:
-    shortbow_arrows_in_quiver: 15
+    shortbow_arrows_in_quiver: 14
     shortbow_arrows_fired_unrecovered: 0
-    shortbow_arrows_lost_unusable: 5
-    unrecovered_arrow_location: "Três flechas perdidas antes do Dia3; dois disparos separados na manhã do Dia3, um erro e um acerto, não recuperados."
+    shortbow_arrows_lost_unusable: 6
+    unrecovered_arrow_location: "Cinco flechas perdidas anteriormente; mais uma consumida na caça de lebre do Dia3 à noite."
   accommodation:
     inn: "Posto de Descanso de Alda Tress"
     private_room: 3
@@ -102,6 +102,13 @@ character:
     antlers: 0
     sale_total: "1 PO e 9 PP"
     preparation_result: "Sobrevivência e Coureiro 2d20kh1+5 [13,8] mantido 13+5=18, conforme registro anterior"
+  harvested_hare_day3_evening:
+    fresh_meat_kg_approx: 1.2
+    raw_hide: "1 pele crua em bom estado, sem sal"
+    ears: 2
+    small_bones: 2
+    useful_offal: "1 coração e 1 fígado frescos"
+    preparation_result: "Sobrevivência/Coureiro 2d20kh1+5 [7,18] mantido 18+5=23"
   salt_supply:
     sacks: 1
     weight_kg_approx: 0.2
@@ -113,21 +120,21 @@ character:
 campaign_time:
   calendar_system: "Asterion, dias relativos; nenhuma era/ano formal estabelecido"
   day: 3
-  time_of_day: "aproximadamente 17h50 do Dia 3"
+  time_of_day: "aproximadamente 19h55 do Dia 3"
   season: "final do outono"
-  elapsed_game_time: "Dia3 ~17h25–17h50 reparo do mecanismo e pagamento."
+  elapsed_game_time: "Dia3 ~17h50–19h55 conversa com Avel, caça noturna e saque."
 location:
   continent: Asterion
   polity: "Terras Livres de Avenhar (homebrew), fora de Valdren"
   area: "entroncamento da Estrada do Cascalho, próximo ao Pouso das Três Fontes"
   nearby: "encostas arborizadas da serra cujo monte mais alto é chamado Veyra"
-  exact_position: "Margem do Córrego Curvo, junto à ponte na Estrada do Cascalho"
-  travel_status: "Junto à ponte; reparo concluído, Avel pergunta o nome."
+  exact_position: "Mata junto a um riacho, clareira iluminada pela lua"
+  travel_status: "Deixou a ponte, caça de lebre concluída; na mata."
 scene:
   id: OPENING-001
-  status: "awaiting_player_response_after_bridge_repair"
-  current_npcs_present: ["Avel Duro"]
-  immediate_visible_situation: "Dia3 ~17h25–17h50: Eron confirmou o diagnóstico e reparou o mecanismo da barreira da ponte do Córrego Curvo, assegurando a sustentação da carga, substituindo componentes deformados e alinhando a roldana. Destreza (Ferramentas de Ferreiro) 1d20+7, dado natural informado pelo jogador [18]+7=25, sucesso. Avel testou o mecanismo, ergueu a barreira e os troncos acumulados foram arrastados pela correnteza, aliviando a pressão nos pilares. Reparo concluído antes do anoitecer; Avel pagou 5 PO, novo saldo 41 PO 2 PP 3 PC. +50 XP discricionários por resolução substantiva do desafio ambiental e técnico da ponte, sem duplicação; total 100/300 XP, nível 1. Avel perguntou o nome de Eron e aguarda resposta. Nenhum dano, gasto de materiais próprios ou Inspiração Heroica. A reabertura efetiva ao trânsito de carroças ainda depende da avaliação de Avel."
+  status: "awaiting_player_action_after_day3_evening_hunt"
+  current_npcs_present: []
+  immediate_visible_situation: "Dia 3 ~17h50–19h55: Eron apresentou-se a Avel Duro e indicou a ferraria de Durnak como ponto de recados. Avel concordou. Eron partiu para caçar. Execução efetiva em Python do script dice_roller.py copiado do GitHub, hash git hash-object d35af70119bf684ea055619bb10678a1c4b03bbb conferido: três testes de Sobrevivência com desvantagem devido à luz insuficiente 2d20kl1+5 [14,6] mantido 6+5=11; [17,6] mantido 6+5=11; [17,2] mantido 2+5=7, falhas, sem disparos. ~19h30 junto a riacho iluminado pela lua: Percepção auditiva 1d20+7 [5]+7=12, Furtividade 1d20+9 [14]+9=23; lebre adulta localizada, abordagem sem ser percebido. Ataque arco curto com vantagem 2d20kh1+7 [11,7], mantido 11+7=18, acerto. Dano 2d6+5 [6,1]+5=12, abate. Saque Sobrevivência/Coureiro com vantagem 2d20kh1+5 [7,18], mantido 18+5=23: ~1,2 kg carne fresca, 1 pele crua em bom estado, 2 orelhas, 2 ossos pequenos aproveitáveis, coração e fígado. Uma flecha consumida, restam 14. Sal 200 g não utilizado. Inspiração Heroica intacta, sem XP por caça rotineira, 100/300 XP, 41PO2PP3PC, PV12/12, CA16. Eron está junto a riacho na mata ~19h55."
   discovered_traps:
     - location: "Trilha dos Corcos, junto ao riacho"
       state: disarmed_safe_wire_left_at_tree
@@ -151,8 +158,8 @@ world:
 transcription:
   character_creation_history: sessions/transcripts/SESSION_0001_FULL.md
   narrative_session: sessions/transcripts/SESSION_0002_FULL.md
-  last_saved_player_turn: "- encontrei\n18 natural para arrumar"
-  last_saved_dm_turn: "[144] MESTRE — reparo 25, 5 PO e 50 XP recebidos; Avel pergunta nome."
+  last_saved_player_turn: " - Eron, Eron River, se precisar de algo... Eu sou meio ruim de achar mas pode deixar recado na ferraria\nSaio e vou caçar, pode rolar tudo que precisar até abater alguma coisa e saquear"
+  last_saved_dm_turn: "[146] MESTRE — caça noturna concluída, 14 flechas, materiais de lebre."
 notes:
   - "Primeira resposta de cena será salva literalmente e sem revelar preparativos de dm."
   - "Nunca tratar a aprovação da ficha como XP, nem mudar recursos automaticamente."
