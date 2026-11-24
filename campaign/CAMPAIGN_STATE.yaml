@@ -46,26 +46,26 @@ character:
     starting_full_days: 5
     intact_full_days: 4
     partly_used_days: 1
-    food_offered: "primeiro pequeno pedaço de carne seca consumido pela loba; de segundo pedaço Eron comeu parte e ofereceu o restante à loba, que também consumiu; ambos retirados da mesma porção diária parcial"
+    food_offered: "primeiro pedaço à loba; segundo dividido entre Eron e loba; no almoço Eron comeu pão de viagem e carne seca e compartilhou parte da ração aberta com a loba. Quatro porções intactas, uma aberta bastante consumida; quantidade restante não medida."
   animal_handling_last: "1d20+3 → [17] +3=20; segundo teste, permanência calma por ~10 minutos na entrada, maior tolerância, sem domar nem permitir toque"
 campaign_time:
   calendar_system: "Asterion, dias relativos; nenhuma era/ano formal estabelecido"
   day: 1
-  time_of_day: "aproximadamente meio-dia (12h aproximadas, sem relógio consultado)"
+  time_of_day: "aproximadamente 15h (meio da tarde, estimado pela luz natural)"
   season: "final do outono"
-  elapsed_game_time: "cerca de uma hora e doze minutos desde a conversa junto ao curral; mais poucos minutos oferecendo e comendo carne à entrada da toca, perto do meio-dia"
+  elapsed_game_time: "aproximadamente três horas adicionais de permanência na toca desde o meio-dia; início da tarde avançou até cerca das 15h, Dia 1"
 location:
   continent: Asterion
   polity: "Terras Livres de Avenhar (homebrew), fora de Valdren"
   area: "entroncamento da Estrada do Cascalho, próximo ao Pouso das Três Fontes"
   nearby: "encostas arborizadas da serra cujo monte mais alto é chamado Veyra"
-  exact_position: "sentado lateralmente junto à entrada da toca rochosa, aproximadamente 2 metros da abertura, saída livre; Eron não entrou"
-  travel_status: "Eron permaneceu na entrada da toca sem avançar; sentou-se por ~10 minutos com cautela, sem bloquear saída ou se aproximar das crias"
+  exact_position: "sentado à entrada da toca rochosa na ravina, sem bloquear passagem; permanece fora, aproximadamente 2 m da entrada; ~15h"
+  travel_status: "Eron permaneceu no local até aproximadamente 15h, descansando, almoçando e dividindo ração sem acender fogo; não entrou na toca nem tocou loba/filhotes"
 scene:
   id: OPENING-001
-  status: awaiting_player_after_request_to_examine_paw
+  status: awaiting_player_action_at_den_15h
   current_npcs_present: []
-  immediate_visible_situation: "Eron, ainda sentado ~2 m da entrada, perguntou à loba: vai deixar eu ver esta pata machucada? Ela ergueu cabeça, observou, lambeu a pata brevemente, mudou posição deixando-a estendida sobre folhas secas; marca avermelhada circundante e inchaço visíveis um pouco melhor. Ela suspirou e repousou a cabeça, atenta, sem rosnar; dois filhotes dormitam atrás dela. Ainda não há sinal claro de que permita toque. Eron não se aproximou, não encostou, não tratou ferida; nenhum dado rolado, gasto, combate ou avanço significativo de tempo."
+  immediate_visible_situation: "Eron escolheu permanecer sentado na entrada até o meio da tarde (aprox. 15h), sem fogo. Almoçou pão de viagem e carne seca da porção diária já aberta; dividiu parte da comida com a loba, que aceitou quando sua mão se afastou. Ao longo de cerca de 3h, loba descansou, lambeu a pata e cuidou de dois filhotes; um espreitou entrada, foi chamado de volta. Agora deitada perto da boca da toca, mais habituada a movimentos tranquilos de Eron, mas protetora. Ferimento continua inchado, sem exame por toque ou tratamento. Sem combate, novas rolagens ou XP. 4 porções intactas + 1 aberta bastante consumida. Descanso sedentário de cerca de 3h, sem gastos de Dados de Vida."
   combat: false
   initiative: []
   rounds: 0
@@ -84,8 +84,8 @@ world:
 transcription:
   character_creation_history: sessions/transcripts/SESSION_0001_FULL.md
   narrative_session: sessions/transcripts/SESSION_0002_FULL.md
-  last_saved_player_turn: "- vai deixar eu ver esta pata machucada?"
-  last_saved_dm_turn: "[028] MESTRE — 2026-11-23; loba estende pata após pergunta, sem exame por toque, resposta salva"
+  last_saved_player_turn: "Não vou sair daqui até meia tarde mas vou almoçar e dividir o almoço com ela sem acender o fogo"
+  last_saved_dm_turn: "[030] MESTRE — 2026-11-23; Eron repousou na toca, compartilhou almoço e avançou até ~15h, transcrição salva"
 notes:
   - "Primeira resposta de cena será salva literalmente e sem revelar preparativos de dm."
   - "Nunca tratar a aprovação da ficha como XP, nem mudar recursos automaticamente."
