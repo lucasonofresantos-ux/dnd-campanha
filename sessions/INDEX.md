@@ -18,5 +18,5 @@
 - XP: [XP_LOG.csv](../campaign/XP_LOG.csv), regras em [PROGRESSION_XP.md](../campaign/PROGRESSION_XP.md).
 - Sessão narrativa 1: [SESSION_0002.md](SESSION_0002.md), transcrição [SESSION_0002_FULL.md](transcripts/SESSION_0002_FULL.md).
 - Isolamento: não misturar com `PRE-CHAR-HUMAN-001` (que é histórico da criação), nem com campanhas de outros personagens.
-- Transcrição [SESSION_0002_FULL.md](transcripts/SESSION_0002_FULL.md), mensagens [001]–[022]: nova rolagem Lidar com Animais [17]+3=20; Eron sentou-se junto à entrada a ~2 m por dez minutos, saída livre; loba relaxou parcialmente mas ainda protege filhotes. Nenhum contato/curativo. Rações 4 porções intactas + 1 parcial; XP 0/300, 36 PO 8 PP.
+- Transcrição [SESSION_0002_FULL.md](transcripts/SESSION_0002_FULL.md), mensagens [001]–[024]: Eron come parte de segundo pedaço de carne seca e oferece restante à loba; ela aceita sem rosnar, permanece protetora dos filhotes, sem exame da pata. Quatro porções de ração intactas e uma parcialmente consumida (mais reduzida), 0/300 XP, 36 PO 8 PP. Nenhum teste novo.
 - Planejamento secreto em `dm/` (jamais incluir em logs públicos).
