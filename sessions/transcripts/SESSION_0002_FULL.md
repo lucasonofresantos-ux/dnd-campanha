@@ -4106,3 +4106,38 @@ Durnak pousa o martelo e aponta para duas rodas de carroça encostadas na parede
 - **Condições do Jogador:** 12/12 PV, CA 16, 125/300 XP, 42 PO, 1 PP e 7 PC, 13 flechas, 3 rações, 200 g de sal. Inspiração Heroica disponível. Miúdos da lebre rejeitados, ainda no inventário.
 
 **GitHub:** transcrição, inventário, cronologia, estado e relógios atualizados; commits confirmados.
+
+## [161] JOGADOR
+
+- me dê o almoço e me diga onde compro algumas flechas e negócio fechado 
+
+## [162] MESTRE
+
+### Ferraria de Durnak — Dia 4, 11h05
+
+O anão estende a mão, concordando.
+
+— Uma moeda de ouro, cinco de prata e almoço. Fechado!
+
+Durnak aponta na direção da praça.
+
+— Quanto às flechas, procure o mercador de artigos de viagem, perto da segunda fonte. Costuma ter flechas prontas. Se precisar apenas das pontas de ferro, posso fabricá-las aqui.
+
+Ele entrega a Eron as ferramentas e indica as duas rodas.
+
+— Vamos comer ao meio-dia. Comece pelos aros, depois fazemos os cravos.
+
+**Contrato firmado:** 1 PO, 5 PP e almoço, com ferramentas e materiais fornecidos pela ferraria.
+
+Para ajustar os dois aros de ferro, faça um teste de **Força (Ferramentas de Ferreiro) — 1d20+3**.
+
+---
+
+**[LOG DE MEMÓRIA DA CAMPANHA]**
+- **Localização Atual:** Ferraria de Durnak, Dia 4, 11h05.
+- **NPCs Presentes e Relação:** Durnak Mão de Ferro, empregador conhecido.
+- **Linha de Missão Ativa:** Trabalho na ferraria; proteção dos rebanhos e investigação dos laços.
+- **Eventos Cruciais Ocorridos:** Contrato firmado com almoço incluso; indicação de vendedor de flechas.
+- **Condições do Jogador:** 12/12 PV, CA 16, 125/300 XP, 42 PO, 1 PP e 7 PC, 13 flechas, 3 rações. Inspiração Heroica disponível.
+
+**GitHub:** transcrição, cronologia, estado e relógios atualizados; commits confirmados.
