@@ -167,9 +167,9 @@ character:
 campaign_time:
   calendar_system: "Asterion, dias relativos; nenhuma era/ano formal estabelecido"
   day: 6
-  time_of_day: "aproximadamente 11h25 do Dia 6"
+  time_of_day: "aproximadamente 11h35 do Dia 6"
   season: "final do outono"
-  elapsed_game_time: "Dia6 ~11h20–11h25, inspeção da toca."
+  elapsed_game_time: "Dia6 ~11h25–11h35, investigação da toca."
 location:
   continent: Asterion
   polity: "Terras Livres de Avenhar (homebrew), fora de Valdren"
@@ -179,10 +179,9 @@ location:
   travel_status: "Na entrada da toca, nenhum animal visível; rastreamento ativo não iniciado."
 scene:
   id: OPENING-001
-  status: "awaiting_investigation_roll_wolf_den_day6"
-  pending_check: "Inteligência (Investigação), 1d20+6; aguardando resultado ou autorização."
+  status: "awaiting_player_action_at_wolf_den_day6"
   current_npcs_present: []
-  immediate_visible_situation: "Dia6 ~11h25: Eron declarou investigar a toca. Observou abrigo estreito protegido por raízes e rocha, folhas secas, pelos cinzentos, pequenas marcas de garras, cheiro animal e ossos. Solicitado teste de Inteligência (Investigação) 1d20+6 (INT+4, proficiência+2), aguardando dado do jogador ou autorização de rolagem; nenhum resultado estabelecido, nenhum rastreamento iniciado, recursos e horário inalterados."
+  immediate_visible_situation: "Dia6 ~11h25–11h35: Eron autorizou rolagem pendente de Investigação. Execução efetiva por container.exec do script Python reconstruído do GitHub, hash git d35af70119bf684ea055619bb10678a1c4b03bbb conferido; JSON retornado expression 1d20+6, rolls [20], kept_indices [0], modifier 6, total 26, secrets.randbelow. Teste bem-sucedido (20 natural não implica sucesso automático em perícia). Três depressões no leito de folhas; vestígios sugerem saída nas primeiras horas da manhã com ambos os filhotes caminhando junto à mãe, pegadas regulares sem claudicação evidente; sem vestígios evidentes de invasão humana, luta ou fuga desesperada. Fundo do abrigo começando a umedecer por infiltração. Partida provavelmente voluntária, alimento ou abrigo seco como hipóteses; não é possível determinar se voltarão. Três sequências de rastros convergem para passagem estreita entre arbustos encosta acima. Rastreamento não iniciado. Sem novo XP, dano, gasto ou uso de recursos. PV12/12 CA16 XP225/300, 56PO2PP7PC, 24 flechas e 1 danificada, 10 rações, 5,2kg sal, 11kg carne fresca e demais materiais, inspiração disponível."
   discovered_traps:
     - location: "Trilha dos Corcos, junto ao riacho"
       state: disarmed_safe_wire_left_at_tree
@@ -227,8 +226,8 @@ world:
 transcription:
   character_creation_history: sessions/transcripts/SESSION_0001_FULL.md
   narrative_session: sessions/transcripts/SESSION_0002_FULL.md
-  last_saved_player_turn: "[231] JOGADOR — investiga toca."
-  last_saved_dm_turn: "[232] MESTRE — aguarda Investigação +6."
+  last_saved_player_turn: "[233] JOGADOR — autoriza Investigação."
+  last_saved_dm_turn: "[234] MESTRE — Investigação 26, indícios de partida voluntária."
 notes:
   - "Primeira resposta de cena será salva literalmente e sem revelar preparativos de dm."
   - "Nunca tratar a aprovação da ficha como XP, nem mudar recursos automaticamente."
