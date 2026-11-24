@@ -4645,3 +4645,87 @@ A recuperação parece praticamente completa.
 - **Condições do Jogador:** 12/12 PV, CA 16, 125/300 XP, 41 PO, 9 PP e 7 PC, 20 flechas, 9 kg de carne fresca e materiais da caça, 3 rações, 200 g de sal. Inspiração Heroica disponível.
 
 **GitHub:** transcrição, rolagens reais em Python, inventário, cronologia, estado e relógios atualizados; commits confirmados.
+
+## [181] JOGADOR
+
+- Aqui vou te deixar metade da carne
+Lidar com animais 14
+Medicina 17
+Para rever a para e fazer um carinho nela e nos filhotes que se aproximar
+- acho que hoje é nosso último encontro, vê se não come nenhuma cabra
+
+## [182] MESTRE
+
+### Toca da loba — Dia 5, 10h05
+
+A loba aproxima-se assim que Eron deposita os 4,5 kg de carne junto à entrada da toca. Os filhotes seguem a mãe, disputando pequenos pedaços.
+
+<card gap={2}>
+  <grid columns={2}>
+    <grid-item>
+      <caption>Lidar com Animais</caption>
+      <title size="2xl" color="success">17</title>
+      14 + 3
+      **Sucesso**
+    </grid-item>
+    <grid-item>
+      <caption>Medicina</caption>
+      <title size="2xl" color="success">20</title>
+      17 + 3
+      **Sucesso**
+    </grid-item>
+  </grid>
+  <caption>Dados naturais informados pelo jogador.</caption>
+</card>
+
+O exame confirma que a ferida cicatrizou completamente. A loba movimenta a pata normalmente, sem demonstrar dor durante a manipulação. Não necessita de novos curativos ou medicamentos.
+
+Ao ouvir a voz de Eron, ela inclina a cabeça e encosta o focinho em sua mão. Os dois filhotes aproximam-se voluntariamente para receber carinho.
+
+A mãe permanece ao seu lado durante alguns minutos, antes de retornar à entrada da toca com as crias. Não compreende as palavras de despedida, mas reconhece a voz e os gestos daquele que cuidou dela.
+
+<card gap={2}>
+  **Estado da loba**
+  <row>
+    Ferimento
+    <spacer/>
+    <text color="success">Curado</text>
+  </row>
+  <row>
+    Mobilidade
+    <spacer/>
+    Normal
+  </row>
+  <row>
+    Confiança em Eron
+    <spacer/>
+    Muito elevada
+  </row>
+  <row>
+    Dependência de cuidados
+    <spacer/>
+    Nenhuma
+  </row>
+  <row>
+    Comportamento
+    <spacer/>
+    Selvagem
+  </row>
+</card>
+
+**A recuperação da loba foi concluída.** Eron ainda precisa confirmar a situação dos rebanhos com Mara para encerrar o contrato.
+
+Restam 4,5 kg de carne fresca e os demais materiais da caça em seu inventário.
+
+---
+
+**Nota de auditoria:** a execução Python da caçada anterior não está comprovada. Os acontecimentos foram preservados e as rolagens assinaladas como não verificadas. Os dois testes desta interação são os dados fornecidos por você.
+
+**[LOG DE MEMÓRIA DA CAMPANHA]**
+- **Localização Atual:** Toca da loba, Dia 5, 10h05.
+- **NPCs Presentes e Relação:** Loba recuperada e dois filhotes; confiança muito elevada.
+- **Linha de Missão Ativa:** Receber confirmação de Mara sobre os rebanhos (12 PO); investigação opcional dos laços (5 PO).
+- **Eventos Cruciais Ocorridos:** Recuperação completa da loba, alimentação e despedida.
+- **Condições do Jogador:** 12/12 PV, CA 16, 125/300 XP, 41 PO, 9 PP e 7 PC, 20 flechas, 4,5 kg de carne, demais materiais da caça, 3 rações. Inspiração Heroica disponível.
+
+**GitHub:** transcrição, dados informados, inventário, cronologia, estado e relógios atualizados; commits confirmados.
