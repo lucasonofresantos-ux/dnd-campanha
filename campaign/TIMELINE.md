@@ -47,6 +47,8 @@
 
 - Eron pediu novo **Lidar com Animais** condicional: se resultado suficiente tentaria examinar a pata por toque, se não recuaria sem ferir a loba com filhotes. Rolado de fato com script Python do projeto: **1d20+3 → [4]+3=7**, falha. Ao aproximar a mão da pata, loba ficou rígida, recolheu membro, rosnou, mostrou dentes e recuou meio passo para proteger crias. Eron interrompeu imediatamente e voltou a seu lugar anterior ~2m da abertura, conforme decisão do jogador. Ela não mordeu nem perseguiu; voltou a deitar cautelosa. Sem contato na pata, exame por manipulação, tratamento, dano, combate, XP, gasto ou tempo significativo; ~15h Dia 1.
 
+- Eron disse à loba que buscaria alimento e pediu que não saísse; deixou-a com dois filhotes na toca sem compromisso verificável de obediência. Entrou na mata em tentativa de caçar, autorizando novos testes, executados com o script real da campanha em Python (`secrets.randbelow`): **Sobrevivência 1d20+5 → [1]+5=6**, falhou seguir um rastro confiável de caça maior; **Furtividade 1d20+9 → [11]+9=20**, manteve ocultação; **Percepção 1d20+7 → [9]+7=16**, percebeu um coelho selvagem por acaso junto de clareira. Após ~20-25 min, Eron oculto atrás de tronco caído, coelho a ~18 m ainda não percebe Eron. Arco disponível, 20 flechas, nenhum disparo, captura, morte ou alimento adquirido. ~15h25 do Dia 1, sem XP, dano ou gasto.
+
 ## Índices
 - Estado: `CAMPAIGN_STATE.yaml`.
 - XP: `XP_LOG.csv`.
