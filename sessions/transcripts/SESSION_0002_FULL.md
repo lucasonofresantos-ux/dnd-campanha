@@ -704,3 +704,34 @@ Eron percebe que limpar a sujeira seria um primeiro cuidado razoável. Contudo, 
 - Condições do Jogador: Ladino 1, **12/12 PV**, **CA 16**, **0/300 XP**, **36 PO e 8 PP**. Quatro rações diárias intactas e uma aberta, quase consumida; sem condições ou combate.
 
 **GitHub:** rolagem física, transcrição literal, inventário e estado da campanha registrados; commits confirmados.
+
+## [039] JOGADOR — 2026-11-23
+
+(eu consigo tratar a pata ou tenho que comprar algo?)
+
+## [040] MESTRE — 2026-11-23
+
+**Sim, Eron consegue tentar tratar a pata agora, sem precisar voltar à vila para comprar nada.** Mas terá que improvisar, e isso traz alguns riscos.
+
+Conferi a ficha dele. Eron carrega:
+
+- **Cantil com água:** pode usar a água para limpar a sujeira da ferida.
+- **Roupas de viajante:** pode rasgar uma faixa de tecido para improvisar um curativo.
+- **Adaga e ferramentas de ladrão:** podem ajudar a manipular um objeto pequeno, mas não são instrumentos médicos e podem piorar o ferimento.
+
+**O que ele não possui:** kit de curandeiro, pomadas medicinais ou magia de cura.
+
+Pelas regras de D&D 5E 2024, Eron pode fazer um teste de **Sabedoria (Medicina) +3**, mesmo sem proficiência, para tentar examinar e cuidar da lesão. O kit de curandeiro custa normalmente **5 PO**, mas não é obrigatório para tentar primeiros socorros nem cura automaticamente esse tipo de ferimento. <Cite refs={["turn385129search0","turn385129search20"]}/>
+
+Na situação atual, existe um possível fragmento metálico junto à ferida. Eron pode tentar verificar isso, limpar e proteger a pata, mas precisará que a loba tolere a manipulação. O resultado anterior de **Lidar com Animais 21** ajuda na confiança, porém não garante que ela fique imóvel quando sentir dor.
+
+**Você pode tentar o tratamento agora.** Diga como Eron pretende proceder; eu solicitarei o teste apropriado antes de determinar o resultado.
+
+**[LOG DE MEMÓRIA DA CAMPANHA]**
+- Localização Atual: Entrada da toca rochosa na ravina, por volta das 15h do Dia 1.
+- NPCs Presentes e Relação: Loba ferida e dois filhotes; a loba aceita carinho no pescoço, mas ainda protege a pata.
+- Linha de Missão Ativa: Resolver os ataques ao rebanho de Mara; recompensa de 12 PO ainda não recebida.
+- Eventos Cruciais Ocorridos: Conferidos os recursos disponíveis para primeiros socorros. Eron pode improvisar cuidados, mas não possui kit de curandeiro; o tratamento ainda não começou.
+- Condições do Jogador: Ladino 1, **12/12 PV**, **CA 16**, **0/300 XP**, **36 PO e 8 PP**. Quatro rações intactas e uma quase consumida; nenhuma despesa ou condição nova.
+
+**GitHub:** explicação, transcrição literal e estado registrados com commits confirmados.
