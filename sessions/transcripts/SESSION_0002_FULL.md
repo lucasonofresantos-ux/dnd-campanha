@@ -7264,3 +7264,129 @@ Você permanece junto à entrada desse grande salão, sem avançar para além da
 **Auditoria:** as duas rolagens do reparo anterior não possuem execução Python comprovada. Registros corrigidos, acontecimentos preservados. As duas rolagens atuais foram efetivamente executadas.
 
 **GitHub:** transcrição, dados, cronologia e estado atualizados; commits confirmados.
+
+## [271] JOGADOR
+
+Vou investigar todo este lugar e a placa também e esse barulho de água, e se tiver algo para arruma também já arrumo, pode rolar tudo que achar necessário 
+
+## [272] MESTRE
+
+Vou verificar a placa, a origem do gotejamento e o estado da caixa de distribuição. Os reparos dependerão do que Eron conseguir identificar e das ferramentas disponíveis.
+
+### Salão subterrâneo — Dia 6, 16h25–17h05
+
+<card gap={3}>
+  <row align="center">
+    <box flex={1} gap={1}>
+      **Percepção**
+      <caption>1d20+7 → [7] + 7</caption>
+    </box>
+    <title size="2xl">14</title>
+  </row>
+  <divider/>
+  **Investigação com vantagem**
+  <row align="center">
+    {#each [19,17] as n,i}
+      <box flex={1} align="center" gap={1}>
+        <svg viewBox="0 0 100 100" size="76px">
+          <polygon points="50,4 94,29 94,73 50,97 6,73 6,29" fill={i===0?"#214b86":"#555b62"} stroke="#93b5dd" strokeWidth="2"/>
+          <path d="M50 4L23 65L94 73L50 4L77 65L6 73L50 4M6 29L77 65L50 97L23 65L94 29M23 65L77 65" fill="none" stroke="#93b5dd"/>
+          <text x="50" y="54" fontSize="27" fontWeight="bold" fill="white" textAnchor="middle">{n}</text>
+        </svg>
+        <caption>{i===0?"Mantido":"Descartado"}</caption>
+      </box>
+    {/each}
+    <box flex={1} align="center">
+      <title size="2xl">25</title>
+      **19 + 6**
+    </box>
+  </row>
+  <divider/>
+  <row align="center">
+    <box flex={1} gap={1}>
+      **Destreza (Ferramentas de Ferreiro)**
+      <caption>1d20+7 → [4] + 7</caption>
+    </box>
+    <title size="2xl">11</title>
+  </row>
+  <caption>Três testes executados em Python com secrets.randbelow(), utilizando o script do GitHub cujo hash foi conferido.</caption>
+</card>
+
+Você percorre cuidadosamente o salão, que possui aproximadamente 18 metros de comprimento por 12 de largura. O teto é sustentado por seis grandes colunas. A umidade é mais intensa junto à parede do fundo.
+
+### A placa de identificação
+
+Você remove a poeira e traduz as inscrições anãs:
+
+<box background="#353a38" theme="dark" radius="md" padding={4}>
+  <title textAlign="center" size="lg">DISTRIBUIÇÃO AUXILIAR</title>
+  <divider/>
+  - Vestíbulo de acesso.
+  - Oficina de manutenção.
+  - Inspeção de drenagem.
+  - Acesso ao nível inferior.
+</box>
+
+### Origem do barulho de água
+
+Você encontra uma fissura na parede rochosa, por onde pequenas gotas escorrem até uma canaleta de drenagem parcialmente obstruída por sedimentos.
+
+Remove os detritos soltos, permitindo que a água volte a escoar. A fissura permanece, mas o acúmulo de água começa a diminuir.
+
+### Caixa de distribuição
+
+Seu exame revela que uma das conexões metálicas está desalinhada e que um pino oxidado impede o movimento de uma articulação interna.
+
+Você isola a derivação e tenta liberar o pino com suas ferramentas. Entretanto, não consegue removê-lo sem arriscar deformar o encaixe. A tentativa de reparo não é bem-sucedida. A derivação permanece isolada.
+
+Além disso, você não detecta sinais de alimentação de energia chegando à caixa.
+
+<box border radius="lg" padding={2}>
+  <svg viewBox="0 0 340 328" width="100%">
+    <rect x="70" y="35" width="200" height="240" fill="#777971" stroke="#3e413d" strokeWidth="5"/>
+    {#each [100,170,240] as y}
+      {#each [98,242] as x}
+        <rect x={x-10} y={y-10} width="20" height="20" fill="#414841" stroke="#a5a79a" strokeWidth="2"/>
+      {/each}
+    {/each}
+    <rect x="145" y="275" width="50" height="48" fill="#777971" stroke="#3e413d" strokeWidth="4"/>
+    <rect x="150" y="4" width="40" height="31" fill="#777971" stroke="#3e413d" strokeWidth="4"/>
+    <path d="M143 38L197 38" stroke="#b7a780" strokeWidth="5"/>
+    <path d="M212 45l13 7l-5 11l17 6" stroke="#69b9e3" strokeWidth="3" fill="none"/>
+    <path d="M207 43H259V90" stroke="#69b9e3" strokeWidth="2" strokeDasharray="4 3" fill="none"/>
+    <rect x="258" y="234" width="10" height="24" fill="#c6a065" stroke="#4d402d"/>
+    <rect x="86" y="253" width="23" height="7" fill="#c6a065"/>
+    <path d="M250 245H257M250 245V307" stroke="#c6a065" strokeWidth="3" fill="none"/>
+    <circle cx="233" cy="225" r="7" fill="#438ad4" stroke="#d7ecff" strokeWidth="2"/>
+    <text x="170" y="22" fill="white" fontSize="10" textAnchor="middle">Descida</text>
+    <text x="170" y="151" fill="white" fontSize="12" fontWeight="bold" textAnchor="middle">Salão auxiliar</text>
+    <text x="170" y="167" fill="white" fontSize="11" textAnchor="middle">18 × 12 m</text>
+    <text x="207" y="56" fill="white" fontSize="9" textAnchor="end">Infiltração</text>
+    <text x="233" y="214" fill="white" fontSize="10" textAnchor="middle">Eron</text>
+    <text x="116" y="266" fill="white" fontSize="10">Placa</text>
+    <path d="M270 245H281" stroke="currentColor"/>
+    <text x="282" y="240" fontSize="10" fill="currentColor">Caixa de</text>
+    <text x="282" y="252" fontSize="10" fill="currentColor">distribuição</text>
+    <text x="170" y="300" fontSize="10" fill="white" textAnchor="middle">Corredor</text>
+    <text x="170" y="313" fontSize="10" fill="white" textAnchor="middle">da oficina</text>
+  </svg>
+  <caption textAlign="center">Planta esquemática do salão explorado.</caption>
+</box>
+
+Na extremidade oposta à entrada, você encontra uma nova passagem com degraus descendentes, seguindo ainda mais profundamente para dentro da montanha.
+
+Nenhuma criatura foi encontrada durante a exploração do salão.
+
+---
+
+**[LOG DE MEMÓRIA DA CAMPANHA]**
+- **Localização atual:** Salão de distribuição auxiliar, junto à caixa metálica. Dia 6, 17h05.
+- **NPCs presentes:** Nenhum detectado.
+- **Missão ativa:** Exploração do Monte Veyra e investigação da fonte de energia.
+- **Eventos cruciais:** Placa traduzida; drenagem desobstruída; reparo da caixa malsucedido; nova escadaria identificada.
+- **Condições:** 12/12 PV | CA 16 | 275/300 XP. Inspiração Heroica disponível.
+- **Inventário:** Marca da Bigorna Velada na bolsa. Lanterna com 3h05 de autonomia e 6 frascos de óleo em reserva.
+
+**Auditoria:** as duas rolagens do deslocamento anterior não possuem execução Python comprovada. Corrigi os registros sem alterar os acontecimentos. Os três testes deste turno foram efetivamente executados e verificados.
+
+**GitHub:** transcrição, rolagens, cronologia e estado atualizados; commits confirmados.
