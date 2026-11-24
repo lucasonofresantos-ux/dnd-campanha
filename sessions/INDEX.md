@@ -34,3 +34,5 @@
 - Atualização: sessão 0002 até [214], Dia5 20h20; Eron abordou patrulha e conversa com Iria.
 
 - Atualização: sessão 0002 até [216], Dia5 ~20h20; Iria agradece a preocupação e convida Eron a retornar com a patrulha, decisão pendente.
+
+- Atualização: sessão 0002 até [218], Dia5 ~21h45, retorno à estalagem. Percepção 9 e 17 executadas em Python com hash conferido.
