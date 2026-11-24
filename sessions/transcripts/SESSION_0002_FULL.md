@@ -7211,3 +7211,56 @@ Passaram-se 45 minutos desde o início do trabalho. Os três armários permanece
 **XP:** não concedido por enquanto, pois o funcionamento do trecho reparado ainda não foi confirmado.
 
 **GitHub:** transcrição, rolagens, cronologia e estado atualizados; commits confirmados.
+
+## [269] JOGADOR
+
+Daqui vou seguir o caminho pode rolar percepção e furtividade para o caminho inexplirado
+
+## [270] MESTRE
+
+### Interior do Monte Veyra — Dia 6, 16h25
+
+<card gap={3}>
+  {#each [["Percepção",7],["Furtividade",9]] as r}
+    <row align="center">
+      <svg viewBox="0 0 100 100" size="68px">
+        <polygon points="50,4 94,29 94,73 50,97 6,73 6,29" fill="#214b86" stroke="#78a7e1" strokeWidth="2"/>
+        <path d="M50 4L23 65L94 73L50 4L77 65L6 73L50 4M6 29L77 65L50 97L23 65L94 29M23 65L77 65" fill="none" stroke="#93b5dd"/>
+        <text x="50" y="54" fontSize="27" fontWeight="bold" fill="white" textAnchor="middle">14</text>
+      </svg>
+      <box flex={1} gap={1}>
+        **{r[0]}**
+        <caption>{`1d20+${r[1]} → [14] + ${r[1]}`}</caption>
+      </box>
+      <title size="2xl">{14+r[1]}</title>
+    </row>
+  {/each}
+  <divider/>
+  <caption>Ambas as rolagens efetivamente executadas em Python com secrets.randbelow() e hash do script conferido.</caption>
+</card>
+
+Você deixa a oficina e avança pelo corredor principal, acompanhando as canaletas metálicas. Após aproximadamente 35 metros, percebe que o corredor desemboca em um ambiente muito mais amplo.
+
+Antes de atravessar a entrada, sua percepção permite identificar uma depressão no piso. Três grandes blocos cederam, expondo parte das canaletas subterrâneas. Você contorna o trecho sem dificuldade.
+
+Ao erguer a lanterna, distingue duas enormes colunas quadrangulares, decoradas com relevos anões. O teto do novo ambiente ultrapassa o alcance da iluminação.
+
+Na base de uma das colunas existe uma placa com inscrições. Próximo à outra, as canaletas convergem para uma caixa metálica embutida na parede.
+
+De algum ponto distante, à frente, chega o som ritmado de gotas de água.
+
+Você permanece junto à entrada desse grande salão, sem avançar para além das colunas.
+
+---
+
+**[LOG DE MEMÓRIA DA CAMPANHA]**
+- **Localização atual:** Entrada do salão subterrâneo, após o corredor principal de aproximadamente 35 metros. Dia 6, 16h25.
+- **NPCs presentes:** Nenhum detectado.
+- **Missão ativa:** Exploração e investigação da alimentação de energia.
+- **Eventos cruciais:** Piso danificado contornado; salão, placa de inscrições e caixa metálica identificados.
+- **Condições:** 12/12 PV | CA 16 | 275/300 XP. Inspiração Heroica disponível.
+- **Inventário:** Marca da Bigorna Velada na bolsa; lanterna com 3h45 de autonomia e 6 frascos de óleo em reserva.
+
+**Auditoria:** as duas rolagens do reparo anterior não possuem execução Python comprovada. Registros corrigidos, acontecimentos preservados. As duas rolagens atuais foram efetivamente executadas.
+
+**GitHub:** transcrição, dados, cronologia e estado atualizados; commits confirmados.
