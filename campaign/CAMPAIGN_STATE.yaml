@@ -7,7 +7,7 @@ homebrew:
 advancement:
   method: experience_points
   milestones_do_not_grant_levels: true
-  current_total_xp: 25
+  current_total_xp: 50
   next_level_xp: 300
   rule: "Conceder XP por combate e ameaças resolvidas, investigação, exploração e desafios sociais substantivos; usar equivalências 2024, sem duplicação; registrar no XP_LOG.csv."
 character:
@@ -18,7 +18,7 @@ character:
   class_levels:
     Ladino: 1
   character_level: 1
-  xp_total: 25
+  xp_total: 50
   xp_next_level: 300
   hp_current: 12
   hp_max: 12
@@ -95,24 +95,24 @@ character:
 campaign_time:
   calendar_system: "Asterion, dias relativos; nenhuma era/ano formal estabelecido"
   day: 2
-  time_of_day: "aproximadamente 08h55 do Dia 2, manhã"
+  time_of_day: "aproximadamente 09h40 da manhã do Dia 2"
   season: "final do outono"
-  elapsed_game_time: "Dia2 ~08h05: disparo de arco, caçada concluída; ~10min investigação das marcas e laço, ~40min separação e acondicionamento de carne/pele e outros produtos; ~08h55."
+  elapsed_game_time: "~08h55–09h05 aproximação e desarme silencioso do laço; ~09h05–09h40 caminhada carregando materiais de corço até a toca da loba"
 location:
   continent: Asterion
   polity: "Terras Livres de Avenhar (homebrew), fora de Valdren"
   area: "entroncamento da Estrada do Cascalho, próximo ao Pouso das Três Fontes"
   nearby: "encostas arborizadas da serra cujo monte mais alto é chamado Veyra"
-  exact_position: "Trilha dos Corços em bosque próximo ao riacho, junto ao local do corço abatido; laço de arame armado identificado na passagem estreita, mas não desativado."
-  travel_status: "Eron interrompeu retorno à toca para abater e saquear o corço e investigar as marcas de arame; carrega produtos de caça, ainda não voltou à loba."
+  exact_position: "diante da entrada da toca da loba em ravina arborizada; loba cinzenta e dois filhotes à vista"
+  travel_status: "Eron desarmou o segundo laço junto ao riacho, deixou arame inerte ao lado da árvore e retomou trilha conhecida carregando caça; chegou à entrada da toca sem alimentar nem tratar a loba ainda"
 scene:
   id: OPENING-001
-  status: "awaiting_player_after_roe_deer_harvest_and_discovery_of_active_snare"
+  status: "awaiting_player_action_at_wolf_den_day_2_after_trap_disarmed"
   current_npcs_present: []
-  immediate_visible_situation: "Dia2 ~08h05 Eron oculto atrás de tronco a 20m do corço adulto usou arco curto com vantagem: 2d20kh1+7 → [8,9], maior9+7=16, acertou corço (CA13, PV4, 2024 Deer). Dano 2d6+5 → [2 arco,5 Ataque Furtivo]+5=12 perfurante, corço morto. Uma flecha consumida e sem recuperação reutilizável por regra munição 2024; 18 flechas utilizáveis. Depois Eron examinou marcas perto do riacho: Investigação 1d20+6 → [19]+6=25 e Percepção 1d20+7 → [3]+7=10. Determinou marcas de arame sob tensão em árvore jovem, estaca arrancada, rastros de solas grossas; viu um segundo laço de arame ARMADO entre folhas na trilha, conectado a haste flexível, evitou acioná-lo. Responsável e número de outros laços não determinados, laço AINDA ATIVO. Não percebeu outras pessoas ou movimento com Percepção10. Saque cuidadoso do corço com Ferramentas de Coureiro e Sobrevivência proficiente: 2d20kh1+5 → [1,19], manteve19+5=24; aproveitou aproximadamente 10kg carne fresca, 1 pele crua com pequeno furo da flecha, 2 hastes de galhada curta, 1 feixe de tendões, 2 ossos longos, coração e fígado, todos crus e carregados. Acondicionou em bagagem, necessita conservação, peso estimado ~15kg extra, sem exceder capacidade. ~08h55, nenhuma carne entregue ainda à loba, sem compras ou gastos médicos, sem XP por abate trivial. Eron pode agir em relação ao laço ativo, seguir à toca ou outros planos; 12PV, XP25/300, moedas31PO1PP, Inspiração Heroica, 18flechas, kit10 usos, unguento/ataduras intactos."
+  immediate_visible_situation: "Dia2 ~08h55 Eron decidiu desarmar laço e seguir até loba; solicitou Percepção, Furtividade e teste necessário. Rolagens reais script dice_roller.py secrets.randbelow: Percepção 1d20+7 → [2]+7=9 (não viu outras pessoas, sem garantia de ausência), Furtividade 1d20+9 → [13]+9=22 (aproximação discreta); Destreza (Prestidigitação) + Ferramentas de Ladrão com vantagem por ambas proficiências pertinentes 2d20kh1+7 → [4,14], manteve 14+7=21, desarme seguro. Eron travou gatilho com ferramenta e soltou tensão da haste flexível, removeu arame do mecanismo; segundo laço da Trilha dos Corços está INATIVO, arame deixado fora da trilha junto à árvore (não coletado). Não identificou autor. Concedidos +25 XP por neutralizar perigo concreto distinto do tratamento da loba, total50/300. Sem ferimentos, materiais médicos gastos ou flechas. Em seguida percorreu ~35min até toca em ravina carregando ~10kg carne fresca e partes aproveitadas do corço (carga dentro do limite). Chegou ~09h40, loba deitada na entrada com filhotes; ao notar Eron levantou cabeça e se pôs em pé com dificuldade, farejando carne, sem rosnado ou ataque, ainda protegendo filhotes. Faixa improvisada na pata está suja de terra e ela evita apoiar a pata completamente; evolução clínica além disso não examinada. Eron NÃO ALIMENTOU nem tratou ainda a loba, nenhum teste novo de Lidar com Animais, kit10 usos unguento/ataduras intactos. 12/12PV, 31PO1PP, Inspiração Heroica, 18 flechas, XP50/300. Recompensa Mara12PO ainda pendente."
   discovered_traps:
     - location: "Trilha dos Corcos, junto ao riacho"
-      state: armed_not_disarmed
+      state: disarmed_safe_wire_left_at_tree
       description: "segundo laco de arame escondido entre folhas ligado a haste de madeira flexivel, perto de marcas de botas e sulco de arame em arvore jovem"
       owner_known_by_character: false
   combat: false
@@ -133,8 +133,8 @@ world:
 transcription:
   character_creation_history: sessions/transcripts/SESSION_0001_FULL.md
   narrative_session: sessions/transcripts/SESSION_0002_FULL.md
-  last_saved_player_turn: "Primeiro abater o corço, pode rolar o disparo e o dano e depois investigação e percepção para a armaldilha E claro vou saquear o corço"
-  last_saved_dm_turn: "[072] MESTRE — 2026-11-23; acerto 16 e dano12 (corço morto), Investigação25, Percepção10, saque de corço 24 com vantagem e ferramentas, laço ativo descoberto, 18 flechas; transcrição salva."
+  last_saved_player_turn: "Vou desarmar a armadilha e depois vou para a loba, pode rolar percepção, furtividade e oque precisar para desarmar a armadilha"
+  last_saved_dm_turn: "[074] MESTRE — 2026-11-23; Percepção9, Furtividade22, desarme com Ferramentas de Ladrão/Prestidigitação em vantagem21; armadilha neutralizada, +25XP (50/300), Eron reencontra loba e crias ~09h40; transcrição salva."
 notes:
   - "Primeira resposta de cena será salva literalmente e sem revelar preparativos de dm."
   - "Nunca tratar a aprovação da ficha como XP, nem mudar recursos automaticamente."
