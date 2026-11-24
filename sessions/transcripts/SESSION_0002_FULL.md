@@ -1913,3 +1913,109 @@ Belda cruza os braços e espera.
 - **Condições do Jogador:** Ladino 1, **12/12 PV**, **CA 16**, **50/300 XP**, **31 PO e 1 PP**, Inspiração Heroica disponível, **18 flechas utilizáveis**. Possui a pele de corço, pele danificada de coelho, duas hastes de galhada, tendões, dois ossos longos, coração e fígado de corço, duas orelhas de coelho; **sem carne fresca de corço no inventário**. Quatro rações intactas, kit de curandeiro **10/10 usos**, unguento parcialmente usado, nenhuma atadura avulsa limpa e chave temporária do quarto 3. Sem condições ativas.
 
 **GitHub:** rolagens, deslocamento, consumo do estoque de carne, avaliação comercial, transcrição literal e estado atualizados; commits confirmados.
+
+
+## [083] JOGADOR
+
+Continuar a campanha de onde parou, na conversa rolar atributos fortes aqui desse projeto
+
+## [084] MESTRE — lacuna de sincronização
+
+[Resposta literal de retomada ainda não persistida integralmente; não reconstruir a partir do resumo. Estado anterior 082 confirmado. Nenhuma alteração de jogo nesta retomada.]
+
+## [085] JOGADOR
+
+- aceito sim, mas quero um saco de sal assim a próxima já te chega salgada e não tem perigo de estragar
+Role persuasão
+
+## [086] MESTRE — lacuna de sincronização
+
+[Resposta literal de negociação ainda não persistida integralmente. Estado e cronologia registram venda concluída a Belda, 9 PP e saco de sal ~1 kg. Correção auditável no ROLL_LOG.csv: a face 14 apresentada não teve execução Python comprovada; resultado inválido como rolagem, venda preservada como decisão voluntária da NPC.]
+
+## [087] JOGADOR
+
+Vou para o açougueiro e depois ver quem compra as orelhas do coelho
+
+## [088] MESTRE
+
+Vou manter a venda à Belda concluída e verificar os compradores dos materiais restantes, sem vender nada antes de você aceitar os preços.
+
+### Açougue do Pouso das Três Fontes — Dia 2, 12h05
+
+O açougueiro, um homem de barba grisalha e avental manchado chamado **Bram Cutelo**, recebe Eron diante de uma bancada de madeira. Examina o coração e o fígado do corço, verificando a aparência e o cheiro dos órgãos.
+
+— Abatido esta manhã? Estão em boas condições. Dou duas pratas pelo fígado e uma pelo coração.
+
+Ao ver as orelhas do coelho, Bram aponta para uma pequena banca do outro lado do mercado.
+
+— Experimente falar com Nessa. Ela vende ingredientes para unguentos e outras preparações. Às vezes compra partes de animais.
+
+Na banca indicada, entre feixes de ervas secas, pequenos frascos e recipientes de cerâmica, Nessa examina as orelhas.
+
+— Posso aproveitar as duas, mas preciso secá-las. Três cobres pelo par.
+
+| Material | Comprador | Oferta |
+|---|---|---:|
+| Fígado de corço | Bram | 2 PP |
+| Coração de corço | Bram | 1 PP |
+| Duas orelhas de coelho | Nessa | 3 PC |
+| **Total** | | **3 PP e 3 PC** |
+
+Nenhuma dessas vendas foi concluída ainda. Caso aceite ambas, Eron ficará com **32 PO, 3 PP e 3 PC**.
+
+**Aceita as ofertas?**
+
+## [089] JOGADOR
+
+Aceito o pagamento
+
+## [090] MESTRE
+
+Vou registrar a venda dos três materiais e atualizar o saldo de Eron.
+
+### Pouso das Três Fontes — Dia 2, 12h10
+
+Nessa entrega três moedas de cobre a Eron e recolhe as orelhas do coelho. De volta ao açougue, Bram paga as três pratas combinadas pelo coração e pelo fígado do corço.
+
+— Se trouxer mais caça fresca, passe por aqui — comenta Bram.
+
+<card gap={3}>
+  <caption>Patrimônio atual</caption>
+  <grid columns={3}>
+    <grid-item>
+      <title size="2xl" color="#B58B32">32</title>
+      <caption>Ouro</caption>
+    </grid-item>
+    <grid-item>
+      <title size="2xl" color="#929BA8">3</title>
+      <caption>Prata</caption>
+    </grid-item>
+    <grid-item>
+      <title size="2xl" color="#B87542">3</title>
+      <caption>Cobre</caption>
+    </grid-item>
+  </grid>
+  <divider/>
+  **Balanço total das vendas da caça**
+  
+  - 1 PO, 2 PP e 3 PC.
+  - 1 saco de sal de aproximadamente 1 kg.
+</card>
+
+Todos os materiais aproveitados do coelho e do corço foram vendidos ou entregues à loba e seus filhotes.
+
+Os sinos da aldeia já anunciaram o meio-dia. O cheiro de pão assado e carne cozida começa a se espalhar pelo mercado.
+
+**O que Eron faz agora?**
+
+---
+
+**Correção de rolagem:** o teste de Persuasão 18 apresentado na negociação anterior não teve execução Python comprovada. Foi invalidado no registro de dados. Belda manteve voluntariamente o negócio, sem alteração dos recursos.
+
+**[LOG DE MEMÓRIA DA CAMPANHA]**
+
+- **Localização Atual:** Açougue de Bram Cutelo, Pouso das Três Fontes, Dia 2, 12h10.
+- **NPCs Presentes e Relação:** Bram, comerciante receptivo. Nessa e Belda são contatos comerciais.
+- **Linha de Missão Ativa:** Recuperação da loba, proteção do rebanho de Mara e investigação dos laços. Recompensa pendente de 12 PO.
+- **Eventos Cruciais Ocorridos:** Vendas concluídas, materiais de caça esgotados.
+- **Condições do Jogador:** Ladino 1, 12/12 PV, CA 16, 50/300 XP, 32 PO, 3 PP, 3 PC, 18 flechas, quatro rações, saco de sal de aproximadamente 1 kg, Inspiração Heroica disponível. Sem condições ativas.
