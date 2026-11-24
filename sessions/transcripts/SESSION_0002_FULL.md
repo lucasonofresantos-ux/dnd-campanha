@@ -6327,3 +6327,45 @@ Faça um teste para examinar a formação mais detalhadamente.
 **Auditoria:** as duas rolagens anteriores de rastreamento (23 e 16) não tiveram execução Python comprovada. Corrigi os registros sem alterar os acontecimentos. Nenhuma nova rolagem neste turno.
 
 **GitHub:** transcrição, ficha, cronologia, estado e auditoria atualizados; commits confirmados.
+
+## [239] JOGADOR
+
+Role Investigação para examinar a saliência rochosa.
+
+## [240] MESTRE
+
+### Monte Veyra — Dia 6, 13h25
+
+<card gap={2}>
+  <caption>Inteligência (Investigação)</caption>
+  <row align="center">
+    <svg viewBox="0 0 100 100" size="80px">
+      <polygon points="50,4 94,29 94,73 50,97 6,73 6,29" fill="#214b86" stroke="#78a7e1" strokeWidth="2"/>
+      <path d="M50 4L23 65L94 73L50 4L77 65L6 73L50 4M6 29L77 65L50 97L23 65L94 29M23 65L77 65" fill="none" stroke="#78a7e1"/>
+      <text x="50" y="53" fontSize="27" fontWeight="bold" fill="white" textAnchor="middle">13</text>
+    </svg>
+    <box gap={1}>
+      <title size="2xl">19</title>
+      `1d20+6` → [13] + 6 = **19**
+      <caption>Rolagem Python executada e hash do script verificado.</caption>
+    </box>
+  </row>
+</card>
+
+Graças aos seus conhecimentos de trabalho com pedras, você reconhece que a saliência é uma formação natural. As fissuras são superficiais e não parecem conduzir a uma cavidade maior. O abrigo é seco, protegido dos ventos predominantes e possui espaço suficiente para a loba e seus filhotes.
+
+Ao contornar a formação, entretanto, você observa que o terreno continua subindo entre os pinheiros até uma extensa parede de rocha escura, aproximadamente 80 metros adiante. Uma passagem estreita entre os rochedos permite prosseguir naquela direção.
+
+A loba acompanha seus movimentos com o olhar, enquanto os filhotes continuam brincando. A carne oferecida permanece no chão.
+
+---
+
+**[LOG DE MEMÓRIA DA CAMPANHA]**
+- **Localização atual:** Abrigo rochoso, Monte Veyra, Dia 6, 13h25.
+- **NPCs presentes e relação:** Loba e dois filhotes, amistosos.
+- **Missão ativa:** Exploração voluntária do Veyra.
+- **Eventos cruciais:** Saliência natural examinada; passagem em direção à parede rochosa identificada.
+- **Condições:** 12/12 PV | CA 16 | 225/300 XP | 56 PO, 2 PP e 7 PC | 24 flechas | 10 rações | 2,2 kg de sal. Inspiração Heroica disponível.
+- **Carne:** 8,5 kg transportados; 2,5 kg no chão, não consumidos.
+
+**GitHub:** transcrição, rolagem, cronologia e estado atualizados; commits confirmados.
