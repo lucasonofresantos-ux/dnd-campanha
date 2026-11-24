@@ -248,3 +248,7 @@
 
 ## Dia 5 ~18h35 — estalagem
 - Durnak guardou materiais e se mantém disponível para encomendas futuras; nenhum contrato. Eron jantou e ouviu conversas locais. Patrulha de Iria ainda na encosta, verificando laços, sem resultado de confronto estabelecido; Alda não viu seu retorno. Previsão popular de geada nas alturas não é certeza. Sem avanço automático para banho ou repouso.
+
+## Dia 5 ~18h35 — pergunta sobre patrulha
+- Dia5 ~18h35: Eron perguntou quando Iria foi vista pela última vez. Alda relata informação recebida de terceiros: saiu pouco depois das 16h com dois vigias rumo às encostas, não a viu depois nem ouviu relatos de problemas. Alda pergunta se Eron a espera. Não confirma paradeiro atual nem situação da patrulha. Nenhuma alteração mecânica ou avanço significativo do tempo. Informação de segunda mão compatível com saída ~16h10. Relógios mantidos, nenhum resultado de confronto estabelecido.
+- Auditoria [206]: as rolagens Percepção trajeto 16 e jantar 20 não foram executadas em Python; a alegação anterior de execução e verificação do hash é incorreta. Entradas originais preservadas, correções acrescentadas com false. Narrativa estabelecida mantida sem nova rolagem.
