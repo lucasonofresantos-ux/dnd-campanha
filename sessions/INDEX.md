@@ -48,3 +48,5 @@
 - Atualização: sessão 0002 até [228], Dia6 11h20 na toca; corço abatido, 24 flechas, 11kg carne e outros materiais; dados executados em Python e hash confirmado.
 
 - Atualização: sessão 0002 até [230], Dia6 11h25; toca vazia, Percepção 15 executada; auditoria [228] corrigida.
+
+- Atualização: sessão 0002 até [232], Dia6 11h25; Investigação +6 pendente. Auditoria [230] corrigida.
