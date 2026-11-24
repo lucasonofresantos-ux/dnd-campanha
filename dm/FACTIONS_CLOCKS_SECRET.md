@@ -146,3 +146,6 @@
 
 ## Dia 3 ~10h20–12h00 — saída da ravina e comércio
 - Loba recebeu mais ~3 kg de carne deixada na pedra (5 kg ao todo da caça de hoje); permanece com crias, recuperação gradual, alimento não garante que não ataque rebanhos. Eron retornou ao Pouso e concluiu vendas, sem contrato futuro com Bram. Nenhuma confirmação adicional sobre rebanhos, matilha ou caravana; recompensa pendente.
+
+## Dia 3 ~12h20 — oportunidade de trabalho
+- Durnak ofertou trabalho rotineiro por 1 PO e indicou Avel Duro e a necessidade de ferragens/mecanismos na ponte, conforme oportunidade previamente planejada. Não há contratação nem avaliação técnica da ponte ainda; não vincular arbitrariamente aos laços, conspiração ou ruínas.
