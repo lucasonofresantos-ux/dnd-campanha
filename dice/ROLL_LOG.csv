@@ -214,3 +214,5 @@ date,campaign_id,stage,attempt,expression,six_rolls_faces_in_order,six_attribute
 2026-11-24,ERON-RIVER-ASTERION-001,correction_unverified_execution_skill_check_stealth_night_cabin,1,1d20+9,15,"15+9",24,false
 2026-11-24,ERON-RIVER-ASTERION-001,correction_unverified_execution_skill_check_perception_auditory_night_cabin,1,1d20+7,13,"13+7",20,false
 2026-11-24,ERON-RIVER-ASTERION-001,correction_unverified_execution_skill_check_survival_night_navigation_disadvantage,1,2d20kl1+5,"8,9","8+5",13,false
+2026-11-24,ERON-RIVER-ASTERION-001,skill_check_perception_patrol_return,1,1d20+7,2,"2+7",9,true
+2026-11-24,ERON-RIVER-ASTERION-001,skill_check_perception_inn_return,1,1d20+7,10,"10+7",17,true
