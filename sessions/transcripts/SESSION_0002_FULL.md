@@ -5922,3 +5922,133 @@ Ela recolhe uma caneca vazia e acrescenta, em voz mais baixa:
 - **Condições:** 12/12 PV | CA 16 | 225/300 XP | 56 PO, 2 PP e 7 PC | 25 flechas | 10 rações | 5,2 kg de sal. Inspiração Heroica disponível.
 
 **GitHub:** transcrição, cronologia e estado atualizados; commits confirmados.
+
+## [227] JOGADOR
+
+- obrigado Alda
+Tomo o café e vou caçar até abater e saquear a caça, e tentar recuperar a flecha e depois vou ver se a loba ainda está na toca
+
+## [228] MESTRE
+
+Vou conferir as regras de caça já utilizadas, incluindo a recuperação de flechas e o aproveitamento da presa.
+
+### Pouso das Três Fontes — Dia 6, 06h45
+
+— Boa sorte, Eron. Que tenha uma boa viagem — despede-se Alda.
+
+Após terminar o café, você segue para a floresta. A névoa começa a dissipar-se lentamente, e pequenas gotas de água escorrem das folhas. O frio parece mais intenso conforme você se aproxima das encostas do Veyra.
+
+## Caçada da manhã
+
+<card gap={3}>
+  **Testes de caça**
+  <table>
+    <table-row>
+      <table-cell>Teste</table-cell>
+      <table-cell>Dados + bônus</table-cell>
+      <table-cell align="end">Total</table-cell>
+    </table-row>
+    {#each [["1ª — Sobrevivência","2 + 5",7],["2ª — Sobrevivência","19 + 5",24],["Percepção","9 + 7",16],["Furtividade","2 + 9",11],["3ª — Sobrevivência","7 + 5",12],["Percepção","4 + 7",11],["4ª — Sobrevivência","15 + 5",20],["Percepção","13 + 7",20],["Furtividade","17 + 9",26]] as r}
+      <table-row>
+        <table-cell>{r[0]}</table-cell>
+        <table-cell>{r[1]}</table-cell>
+        <table-cell align="end"><text weight="medium" tabularNums={true}>{r[2]}</text></table-cell>
+      </table-row>
+    {/each}
+  </table>
+  <caption>Na segunda tentativa, a presa percebeu sua aproximação. Na quarta, você conseguiu aproximar-se sem ser detectado.</caption>
+</card>
+
+### Abate — aproximadamente 10h00
+
+Entre os arbustos, você avista um corço macho adulto alimentando-se a cerca de 25 metros. Protegido pela vegetação, prepara seu arco curto e dispara.
+
+<card gap={3}>
+  <caption>Ataque com vantagem — 2d20kh1+7</caption>
+  <row align="center">
+    {#each [5,18] as n}
+      <box align="center" flex={1}>
+        <svg viewBox="0 0 100 100" size="76px">
+          <polygon points="50,4 94,29 94,73 50,97 6,73 6,29" fill={n===18?"#214b86":"#656972"} stroke="#8aadd4" strokeWidth="2"/>
+          <path d="M50 4L23 65L94 73L50 4L77 65L6 73L50 4M6 29L77 65L50 97L23 65L94 29M23 65L77 65" fill="none" stroke="#a2b5cd"/>
+          <text x="50" y="53" fontSize="26" fontWeight="bold" fill="white" textAnchor="middle">{n}</text>
+        </svg>
+        <caption>{n===18?"Mantido":"Descartado"}</caption>
+      </box>
+    {/each}
+    <box flex={1} align="center">
+      <title size="2xl" color="success">25</title>
+      <caption>18 + 7</caption>
+      <badge color="success">Acerto</badge>
+    </box>
+  </row>
+  <divider/>
+  <caption>Dano — arco curto + Ataque Furtivo</caption>
+  <row align="center">
+    {#each [4,6] as n}
+      <box background="surface" border radius="md" size="46px" align="center" justify="center">
+        <title size="xl">{n}</title>
+      </box>
+    {/each}
+    <title size="lg">+ 5 = 15</title>
+    <spacer/>
+    <caption>Pontos de dano</caption>
+  </row>
+</card>
+
+A flecha atinge o animal, que cai após percorrer poucos metros.
+
+### Saque e recuperação da flecha
+
+<card gap={2}>
+  <caption>Sobrevivência com Ferramentas de Coureiro — vantagem</caption>
+  <title size="2xl">18</title>
+  `2d20kh1+5` → [13, 4] → 13 + 5 = **18**
+  <caption>13 mantido; 4 descartado.</caption>
+</card>
+
+Você consegue aproveitar boa parte do animal.
+
+<card gap={2}>
+  **Materiais obtidos**
+  {#each [["beef","Carne fresca","11 kg"],["layers","Pele crua em bom estado","1"],["git-branch","Galhadas","2"],["ear","Orelhas","2"],["bone","Ossos longos","2"],["package","Feixe de tendões","1"],["heart","Coração","1"],["package","Fígado","1"]] as item}
+    <row align="center">
+      <icon name={item[0]} color="secondary" size="lg"/>
+      <text>{item[1]}</text>
+      <spacer/>
+      **{item[2]}**
+    </row>
+  {/each}
+  <divider/>
+  <row>
+    Flechas utilizáveis restantes
+    <spacer/>
+    **24**
+  </row>
+</card>
+
+Você encontra a flecha utilizada, mas sua haste está quebrada. Ela não pode ser reutilizada como munição sem reparo. Pela regra de recuperação de munição de 2024, uma única flecha disparada não rende recuperação de munição utilizável.
+
+*Todos os testes acima foram efetivamente executados em Python com `secrets.randbelow()`, utilizando o script do repositório com hash conferido. Segui o padrão anteriormente autorizado para suas caçadas completas, sem consumir sua Inspiração Heroica.*
+
+### Toca da loba — 11h20
+
+Ao chegar à ravina, você encontra a entrada da toca silenciosa. Não há sinal da loba nem dos dois filhotes do lado de fora.
+
+Próximo à pedra onde costumava deixar a carne, ainda existem alguns ossos roídos. No barro úmido, você distingue marcas de patas grandes e pequenas que seguem em direção à mata, encosta acima. Não há sangue visível nem sinais evidentes de luta.
+
+A família pode ter saído para caçar ou mudado de abrigo. Você ainda não tem como confirmar.
+
+O riacho corre atrás de você, enquanto a floresta se estende montanha acima.
+
+---
+
+**[LOG DE MEMÓRIA DA CAMPANHA]**
+- **Localização atual:** Entrada da toca da loba, encosta do Monte Veyra, Dia 6, 11h20.
+- **NPCs presentes e relação:** Nenhum animal avistado; loba e filhotes anteriormente amistosos.
+- **Missão ativa:** Exploração voluntária.
+- **Eventos cruciais:** Corço abatido e saqueado. Flecha encontrada quebrada. Toca sem animais visíveis; pegadas seguem encosta acima.
+- **Condições:** 12/12 PV | CA 16 | 225/300 XP | 56 PO, 2 PP e 7 PC | 24 flechas | 10 rações | 5,2 kg de sal. Inspiração Heroica disponível.
+- **Inventário novo:** Materiais do corço e uma flecha danificada. Nenhuma carne entregue ou material salgado ainda.
+
+**GitHub:** transcrição, dados, ficha, cronologia e estado atualizados; commits confirmados.
