@@ -6598,3 +6598,54 @@ Você continua do lado de fora. Nenhuma criatura é visível, e nenhum outro ru�
 - **Objeto:** Marca da Bigorna Velada encaixada na parede.
 
 **GitHub:** transcrição, ficha, XP, cronologia e estado atualizados; commits confirmados.
+
+## [249] JOGADOR
+
+Role Percepção e furtividade para entrar e vou pegar a moeda de volta
+
+## [250] MESTRE
+
+### Interior do Monte Veyra — Dia 6, 14h08
+
+Você retira cuidadosamente a Marca da Bigorna Velada da cavidade. Um pequeno estalo metálico é ouvido, mas a porta permanece aberta. Você guarda o disco novamente na bolsa de couro e atravessa lateralmente a abertura.
+
+<card gap={3}>
+  {#each [["Percepção",16,7],["Furtividade",8,9]] as r}
+    <row align="center">
+      <svg viewBox="0 0 100 100" size="70px">
+        <polygon points="50,4 94,29 94,73 50,97 6,73 6,29" fill="#214b86" stroke="#78a7e1" strokeWidth="2"/>
+        <path d="M50 4L23 65L94 73L50 4L77 65L6 73L50 4M6 29L77 65L50 97L23 65L94 29M23 65L77 65" fill="none" stroke="#93b5dd"/>
+        <text x="50" y="55" fontSize="26" fontWeight="bold" fill="white" textAnchor="middle">{r[1]}</text>
+      </svg>
+      <box flex={1} gap={1}>
+        **{r[0]}**
+        <caption>{`1d20+${r[2]} → [${r[1]}] + ${r[2]}`}</caption>
+      </box>
+      <title size="2xl">{r[1]+r[2]}</title>
+    </row>
+  {/each}
+  <divider/>
+  <caption>Ambas as rolagens executadas em Python com secrets.randbelow() e hash do script conferido.</caption>
+</card>
+
+Você avança silenciosamente cerca de quatro metros, aproveitando a pouca iluminação que vem do exterior. O corredor possui aproximadamente três metros de largura e altura semelhante. As paredes são perfeitamente alinhadas, e grandes blocos de pedra compõem o piso, com juntas extraordinariamente estreitas.
+
+Sua percepção permite distinguir um detalhe importante: junto à face interna da entrada existe outra cavidade circular, semelhante àquela em que você encaixou o disco do lado de fora.
+
+O ar é seco, não há sons de passos, respiração ou movimento. Nenhum mecanismo de armadilha é perceptível no trecho iluminado.
+
+Adiante, a escuridão é absoluta. Como humano, você não possui visão no escuro e precisará de alguma fonte de iluminação para examinar o restante do corredor visualmente.
+
+A entrada permanece aberta atrás de você.
+
+---
+
+**[LOG DE MEMÓRIA DA CAMPANHA]**
+- **Localização atual:** Corredor interno do Monte Veyra, 4 metros após a entrada. Dia 6, 14h08.
+- **NPCs presentes:** Nenhum detectado.
+- **Missão ativa:** Exploração da estrutura desconhecida.
+- **Eventos cruciais:** Entrada atravessada; segunda cavidade circular identificada na face interna. Porta permanece aberta.
+- **Condições:** 12/12 PV | CA 16 | 250/300 XP | Inspiração Heroica disponível.
+- **Inventário:** Marca da Bigorna Velada recuperada. Lanterna coberta, 7 frascos de óleo, 10 velas e pederneira disponíveis; nenhuma iluminação acesa.
+
+**GitHub:** transcrição, ficha, rolagens, cronologia e estado atualizados; commits confirmados.
