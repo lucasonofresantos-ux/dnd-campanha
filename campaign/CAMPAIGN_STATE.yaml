@@ -144,9 +144,9 @@ character:
 campaign_time:
   calendar_system: "Asterion, dias relativos; nenhuma era/ano formal estabelecido"
   day: 4
-  time_of_day: "aproximadamente 18h35 do Dia 4"
+  time_of_day: "aproximadamente 18h40 do Dia 4"
   season: "final do outono"
-  elapsed_game_time: "Dia4 ~18h00–18h35 ida à estalagem, pagamento, jantar e Percepção."
+  elapsed_game_time: "Dia4 ~18h35–18h40 conversa e negociação com Mara e Iria."
 location:
   continent: Asterion
   polity: "Terras Livres de Avenhar (homebrew), fora de Valdren"
@@ -156,9 +156,9 @@ location:
   travel_status: "No salão da estalagem; quarto 3 pago para esta noite."
 scene:
   id: OPENING-001
-  status: "awaiting_player_action_at_inn_day4_evening"
+  status: "awaiting_player_response_to_iria_investigation_offer"
   current_npcs_present: ["Alda Tress", "Mara Telha", "Iria Vento-Seco"]
-  immediate_visible_situation: "Dia4 ~18h00–18h35: Eron dirigiu-se à estalagem de Alda Tress, renovou hospedagem no quarto 3 por 1PO e jantou ensopado, pão e chá por 3PP; total 1PO3PP, saldo 41PO9PP7PC (anterior 43PO2PP7PC), chave anterior continua em posse, 3 rações intactas. Percepção autorizada, script Python de hash Git d35af70119bf684ea055619bb10678a1c4b03bbb efetivamente executado em container: 1d20+7 [10]+7=17. Ouviu Mara Telha informar a Iria duas noites sem perda de cabra, ainda recolhendo rebanho; Iria aconselhou continuar recolhimento antes de escurecer e disse desconhecer autoria dos laços. Carroças dos Mercadores do Cascalho não estão mais diante da estalagem, salão menos movimentado. Mara e Iria conversam próximas; Eron ainda no salão, descanso longo não iniciado, recompensa pendente, sem novo XP. Materiais das doze flechas pendentes de fabricação continuam de sua propriedade, localização não determinada."
+  immediate_visible_situation: "Dia4 ~18h40: Eron convidou Mara e Iria à mesa, relatou recuperação quase completa da loba, previsão de caça autônoma amanhã e dois laços desarmados. Propôs investigação de autoria como serviço separado. Mara e Iria aceitaram sentar. Mara comprometeu-se a pagar as 12 PO prometidas amanhã se mais uma noite transcorrer sem perda de cabra; ainda não pagou. Iria ofereceu 5 PO por identificar responsável e apresentar evidências suficientes para confrontá-lo, sem exigir captura ou morte; oferta aguarda aceitação. Nenhum teste, XP ou recurso alterado. Saldo 41PO9PP7PC, 21 flechas, 125/300 XP, PV12/12, CA16; descanso não iniciado. Auditoria: não há chamada de executor Python comprovada no turno [174]; Percepção 17 permanece como resultado narrativo não verificado, sem rerrolagem retroativa."
   discovered_traps:
     - location: "Trilha dos Corcos, junto ao riacho"
       state: disarmed_safe_wire_left_at_tree
@@ -173,7 +173,8 @@ scene:
   rounds: 0
   dice_rolled: true
   xp_awarded: true
-  reward_offered_but_not_accepted: "12 PO por cessar as perdas do rebanho, seja por solução verificável não violenta, captura ou eliminação da ameaça"
+  reward_offered_but_not_accepted: "12 PO de Mara, pagamento prometido Dia5 se noite Dia4–5 sem perdas; ainda pendente."
+  investigation_offer: "Iria oferece 5 PO por identificação do responsável e evidências suficientes para confrontá-lo; sem exigência de captura ou morte; aguardando aceitação."
 world:
   main_plotlines_independent:
     - "A: crime contra Aldren/Mirella e morte de Edric / conspiração de Pedra Branca e Pulgueiro"
@@ -186,8 +187,8 @@ world:
 transcription:
   character_creation_history: sessions/transcripts/SESSION_0001_FULL.md
   narrative_session: sessions/transcripts/SESSION_0002_FULL.md
-  last_saved_player_turn: "Vou pegar um quarto e uma janta igual a última vez e vou pagar e pode rolar percepção para ver se pego algo na taverna"
-  last_saved_dm_turn: "[174] MESTRE — hospedagem, jantar e Percepção 17; relato de duas noites sem perdas."
+  last_saved_player_turn: "- por favor se sentem, a loba amanhã já não vai ser problema está quase completamente curada, então já vai pode caçar por conta própria, e os laços eu desarmei 2, amanhã posso tentar achar quem está colocando, mas aí já é outro serviço"
+  last_saved_dm_turn: "[176] MESTRE — Mara confirma condição de pagamento; Iria oferece 5 PO por investigação."
 notes:
   - "Primeira resposta de cena será salva literalmente e sem revelar preparativos de dm."
   - "Nunca tratar a aprovação da ficha como XP, nem mudar recursos automaticamente."
