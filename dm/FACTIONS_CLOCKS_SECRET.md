@@ -233,3 +233,6 @@
 
 ## Dia 5 ~15h45 — conversa com Iria
 - Iria reconhece a competência profissional de Eron e busca saber sua disponibilidade futura, sem novo contrato ou compromisso. Patrulha sobre laços ainda em organização. Nenhum avanço substancial dos demais relógios ou mudança de recursos.
+
+## Dia 5 ~15h45 — contato futuro
+- Iria deseja manter possibilidade de contratar Eron em serviços futuros e pergunta onde deixar recados. Nenhuma encomenda atual ou obrigação; não presumir disponibilidade nem permanência. Patrulha ainda em organização.
