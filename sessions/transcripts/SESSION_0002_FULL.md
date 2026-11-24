@@ -2239,3 +2239,34 @@ A partir daqui, a campanha prossegue normalmente, sem necessidade de repetir nen
 - **Condições do Jogador:** 12/12 PV, CA 16, 50/300 XP, 32 PO, 3 PP, 3 PC. Inspiração Heroica disponível.
 
 **GitHub:** commits confirmados. Nenhum avanço de tempo ou alteração de recursos nesta revisão.
+
+## [093] JOGADOR
+
+- onde aqui encontro algum trabalho? Seja de ferreiro ou outro
+
+## [094] MESTRE
+
+### Açougue de Bram Cutelo — Dia 2, 12h10
+
+Bram limpa as mãos no avental e apoia os braços sobre o balcão.
+
+— Ferreiro, é? Temos uma ferraria perto da terceira fonte. O homem que trabalha lá anda ocupado preparando ferraduras e consertando ferramentas para o inverno. Talvez precise de ajuda, principalmente se você souber trabalhar o ferro sem supervisão.
+
+Ele aponta na direção da estrada.
+
+— Também há mercadores que precisam de braços para carregar carroças. Alda, na hospedaria, costuma saber quando alguém procura escolta ou companhia para atravessar a serra. Se não tem pressa de partir, vale conversar com ela.
+
+Bram observa as ferramentas que Eron carrega.
+
+— Você aprendeu o ofício com algum mestre ou trabalha por conta própria?
+
+---
+
+**[LOG DE MEMÓRIA DA CAMPANHA]**
+- **Localização Atual:** Açougue de Bram Cutelo, Pouso das Três Fontes.
+- **NPCs Presentes e Relação:** Bram, contato comercial receptivo.
+- **Linha de Missão Ativa:** Recuperação da loba e investigação dos laços; busca de trabalho remunerado.
+- **Eventos Cruciais Ocorridos:** Indicação da ferraria, de trabalhos com carroças e de possíveis escoltas. Nenhum contrato firmado.
+- **Condições do Jogador:** 12/12 PV, CA 16, 50/300 XP, 32 PO, 3 PP e 3 PC. Inspiração Heroica disponível.
+
+**GitHub:** transcrição, cronologia e estado atualizados; commits confirmados.
