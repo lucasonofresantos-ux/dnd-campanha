@@ -38,7 +38,7 @@ character:
   inventory_reference: character/ERON_RIVER_LEVEL_01.md
   carrying_all_owned_equipment: true
   carrying_weight_lb_recorded: 103.88
-  carrying_weight_note: "9 kg carne de corça e outros materiais crus adicionados, abaixo da capacidade de 180 lb; peso exato não aferido."
+  carrying_weight_note: "4,5 kg carne de corça restantes, demais materiais mantidos; carga abaixo de 180 lb."
   carrying_capacity_lb: 180
   known_personal_item: "Marca da Bigorna Velada, pequeno disco familiar e bolsa de couro; uso desconhecido para Eron."
   untrained_owned_tool: "Ferramentas de Funileiro (propriedade, sem proficiência)"
@@ -134,40 +134,41 @@ character:
     useful_offal: "não aproveitados"
     preparation_result: "2d20kh1+5 [3,4] mantido 4+5=9; execução Python não comprovada, resultado narrativo preservado"
   harvested_roe_deer_day5:
-    fresh_meat_kg_approx: 9
+    fresh_meat_kg_approx: 4.5
+    meat_offered_to_wolf_kg_approx: 4.5
     raw_hide: "1 pele crua em bom estado"
     antler_stems: 0
     ears: 2
     long_bones: 2
     sinew_bundles: 1
     useful_offal: "1 coração e 1 fígado frescos"
-    preparation_result: "2d20kh1+5 [11,17] mantido 17+5=22; execução Python confirmada"
+    preparation_result: "2d20kh1+5 [11,17] mantido 17+5=22; execução Python não comprovada, continuidade preservada"
   salt_supply:
     sacks: 1
     weight_kg_approx: 0.2
     purpose: "Conservação de peles; não garante conservação sem preparo adequado."
   animal_first_aid:
-    wolf_forepaw: "Dia5 ~09h45: caminha sem claudicação visível; sem novo exame clínico; recuperação aparentemente quase completa."
+    wolf_forepaw: "Dia5 ~10h05: exame confirmou cicatrização completa, mobilidade normal, sem dor aparente; cuidados concluídos."
   looting_convention: "Ao dizer saquear um animal, Eron procura carne, couro/pele, orelhas, ossos, dentes e demais partes plausivelmente úteis ou vendáveis; ferramentas/proficiências pertinentes contam para adjudicar o rendimento, sem garantir sucesso ou preço."
-  animal_handling_last: "Dia4 ~09h00: dado natural 15+3=18, exame e carinho aceitos."
+  animal_handling_last: "Dia5 ~10h05: dado natural 14+3=17; loba e filhotes aceitam carinho."
 campaign_time:
   calendar_system: "Asterion, dias relativos; nenhuma era/ano formal estabelecido"
   day: 5
-  time_of_day: "aproximadamente 09h45 do Dia 5"
+  time_of_day: "aproximadamente 10h05 do Dia 5"
   season: "final do outono"
-  elapsed_game_time: "Dia4 ~18h45–Dia5 ~09h45 descanso longo, busca de armadilhas, caça e retorno à toca."
+  elapsed_game_time: "Dia5 ~09h45–10h05 alimentação, exame e despedida da loba."
 location:
   continent: Asterion
   polity: "Terras Livres de Avenhar (homebrew), fora de Valdren"
   area: "entroncamento da Estrada do Cascalho, próximo ao Pouso das Três Fontes"
   nearby: "encostas arborizadas da serra cujo monte mais alto é chamado Veyra"
   exact_position: "Entrada da toca da loba, ravina conhecida"
-  travel_status: "Na toca após caça; carne ainda não entregue."
+  travel_status: "Na toca, recuperação concluída e despedida."
 scene:
   id: OPENING-001
-  status: "awaiting_player_action_at_wolf_den_day5"
-  current_npcs_present: ["Loba aparentemente recuperada", "Dois filhotes"]
-  immediate_visible_situation: "Dia4 ~18h45–Dia5 ~06h00: Eron despediu-se de Mara, subiu ao quarto 3, tomou banho e dormiu desde ~19h15. Descanso longo concluído sem incidentes; PV12/12, dado de vida 1d8, Inspiração Heroica já disponível, nenhuma condição. Dia5 ~07h20 Percepção 1d20+7 [16]+7=23: no local do terceiro laço desarmado entre raízes, arame anterior desapareceu e marcas recentes de botas na terra; nenhum novo laço nesse trecho, autoria não identificada. ~07h45 primeira caça Sobrevivência 1d20+5 [19]+5=24, Percepção 1d20+7 [3]+7=10, falha de observação e corço escapou antes de disparo. Furtividade 1d20+9 [6]+9=15 rolada antecipadamente e não aplicada. Segunda tentativa Sobrevivência 1d20+5 [8]+5=13, Percepção 1d20+7 [7]+7=14, Furtividade 1d20+9 [4]+9=13. Corça adulta: ataque arco curto vantagem 2d20kh1+7 [14,16] mantido 16+7=23, acerto; dano com furtivo 2d6+5 [6,1]+5=12, abate; saque Sobrevivência/Coureiro vantagem 2d20kh1+5 [11,17] mantendo 17+5=22. ~09h05 obteve 9kg carne, pele crua boa, 2 orelhas, 2 ossos longos, feixe de tendões, coração e fígado. Flecha consumida, 19 na aljava +1 reserva, 20 totais; 8 perdidas acumuladas. ~09h45 chegou à toca; loba sem claudicação visível ao caminhar, crias presentes, restos de pequena ave junto à entrada, origem não confirmada. Carne ainda não entregue; sem novo exame. Rolagens efetivamente executadas via container com script cujo git hash-object conferiu d35af70119bf684ea055619bb10678a1c4b03bbb. Nenhum XP novo por caça rotineira ou simples observação de pista ainda não resolvida; XP125/300, saldo41PO9PP7PC, 3 rações, sal200g, projeto de 12 flechas pendentes, recompensa de Mara ainda não recebida nem confirmada pelo personagem."
+  status: "awaiting_player_action_after_wolf_recovery"
+  current_npcs_present: ["Loba recuperada", "Dois filhotes"]
+  immediate_visible_situation: "Dia5 ~09h45–10h05: Eron ofereceu metade dos 9 kg de carne (4,5 kg) à loba e aos filhotes. Dados naturais informados pelo jogador: Lidar com Animais 1d20+3 [14]+3=17, Medicina 1d20+3 [17]+3=20; sucessos. Exame confirma ferida completamente cicatrizada, mobilidade normal e sem dor aparente; nenhum medicamento ou curativo consumido. Loba e ambos os filhotes aceitam carinho voluntariamente; Eron despede-se, diz acreditar ser o último encontro e pede que não coma cabras. Animais reconhecem voz e gestos, sem compreender semanticamente ou garantir obediência. Recuperação concluída, independência de cuidados, animais selvagens. Restam 4,5 kg de carne de corça e demais materiais. Sem XP duplicado por cuidado; recompensa dos rebanhos pendente de confirmação com Mara, investigação opcional. PV12/12 CA16 XP125/300, saldo41PO9PP7PC, 20 flechas, 3 rações, kit9/10, sal200g. Auditoria: não há execução Python comprovada no histórico de ferramentas do turno [180]; preservar acontecimentos e inventário, marcar dados daquele turno como não verificados, sem rerrolagem retroativa."
   discovered_traps:
     - location: "Trilha dos Corcos, junto ao riacho"
       state: disarmed_safe_wire_left_at_tree
@@ -196,8 +197,8 @@ world:
 transcription:
   character_creation_history: sessions/transcripts/SESSION_0001_FULL.md
   narrative_session: sessions/transcripts/SESSION_0002_FULL.md
-  last_saved_player_turn: "- boa noite Mara\nMe levanto vou para o quarto tomo um banho, e vou dormir no outro dia me acordo cedo, vou caçar até abater alguma coisa e saquear e se encontrar alguma armadilha desarmo e depois vou para a loba"
-  last_saved_dm_turn: "[180] MESTRE — descanso longo, pista de pegadas e caça concluída, retorno à toca."
+  last_saved_player_turn: "- Aqui vou te deixar metade da carne\nLidar com animais 14\nMedicina 17\nPara rever a para e fazer um carinho nela e nos filhotes que se aproximar\n- acho que hoje é nosso último encontro, vê se não come nenhuma cabra"
+  last_saved_dm_turn: "[182] MESTRE — alimentação, exame final, recuperação completa e despedida."
 notes:
   - "Primeira resposta de cena será salva literalmente e sem revelar preparativos de dm."
   - "Nunca tratar a aprovação da ficha como XP, nem mudar recursos automaticamente."
