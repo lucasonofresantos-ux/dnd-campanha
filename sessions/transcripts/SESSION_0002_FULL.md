@@ -1355,3 +1355,51 @@ O que Eron diz ou faz?
 - **Condições do Jogador:** Ladino 1, **12/12 PV**, **CA 16**, **25/300 XP**, **35 PO e 5 PP**, **Inspiração Heroica disponível**, 19 flechas utilizáveis; quatro rações intactas e uma quase consumida. Possui uma pele crua de coelho parcialmente danificada e duas orelhas. Chave temporária do quarto 3 ainda em sua posse. Nenhuma condição ativa.
 
 **GitHub:** descanso longo, Inspiração Heroica, rolagem, transcrição e estado da campanha atualizados; commits confirmados.
+
+## [065] JOGADOR — 2026-11-23
+
+- preciso de um kit de curandeiro, acho que serve para evitar que a para de um logo infeccione
+
+## [066] MESTRE — 2026-11-23
+
+Olma interrompe o que está fazendo e ergue os olhos para Eron.
+
+— A pata de um lobo, você disse?
+
+Ela parece surpresa, mas não assustada.
+
+— Nesse caso, você está certo em se preocupar com uma infecção. Um animal selvagem pode acabar com terra e sujeira dentro de uma ferida, principalmente quando pisa no chão machucado.
+
+A boticária se abaixa atrás do balcão e retira uma pequena bolsa de couro contendo materiais para primeiros socorros.
+
+— Tenho um **kit de curandeiro completo**, sim. Mas ele não impede infecções por si só. Serve principalmente para prestar socorro a alguém gravemente ferido. Para essa pata, recomendo também ataduras limpas e uma pomada suave, própria para ferimentos superficiais.
+
+Ela coloca os produtos diante de Eron.
+
+| Produto | Preço para Eron |
+|---|---:|
+| Kit de curandeiro — 10 usos | 4 PO |
+| Unguento suave | 2 PP e 4 PC |
+| Ataduras limpas adicionais | 1 PP e 6 PC |
+| **Tudo junto** | **4 PO e 4 PP** |
+
+Os valores incluem o desconto de 20% do talento Artesão.
+
+Olma examina Eron por um instante.
+
+— Preciso saber de uma coisa: **a ferida ainda está aberta? Está quente, inchada ou soltando alguma secreção?** Dependendo de como estiver, uma simples pomada pode não bastar.
+
+Ela mantém o kit sobre o balcão, aguardando a resposta.
+
+<text color="secondary" size="xs">Regra D&D 2024: o kit de curandeiro tem 10 usos e permite estabilizar uma criatura inconsciente com 0 PV sem teste de Medicina. Não concede automaticamente cura ou prevenção de infecções. <Cite refs={["turn606109view0","turn838850search5"]}/></text>
+
+**O que Eron responde a Olma?**
+
+**[LOG DE MEMÓRIA DA CAMPANHA]**
+- **Localização Atual:** Casa das Ervas de Olma Ramo, Pouso das Três Fontes, aproximadamente às **7h05 do Dia 2**.
+- **NPCs Presentes e Relação:** Olma Ramo, boticária disposta a orientar Eron sobre os cuidados com a pata da loba.
+- **Linha de Missão Ativa:** Adquirir materiais e alimento para retornar à loba; proteger o rebanho de Mara e investigar os laços. Recompensa de **12 PO pendente**.
+- **Eventos Cruciais Ocorridos:** Olma confirmou que possui um kit de curandeiro completo e apresentou unguento e ataduras. Preços com desconto: kit **4 PO**, unguento **2 PP e 4 PC**, ataduras **1 PP e 6 PC**; tudo **4 PO e 4 PP**. Perguntou sobre os sinais do ferimento. **Nenhuma compra ou teste realizado.**
+- **Condições do Jogador:** Ladino 1, **12/12 PV**, **CA 16**, **25/300 XP**, **35 PO e 5 PP**, Inspiração Heroica disponível; 19 flechas utilizáveis. Quatro rações intactas e uma quase consumida; pele crua de coelho parcialmente danificada e duas orelhas. Chave do quarto 3 ainda em posse de Eron.
+
+**GitHub:** transcrição literal e estado da campanha atualizados; commits confirmados.
