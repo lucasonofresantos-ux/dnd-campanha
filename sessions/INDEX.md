@@ -42,3 +42,5 @@
 - Atualização: sessão 0002 até [222], Dia6 ~06h30, café servido por 1PP e notícias locais, sem recados.
 
 - Atualização: sessão 0002 até [224], Dia6 ~06h35; Eron consulta Alda sobre riscos do Monte Veyra, partida ainda não iniciada.
+
+- Atualização: sessão 0002 até [226], Dia6 ~06h35; Alda aceita registrar visitantes e preservar destino de Eron. Saída ainda não iniciada.
