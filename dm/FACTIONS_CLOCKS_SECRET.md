@@ -191,3 +191,6 @@
 
 ## Dia 4 ~11h05 — contrato com Durnak
 - Durnak aceitou incluir almoço ao meio-dia na remuneração de 1PO5PP, materiais e ferramentas locais. Ajuste de aros de duas rodas e seis cravos pendentes; primeiro teste ainda não realizado. Indicou comércio de artigos de viagem perto da segunda fonte; não garantir estoque/preço. Sem pagamento, consumo ou XP até execução.
+
+## Dia 4 ~13h10 — trabalho na ferraria
+- Dois aros ajustados e aprovados com dado do jogador 18+3=21. Durnak forneceu almoço conforme acordo; seis cravos pendentes e remuneração ainda não paga. Trabalho rotineiro, sem XP novo.
