@@ -43,20 +43,20 @@ character:
   known_personal_item: "Marca da Bigorna Velada, pequeno disco familiar e bolsa de couro; uso desconhecido para Eron."
   untrained_owned_tool: "Ferramentas de Funileiro (propriedade, sem proficiência)"
   ammo:
-    shortbow_arrows_in_quiver: 19
-    shortbow_arrows_spare: 1
-    shortbow_arrows_crafted_total: 8
+    shortbow_arrows_in_quiver: 20
+    shortbow_arrows_spare: 5
+    shortbow_arrows_crafted_total: 13
     shortbow_arrows_fired_unrecovered: 0
     shortbow_arrows_lost_unusable: 8
     unrecovered_arrow_location: "Sete flechas perdidas até Dia4, mais uma consumida no abate Dia5."
   crafting_project_arrows:
     total_target: 20
-    completed: 8
-    pending: 12
+    completed: 13
+    pending: 7
     material_cost_silver_paid: 4
     work_minutes_total: 480
-    work_minutes_completed: 215
-    work_minutes_remaining: 265
+    work_minutes_completed: 320
+    work_minutes_remaining: 160
     status: paused_at_workshop_closing
     remaining_materials_location: "Ainda não especificado pelo jogador; materiais de sua propriedade."
   accommodation:
@@ -156,21 +156,21 @@ character:
 campaign_time:
   calendar_system: "Asterion, dias relativos; nenhuma era/ano formal estabelecido"
   day: 5
-  time_of_day: "aproximadamente 16h15 do Dia 5"
+  time_of_day: "aproximadamente 18h00 do Dia 5"
   season: "final do outono"
-  elapsed_game_time: "Dia5 ~15h50–16h15 compra de provisões e retorno à ferraria."
+  elapsed_game_time: "Dia5 ~16h15–18h00 fabricação parcial de flechas."
 location:
   continent: Asterion
   polity: "Terras Livres de Avenhar (homebrew), fora de Valdren"
   area: "entroncamento da Estrada do Cascalho, próximo ao Pouso das Três Fontes"
   nearby: "encostas arborizadas da serra cujo monte mais alto é chamado Veyra"
   exact_position: "Ferraria de Durnak Mão de Ferro, Pouso das Três Fontes"
-  travel_status: "Na ferraria, ainda sem iniciar novo trabalho."
+  travel_status: "Na ferraria ao fechamento; fabricação interrompida."
 scene:
   id: OPENING-001
-  status: "awaiting_player_action_at_smithy_day5"
+  status: "awaiting_player_action_at_smithy_closing_day5"
   current_npcs_present: ["Durnak Mão de Ferro"]
-  immediate_visible_situation: "Dia5 ~15h50–16h15: Eron reiterou que Iria pode deixar recados e foi ao comerciante de artigos de viagem junto à segunda fonte. ~16h05 adquiriu 7 rações diárias a 5PP cada (35PP base, 28PP com desconto Crafter de 20%) e saco de sal de 5kg por preço local adjudicado de 5PP base (4PP com desconto). Total 32PP = 3PO2PP; saldo anterior 60PO8PP7PC, novo 57PO6PP7PC. Rações intactas 3→10, nenhuma consumida; sal 0,2→5,2 kg, dois sacos. Peso adicional ~11,35kg (14 lb de rações + 5 kg de sal, sem quantificar embalagem); abaixo da capacidade de 180 lb, peso total exato não aferido. ~16h15 chegou à ferraria; Durnak perguntou se veio terminar flechas ou procurar trabalho e ofereceu bancada até fechamento às18h. Projeto permanece 8/20 concluídas, 12 pendentes, 265min de trabalho restante, materiais pagos, 105min disponíveis antes do fechamento. Não iniciou fabricação, não definiu localização dos materiais, não aceitou novo trabalho. Sem teste ou XP, PV12/12 CA16 XP225/300, 20 flechas (19 aljava +1 reserva), kit9/10, Inspiração Heroica disponível. Iria permanece responsável pela patrulha dos laços; resultados ainda não conhecidos por Eron."
+  immediate_visible_situation: "Dia5 ~16h15–18h00: Eron retomou fabricação na bancada gratuita de Durnak, usando materiais já pagos. Trabalhou 105 minutos, concluindo mais cinco flechas utilizáveis. Projeto acumulado 320/480 minutos, 13/20 flechas completas, 7 pendentes, 160 minutos (2h40) restantes; 25 flechas utilizáveis no inventário (20 aljava, 5 reserva). Durnak fechou a ferraria às18h e autorizou retorno na manhã seguinte. Nenhum teste necessário por fabricação rotineira, sem XP ou novo gasto. PV12/12 CA16 XP225/300, saldo57PO6PP7PC, 10 rações, 5,2kg sal, Inspiração Heroica disponível. Materiais restantes continuam propriedade de Eron; local de armazenamento após fechamento não especificado. Nenhuma nova hospedagem contratada; aguarda ação."
   discovered_traps:
     - location: "Trilha dos Corcos, junto ao riacho"
       state: disarmed_safe_wire_left_at_tree
@@ -214,8 +214,8 @@ world:
 transcription:
   character_creation_history: sessions/transcripts/SESSION_0001_FULL.md
   narrative_session: sessions/transcripts/SESSION_0002_FULL.md
-  last_saved_player_turn: "- precisando só deixar recado\nVou sair comprar ração para fechar 10 dias na estrada e também um saco de sal de 5kg e depois vou para a ferraria"
-  last_saved_dm_turn: "[198] MESTRE — provisões compradas, retorno à ferraria."
+  last_saved_player_turn: "- vim terminar as flechas "
+  last_saved_dm_turn: "[200] MESTRE — cinco flechas adicionais, fechamento da ferraria."
 notes:
   - "Primeira resposta de cena será salva literalmente e sem revelar preparativos de dm."
   - "Nunca tratar a aprovação da ficha como XP, nem mudar recursos automaticamente."
