@@ -72,6 +72,8 @@
 
 - **Dia 2, ~07h05:** Eron disse a Olma Ramo que precisa de kit de curandeiro para evitar possível infecção na pata de um lobo. Olma reagiu com surpresa, mas sem hostilidade, e explicou que kit de curandeiro não impede infecção automaticamente (regra SRD 5.2.1: estabiliza criatura inconsciente a 0 PV sem Medicina, 10 usos). Verificou e exibiu **1 kit completo disponível**, com unguento suave e ataduras limpas adicionais. Preços para Eron com desconto Artesão 20%: **kit 4 PO**, **unguento 2 PP 4 PC**, **ataduras 1 PP 6 PC**, conjunto **4 PO 4 PP**. Olma perguntou se ferida permanece aberta, quente/inchada ou com secreção, aguardando resposta. Sem pagamento ou entrega dos produtos e sem rolagens, mudança de XP, inventário ou recursos.
 
+- **Dia 2, ~07h10:** Eron descreveu à boticária Olma Ramo pata de um lobo inchada e quente, mas sem mau cheiro, após ele retirar um fragmento de ferro de armadilha no dia anterior; reconheceu que pode ser inflamação de lesão recente, pediu que incluísse materiais necessários e autorizou pagamento, solicitando desconto. Olma disse que ausência de odor não exclui infecção, orientou água limpa, unguento suave em camada fina, atadura não apertada e vigilância de piora ou secreção. Entregou **kit de curandeiro completo (10 usos)**, **1 pote de unguento suave** e **1 conjunto de ataduras limpas**, todos não mágicos, por **4 PO e 4 PP**, desconto de Artesão de 20% sobre preço base 5 PO e 5 PP. Eron **pagou e recebeu** os materiais, saldo de **35 PO 5 PP → 31 PO 1 PP**, nenhum item usado. Sem rolagem, XP, dano, alimentação nova ou visita à loba. Missão de Mara/premiação 12PO pendentes.
+
 ## Índices
 - Estado: `CAMPAIGN_STATE.yaml`.
 - XP: `XP_LOG.csv`.
