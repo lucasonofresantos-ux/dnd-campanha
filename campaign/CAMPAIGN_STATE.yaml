@@ -113,9 +113,9 @@ location:
   travel_status: "Eron permanece na mata à noite, nenhuma caça abatida."
 scene:
   id: OPENING-001
-  status: "awaiting_player_action_after_night_hunt"
+  status: "pending_continued_hunt_heroic_inspiration_window"
   current_npcs_present: []
-  immediate_visible_situation: "Dia 2 ~18h10–19h00: Eron continuou caçando. Script dice_roller.py (blob d35af70119bf684ea055619bb10678a1c4b03bbb, verificado por git hash-object) executado em Python: Percepção auditiva 1d20+7 [16]+7=23; Furtividade 1d20+9 [1]+9=10; Sobrevivência com desvantagem devido à luz insuficiente 2d20kl1+5 [9,9], mantido primeiro 9, descartado segundo 9, total 14. Identificou uma lebre; galho estalou e ela fugiu antes de tiro claro. Sem disparo, dano, saque, XP ou gasto. 17 flechas, 33PO3PP3PC, PV12/12, XP50/300. Eron na mata ~19h00. Correção auditável: as quatro faces anunciadas na tentativa anterior [106] não tiveram execução Python comprovada; são inválidas como rolagens. A cena narrada e a flecha perdida permanecem como estado provisório de continuidade, sem rerrolagem retroativa automática. A afirmação de consulta externa também não foi comprovada. O bloco final de [106] foi preparado e persistido, mas a resposta foi interrompida antes de sua entrega visível; não constitui transcrição de fala entregue."
+  immediate_visible_situation: "Dia 2 ~18h10–19h00: Eron continuou caçando. Script dice_roller.py (blob d35af70119bf684ea055619bb10678a1c4b03bbb, verificado por git hash-object) executado em Python: Percepção auditiva 1d20+7 [16]+7=23; Furtividade 1d20+9 [1]+9=10; Sobrevivência com desvantagem devido à luz insuficiente 2d20kl1+5 [9,9], mantido primeiro 9, descartado segundo 9, total 14. Identificou uma lebre; galho estalou e ela fugiu antes de tiro claro. Sem disparo, dano, saque, XP ou gasto. 17 flechas, 33PO3PP3PC, PV12/12, XP50/300. Eron na mata ~19h00. Correção auditável: as quatro faces anunciadas na tentativa anterior [106] não tiveram execução Python comprovada; são inválidas como rolagens. A cena narrada e a flecha perdida permanecem como estado provisório de continuidade, sem rerrolagem retroativa automática. A afirmação de consulta externa também não foi comprovada. O bloco final de [106] foi preparado e persistido, mas a resposta foi interrompida antes de sua entrega visível; não constitui transcrição de fala entregue. Jogador declarou continuar caçando até abater uma presa e perguntou sobre Inspiração Heroica no disparo anterior. Regra 2024 esclarecida: rerrolagem imediata de um dado, sem retroatividade após outras ações; recurso intacto. Próxima tentativa pendente; oferecer janela de decisão após falhas antes de avançar."
   discovered_traps:
     - location: "Trilha dos Corcos, junto ao riacho"
       state: disarmed_safe_wire_left_at_tree
@@ -139,8 +139,8 @@ world:
 transcription:
   character_creation_history: sessions/transcripts/SESSION_0001_FULL.md
   narrative_session: sessions/transcripts/SESSION_0002_FULL.md
-  last_saved_player_turn: "Continuo caçando"
-  last_saved_dm_turn: "[108] MESTRE — caça noturna, testes Python reais 23/10/14; lebre fugiu antes do disparo."
+  last_saved_player_turn: "Não dá para usar inspiração heróica para mudar o disparo na corça fêmea?"
+  last_saved_dm_turn: "[112] MESTRE — esclarecimento sobre Inspiração Heroica; caçada continuada solicitada, ainda não resolvida."
 notes:
   - "Primeira resposta de cena será salva literalmente e sem revelar preparativos de dm."
   - "Nunca tratar a aprovação da ficha como XP, nem mudar recursos automaticamente."
