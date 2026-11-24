@@ -33,7 +33,7 @@ character:
   hit_dice_available: "1d8"
   money:
     gold: 56
-    silver: 3
+    silver: 2
     copper: 7
   inventory_reference: character/ERON_RIVER_LEVEL_01.md
   carrying_all_owned_equipment: false
@@ -156,21 +156,21 @@ character:
 campaign_time:
   calendar_system: "Asterion, dias relativos; nenhuma era/ano formal estabelecido"
   day: 6
-  time_of_day: "aproximadamente 06h15 do Dia 6"
+  time_of_day: "aproximadamente 06h30 do Dia 6"
   season: "final do outono"
-  elapsed_game_time: "Dia5 ~21h50–Dia6 ~06h15, banho e descanso longo."
+  elapsed_game_time: "Dia6 ~06h15–06h30, café da manhã e conversa com Alda."
 location:
   continent: Asterion
   polity: "Terras Livres de Avenhar (homebrew), fora de Valdren"
   area: "entroncamento da Estrada do Cascalho, próximo ao Pouso das Três Fontes"
   nearby: "encostas arborizadas da serra cujo monte mais alto é chamado Veyra"
-  exact_position: "Quarto 3 do Posto de Descanso de Alda Tress, Pouso das Três Fontes."
-  travel_status: "Descansado, ainda no quarto; saída não iniciada."
+  exact_position: "Salão do Posto de Descanso de Alda Tress, Pouso das Três Fontes."
+  travel_status: "Descansado, café da manhã servido; saída não iniciada."
 scene:
   id: OPENING-001
   status: "awaiting_player_action_at_inn_day6_morning"
-  current_npcs_present: []
-  immediate_visible_situation: "Dia5 ~21h50–Dia6 ~06h15: Eron explicou que quis verificar a segurança da patrulha e perguntou sobre recados. Alda confirmou não haver recados; Iria agradeceu e despediu-se. Eron tomou banho incluído na hospedagem no quarto 3, deitou-se ~22h15 e completou descanso longo ininterrupto de oito horas às ~06h15 do Dia6. Amanhecer frio, névoa fina nos campos e Alda trabalhando na cozinha. Eron ainda no quarto, chave em posse, não tomou café da manhã, não saiu para caçar e não consumiu rações. Nenhum novo gasto, XP ou teste. PV12/12 CA16 XP225/300, 1d8 de Vida disponível, exaustão0, 56PO3PP7PC, 25 flechas, 10 rações, 5,2kg sal, kit9/10, inspiração disponível. Sete flechas pendentes, materiais guardados com Durnak."
+  current_npcs_present: ["Alda Tress"]
+  immediate_visible_situation: "Dia6 ~06h15–06h30: Eron desceu ao salão, pediu café da manhã e perguntou a Alda sobre novidades. Alda serviu dois ovos, pão fresco, queijo e leite quente por 1PP (preço local adjudicado); saldo 56PO3PP7PC→56PO2PP7PC, 10 rações intactas. Alda relatou que Mara entregou leite cedo e informou ausência de perdas de cabras na noite Dia5–6; lenhador que chegou pela manhã relatou geada nas partes altas da serra. Alda confirmou ausência de recados e perguntou se Eron caçará. Eron no salão com refeição servida, sem saída, sem nova rolagem, XP ou combate. PV12/12 CA16 XP225/300, 25 flechas, sal5,2kg, kit9/10, inspiração disponível, descanso longo concluído, chave do quarto 3 ainda em posse."
   discovered_traps:
     - location: "Trilha dos Corcos, junto ao riacho"
       state: disarmed_safe_wire_left_at_tree
@@ -214,8 +214,8 @@ world:
 transcription:
   character_creation_history: sessions/transcripts/SESSION_0001_FULL.md
   narrative_session: sessions/transcripts/SESSION_0002_FULL.md
-  last_saved_player_turn: "[219] JOGADOR — pergunta por recados, toma banho e dorme."
-  last_saved_dm_turn: "[220] MESTRE — Dia6 06h15, descanso longo concluído."
+  last_saved_player_turn: "[221] JOGADOR — pede café e notícias."
+  last_saved_dm_turn: "[222] MESTRE — café servido e novidades locais."
 notes:
   - "Primeira resposta de cena será salva literalmente e sem revelar preparativos de dm."
   - "Nunca tratar a aprovação da ficha como XP, nem mudar recursos automaticamente."
