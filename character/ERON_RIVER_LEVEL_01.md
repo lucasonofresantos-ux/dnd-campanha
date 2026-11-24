@@ -194,3 +194,10 @@ Especializações do Ladino de nível 1: **Furtividade e Percepção**, dobram p
 - Eron informou **dado físico natural 18** em Lidar com Animais, +3 Sabedoria, **total 21**. Não houve novo sorteio pelo Mestre.
 - Retirou **mais um pequeno pedaço de carne seca** da porção diária já aberta e entregou-o à loba, que o consumiu. Quatro porções diárias permanecem intactas; a porção aberta está **quase consumida**, quantidade residual e massa exatas não medidas. Não descontar uma quinta porção inteira antes da efetiva conclusão.
 - Carinho no pescoço tolerado, inspeção visual próxima da pata sem tocá-la; Eron não recebeu dano nem gastou recursos além do alimento. XP e moedas inalterados.
+
+
+### Abate de coelho na mata — sessão 0002, Dia 1, ~15h25
+- Disparo de arco curto com vantagem por Eron estar oculto: \`2d20kh1+7\` → dados [2,10], mantido 10+7=17, acerto.
+- Dano: \`2d6+5\` → [4 (arco),3 (Ataque Furtivo)]+5=12 perfurante. Coelho abatido e ainda caído a ~18m de Eron.
+- **Munição: 19 flechas na aljava; uma flecha disparada alojada no coelho, não recuperada.** Corpo não recolhido; não acrescentar carne ao inventário até coleta.
+- Nenhuma mudança em ração, PV, XP ou moedas.
