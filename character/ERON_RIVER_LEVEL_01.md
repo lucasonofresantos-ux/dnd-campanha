@@ -189,3 +189,8 @@ Especializações do Ladino de nível 1: **Furtividade e Percepção**, dobram p
 - Eron permaneceu sentado junto à toca, sem fogueira. Almoçou pão de viagem e carne seca da **mesma porção diária anteriormente aberta**, compartilhando uma parte com a loba. Não foram abertas novas porções diárias.
 - **Restam quatro porções diárias intactas e a porção aberta, agora bastante consumida**. Quantidade e peso remanescentes da porção aberta não aferidos; não estimar consumo em libras sem medição.
 - Período sedentário de cerca de três horas, compatível com descanso curto; nenhum Dado de Vida gasto e nenhum recurso da ficha recuperado ou consumido automaticamente. PV 12/12, moedas iguais.
+
+### Ração adicional e inspeção da loba — sessão 0002, Dia 1, ~15h
+- Eron informou **dado físico natural 18** em Lidar com Animais, +3 Sabedoria, **total 21**. Não houve novo sorteio pelo Mestre.
+- Retirou **mais um pequeno pedaço de carne seca** da porção diária já aberta e entregou-o à loba, que o consumiu. Quatro porções diárias permanecem intactas; a porção aberta está **quase consumida**, quantidade residual e massa exatas não medidas. Não descontar uma quinta porção inteira antes da efetiva conclusão.
+- Carinho no pescoço tolerado, inspeção visual próxima da pata sem tocá-la; Eron não recebeu dano nem gastou recursos além do alimento. XP e moedas inalterados.
