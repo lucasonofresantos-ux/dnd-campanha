@@ -218,3 +218,6 @@
 
 ## Dia 5 ~10h05 — recuperação concluída
 - Loba recebeu 4,5 kg de carne; exame confirma cura completa da pata e mobilidade normal. Crias e mãe aceitam carinho voluntariamente. Eron anunciou possível último encontro, sem controlar ações futuras da família selvagem. Não garantir ausência de ataques futuros nem domesticação. Condição de pagamento de Mara satisfeita fora de cena, falta confirmação pública e pagamento; investigação opcional permanece aberta. Nenhum XP duplicado pelos cuidados. Auditoria: execução dos dados [180] não comprovada, continuidade preservada.
+
+## Dia 5 ~11h55 — contrato dos rebanhos concluído
+- Mara confirmou a ausência de perdas por três noites e pagou as 12 PO prometidas, encerrando o contrato. Gratidão e respeito por Eron. +50 XP pelo resultado substantivo de proteção verificável, não pelos primeiros socorros ou laços já pontuados. Animais selvagens seguem suas vidas, sem garantia de ausência de incidentes futuros. Investigação de Iria permanece opcional, 5 PO; não revelar autoria ou antecipar evidências. Comércio de caça concluído, saldo final 55PO8PP7PC. Sem novas rolagens.
