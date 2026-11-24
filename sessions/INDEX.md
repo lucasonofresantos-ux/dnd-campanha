@@ -66,3 +66,5 @@
 - Atualização: sessão 0002 até [246], Dia6 14h05; Investigação 26 (dado do jogador), compatibilidade geométrica constatada; disco não inserido.
 
 - Atualização: sessão 0002 até [248], Dia6 14h06; abertura de passagem oculta mediante disco, +25 XP (250/300), Eron do lado externo.
+
+- Atualização: sessão 0002 até [250], Dia6 14h08; disco recuperado, entrada percorrida ~4m, rolagens Percepção 23/Furtividade 17 executadas, luz externa limitada.
