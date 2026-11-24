@@ -780,3 +780,55 @@ Nenhum ataque ocorreu, Eron não sofreu dano e o ferimento permanece sem tratame
 - Condições do Jogador: Ladino 1, **12/12 PV**, **CA 16**, **0/300 XP**, **36 PO e 8 PP**. Quatro porções de ração intactas e uma aberta, quase consumida. Nenhum dano, condição ou combate.
 
 **GitHub:** rolagem, transcrição literal, cronologia e estado da campanha registrados; commits confirmados.
+
+## [043] JOGADOR — 2026-11-23
+
+- Você deve estar com fome, já volto mas não saía daqui
+Role sobrevivência furtividade e percepção vou tentar caçar alguma coisa para comer
+
+## [044] MESTRE — 2026-11-23
+
+## Eron River — Caçada na mata
+
+<box border radius="lg" padding={3} gap={3}>
+  <grid columns={3} gap={2}>
+    {#each [{name:"Sobrevivência",die:1,mod:5,total:6},{name:"Furtividade",die:11,mod:9,total:20},{name:"Percepção",die:9,mod:7,total:16}] as r}
+      <grid-item>
+        <box align="center" gap={1}>
+          <text color="secondary" size="2xs" weight="medium">{r.name}</text>
+          <title size="xl" color={r.total===6?"danger":"default"} tabularNums>{r.total}</title>
+          <caption> [{r.die}] + {r.mod}</caption>
+        </box>
+      </grid-item>
+    {/each}
+  </grid>
+  <divider color="subtle"/>
+  <caption>Três rolagens de 1d20. Sobrevivência falhou; Furtividade e Percepção tiveram êxito.</caption>
+</box>
+
+— Você deve estar com fome. Já volto, mas não saia daqui.
+
+A loba observa Eron se levantar. Suas orelhas acompanham os passos dele até a vegetação escondê-lo. Ela não responde à ordem; permanece junto aos filhotes quando ele parte.
+
+Eron segue pela encosta arborizada, afastando-se da ravina. O solo úmido está coberto por folhas de carvalho e agulhas de pinheiro. Durante os primeiros vinte minutos, tenta acompanhar sinais de animais maiores, mas as marcas se confundem com pegadas antigas e trechos lavados pela chuva. **Ele não consegue estabelecer um rastro confiável de caça.**
+
+Ainda assim, seus passos são silenciosos. Ao atravessar uma faixa de samambaias, percebe um movimento discreto à esquerda.
+
+Um **coelho selvagem** está junto à borda de uma clareira estreita, alimentando-se de brotos baixos. O animal está a aproximadamente **18 metros** de Eron, que permanece oculto atrás de um tronco caído.
+
+O coelho ergue as orelhas por um instante, fareja o ar e volta a comer.
+
+**Ele ainda não percebeu Eron.**
+
+O arco curto está disponível, e a distância fica dentro de seu alcance normal. Contudo, Eron ainda não disparou nenhuma flecha.
+
+**O que Eron faz?**
+
+**[LOG DE MEMÓRIA DA CAMPANHA]**
+- Localização Atual: Encosta arborizada a cerca de vinte minutos da ravina, oculto atrás de um tronco; aproximadamente 15h25 do Dia 1.
+- NPCs Presentes e Relação: Nenhum NPC; um coelho selvagem a cerca de 18 metros, ainda sem detectar Eron. A loba e seus dois filhotes ficaram na toca quando ele partiu; situação posterior não observada.
+- Linha de Missão Ativa: Investigar os ataques ao rebanho de Mara; Eron também procura alimento para os animais. Recompensa de 12 PO ainda não recebida.
+- Eventos Cruciais Ocorridos: **Sobrevivência 1d20+5 → [1]+5=6** (falha no rastreamento); **Furtividade 1d20+9 → [11]+9=20**; **Percepção 1d20+7 → [9]+7=16**. Eron avistou um coelho sem ser percebido; não atacou nem obteve alimento ainda.
+- Condições do Jogador: Ladino 1, **12/12 PV**, **CA 16**, **0/300 XP**, **36 PO e 8 PP**, 20 flechas. Quatro porções de ração intactas e uma quase consumida; nenhuma condição ou recurso gasto nesta etapa.
+
+**GitHub:** três rolagens, transcrição literal, cronologia e estado da campanha registrados em commits confirmados.
