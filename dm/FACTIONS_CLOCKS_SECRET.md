@@ -173,3 +173,6 @@
 
 ## Noite do Dia 3 ao Dia 4 ~06h00
 - Loba e crias receberam parte crua da lebre; Eron comeu porção assada, permaneceu no abrigo rochoso. Noite sem incidentes, loba não saiu para predar rebanhos nesta noite; demais predadores e situação dos rebanhos não verificados. Recuperação gradual, apoia quatro patas com leve claudicação; sem exame clínico novo, sem confirmação de plena capacidade de caça. Filhotes habituam-se à presença de Eron, permanecem selvagens. Avel inspecionou a estrutura após liberar detritos e não encontrou dano que impeça trânsito normal; reabertura anunciada ao amanhecer do Dia4. Mercadores do Cascalho podem retomar viagem; Eron não presenciou. Iria mantém vigilância até avaliação de Mara. Não conceder recompensa de 12 PO sem confirmação independente. Sem novo XP pelo cuidado rotineiro.
+
+## Dia 4 ~06h00–08h00 — caça e terceiro laço
+- Loba acompanha por poucos metros mas retorna às crias; ainda se recupera, não domesticação. Terceiro laço distinto desarmado por Eron na Trilha dos Corços; autoria não identificada publicamente. Odran continua responsável pelos laços de caça; não presumir que percebeu o desarme antes de retornar à área. Recompensa de Mara pendente. Eron abateu corço sem a ajuda da loba, saque parcial; nenhum vínculo com arcos principais.
