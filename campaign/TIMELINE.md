@@ -45,6 +45,8 @@
 
 - Eron informou **Lidar com Animais, resultado físico natural [18] +3 =21**, conferido na ficha; Mestre não rolou dado. Eron ofereceu outro pequeno pedaço de carne seca da ração diária já aberta, inclinou-se e acariciou lateral do pescoço da loba, que inicialmente enrijeceu mas tolerou o toque; permaneceu afastado dos filhotes. Sem tocar na pata, visualizou ferida mais de perto: marca estreita/funda de constrição, inchaço, irritação, sujeira e sangue seco, e **minúsculo brilho acinzentado semelhante à ponta de arame na borda da crosta**, sem poder distinguir se preso na pele ou no pelo. A loba retraiu levemente a perna quando mão se aproximou; não atacou. Nenhum tratamento, novo exame por toque, cura, combate ou XP. Inventário: 4 rações intactas, 1 porção aberta quase consumida. Horário ~15h.
 
+- Eron pediu novo **Lidar com Animais** condicional: se resultado suficiente tentaria examinar a pata por toque, se não recuaria sem ferir a loba com filhotes. Rolado de fato com script Python do projeto: **1d20+3 → [4]+3=7**, falha. Ao aproximar a mão da pata, loba ficou rígida, recolheu membro, rosnou, mostrou dentes e recuou meio passo para proteger crias. Eron interrompeu imediatamente e voltou a seu lugar anterior ~2m da abertura, conforme decisão do jogador. Ela não mordeu nem perseguiu; voltou a deitar cautelosa. Sem contato na pata, exame por manipulação, tratamento, dano, combate, XP, gasto ou tempo significativo; ~15h Dia 1.
+
 ## Índices
 - Estado: `CAMPAIGN_STATE.yaml`.
 - XP: `XP_LOG.csv`.
