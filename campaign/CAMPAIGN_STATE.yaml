@@ -64,7 +64,9 @@ character:
       uses_remaining: 10
       official_mechanics: "Estabiliza criatura a 0 PV sem teste de Medicina; não previne infecção nem cura automaticamente"
     mild_ointment_pots: 1
-    clean_bandage_sets: 1
+    ointment_status: "pote parcialmente cheio, 1 aplicacao usada na loba no Dia2 ~10h15"
+    clean_bandage_sets: 0
+    bandage_status: "1 conjunto avulso aplicado na pata da loba no Dia2 ~10h15, nenhuma atadura avulsa limpa restante"
     purchase: "Dia 2 ~07h10 em Olma Ramo, por 4PO4PP com 20% de desconto Artesão"
   rations:
     starting_full_days: 5
@@ -89,27 +91,27 @@ character:
     condition: "materiais crus embalados para transporte; comecarao a se deteriorar sem conservacao"
     preparation_result: "Sobrevivencia + Ferramentas de Coureiro com vantagem 2d20kh1+5 [1,19] mantido 19+5=24"
   animal_first_aid:
-    wolf_forepaw: "fragmento metálico superficial removido, lavada com água do cantil e protegida por tira de roupa; ainda inchada, cicatrização pendente"
+    wolf_forepaw: "Dia2 ~10h15: retira faixa improvisada suja, observa inchaço e calor mas sem pus/odor ou metal visível; bordas começam fechar. Lavada com água do cantil, aplicada 1 dose de unguento suave, coberta com atadura limpa frouxa. Loba ainda poupa membro e precisa repouso/observação, sem cura mágica."
   looting_convention: "Ao dizer saquear um animal, Eron procura carne, couro/pele, orelhas, ossos, dentes e demais partes plausivelmente úteis ou vendáveis; ferramentas/proficiências pertinentes contam para adjudicar o rendimento, sem garantir sucesso ou preço."
-  animal_handling_last: "1d20+3 → [19]+3=22; sétimo teste, dado físico, loba permitiu Eron tocar e sustentar pata ferida para os primeiros socorros."
+  animal_handling_last: "Dia2 ~09h55, teste físico natural 19+3=22, loba consentiu contato cauteloso e novo exame da pata, sem estar domesticada."
 campaign_time:
   calendar_system: "Asterion, dias relativos; nenhuma era/ano formal estabelecido"
   day: 2
-  time_of_day: "aproximadamente 09h55 da manhã do Dia 2"
+  time_of_day: "aproximadamente 10h15 da manhã do Dia 2"
   season: "final do outono"
-  elapsed_game_time: "Dia 2 ~09h40 Eron ofereceu aproximadamente 2kg carne do corço para loba e dois filhotes, comeu resto da porção de ração aberta Dia1, esperou ~15min alimentarem-se, ~09h55"
+  elapsed_game_time: "Dia2 ~09h55–10h15: com dados físicos Lidar com Animais nat19+3=22 e Medicina nat20+3=23, Eron aproximou-se, examinou pata e trocou curativo"
 location:
   continent: Asterion
   polity: "Terras Livres de Avenhar (homebrew), fora de Valdren"
   area: "entroncamento da Estrada do Cascalho, próximo ao Pouso das Três Fontes"
   nearby: "encostas arborizadas da serra cujo monte mais alto é chamado Veyra"
-  exact_position: "diante da entrada da toca da loba em ravina arborizada; loba cinzenta e dois filhotes à vista"
-  travel_status: "Eron desarmou o segundo laço junto ao riacho, deixou arame inerte ao lado da árvore e retomou trilha conhecida carregando caça; chegou à entrada da toca sem alimentar nem tratar a loba ainda"
+  exact_position: "entrada da toca da loba na ravina, ao lado da mãe e de seus dois filhotes; tratamento da pata acabado de concluir"
+  travel_status: "Eron permanece na toca da loba após alimentação e curativo; nenhum movimento de retorno à aldeia realizado"
 scene:
   id: OPENING-001
-  status: "awaiting_player_animal_handling_roll_to_reexamine_wolf_forepaw"
+  status: "awaiting_player_after_wolf_forepaw_rebandaged_day2"
   current_npcs_present: []
-  immediate_visible_situation: "Eron falou à loba: 'primeiro vai comer depois vai deixar eu dar um olhada nessa pata', ofereceu cerca de 2kg da carne fresca de corço numa pedra perto da entrada da toca. Loba aproximou-se cautelosamente, comeu e repartiu carne com os dois filhotes, mantendo a atitude vigilante/protetora; filhotes beliscavam os últimos pedaços e não houve ataque. Eron comeu o que restava da única ração diária já quase consumida desde Dia1, encerrando esta porção; ficam 4 rações intactas e nenhuma parcial. Carne de corço em inventário reduzida de ~10kg a ~8kg, demais partes do corço inalteradas. Por volta de 09h55 loba deitou à entrada com a pata dianteira machucada estendida, bandagem ainda suja e pele inchada visível, sem exame aprofundado; ao perceber Eron olhar, ergueu cabeça e observa movimentos sem rosnar. A alimentação foi aceita, mas o exame ainda NÃO foi feito nem a aproximação validada. Mestre pediu teste Sabedoria (Lidar com Animais) +3, AGUARDANDO d20 físico do jogador OU autorização de rolagem; NENHUM teste novo rolado ainda. Kit de curandeiro10 usos, unguento e ataduras ainda intactos. 12/12PV, 50/300XP, 31PO1PP, Inspiração Heroica disponível, 18flechas, chave de quarto3 com Eron; recompensa Mara12PO pendente."
+  immediate_visible_situation: "Jogador informou rolagens físicas naturais: Lidar com Animais d20=19+3=22, Medicina d20=20+3=23, e declarou tratar a pata com pomada e o necessário. Ambos testes bem-sucedidos sem novo lançamento do Mestre. Mãe loba, alimentada há pouco com ~2kg carne de corço, permitiu Eron aproximar, sustentar pata e retirar faixa suja do Dia1. Exame mostrou ferida de arame ainda inchada e quente, começando a fechar nas bordas, SEM pus ou odor ruim ou fragmento metálico visível; infecção não excluída, nenhuma infecção avançada evidente. Eron lavou com água do cantil, passou UMA aplicação de unguento suave de Olma (pote parcialmente cheio) e colocou UMA atadura limpa frouxa (conjunto avulso consumido). Loba contraiu pata brevemente mas não mordeu, depois apoiou por instante e repousou, mantendo-se selvagem e protetora de dois filhotes. O kit de curandeiro permanece 10/10 usos, pois não estabilizou criatura 0PV; nenhum efeito de cura mágica, recuperação completa, imunidade a infecção, dano ou experiência extra. ~10h15 Dia2, 50/300XP, 12/12PV, 31PO1PP, inspiração disponível, 18 flechas, 8kg carne corço, quatro rações intactas, chave quarto3. Nenhuma nova ação de Eron após tratamento."
   discovered_traps:
     - location: "Trilha dos Corcos, junto ao riacho"
       state: disarmed_safe_wire_left_at_tree
