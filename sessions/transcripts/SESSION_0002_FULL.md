@@ -4442,3 +4442,63 @@ Mara e Iria continuam conversando, a poucos metros da mesa de Eron.
 - **Condições do Jogador:** 12/12 PV, CA 16, 125/300 XP, 41 PO, 9 PP e 7 PC, 21 flechas, 3 rações. Inspiração Heroica disponível. Descanso longo ainda não iniciado.
 
 **GitHub:** transcrição, rolagem, inventário, cronologia, estado e relógios atualizados; commits confirmados.
+
+## [175] JOGADOR
+
+- por favor se sentem, a loba amanhã já não vai ser problema está quase completamente curada, então já vai pode caçar por conta própria, e os laços eu desarmei 2, amanhã posso tentar achar quem está colocando, mas aí já é outro serviço
+
+## [176] MESTRE
+
+### Estalagem de Alda Tress — Dia 4, 18h40
+
+Mara e Iria aceitam o convite e se acomodam à mesa.
+
+— Então conseguiu recuperar a loba sem precisar matá-la? — pergunta Mara, surpresa. — Se passarmos mais esta noite sem perder nenhuma cabra, amanhã entregarei as doze moedas de ouro que prometi. Você merece pelo trabalho que teve.
+
+Iria apoia os antebraços sobre a mesa.
+
+— Quanto aos laços, concordo. É outro serviço. Não quero acusar ninguém sem provas, mas essas armadilhas estão colocando animais e viajantes em risco.
+
+Ela pensa por alguns instantes.
+
+— Posso oferecer cinco moedas de ouro se identificar o responsável e trouxer evidências suficientes para que possamos confrontá-lo. Não precisa matá-lo nem capturá-lo.
+
+— Temos um acordo, Eron?
+
+<card gap={2}>
+  **Contratos**
+  <row>
+    <box flex={1}>
+      **Proteção dos rebanhos**
+      <caption>Aguardando confirmação amanhã</caption>
+    </box>
+    **12 PO**
+  </row>
+  <divider/>
+  <row>
+    <box flex={1}>
+      **Investigação dos laços**
+      <caption>Nova proposta de Iria</caption>
+    </box>
+    **5 PO**
+  </row>
+  <divider/>
+  <row>
+    Recompensa potencial total
+    <spacer/>
+    **17 PO**
+  </row>
+</card>
+
+---
+
+**Nota de auditoria:** a execução Python da Percepção anterior não está comprovada no histórico de ferramentas. O resultado narrativo foi preservado e a ressalva registrada. Nenhum teste foi necessário nesta conversa.
+
+**[LOG DE MEMÓRIA DA CAMPANHA]**
+- **Localização Atual:** Estalagem de Alda, Dia 4, 18h40.
+- **NPCs Presentes e Relação:** Mara e Iria à mesa; Alda no salão.
+- **Linha de Missão Ativa:** Proteção dos rebanhos; nova investigação proposta.
+- **Eventos Cruciais Ocorridos:** Mara condiciona o pagamento à próxima noite sem perdas; Iria oferece 5 PO por evidências.
+- **Condições do Jogador:** 12/12 PV, CA 16, 125/300 XP, 41 PO, 9 PP e 7 PC, 21 flechas. Inspiração Heroica disponível.
+
+**GitHub:** transcrição, cronologia, estado, contratos e ressalva de rolagem registrados; commits confirmados.
