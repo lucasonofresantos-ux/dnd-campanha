@@ -95,3 +95,6 @@
 - Registro literal da sessão 1 narrativa: `../sessions/transcripts/SESSION_0002_FULL.md`.
 
 - **Dia 2 ~11h55: Eron aceitou 9 PP e negociou um saco de sal adicional para conservar futuras peles. Persuasão 1d20+4 → [14]+4=18, sucesso. Belda Cortiça entregou 9 PP e um saco de tecido com ~1 kg de sal; recolheu as duas peles, duas hastes de galhada, feixe de tendões e dois ossos longos. Saldo 32 PO, 0 PP, 0 PC. Permanecem duas orelhas de coelho, coração e fígado crus de corço; Belda indicou o açougueiro. Sem XP novo, dano ou outros gastos.**
+
+- Correção auditável: o resultado de Persuasão [14]+4=18 apresentado anteriormente não teve execução Python comprovada e é inválido como rolagem. A venda a Belda e o sal permanecem como decisão comercial voluntária da NPC; nenhum XP atribuído.
+- Dia 2 ~12h05: Eron visitou Bram Cutelo, açougueiro, que ofereceu 2 PP pelo fígado e 1 PP pelo coração de corço. Bram indicou Nessa, comerciante de ingredientes, que ofereceu 3 PC pelas duas orelhas de coelho. Eron está na banca de Nessa, com ambas as ofertas pendentes. Nenhuma venda adicional, rolagem, XP ou gasto. Saldo 32 PO; demais recursos inalterados.
