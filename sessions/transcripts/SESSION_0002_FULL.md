@@ -6941,3 +6941,94 @@ Nenhuma criatura é avistada.
 - **Inventário:** Marca da Bigorna Velada na bolsa. Lanterna com aproximadamente 5h05 de autonomia; 6 frascos de óleo em reserva.
 
 **GitHub:** transcrição, rolagens, cronologia e estado atualizados; commits confirmados.
+
+## [261] JOGADOR
+
+Pode rolar investigação para esse lugar e essa porta 
+
+## [262] MESTRE
+
+### Monte Veyra — Dia 6, 15h25
+
+<card gap={3}>
+  {#each [["Investigação do patamar",15,21],["Investigação da porta",13,19]] as r}
+    <row align="center">
+      <svg viewBox="0 0 100 100" size="70px">
+        <polygon points="50,4 94,29 94,73 50,97 6,73 6,29" fill="#214b86" stroke="#78a7e1" strokeWidth="2"/>
+        <path d="M50 4L23 65L94 73L50 4L77 65L6 73L50 4M6 29L77 65L50 97L23 65L77 65" fill="none" stroke="#93b5dd"/>
+        <text x="50" y="54" fontSize="27" fontWeight="bold" fill="white" textAnchor="middle">{r[1]}</text>
+      </svg>
+      <box flex={1} gap={1}>
+        **{r[0]}**
+        <caption>{`1d20+6 → [${r[1]}] + 6`}</caption>
+      </box>
+      <title size="2xl">{r[2]}</title>
+    </row>
+  {/each}
+  <divider/>
+  <caption>Ambas as rolagens executadas em Python com o hash do script verificado.</caption>
+</card>
+
+#### Investigação do patamar — 21
+
+Você examina cuidadosamente o ambiente durante aproximadamente vinte minutos, incluindo a porta lateral.
+
+- **Piso:** os fragmentos de pedra parecem ter se desprendido do teto. Não há indícios evidentes de desabamento recente.
+- **Suportes metálicos:** provavelmente sustentavam dispositivos de iluminação.
+- **Paredes:** apresentam as mesmas canaletas encontradas no vestíbulo, seguindo pelo corredor principal.
+- **Armadilhas:** nenhum mecanismo de disparo identificado.
+- **Ocupação:** não encontra pegadas recentes nem sinais de acampamento.
+
+#### Investigação da porta — 19
+
+Você remove a poeira da inscrição e consegue traduzi-la do anão arcaico:
+
+*“Manutenção — Equipamentos e componentes de serviço.”*
+
+A porta tem aproximadamente dois metros de altura e um metro de largura. Possui dobradiças reforçadas, uma maçaneta metálica e uma fechadura convencional, embora de fabricação incomum.
+
+Não identifica sinais de armadilhas ou danos estruturais. A fechadura aparenta estar conservada, mas você ainda não testou a maçaneta.
+
+<svg viewBox="0 0 340 290" width="100%">
+  <defs>
+    <pattern id="floorStone" width="38" height="27" patternUnits="userSpaceOnUse"><rect width="38" height="27" fill="#777872"/><path d="M0 0H38V27" fill="none" stroke="#565953" strokeWidth="1"/></pattern>
+  </defs>
+  <rect x="132" y="5" width="76" height="82" fill="url(#floorStone)" stroke="#353a36" strokeWidth="4"/>
+  <rect x="66" y="85" width="208" height="139" fill="url(#floorStone)" stroke="#353a36" strokeWidth="6"/>
+  <rect x="132" y="224" width="104" height="60" fill="#777872" stroke="#353a36" strokeWidth="4"/>
+  {#each [0,1,2,3,4,5,6] as i}
+    <path d={`M134 ${230+8*i}H234`} stroke="#3d413e" strokeWidth="2"/>
+  {/each}
+  <rect x="267" y="134" width="10" height="42" fill="#b29a68" stroke="#e4cf96" strokeWidth="1.5"/>
+  <rect x="76" y="113" width="6" height="16" fill="#454d48"/>
+  <rect x="256" y="102" width="6" height="16" fill="#454d48"/>
+  <g fill="#4e514c"><path d="M89 187l8 -7l8 11Z"/><path d="M237 199l8 -10l7 12Z"/><path d="M99 198l5 -4l4 6Z"/></g>
+  <circle cx="228" cy="154" r="30" fill="#edcf7e" opacity=".18"/>
+  <circle cx="228" cy="154" r="8" fill="#4c91db" stroke="#e3edff" strokeWidth="2"/>
+  <path d="M228 154H254" stroke="#e3edff" strokeDasharray="3 3"/>
+  <text x="170" y="34" fontSize="10" fill="white" textAnchor="middle">Corredor</text>
+  <text x="170" y="48" fontSize="10" fill="white" textAnchor="middle">não explorado</text>
+  <text x="152" y="119" fontSize="12" fontWeight="bold" fill="white" textAnchor="middle">Patamar</text>
+  <text x="152" y="133" fontSize="11" fill="white" textAnchor="middle">6 × 4 m</text>
+  <text x="228" y="175" fontSize="11" fill="white" textAnchor="middle">Eron</text>
+  <path d="M277 155H310" stroke="currentColor" strokeWidth="1"/>
+  <text x="284" y="125" fontSize="10" fill="currentColor">Porta</text>
+  <text x="284" y="137" fontSize="10" fill="currentColor">lateral</text>
+  <text x="120" y="254" fontSize="10" fill="currentColor" textAnchor="end">Escadaria</text>
+  <text x="120" y="267" fontSize="10" fill="currentColor" textAnchor="end">24 degraus</text>
+</svg>
+<caption>Planta esquemática da área conhecida por Eron.</caption>
+
+Você está diante da porta de manutenção, com a lanterna acesa. O corredor principal permanece inexplorado.
+
+---
+
+**[LOG DE MEMÓRIA DA CAMPANHA]**
+- **Localização atual:** Patamar inferior, diante da porta de manutenção, Dia 6, 15h25.
+- **NPCs presentes:** Nenhum detectado.
+- **Missão ativa:** Exploração do Monte Veyra.
+- **Eventos cruciais:** Identificada a finalidade do recinto lateral. Porta ainda fechada.
+- **Condições:** 12/12 PV | CA 16 | 275/300 XP | Inspiração Heroica disponível.
+- **Inventário:** Marca da Bigorna Velada na bolsa; lanterna com 4h45 de autonomia restante e 6 frascos de óleo em reserva.
+
+**GitHub:** transcrição, rolagens, cronologia e estado atualizados; commits confirmados.
