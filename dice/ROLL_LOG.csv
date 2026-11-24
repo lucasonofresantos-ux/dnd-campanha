@@ -184,3 +184,14 @@ date,campaign_id,stage,attempt,expression,six_rolls_faces_in_order,six_attribute
 2026-11-24,ERON-RIVER-ASTERION-001,ranged_attack_shortbow_advantage,8,2d20kh1+7,"14,16","16+7",23,true
 2026-11-24,ERON-RIVER-ASTERION-001,shortbow_damage_with_sneak_attack,6,2d6+5,"6,1","6+1+5",12,true
 2026-11-24,ERON-RIVER-ASTERION-001,skill_check_survival_leatherworker_tools_advantage,5,2d20kh1+5,"11,17","17+5",22,true
+2026-11-24,ERON-RIVER-ASTERION-001,correction_unverified_execution_skill_check_perception,18,1d20+7,"16","16+7",23,false
+2026-11-24,ERON-RIVER-ASTERION-001,correction_unverified_execution_skill_check_survival,11,1d20+5,"19","19+5",24,false
+2026-11-24,ERON-RIVER-ASTERION-001,correction_unverified_execution_skill_check_perception,19,1d20+7,"3","3+7",10,false
+2026-11-24,ERON-RIVER-ASTERION-001,correction_unverified_execution_skill_check_survival,12,1d20+5,"8","8+5",13,false
+2026-11-24,ERON-RIVER-ASTERION-001,correction_unverified_execution_skill_check_perception,20,1d20+7,"7","7+7",14,false
+2026-11-24,ERON-RIVER-ASTERION-001,correction_unverified_execution_skill_check_stealth,15,1d20+9,"4","4+9",13,false
+2026-11-24,ERON-RIVER-ASTERION-001,correction_unverified_execution_ranged_attack_shortbow_advantage,8,2d20kh1+7,"14,16","16+7",23,false
+2026-11-24,ERON-RIVER-ASTERION-001,correction_unverified_execution_shortbow_damage_with_sneak_attack,6,2d6+5,"6,1","6+1+5",12,false
+2026-11-24,ERON-RIVER-ASTERION-001,correction_unverified_execution_skill_check_survival_leatherworker_tools_advantage,5,2d20kh1+5,"11,17","17+5",22,false
+2026-11-24,ERON-RIVER-ASTERION-001,skill_check_animal_handling_physical,12,1d20+3,14,"14+3",17,true
+2026-11-24,ERON-RIVER-ASTERION-001,skill_check_medicine_physical,5,1d20+3,17,"17+3",20,true
