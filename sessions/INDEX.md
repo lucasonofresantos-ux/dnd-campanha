@@ -18,5 +18,5 @@
 - XP: [XP_LOG.csv](../campaign/XP_LOG.csv), regras em [PROGRESSION_XP.md](../campaign/PROGRESSION_XP.md).
 - Sessão narrativa 1: [SESSION_0002.md](SESSION_0002.md), transcrição [SESSION_0002_FULL.md](transcripts/SESSION_0002_FULL.md).
 - Isolamento: não misturar com `PRE-CHAR-HUMAN-001` (que é histórico da criação), nem com campanhas de outros personagens.
-- Transcrição [SESSION_0002_FULL.md](transcripts/SESSION_0002_FULL.md), mensagens [001]–[060]: Alda cotou quarto individual 1PO e jantar3PP, total 1PO3PP; indicou boticária Olma Ramo na Casa das Ervas para unguento, ataduras, kit de curandeiro. Kit padrão 5PO (4PO com talento Artesão), outros preços estimados com desconto, estoque a confirmar. Eron ainda não pagou, não jantou e não dormiu; ~17h55 Dia1; recompensa12PO pendente, XP25/300, PV12/12, 36PO8PP, 19 flechas.
+- Transcrição [SESSION_0002_FULL.md](transcripts/SESSION_0002_FULL.md), mensagens [001]–[062]: Eron pagou 1PO3PP pelo quarto individual nº3 e jantar, comeu e subiu; Percepção real [17]+7=24, viu Iria seguir aos currais e ouviu homens não identificados conversarem sobre laços perto do riacho. ~18h25 Dia1, Eron no quarto com chave temporária, não começou descanso longo; saldo35PO5PP, XP25/300, PV12/12, 19 flechas, prêmio12PO pendente.
 - Planejamento secreto em `dm/` (jamais incluir em logs públicos).
