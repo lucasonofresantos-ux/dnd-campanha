@@ -1,6 +1,6 @@
 # Eron River — ficha consolidada de personagem (D&D 5E 2024)
 
-**Status:** FICHA MECÂNICA DEFINITIVA APROVADA PELO JOGADOR em 2026-11-23. **Campanha NÃO iniciada.**
+**Status:** FICHA MECÂNICA DEFINITIVA APROVADA PELO JOGADOR em 2026-11-23. **Campanha ativa: ERON-RIVER-ASTERION-001, sessão 0002.**
 **Data de consolidação:** 2026-11-23.
 **Fonte auditável das escolhas e rolagens:** `character/PRE_CHAR_HUMAN_001.md`, `sessions/transcripts/SESSION_0001_FULL.md`, `dice/ROLL_LOG.csv`.
 **Hierarquia de regras:** `rules/SYSTEM.md`, `rules/SOURCES.md`, `rules/HOUSE_RULES.md`.
@@ -38,7 +38,7 @@ Os dados originais do método 4d6 descartando o menor são 12, 18, 15, 15, 16, 1
 - **Percepção passiva: 17** = 10 + Percepção +7, com Especialização.
 - **Capacidade de carga: 180 lb** = FOR 12 ×15 lb (aprox. 81,65 kg).
 - **Peso de inventário contabilizado: 103,88 lb** (aprox. 47,12 kg). Margem 76,12 lb; não inclui eventuais pequenos objetos pessoais sem peso determinado.
-- **Dinheiro disponível: 36 PO e 8 PP**. Não confundir PP (peças de prata, neste registro) com platina; cada 10 PP = 1 PO.
+- **Dinheiro disponível: 35 PO e 5 PP**. Não confundir PP (peças de prata, neste registro) com platina; cada 10 PP = 1 PO.
 - **Condições / danos:** nenhum registrado até o fim da criação; não inventar efeitos ou ferimentos.
 
 ## Testes de resistência
@@ -218,3 +218,8 @@ Especializações do Ladino de nível 1: **Furtividade e Percepção**, dobram p
 - Recebeu **chave temporária de ferro do quarto 3** (não propriedade permanente); quarto pago, jantar consumido, Eron subiu e está no quarto ~18h25, mas **descanso longo NÃO começou**.
 - **Percepção em jantar**, executada em Python `1d20+7` → d20 [17] +7 = **24**: Eron viu Iria ir com arco/lanterna em direção aos currais; ouviu dois trabalhadores sem identificação comentarem que há laços perto do riacho há algum tempo, sem prova de participação deles.
 - PV 12/12, CA16, XP25/300, flechas 19 utilizáveis e bens saqueados do coelho inalterados.
+
+### Dia 2, ~07h — banho, descanso longo e chegada a Olma
+- Eron trancou o quarto 3 e se lavou usando a bacia; dormiu de aproximadamente 19h15 do Dia 1 até 06h30 do Dia 2, concluindo descanso longo. PV12/12, dado de vida 1d8 não utilizado, ganhou **Inspiração Heroica disponível** por Engenhoso (Humano 2024).
+- Percepção 1d20+7 → face [11] +7 = **18**, rolada efetivamente em Python secrets.randbelow. No caminho para Olma, viu Iria conversando com Mara próximo aos currais; não ouviu o conteúdo nem confirmou o resultado da vigília.
+- Por volta de 07h do Dia 2 chegou à Casa das Ervas de Olma Ramo na segunda fonte; nenhuma compra ainda. A chave temporária do quarto 3 continua em posse de Eron, a devolver ao posto. Sem gasto de ração, dinheiro ou outros materiais; saldo35PO5PP, XP25/300, 19 flechas.
