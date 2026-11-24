@@ -194,3 +194,6 @@
 
 ## Dia 4 ~13h10 — trabalho na ferraria
 - Dois aros ajustados e aprovados com dado do jogador 18+3=21. Durnak forneceu almoço conforme acordo; seis cravos pendentes e remuneração ainda não paga. Trabalho rotineiro, sem XP novo.
+
+## Dia 4 ~14h20 — trabalho concluído
+- Durnak aprovou os aros e seis cravos, pagou 1PO5PP conforme acordo, almoço já fornecido. Sem nova encomenda ou XP de trabalho rotineiro. Eron permanece na ferraria; demais relógios não interrompidos.
