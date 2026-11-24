@@ -132,9 +132,9 @@ character:
 campaign_time:
   calendar_system: "Asterion, dias relativos; nenhuma era/ano formal estabelecido"
   day: 4
-  time_of_day: "aproximadamente 09h00 do Dia 4"
+  time_of_day: "aproximadamente 09h05 do Dia 4"
   season: "final do outono"
-  elapsed_game_time: "Dia4 ~08h00–09h00 retorno à toca, alimentação e exame da pata."
+  elapsed_game_time: "Dia4 ~09h00–09h05 interação com loba e filhotes."
 location:
   continent: Asterion
   polity: "Terras Livres de Avenhar (homebrew), fora de Valdren"
@@ -146,7 +146,7 @@ scene:
   id: OPENING-001
   status: "awaiting_player_action_at_wolf_den_day4_after_treatment"
   current_npcs_present: ["Loba em recuperação final", "Dois filhotes"]
-  immediate_visible_situation: "Dia4 ~08h00–09h00: Eron retornou à toca, chegou ~08h40, ofereceu toda a carne de corço (~6 kg) à loba e crias, que começaram a comer; restante ficou junto à entrada, quantidade ingerida não aferida. Dados naturais do jogador: Lidar com Animais 1d20+3 [15]+3=18, Medicina 1d20+3 [19]+3=22, sucessos. Retirou atadura e examinou pata; ferida fechada, sem inchaço significativo, secreção ou sinais aparentes de infecção; inflamação resolvida clinicamente, mobilidade quase normal, força ainda em recuperação. Limpou região, sem necessidade de nova atadura ou unguento, kit permanece 9/10. Loba aceitou carinho, encostou focinho na mão e lambeu dedos; crias próximas e brincando. Confiança muito elevada, ainda selvagem, sem domesticação. Nenhum XP adicional por tratamento repetido; 125/300 XP, 13 flechas, 41PO2PP3PC, PV12/12, CA16, 3 rações, 200g sal, demais materiais de caça mantidos. Nota de auditoria: execução Python alegada em [152] não é comprovada no histórico de ferramentas disponível; preservar acontecimentos e inventário, assinalar resultados como não verificados, sem nova rolagem retroativa."
+  immediate_visible_situation: "Dia4 ~09h05: Eron disse à loba que acha que ela não precisa mais dele e prometeu retornar amanhã com comida. Perguntou se pode acariciar os filhotes. A mãe observou sem agressividade; um filhote aproximou-se espontaneamente, farejou a mão e mordiscou de leve os dedos; outro permaneceu cauteloso junto à mãe. Loba deitou-se atenta. Mestre permitiu carinho se respeitada aproximação espontânea, sem novo teste devido à confiança já estabelecida. Carinho nos filhotes ainda não declarado como executado. Animais selvagens; fala não entendida semanticamente. Nenhum XP, gasto, dano ou mudança de recursos."
   discovered_traps:
     - location: "Trilha dos Corcos, junto ao riacho"
       state: disarmed_safe_wire_left_at_tree
@@ -174,8 +174,8 @@ world:
 transcription:
   character_creation_history: sessions/transcripts/SESSION_0001_FULL.md
   narrative_session: sessions/transcripts/SESSION_0002_FULL.md
-  last_saved_player_turn: "Volto para a loba para dar a carne para ela e também para tratar a pata\nLidar com animais 15\nMedicina 19\nTermino e faço um carinho nela"
-  last_saved_dm_turn: "[154] MESTRE — alimentação, exame bem-sucedido, ferida fechada e curativo retirado."
+  last_saved_player_turn: "- acho que não precisa mais de mim, mas amanhã ainda venho te ver e trazer algo para você comer, posso fazer carinho nos filhotes?"
+  last_saved_dm_turn: "[156] MESTRE — filhote aproxima-se espontaneamente; carinho permitido sem teste."
 notes:
   - "Primeira resposta de cena será salva literalmente e sem revelar preparativos de dm."
   - "Nunca tratar a aprovação da ficha como XP, nem mudar recursos automaticamente."
