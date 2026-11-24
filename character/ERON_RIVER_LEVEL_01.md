@@ -179,3 +179,8 @@ Especializações do Ladino de nível 1: **Furtividade e Percepção**, dobram p
 - Das **rações originalmente suficientes para 5 dias** no Pacote de Assaltante, **4 porções diárias permanecem intactas e 1 porção diária está parcialmente utilizada**. O alimento oferecido foi apenas uma fração dessa porção; não contabilizar um dia inteiro consumido.
 - A **carga de abertura era 103,88 lb**. A redução decorrente dessa pequena porção de alimento não foi pesada; manter o valor como referência histórica até que seja possível quantificar com precisão, sem inventar massa.
 - Não houve gasto de moedas, dano, cura, perda de ferramentas ou outros consumíveis.
+
+### Consumo adicional — sessão 0002, Dia 1
+- Eron retirou outro pedaço de carne seca da **mesma porção diária já parcialmente usada**; comeu uma parte e ofereceu o restante à loba, que o consumiu.
+- **Balanço atualizado:** quatro porções diárias permanecem intactas; a quinta continua parcialmente consumida, agora mais reduzida do que antes. Não declarar porção inteira consumida nem inventar o peso do alimento.
+- Sem gasto de moedas, dano, cura, descarte de outros bens ou concessão de XP.
