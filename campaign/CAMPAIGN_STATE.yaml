@@ -46,8 +46,8 @@ character:
     starting_full_days: 5
     intact_full_days: 4
     partly_used_days: 1
-    food_offered: "primeiro pedaço à loba; segundo dividido entre Eron e loba; no almoço Eron comeu pão de viagem e carne seca e compartilhou parte da ração aberta com a loba. Quatro porções intactas, uma aberta bastante consumida; quantidade restante não medida."
-  animal_handling_last: "1d20+3 → [12] +3=15; terceiro teste, leitura atual da tolerância da loba após horas junto à toca; não houve toque ou tratamento"
+    food_offered: "primeiro pedaço à loba; segundo dividido entre Eron e loba; almoço sem fogo dividido; às ~15h terceiro pedaço adicional dado à loba durante exame visual. Todos retirados da mesma porção diária aberta, agora quase consumida; quatro porções diárias permanecem intactas, quantidade restante não medida."
+  animal_handling_last: "1d20+3 → [18] +3=21; quarto teste, d20 físico informado pelo jogador; permitiu carinho no pescoço e olhar próximo, mas pata permaneceu sem toque ou tratamento"
 campaign_time:
   calendar_system: "Asterion, dias relativos; nenhuma era/ano formal estabelecido"
   day: 1
@@ -63,9 +63,9 @@ location:
   travel_status: "Eron permaneceu no local até aproximadamente 15h, descansando, almoçando e dividindo ração sem acender fogo; não entrou na toca nem tocou loba/filhotes"
 scene:
   id: OPENING-001
-  status: awaiting_player_action_after_wolf_voluntarily_approaches
+  status: awaiting_player_action_after_close_visual_wound_inspection
   current_npcs_present: []
-  immediate_visible_situation: "Eron, sentado junto à entrada a ~15h e sem se aproximar dos filhotes, convidou verbalmente a loba a vir perto para olhar a pata. Loba ergueu as orelhas, observou filhotes e Eron, levantou sobre três patas e deu dois passos cautelosos para a boca da toca; parou a pouco mais de 1m de Eron, ainda fora de alcance confortável da mão. Ferimento mostra marca funda de constrição, pele irritada e pequena ferida aberta. Não se sabe se existe arame residual. Loba não rosnou, mas voltou a olhar filhote quando se mexeu. Sem contato físico, exame direto, cura, rolagem ou combate; tempo praticamente inalterado."
+  immediate_visible_situation: "Eron informou rolagem física de Lidar com Animais d20 natural18 + SAB3 =21, sucesso para contato cuidadoso. Deu mais um pequeno pedaço de carne seca à loba da ração diária já aberta, agora quase esgotada. A loba aceitou, enrijeceu ao primeiro toque mas tolerou carinho apenas na lateral do pescoço, sem agressão. Eron se inclinou e inspecionou a ferida visualmente SEM tocar a pata nem se aproximar dos filhotes: marca de constrição profunda, inchaço, pele irritada, pequena ferida com sujeira e sangue seco, pequeno brilho cinzento semelhante a ponta de fio metálico na borda da crosta. Eron ainda não sabe se fragmento está preso à pele ou só enroscado no pelo. Ao aproximar mão do ferimento, loba retraiu levemente a pata, sem ameaçar. Não houve exame por manipulação, tratamento, cura, combate ou XP, ~15h."
   combat: false
   initiative: []
   rounds: 0
@@ -84,8 +84,8 @@ world:
 transcription:
   character_creation_history: sessions/transcripts/SESSION_0001_FULL.md
   narrative_session: sessions/transcripts/SESSION_0002_FULL.md
-  last_saved_player_turn: "- vem aqui perto que eu olho não quero me aproximar dos filhotes"
-  last_saved_dm_turn: "[036] MESTRE — 2026-11-23; loba aproxima-se voluntariamente a pouco mais de 1m de Eron, sem toque, transcrição salva"
+  last_saved_player_turn: "Lidar com animais 18 natural \n- eu vou examinar isso melhor tá bom\nDou mais um pedaço de carne seca para ela faço um carinho e sem tocar na pata vejo mais de perto se tem algo ali ou oque eu consigo fazer"
+  last_saved_dm_turn: "[038] MESTRE — 2026-11-23; rolagem física Lidar com Animais 21, loba aceita carinho e revela brilho metálico próximo à ferida, transcrição salva"
 notes:
   - "Primeira resposta de cena será salva literalmente e sem revelar preparativos de dm."
   - "Nunca tratar a aprovação da ficha como XP, nem mudar recursos automaticamente."
