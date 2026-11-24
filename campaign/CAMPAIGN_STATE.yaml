@@ -180,21 +180,21 @@ character:
 campaign_time:
   calendar_system: "Asterion, dias relativos; nenhuma era/ano formal estabelecido"
   day: 6
-  time_of_day: "aproximadamente 15h05 do Dia 6"
+  time_of_day: "aproximadamente 15h25 do Dia 6"
   season: "final do outono"
-  elapsed_game_time: "Dia6 ~14h55–15h05, descida da escadaria."
+  elapsed_game_time: "Dia6 ~15h05–15h25, exame do patamar e porta de manutenção."
 location:
   continent: Asterion
   polity: "Terras Livres de Avenhar (homebrew), fora de Valdren"
   area: "entroncamento da Estrada do Cascalho, próximo ao Pouso das Três Fontes"
   nearby: "encostas arborizadas da serra cujo monte mais alto é chamado Veyra"
-  exact_position: "Patamar inferior da escadaria do Monte Veyra, após 24 degraus."
-  travel_status: "Patamar inferior alcançado; corredor à frente e porta lateral direita ainda não explorados."
+  exact_position: "Patamar inferior do Monte Veyra, diante da porta de manutenção à direita."
+  travel_status: "Patamar examinado; porta de manutenção fechada, maçaneta não testada; corredor principal inexplorado."
 scene:
   id: OPENING-001
-  status: "awaiting_player_action_at_lower_landing_day6"
+  status: "awaiting_player_action_at_maintenance_door_day6"
   current_npcs_present: []
-  immediate_visible_situation: "Dia6 ~14h55–15h05: Eron autorizou Furtividade, Percepção e Investigação e desceu a escadaria. Execução efetiva via container.exec do script Python /tmp/eron_dice_roller.py reconstruído do GitHub; git hash-object d35af70119bf684ea055619bb10678a1c4b03bbb conferido com test antes da execução, SHA também confirmado na consulta GitHub do turno. JSON Furtividade 1d20+9 rolls [8], kept_indices [0], modifier 9, total 17; Percepção 1d20+7 rolls [3], kept_indices [0], modifier 7, total 10; Investigação 1d20+6 rolls [1], kept_indices [0], modifier 6, total 7. Passos discretos sem garantir ocultação devido à lanterna; exame de relevos e inscrições desgastadas não produz informação adicional. Desceu 24 degraus e chegou a patamar retangular ~6x4m com fragmentos de pedra no piso e dois suportes metálicos vazios nas paredes. Corredor largo horizontal à frente, porta metálica menor fechada à direita com inscrição parcialmente coberta por poeira; ar mais frio; nenhum ser avistado, sem certeza de ausência. Não examinou porta lateral nem entrou no corredor. Porta interna acima permanece aberta, externa fechada. Sem XP novo, dano, combate ou gasto além da queima de óleo. PV12/12 CA16 XP275/300, inspiração disponível; disco na bolsa, lanterna ~5h05 restantes até ~20h10, 6 óleos reserva, 10 velas. Demais recursos intactos."
+  immediate_visible_situation: "Dia6 ~15h05–15h25: Eron autorizou dois testes de Investigação, do patamar e porta. Executor container.exec executou script /tmp/eron_dice_roller.py, hash git d35af70119bf684ea055619bb10678a1c4b03bbb conferido contra GitHub; JSON 1d20+6 rolls [15], kept_indices [0], modifier 6, total 21; segundo 1d20+6 rolls [13], kept_indices [0], modifier 6, total 19. Examinou patamar ~20min: fragmentos aparentemente do teto sem indícios de desabamento recente, suportes provavelmente de iluminação, canaletas continuam corredor, nenhum disparador detectado, nenhuma pegada recente ou sinal de acampamento. Limpou inscrição lateral e traduziu Anão arcaico: Manutenção — Equipamentos e componentes de serviço. Porta fechada ~2m altura por 1m largura, dobradiças reforçadas, maçaneta, fechadura convencional de fabricação incomum aparentemente conservada. Nenhum sinal de armadilha ou dano estrutural identificado, sem garantia absoluta. Maçaneta ainda não testada, não abriu, não entrou; corredor principal inexplorado. Eron diante da porta. Sem novo XP, gasto adicional, dano ou combate; PV12/12 CA16 XP275/300, inspiração disponível, disco na bolsa, lanterna com 4h45 restantes até ~20h10 e 6 óleos reserva, 10 velas."
   discovered_traps:
     - location: "Trilha dos Corcos, junto ao riacho"
       state: disarmed_safe_wire_left_at_tree
@@ -239,8 +239,8 @@ world:
 transcription:
   character_creation_history: sessions/transcripts/SESSION_0001_FULL.md
   narrative_session: sessions/transcripts/SESSION_0002_FULL.md
-  last_saved_player_turn: "[259] JOGADOR — autoriza três testes e desce a escadaria."
-  last_saved_dm_turn: "[260] MESTRE — Furtividade 17, Percepção 10, Investigação 7; patamar alcançado."
+  last_saved_player_turn: "[261] JOGADOR — autoriza Investigação do patamar e porta."
+  last_saved_dm_turn: "[262] MESTRE — Investigação 21 e 19, porta de manutenção identificada."
 notes:
   - "Primeira resposta de cena será salva literalmente e sem revelar preparativos de dm."
   - "Nunca tratar a aprovação da ficha como XP, nem mudar recursos automaticamente."
