@@ -58,3 +58,5 @@
 - Atualização: sessão 0002 até [238], Dia6 ~13h15; reencontro, carne oferecida ainda não consumida, Investigação +6 pendente; auditoria [236].
 
 - Atualização: sessão 0002 até [240], Dia6 ~13h25; Investigação 19 executada e verificada; saliência natural, passagem para parede rochosa avistada.
+
+- Atualização: sessão 0002 até [242], Dia6 ~13h50; passagem explorada, orifício geométrico encontrado, quatro dados efetivamente executados.
