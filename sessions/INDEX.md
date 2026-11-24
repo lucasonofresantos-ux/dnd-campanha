@@ -54,3 +54,5 @@
 - Atualização: sessão 0002 até [234], Dia6 11h35; Investigação 26 efetivamente executada, indícios de partida voluntária e rastros encosta acima.
 
 - Atualização: sessão 0002 até [236], Dia6 ~13h10, família localizada, sal restante 2,2kg, rolagens 23 e 16 efetivamente executadas; auditoria [234] corrigida.
+
+- Atualização: sessão 0002 até [238], Dia6 ~13h15; reencontro, carne oferecida ainda não consumida, Investigação +6 pendente; auditoria [236].
