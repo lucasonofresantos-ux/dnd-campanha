@@ -277,3 +277,6 @@ Especializações do Ladino de nível 1: **Furtividade e Percepção**, dobram p
 Correção auditável: o resultado de Persuasão [14]+4=18 apresentado anteriormente não teve execução Python comprovada e é inválido como rolagem. A venda a Belda e o sal permanecem como decisão comercial voluntária da NPC; nenhum XP atribuído.
 
 Dia 2 ~12h05: Eron visitou Bram Cutelo, açougueiro, que ofereceu 2 PP pelo fígado e 1 PP pelo coração de corço. Bram indicou Nessa, comerciante de ingredientes, que ofereceu 3 PC pelas duas orelhas de coelho. Eron está na banca de Nessa, com ambas as ofertas pendentes. Nenhuma venda adicional, rolagem, XP ou gasto. Saldo 32 PO; demais recursos inalterados.
+
+
+Dia 2 ~12h10: Eron aceitou as duas ofertas; Nessa recebeu duas orelhas de coelho e pagou 3 PC; Bram recebeu coração e fígado de corço e pagou 3 PP. Saldo 32 PO, 3 PP, 3 PC. Materiais de caça esgotados; saco de sal ~1 kg mantido. Eron no açougue de Bram. Nenhum XP, dano, gasto ou teste novo.
