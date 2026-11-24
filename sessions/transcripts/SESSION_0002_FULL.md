@@ -2748,3 +2748,76 @@ Você pode gastar a **Inspiração Heroica** para rerrolar o dado de valor 6, ma
 - **Condições do Jogador:** 12/12 PV, CA 16, 50/300 XP, 17 flechas, 33 PO, 3 PP e 3 PC. Inspiração Heroica disponível.
 
 **GitHub:** transcrição, rolagem, cronologia e estado atualizados; commits confirmados.
+
+## [115] JOGADOR
+
+Não vou para a loba divido a janta com ela e durmo lá
+
+## [116] MESTRE
+
+### Ravina da loba — Dia 2, 21h00
+
+Sem gastar a Inspiração Heroica, Eron abandona a caçada e retorna pela trilha conhecida até a ravina.
+
+Ao reconhecer sua presença, a loba ergue a cabeça e fareja o ar. Parte da carne deixada pela manhã ainda está junto à entrada da toca. Os dois filhotes permanecem próximos da mãe, e a atadura continua envolvendo sua pata ferida.
+
+Eron abre uma de suas rações de viagem, janta e compartilha parte da carne seca com a loba. Ela aceita o alimento sem rosnar.
+
+Acomodando-se sob uma saliência rochosa próxima à toca, sem bloquear sua entrada, Eron passa a noite ali. O vento frio percorre a ravina, mas nenhum incidente interrompe seu descanso.
+
+---
+
+### Dia 3 — 06h00 da manhã
+
+Os primeiros raios de sol atravessam as árvores. O orvalho cobre a vegetação e o canto dos pássaros anuncia o amanhecer.
+
+A loba está acordada. Levanta-se lentamente e experimenta apoiar a pata ferida no chão. Ainda manca, mas consegue sustentar parte do próprio peso sobre ela. Os filhotes brincam perto da entrada da toca.
+
+<card gap={2}>
+  <row align="center">
+    <icon name="moon" color="success" size="xl"/>
+    **Descanso longo concluído**
+  </row>
+  <divider/>
+  <grid columns={2}>
+    <grid-item>
+      <caption>Pontos de vida</caption>
+      <title size="xl" color="success">12/12</title>
+    </grid-item>
+    <grid-item>
+      <caption>Experiência</caption>
+      <title size="xl">50/300 XP</title>
+    </grid-item>
+    <grid-item>
+      <caption>Inspiração Heroica</caption>
+      **Disponível**
+    </grid-item>
+    <grid-item>
+      <caption>Flechas</caption>
+      **17**
+    </grid-item>
+    <grid-item>
+      <caption>Patrimônio</caption>
+      **33 PO · 3 PP · 3 PC**
+    </grid-item>
+    <grid-item>
+      <caption>Rações</caption>
+      **3 intactas e 1 parcial**
+    </grid-item>
+  </grid>
+</card>
+
+A loba demonstra sinais de recuperação, mas ainda não está plenamente curada.
+
+**O que Eron faz nesta manhã?**
+
+---
+
+**[LOG DE MEMÓRIA DA CAMPANHA]**
+- **Localização Atual:** Ravina da loba, Dia 3, 06h00.
+- **NPCs Presentes e Relação:** Loba e dois filhotes; presença de Eron tolerada, animais ainda selvagens.
+- **Linha de Missão Ativa:** Recuperação da loba, proteção dos rebanhos de Mara e investigação dos laços.
+- **Eventos Cruciais Ocorridos:** Caçada encerrada sem presa; jantar compartilhado e descanso longo concluído.
+- **Condições do Jogador:** 12/12 PV, CA 16, 50/300 XP, 17 flechas, três rações intactas e uma parcial, 33 PO, 3 PP e 3 PC. Inspiração Heroica disponível.
+
+**GitHub:** transcrição, inventário, cronologia, relógios da campanha e estado atualizados; commits confirmados.
