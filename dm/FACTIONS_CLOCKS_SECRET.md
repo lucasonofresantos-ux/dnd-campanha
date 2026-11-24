@@ -203,3 +203,6 @@
 
 ## Dia 4 ~18h00 — fabricação parcial
 - Eron comprou materiais para vinte flechas por 4PP, fabricou oito utilizáveis e tem doze pendentes (265 min de trabalho). Oficina fecha; Durnak permite retorno amanhã. O dado espontâneo 20 não acelera regra de fabricação. Sem XP. Demais relógios seguem; não presumir encerramento do dia, repouso ou retorno à toca sem ação do jogador.
+
+## Dia 4 ~18h35 — estalagem e situação dos rebanhos
+- Mara confirma verbalmente a Iria duas noites sem perder cabras (noites Dia2–3 e Dia3–4). Continua recolhimento preventivo; não considera ameaça encerrada e recompensa ainda pendente. Iria desconhece autor dos laços. Mercadores do Cascalho partiram após reabertura da ponte no Dia4; carroças ausentes diante da estalagem. Eron ouviu conversa com Percepção 17. Renovou quarto e jantou, ainda não iniciou descanso. Não presumir ações futuras. Nenhum XP novo.
