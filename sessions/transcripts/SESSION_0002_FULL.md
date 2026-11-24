@@ -1463,3 +1463,51 @@ A manhã está apenas começando. Do lado de fora, ouve-se o movimento dos prime
 - **Condições do Jogador:** Ladino 1, **12/12 PV**, **CA 16**, **25/300 XP**, **31 PO e 1 PP**, Inspiração Heroica disponível, **19 flechas utilizáveis**. Quatro rações intactas e uma quase consumida; pele crua parcialmente danificada de coelho e duas orelhas; chave temporária do quarto 3 ainda em posse de Eron. Sem condições ativas.
 
 **GitHub:** transcrição, cronologia, compra e inventário atualizados; commits confirmados.
+
+## [069] JOGADOR — 2026-11-23
+
+- obrigado, mas tenho que ir tentar tratar de uma loba ferida e ainda caçar algo no caminho
+Pode rolar furtividade, percepção e sobrevivência até achar uma caça
+
+## [070] MESTRE — 2026-11-23
+
+Olma recebe o agradecimento de Eron e volta a organizar os frascos. Com os materiais de curativo guardados, ele deixa o Pouso das Três Fontes e segue pela trilha que conduz à encosta do Monte Veyra.
+
+<box border radius="lg" padding={3} gap={3}>
+  <title size="md">Rolagens — Caçada na floresta</title>
+  <grid columns={3} gap={2}>
+    {#each [{name:"Furtividade",bonus:9,die:18,total:27},{name:"Percepção",bonus:7,die:19,total:26},{name:"Sobrevivência",bonus:5,die:16,total:21}] as roll}
+      <grid-item>
+        <box gap={1}>
+          <text color="secondary" size="xs" weight="medium">{roll.name}</text>
+          <title size="xl" color="success" tabularNums>{roll.total}</title>
+          <caption>{`[${roll.die}] +${roll.bonus}`}</caption>
+        </box>
+      </grid-item>
+    {/each}
+  </grid>
+  <text color="success" size="sm" weight="medium">Três sucessos — dados rolados em Python.</text>
+</box>
+
+### Trilha dos Corços — Dia 2, aproximadamente 8h05
+
+A mata ainda está coberta pelo orvalho. Eron avança sem fazer praticamente nenhum ruído, evitando galhos secos e mantendo o vento contra o rosto. Depois de examinar a terra úmida perto de um pequeno curso d'água, identifica **rastros recentes de um corço adulto**. As pegadas seguem por uma passagem estreita entre arbustos de aveleira.
+
+Seguindo as marcas, ele alcança uma pequena abertura na vegetação. A cerca de **20 metros**, um corço de pelagem castanha se alimenta das folhas baixas de uma árvore. O animal está sozinho e não percebeu Eron, que permanece escondido atrás de um tronco coberto de musgo.
+
+Com sua excelente percepção, Eron também distingue, mais perto do riacho, **marcas de botas no barro e um sulco estreito numa árvore jovem**, como se algo tivesse sido apertado ao redor dela. Isso não prova que haja uma armadilha funcionando naquele ponto.
+
+O corço ergue a cabeça por um instante, fareja o ar e volta a se alimentar.
+
+**Eron encontrou uma presa e está oculto, com o arco curto disponível. Nenhuma flecha foi disparada.**
+
+O que Eron faz?
+
+**[LOG DE MEMÓRIA DA CAMPANHA]**
+- **Localização Atual:** Trilha dos Corços, próximo ao riacho na floresta, por volta das **8h05 do Dia 2**. Eron está oculto atrás de um tronco, aproximadamente 20 m de um corço.
+- **NPCs Presentes e Relação:** Nenhum NPC humano; um corço adulto selvagem está na clareira, sem perceber Eron. A loba e os filhotes permanecem fora de vista.
+- **Linha de Missão Ativa:** Caçar alimento e retornar à toca da loba para reavaliar e tratar sua pata; investigar os laços e proteger o rebanho de Mara. Recompensa de **12 PO ainda pendente**.
+- **Eventos Cruciais Ocorridos:** Eron despediu-se de Olma e saiu pela trilha. Rolagens reais **Furtividade [18]+9=27**, **Percepção [19]+7=26** e **Sobrevivência [16]+5=21**, todas bem-sucedidas. Encontrou rastros de corço, uma presa viva e marcas de botas e de aperto numa árvore perto do riacho. **Nenhuma caça abatida, flecha disparada ou material coletado.**
+- **Condições do Jogador:** Ladino 1, **12/12 PV**, **CA 16**, **25/300 XP**, **31 PO e 1 PP**, Inspiração Heroica disponível, **19 flechas utilizáveis**. Kit de curandeiro com **10 usos**, 1 unguento e ataduras intactos. Quatro rações intactas e uma quase consumida; pele crua danificada, duas orelhas de coelho e chave temporária do quarto 3. Sem condições ativas.
+
+**GitHub:** três rolagens, transcrição literal, cronologia e estado confirmados em commits.
