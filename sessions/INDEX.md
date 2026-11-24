@@ -18,5 +18,5 @@
 - XP: [XP_LOG.csv](../campaign/XP_LOG.csv), regras em [PROGRESSION_XP.md](../campaign/PROGRESSION_XP.md).
 - Sessão narrativa 1: [SESSION_0002.md](SESSION_0002.md), transcrição [SESSION_0002_FULL.md](transcripts/SESSION_0002_FULL.md).
 - Isolamento: não misturar com `PRE-CHAR-HUMAN-001` (que é histórico da criação), nem com campanhas de outros personagens.
-- Transcrição [SESSION_0002_FULL.md](transcripts/SESSION_0002_FULL.md), mensagens [001]–[036]: Eron convidou loba a vir mais perto sem se aproximar dos filhotes; ela deu dois passos até pouco mais de 1m dele, exibindo ferida pequena na pata; ainda não permite toque e protege crias. ~15h, nenhum teste ou tratamento, 4 rações intactas e 1 aberta, 0/300 XP, 36 PO 8 PP.
+- Transcrição [SESSION_0002_FULL.md](transcripts/SESSION_0002_FULL.md), mensagens [001]–[038]: jogador informou dado físico natural 18 em Lidar com Animais (+3=21); loba aceitou carne e carinho no pescoço. Eron viu de perto, sem tocar pata, marca de laço, sujeira, ferida e ponta acinzentada semelhante a arame (ainda incerto se preso à pele). ~15h, sem tratamento, 4 rações intactas + 1 aberta quase consumida, 0/300 XP, 36 PO 8 PP.
 - Planejamento secreto em `dm/` (jamais incluir em logs públicos).
