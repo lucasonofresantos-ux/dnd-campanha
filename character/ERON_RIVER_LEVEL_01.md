@@ -173,3 +173,9 @@ Especializações do Ladino de nível 1: **Furtividade e Percepção**, dobram p
 - Na abertura (sessão narrativa 0002), Eron está no entroncamento da Estrada do Cascalho junto ao Pouso das Três Fontes, Avenhar, fora de Valdren; 12/12 PV, CA 16, sem condições, 36 PO e 8 PP, carrega todo inventário. Não recebeu XP ou dano antes da primeira ação.
 - **Pertence pessoal já estabelecido em história fornecida pelo jogador:** `Marca da Bigorna Velada`, pequeno disco de metal familiar com uma bigorna e montanha e seis sulcos, guardado em bolsa de couro sob a roupa, presenteado por Gruner. Eron conhece seu valor afetivo e a origem familiar contada por Gruner, **não conhece qualquer função adicional**. Não atribuir efeito, preço, peso fixo ou relevância mística na ficha pública sem descoberta em jogo. Este pertence integra o patrimônio narrativo prévio, não é compra nova. Peso do pequeno objeto e bolsa particular permanecem não quantificados nos 103,88 lb; pode ser verificado quando necessário.
 - A ficha aprovada NÃO é reescrita: este é um adendo auditável de XP, vínculo e patrimônio narrativo, sem alterar decisões mecânicas.
+
+## Consumo de suprimento durante sessão narrativa 0002 — 2026-11-23
+- No fim da manhã do Dia 1, Eron retirou **um pequeno pedaço de carne seca** de suas rações e ofereceu à loba na entrada da toca; a loba aceitou e consumiu o pedaço.
+- Das **rações originalmente suficientes para 5 dias** no Pacote de Assaltante, **4 porções diárias permanecem intactas e 1 porção diária está parcialmente utilizada**. O alimento oferecido foi apenas uma fração dessa porção; não contabilizar um dia inteiro consumido.
+- A **carga de abertura era 103,88 lb**. A redução decorrente dessa pequena porção de alimento não foi pesada; manter o valor como referência histórica até que seja possível quantificar com precisão, sem inventar massa.
+- Não houve gasto de moedas, dano, cura, perda de ferramentas ou outros consumíveis.
