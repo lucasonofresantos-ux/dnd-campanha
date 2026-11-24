@@ -3913,3 +3913,86 @@ Eron está na floresta, com os materiais da caça e cerca de 200 g de sal restan
 - **Condições do Jogador:** 12/12 PV, CA 16, 125/300 XP, 41 PO, 2 PP e 3 PC, 13 flechas, 6 kg de carne de corço, materiais da caça, 3 rações e 200 g de sal. Inspiração Heroica disponível.
 
 **GitHub:** transcrição, rolagens, experiência, inventário, cronologia, estado e relógios atualizados; commits confirmados.
+
+## [153] JOGADOR
+
+Volto para a loba para dar a carne para ela e também para tratar a pata
+Lidar com animais 15
+Medicina 19
+Termino e faço um carinho nela
+
+## [154] MESTRE
+
+### Toca da loba — Dia 4, 08h40
+
+Ao reconhecer Eron, a loba sai da toca e aproxima-se com a cauda relaxada. Os filhotes vêm logo atrás. Eron deixa os 6 kg de carne do corço junto à entrada, e os três começam a se alimentar.
+
+<card gap={2}>
+  <grid columns={2}>
+    <grid-item>
+      <caption>Lidar com Animais</caption>
+      <title size="2xl" color="success">18</title>
+      15 + 3
+      <text color="success">Sucesso</text>
+    </grid-item>
+    <grid-item>
+      <caption>Medicina</caption>
+      <title size="2xl" color="success">22</title>
+      19 + 3
+      <text color="success">Sucesso</text>
+    </grid-item>
+  </grid>
+  <caption>Dados naturais informados pelo jogador.</caption>
+</card>
+
+Ao retirar o curativo, Eron constata que a ferida está fechada, sem inchaço significativo, secreção ou sinais aparentes de infecção. A loba permite que ele examine e movimente sua pata sem resistência.
+
+Eron limpa a região. Não há mais necessidade de manter a atadura ou aplicar outro unguento.
+
+<card gap={2}>
+  **Recuperação da loba**
+  <row>
+    Ferimento
+    <spacer/>
+    <text color="success">Cicatrizado</text>
+  </row>
+  <row>
+    Inflamação
+    <spacer/>
+    <text color="success">Resolvida</text>
+  </row>
+  <row>
+    Mobilidade
+    <spacer/>
+    Quase normal
+  </row>
+  <row>
+    Confiança em Eron
+    <spacer/>
+    Muito elevada
+  </row>
+  <row>
+    Comportamento
+    <spacer/>
+    Selvagem
+  </row>
+</card>
+
+Quando Eron termina de acariciá-la, a loba encosta o focinho em sua mão e lambe seus dedos. Um dos filhotes deita junto à sua bota, enquanto o outro brinca com um galho.
+
+A loba já apresenta condições de retomar gradualmente suas atividades naturais, embora ainda precise recuperar plenamente a força da pata.
+
+**Nenhum material médico adicional foi consumido.**
+
+---
+
+**Nota de auditoria:** a execução Python alegada na caçada anterior [152] não está comprovada. Registrei a ressalva, preservando os acontecimentos e recursos já estabelecidos. Os testes de hoje utilizam os dados informados por você.
+
+**[LOG DE MEMÓRIA DA CAMPANHA]**
+- **Localização Atual:** Toca da loba, Dia 4, 09h00.
+- **NPCs Presentes e Relação:** Loba e dois filhotes; confiança muito elevada.
+- **Linha de Missão Ativa:** Recuperação final da loba, proteção dos rebanhos e investigação dos laços.
+- **Eventos Cruciais Ocorridos:** Carne entregue; ferida cicatrizada e curativo retirado.
+- **Condições do Jogador:** 12/12 PV, CA 16, 125/300 XP, 41 PO, 2 PP e 3 PC, 13 flechas, kit de curandeiro 9/10. Inspiração Heroica disponível.
+
+**GitHub:** transcrição, rolagens, inventário, cronologia, estado e relógios atualizados; commits confirmados.
