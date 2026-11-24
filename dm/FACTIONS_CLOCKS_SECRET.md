@@ -206,3 +206,6 @@
 
 ## Dia 4 ~18h35 — estalagem e situação dos rebanhos
 - Mara confirma verbalmente a Iria duas noites sem perder cabras (noites Dia2–3 e Dia3–4). Continua recolhimento preventivo; não considera ameaça encerrada e recompensa ainda pendente. Iria desconhece autor dos laços. Mercadores do Cascalho partiram após reabertura da ponte no Dia4; carroças ausentes diante da estalagem. Eron ouviu conversa com Percepção 17. Renovou quarto e jantou, ainda não iniciou descanso. Não presumir ações futuras. Nenhum XP novo.
+
+## Dia 4 ~18h40 — negociação dos contratos
+- Mara ouviu relato de recuperação da loba e dois laços desarmados; promete pagar 12 PO se a noite Dia4–5 transcorrer sem perda de cabra. Não garantir resultado. Iria oferece serviço separado de identificação do responsável com evidências suficientes, 5 PO, sem exigir captura ou morte; Eron ainda não aceitou. Nenhum XP, rolagem ou pagamento. Preservar segredo de autoria e relógios independentes. Percepção anterior [174] não tem execução Python comprovada; preservar narrativa e registrar correção.
