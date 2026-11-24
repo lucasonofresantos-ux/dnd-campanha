@@ -32,7 +32,7 @@ character:
   heroic_inspiration: true
   hit_dice_available: "1d8"
   money:
-    gold: 32
+    gold: 33
     silver: 3
     copper: 3
   inventory_reference: character/ERON_RIVER_LEVEL_01.md
@@ -101,9 +101,9 @@ character:
 campaign_time:
   calendar_system: "Asterion, dias relativos; nenhuma era/ano formal estabelecido"
   day: 2
-  time_of_day: "aproximadamente 14h30 do Dia 2"
+  time_of_day: "aproximadamente 16h10 do Dia 2"
   season: "final do outono"
-  elapsed_game_time: "Dia 2 ~12h25–14h30 fabricação e aprovação de seis ferraduras."
+  elapsed_game_time: "Dia 2 ~14h30–16h10 reparação das enxadas, conclusão do trabalho e pagamento."
 location:
   continent: Asterion
   polity: "Terras Livres de Avenhar (homebrew), fora de Valdren"
@@ -113,9 +113,9 @@ location:
   travel_status: "Deslocamento local concluído; Eron na ferraria, recursos inalterados."
 scene:
   id: OPENING-001
-  status: "awaiting_player_response_to_durnak_name"
+  status: "awaiting_player_response_to_durnak_training"
   current_npcs_present: ["Durnak Mão de Ferro"]
-  immediate_visible_situation: "Dia 2 ~12h25–14h30: dado informado pelo jogador 16 natural, teste Força (Ferramentas de Ferreiro) 1d20+3 = 19, sucesso. Seis ferraduras fabricadas e aprovadas por Durnak; duas enxadas ainda pendentes. Durnak oferece água e breve pausa, pergunta o nome de Eron. Contrato de 1 PO até 18h permanece, pagamento não recebido. Nenhum XP novo, gasto, dano ou consumo de água confirmado."
+  immediate_visible_situation: "Dia 2 ~14h30–16h10: Eron apresentou-se a Durnak e reparou as duas enxadas. Dado natural 14 informado pelo jogador; Força (Ferramentas de Ferreiro) 1d20+3=17, sucesso. Seis ferraduras e duas enxadas concluídas e aprovadas; Durnak pagou 1 PO e dispensou Eron antes das 18h. Saldo 33 PO, 3 PP, 3 PC. Possibilidade de encomendas amanhã, sem contrato novo. Durnak perguntou se Eron aprendeu com anões. Sem XP novo por trabalho rotineiro, dano ou gasto de materiais próprios."
   discovered_traps:
     - location: "Trilha dos Corcos, junto ao riacho"
       state: disarmed_safe_wire_left_at_tree
@@ -139,8 +139,8 @@ world:
 transcription:
   character_creation_history: sessions/transcripts/SESSION_0001_FULL.md
   narrative_session: sessions/transcripts/SESSION_0002_FULL.md
-  last_saved_player_turn: "16"
-  last_saved_dm_turn: "[102] MESTRE — teste de ferreiro 19, ferraduras concluídas; Durnak pergunta nome."
+  last_saved_player_turn: "- Eron, Eron River, vou terminar as enxadas\n14 natural para as enxadas"
+  last_saved_dm_turn: "[104] MESTRE — enxadas concluídas, 1 PO recebida, Durnak pergunta sobre formação anã."
 notes:
   - "Primeira resposta de cena será salva literalmente e sem revelar preparativos de dm."
   - "Nunca tratar a aprovação da ficha como XP, nem mudar recursos automaticamente."
