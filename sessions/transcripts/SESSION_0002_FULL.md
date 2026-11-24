@@ -3107,3 +3107,62 @@ Eron pode tentar procurar vestígios de outros lobos nas proximidades da ravina.
 - **Condições do Jogador:** 12/12 PV, CA 16, 50/300 XP, 15 flechas, 33 PO, 3 PP e 3 PC, 6 kg de carne, kit de curandeiro 9/10. Inspiração Heroica disponível.
 
 **GitHub:** transcrição, cronologia e estado atualizados; commits confirmados.
+
+## [127] JOGADOR
+
+- Tá, só vê se não vai atrás de nenhuma cabra.
+Deixo metade da carne de corço e vou vender tudo que peguei do corço
+
+## [128] MESTRE
+
+### Toca da loba — Dia 3, 10h20
+
+A loba acompanha os movimentos de Eron enquanto ele deposita aproximadamente 3 kg de carne sobre uma pedra sombreada. Ela permanece junto aos filhotes, aparentemente satisfeita com a refeição.
+
+Eron recolhe seus pertences e segue pela trilha em direção ao Pouso das Três Fontes.
+
+### Mercado do Pouso — 11h50
+
+Belda Cortiça examina a pele salgada e passa os dedos pelo couro.
+
+— Vejo que aproveitou bem o sal que lhe dei. Assim consigo trabalhar com a pele sem tanta pressa. Posso pagar um pouco mais por ela.
+
+Após negociar os materiais com Belda, Eron passa pelo açougue de Bram e pela banca de Nessa, vendendo o restante dos produtos da caçada.
+
+<card gap={2}>
+  **Venda dos materiais**
+  | Material | Valor |
+  |---|---:|
+  | Pele salgada | 7 PP |
+  | Tendões | 1 PP |
+  | Dois ossos longos | 5 PC |
+  | Duas orelhas salgadas | 5 PC |
+  | Coração | 1 PP |
+  | Fígado | 2 PP |
+  | 3 kg de carne fresca | 6 PP |
+  <divider/>
+  <caption>Total recebido</caption>
+  <title size="xl" color="success">1 PO e 9 PP</title>
+  <divider/>
+  <caption>Patrimônio atual</caption>
+  <title size="2xl">35 PO · 2 PP · 3 PC</title>
+</card>
+
+Todos os materiais da corça foram vendidos. Restam aproximadamente 200 g de sal para futuras caçadas.
+
+Bram termina de guardar a carne e comenta:
+
+— Mais uma boa caçada, hein? Se continuar trazendo carne fresca desse jeito, podemos fazer negócios com frequência.
+
+São aproximadamente **12h00**. Eron está no açougue, a poucos minutos da ferraria de Durnak.
+
+---
+
+**[LOG DE MEMÓRIA DA CAMPANHA]**
+- **Localização Atual:** Açougue de Bram Cutelo, Dia 3, 12h00.
+- **NPCs Presentes e Relação:** Bram, contato comercial receptivo.
+- **Linha de Missão Ativa:** Recuperação da loba, proteção dos rebanhos e investigação dos laços.
+- **Eventos Cruciais Ocorridos:** Mais 3 kg de carne deixados na toca; venda de todos os materiais restantes.
+- **Condições do Jogador:** 12/12 PV, CA 16, 50/300 XP, 15 flechas, 35 PO, 2 PP e 3 PC. Kit de curandeiro 9/10, 200 g de sal e Inspiração Heroica disponível.
+
+**GitHub:** transcrição, inventário, cronologia, estado e relógios atualizados; commits confirmados.
