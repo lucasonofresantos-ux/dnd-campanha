@@ -2441,3 +2441,75 @@ Ele coloca as duas enxadas danificadas sobre a bancada e oferece uma caneca de �
 - **Condições do Jogador:** 12/12 PV, CA 16, 50/300 XP, 32 PO, 3 PP e 3 PC. Inspiração Heroica disponível.
 
 **GitHub:** transcrição, rolagem, cronologia e estado atualizados; commits confirmados.
+
+## [103] JOGADOR
+
+- Eron, Eron River, vou terminar as enxadas
+14 natural para as enxadas
+
+## [104] MESTRE
+
+### Ferraria de Durnak — Dia 2, 16h10
+
+— Eron River... Certo, Eron. É um prazer trabalhar com você.
+
+<card gap={2}>
+  <caption>Força — Ferramentas de Ferreiro</caption>
+  <row align="center" gap={4}>
+    <svg viewBox="0 0 100 100" width="82px" height="82px">
+      <polygon points="50,3 93,27 93,73 50,97 7,73 7,27" fill="#244C80" stroke="#7098CA" strokeWidth="2"/>
+      <path d="M50 3 L22 65 L78 65 Z" fill="#37659D" stroke="#91B5E0"/>
+      <path d="M7 27 L22 65 L7 73 M93 27 L78 65 L93 73 M22 65 L50 97 L78 65" fill="none" stroke="#91B5E0"/>
+      <text x="50" y="52" fontSize="27" fontWeight="bold" fill="white" textAnchor="middle">14</text>
+    </svg>
+    <box gap={1}>
+      <title size="2xl" color="success">17</title>
+      `1d20+3` → 14 + 3 = 17
+      <text color="success" weight="medium">Sucesso</text>
+      <caption>Rolagem informada pelo jogador</caption>
+    </box>
+  </row>
+</card>
+
+Eron recupera o fio das lâminas, corrige as deformações do ferro e reforça os encaixes dos cabos. Durnak examina as enxadas e aprova o serviço.
+
+— Terminou mais cedo do que esperava. Muito bem.
+
+O anão busca uma pequena caixa de madeira sob a bancada, retira uma moeda de ouro e a entrega a Eron.
+
+— Seu trabalho está pago. Não preciso que fique até as seis, já terminou sua parte. Mas tenho algumas encomendas para amanhã, caso queira voltar.
+
+<card gap={2}>
+  **Trabalho concluído**
+  <row>
+    <icon name="check-circle-filled" color="success"/>
+    Ferraduras
+    <spacer/>
+    6/6
+  </row>
+  <row>
+    <icon name="check-circle-filled" color="success"/>
+    Enxadas
+    <spacer/>
+    2/2
+  </row>
+  <divider/>
+  <text color="success" weight="medium">+ 1 PO recebida</text>
+  <caption>Patrimônio atualizado</caption>
+  <title size="xl">33 PO · 3 PP · 3 PC</title>
+</card>
+
+Durnak observa Eron por um instante.
+
+— Pela maneira como trabalha o ferro, diria que aprendeu com um dos nossos. Estou enganado?
+
+---
+
+**[LOG DE MEMÓRIA DA CAMPANHA]**
+- **Localização Atual:** Ferraria de Durnak, Dia 2, 16h10.
+- **NPCs Presentes e Relação:** Durnak Mão de Ferro, satisfeito com o trabalho e disposto a oferecer novas encomendas.
+- **Linha de Missão Ativa:** Recuperação da loba e investigação dos laços.
+- **Eventos Cruciais Ocorridos:** Teste de ferreiro 17; trabalho concluído e 1 PO recebida.
+- **Condições do Jogador:** 12/12 PV, CA 16, 50/300 XP, 33 PO, 3 PP e 3 PC. Inspiração Heroica disponível.
+
+**GitHub:** transcrição, rolagem, inventário, cronologia e estado atualizados; commits confirmados.
