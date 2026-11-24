@@ -201,3 +201,9 @@ Especializações do Ladino de nível 1: **Furtividade e Percepção**, dobram p
 - Dano: \`2d6+5\` → [4 (arco),3 (Ataque Furtivo)]+5=12 perfurante. Coelho abatido e ainda caído a ~18m de Eron.
 - **Munição: 19 flechas na aljava; uma flecha disparada alojada no coelho, não recuperada.** Corpo não recolhido; não acrescentar carne ao inventário até coleta.
 - Nenhuma mudança em ração, PV, XP ou moedas.
+
+### Preparação e entrega da caça — sessão 0002, Dia 1, ~16h05
+- Teste de Sobrevivência `1d20+5` → [1]+5=6, falha: Eron perfurou vísceras no preparo do coelho com adaga e contaminou grande parte da carne. Salvou somente alguns pedaços limpos.
+- Flecha do abate extraída danificada, inutilizável: **19 flechas utilizáveis na aljava, 1 flecha perdida**.
+- Eron levou todos os pedaços limpos à loba, depositando-os sobre uma pedra à entrada da toca. Teste Lidar com Animais `1d20+3` → [20]+3=23; loba aceitou e dividiu com filhotes. **Não sobrou carne de coelho no inventário**.
+- Horário ~16h05, sem dano, alteração de rações, dinheiro ou XP.
