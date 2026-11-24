@@ -1,1 +1,2 @@
 event_id,campaign_id,session_id,day,time,character,source,description,raw_xp,share,xp_awarded,total_after,level_after,notes
+ERON-S0002-HEAL-WOLF-001,ERON-RIVER-ASTERION-001,SESSION_0002,1,16:20,Eron River,noncombat_medical,"Primeiros socorros complexos a loba ferida e desconfiada: retirar fragmento superficial de arame e limpar ferida sem agressão",25,1,25,25,1,"Recompensa discricionária de desafio médico; não equivale a resolver ataques ao rebanho nem pode ser duplicada na mesma ameaça"
