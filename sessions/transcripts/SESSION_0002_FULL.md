@@ -536,3 +536,26 @@ A abertura da toca permanece livre, e os dois filhotes dormitam atrás da mãe.
 - Condições do Jogador: Ladino 1, **12/12 PV**, **CA 16**, **0/300 XP**, **36 PO e 8 PP**. Quatro porções diárias de ração intactas e uma parcialmente consumida. Nenhuma condição ativa ou combate.
 
 **GitHub:** transcrição e estado da campanha atualizados; commits confirmados.
+
+## [029] JOGADOR — 2026-11-23
+
+Não vou sair daqui até meia tarde mas vou almoçar e dividir o almoço com ela sem acender o fogo
+
+## [030] MESTRE — 2026-11-23
+
+Eron permanece sentado à entrada da toca, sem acender fogo. Abre a ração que já havia começado, almoça com pão de viagem e carne seca e deixa uma parte ao alcance da loba. Ela espera que sua mão se afaste antes de recolher a comida. Os dois filhotes se agitam ao sentir o cheiro; a mãe come uma parte e permanece junto deles.
+
+As horas passam devagar. A luz cinzenta do meio-dia desliza pelas paredes da ravina, enquanto o vento faz as copas dos pinheiros rangerem. A loba alterna entre descansar, lamber a pata e vigiar as crias. Em certo momento, um filhote se aventura até perto da entrada; ela o chama de volta com um ruído baixo, sem se voltar agressivamente contra Eron. Ao longo da tarde, passa a tolerar seus movimentos tranquilos sem erguer a cabeça a cada instante.
+
+**Por volta das 15h**, a loba está deitada perto da boca da toca, com os filhotes atrás dela. A pata continua inchada e sensível. A convivência silenciosa parece ter reduzido sua desconfiança, mas **ainda não houve contato físico nem tratamento**, e os ataques ao rebanho não estão resolvidos. Eron permanece onde escolheu esperar, com a passagem desimpedida.
+
+**O que Eron faz?**
+
+**[LOG DE MEMÓRIA DA CAMPANHA]**
+- Localização Atual: Sentado à entrada da toca, na ravina, aproximadamente às 15h do Dia 1.
+- NPCs Presentes e Relação: Nenhum NPC; loba ferida e dois filhotes. A loba está mais habituada à presença tranquila de Eron, mas ainda protege as crias.
+- Linha de Missão Ativa: Investigar e solucionar os ataques ao rebanho de Mara; recompensa proposta de 12 PO, ainda não recebida.
+- Eventos Cruciais Ocorridos: Eron permaneceu cerca de três horas na entrada, almoçou sem fogueira e dividiu sua ração com a loba. Ela aceitou o alimento. O ferimento permanece sem tratamento; não houve novos testes nem combate.
+- Condições do Jogador: Ladino 1, **12/12 PV**, **CA 16**, **0/300 XP**, **36 PO e 8 PP**. Quatro porções diárias de ração intactas e uma porção aberta, agora bastante consumida. Nenhuma condição ativa; período de descanso sem uso de Dados de Vida.
+
+**GitHub:** transcrição integral, cronologia, inventário e estado atualizados; commits confirmados.
