@@ -832,3 +832,52 @@ O arco curto está disponível, e a distância fica dentro de seu alcance normal
 - Condições do Jogador: Ladino 1, **12/12 PV**, **CA 16**, **0/300 XP**, **36 PO e 8 PP**, 20 flechas. Quatro porções de ração intactas e uma quase consumida; nenhuma condição ou recurso gasto nesta etapa.
 
 **GitHub:** três rolagens, transcrição literal, cronologia e estado da campanha registrados em commits confirmados.
+
+## [045] JOGADOR — 2026-11-23
+
+Disparo com a flecha pode rolar o disparo e o dano
+
+## [046] MESTRE — 2026-11-23
+
+## Eron River — Disparo com arco curto
+
+<box border radius="lg" padding={3} gap={3}>
+  <row align="center" justify="between">
+    <box gap={1}>
+      <text color="secondary" weight="medium" size="xs">Ataque com vantagem</text>
+      <title size="2xl" tabularNums>17</title>
+      <caption>`2d20kh1+7` → [2, 10] → 10 + 7</caption>
+    </box>
+    <badge color="success"><icon name="check" inline/> Acerto</badge>
+  </row>
+  <divider color="subtle"/>
+  <row align="center" justify="between">
+    <box gap={1}>
+      <text color="secondary" weight="medium" size="xs">Dano perfurante</text>
+      <title size="2xl" tabularNums>12</title>
+      <caption>Arco 1d6 [4] + DES 5 + Ataque Furtivo 1d6 [3]</caption>
+    </box>
+    <text weight="medium" color="success">Abate</text>
+  </row>
+</box>
+
+Eron acomoda uma flecha na corda do arco curto. Oculto atrás do tronco caído, controla a respiração enquanto observa o coelho mordiscar os brotos da clareira.
+
+A corda vibra.
+
+A flecha atravessa os dezoito metros e atinge o animal com precisão. O coelho cai entre as folhas úmidas, sem conseguir fugir. **O disparo foi fatal.**
+
+O silêncio retorna à clareira. A caça está caída onde foi atingida, com a flecha ainda presa ao corpo.
+
+Eron conseguiu abater um coelho, mas ainda precisa recolhê-lo para levá-lo à loba.
+
+**O que Eron faz?**
+
+**[LOG DE MEMÓRIA DA CAMPANHA]**
+- Localização Atual: Atrás de um tronco na encosta arborizada, por volta das 15h25; coelho abatido a aproximadamente 18 metros.
+- NPCs Presentes e Relação: Nenhum NPC; a loba e dois filhotes estão fora de vista, na região da toca.
+- Linha de Missão Ativa: Solucionar os ataques ao rebanho de Mara; obter alimento para a loba. Recompensa de 12 PO ainda não recebida.
+- Eventos Cruciais Ocorridos: **Ataque com vantagem `2d20kh1+7` → [2, 10], mantém 10 +7 = 17 (acerto)**. **Dano `2d6+5` → [4, 3] +5 = 12**, incluindo Ataque Furtivo. Coelho abatido; carcaça e flecha ainda no local, não recolhidas.
+- Condições do Jogador: Ladino 1, **12/12 PV**, **CA 16**, **0/300 XP**, **36 PO e 8 PP**. **19 flechas na aljava e uma disparada presa ao coelho**. Quatro porções de ração intactas e uma quase consumida; sem ferimentos ou condições.
+
+**GitHub:** rolagens, transcrição literal, cronologia, munição e estado da campanha salvos em commits confirmados.
