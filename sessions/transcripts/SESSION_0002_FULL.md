@@ -3996,3 +3996,32 @@ A loba já apresenta condições de retomar gradualmente suas atividades naturai
 - **Condições do Jogador:** 12/12 PV, CA 16, 125/300 XP, 41 PO, 2 PP e 3 PC, 13 flechas, kit de curandeiro 9/10. Inspiração Heroica disponível.
 
 **GitHub:** transcrição, rolagens, inventário, cronologia, estado e relógios atualizados; commits confirmados.
+
+## [155] JOGADOR
+
+- acho que não precisa mais de mim, mas amanhã ainda venho te ver e trazer algo para você comer, posso fazer carinho nos filhotes?
+
+## [156] MESTRE
+
+### Toca da loba — Dia 4, 09h05
+
+A loba observa Eron com as orelhas erguidas. Quando ele volta sua atenção para os filhotes, ela acompanha seus movimentos, mas não demonstra agressividade.
+
+Um dos pequenos aproxima-se espontaneamente, fareja sua mão e começa a mordiscar de leve seus dedos. O outro, mais cauteloso, permanece junto à mãe, observando o irmão.
+
+A loba deita-se ao lado deles, mantendo o olhar atento.
+
+**Sim, Eron pode acariciar os filhotes**, desde que respeite a aproximação espontânea deles. A confiança conquistada durante esses quatro dias é suficiente para dispensar outro teste de Lidar com Animais nessa interação.
+
+Eles continuam sendo animais selvagens, mas já reconhecem Eron como uma presença familiar e segura.
+
+---
+
+**[LOG DE MEMÓRIA DA CAMPANHA]**
+- **Localização Atual:** Toca da loba, Dia 4, 09h05.
+- **NPCs Presentes e Relação:** Loba e dois filhotes; confiança elevada.
+- **Linha de Missão Ativa:** Proteção dos rebanhos e investigação dos laços.
+- **Eventos Cruciais Ocorridos:** Aproximação espontânea de um filhote; intenção de retornar amanhã.
+- **Condições do Jogador:** 12/12 PV, CA 16, 125/300 XP, 41 PO, 2 PP e 3 PC, 13 flechas. Inspiração Heroica disponível.
+
+**GitHub:** transcrição, cronologia, estado e relógios atualizados; commits confirmados.
