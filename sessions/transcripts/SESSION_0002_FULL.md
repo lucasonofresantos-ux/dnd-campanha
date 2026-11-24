@@ -6100,3 +6100,46 @@ Não há indícios visíveis de que a loba tenha sido atacada. Para tentar encon
 **Nota de auditoria:** a execução Python dos dados da caçada anterior não foi comprovada; corrigi o registro, preservando os acontecimentos. O teste atual de Percepção foi realmente executado.
 
 **GitHub:** transcrição, ficha, dados, cronologia e estado atualizados; commits confirmados.
+
+## [231] JOGADOR
+
+Vou investigar a toca
+
+## [232] MESTRE
+
+### Toca da loba — Dia 6, 11h25
+
+Você se aproxima da abertura. O interior da toca é estreito, protegido por raízes e uma formação rochosa. Há folhas secas, pelos acinzentados e pequenas marcas de garras no solo.
+
+O cheiro característico dos animais ainda permanece no abrigo. Alguns ossos estão espalhados junto à parede.
+
+Para determinar se a família abandonou definitivamente a toca, quando saiu e se alguma coisa provocou sua partida, faça um teste de **Inteligência (Investigação)**.
+
+<card gap={2}>
+  <row align="center">
+    <svg viewBox="0 0 100 100" size="76px">
+      <polygon points="50,4 94,29 94,73 50,97 6,73 6,29" fill="#214b86" stroke="#78a7e1" strokeWidth="2"/>
+      <path d="M50 4L23 65L94 73L50 4L77 65L6 73L50 4M6 29L77 65L50 97L23 65L94 29M23 65L77 65" fill="none" stroke="#78a7e1"/>
+      <text x="50" y="53" fontSize="25" fontWeight="bold" fill="white" textAnchor="middle">20</text>
+    </svg>
+    <box gap={1}>
+      <caption>Investigação</caption>
+      <title size="2xl">1d20 + 6</title>
+      <caption>Inteligência +4 | Proficiência +2</caption>
+    </box>
+  </row>
+  <button block={true} variant="outline" onClick={()=>GenUI.issueNewTurn("Role Investigação para examinar a toca.")}>Rolar Investigação</button>
+</card>
+
+---
+
+**[LOG DE MEMÓRIA DA CAMPANHA]**
+- **Localização atual:** Toca da loba, Dia 6, 11h25.
+- **NPCs presentes:** Nenhum animal avistado.
+- **Missão ativa:** Exploração voluntária.
+- **Eventos cruciais:** Investigação da toca iniciada; aguardando o resultado do teste.
+- **Condições:** 12/12 PV | CA 16 | 225/300 XP. Inventário inalterado.
+
+**Nota de auditoria:** a execução em Python da Percepção anterior (15) também não está comprovada. O registro foi corrigido, sem alterar a narrativa. Nenhum dado novo foi rolado neste turno.
+
+**GitHub:** transcrição, estado e auditoria atualizados; commits confirmados.
