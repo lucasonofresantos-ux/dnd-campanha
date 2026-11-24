@@ -230,3 +230,16 @@ date,campaign_id,stage,attempt,expression,six_rolls_faces_in_order,six_attribute
 2026-11-24,ERON-RIVER-ASTERION-001,ranged_attack_shortbow_advantage_day6,4,2d20kh1+7,"5,18","18+7",25,true
 2026-11-24,ERON-RIVER-ASTERION-001,shortbow_damage_sneak_attack_day6,4,2d6+5,"4,6","4+6+5",15,true
 2026-11-24,ERON-RIVER-ASTERION-001,skill_check_survival_leatherworker_advantage_day6,4,2d20kh1+5,"13,4","13+5",18,true
+2026-11-24,ERON-RIVER-ASTERION-001,correction_unverified_execution_skill_check_survival_hunt_day6,1,1d20+5,"2","2+5",7,false
+2026-11-24,ERON-RIVER-ASTERION-001,correction_unverified_execution_skill_check_survival_hunt_day6,2,1d20+5,"19","19+5",24,false
+2026-11-24,ERON-RIVER-ASTERION-001,correction_unverified_execution_skill_check_perception_hunt_day6,2,1d20+7,"9","9+7",16,false
+2026-11-24,ERON-RIVER-ASTERION-001,correction_unverified_execution_skill_check_stealth_hunt_day6,2,1d20+9,"2","2+9",11,false
+2026-11-24,ERON-RIVER-ASTERION-001,correction_unverified_execution_skill_check_survival_hunt_day6,3,1d20+5,"7","7+5",12,false
+2026-11-24,ERON-RIVER-ASTERION-001,correction_unverified_execution_skill_check_perception_hunt_day6,3,1d20+7,"4","4+7",11,false
+2026-11-24,ERON-RIVER-ASTERION-001,correction_unverified_execution_skill_check_survival_hunt_day6,4,1d20+5,"15","15+5",20,false
+2026-11-24,ERON-RIVER-ASTERION-001,correction_unverified_execution_skill_check_perception_hunt_day6,4,1d20+7,"13","13+7",20,false
+2026-11-24,ERON-RIVER-ASTERION-001,correction_unverified_execution_skill_check_stealth_hunt_day6,4,1d20+9,"17","17+9",26,false
+2026-11-24,ERON-RIVER-ASTERION-001,correction_unverified_execution_ranged_attack_shortbow_advantage_day6,4,2d20kh1+7,"5,18","18+7",25,false
+2026-11-24,ERON-RIVER-ASTERION-001,correction_unverified_execution_shortbow_damage_sneak_attack_day6,4,2d6+5,"4,6","4+6+5",15,false
+2026-11-24,ERON-RIVER-ASTERION-001,correction_unverified_execution_skill_check_survival_leatherworker_advantage_day6,4,2d20kh1+5,"13,4","13+5",18,false
+2026-11-24,ERON-RIVER-ASTERION-001,skill_check_perception_wolf_den_day6,1,1d20+7,8,"8+7",15,true
