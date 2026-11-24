@@ -456,3 +456,31 @@ A loba está quieta. Não se aproxima dele, tampouco tenta expulsá-lo.
 - Condições do Jogador: Ladino 1, **12/12 PV**, **CA 16**, **0/300 XP**, 36 PO e 8 PP. Quatro porções diárias de ração intactas e uma parcialmente utilizada; sem novas despesas, ferimentos ou condições.
 
 **GitHub:** nova rolagem, transcrição literal, cronologia e estado da campanha salvos em commits confirmados.
+
+## [023] JOGADOR — 2026-11-23
+
+Tiro mais um pedaço de carne seca como um pedaço e o restante ofereço para ela
+- aqui garota mais um pouco para você 
+
+## [024] MESTRE — 2026-11-23
+
+Eron retira outro pedaço de carne seca de suas rações, come uma parte e oferece o restante à loba.
+
+— Aqui, garota, mais um pouco para você.
+
+O focinho cinzento se ergue. A loba fareja o ar, olha para a carne e depois para Eron. Por alguns instantes, permanece imóvel. Então, apoiando-se com cuidado nas três patas saudáveis, aproxima-se o suficiente para apanhar o alimento oferecido.
+
+Ela recua para o interior da toca, onde mastiga devagar. Um dos filhotes tenta alcançar a carne; a mãe o afasta com um movimento suave do focinho. Desta vez, **não rosna para Eron**. Ainda assim, mantém o corpo entre ele e os pequenos.
+
+Quando termina de comer, a loba volta a se deitar. A pata ferida continua recolhida, e Eron percebe que ela evita apoiá-la até mesmo nos movimentos mais curtos. Ela parece aceitar sua presença e o alimento, mas **ainda não demonstrou permitir que ele examine ou toque o ferimento**.
+
+**O que Eron faz?**
+
+**[LOG DE MEMÓRIA DA CAMPANHA]**
+- Localização Atual: Sentado à entrada da toca, a aproximadamente 2 metros da abertura.
+- NPCs Presentes e Relação: Nenhum NPC; loba cinzenta ferida e dois filhotes. A loba aceitou mais alimento sem rosnar, mas continua protegendo as crias.
+- Linha de Missão Ativa: Investigar e solucionar os ataques ao rebanho de Mara; recompensa proposta de 12 PO, ainda não recebida.
+- Eventos Cruciais Ocorridos: Eron comeu parte de um segundo pedaço de carne seca e ofereceu o restante à loba, que aceitou. Nenhum novo teste, contato físico ou tratamento do ferimento.
+- Condições do Jogador: Ladino 1, **12/12 PV**, **CA 16**, **0/300 XP**, **36 PO e 8 PP**. Quatro porções diárias de ração intactas e uma parcialmente consumida; nenhuma condição ativa ou combate.
+
+**GitHub:** transcrição literal, inventário, cronologia e estado da campanha atualizados; commits confirmados.
