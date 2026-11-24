@@ -197,3 +197,6 @@
 
 ## Dia 4 ~14h20 — trabalho concluído
 - Durnak aprovou os aros e seis cravos, pagou 1PO5PP conforme acordo, almoço já fornecido. Sem nova encomenda ou XP de trabalho rotineiro. Eron permanece na ferraria; demais relógios não interrompidos.
+
+## Dia 4 ~14h25 — uso da ferraria
+- Durnak oferece acesso gratuito à bancada, forja e ferramentas até 18h, com possibilidade de retornar amanhã, e materiais para 20 flechas por 4 PP. Nenhum pagamento, fabricação ou aquisição até aceitação. Nenhum XP por fabricação rotineira.
