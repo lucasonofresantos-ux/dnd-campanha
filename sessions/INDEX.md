@@ -50,3 +50,5 @@
 - Atualização: sessão 0002 até [230], Dia6 11h25; toca vazia, Percepção 15 executada; auditoria [228] corrigida.
 
 - Atualização: sessão 0002 até [232], Dia6 11h25; Investigação +6 pendente. Auditoria [230] corrigida.
+
+- Atualização: sessão 0002 até [234], Dia6 11h35; Investigação 26 efetivamente executada, indícios de partida voluntária e rastros encosta acima.
