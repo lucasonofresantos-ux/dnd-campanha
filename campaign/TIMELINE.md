@@ -74,6 +74,8 @@
 
 - **Dia 2, ~07h10:** Eron descreveu à boticária Olma Ramo pata de um lobo inchada e quente, mas sem mau cheiro, após ele retirar um fragmento de ferro de armadilha no dia anterior; reconheceu que pode ser inflamação de lesão recente, pediu que incluísse materiais necessários e autorizou pagamento, solicitando desconto. Olma disse que ausência de odor não exclui infecção, orientou água limpa, unguento suave em camada fina, atadura não apertada e vigilância de piora ou secreção. Entregou **kit de curandeiro completo (10 usos)**, **1 pote de unguento suave** e **1 conjunto de ataduras limpas**, todos não mágicos, por **4 PO e 4 PP**, desconto de Artesão de 20% sobre preço base 5 PO e 5 PP. Eron **pagou e recebeu** os materiais, saldo de **35 PO 5 PP → 31 PO 1 PP**, nenhum item usado. Sem rolagem, XP, dano, alimentação nova ou visita à loba. Missão de Mara/premiação 12PO pendentes.
 
+- **Dia 2, ~07h10–08h05:** Eron agradeceu Olma, partiu em direção à ravina e solicitou Furtividade, Percepção e Sobrevivência até achar caça. Dados reais via `dice_roller.py`/Python `secrets.randbelow`: **Furtividade [18]+9=27**, **Percepção [19]+7=26**, **Sobrevivência [16]+5=21**. Rastreou corço adulto pela Trilha dos Corços junto ao riacho, observou-o comendo folhas a ~20m em clareira ~08h05; Eron oculto atrás de tronco com musgo, presa não o detectou. Viu pegadas de botas e marca de aperto em árvore jovem junto ao riacho, sem certeza de laço ativo ou autor. **Não atacou, abateu, saqueou nem recebeu alimento**; não chegou à loba, nenhum gasto, XP ou ferimento. PV12/12, 31PO1PP, 19 flechas, kit10 usos intacto.
+
 ## Índices
 - Estado: `CAMPAIGN_STATE.yaml`.
 - XP: `XP_LOG.csv`.
