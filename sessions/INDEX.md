@@ -32,3 +32,5 @@
 - Atualização: sessão 0002 até [212], Dia5 20h15; Odran admitiu instalação, patrulha iniciou retorno; Eron oculto a 15m da cabana. Auditoria [210] corrigida.
 
 - Atualização: sessão 0002 até [214], Dia5 20h20; Eron abordou patrulha e conversa com Iria.
+
+- Atualização: sessão 0002 até [216], Dia5 ~20h20; Iria agradece a preocupação e convida Eron a retornar com a patrulha, decisão pendente.
