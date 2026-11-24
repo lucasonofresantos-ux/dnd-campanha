@@ -6789,3 +6789,45 @@ Você está diante da alavanca. A estrutura permanece completamente silenciosa.
 - **Inventário:** Marca da Bigorna Velada recuperada. Lanterna acesa, com aproximadamente 5h35 de autonomia e 6 frascos de óleo em reserva.
 
 **GitHub:** transcrição, ficha, rolagem informada pelo jogador, cronologia e estado atualizados; commits confirmados.
+
+## [255] JOGADOR
+
+- vestíbulo de acesso? Espero não me arrepender disso
+E aciono a alavanca 
+
+## [256] MESTRE
+
+### Vestíbulo de acesso — Dia 6, 14h35
+
+Sua voz ecoa suavemente pelo corredor.
+
+Você segura a alavanca e começa a movimentá-la. Ela cede alguns centímetros, produzindo um rangido metálico, seguido pelo som de engrenagens atrás da porta.
+
+Entretanto, o mecanismo oferece resistência. Pela sua experiência como ferreiro, você reconhece que a oxidação provavelmente está dificultando o movimento das peças internas.
+
+A porta continua fechada. Forçar a alavanca pode liberar o mecanismo, mas também existe a possibilidade de danificá-lo.
+
+<card gap={2}>
+  <row align="center">
+    <icon name="dices" size="3xl"/>
+    <box gap={1}>
+      <caption>Força (Atletismo)</caption>
+      <title size="2xl">1d20 + 3</title>
+      <caption>Força +1 | Proficiência +2</caption>
+    </box>
+  </row>
+  <button block variant="outline" onClick={()=>GenUI.issueNewTurn("Role Atletismo para acionar a alavanca.")}>Rolar Atletismo</button>
+</card>
+
+Você também pode interromper o movimento e examinar o mecanismo com suas ferramentas antes de aplicar mais força.
+
+---
+
+**[LOG DE MEMÓRIA DA CAMPANHA]**
+- **Localização atual:** Vestíbulo do Monte Veyra, diante da segunda porta.
+- **NPCs presentes:** Nenhum detectado.
+- **Missão ativa:** Exploração da construção subterrânea.
+- **Eventos cruciais:** Alavanca parcialmente movimentada; mecanismo apresenta resistência. Aguardando teste ou nova ação.
+- **Condições:** 12/12 PV | CA 16 | 250/300 XP. Inspiração Heroica disponível. Lanterna acesa; Marca da Bigorna Velada na bolsa.
+
+**GitHub:** transcrição, cronologia e estado atualizados; commits confirmados.
