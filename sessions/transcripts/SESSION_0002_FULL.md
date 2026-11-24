@@ -5609,3 +5609,41 @@ Não houve violência. Os três começam a descer pela trilha, enquanto Odran re
 **Nota de auditoria:** os três resultados da travessia anterior (24, 20 e 13) não têm execução Python comprovada. Corrigi a classificação no registro, preservando os acontecimentos. Nesta cena não houve nova rolagem, pois você permaneceu imóvel e a conversa era audível.
 
 **GitHub:** transcrição, cronologia, estado e auditoria atualizados; commits confirmados.
+
+## [213] JOGADOR
+
+Assim que estiver fora do alcance do odran eu saio e abordo a aria
+- demora se, até fiquei preocupado, e tinha gente perguntando por você na hospedagem
+
+## [214] MESTRE
+
+### Trilha dos Corços — Dia 5, 20h20
+
+Você espera a patrulha se afastar da cabana e, quando está fora do alcance de Odran, deixa a cobertura das árvores.
+
+Ao ouvir sua voz, um dos vigias leva a mão ao punho da espada, mas Iria imediatamente o tranquiliza.
+
+— Calma, conheço esse homem.
+
+Ela ergue a lanterna e reconhece seu rosto.
+
+— Eron? Veio até aqui por minha causa? — pergunta, surpresa.
+
+— Demoramos mais do que esperava. Encontramos três laços e conseguimos fazer Odran admitir a responsabilidade. Amanhã vamos resolver a questão da penalidade.
+
+Iria ajeita a alça do arco sobre o ombro.
+
+— Mas quem estava perguntando por mim na estalagem? Aconteceu alguma coisa no povoado?
+
+Os dois vigias aguardam enquanto ela conversa com você.
+
+---
+
+**[LOG DE MEMÓRIA DA CAMPANHA]**
+- **Localização atual:** Trilha dos Corços, Dia 5, 20h20.
+- **NPCs presentes e relação:** Iria Vento-Seco, confiança profissional; dois vigias.
+- **Missão ativa:** Nenhum novo contrato.
+- **Eventos cruciais:** Eron abordou a patrulha em segurança, fora do alcance de Odran. Iria confirmou o recolhimento dos laços.
+- **Condições:** 12/12 PV | CA 16 | 225/300 XP | 56 PO, 3 PP e 7 PC | 25 flechas | 10 rações | 5,2 kg de sal. Inspiração Heroica disponível.
+
+**GitHub:** transcrição, cronologia e estado atualizados; commits confirmados.
