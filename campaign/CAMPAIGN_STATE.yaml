@@ -75,9 +75,9 @@ character:
 campaign_time:
   calendar_system: "Asterion, dias relativos; nenhuma era/ano formal estabelecido"
   day: 2
-  time_of_day: "aproximadamente 07h do Dia 2"
+  time_of_day: "aproximadamente 07h05 do Dia 2"
   season: "final do outono"
-  elapsed_game_time: "Dia1 ~18h25 Eron trancou quarto, lavou-se com agua da bacia, dormiu ~19h15-06h30; descanso longo concluido; Dia2 ~07h chegou a Olma"
+  elapsed_game_time: "~07h00 Eron entrou na Casa das Ervas e conversou brevemente com Olma sobre kit para a pata de loba, ~07h05"
 location:
   continent: Asterion
   polity: "Terras Livres de Avenhar (homebrew), fora de Valdren"
@@ -87,10 +87,10 @@ location:
   travel_status: "Eron saiu do quarto 3 depois do descanso longo, passou pelos currais e seguiu até Olma; chave temporaria ainda em posse, nenhum novo gasto"
 scene:
   id: OPENING-001
-  status: "awaiting_player_response_to_olma_about_wound"
+  status: "awaiting_player_wolf_wound_details_and_purchase_at_olma"
   current_npcs_present:
     - Olma Ramo
-  immediate_visible_situation: "Eron trancou porta do quarto 3, fez banho simples usando agua da bacia e completou descanso longo de ~19h15 Dia1 a ~06h30 Dia2; mantem PV12/12 e 1d8 de vida, recebeu Inspiracao Heroica pela caracteristica humana Engenhoso. Pediu rolagem de Percepcao no caminho para Olma: Python secrets.randbelow deu d20[11]+7=18. Viu Iria, arco as costas e aparencia cansada, conversando com Mara perto dos currais; cabras recolhidas, sem tumulto aparente, nao ouviu conversa e nao verificou se houve ataques. ~07h chegou a Casa das Ervas, perto da segunda fonte, placa com folhas e raizes, Olma Ramo organiza frascos e pergunta se o remedio e para ele ou outra pessoa. Nenhuma compra, moeda ou racao gasta, ainda nao falou com Olma. XP25/300, saldo35PO5PP, 19 flechas."
+  immediate_visible_situation: "Eron explicou a Olma que precisa de kit de curandeiro para tentar evitar infecção na pata de um lobo. Olma se surpreendeu mas ouviu, esclareceu que kit sozinho não previne infecções e em D&D 2024 permite estabilizar criaturas inconscientes a 0 PV, até 10 usos. Olma confirmou ter fisicamente um kit completo em estoque e colocou-o no balcão junto com unguento suave para feridas superficiais e ataduras adicionais, recomendados para proteção/limpeza da pata selvagem; não é cura mágica nem evita toda infecção. Preços com desconto Artesão 20%: kit 4 PO; unguento 2 PP 4 PC; ataduras extras 1 PP 6 PC; total conjunto 4 PO 4 PP. Olma perguntou a Eron se a ferida está aberta, quente/inchada ou soltando secreção, aguardando resposta antes de aconselhar tratamento mais específico. Nenhuma compra, pagamento, posse de itens médicos ou uso de kit confirmado; saldo35PO5PP e XP25/300 iguais, local Casa das Ervas ~07h05."
   combat: false
   initiative: []
   rounds: 0
@@ -109,8 +109,8 @@ world:
 transcription:
   character_creation_history: sessions/transcripts/SESSION_0001_FULL.md
   narrative_session: sessions/transcripts/SESSION_0002_FULL.md
-  last_saved_player_turn: "Tranco a porta tomo um banho e me levanto cedo para ir até a olma ramos, e rolê percepção para o caminho até lá"
-  last_saved_dm_turn: "[064] MESTRE — 2026-11-23; banho de bacia, descanso longo Dia2 e Inspiracao Heroica, Percepcao d20[11]+7=18 no caminho, Olma recebe Eron ~07h; transcricao salva."
+  last_saved_player_turn: "- preciso de um kit de curandeiro, acho que serve para evitar que a para de um logo infeccione"
+  last_saved_dm_turn: "[066] MESTRE — 2026-11-23; Olma confirma kit e recomenda unguento e ataduras; esclarece uso, cota 4PO4PP pelos três; pergunta por sinais da ferida; sem compra."
 notes:
   - "Primeira resposta de cena será salva literalmente e sem revelar preparativos de dm."
   - "Nunca tratar a aprovação da ficha como XP, nem mudar recursos automaticamente."
