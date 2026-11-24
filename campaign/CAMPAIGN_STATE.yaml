@@ -113,9 +113,9 @@ character:
 campaign_time:
   calendar_system: "Asterion, dias relativos; nenhuma era/ano formal estabelecido"
   day: 3
-  time_of_day: "aproximadamente 17h10 do Dia 3"
+  time_of_day: "aproximadamente 17h15 do Dia 3"
   season: "final do outono"
-  elapsed_game_time: "Dia3 ~16h40–17h10 caminhada da ferraria à ponte."
+  elapsed_game_time: "Dia3 ~17h10–17h15 negociação com Avel."
 location:
   continent: Asterion
   polity: "Terras Livres de Avenhar (homebrew), fora de Valdren"
@@ -125,9 +125,9 @@ location:
   travel_status: "Chegou à ponte; conversa inicial com Avel."
 scene:
   id: OPENING-001
-  status: "awaiting_avel_repair_offer_response"
+  status: "awaiting_avel_repair_investigation"
   current_npcs_present: ["Avel Duro"]
-  immediate_visible_situation: "Dia 3 ~17h10: Eron perguntou quanto Avel pagaria pelo conserto. Avel perguntou sobre experiência em mecanismos, relatou duas tentativas frustradas de liberar roldana, ofertou 3 PO condicionadas ao funcionamento do mecanismo, ferramentas e algumas peças de reposição disponíveis; eventual fabricação a negociar com Durnak. Relatou nível da água subindo e preferência por resolver antes do anoitecer. Aguarda aceitação; nenhum diagnóstico, contrato, teste, pagamento ou alteração de recursos."
+  immediate_visible_situation: "Dia 3 ~17h15: Eron contrapropôs 5 PO pelo conserto antes do anoitecer, argumentando urgência e falta de alternativa. Persuasão 1d20+4 executada no container Python com script dice_roller.py, hash Git conferido d35af70119bf684ea055619bb10678a1c4b03bbb: [20]+4=24, sucesso. Avel concordou com 5 PO condicionadas ao funcionamento antes de escurecer, ferramentas e materiais disponíveis fornecidos. Estendeu a mão; aguarda resposta/ação. Solicitado teste Investigação +6 para diagnosticar travamento, ainda não rolado. Sem pagamento, XP ou gasto; Inspiração Heroica intacta."
   discovered_traps:
     - location: "Trilha dos Corcos, junto ao riacho"
       state: disarmed_safe_wire_left_at_tree
@@ -151,8 +151,8 @@ world:
 transcription:
   character_creation_history: sessions/transcripts/SESSION_0001_FULL.md
   narrative_session: sessions/transcripts/SESSION_0002_FULL.md
-  last_saved_player_turn: "- quanto me paga para concertar isso?"
-  last_saved_dm_turn: "[138] MESTRE — oferta de 3 PO pelo reparo do mecanismo, aguardando aceitação."
+  last_saved_player_turn: "- até o anoitecer... 5 PO, isso vai dá trabalho e acho que sou sua última esperança para hoje\nRole persuasão"
+  last_saved_dm_turn: "[140] MESTRE — Persuasão 24, oferta 5 PO antes do anoitecer; investigação solicitada."
 notes:
   - "Primeira resposta de cena será salva literalmente e sem revelar preparativos de dm."
   - "Nunca tratar a aprovação da ficha como XP, nem mudar recursos automaticamente."
