@@ -6052,3 +6052,51 @@ O riacho corre atrás de você, enquanto a floresta se estende montanha acima.
 - **Inventário novo:** Materiais do corço e uma flecha danificada. Nenhuma carne entregue ou material salgado ainda.
 
 **GitHub:** transcrição, dados, ficha, cronologia e estado atualizados; commits confirmados.
+
+## [229] JOGADOR
+
+Guardo a flecha quebrada ainda de aproveitar a pena e a ponta e vou ver a loba se ainda está na toca pode rolar percepção até lá
+
+## [230] MESTRE
+
+### Toca da loba — Dia 6, 11h25
+
+Você guarda a flecha quebrada. A ponta metálica e as penas estão em condições de serem aproveitadas na fabricação de outra flecha.
+
+Como já chegou à entrada da toca, você examina seu interior e os arredores com mais atenção.
+
+<card gap={2}>
+  <caption>Sabedoria (Percepção)</caption>
+  <row align="center">
+    <svg viewBox="0 0 100 100" size="76px">
+      <polygon points="50,4 94,29 94,73 50,97 6,73 6,29" fill="#214b86" stroke="#78a7e1" strokeWidth="2"/>
+      <path d="M50 4L23 65L94 73L50 4L77 65L6 73L50 4M6 29L77 65L50 97L23 65L94 29M23 65L77 65" fill="none" stroke="#78a7e1"/>
+      <text x="50" y="53" fontSize="26" fontWeight="bold" fill="white" textAnchor="middle">8</text>
+    </svg>
+    <box gap={1}>
+      <title size="2xl">15</title>
+      `1d20+7` → [8] + 7 = **15**
+    </box>
+  </row>
+  <caption>Executado em Python com secrets.randbelow() e hash do script conferido.</caption>
+</card>
+
+Você não encontra nenhum dos animais na toca. Entretanto, percebe que algumas pegadas ainda estão bem definidas no barro e que a vegetação baixa foi recentemente amassada.
+
+As marcas seguem para o interior da floresta, na direção das encostas mais elevadas do Monte Veyra.
+
+Não há indícios visíveis de que a loba tenha sido atacada. Para tentar encontrá-la, será necessário rastrear suas pegadas.
+
+---
+
+**[LOG DE MEMÓRIA DA CAMPANHA]**
+- **Localização atual:** Toca da loba, Dia 6, 11h25.
+- **NPCs presentes e relação:** Nenhum animal avistado.
+- **Missão ativa:** Exploração voluntária.
+- **Eventos cruciais:** Toca vazia; pegadas recentes em direção às encostas. Flecha quebrada guardada para reaproveitamento.
+- **Condições:** 12/12 PV | CA 16 | 225/300 XP | 56 PO, 2 PP e 7 PC | 24 flechas | 10 rações | 5,2 kg de sal.
+- **Carga da caça:** 11 kg de carne fresca e demais materiais do corço.
+
+**Nota de auditoria:** a execução Python dos dados da caçada anterior não foi comprovada; corrigi o registro, preservando os acontecimentos. O teste atual de Percepção foi realmente executado.
+
+**GitHub:** transcrição, ficha, dados, cronologia e estado atualizados; commits confirmados.
