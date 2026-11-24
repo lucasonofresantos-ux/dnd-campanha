@@ -164,3 +164,6 @@
 
 ## Dia 3 ~17h50 — reparo da ponte concluído
 - Mecanismo funcional, detritos liberados, pressão nos pilares reduzida. Avel pagou 5 PO e reconhece competência de Eron, mas ainda não sabe seu nome. Desafio substantivo resolvido, +50 XP únicos. Avel precisa verificar estrutura e decidir sobre reabertura de trânsito; caravana não automaticamente liberada, não introduzir novo contrato sem interação. Demais relógios seguem normalmente; nenhuma conexão com arcos secretos.
+
+## Dia 3 ~17h55–19h55 — contato e caça
+- Avel conhece nome de Eron e pode deixar recados com Durnak; nenhum novo contrato. Eron saiu da ponte e caçou lebre; resolução sem interferência nos arcos principais. Reabertura da ponte ainda a cargo de Avel, nenhuma confirmação pública adicional. Loba não visitada desde a manhã nesta interação; não assumir alteração observada de condição.
