@@ -5066,3 +5066,32 @@ Ela não exige que Eron ingresse na guarda, apenas demonstra interesse em contra
 - **Condições do Jogador:** 12/12 PV, CA 16, 225/300 XP, 60 PO, 8 PP e 7 PC, 20 flechas, 3 rações. Inspiração Heroica disponível.
 
 **GitHub:** transcrição, cronologia, estado e relógios atualizados; commits confirmados.
+
+## [195] JOGADOR
+
+- pode deixar na ferraria 
+
+## [196] MESTRE
+
+### Posto da Guarda — Dia 5, 15h50
+
+— Na ferraria de Durnak, então. Combinado.
+
+Iria anota seu nome e o local de contato em um pequeno caderno.
+
+— Gosto de trabalhar com gente que procura respostas antes de sacar uma espada. Se surgir algum serviço, mandarei avisá-lo.
+
+Ela aperta a mão de Eron e começa a reunir seus equipamentos para a patrulha.
+
+Ainda restam pouco mais de duas horas até o anoitecer.
+
+---
+
+**[LOG DE MEMÓRIA DA CAMPANHA]**
+- **Localização Atual:** Posto da Guarda, Dia 5, 15h50.
+- **NPCs Presentes e Relação:** Iria Vento-Seco, confiança profissional.
+- **Linha de Missão Ativa:** Nenhuma nova missão aceita.
+- **Eventos Cruciais Ocorridos:** Ferraria de Durnak estabelecida como ponto de contato para futuros serviços da guarda.
+- **Condições do Jogador:** 12/12 PV, CA 16, 225/300 XP, 60 PO, 8 PP e 7 PC, 20 flechas, 3 rações. Inspiração Heroica disponível.
+
+**GitHub:** transcrição, cronologia, estado e relógios atualizados; commits confirmados.
