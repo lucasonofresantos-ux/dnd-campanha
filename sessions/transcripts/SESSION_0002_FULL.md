@@ -1690,3 +1690,41 @@ Eron está novamente diante da toca, carregando carne de corço, unguento e mate
 - **Condições do Jogador:** Ladino 1, **12/12 PV**, **CA 16**, **50/300 XP**, **31 PO e 1 PP**, Inspiração Heroica disponível, **18 flechas utilizáveis**. Carrega aproximadamente **10 kg de carne fresca de corço**, demais componentes crus da caça, kit de curandeiro com **10 usos**, unguento e ataduras ainda intactos, quatro rações completas e uma quase consumida, além da chave temporária do quarto 3. Sem condições ativas.
 
 **GitHub:** rolagens, XP, desarme, localização, cronologia e transcrição literal salvos; commits confirmados.
+
+## [075] JOGADOR — 2026-11-23
+
+- primeiro vai comer depois vai deixar eu dar um olhada nessa pata
+Dou para ela um bom pedaço da carne de corço e como um pouco da ração e deixo ela e os filhotes comerem
+
+## [076] MESTRE — 2026-11-23
+
+### Ravina da loba — Dia 2, aproximadamente 9h40
+
+— Primeiro vai comer, depois vai deixar eu dar uma olhada nessa pata.
+
+A loba acompanha os movimentos de Eron enquanto ele separa **um pedaço generoso de carne fresca de corço, com aproximadamente 2 kg**, e o deposita sobre uma pedra plana, perto da entrada da toca.
+
+O animal fareja o ar, aproxima-se cautelosamente e começa a comer. Pouco depois, os dois filhotes saem de entre as pedras. Um deles tenta disputar um pedaço maior, mas a mãe o afasta suavemente com o focinho e rasga a carne em porções menores, permitindo que ambos se alimentem.
+
+Enquanto isso, Eron come o restante da ração que já havia aberto no dia anterior, sem tocar nas quatro rações completas que carrega.
+
+Passados alguns minutos, a loba termina de comer e lambe o focinho. Os filhotes continuam mordiscando os últimos pedaços. Ela se deita novamente junto à entrada, mantendo os pequenos ao alcance do corpo.
+
+A pata ferida permanece estendida diante dela. A faixa improvisada está bastante suja, e a pele ao redor ainda parece inchada.
+
+Quando Eron olha na direção da ferida, a loba ergue a cabeça. Não rosna, mas acompanha atentamente seus movimentos.
+
+**Ela aceitou a comida. Isso não significa que permitirá automaticamente um novo exame.**
+
+Para tentar aproximar-se e examinar sua pata sem provocar uma reação defensiva, Eron precisa realizar um **teste de Sabedoria (Lidar com Animais) +3**.
+
+Você pode informar o resultado do seu d20 ou me autorizar a rolar.
+
+**[LOG DE MEMÓRIA DA CAMPANHA]**
+- **Localização Atual:** Entrada da toca da loba, ravina, aproximadamente às **9h55 do Dia 2**.
+- **NPCs Presentes e Relação:** Loba cinzenta ferida e dois filhotes. Aceitaram carne, mas a mãe continua selvagem e vigilante.
+- **Linha de Missão Ativa:** Examinar e tratar a pata da loba; buscar solução duradoura para os ataques às cabras de Mara. Recompensa de **12 PO pendente**.
+- **Eventos Cruciais Ocorridos:** Eron ofereceu aproximadamente **2 kg de carne de corço** à loba e aos filhotes, que comeram sem agressividade. Consumiu o restante da ração já aberta. A loba repousa com a faixa suja e a pata ainda inchada. **Teste de Lidar com Animais +3 solicitado, aguardando rolagem; exame e tratamento não realizados.**
+- **Condições do Jogador:** Ladino 1, **12/12 PV**, **CA 16**, **50/300 XP**, **31 PO e 1 PP**, Inspiração Heroica disponível, **18 flechas**. Carrega **~8 kg de carne fresca de corço**, demais materiais da caça e do coelho, **4 rações completas**, kit de curandeiro com **10 usos**, unguento e ataduras intactos, além da chave temporária do quarto 3. Sem condições ativas.
+
+**GitHub:** transcrição literal, estado, inventário e cronologia salvos em commits confirmados.
