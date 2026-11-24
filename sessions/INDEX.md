@@ -18,5 +18,5 @@
 - XP: [XP_LOG.csv](../campaign/XP_LOG.csv), regras em [PROGRESSION_XP.md](../campaign/PROGRESSION_XP.md).
 - Sessão narrativa 1: [SESSION_0002.md](SESSION_0002.md), transcrição [SESSION_0002_FULL.md](transcripts/SESSION_0002_FULL.md).
 - Isolamento: não misturar com `PRE-CHAR-HUMAN-001` (que é histórico da criação), nem com campanhas de outros personagens.
-- Transcrição [SESSION_0002_FULL.md](transcripts/SESSION_0002_FULL.md), mensagens [001]–[054]: Eron prometeu voltar à loba pela manhã com comida e unguento e pedir que evitasse cabras; retornou ~1h20 à aldeia e chegou às 17h40 ao curral de Mara Telha. Mara pergunta sobre a ameaça e teme novos ataques na noite; Eron ainda deve responder. Missão e 12PO pendentes; XP25/300, PV12/12, 19 flechas utilizáveis, 36 PO 8 PP.
+- Transcrição [SESSION_0002_FULL.md](transcripts/SESSION_0002_FULL.md), mensagens [001]–[056]: Eron relatou a Mara que encontrou loba de pata ferida por armadilha e dois filhotes, deu carne, planeja voltar amanhã; Mara hipótesa caça prejudicada e cabras como presas fáceis, pretende proteger rebanho e consultar Iria. Identificou monte mais alto como Monte Veyra e perguntou onde foi achado o laço. ~17h45, prêmio 12PO pendente, XP25/300, PV12/12, 19 flechas, 36PO8PP.
 - Planejamento secreto em `dm/` (jamais incluir em logs públicos).
