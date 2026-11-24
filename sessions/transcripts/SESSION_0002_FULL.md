@@ -5820,3 +5820,41 @@ Você está descansado e ainda no quarto, pronto para começar o sexto dia de su
 **Nota de auditoria:** as rolagens anteriores de Percepção (9 e 17) não foram executadas em Python. Corrigi o registro sem alterar os acontecimentos. Nenhuma nova rolagem foi necessária para o descanso.
 
 **GitHub:** transcrição, ficha, cronologia e estado atualizados; commits confirmados.
+
+## [221] JOGADOR
+
+Desço e pego um café da manhã com a alda
+- bom dia Alda alguma coisa boa ou ruim de novidade?
+
+## [222] MESTRE
+
+### Estalagem de Alda — Dia 6, 06h30
+
+— Bom dia, Eron! Dormiu bem?
+
+Alda coloca sobre a mesa dois ovos, pão fresco, um pedaço de queijo e uma caneca de leite quente.
+
+— De boa novidade, Mara passou aqui cedo para entregar leite. Nenhuma cabra desapareceu durante a noite. Parece que finalmente terá algum sossego.
+
+Ela se aproxima um pouco da lareira.
+
+— De ruim, o frio está aumentando. Um lenhador que chegou esta manhã comentou que já encontrou geada nas partes mais altas da serra. Se pretende subir a montanha, tome cuidado.
+
+— Fora isso, nenhum recado para você. Vai caçar novamente hoje?
+
+<card gap={2}>
+  <row>Café da manhã<spacer/>**1 PP**</row>
+  <divider/>
+  <row>Saldo disponível<spacer/>**56 PO, 2 PP e 7 PC**</row>
+</card>
+
+---
+
+**[LOG DE MEMÓRIA DA CAMPANHA]**
+- **Localização atual:** Salão da estalagem de Alda, Dia 6, 06h30.
+- **NPCs presentes e relação:** Alda Tress, amigável.
+- **Missão ativa:** Nenhum contrato; sete flechas pendentes na ferraria.
+- **Eventos cruciais:** Segundo Alda, nenhuma nova perda de cabras; relato de geada nas partes altas da serra. Nenhum recado recebido.
+- **Condições:** 12/12 PV | CA 16 | 225/300 XP | 56 PO, 2 PP e 7 PC | 25 flechas | 10 rações | 5,2 kg de sal. Inspiração Heroica disponível.
+
+**GitHub:** transcrição, ficha, cronologia e estado atualizados; commits confirmados.
