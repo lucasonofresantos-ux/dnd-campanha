@@ -1120,3 +1120,48 @@ O vento frio atravessa o curral. Mara aguarda a resposta.
 - **Condições do Jogador:** Ladino 1, **12/12 PV**, **CA 16**, **25/300 XP**, **36 PO e 8 PP**, 19 flechas utilizáveis; quatro rações intactas e uma quase consumida, pele crua de coelho parcialmente danificada e duas orelhas. Sem condições ativas.
 
 **GitHub:** transcrição integral, estado, cronologia e registros da sessão atualizados; commits confirmados.
+
+## [057] JOGADOR — 2026-11-23
+
+- sim encontrei e estava estourada pela loba, ela foi forte conseguiu se soltar, então no momento não vai pegar nada nem ninguém, agora vou dormir e amanhã de manhã tenho que conseguir unguento e bandagens, e onde posso arranjar um lugar para dormir hoje?
+
+## [058] MESTRE — 2026-11-23
+
+Mara assente quando Eron explica que encontrou a armadilha rompida.
+
+— Então pelo menos aquele laço não vai ferir mais ninguém. Mas quem colocou um pode ter colocado outros. Vou falar com Iria sobre isso.
+
+Ela fecha a tranca do curral e testa a madeira com um puxão.
+
+— Agradeço por tentar ajudar aquela loba. Só peço que não se esqueça das minhas cabras. As **12 peças de ouro** continuam reservadas para quando tivermos certeza de que o problema foi resolvido.
+
+Quando Eron pergunta onde dormir, Mara aponta para a estrada que atravessa a pequena aldeia.
+
+— Procure **Alda Tress**, no Posto de Descanso, perto da Estrada do Cascalho. Ela recebe viajantes, serve refeições e aluga camas. Pergunte a ela também onde conseguir unguento e ataduras pela manhã. Conhece melhor os comerciantes daqui do que eu.
+
+### Posto de Descanso — 17h50
+
+Uma curta caminhada leva Eron até uma construção de madeira e pedra, com luz dourada atravessando as janelas. O cheiro de ensopado e lenha queimada escapa pela porta.
+
+Lá dentro, há algumas mesas ocupadas por viajantes. Atrás de um balcão, uma mulher de cabelos grisalhos presos num coque organiza canecas de barro.
+
+Ela ergue os olhos quando Eron aparece.
+
+— Boa noite, viajante. Sou Alda. Está procurando comida, bebida ou uma cama?
+
+Ela indica uma escada ao fundo.
+
+— Tenho lugar no quarto coletivo. **Cinco peças de prata pela noite**, jantar à parte. Também posso lhe mostrar um quarto individual, se preferir mais sossego.
+
+Alda aguarda sua resposta.
+
+**O que Eron faz?**
+
+**[LOG DE MEMÓRIA DA CAMPANHA]**
+- **Localização Atual:** Posto de Descanso de Alda Tress, Pouso das Três Fontes, aproximadamente às **17h50 do Dia 1**.
+- **NPCs Presentes e Relação:** Alda Tress, anfitriã que oferece hospedagem; alguns viajantes no salão. Mara Telha permanece junto ao curral e pretende falar com Iria sobre as armadilhas.
+- **Linha de Missão Ativa:** Proteger as cabras de Mara e verificar possíveis outros laços. Recompensa de **12 PO pendente**. Amanhã Eron pretende obter unguento, ataduras e alimento para voltar à loba.
+- **Eventos Cruciais Ocorridos:** Eron confirmou a Mara que o laço encontrado estava rompido. Mara sugeriu o Posto de Descanso; Eron chegou e recebeu oferta de cama coletiva por **5 peças de prata**, com jantar cobrado separadamente, ou opção de quarto individual com preço ainda não informado. **Nenhuma hospedagem contratada, descanso realizado ou compra efetuada.**
+- **Condições do Jogador:** Ladino 1, **12/12 PV**, **CA 16**, **25/300 XP**, **36 PO e 8 PP**, 19 flechas utilizáveis. Quatro rações intactas e uma quase consumida; uma pele crua de coelho parcialmente danificada e duas orelhas. Sem condições ativas.
+
+**GitHub:** transcrição literal, cronologia e estado da campanha salvos; commits confirmados.
