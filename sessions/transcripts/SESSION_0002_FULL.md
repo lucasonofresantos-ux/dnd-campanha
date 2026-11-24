@@ -3223,3 +3223,67 @@ Caso aceite, faça um teste de **Força (Ferramentas de Ferreiro), 1d20+3**, par
 - **Condições do Jogador:** 12/12 PV, CA 16, 50/300 XP, 15 flechas, 35 PO, 2 PP e 3 PC, três rações intactas. Inspiração Heroica disponível.
 
 **GitHub:** transcrição, inventário, cronologia, estado e relógios atualizados; commits confirmados.
+
+## [131] JOGADOR
+
+- sim aceito, vamos lá
+17 natural
+
+## [132] MESTRE
+
+### Ferraria de Durnak — Dia 3, 15h40
+
+<card gap={1}>
+  <caption>Força — Ferramentas de Ferreiro</caption>
+  <title size="2xl" color="success">20</title>
+  `1d20+3` → [17] + 3 = **20**
+  <text color="success" weight="medium">Sucesso</text>
+  <caption>Dado natural informado pelo jogador.</caption>
+</card>
+
+Após algumas horas de trabalho, as quatro dobradiças estão prontas, com encaixes precisos e articulações firmes. Os vinte pregos apresentam dimensões uniformes e bom acabamento.
+
+Durnak examina as peças e balança a cabeça em aprovação.
+
+— Excelente trabalho, River. Se algum dia decidir abandonar a estrada, terá futuro numa ferraria.
+
+Ele entrega a cabeça do machado, cuja lâmina apresenta uma pequena deformação e desgaste acentuado.
+
+<card gap={2}>
+  **Progresso da encomenda**
+  <row>
+    <icon name="check-circle" color="success"/>
+    Dobradiças
+    <spacer/>
+    4/4
+  </row>
+  <row>
+    <icon name="check-circle" color="success"/>
+    Pregos
+    <spacer/>
+    20/20
+  </row>
+  <row>
+    <icon name="circle" color="secondary"/>
+    Reparo do machado
+    <spacer/>
+    0/1
+  </row>
+  <divider/>
+  **Pagamento pendente: 1 PO**
+</card>
+
+Para reparar a lâmina com precisão, faça um teste de **Destreza (Ferramentas de Ferreiro), 1d20+7**.
+
+Destreza +5 e proficiência +2.
+
+---
+
+**[LOG DE MEMÓRIA DA CAMPANHA]**
+- **Localização Atual:** Ferraria de Durnak, Dia 3, 15h40.
+- **NPCs Presentes e Relação:** Durnak Mão de Ferro, satisfeito com o trabalho.
+- **Linha de Missão Ativa:** Trabalho na ferraria, recuperação da loba e investigação dos laços.
+- **Eventos Cruciais Ocorridos:** Dobradiças e pregos concluídos; reparo do machado pendente.
+- **Condições do Jogador:** 12/12 PV, CA 16, 50/300 XP, 35 PO, 2 PP e 3 PC, 15 flechas. Inspiração Heroica disponível.
+
+**GitHub:** transcrição, rolagem, cronologia e estado atualizados; commits confirmados.
