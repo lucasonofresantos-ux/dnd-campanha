@@ -180,21 +180,21 @@ character:
 campaign_time:
   calendar_system: "Asterion, dias relativos; nenhuma era/ano formal estabelecido"
   day: 6
-  time_of_day: "aproximadamente 16h25 do Dia 6"
+  time_of_day: "aproximadamente 17h05 do Dia 6"
   season: "final do outono"
-  elapsed_game_time: "Dia6 ~16h15–16h25, exploração do corredor principal."
+  elapsed_game_time: "Dia6 ~16h25–17h05, exame do salão, drenagem e tentativa de reparo."
 location:
   continent: Asterion
   polity: "Terras Livres de Avenhar (homebrew), fora de Valdren"
   area: "entroncamento da Estrada do Cascalho, próximo ao Pouso das Três Fontes"
   nearby: "encostas arborizadas da serra cujo monte mais alto é chamado Veyra"
-  exact_position: "Entrada do ambiente amplo após corredor principal de ~35m, antes das duas colunas."
-  travel_status: "Corredor principal percorrido; depressão contornada; salão, placa e caixa ainda não examinados."
+  exact_position: "Salão de distribuição auxiliar do Monte Veyra, junto à caixa metálica."
+  travel_status: "Salão auxiliar examinado; caixa isolada com reparo pendente; escadaria ao fundo não percorrida."
 scene:
   id: OPENING-001
-  status: "awaiting_player_action_at_column_hall_day6"
+  status: "awaiting_player_action_at_auxiliary_distribution_day6"
   current_npcs_present: []
-  immediate_visible_situation: "Dia6 ~16h15–16h25: Eron autorizou Percepção e Furtividade e deixou oficina, seguiu corredor principal ~35m acompanhando canaletas. Execução efetiva container.exec: arquivo /tmp/eron_dice_roller.py, git hash-object d35af70119bf684ea055619bb10678a1c4b03bbb igual SHA conferido no GitHub; Python 1d20+7 rolls [14], kept_indices [0], modifier 7, total21; Python 1d20+9 rolls [14], kept_indices [0], modifier9, total23. Percebeu depressão de três blocos cedidos antes da entrada do ambiente amplo, canaletas inferiores expostas; contornou sem dano. Viu duas colunas quadrangulares grandes decoradas com relevos anões, teto fora do alcance da lanterna, placa inscrita junto à base de uma e caixa metálica embutida na parede junto à outra onde canaletas convergem. Ouviu gotas de água distantes à frente, nenhuma criatura detectada. Eron junto à entrada, não passou das colunas, placa e caixa não examinadas. Oficina deixada com porta aberta, armários fechados, reparo local não testado. Sem novo XP, dano, combate ou gasto adicional além da queima contínua. PV12/12 CA16 XP275/300, inspiração disponível, disco na bolsa, lanterna ~3h45 até ~20h10, 6 óleos reserva, 10 velas."
+  immediate_visible_situation: "Dia6 ~16h25–17h05: Eron autorizou testes para investigar salão, placa, gotejamento e possíveis reparos. Execução real em container.exec: script reconstruído em /tmp/eron_dice_roller.py; git hash-object d35af70119bf684ea055619bb10678a1c4b03bbb igual ao GitHub, verificado antes de executar. JSON Percepção 1d20+7 rolls [7], kept_indices [0], modifier 7,total14; Investigação com vantagem por proficiências em Investigação e ferramentas de ferreiro para diagnóstico físico 2d20kh1+6 rolls [19,17], kept_indices [0], modifier6,total25; Destreza (Ferramentas de Ferreiro) 1d20+7 rolls [4], kept_indices [0],modifier7,total11. Salão auxiliar ~18x12m com seis colunas, umidade junto à parede do fundo. Leu inscrição anã sem teste: DISTRIBUIÇÃO AUXILIAR; Vestíbulo de acesso; Oficina de manutenção; Inspeção de drenagem; Acesso ao nível inferior. Gotejamento por fissura rochosa, canaleta parcialmente obstruída; removeu sedimentos soltos, água voltou a escoar, acúmulo começa a diminuir, fissura permanece. Caixa com conexão desalinhada e pino oxidado bloqueando articulação; isolou derivação, tentou liberar pino, falhou, não removeu nem deformou encaixe, derivação permanece isolada. Sem sinais de alimentação chegando à caixa. Descobriu passagem com degraus descendentes ao fundo, não desceu; permaneceu junto à caixa. Nenhuma criatura encontrada. Sem novo XP (diagnóstico e limpeza simples; reparo ainda não resolvido), dano, combate, gasto pessoal adicional ou coleta. PV12/12 CA16 XP275/300, inspiração disponível, disco na bolsa, lanterna 3h05 até ~20h10, 6 óleos reserva, 10 velas. Planta esquemática."
   discovered_traps:
     - location: "Trilha dos Corcos, junto ao riacho"
       state: disarmed_safe_wire_left_at_tree
@@ -239,8 +239,8 @@ world:
 transcription:
   character_creation_history: sessions/transcripts/SESSION_0001_FULL.md
   narrative_session: sessions/transcripts/SESSION_0002_FULL.md
-  last_saved_player_turn: "[269] JOGADOR — segue corredor, autoriza Percepção e Furtividade."
-  last_saved_dm_turn: "[270] MESTRE — Percepção21, Furtividade23, salão avistado."
+  last_saved_player_turn: "[271] JOGADOR — autoriza investigação e reparos no salão."
+  last_saved_dm_turn: "[272] MESTRE — Percepção14, Investigação25, reparo11; drenagem desobstruída, derivação isolada."
 notes:
   - "Primeira resposta de cena será salva literalmente e sem revelar preparativos de dm."
   - "Nunca tratar a aprovação da ficha como XP, nem mudar recursos automaticamente."
