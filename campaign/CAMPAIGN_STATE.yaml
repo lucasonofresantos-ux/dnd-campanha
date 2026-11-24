@@ -189,12 +189,13 @@ location:
   area: "entroncamento da Estrada do Cascalho, próximo ao Pouso das Três Fontes"
   nearby: "encostas arborizadas da serra cujo monte mais alto é chamado Veyra"
   exact_position: "Vestíbulo interno do Monte Veyra, diante da segunda porta metálica a ~12m da entrada."
-  travel_status: "Porta externa fechada; vestíbulo examinado; porta metálica fechada, alavanca não acionada."
+  travel_status: "Portas fechadas; alavanca parcialmente movimentada, resistência mecânica; aguardando resolução."
 scene:
   id: OPENING-001
-  status: "awaiting_player_action_at_metal_door_day6"
+  status: "awaiting_athletics_or_alternative_metal_door_day6"
+  pending_check: "Força (Atletismo), 1d20+3, se prosseguir forçando; alternativa de examinar mecanismo."
   current_npcs_present: []
-  immediate_visible_situation: "Dia6 ~14h10–14h35: Eron recuperou Marca da Bigorna Velada da cavidade interna e guardou na bolsa; porta externa permaneceu fechada. Declarou investigação minuciosa e informou 19, interpretado como face natural, 1d20+6 [19]+6=25, dado do jogador aceito sem Python. Examinou todo vestíbulo acessível ~12m por ~25 min com lanterna acesa: blocos precisos sem argamassa aparente; canaletas com filetes metálicos e peças cristalinas algumas rachadas sem atividade aparente; poeira fina sem pegadas recentes identificáveis; nenhuma evidência detectada de placas de pressão, fios, disparadores ou outras passagens (não garantia absoluta). Aproximou-se da segunda porta metálica, fechada, com inscrição em Anão arcaico parcialmente compreendida por idioma conhecido: Vestíbulo de acesso. Mantenha o isolamento da entrada durante a abertura interna. Relevo montanha cercada por seis símbolos geométricos. Alavanca metálica embutida no lado direito, sinais de oxidação, provável abertura manual, sem cavidade compatível com disco. Nenhum acionamento da alavanca, entrada além da segunda porta, coleta, dano, combate ou novo XP. PV12/12 CA16 XP250/300; inspiração disponível, lanterna ~5h35 restantes de queima contínua até ~20h10, 6 óleos reserva, 10 velas, demais recursos intactos. Diagrama esquemático."
+  immediate_visible_situation: "Dia6 14h35: Eron falou sobre o vestíbulo e iniciou acionamento da alavanca. Movimento inicial de poucos centímetros, rangido metálico e som de engrenagens atrás da porta. Resistência mecânica; oxidação é hipótese plausível reconhecida pela experiência de ferreiro. Porta interna permanece fechada, sem dano confirmado ou passagem. Informado risco de danificar ao forçar. Solicitado teste Força (Atletismo) 1d20+3 (FOR+1, proficiência+2) para prosseguir com força, ou nova ação de exame com ferramentas. Aguardando escolha/dado; nenhum sorteio, nenhum recurso gasto ou XP novo, nenhum avanço temporal significativo. PV12/12 CA16 XP250/300, inspiração disponível; lanterna acesa, disco na bolsa."
   discovered_traps:
     - location: "Trilha dos Corcos, junto ao riacho"
       state: disarmed_safe_wire_left_at_tree
@@ -239,8 +240,8 @@ world:
 transcription:
   character_creation_history: sessions/transcripts/SESSION_0001_FULL.md
   narrative_session: sessions/transcripts/SESSION_0002_FULL.md
-  last_saved_player_turn: "[253] JOGADOR — recupera disco e investiga, 19 informado."
-  last_saved_dm_turn: "[254] MESTRE — Investigação 25, inscrição anã e alavanca identificadas."
+  last_saved_player_turn: "[255] JOGADOR — fala e aciona alavanca."
+  last_saved_dm_turn: "[256] MESTRE — resistência na alavanca, teste pendente."
 notes:
   - "Primeira resposta de cena será salva literalmente e sem revelar preparativos de dm."
   - "Nunca tratar a aprovação da ficha como XP, nem mudar recursos automaticamente."
