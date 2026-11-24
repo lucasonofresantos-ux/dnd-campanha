@@ -31,6 +31,8 @@
 
 - Eron pediu nova rolagem **Lidar com Animais 1d20+3 → [17]+3=20**, executada de fato com cópia do script Python do repositório e secrets.randbelow. Sentou-se de lado a ~2 m da entrada, sem bloquear saída, e permaneceu ~10 minutos. A loba inicialmente observou, depois se deitou do lado saudável, baixou cabeça nas patas e respirou mais lentamente; segue vigilante com filhotes. Um filhote espreitou e voltou. Ferimento continua inchado, sem exame direto; não se sabe se há fragmento de arame preso. Não houve toque, ataque, domesticação, comida adicional ou recompensa. Horário próximo ao meio-dia; XP permanece **0/300**.
 
+- Ainda sentado a ~2 m da entrada da toca, Eron retirou um **segundo pedaço de carne seca** da porção diária parcialmente utilizada, comeu parte e ofereceu restante à loba. A loba farejou, levantou-se com cuidado sobre as outras patas, tomou alimento e recuou ao interior, afastando filhote curioso com focinho. Não rosnou desta vez, mas protege crias e não permitiu toque ou tratamento da pata. Não houve nova rolagem, combate ou resolução do problema dos rebanhos. Passaram-se poucos minutos; XP 0/300. **Rações: 4 porções diárias intactas e 1 porção parcialmente consumida, agora mais reduzida.**
+
 ## Índices
 - Estado: `CAMPAIGN_STATE.yaml`.
 - XP: `XP_LOG.csv`.
