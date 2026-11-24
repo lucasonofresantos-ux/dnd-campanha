@@ -2330,3 +2330,49 @@ Durnak pega uma barra de ferro e a coloca sobre a bancada.
 - **Condições do Jogador:** 12/12 PV, CA 16, 50/300 XP, 32 PO, 3 PP e 3 PC. Inspiração Heroica disponível.
 
 **GitHub:** transcrição, cronologia e estado atualizados; commits confirmados.
+
+## [099] JOGADOR
+
+- tenho experiência com um pouco de tudo, mas oque precisar eu faço, e se tem algo para mim, pode me passar
+
+## [100] MESTRE
+
+### Ferraria de Durnak — Dia 2, 12h25
+
+— Gosto de gente disposta a trabalhar. Vamos ver se suas mãos confirmam suas palavras.
+
+Durnak separa algumas barras de ferro e uma ferradura antiga, que servirá de modelo.
+
+— Comece pelas seis ferraduras. Quero todas com as mesmas medidas, sem trincas e com os furos bem alinhados. Depois, passe para as enxadas. Enquanto isso, vou cuidar das ferragens da carroça.
+
+O anão disponibiliza a segunda bigorna, a forja e os materiais necessários.
+
+**Contrato de trabalho**
+- Remuneração: 1 PO ao final do expediente.
+- Horário: até as 18h.
+- Materiais fornecidos por Durnak.
+- Possibilidade de novos serviços conforme o desempenho.
+
+### Teste de fabricação
+
+<box border radius="lg" padding={3} gap={1}>
+  <caption>Força — Ferramentas de Ferreiro</caption>
+  <title size="2xl">1d20 + 3</title>
+  Força +1 · Proficiência +2
+  <caption>O resultado determinará a qualidade e a eficiência da fabricação do primeiro lote.</caption>
+</box>
+
+Eron é proficiente no ofício. O teste avaliará seu desempenho, não sua capacidade básica de trabalhar como ferreiro.
+
+**Role o d20 ou autorize minha rolagem.**
+
+---
+
+**[LOG DE MEMÓRIA DA CAMPANHA]**
+- **Localização Atual:** Ferraria de Durnak, Dia 2, 12h25.
+- **NPCs Presentes e Relação:** Durnak Mão de Ferro, empregador temporário.
+- **Linha de Missão Ativa:** Trabalho na ferraria, recuperação da loba e investigação dos laços.
+- **Eventos Cruciais Ocorridos:** Contrato de 1 PO até as 18h; fabricação de seis ferraduras pendente de teste.
+- **Condições do Jogador:** 12/12 PV, CA 16, 50/300 XP, 32 PO, 3 PP e 3 PC. Inspiração Heroica disponível.
+
+**GitHub:** transcrição, cronologia e estado atualizados; commits confirmados.
