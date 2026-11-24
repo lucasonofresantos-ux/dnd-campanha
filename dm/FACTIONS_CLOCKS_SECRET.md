@@ -167,3 +167,6 @@
 
 ## Dia 3 ~17h55–19h55 — contato e caça
 - Avel conhece nome de Eron e pode deixar recados com Durnak; nenhum novo contrato. Eron saiu da ponte e caçou lebre; resolução sem interferência nos arcos principais. Reabertura da ponte ainda a cargo de Avel, nenhuma confirmação pública adicional. Loba não visitada desde a manhã nesta interação; não assumir alteração observada de condição.
+
+## Dia 3 ~20h40 — retorno à toca
+- Loba e crias permanecem na ravina; maior parte da carne deixada pela manhã consumida, sem aferição de resíduos. Mobilidade da loba melhora aparentemente, sem exame ou confirmação de plena capacidade de caça. Reconheceu Eron após rosnado inicial; permanece selvagem. Carne da lebre ainda não entregue. Não conceder recompensa dos rebanhos sem verificação independente.
