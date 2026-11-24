@@ -64,21 +64,22 @@ character:
 campaign_time:
   calendar_system: "Asterion, dias relativos; nenhuma era/ano formal estabelecido"
   day: 1
-  time_of_day: "aproximadamente 16h20 do Dia 1, fim de tarde ainda claro"
+  time_of_day: "aproximadamente 17h40 do Dia 1, crepúsculo avançando"
   season: "final do outono"
-  elapsed_game_time: "~16h05 após retorno da caça, mais ~15min de abordagem cuidadosa, exame e curativo; ~16h20"
+  elapsed_game_time: "~16h20 despedida da loba, cerca de 1h20 de caminhada por ravina/riacho/trilha/pasto até o Pouso das Três Fontes; ~17h40"
 location:
   continent: Asterion
   polity: "Terras Livres de Avenhar (homebrew), fora de Valdren"
   area: "entroncamento da Estrada do Cascalho, próximo ao Pouso das Três Fontes"
   nearby: "encostas arborizadas da serra cujo monte mais alto é chamado Veyra"
-  exact_position: "ao lado externo da entrada da toca na ravina, junto à loba cuja pata foi tratada, filhotes ao fundo, saída desimpedida"
-  travel_status: "Eron ficou na entrada da toca, aproximou-se da loba para examinar e tratar a pata com consentimento comportamental; não entrou entre os filhotes."
+  exact_position: "junto ao curral de Mara Telha, no Pouso das Três Fontes, aldeia nas Terras Livres de Avenhar"
+  travel_status: "Eron deixou a toca e retornou pela rota conhecida à aldeia; loba e filhotes ficaram na toca no momento da partida, ações durante ausência desconhecidas"
 scene:
   id: OPENING-001
-  status: "awaiting_player_after_successful_wolf_paw_first_aid"
-  current_npcs_present: []
-  immediate_visible_situation: "Eron informou dados físicos naturais Lidar com Animais [19]+3=22 e Medicina [20]+3=23. Loba tolerou que Eron tocasse e sustentasse a pata, tensa mas sem morder; exame revelou fragmento pequeno de arame superficial junto a escoriação de constrição. Eron removeu cuidadosamente o fragmento com ferramenta fina, lavou com água do cantil e improvisou faixa com pequena tira de suas roupas de viajante; loba ganiou no momento doloroso, permitiu completar, depois farejou faixa e lambeu a mão de Eron. Ferida permanece inchada e exige cicatrização/monitoramento, sem cura instantânea ou garantia contra infecção. Correção auditável de saque anterior: pele crua parcialmente danificada e duas orelhas de coelho também foram trazidas, pois 'saquear animal' significa buscar todos os componentes úteis; não há couro curtido ou venda; falha Sobrevivência 6 ainda causou perda de carne e flecha. Desafio de assistência difícil e real foi resolvido +25 XP discricionários, sem resolver a ameaça ao rebanho (prêmio12PO não recebido). ~16h20, 12/12PV, CA16, 19flechas utilizáveis."
+  status: "awaiting_player_response_to_mara_at_corral"
+  current_npcs_present:
+    - Mara Telha
+  immediate_visible_situation: "Eron despediu-se verbalmente da loba, prometendo voltar pela manhã com comida e unguento, rever pata e ajudá-la a buscar matilha, pedindo que não atacasse cabras. A loba ouviu, ergueu focinho, permaneceu à entrada com dois filhotes (um se acomodou em seu flanco), faixa ainda na pata; não entende promessas humanas nem garantiu ficar ou não atacar rebanho. Eron percorreu ~1h20 da toca à aldeia sem novo teste ou evento especial. Às ~17h40 encontrou Mara Telha terminando de fechar cabras no curral com lanterna. Ela o reconheceu e perguntou se encontrou animais/rastros, disse temer novos ataques nesta noite. Eron ainda não respondeu ou revelou o que sabe. Missão rebanho não resolvida, recompensa 12PO pendente, XP25/300, HP12/12, sem gastos ou novas rolagens."
   combat: false
   initiative: []
   rounds: 0
@@ -97,8 +98,8 @@ world:
 transcription:
   character_creation_history: sessions/transcripts/SESSION_0001_FULL.md
   narrative_session: sessions/transcripts/SESSION_0002_FULL.md
-  last_saved_player_turn: "19 em lidar com animais para tocar na pata e examinar e se ela deixar tratar\nMedicina 20\nResultados naturais\n(Quando falo saquear um animal é ver oque consigo aproveitar para fazer dinheiro, couro, orelhas, carne... E nesse caso ferramentas de coureiro ajuda muito)"
-  last_saved_dm_turn: "[052] MESTRE — 2026-11-23; Lidar com Animais 22, Medicina 23 dados físicos, fragmento removido e curativo, saque de coelho corrigido, 25XP; transcrição salva."
+  last_saved_player_turn: "- não saia daqui até amanhã de manhã eu volto tá bom, trago comida unguento e dou mais um olhada nessa ferida, e depois disso te ajudo a achar a sua matilha, mas vê se não me come nenhuma cabra\nVou até a dona Mara"
+  last_saved_dm_turn: "[054] MESTRE — 2026-11-23; Eron promete voltar de manhã, caminha ~1h20 até Mara no curral às ~17h40; ela pergunta o que encontrou. Transcrição salva."
 notes:
   - "Primeira resposta de cena será salva literalmente e sem revelar preparativos de dm."
   - "Nunca tratar a aprovação da ficha como XP, nem mudar recursos automaticamente."
