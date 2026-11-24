@@ -229,3 +229,9 @@ Especializações do Ladino de nível 1: **Furtividade e Percepção**, dobram p
 - **Itens adquiridos:** 1 kit de curandeiro completo (**10 usos**, nenhum gasto), **1 pote de unguento suave não mágico** (não usado), **1 conjunto de ataduras limpas** (não usado). Esses materiais servem ao manejo de primeiros socorros, **não curam magicamente e não garantem prevenção de infecção**.
 - **Preço total efetivamente pago: 4 PO e 4 PP**, já incluído desconto de 20% de Artesão (preço original 5 PO e 5 PP). **Saldo passou de 35 PO 5 PP para 31 PO 1 PP**, 0 PC. Nenhum desconto extra, troca, teste ou item grátis.
 - Olma orientou limpar com água limpa, aplicar unguento fino, atadura não apertada e observar inchaço/secreção. Ainda não houve retorno à toca nem uso dos itens. XP25/300, PV12/12, CA16, Inspiração Heroica e 19 flechas inalterados.
+
+### Dia 2 ~08h05 — rastreamento de caça na Trilha dos Corços
+- Eron deixou a Casa das Ervas e procurou caça na rota para a toca da loba.
+- Três testes executados com script Python `dice_roller.py`, `secrets.randbelow`: Furtividade `1d20+9` → [18]+9=27; Percepção `1d20+7` → [19]+7=26; Sobrevivência `1d20+5` → [16]+5=21.
+- Após ~55min e seguindo rastros recentes encontrou **corço adulto vivo a ~20m** numa clareira, sem perceber Eron oculto atrás de tronco com musgo. Observou marcas de botas na lama e sulco estreito em árvore jovem perto do riacho, sem identificar origem.
+- **Nenhum disparo, abate, coleta, refeição ou tratamento realizado.** PV12/12, XP25/300, saldo31PO1PP, 19 flechas, Inspiração Heroica disponível e kit 10 usos, pomada e ataduras sem uso.
