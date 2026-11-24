@@ -6194,3 +6194,91 @@ Do lado de fora, as três sequências de pegadas convergem para uma passagem est
 - **Carga da caça:** 11 kg de carne fresca e demais materiais do corço.
 
 **GitHub:** transcrição, rolagem, cronologia e estado atualizados; commits confirmados.
+
+## [235] JOGADOR
+
+Vou salgar a carne e o couro e oque der de salgar para não estragar e vou seguir o rastro da loba, pode rolar oque precisar 
+
+## [236] MESTRE
+
+Vou resolver a conservação dos materiais e o rastreamento, descontando o sal utilizado e mantendo a Inspiração Heroica intacta.
+
+### Toca da loba — Dia 6, 11h35
+
+Você aproveita uma superfície de pedra próxima ao riacho para preparar os materiais da caçada. Utilizando suas ferramentas de coureiro, limpa a pele e acondiciona separadamente a carne e os demais materiais.
+
+O procedimento leva aproximadamente 50 minutos. Sua experiência com as ferramentas torna desnecessário um novo teste para essa tarefa rotineira.
+
+<card gap={2}>
+  **Conservação dos materiais**
+  | Material | Tratamento |
+  |---|---|
+  | 11 kg de carne | Salgada |
+  | Pele do corço | Salgada, não curtida |
+  | 2 orelhas | Salgadas |
+  | Coração e fígado | Salgados |
+  | Tendões | Separados para secagem |
+  | Ossos e galhadas | Limpos |
+  <divider/>
+  <grid columns={3}>
+    <grid-item>
+      <caption>Sal inicial</caption>
+      <title size="xl">5,2 kg</title>
+    </grid-item>
+    <grid-item>
+      <caption>Utilizado</caption>
+      <title size="xl">3 kg</title>
+    </grid-item>
+    <grid-item>
+      <caption>Restante</caption>
+      <title size="xl">2,2 kg</title>
+    </grid-item>
+  </grid>
+  <caption>A salga retarda a deterioração, mas não garante conservação indefinida. Quantidade de sal estimada para fins de jogo.</caption>
+</card>
+
+### Rastreamento — 12h25
+
+<card gap={3}>
+  {#each [["Sobrevivência — rastreamento",18,5],["Percepção — arredores",9,7]] as r}
+    <row align="center">
+      <svg viewBox="0 0 100 100" size="64px">
+        <polygon points="50,4 94,29 94,73 50,97 6,73 6,29" fill="#214b86" stroke="#78a7e1" strokeWidth="2"/>
+        <path d="M50 4L23 65L94 73L50 4L77 65L6 73L50 4M6 29L77 65L50 97L23 65L94 29M23 65L77 65" fill="none" stroke="#78a7e1"/>
+        <text x="50" y="53" fontSize="26" fontWeight="bold" fill="white" textAnchor="middle">{r[1]}</text>
+      </svg>
+      <box gap={1}>
+        <caption>{r[0]}</caption>
+        <title size="2xl">{r[1]+r[2]}</title>
+        <text>{`1d20+${r[2]} → [${r[1]}] + ${r[2]} = ${r[1]+r[2]}`}</text>
+      </box>
+    </row>
+  {/each}
+  <caption>Ambas as rolagens executadas em Python com secrets.randbelow() e hash do script do GitHub conferido.</caption>
+</card>
+
+### Encosta do Monte Veyra — 13h10
+
+Você segue as pegadas durante aproximadamente 45 minutos. Aos poucos, as árvores de folhas largas dão lugar aos pinheiros, e o terreno torna-se mais rochoso.
+
+Entre duas formações de pedra, você escuta um breve ganido.
+
+A cerca de trinta metros, avista os dois filhotes brincando entre as raízes de um pinheiro. A loba está deitada nas proximidades, junto a uma saliência rochosa que oferece proteção contra o vento.
+
+Ela ergue a cabeça, fareja o ar e olha em sua direção. Não rosna nem demonstra agressividade.
+
+Os três parecem estar bem.
+
+---
+
+**[LOG DE MEMÓRIA DA CAMPANHA]**
+- **Localização atual:** Encosta arborizada do Monte Veyra, Dia 6, 13h10.
+- **NPCs presentes e relação:** Loba e dois filhotes, a aproximadamente 30 metros; relação de confiança anterior mantida.
+- **Missão ativa:** Exploração voluntária do Veyra.
+- **Eventos cruciais:** Materiais da caça salgados; família de lobos localizada.
+- **Condições:** 12/12 PV | CA 16 | 225/300 XP | 56 PO, 2 PP e 7 PC | 24 flechas | 10 rações | 2,2 kg de sal. Inspiração Heroica disponível.
+- **Carga da caça:** 11 kg de carne salgada e demais materiais preparados. Nenhuma carne entregue aos lobos.
+
+**Auditoria:** a Investigação anterior (26) não possui execução Python comprovada; o registro foi corrigido sem alterar os acontecimentos. Os dois testes desta interação foram efetivamente executados e verificados.
+
+**GitHub:** transcrição, ficha, dados, cronologia e estado atualizados; commits confirmados.
