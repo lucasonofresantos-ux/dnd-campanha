@@ -242,3 +242,6 @@
 
 ## Dia 5 ~16h15 — provisões e ferraria
 - Eron comprou rações e sal pelo preço local com desconto de Artesão e chegou à ferraria; Durnak disponibilizou bancada até 18h. Não iniciar fabricação nem novo contrato sem ação declarada. Iria saiu com dois vigias para averiguar laços às ~16h10; ainda em deslocamento, sem apreensão ou confronto. Eron não presenciou a saída. Sem XP ou testes novos.
+
+## Dia 5 ~18h00 — fabricação parcial e patrulha
+- Eron trabalhou 105min, total 320min, 13/20 flechas prontas, 7 pendentes. Durnak fechou e autorizou retorno amanhã. Sem novos XP ou gastos. Patrulha de Iria chegou à encosta no fim da tarde e iniciou verificação dos locais descritos; resultado de eventual confronto ainda não estabelecido. Eron não presenciou. Não presumir nova hospedagem ou descanso.
