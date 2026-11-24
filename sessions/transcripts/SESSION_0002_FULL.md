@@ -881,3 +881,55 @@ Eron conseguiu abater um coelho, mas ainda precisa recolhê-lo para levá-lo à 
 - Condições do Jogador: Ladino 1, **12/12 PV**, **CA 16**, **0/300 XP**, **36 PO e 8 PP**. **19 flechas na aljava e uma disparada presa ao coelho**. Quatro porções de ração intactas e uma quase consumida; sem ferimentos ou condições.
 
 **GitHub:** rolagens, transcrição literal, cronologia, munição e estado da campanha salvos em commits confirmados.
+
+## [047] JOGADOR — 2026-11-23
+
+Saqueio o coelho e levo a carne para a loba
+Pode rolar tudo até lá 
+
+## [048] MESTRE — 2026-11-23
+
+<box border radius="lg" padding={3} gap={3}>
+  <title size="md">Rolagens — Preparo da caça e retorno</title>
+  <grid columns={2} gap={3}>
+    <grid-item>
+      <box gap={1}>
+        <text color="secondary" weight="medium" size="xs">Sobrevivência +5</text>
+        <title size="2xl" color="danger" tabularNums>6</title>
+        <caption>`1d20+5` → [1] +5</caption>
+        <text color="danger" size="sm">Falha</text>
+      </box>
+    </grid-item>
+    <grid-item>
+      <box gap={1}>
+        <text color="secondary" weight="medium" size="xs">Lidar com Animais +3</text>
+        <title size="2xl" color="success" tabularNums>23</title>
+        <caption>`1d20+3` → [20] +3</caption>
+        <text color="success" size="sm">Sucesso excepcional</text>
+      </box>
+    </grid-item>
+  </grid>
+</box>
+
+Eron atravessa a clareira e se ajoelha junto ao coelho abatido. Com a adaga, começa a retirar a pele e separar a carne, mas um corte mal colocado perfura as vísceras e contamina boa parte da carcaça. Ele consegue aproveitar apenas **alguns pedaços de carne limpa**, bem menos do que esperava. A flecha também não sai em condições de ser reutilizada.
+
+Com a carne aproveitável guardada, Eron refaz o caminho pela mata úmida. A caminhada leva pouco mais de vinte minutos. Quando alcança a ravina, a tarde já avançou: **são aproximadamente 16h05**.
+
+A loba ainda está junto à toca. Ao perceber Eron, ergue a cabeça e fareja intensamente o ar. O cheiro de carne fresca a faz se levantar. Ela observa enquanto ele deposita o alimento sobre uma pedra próxima, afastado dos filhotes.
+
+Desta vez, a loba não rosna. Aproxima-se, apanha os pedaços de carne e os leva para junto das crias. Um dos filhotes começa a puxar uma tira, enquanto a mãe permanece deitada ao lado deles, mastigando outra porção.
+
+**A loba aceitou a caça e parece mais tranquila com o retorno de Eron.** Mas a quantidade conseguida é pequena, e sua pata continua machucada. A confiança aumentou; o ferimento, porém, ainda não recebeu tratamento.
+
+Quando termina de comer, ela permanece à entrada, observando Eron. Os filhotes estão atrás dela.
+
+**O que Eron faz?**
+
+**[LOG DE MEMÓRIA DA CAMPANHA]**
+- Localização Atual: Entrada da toca na ravina, aproximadamente às 16h05 do Dia 1.
+- NPCs Presentes e Relação: Nenhum NPC humano; loba ferida e dois filhotes. A loba recebeu o alimento e está mais tranquila, mas continua protegendo as crias.
+- Linha de Missão Ativa: Investigar e resolver os ataques ao rebanho de Mara; recompensa de 12 PO ainda não recebida.
+- Eventos Cruciais Ocorridos: **Sobrevivência 1d20+5 → [1]+5=6 (falha)** no preparo do coelho; somente parte da carne foi aproveitada, e a flecha ficou inutilizável. **Lidar com Animais 1d20+3 → [20]+3=23 (sucesso)** no retorno e oferecimento da carne. A loba dividiu o alimento com os filhotes. Nenhum tratamento da pata.
+- Condições do Jogador: Ladino 1, **12/12 PV**, **CA 16**, **0/300 XP**, **36 PO e 8 PP**. **19 flechas utilizáveis**; quatro porções diárias de ração intactas e uma quase consumida. Sem dano, condições ou combate em andamento.
+
+**GitHub:** rolagens, transcrição literal, cronologia, inventário e estado atualizados; commits confirmados.
