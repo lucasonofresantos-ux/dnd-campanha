@@ -18,5 +18,5 @@
 - XP: [XP_LOG.csv](../campaign/XP_LOG.csv), regras em [PROGRESSION_XP.md](../campaign/PROGRESSION_XP.md).
 - Sessão narrativa 1: [SESSION_0002.md](SESSION_0002.md), transcrição [SESSION_0002_FULL.md](transcripts/SESSION_0002_FULL.md).
 - Isolamento: não misturar com `PRE-CHAR-HUMAN-001` (que é histórico da criação), nem com campanhas de outros personagens.
-- Transcrição [SESSION_0002_FULL.md](transcripts/SESSION_0002_FULL.md), mensagens [001]–[046]: Eron disparou arco curto de posição oculta contra coelho a 18m. Ataque com vantagem [2,10] manteve10+7=17, dano [4,3]+5=12, abatendo o animal. Carcaça e flecha alojada ainda não recolhidas. 19 flechas na aljava, XP0/300, 36 PO 8 PP, ~15h25 Dia1.
+- Transcrição [SESSION_0002_FULL.md](transcripts/SESSION_0002_FULL.md), mensagens [001]–[048]: Eron preparou coelho, Sobrevivência [1]+5=6, perdeu boa parte da carne e uma flecha inutilizável. Retornou à toca ~16h05; Lidar com Animais [20]+3=23, mãe loba aceitou carne e dividiu com filhotes. 19 flechas utilizáveis; carne toda dada, pata sem tratamento, XP0/300, 36 PO 8 PP.
 - Planejamento secreto em `dm/` (jamais incluir em logs públicos).
