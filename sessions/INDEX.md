@@ -18,5 +18,5 @@
 - XP: [XP_LOG.csv](../campaign/XP_LOG.csv), regras em [PROGRESSION_XP.md](../campaign/PROGRESSION_XP.md).
 - Sessão narrativa 1: [SESSION_0002.md](SESSION_0002.md), transcrição [SESSION_0002_FULL.md](transcripts/SESSION_0002_FULL.md).
 - Isolamento: não misturar com `PRE-CHAR-HUMAN-001` (que é histórico da criação), nem com campanhas de outros personagens.
-- Transcrição [SESSION_0002_FULL.md](transcripts/SESSION_0002_FULL.md), mensagens [001]–[048]: Eron preparou coelho, Sobrevivência [1]+5=6, perdeu boa parte da carne e uma flecha inutilizável. Retornou à toca ~16h05; Lidar com Animais [20]+3=23, mãe loba aceitou carne e dividiu com filhotes. 19 flechas utilizáveis; carne toda dada, pata sem tratamento, XP0/300, 36 PO 8 PP.
+- Transcrição [SESSION_0002_FULL.md](transcripts/SESSION_0002_FULL.md), mensagens [001]–[050]: Eron quis trabalhar a pele do coelho e reexaminar a pata; a pele foi deixada na clareira, ferramentas de Coureiro disponíveis, último teste Sobrevivência 6 já aplicado à caça. Solicitado novo Lidar com Animais +3, aguardando rolagem para aproximação da pata. ~16h05 Dia1, 19 flechas, XP0/300, 36 PO 8 PP.
 - Planejamento secreto em `dm/` (jamais incluir em logs públicos).
