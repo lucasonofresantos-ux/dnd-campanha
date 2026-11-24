@@ -212,3 +212,6 @@
 
 ## Dia 4 ~18h45 — despedida de Iria
 - Eron indicou intenção de investigar sem prometer resultado. Iria aceitou, mantém 5 PO condicionadas a evidência suficiente e saiu para iniciar ronda; ainda não concluída. Mara permanece à mesa e mantém condição de pagamento das 12 PO. Nenhum avanço automático para a manhã, descanso ou XP.
+
+## Dia 5 ~06h00–09h45 — manhã e caçada
+- Iria manteve ronda e Mara recolheu cabras; não houve nova perda durante noite Dia4–5. Mara considera satisfeita condição da recompensa de 12 PO e poderá pagar quando Eron falar com ela; Eron ainda não sabe e não recebeu. Odran passou pelo terceiro laço ao fim do Dia4, recolheu arame inerte e deixou pegadas; Eron observou sinais, não identificou autoria. Nenhum novo laço nesse trecho; não forçar descoberta ou confronto. Loba não foi atrás do rebanho, consumiu parte da carne, conseguiu capturar pequena ave perto da ravina na manhã do Dia5, sem observação direta da caça por Eron. Recuperação motora quase completa, ainda selvagem. Eron chegou com 9kg carne ainda não ofertada. Nenhum XP de rotina. Investigação continua aberta.
