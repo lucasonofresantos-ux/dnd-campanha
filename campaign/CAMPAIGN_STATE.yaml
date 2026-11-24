@@ -156,9 +156,9 @@ character:
 campaign_time:
   calendar_system: "Asterion, dias relativos; nenhuma era/ano formal estabelecido"
   day: 6
-  time_of_day: "aproximadamente 06h30 do Dia 6"
+  time_of_day: "aproximadamente 06h35 do Dia 6"
   season: "final do outono"
-  elapsed_game_time: "Dia6 ~06h15–06h30, café da manhã e conversa com Alda."
+  elapsed_game_time: "Dia6 ~06h30–06h35, conversa sobre Monte Veyra."
 location:
   continent: Asterion
   polity: "Terras Livres de Avenhar (homebrew), fora de Valdren"
@@ -170,7 +170,7 @@ scene:
   id: OPENING-001
   status: "awaiting_player_action_at_inn_day6_morning"
   current_npcs_present: ["Alda Tress"]
-  immediate_visible_situation: "Dia6 ~06h15–06h30: Eron desceu ao salão, pediu café da manhã e perguntou a Alda sobre novidades. Alda serviu dois ovos, pão fresco, queijo e leite quente por 1PP (preço local adjudicado); saldo 56PO3PP7PC→56PO2PP7PC, 10 rações intactas. Alda relatou que Mara entregou leite cedo e informou ausência de perdas de cabras na noite Dia5–6; lenhador que chegou pela manhã relatou geada nas partes altas da serra. Alda confirmou ausência de recados e perguntou se Eron caçará. Eron no salão com refeição servida, sem saída, sem nova rolagem, XP ou combate. PV12/12 CA16 XP225/300, 25 flechas, sal5,2kg, kit9/10, inspiração disponível, descanso longo concluído, chave do quarto 3 ainda em posse."
+  immediate_visible_situation: "Dia6 ~06h30–06h35: Eron informou intenção de caçar, visitar a loba e possivelmente subir o Monte Veyra, sem prazo de retorno definido. Perguntou a Alda sobre riscos. Alda confirmou nome do monte e descreveu conhecimentos locais: lenhadores conhecem partes baixas, poucos sobem além de pinheirais; ravinas, pedras soltas, declives, neblina, geada e risco de orientação; lobos e relatos não confirmados de ursos em áreas menos frequentadas. Não conhece quem tenha explorado todo o monte nem garante abrigos preparados. Aconselhou manta grossa, corda, alimentos e procurar abrigo antes do escuro. Perguntou se Eron deseja deixar recado. Eron ainda no salão, sem partida, compra, rolagem, XP ou gasto. Recursos inalterados: PV12/12 CA16 XP225/300, 56PO2PP7PC, 25 flechas, 10 rações, 5,2kg sal, inspiração disponível. Chave do quarto ainda em posse."
   discovered_traps:
     - location: "Trilha dos Corcos, junto ao riacho"
       state: disarmed_safe_wire_left_at_tree
@@ -214,8 +214,8 @@ world:
 transcription:
   character_creation_history: sessions/transcripts/SESSION_0001_FULL.md
   narrative_session: sessions/transcripts/SESSION_0002_FULL.md
-  last_saved_player_turn: "[221] JOGADOR — pede café e notícias."
-  last_saved_dm_turn: "[222] MESTRE — café servido e novidades locais."
+  last_saved_player_turn: "[223] JOGADOR — intenções de caça, visita e exploração; pergunta sobre Veyra."
+  last_saved_dm_turn: "[224] MESTRE — Alda informa riscos naturais e pergunta sobre recados."
 notes:
   - "Primeira resposta de cena será salva literalmente e sem revelar preparativos de dm."
   - "Nunca tratar a aprovação da ficha como XP, nem mudar recursos automaticamente."
