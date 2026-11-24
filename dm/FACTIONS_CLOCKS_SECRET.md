@@ -185,3 +185,6 @@
 
 ## Dia 4 ~09h15 — contato voluntário
 - Ambos os filhotes aceitaram carinho espontaneamente; mãe relaxada e atenta. Confiança reforçada sem domesticação, obediência ou adoção. Nenhum teste ou XP adicional. Relógios anteriores mantidos.
+
+## Dia 4 ~09h15–11h00 — retorno ao povoado
+- Eron deixa loba e crias na ravina, alimento já entregue. Não presumir que permanecerão indefinidamente. Reabertura da ponte confirmada publicamente por Durnak; circulação de carroças retomada. Comércio de materiais de caça concluído, miúdos da lebre rejeitados por falta de conservação. Durnak oferece serviço rotineiro em duas rodas e seis cravos, 1PO5PP, ainda não contratado. Nenhum novo XP. Recompensa dos rebanhos continua pendente de confirmação.
