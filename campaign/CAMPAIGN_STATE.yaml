@@ -68,9 +68,9 @@ location:
   travel_status: "retornou da clareira trazendo poucos pedaços de carne limpa, deixou sobre pedra para a loba; não tocou na pata"
 scene:
   id: OPENING-001
-  status: "awaiting_player_action_after_rabbit_meat_delivered"
+  status: "awaiting_player_animal_handling_roll_to_touch_wolf_paw"
   current_npcs_present: []
-  immediate_visible_situation: "Eron preparou coelho com adaga: Sobrevivência 1d20+5 [1]+5=6, falhou e contaminou grande parte da carcaça, aproveitando poucos pedaços de carne. Flecha removida danificada e inutilizável (19 flechas restantes utilizáveis). Fez o caminho de volta (~25min) após ~15min de preparo, chegou à toca ~16h05. Lidar com Animais 1d20+3 [20]+3=23, sucesso no oferecimento da caça: colocou carne em pedra afastada das crias, loba não rosnou e levou para dividir com dois filhotes. Nenhuma carne de coelho ficou com Eron. Pata da loba ainda ferida/sem tratamento, não se resolveu fome durável/rebanho, nenhum dano, XP0/300 e rações pessoais inalteradas."
+  immediate_visible_situation: "~16h05. Eron declarou querer usar ferramentas de coureiro na pele do coelho e reaproveitar a última rolagem Sobrevivência para examinar a pata da loba. Mestre verificou que ele tem ferramentas e proficiência em Coureiro, mas trouxe só carne ao voltar da clareira; pele recém-retirada ficou no local de abate e não está em seu inventário, ~25min a pé; pode tentar recuperar posteriormente, requer conservação antes de trabalhar. Rolagem anterior Sobrevivência [1]+5=6 já aplicada ao preparo, não reutilizável. Eron se agachou fora da toca e observou a pata sem tocar; loba ergue cabeça e acompanha mãos sem rosnar, mas mantém pata recolhida. Ainda inchaço/ferida e brilho de possível arame. Pediu-se novo Lidar com Animais 1d20+3 para saber se permitirá manipulação, AGUARDANDO jogador rolar. Se sucesso, Medicina +3 para examinar. Sem novas rolagens, dano, gasto, XP ou passagem de tempo relevante."
   combat: false
   initiative: []
   rounds: 0
@@ -89,8 +89,8 @@ world:
 transcription:
   character_creation_history: sessions/transcripts/SESSION_0001_FULL.md
   narrative_session: sessions/transcripts/SESSION_0002_FULL.md
-  last_saved_player_turn: "Saqueio o coelho e levo a carne para a loba\nPode rolar tudo até lá "
-  last_saved_dm_turn: "[048] MESTRE — 2026-11-23; Sobrevivência [1]+5=6, pouca carne; Lidar com Animais [20]+3=23, carne entregue à loba e crias; 16h05, transcrição salva"
+  last_saved_player_turn: "Ferramentas de coureiro para o couro do coelho\nE aproveito a última sobrevivência para dar mais um olhada na pata e ver se a loba deixa eu examinar "
+  last_saved_dm_turn: "[050] MESTRE — 2026-11-23; pele do coelho não trazida, ferramentas de coureiro disponíveis, teste anterior Sobrevivência já consumido; novo Lidar com Animais +3 solicitado e aguardando jogador."
 notes:
   - "Primeira resposta de cena será salva literalmente e sem revelar preparativos de dm."
   - "Nunca tratar a aprovação da ficha como XP, nem mudar recursos automaticamente."
