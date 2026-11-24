@@ -29,7 +29,7 @@ character:
   speed_ft: 30
   conditions: []
   exhaustion: 0
-  heroic_inspiration: false
+  heroic_inspiration: true
   hit_dice_available: "1d8"
   money:
     gold: 35
@@ -55,7 +55,9 @@ character:
     cost_gold: 1
     cost_silver: 3
     temporary_room_key: "chave de ferro do quarto 3, deverá ser devolvida ao encerrar hospedagem"
-    long_rest_started: false
+    long_rest_started: true
+    long_rest_completed: true
+    rest_completion: "Dia2 ~06h30"
   rations:
     starting_full_days: 5
     intact_full_days: 4
@@ -72,22 +74,23 @@ character:
   animal_handling_last: "1d20+3 → [19]+3=22; sétimo teste, dado físico, loba permitiu Eron tocar e sustentar pata ferida para os primeiros socorros."
 campaign_time:
   calendar_system: "Asterion, dias relativos; nenhuma era/ano formal estabelecido"
-  day: 1
-  time_of_day: "aproximadamente 18h25 do Dia 1, início da noite"
+  day: 2
+  time_of_day: "aproximadamente 07h do Dia 2"
   season: "final do outono"
-  elapsed_game_time: "~17h55 pagamento quarto e jantar, ~25min para servir e consumir jantar observando salão, alguns minutos para subir; ~18h25"
+  elapsed_game_time: "Dia1 ~18h25 Eron trancou quarto, lavou-se com agua da bacia, dormiu ~19h15-06h30; descanso longo concluido; Dia2 ~07h chegou a Olma"
 location:
   continent: Asterion
   polity: "Terras Livres de Avenhar (homebrew), fora de Valdren"
   area: "entroncamento da Estrada do Cascalho, próximo ao Pouso das Três Fontes"
   nearby: "encostas arborizadas da serra cujo monte mais alto é chamado Veyra"
-  exact_position: "Quarto individual nº 3, andar superior do Posto de Descanso de Alda Tress no Pouso das Três Fontes"
-  travel_status: "Eron pagou e consumiu jantar no salão, observou frequentadores, recebeu chave do quarto 3 e subiu; ainda NÃO iniciou descanso longo"
+  exact_position: "entrada da Casa das Ervas de Olma Ramo, perto da segunda fonte no Pouso das Tres Fontes"
+  travel_status: "Eron saiu do quarto 3 depois do descanso longo, passou pelos currais e seguiu até Olma; chave temporaria ainda em posse, nenhum novo gasto"
 scene:
   id: OPENING-001
-  status: "awaiting_player_action_in_private_room_before_sleep"
-  current_npcs_present: []
-  immediate_visible_situation: "Eron pagou a Alda 1PO e 3PP pelo quarto individual e jantar, novo saldo 35PO5PP, recebeu chave de ferro para quarto 3. Comeu ensopado de carne com legumes, pão e chá quente no salão (nenhuma ração de viagem gasta). Percepção rolada de fato em Python dice_roller.py secrets.randbelow: 1d20+7 → [17]+7=24, sucesso. Pela janela reconheceu Iria Vento-Seco com arco e lanterna caminhando em direção aos currais (não presenciou conversa com Mara nem vigia já estabelecida). Ouviu dois trabalhadores não identificados murmurarem que laços não são novidade perto do riacho e quem os arma pode ter problemas; nenhum deles comprovadamente responsável. Após terminar jantar subiu por volta de 18h25 ao quarto individual nº 3, cama de madeira com colchão de palha e cobertor, bacia d'água, cadeira e janela para aldeia; porta tem tranca simples e Eron está com chave. Está sozinho e livre para agir; descanso longo não começou. 12/12PV, XP25/300, 19flechas; sem nova compra ou uso de kit."
+  status: "awaiting_player_response_to_olma_about_wound"
+  current_npcs_present:
+    - Olma Ramo
+  immediate_visible_situation: "Eron trancou porta do quarto 3, fez banho simples usando agua da bacia e completou descanso longo de ~19h15 Dia1 a ~06h30 Dia2; mantem PV12/12 e 1d8 de vida, recebeu Inspiracao Heroica pela caracteristica humana Engenhoso. Pediu rolagem de Percepcao no caminho para Olma: Python secrets.randbelow deu d20[11]+7=18. Viu Iria, arco as costas e aparencia cansada, conversando com Mara perto dos currais; cabras recolhidas, sem tumulto aparente, nao ouviu conversa e nao verificou se houve ataques. ~07h chegou a Casa das Ervas, perto da segunda fonte, placa com folhas e raizes, Olma Ramo organiza frascos e pergunta se o remedio e para ele ou outra pessoa. Nenhuma compra, moeda ou racao gasta, ainda nao falou com Olma. XP25/300, saldo35PO5PP, 19 flechas."
   combat: false
   initiative: []
   rounds: 0
@@ -106,8 +109,8 @@ world:
 transcription:
   character_creation_history: sessions/transcripts/SESSION_0001_FULL.md
   narrative_session: sessions/transcripts/SESSION_0002_FULL.md
-  last_saved_player_turn: "- Vou querer o quarto e a janta, aqui o pagamento, vou comer e subir\nPode rolar percepção para o jantar"
-  last_saved_dm_turn: "[062] MESTRE — 2026-11-23; Eron pagou 1PO3PP, jantou, Percepção [17]+7=24, viu Iria e ouviu rumor de laços, subiu ao quarto 3 sem iniciar descanso; transcrição salva."
+  last_saved_player_turn: "Tranco a porta tomo um banho e me levanto cedo para ir até a olma ramos, e rolê percepção para o caminho até lá"
+  last_saved_dm_turn: "[064] MESTRE — 2026-11-23; banho de bacia, descanso longo Dia2 e Inspiracao Heroica, Percepcao d20[11]+7=18 no caminho, Olma recebe Eron ~07h; transcricao salva."
 notes:
   - "Primeira resposta de cena será salva literalmente e sem revelar preparativos de dm."
   - "Nunca tratar a aprovação da ficha como XP, nem mudar recursos automaticamente."
