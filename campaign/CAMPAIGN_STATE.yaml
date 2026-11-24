@@ -63,9 +63,9 @@ location:
   travel_status: "Eron permaneceu no local até aproximadamente 15h, descansando, almoçando e dividindo ração sem acender fogo; não entrou na toca nem tocou loba/filhotes"
 scene:
   id: OPENING-001
-  status: awaiting_player_action_after_animal_handling_15
+  status: awaiting_player_action_after_verbal_warning_to_wolf
   current_npcs_present: []
-  immediate_visible_situation: "Às ~15h, Eron pediu terceiro Lidar com Animais +3 (sem declarar nova aproximação): resultado real Python [12] +3 = 15, sucesso moderado para avaliar tolerância atual. Ele movimentou as mãos devagar de onde estava; loba ergueu as orelhas e acompanhou, mas não rosnou nem se levantou. Quando filhote mexeu, voltou atenção imediatamente à cria. Ainda tolera presença de Eron, mas não permite automaticamente toque ou tratamento; Eron permanece a ~2m da entrada, não avançou. Rações 4 intactas e 1 aberta muito consumida, sem novos gastos, XP 0, combate não iniciado."
+  immediate_visible_situation: "Às ~15h, Eron permanece sentado a ~2m da entrada e falou à loba que o ferimento poderia lhe custar a pata/vida e ameaçar a sobrevivência dos filhotes. Loba reconhece o tom, não a semântica, ergueu cabeça, olhou Eron e acomodou um filhote com o focinho. Mudou peso corporal, estendeu a pata machucada sobre folhas; houve pequeno tremor. Não rosnou, mas não se aproximou nem ofereceu deliberadamente a pata, portanto contato e tratamento ainda incertos. Nenhuma nova rolagem, deslocamento, toque, cura, XP, gasto ou tempo significativo."
   combat: false
   initiative: []
   rounds: 0
@@ -84,8 +84,8 @@ world:
 transcription:
   character_creation_history: sessions/transcripts/SESSION_0001_FULL.md
   narrative_session: sessions/transcripts/SESSION_0002_FULL.md
-  last_saved_player_turn: "Role lidar com animais "
-  last_saved_dm_turn: "[032] MESTRE — 2026-11-23; novo Lidar com Animais [12]+3=15, loba tolera gestos lentos sem permitir toque, transcrição salva"
+  last_saved_player_turn: "- se não cuidar dessa para logo, você pode perder ela e vai morrer, aí quem cuida dos filhotes?"
+  last_saved_dm_turn: "[034] MESTRE — 2026-11-23; Eron adverte verbalmente, loba repousiciona pata, sem toque, transcrição salva"
 notes:
   - "Primeira resposta de cena será salva literalmente e sem revelar preparativos de dm."
   - "Nunca tratar a aprovação da ficha como XP, nem mudar recursos automaticamente."
