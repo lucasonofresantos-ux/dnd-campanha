@@ -93,3 +93,5 @@
 - XP: `XP_LOG.csv`.
 - Registro literal da criação de personagem: `../sessions/transcripts/SESSION_0001_FULL.md`.
 - Registro literal da sessão 1 narrativa: `../sessions/transcripts/SESSION_0002_FULL.md`.
+
+- **Dia 2 ~11h55: Eron aceitou 9 PP e negociou um saco de sal adicional para conservar futuras peles. Persuasão 1d20+4 → [14]+4=18, sucesso. Belda Cortiça entregou 9 PP e um saco de tecido com ~1 kg de sal; recolheu as duas peles, duas hastes de galhada, feixe de tendões e dois ossos longos. Saldo 32 PO, 0 PP, 0 PC. Permanecem duas orelhas de coelho, coração e fígado crus de corço; Belda indicou o açougueiro. Sem XP novo, dano ou outros gastos.**
