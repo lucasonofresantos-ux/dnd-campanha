@@ -5039,3 +5039,30 @@ Iria enrola o pergaminho e o guarda numa gaveta.
 - **Condições do Jogador:** 12/12 PV, CA 16, 225/300 XP, 60 PO, 8 PP e 7 PC, 20 flechas, 3 rações. Inspiração Heroica disponível.
 
 **GitHub:** transcrição, cronologia, estado e relógios atualizados; commits confirmados.
+
+## [193] JOGADOR
+
+- um pouco mas tenho
+
+## [194] MESTRE
+
+### Posto da Guarda — Dia 5, 15h45
+
+— Pois essa experiência pode ser bastante útil por aqui.
+
+Iria encosta-se à mesa e cruza os braços.
+
+— Caso apareça algum serviço de investigação, gostaria de poder contar com você. Como prefere que eu o encontre? Posso deixar recado na estalagem ou na ferraria de Durnak?
+
+Ela não exige que Eron ingresse na guarda, apenas demonstra interesse em contratá-lo futuramente.
+
+---
+
+**[LOG DE MEMÓRIA DA CAMPANHA]**
+- **Localização Atual:** Posto da Guarda, Dia 5, 15h45.
+- **NPCs Presentes e Relação:** Iria Vento-Seco, confiança profissional.
+- **Linha de Missão Ativa:** Nenhuma nova missão aceita.
+- **Eventos Cruciais Ocorridos:** Possibilidade de futuros serviços de investigação.
+- **Condições do Jogador:** 12/12 PV, CA 16, 225/300 XP, 60 PO, 8 PP e 7 PC, 20 flechas, 3 rações. Inspiração Heroica disponível.
+
+**GitHub:** transcrição, cronologia, estado e relógios atualizados; commits confirmados.
