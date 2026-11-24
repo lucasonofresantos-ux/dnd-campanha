@@ -70,3 +70,5 @@
 - Atualização: sessão 0002 até [250], Dia6 14h08; disco recuperado, entrada percorrida ~4m, rolagens Percepção 23/Furtividade 17 executadas, luz externa limitada.
 
 - Atualização: sessão 0002 até [252], Dia6 14h10; entrada fechada, lanterna acesa, segunda porta avistada; auditoria [250] corrigida.
+
+- Atualização: sessão 0002 até [254], Dia6 14h35; disco recuperado, vestíbulo examinado, Investigação 25 do jogador, inscrição anã e alavanca da porta metálica.
