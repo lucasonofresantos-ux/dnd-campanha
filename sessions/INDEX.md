@@ -18,5 +18,5 @@
 - XP: [XP_LOG.csv](../campaign/XP_LOG.csv), regras em [PROGRESSION_XP.md](../campaign/PROGRESSION_XP.md).
 - Sessão narrativa 1: [SESSION_0002.md](SESSION_0002.md), transcrição [SESSION_0002_FULL.md](transcripts/SESSION_0002_FULL.md).
 - Isolamento: não misturar com `PRE-CHAR-HUMAN-001` (que é histórico da criação), nem com campanhas de outros personagens.
-- Transcrição [SESSION_0002_FULL.md](transcripts/SESSION_0002_FULL.md), mensagens [001]–[034]: Eron advertiu verbalmente a loba sobre o ferimento e os filhotes; ela reconheceu o tom, acomodou filhote e estendeu a pata, sem convite ao toque. Ainda ~15h, sem tratamento, rolagem ou gasto; 4 rações intactas e 1 aberta, 0/300 XP, 36 PO 8 PP.
+- Transcrição [SESSION_0002_FULL.md](transcripts/SESSION_0002_FULL.md), mensagens [001]–[036]: Eron convidou loba a vir mais perto sem se aproximar dos filhotes; ela deu dois passos até pouco mais de 1m dele, exibindo ferida pequena na pata; ainda não permite toque e protege crias. ~15h, nenhum teste ou tratamento, 4 rações intactas e 1 aberta, 0/300 XP, 36 PO 8 PP.
 - Planejamento secreto em `dm/` (jamais incluir em logs públicos).
