@@ -41,6 +41,8 @@
 
 - Eron dirigiu à loba um aviso verbal de que, sem cuidar da pata, ela poderia perdê-la e morrer, deixando os filhotes. A loba não compreendeu o significado das palavras, mas reagiu ao tom familiar: ergueu a cabeça, acomodou um filhote com o focinho e voltou a estender a pata ferida sobre folhas com pequeno tremor. Sem rosnar ou oferecer deliberadamente a pata, Eron permaneceu a ~2m, sem exame ou toque; sem rolagem, tempo significativo, gastos ou XP. Ainda aproximadamente 15h Dia 1.
 
+- Eron, sentado fora da toca, chamou a loba verbalmente, esclarecendo que não iria aproximar-se dos filhotes. Loba acompanhou-o com as orelhas, olhou as crias, levantou sobre três patas e avançou dois passos cautelosos à entrada, parando a pouco mais de 1m de Eron, ainda fora de alcance confortável. Ferimento agora mostra marca funda circunferencial, pele irritada e pequena abertura; não é possível assegurar a presença ou ausência de arame residual. Sem rosnado; ela se mantém vigilante em relação aos filhotes. Nenhum contato, exame por toque, tratamento, teste, XP ou avanço temporal significativo. ~15h Dia 1.
+
 ## Índices
 - Estado: `CAMPAIGN_STATE.yaml`.
 - XP: `XP_LOG.csv`.
