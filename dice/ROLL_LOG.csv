@@ -83,3 +83,7 @@ date,campaign_id,stage,attempt,expression,six_rolls_faces_in_order,six_attribute
 2026-11-23,ERON-RIVER-ASTERION-001,correction_invalid_unexecuted_skill_check_persuasion,1,1d20+4,14,"14+4",18,false
 2026-11-23,ERON-RIVER-ASTERION-001,smith_tools_strength_player_reported,1,1d20+3,16,"16+3",19,true
 2026-11-23,ERON-RIVER-ASTERION-001,smith_tools_strength_player_reported,2,1d20+3,14,"14+3",17,true
+2026-11-24,ERON-RIVER-ASTERION-001,skill_check_perception,11,1d20+7,18,"18+7",25,true
+2026-11-24,ERON-RIVER-ASTERION-001,skill_check_stealth,8,1d20+9,17,"17+9",26,true
+2026-11-24,ERON-RIVER-ASTERION-001,skill_check_survival,6,1d20+5,13,"13+5",18,true
+2026-11-24,ERON-RIVER-ASTERION-001,ranged_attack_shortbow_advantage,3,2d20kh1+7,"4,3","4+7",11,true
