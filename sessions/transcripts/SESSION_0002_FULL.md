@@ -3786,3 +3786,130 @@ A carne da lebre foi consumida. A pele, as orelhas, os ossos e os miúdos perman
 - **Condições do Jogador:** 12/12 PV, CA 16, 100/300 XP, 41 PO, 2 PP e 3 PC, 14 flechas, 3 rações, 200 g de sal, kit de curandeiro 9/10. Inspiração Heroica disponível.
 
 **GitHub:** transcrição, inventário, cronologia, estado e relógios atualizados; commits confirmados.
+
+## [151] JOGADOR
+
+- já está melhor é que tal me ajudar a caçar hoje
+Saio para caçar até matar alguma coisa e saquear e se achar outra armadilha eu desarmo
+
+## [152] MESTRE
+
+### Ravina da loba — Dia 4, 06h10
+
+A loba acompanha Eron por alguns metros, mas, ao ouvir os filhotes choramingando, retorna à toca. Ainda não está disposta a abandonar as crias para acompanhá-lo numa caçada.
+
+**Lidar com Animais:** `1d20+3` → [5] + 3 = **8**. Falha.
+
+### Trilha dos Corços — 06h50
+
+Durante a caminhada, Eron percebe um fio metálico parcialmente escondido entre as raízes de uma árvore. É outra armadilha, diferente daquela que desarmou anteriormente.
+
+<card gap={2}>
+  <caption>Percepção</caption>
+  `1d20+7` → [9] + 7 = **16**
+  <divider/>
+  <caption>Prestidigitação com Ferramentas de Ladrão — Vantagem</caption>
+  `2d20kh1+7` → [16, 16]
+  <title size="xl" color="success">16 + 7 = 23</title>
+  **Armadilha desarmada com sucesso.**
+  <text color="success">+25 XP</text>
+</card>
+
+O arame fica solto junto à árvore, fora da passagem dos animais. Não há nenhum responsável à vista.
+
+### Caçada — 07h30
+
+Eron encontra rastros recentes de um corço macho adulto. Seguindo as pegadas, avista o animal alimentando-se entre arbustos a aproximadamente 25 metros.
+
+| Teste | Rolagem | Total |
+|---|---|---:|
+| Sobrevivência | [14] + 5 | 19 |
+| Percepção | [11] + 7 | 18 |
+| Furtividade | [18] + 9 | 27 |
+
+<card gap={2}>
+  <caption>Arco curto — Ataque com vantagem</caption>
+  <grid columns={2}>
+    <grid-item>
+      <box border radius="lg" padding={2} align="center">
+        <title size="2xl" color="secondary">~~2~~</title>
+        <caption>Descartado</caption>
+      </box>
+    </grid-item>
+    <grid-item>
+      <box border radius="lg" padding={2} align="center">
+        <title size="2xl" color="success">14</title>
+        <caption>Mantido</caption>
+      </box>
+    </grid-item>
+  </grid>
+  `2d20kh1+7`
+  <title size="xl">14 + 7 = 21</title>
+  <text color="success">Acerto</text>
+  <divider/>
+  <caption>Dano com Ataque Furtivo — 2d6+5</caption>
+  <title size="2xl">5 + 3 + 5 = 13</title>
+  **Corço abatido.**
+</card>
+
+### Saque — 08h00
+
+**Sobrevivência com Ferramentas de Coureiro:** `2d20kh1+5` → [3, 4], mantendo 4 + 5 = **9**.
+
+O aproveitamento do animal é parcial. Durante o preparo, parte da pele é danificada e alguns materiais não ficam em condições adequadas para comercialização.
+
+| Material | Quantidade |
+|---|---:|
+| Carne fresca aproveitável | 6 kg |
+| Pele crua danificada | 1 |
+| Galhadas pequenas | 2 |
+| Orelhas | 2 |
+| Ossos longos | 2 |
+
+Os miúdos e tendões não foram aproveitados.
+
+<caption>Todos os dados desta caçada foram efetivamente rolados em Python com secrets.randbelow(), utilizando o script cujo hash corresponde ao arquivo do GitHub.</caption>
+
+<card gap={2}>
+  **Eron River — Ladino nível 1**
+  <row>
+    Experiência
+    <spacer/>
+    **125/300 XP**
+  </row>
+  <box height={2} background="surface-tertiary" radius="full" clip>
+    <box height="100%" width="41.67%" background="#328456" radius="full"/>
+  </box>
+  <grid columns={2}>
+    <grid-item>
+      <caption>PV</caption>
+      <title>12/12</title>
+    </grid-item>
+    <grid-item>
+      <caption>CA</caption>
+      <title>16</title>
+    </grid-item>
+    <grid-item>
+      <caption>Flechas</caption>
+      <title>13/20</title>
+    </grid-item>
+    <grid-item>
+      <caption>Dinheiro</caption>
+      <title>41 PO, 2 PP, 3 PC</title>
+    </grid-item>
+  </grid>
+  <caption>Inspiração Heroica disponível.</caption>
+</card>
+
+Eron está na floresta, com os materiais da caça e cerca de 200 g de sal restantes. A loba e os filhotes ficaram na ravina.
+
+---
+
+**[LOG DE MEMÓRIA DA CAMPANHA]**
+- **Localização Atual:** Trilha dos Corços, Dia 4, 08h00.
+- **NPCs Presentes e Relação:** Nenhum; loba e filhotes na toca.
+- **Linha de Missão Ativa:** Recuperação da loba, proteção dos rebanhos e investigação dos laços.
+- **Eventos Cruciais Ocorridos:** Novo laço desarmado, +25 XP; corço abatido e saque parcial.
+- **Condições do Jogador:** 12/12 PV, CA 16, 125/300 XP, 41 PO, 2 PP e 3 PC, 13 flechas, 6 kg de carne de corço, materiais da caça, 3 rações e 200 g de sal. Inspiração Heroica disponível.
+
+**GitHub:** transcrição, rolagens, experiência, inventário, cronologia, estado e relógios atualizados; commits confirmados.
