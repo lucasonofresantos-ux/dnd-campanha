@@ -184,3 +184,8 @@ Especializações do Ladino de nível 1: **Furtividade e Percepção**, dobram p
 - Eron retirou outro pedaço de carne seca da **mesma porção diária já parcialmente usada**; comeu uma parte e ofereceu o restante à loba, que o consumiu.
 - **Balanço atualizado:** quatro porções diárias permanecem intactas; a quinta continua parcialmente consumida, agora mais reduzida do que antes. Não declarar porção inteira consumida nem inventar o peso do alimento.
 - Sem gasto de moedas, dano, cura, descarte de outros bens ou concessão de XP.
+
+### Almoço e espera — sessão 0002, Dia 1, aproximadamente 12h–15h
+- Eron permaneceu sentado junto à toca, sem fogueira. Almoçou pão de viagem e carne seca da **mesma porção diária anteriormente aberta**, compartilhando uma parte com a loba. Não foram abertas novas porções diárias.
+- **Restam quatro porções diárias intactas e a porção aberta, agora bastante consumida**. Quantidade e peso remanescentes da porção aberta não aferidos; não estimar consumo em libras sem medição.
+- Período sedentário de cerca de três horas, compatível com descanso curto; nenhum Dado de Vida gasto e nenhum recurso da ficha recuperado ou consumido automaticamente. PV 12/12, moedas iguais.
