@@ -137,3 +137,6 @@
 
 ## Dia 3 ~09h50 — retorno à toca
 - Loba permanece na ravina com os dois filhotes; mobilidade gradual melhorada, ainda claudica e não recuperou plena capacidade de caça. Atadura suja nas bordas, permanece no lugar; não presumir ausência de infecção. Reconhece Eron e cheiro de carne; tolerância anterior não equivale à domesticação. Carne de corça em posse de Eron, nenhuma nova oferta ou tratamento confirmado. Não conceder recompensa de Mara ou XP por simples retorno.
+
+## Dia 3 ~09h55 — alimentação
+- Dia 3 ~09h55: Eron ofereceu cerca de 2 kg de carne fresca de corça à loba, que aceitou e levou para perto dos dois filhotes. Alimentaram-se; loba deitou a pouco mais de 1 m de Eron com postura relaxada e orelhas atentas, pata com atadura suja parcialmente. Permanecem animais selvagens; nenhuma domesticação ou cura adicional. Restam ~6 kg de carne fresca em posse de Eron, demais materiais intactos. Nenhuma rolagem, XP, dano, gasto monetário ou tratamento. Alívio alimentar imediato, sem comprovar solução permanente do conflito com rebanhos.
