@@ -2600,3 +2600,65 @@ Já são aproximadamente **18h10**. A última claridade desaparece, e a escurid�
 - **Condições do Jogador:** 12/12 PV, CA 16, 50/300 XP, 33 PO, 3 PP e 3 PC, **17 flechas**, quatro rações e Inspiração Heroica disponível.
 
 **GitHub:** transcrição, rolagens, inventário, cronologia e estado atualizados; commits confirmados.
+
+[Nota editorial de auditoria: Correção auditável: as quatro faces anunciadas na tentativa anterior [106] não tiveram execução Python comprovada; são inválidas como rolagens. A cena narrada e a flecha perdida permanecem como estado provisório de continuidade, sem rerrolagem retroativa automática. A afirmação de consulta externa também não foi comprovada. O bloco final de [106] foi preparado e persistido, mas a resposta foi interrompida antes de sua entrega visível; não constitui transcrição de fala entregue.]
+
+## [107] JOGADOR
+
+Continuo caçando
+
+## [108] MESTRE
+
+Eron continua na mata após o disparo perdido. Vou considerar a escuridão e executar os novos testes de caça no Python.
+
+### Mata do Pouso — Dia 2, 19h00
+
+A escuridão toma conta da floresta. Eron continua a caçada, orientando-se principalmente pelos sons da mata e pela pouca claridade que atravessa as copas.
+
+<grid columns={3} gap={2}>
+  <grid-item>
+    <box border radius="lg" padding={2} gap={1}>
+      <caption>Percepção auditiva</caption>
+      <title size="2xl" color="success">23</title>
+      **16 + 7**
+    </box>
+  </grid-item>
+  <grid-item>
+    <box border radius="lg" padding={2} gap={1}>
+      <caption>Furtividade</caption>
+      <title size="2xl" color="danger">10</title>
+      **1 + 9**
+    </box>
+  </grid-item>
+  <grid-item>
+    <box border radius="lg" padding={2} gap={1}>
+      <caption>Sobrevivência</caption>
+      <title size="2xl">14</title>
+      **9 + 5**
+      <caption>Desvantagem: [9, 9]</caption>
+    </box>
+  </grid-item>
+</grid>
+
+<caption>Rolagens efetivamente executadas pelo script Python do repositório, utilizando secrets.randbelow().</caption>
+
+Eron identifica o movimento de uma lebre entre os arbustos. Entretanto, durante a aproximação, um galho seco estala sob sua bota. O animal dispara para dentro da vegetação antes que haja uma oportunidade clara de tiro.
+
+Ao longe, ouve-se o canto de uma coruja. A temperatura continua caindo.
+
+**Nenhuma flecha adicional foi disparada.**
+
+**O que Eron faz agora?**
+
+---
+
+**Nota de auditoria:** as rolagens da tentativa anterior não tiveram execução Python comprovada. Foram marcadas como inválidas no registro, sem alterar retroativamente a cena narrada. As três rolagens atuais foram efetivamente executadas.
+
+**[LOG DE MEMÓRIA DA CAMPANHA]**
+- **Localização Atual:** Mata próxima ao Pouso das Três Fontes, Dia 2, 19h00.
+- **NPCs Presentes e Relação:** Nenhum.
+- **Linha de Missão Ativa:** Caçada, recuperação da loba e investigação dos laços.
+- **Eventos Cruciais Ocorridos:** Lebre localizada, mas escapou antes do disparo.
+- **Condições do Jogador:** 12/12 PV, CA 16, 50/300 XP, 33 PO, 3 PP e 3 PC, 17 flechas, quatro rações e Inspiração Heroica disponível.
+
+**GitHub:** transcrição, correções de auditoria, novas rolagens, cronologia e estado atualizados; commits confirmados.
