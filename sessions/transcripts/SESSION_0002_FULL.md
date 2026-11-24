@@ -5893,3 +5893,32 @@ Alda observa seus equipamentos.
 - **Condições:** 12/12 PV | CA 16 | 225/300 XP | 56 PO, 2 PP e 7 PC | 25 flechas | 10 rações | 5,2 kg de sal. Inspiração Heroica disponível.
 
 **GitHub:** transcrição, cronologia e estado atualizados; commits confirmados.
+
+## [225] JOGADOR
+
+- se vierem me procurar anota o nome e oque quer que quando eu descer eu vejo, mas não diga para onde fui, é muito fácil mudar de caçador para caça se não souber que te procuram
+
+## [226] MESTRE
+
+### Estalagem de Alda — Dia 6, 06h35
+
+Alda fica séria por um instante e assente.
+
+— Entendo. Anotarei o nome de quem vier e o motivo da procura. Direi apenas que está ausente e que não sei quando retorna. Seu destino fica entre nós.
+
+Ela recolhe uma caneca vazia e acrescenta, em voz mais baixa:
+
+— Já hospedei muita gente nesta estrada, Eron. Aprendi que nem todo homem que procura alguém deseja encontrá-lo por bons motivos.
+
+— Pode ficar tranquilo quanto a isso. Só tome cuidado lá em cima. A montanha não perdoa os descuidados.
+
+---
+
+**[LOG DE MEMÓRIA DA CAMPANHA]**
+- **Localização atual:** Estalagem de Alda, Dia 6, 06h35.
+- **NPCs presentes e relação:** Alda Tress — amigável e discreta.
+- **Missão ativa:** Nenhum contrato; exploração do Monte Veyra em consideração.
+- **Eventos cruciais:** Alda concordou em registrar nomes e motivos de eventuais visitantes, sem revelar o destino de Eron.
+- **Condições:** 12/12 PV | CA 16 | 225/300 XP | 56 PO, 2 PP e 7 PC | 25 flechas | 10 rações | 5,2 kg de sal. Inspiração Heroica disponível.
+
+**GitHub:** transcrição, cronologia e estado atualizados; commits confirmados.
