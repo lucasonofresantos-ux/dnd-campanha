@@ -51,6 +51,8 @@
 
 - Eron disparou arco curto contra coelho selvagem que pastava a ~18 m e ainda não o percebia. Rolagem Python real com vantagem: **2d20kh1+7 → [2,10], manteve 10 +7=17**, acerto. Dano **2d6+5 → [4,3]+5=12** (1d6 arco 4, +5 DES, 1d6 Ataque Furtivo 3), abatendo o coelho. Uma flecha ficou alojada na presa; 19 restantes na aljava. Animal abatido e flecha permanecem a 18 m na clareira, não recolhidos. XP 0/300, nenhuma carne obtida em inventário, nenhum dano. ~15h25 do Dia 1.
 
+- **Dia 1, ~15h25–16h05:** Eron recolheu o coelho abatido e usou adaga para aproveitar a carne. Rolagem real Sobrevivência 1d20+5 → [1]+5=6, falha: contaminou parte grande da carne ao perfurar vísceras; restaram poucos pedaços limpos. Flecha extraída danificada/inutilizável, 19 flechas utilizáveis. Após ~15min de preparo e ~25min de retorno, chegou à toca da loba (~16h05) e entregou os pedaços sobre uma pedra próxima da entrada, mantendo-se afastado das crias. Lidar com Animais 1d20+3 → [20]+3=23, sucesso: loba aceitou sem rosnar e repartiu com dois filhotes. Nada da carne ficou no inventário. Pata ainda sem tratamento, alimento insuficiente para solução duradoura. Sem XP, gasto de rações ou dano.
+
 ## Índices
 - Estado: `CAMPAIGN_STATE.yaml`.
 - XP: `XP_LOG.csv`.
