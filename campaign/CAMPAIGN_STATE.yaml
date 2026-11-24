@@ -38,7 +38,7 @@ character:
   inventory_reference: character/ERON_RIVER_LEVEL_01.md
   carrying_all_owned_equipment: true
   carrying_weight_lb_recorded: 103.88
-  carrying_weight_note: "Peso de abertura 103,88 lb, com mudanças posteriores sem pesagem: coleta de corço +~15kg (incluindo carne); Dia2 ~09h40 entregou ~2kg de carne à loba e consumiu restante da ração parcial. Peso exato ainda não aferido; permanece abaixo da capacidade 180lb."
+  carrying_weight_note: "Peso inicial 103,88lb era referencia, com mudancas posteriores nao pesadas. Dia2 retirou ~15kg de material do corco, mas deixou ~10kg de carne ao todo com loba, retendo peles, galhadas, tendoes, ossos e miudos. Carga atual abaixo capacidade180lb; peso exato nao aferido."
   carrying_capacity_lb: 180
   known_personal_item: "Marca da Bigorna Velada, pequeno disco familiar e bolsa de couro; uso desconhecido para Eron."
   untrained_owned_tool: "Ferramentas de Funileiro (propriedade, sem proficiência)"
@@ -81,14 +81,14 @@ character:
   harvested_roe_deer:
     day: 2
     source: "Corço adulto macho abatido perto da Trilha dos Corços"
-    fresh_meat_kg_approx: 8
+    fresh_meat_kg_approx: 0
     raw_hide: "1 pele crua com pequeno furo da flecha; conservacao pendente"
     short_antler_stems: 2
     sinew_bundles: 1
     long_bones: 2
     useful_offal: "coracao e figado"
     estimated_added_weight_kg: 15
-    condition: "materiais crus embalados para transporte; comecarao a se deteriorar sem conservacao"
+    condition: "Toda carne fresca do corco, ~10kg, foi entregue a loba e filhotes: ~2kg Dia2 ~09h40, ~8kg restantes deixados junto a entrada da toca Dia2 ~10h25, expostos a deterioracao se nao consumidos. Peles/miudos/tendoes/ossos ainda nao conservados e levados ao mercado."
     preparation_result: "Sobrevivencia + Ferramentas de Coureiro com vantagem 2d20kh1+5 [1,19] mantido 19+5=24"
   animal_first_aid:
     wolf_forepaw: "Dia2 ~10h15: retira faixa improvisada suja, observa inchaço e calor mas sem pus/odor ou metal visível; bordas começam fechar. Lavada com água do cantil, aplicada 1 dose de unguento suave, coberta com atadura limpa frouxa. Loba ainda poupa membro e precisa repouso/observação, sem cura mágica."
@@ -97,21 +97,21 @@ character:
 campaign_time:
   calendar_system: "Asterion, dias relativos; nenhuma era/ano formal estabelecido"
   day: 2
-  time_of_day: "aproximadamente 10h20 do Dia 2"
+  time_of_day: "aproximadamente 11h50 da manhã do Dia 2"
   season: "final do outono"
-  elapsed_game_time: "Dia2 ~10h15–10h20: Eron falou com a loba e acariciou brevemente seu pescoço após tratamento, sem novo teste nem deslocamento"
+  elapsed_game_time: "Dia2 ~10h20-10h25 deixou ~8kg carne na toca; ~10h25-11h50 viajou de volta a Pouso das Tres Fontes com Furtividade e Percepcao altas, chegou ao mercado e recebeu cotacao de Belda Cortica"
 location:
   continent: Asterion
   polity: "Terras Livres de Avenhar (homebrew), fora de Valdren"
   area: "entroncamento da Estrada do Cascalho, próximo ao Pouso das Três Fontes"
   nearby: "encostas arborizadas da serra cujo monte mais alto é chamado Veyra"
-  exact_position: "entrada da toca da loba na ravina, ao lado da mãe e de seus dois filhotes; tratamento da pata acabado de concluir"
-  travel_status: "Eron permanece na toca da loba após alimentação e curativo; nenhum movimento de retorno à aldeia realizado"
+  exact_position: "Oficina/estande de Couros e Correias de Belda Cortiça, pequeno mercado do Pouso das Três Fontes"
+  travel_status: "Deixou toda carne restante de corço (~8kg) junto à toca e retornou à aldeia; leva peles de corço/coelho, duas hastes de galhada, feixe de tendões, dois ossos longos, coração/fígado crus e duas orelhas de coelho; nenhuma venda realizada"
 scene:
   id: OPENING-001
-  status: "awaiting_player_at_wolf_den_after_gentle_pet"
+  status: "awaiting_player_response_to_belda_offer_at_market"
   current_npcs_present: []
-  immediate_visible_situation: "Dia2 ~10h15 Eron disse à loba que levará dias para ela poder se mover melhor; prometeu retornar com comida e tratamento, pediu que ela não atacasse nenhuma cabra e que fosse para Monte Veyra após a cura. Eron acariciou delicadamente o pescoço/pelagem da loba aproveitando teste físico anterior de Lidar com Animais nat19+3=22, sem lançar novamente por ser o mesmo contato tranquilo do curativo. Loba ficou momentaneamente tensa, permitiu poucas carícias sem rosnar ou morder, depois afastou um pouco a cabeça e tornou a repousar junto aos dois filhotes; Eron respeitou o limite. A loba reconhece voz, cheiro e ações, mas NÃO compreende termos do acordo humano (cabras, visitas futuras ou migração para Monte Veyra); não prometeu nada, não tornou-se domesticada. Nada foi gasto ou consumido de novo, sem rolagens/XP adicionais; Eron ainda está na entrada da toca ~10h20, 12/12PV,50/300XP,31PO1PP,18 flechas,8kg carne corço,4 rações intactas, unguento parcialmente usado, ataduras avulsas0, kit10/10, Inspiração disponível."
+  immediate_visible_situation: "Dia2 ~10h25 Eron deixou todo o restante da carne de corço (~8kg) sobre pedra sombreada na entrada da toca para loba e filhotes, que se aproximaram para separar alimento. Total corço entregue agora ~10kg (incluindo 2kg do mesmo dia). Saiu para Pouso das Tres Fontes levando peles de corço (crua furo de flecha) e coelho (crua danificada), duas hastes de galhada, feixe de tendões, dois ossos longos, duas orelhas de coelho, coração e fígado de corço. Autorizou rolagens de caminho; Python dice_roller.py secrets.randbelow executou Furtividade 1d20+9 → [18]+9=27 e Percepção 1d20+7 → [19]+7=26. Não foi detectado por ameaça; reviu o laço do riacho desarmado e intacto sem mecanismo ativo; ouviu machadadas distantes de encosta arborizada, sem avistar lenhador ou identificar autor de laços. Após ~1h25 chegou ao mercado local do Pouso ~11h50. Conheceu Belda Cortiça, coureira que avaliou materiais CRUS e ofereceu: pele de corço 5 PP, pele danificada de coelho 5 PC, galhadas (duas hastes) 2 PP, tendões 1 PP, ossos longos (par) 5 PC, total exato 9 PP. Belda não compra orelhas de coelho nem miúdos; sugeriu açougueiro para coração/fígado ainda frescos. Oferta NÃO aceita ainda, nenhum dinheiro recebido ou material entregue. Eron está diante de Belda, que pergunta se fecham negócio. 31PO1PP, HP12/12, CA16, XP50/300, Inspiração Heroica, 18 flechas, quatro rações intactas, kit10 usos, unguento parcialmente cheio, 0 ataduras limpas avulsas, chave temporária quarto3."
   discovered_traps:
     - location: "Trilha dos Corcos, junto ao riacho"
       state: disarmed_safe_wire_left_at_tree
@@ -135,8 +135,8 @@ world:
 transcription:
   character_creation_history: sessions/transcripts/SESSION_0001_FULL.md
   narrative_session: sessions/transcripts/SESSION_0002_FULL.md
-  last_saved_player_turn: "- vai levar uns dias para pode se mover melhor, eu venho aqui trago comida e cuido da ferida e você não ataca nenhuma cabra e quando se curar vai para o Veyra \nFaço um carinho nela aproveitando o último resultado de lidar com animais"
-  last_saved_dm_turn: "[080] MESTRE — 2026-11-23; Eron fez promessa à loba e acariciou pescoço usando teste anterior de Lidar com Animais22, animal tolerou brevemente mas não entende acordo, sem recursos ou dados adicionais."
+  last_saved_player_turn: "Vou deixar o resto da carne do corso com ela e vou para a cidade ver oque consigo pelo que tirei do corso e do coelho\nPode rolar percepção e furtividade para o caminho de volta"
+  last_saved_dm_turn: "[082] MESTRE — 2026-11-23; entregou 8kg carne à loba e crias, voltou ao Pouso, Furtividade [18]+9=27, Percepção [19]+7=26, Belda Cortiça oferece 9PP por materiais crus selecionados, Eron não aceitou nem vendeu."
 notes:
   - "Primeira resposta de cena será salva literalmente e sem revelar preparativos de dm."
   - "Nunca tratar a aprovação da ficha como XP, nem mudar recursos automaticamente."
