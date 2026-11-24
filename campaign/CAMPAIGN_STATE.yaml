@@ -156,21 +156,21 @@ character:
 campaign_time:
   calendar_system: "Asterion, dias relativos; nenhuma era/ano formal estabelecido"
   day: 5
-  time_of_day: "aproximadamente 11h55 do Dia 5"
+  time_of_day: "aproximadamente 13h50 do Dia 5"
   season: "final do outono"
-  elapsed_game_time: "Dia5 ~10h05–11h55 retorno ao povoado, vendas e encerramento de contrato dos rebanhos."
+  elapsed_game_time: "Dia5 ~11h55–13h50 retorno à mata e rastreamento dos laços."
 location:
   continent: Asterion
   polity: "Terras Livres de Avenhar (homebrew), fora de Valdren"
   area: "entroncamento da Estrada do Cascalho, próximo ao Pouso das Três Fontes"
   nearby: "encostas arborizadas da serra cujo monte mais alto é chamado Veyra"
-  exact_position: "Curral de Mara Telha, Pouso das Três Fontes"
-  travel_status: "No curral após vender materiais de caça e receber recompensa."
+  exact_position: "Encosta arborizada acima da Trilha dos Corços, a cerca de 25 m de homem junto a abrigo de lenhadores"
+  travel_status: "Observando homem que prepara laço; aproximação ainda não declarada."
 scene:
   id: OPENING-001
-  status: "awaiting_player_action_after_herd_contract_resolution"
-  current_npcs_present: ["Mara Telha"]
-  immediate_visible_situation: "Dia5 ~10h05–11h55: Eron deixou a toca e retornou ao Pouso das Três Fontes. ~11h40 vendeu materiais restantes da caça do Dia5: Belda comprou pele crua de corça 5PP, feixe de tendões 1PP, dois ossos longos 5PC; Nessa comprou duas orelhas 5PC; Bram comprou coração 1PP, fígado 2PP e 4,5 kg carne fresca 9PP. Total 18PP+10PC=19PP=1PO9PP. Saldo 41PO9PP7PC passou para 43PO8PP7PC. Miúdos rejeitados da lebre antiga não vendidos, permanecem em posse, sem valor alimentar confirmado. Nenhuma rolagem ou XP por comércio. ~11h55 Eron encontrou Mara no curral e perguntou se alguma cabra virou janta. Mara confirmou três noites consecutivas sem perdas (Dia2–3, Dia3–4, Dia4–5), aceitou resolução não letal, pagou 12PO prometidas, encerrou contrato de proteção dos rebanhos e ofereceu ajuda futura não específica. Saldo final 55PO8PP7PC. +50 XP pela resolução substantiva e verificada do problema dos rebanhos, distinta dos primeiros socorros e neutralizações de laços já pontuados, não pela venda/pagamento ou mera repetição de cuidados. Total 175/300, nível1. Reputação com Mara: gratidão e respeito. Investigação opcional de Iria (5PO) permanece aberta, pegadas e arame desaparecido ainda sem autoria identificada. PV12/12 CA16, 20 flechas utilizáveis (19 na aljava e 1 reserva), 3 rações, sal200g, kit9/10, Inspiração Heroica disponível; projeto de 12 flechas pendente, 4h25 de trabalho. Nenhum novo teste."
+  status: "awaiting_player_action_near_suspected_trapper_day5"
+  current_npcs_present: ["Homem desconhecido, possível responsável pelos laços"]
+  immediate_visible_situation: "Dia5 ~11h55–13h50: Eron agradeceu Mara e partiu para investigar os laços, autorizando rolagens. ~13h15 retornou ao terceiro laço, seguiu pegadas preservadas; Sobrevivência 1d20+5 [19]+5=24, Investigação 1d20+6 [10]+6=16, Percepção 1d20+7 [12]+7=19, sucessos. Identificou falha na borda do calcanhar direito da sola, seguiu marcas encosta acima até pequeno abrigo de lenhadores. ~13h50, a cerca de 25m, avistou homem de barba grisalha, couro e lã gastos, machado à cintura e bolsa de ferramentas, agachado preparando novo laço de arame semelhante aos anteriores. Homem ainda não demonstrou notar Eron; nenhuma Furtividade rolada, ausência de detecção não garantida. Nome, cúmplices e autoria dos demais laços não confirmados ao personagem. Novo laço em preparação, não desarmado. Rolagens realmente executadas via container.exec usando script Python secrets.randbelow, hash Git conferido d35af70119bf684ea055619bb10678a1c4b03bbb; resultados do executor: [19] total24, [10] total16, [12] total19. Sem XP novo até resolução da investigação, nenhuma alteração de recursos. PV12/12 CA16, XP175/300, saldo55PO8PP7PC, 20 flechas, 3 rações, Inspiração Heroica disponível. Aguarda ação."
   discovered_traps:
     - location: "Trilha dos Corcos, junto ao riacho"
       state: disarmed_safe_wire_left_at_tree
@@ -179,6 +179,10 @@ scene:
     - location: "Trilha dos Corços, entre raízes de outra árvore"
       state: disarmed_wire_missing_on_day5_fresh_bootprints
       description: "terceiro laço encontrado, distinto do anterior; fio metálico escondido entre raízes"
+      owner_known_by_character: false
+    - location: "Próximo ao abrigo de lenhadores, encosta acima da Trilha dos Corços"
+      state: in_preparation_by_observed_man
+      description: "Novo laço semelhante aos anteriores, homem agachado preparando arame junto à árvore"
       owner_known_by_character: false
   combat: false
   initiative: []
@@ -200,8 +204,8 @@ world:
 transcription:
   character_creation_history: sessions/transcripts/SESSION_0001_FULL.md
   narrative_session: sessions/transcripts/SESSION_0002_FULL.md
-  last_saved_player_turn: "Vou para cidade vender oque cacei e depois para a Mara\n- alguma cabra virou janta ou está tudo certo?"
-  last_saved_dm_turn: "[184] MESTRE — vendas, contrato dos rebanhos concluído, pagamento 12PO e 50XP."
+  last_saved_player_turn: "- pode deixar Mara, e obrigado\nVou atrás das armadilha na mata\nPode rolar oque precisar "
+  last_saved_dm_turn: "[186] MESTRE — rastreamento e observação de suspeito junto a abrigo."
 notes:
   - "Primeira resposta de cena será salva literalmente e sem revelar preparativos de dm."
   - "Nunca tratar a aprovação da ficha como XP, nem mudar recursos automaticamente."
