@@ -161,3 +161,6 @@
 
 ## Dia 3 ~17h25 — diagnóstico da ponte
 - Eixo empenado, anel deformado e tensão da corrente diagnosticados com Investigação 25 (dado do jogador). Peças compatíveis disponíveis; reparo depende de sustentar a carga e substituição/ajuste das peças, sem garantia de sucesso. Estimativa 25 min; pagamento 5 PO condicionado à conclusão antes do anoitecer. Avel pode ajudar a sustentar a carga com recursos locais se solicitado. Sem XP até resolução substantiva.
+
+## Dia 3 ~17h50 — reparo da ponte concluído
+- Mecanismo funcional, detritos liberados, pressão nos pilares reduzida. Avel pagou 5 PO e reconhece competência de Eron, mas ainda não sabe seu nome. Desafio substantivo resolvido, +50 XP únicos. Avel precisa verificar estrutura e decidir sobre reabertura de trânsito; caravana não automaticamente liberada, não introduzir novo contrato sem interação. Demais relógios seguem normalmente; nenhuma conexão com arcos secretos.
