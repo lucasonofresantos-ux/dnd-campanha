@@ -2698,3 +2698,53 @@ Entretanto, como já avançamos para outra tentativa de caça, pela regra oficia
 - **Condições do Jogador:** 12/12 PV, 17 flechas, 50/300 XP, Inspiração Heroica disponível.
 
 **GitHub:** transcrição e estado atualizados; commits confirmados.
+
+## [113] JOGADOR
+
+Vou continuar caçando até caçar alguma coisa
+
+## [114] MESTRE
+
+Vou realizar uma nova tentativa de caça e, se algum teste falhar, deixar você decidir sobre a Inspiração Heroica antes de resolver a consequência.
+
+### Mata do Pouso — Dia 2, 19h30
+
+A lua ilumina parcialmente uma pequena clareira. Próximo a algumas raízes expostas, Eron encontra marcas recentes de animais, mas a pouca luminosidade dificulta distinguir a direção dos rastros.
+
+<card gap={2}>
+  <caption>Sobrevivência — Desvantagem pela baixa luminosidade</caption>
+  <grid columns={2}>
+    <grid-item>
+      <box border radius="lg" padding={3} align="center">
+        <title size="2xl" color="secondary">~~20~~</title>
+        <caption>Descartado</caption>
+      </box>
+    </grid-item>
+    <grid-item>
+      <box border radius="lg" padding={3} align="center">
+        <title size="2xl">6</title>
+        <caption>Mantido</caption>
+      </box>
+    </grid-item>
+  </grid>
+  <divider/>
+  <caption>2d20kl1+5</caption>
+  <title size="2xl" color="danger">6 + 5 = 11</title>
+  <text color="danger">Falha</text>
+  <caption>Rolagem executada em Python com secrets.randbelow().</caption>
+</card>
+
+Você pode gastar a **Inspiração Heroica** para rerrolar o dado de valor 6, mantendo o 20 original.
+
+**Deseja utilizar a Inspiração Heroica ou continuar caçando sem gastá-la?**
+
+---
+
+**[LOG DE MEMÓRIA DA CAMPANHA]**
+- **Localização Atual:** Clareira na mata, Dia 2, 19h30.
+- **NPCs Presentes e Relação:** Nenhum.
+- **Linha de Missão Ativa:** Caçada e recuperação da loba.
+- **Eventos Cruciais Ocorridos:** Teste de Sobrevivência 11, aguardando decisão sobre Inspiração Heroica.
+- **Condições do Jogador:** 12/12 PV, CA 16, 50/300 XP, 17 flechas, 33 PO, 3 PP e 3 PC. Inspiração Heroica disponível.
+
+**GitHub:** transcrição, rolagem, cronologia e estado atualizados; commits confirmados.
