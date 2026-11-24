@@ -4381,3 +4381,64 @@ A noite começa a cair sobre o povoado. Eron possui vinte flechas na aljava e um
 - **Condições do Jogador:** 12/12 PV, CA 16, 125/300 XP, 43 PO, 2 PP e 7 PC, 21 flechas, 3 rações. Inspiração Heroica disponível.
 
 **GitHub:** transcrição, inventário, registro do dado informado, cronologia, estado e relógios atualizados; commits confirmados.
+
+## [173] JOGADOR
+
+Vou pegar um quarto e uma janta igual a última vez e vou pagar e pode rolar percepção para ver se pego algo na taverna
+
+## [174] MESTRE
+
+### Estalagem de Alda Tress — Dia 4, 18h15
+
+— Ora, o ferreiro caçador! Vai dormir sob um teto esta noite? — pergunta Alda, sorrindo.
+
+Ela confirma que o quarto número 3 está disponível e serve novamente ensopado, pão e chá quente.
+
+<card gap={2}>
+  <row>
+    Quarto individual
+    <spacer/>
+    1 PO
+  </row>
+  <row>
+    Jantar
+    <spacer/>
+    3 PP
+  </row>
+  <divider/>
+  <row>
+    **Saldo restante**
+    <spacer/>
+    **41 PO, 9 PP e 7 PC**
+  </row>
+</card>
+
+### Percepção no salão
+
+<card gap={2}>
+  <caption>Rolagem em Python — Percepção</caption>
+  <title size="2xl">17</title>
+  `1d20+7` → [10] + 7 = **17**
+  <caption>Executada com o script de dados da campanha, utilizando secrets.randbelow().</caption>
+</card>
+
+Enquanto janta, Eron reconhece Mara Telha conversando com Iria Vento-Seco em uma mesa próxima ao balcão.
+
+— Duas noites sem perder nenhuma cabra — comenta Mara. — Mas ainda não quero soltar o rebanho tão cedo.
+
+— Continue recolhendo os animais antes de escurecer — responde Iria. — Ainda não sabemos quem anda colocando aqueles laços na floresta.
+
+O salão está menos movimentado do que nos dias anteriores. As carroças dos Mercadores do Cascalho já não estão estacionadas diante da estalagem.
+
+Mara e Iria continuam conversando, a poucos metros da mesa de Eron.
+
+---
+
+**[LOG DE MEMÓRIA DA CAMPANHA]**
+- **Localização Atual:** Salão da estalagem de Alda, Dia 4, 18h35.
+- **NPCs Presentes e Relação:** Alda Tress, Mara Telha e Iria Vento-Seco.
+- **Linha de Missão Ativa:** Proteção dos rebanhos e investigação dos laços.
+- **Eventos Cruciais Ocorridos:** Duas noites sem perdas de cabras, segundo Mara; quarto e jantar pagos.
+- **Condições do Jogador:** 12/12 PV, CA 16, 125/300 XP, 41 PO, 9 PP e 7 PC, 21 flechas, 3 rações. Inspiração Heroica disponível. Descanso longo ainda não iniciado.
+
+**GitHub:** transcrição, rolagem, inventário, cronologia, estado e relógios atualizados; commits confirmados.
