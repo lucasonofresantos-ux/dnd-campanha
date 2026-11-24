@@ -64,22 +64,23 @@ character:
 campaign_time:
   calendar_system: "Asterion, dias relativos; nenhuma era/ano formal estabelecido"
   day: 1
-  time_of_day: "aproximadamente 17h45 do Dia 1, crepúsculo"
+  time_of_day: "aproximadamente 17h50 do Dia 1, crepúsculo"
   season: "final do outono"
-  elapsed_game_time: "~17h40 chegada ao curral de Mara; ~5 minutos de conversa, horário ~17h45"
+  elapsed_game_time: "~17h45 conversa com Mara sobre laço rompido e indicação da hospedaria; caminhada breve ~5min até Posto de Descanso; ~17h50"
 location:
   continent: Asterion
   polity: "Terras Livres de Avenhar (homebrew), fora de Valdren"
   area: "entroncamento da Estrada do Cascalho, próximo ao Pouso das Três Fontes"
   nearby: "encostas arborizadas da serra cujo monte mais alto é chamado Veyra"
-  exact_position: "junto ao curral de Mara Telha, Pouso das Três Fontes, com luz de lanterna e cabras recolhidas"
-  travel_status: "Eron deixou a toca e retornou pela rota conhecida à aldeia; loba e filhotes ficaram na toca no momento da partida, ações durante ausência desconhecidas"
+  exact_position: "salão do Posto de Descanso de Alda Tress, na aldeia Pouso das Três Fontes, junto ao balcão de hospedagem"
+  travel_status: "Eron conversou com Mara e seguiu até a hospedaria de Alda Tress; ainda não contratou quarto, jantou ou descansou"
 scene:
   id: OPENING-001
-  status: "awaiting_player_reply_to_mara_on_trap_location"
+  status: "awaiting_player_lodging_choice_at_alda_tress"
   current_npcs_present:
-    - Mara Telha
-  immediate_visible_situation: "Eron contou a Mara que encontrou loba com pata ferida por armadilha e dois filhotes, caçou coelho e ofereceu alimento; acredita que ela não atacará esta noite, mas não tem certeza; planeja voltar amanhã e ajudá-la a encontrar matilha. Perguntou por que atacaria cabras havendo caça e o nome da montanha. Mara mostrou surpresa e indignação com armadilhas, inferiu plausivelmente que a pata lesionada dificulta caça de corços e torna cabras presas mais fáceis, sem declarar essa hipótese como certeza. Mara não quer matar mãe e deixar filhotes, mas quer proteger as últimas cabras; afirmou que manterá cabras fechadas e pretende pedir vigília a Iria (ainda não a encontrou). Identificou o pico principal da serra como Monte Veyra, sem qualquer conhecimento de império antigo. Perguntou a Eron se encontrou a armadilha e onde ficava. Eron ainda não respondeu; a recompensa proposta de 12PO não foi paga. Nenhum teste novo, dano, XP ou gasto, ~17h45."
+    - Alda Tress
+    - Viajantes não identificados no salão
+  immediate_visible_situation: "Eron disse a Mara que encontrou um laço rompido pela loba, incapaz de prender alguém naquele ponto, e quer dormir e amanhã buscar unguento e bandagens. Mara confirma que aquele laço não deve mais pegar ninguém, mas pode haver outros; pretende falar com Iria sobre isso (ainda não realizou). Recompensa 12PO permanece guardada até segurança verificável do rebanho. Mara indicou Posto de Descanso de Alda Tress para hospedagem e perguntou a ela por suprimentos ou indicação de vendedores. Após breve caminhada (~5min), Eron entrou no salão de madeira e pedra da hospedaria por volta de 17h50: mesas com viajantes, cheiro de ensopado, fogão, Alda Tress atrás de balcão (cabelos grisalhos coque). Alda oferece cama coletiva por 5 peças de prata por noite, jantar à parte, ou quarto individual de preço não dito. Eron ainda não escolheu, não pagou, não descansou nem comprou materiais. XP25/300; moedas36PO8PP."
   combat: false
   initiative: []
   rounds: 0
@@ -98,8 +99,8 @@ world:
 transcription:
   character_creation_history: sessions/transcripts/SESSION_0001_FULL.md
   narrative_session: sessions/transcripts/SESSION_0002_FULL.md
-  last_saved_player_turn: "- encontrei uma loba ferida na pata por uma armadilha com dois filhotes, cacei um coelho e dei para ela comer, então não acredito que vira hoje, se vier não vai ser a mesma... Vou tratar da para dela amanhã e tentar levar ela para a matilha dela, não sei por que ela atacou as cabras, tem caça na floresta, e qual o nome dessa montanha?"
-  last_saved_dm_turn: "[056] MESTRE — 2026-11-23; Mara escuta sobre loba e crias, preocupa-se com laços e rebanho, identifica Monte Veyra e pergunta por armadilha encontrada; transcrição salva."
+  last_saved_player_turn: "- sim encontrei e estava estourada pela loba, ela foi forte conseguiu se soltar, então no momento não vai pegar nada nem ninguém, agora vou dormir e amanhã de manhã tenho que conseguir unguento e bandagens, e onde posso arranjar um lugar para dormir hoje?"
+  last_saved_dm_turn: "[058] MESTRE — 2026-11-23; Mara reconhece laço rompido, indica hospedaria de Alda; Eron chegou ~17h50, cama coletiva 5 PP oferecida sem pagamento, transcrição salva."
 notes:
   - "Primeira resposta de cena será salva literalmente e sem revelar preparativos de dm."
   - "Nunca tratar a aprovação da ficha como XP, nem mudar recursos automaticamente."
