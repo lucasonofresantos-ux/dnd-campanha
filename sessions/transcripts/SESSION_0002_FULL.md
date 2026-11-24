@@ -5501,3 +5501,66 @@ Ela olha pela janela, observando a escuridão que começa a tomar conta da rua.
 **Nota de auditoria:** as duas rolagens de Percepção anteriores (16 e 20) foram registradas como executadas em Python, mas essa execução não ocorreu. Corrigi o registro de verificação, mantendo a narrativa já estabelecida. Nenhuma nova rolagem neste turno.
 
 **GitHub:** transcrição, estado e correção do registro de dados salvos; commits confirmados.
+
+## [209] JOGADOR
+
+- alda se importa de esquentar o banho quando eu voltar, quero verificar uma coisa
+Termino de comer rápido e saio
+Role furtividade, percepção e sobrevivência, vou para onde tinha falado para a cabana que vi o cara que armou as armadilhas 
+
+## [210] MESTRE
+
+Vou conferir o trajeto até a cabana e executar os três testes no script de dados da campanha, considerando a escuridão.
+
+### Estalagem de Alda — Dia 5, 18h40
+
+— Claro, Eron. Mas não demore muito. Está ficando frio lá fora.
+
+Alda recolhe os pratos enquanto você deixa a estalagem em direção à mata.
+
+### Travessia noturna pela floresta
+
+<card gap={3}>
+  {#each [{name:"Furtividade",face:15,total:24,expr:"1d20+9 → [15] + 9"},{name:"Percepção auditiva",face:13,total:20,expr:"1d20+7 → [13] + 7"},{name:"Sobrevivência — desvantagem",face:8,total:13,expr:"2d20kl1+5 → [8, 9] → 8 + 5"}] as d}
+    <row align="center">
+      <svg viewBox="0 0 100 100" size="66px">
+        <polygon points="50,4 94,29 94,73 50,97 6,73 6,29" fill="#214b86" stroke="#78a7e1" strokeWidth="2"/>
+        <path d="M50 4L23 65L94 73L50 4L77 65L6 73L50 4M6 29L77 65L50 97L23 65L94 29M23 65L77 65" fill="none" stroke="#78a7e1" strokeWidth="1.3"/>
+        <text x="50" y="53" fontSize="25" fontWeight="bold" fill="white" textAnchor="middle">{d.face}</text>
+      </svg>
+      <box gap={1}>
+        **{d.name}**
+        <title size="xl">{d.total}</title>
+        <caption>{d.expr} = {d.total}</caption>
+      </box>
+    </row>
+    {#if d.total!==13}<divider/>{/if}
+  {/each}
+  <caption>Rolagens efetivamente executadas em Python, com secrets.randbelow() e hash do script conferido. Sobrevivência com desvantagem pela dificuldade de orientação visual noturna; dado 9 descartado.</caption>
+</card>
+
+A luminosidade diminui conforme você avança entre as árvores. Guiando-se pelo relevo conhecido e pelo som do riacho, consegue refazer o percurso da tarde, embora mais lentamente. A umidade do solo ajuda a abafar seus passos.
+
+### Cabana dos lenhadores — 20h10
+
+A aproximadamente quinze metros da cabana, você percebe a luz amarelada de uma lanterna junto à porta. Escuta vozes e reconhece a de Iria.
+
+— Encontramos os laços, Odran. Não adianta dizer que não sabe onde estavam.
+
+— Eu vivo da mata, mulher. Sempre cacei por aqui!
+
+À luz da lanterna, você distingue Iria, Odran e dois vigias. Um deles segura um feixe de arames recolhidos. A discussão parece tensa, mas ninguém está com a arma desembainhada.
+
+Você permanece oculto entre as árvores. Nenhum deles demonstra ter percebido sua presença.
+
+---
+
+**[LOG DE MEMÓRIA DA CAMPANHA]**
+- **Localização atual:** Mata, a 15 metros da cabana dos lenhadores. Dia 5, 20h10.
+- **NPCs presentes:** Iria Vento-Seco, dois vigias e Odran Peça.
+- **Missão ativa:** Nenhum novo contrato; averiguação voluntária da patrulha.
+- **Eventos cruciais:** Patrulha localizada, laços recolhidos e discussão em andamento.
+- **Condições:** 12/12 PV | CA 16 | 225/300 XP | 56 PO, 3 PP e 7 PC | 25 flechas | 10 rações | 5,2 kg de sal. Inspiração Heroica disponível.
+- **Descanso longo:** Não iniciado. Quarto e banho reservados na estalagem.
+
+**GitHub:** transcrição, rolagens, cronologia e estado atualizados; commits confirmados.
