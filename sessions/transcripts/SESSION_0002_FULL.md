@@ -4729,3 +4729,98 @@ Restam 4,5 kg de carne fresca e os demais materiais da caça em seu inventário.
 - **Condições do Jogador:** 12/12 PV, CA 16, 125/300 XP, 41 PO, 9 PP e 7 PC, 20 flechas, 4,5 kg de carne, demais materiais da caça, 3 rações. Inspiração Heroica disponível.
 
 **GitHub:** transcrição, dados informados, inventário, cronologia, estado e relógios atualizados; commits confirmados.
+
+## [183] JOGADOR
+
+Vou para cidade vender oque cacei e depois para a Mara
+- alguma cabra virou janta ou está tudo certo?
+
+## [184] MESTRE
+
+### Pouso das Três Fontes — Dia 5, 11h40
+
+Eron retorna ao povoado e negocia os materiais da caçada com Belda, Nessa e Bram.
+
+| Material vendido | Valor |
+|---|---:|
+| Pele crua de corça | 5 PP |
+| Feixe de tendões | 1 PP |
+| Dois ossos longos | 5 PC |
+| Duas orelhas | 5 PC |
+| Coração | 1 PP |
+| Fígado | 2 PP |
+| 4,5 kg de carne fresca | 9 PP |
+| **Total** | **1 PO e 9 PP** |
+
+**Saldo após as vendas:** 43 PO, 8 PP e 7 PC.
+
+### Curral de Mara — 11h55
+
+Mara está distribuindo alimento às cabras quando escuta Eron. Ela ri e responde:
+
+— Nenhuma! Todas aqui, vivas e fazendo barulho como sempre. Três noites sem perder uma sequer.
+
+Ela retira uma pequena bolsa de moedas do bolso.
+
+— Cumpriu sua parte do acordo, agora cumpro a minha. Agradeço por ter resolvido o problema sem precisar matar a loba.
+
+Mara entrega as doze moedas de ouro prometidas.
+
+<card gap={3}>
+  <row>
+    <icon name="check-circle" color="success" size="xl"/>
+    <title size="lg">Missão concluída — Proteção dos rebanhos</title>
+  </row>
+  <divider/>
+  <grid columns={2}>
+    <grid-item>
+      <caption>Recompensa</caption>
+      <title size="2xl" color="success">+12 PO</title>
+    </grid-item>
+    <grid-item>
+      <caption>Experiência pela resolução da missão</caption>
+      <title size="2xl" color="success">+50 XP</title>
+    </grid-item>
+  </grid>
+  <divider/>
+  <row>
+    **Ladino — Nível 1**
+    <spacer/>
+    **175/300 XP**
+  </row>
+  <box height={3} radius="full" background="surface-tertiary" clip>
+    <box height="100%" width="58.33%" background="#328456" radius="full"/>
+  </box>
+  <caption>Faltam 125 XP para o nível 2.</caption>
+  <divider/>
+  <caption>Patrimônio em moedas</caption>
+  <grid columns={3}>
+    <grid-item>
+      <title size="2xl" color="#C49A35">55</title>
+      <caption>Ouro</caption>
+    </grid-item>
+    <grid-item>
+      <title size="2xl">8</title>
+      <caption>Prata</caption>
+    </grid-item>
+    <grid-item>
+      <title size="2xl" color="#B87333">7</title>
+      <caption>Cobre</caption>
+    </grid-item>
+  </grid>
+</card>
+
+— Se precisar de alguma coisa enquanto estiver por aqui, pode me procurar — acrescenta Mara.
+
+**Reputação com Mara:** gratidão e respeito conquistados.
+
+---
+
+**[LOG DE MEMÓRIA DA CAMPANHA]**
+- **Localização Atual:** Curral de Mara, Dia 5, 11h55.
+- **NPCs Presentes e Relação:** Mara Telha, grata e amigável.
+- **Linha de Missão Ativa:** Investigação opcional dos laços (5 PO).
+- **Eventos Cruciais Ocorridos:** Venda da caça; contrato dos rebanhos concluído; 12 PO e 50 XP recebidos.
+- **Condições do Jogador:** 12/12 PV, CA 16, 175/300 XP, 55 PO, 8 PP e 7 PC, 20 flechas, 3 rações. Inspiração Heroica disponível.
+
+**GitHub:** transcrição, inventário, experiência, cronologia, estado e relógios atualizados; commits confirmados.
