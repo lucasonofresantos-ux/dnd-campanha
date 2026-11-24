@@ -6143,3 +6143,54 @@ Para determinar se a família abandonou definitivamente a toca, quando saiu e se
 **Nota de auditoria:** a execução em Python da Percepção anterior (15) também não está comprovada. O registro foi corrigido, sem alterar a narrativa. Nenhum dado novo foi rolado neste turno.
 
 **GitHub:** transcrição, estado e auditoria atualizados; commits confirmados.
+
+## [233] JOGADOR
+
+Role Investigação para examinar a toca.
+
+## [234] MESTRE
+
+### Toca da loba — Dia 6, 11h35
+
+<card gap={2}>
+  <caption>Inteligência (Investigação)</caption>
+  <row align="center">
+    <svg viewBox="0 0 100 100" size="88px">
+      <polygon points="50,4 94,29 94,73 50,97 6,73 6,29" fill="#214b86" stroke="#e6be64" strokeWidth="2.5"/>
+      <path d="M50 4L23 65L94 73L50 4L77 65L6 73L50 4M6 29L77 65L50 97L23 65L94 29M23 65L77 65" fill="none" stroke="#93b5dd"/>
+      <text x="50" y="53" fontSize="27" fontWeight="bold" fill="white" textAnchor="middle">20</text>
+    </svg>
+    <box gap={1}>
+      <badge color="success">20 natural</badge>
+      <title size="2xl">26</title>
+      `1d20+6` → [20] + 6 = **26**
+    </box>
+  </row>
+  <caption>Rolagem executada em Python com secrets.randbelow(). Hash do script conferido.</caption>
+</card>
+
+Examinando cuidadosamente o interior da toca, você encontra três depressões entre as folhas secas: uma maior, onde a loba costumava repousar, e duas menores, próximas uma da outra.
+
+Comparando os vestígios internos com as pegadas do lado de fora, você consegue deduzir:
+
+- A família provavelmente deixou a toca durante as primeiras horas da manhã.
+- Os dois filhotes saíram caminhando junto à mãe.
+- As pegadas da loba apresentam distribuição regular, sem sinais de que voltou a mancar.
+- Não existem vestígios evidentes de invasão humana, luta ou fuga desesperada.
+- O fundo do abrigo está começando a ficar úmido devido à infiltração de água entre as rochas.
+
+Tudo indica uma partida voluntária, possivelmente em busca de alimento ou de um abrigo mais seco. Contudo, não é possível afirmar se pretendem retornar.
+
+Do lado de fora, as três sequências de pegadas convergem para uma passagem estreita entre os arbustos, seguindo montanha acima.
+
+---
+
+**[LOG DE MEMÓRIA DA CAMPANHA]**
+- **Localização atual:** Toca da loba, Monte Veyra. Dia 6, 11h35.
+- **NPCs presentes:** Nenhum animal avistado.
+- **Missão ativa:** Exploração voluntária.
+- **Eventos cruciais:** Investigação 26; indícios de partida voluntária da loba e dos dois filhotes. Rastros identificados, ainda não seguidos.
+- **Condições:** 12/12 PV | CA 16 | 225/300 XP | 56 PO, 2 PP e 7 PC | 24 flechas | 10 rações | 5,2 kg de sal. Inspiração Heroica disponível.
+- **Carga da caça:** 11 kg de carne fresca e demais materiais do corço.
+
+**GitHub:** transcrição, rolagem, cronologia e estado atualizados; commits confirmados.
