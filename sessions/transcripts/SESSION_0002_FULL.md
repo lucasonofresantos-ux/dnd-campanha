@@ -2299,3 +2299,34 @@ Ele deposita a tenaz sobre a bancada e aguarda.
 - **Condições do Jogador:** 12/12 PV, CA 16, 50/300 XP, 32 PO, 3 PP e 3 PC. Inspiração Heroica disponível.
 
 **GitHub:** transcrição, cronologia e estado atualizados; commits confirmados.
+
+## [097] JOGADOR
+
+Preciso de um trabalho
+
+## [098] MESTRE
+
+### Ferraria de Durnak — Dia 2, 12h20
+
+Durnak observa Eron de cima a baixo, demorando o olhar sobre suas ferramentas de ferreiro.
+
+— Trabalho não falta. Tenho seis ferraduras para fabricar, duas enxadas para reparar e uma carroça que precisa de novas ferragens antes de amanhã.
+
+O anão aponta para uma segunda bigorna, próxima à forja.
+
+— Se conhece o ofício, posso pagar **uma peça de ouro pelo restante da tarde, até as seis**. O ferro e o carvão são meus. Se trabalhar bem, talvez tenha serviço para você nos próximos dias.
+
+Durnak pega uma barra de ferro e a coloca sobre a bancada.
+
+— Mas antes quero saber com quem estou lidando. Tem experiência fabricando armas e armaduras ou apenas ferramentas e ferraduras?
+
+---
+
+**[LOG DE MEMÓRIA DA CAMPANHA]**
+- **Localização Atual:** Ferraria de Durnak, Pouso das Três Fontes.
+- **NPCs Presentes e Relação:** Durnak Mão de Ferro, possível empregador.
+- **Linha de Missão Ativa:** Busca de trabalho, recuperação da loba e investigação dos laços.
+- **Eventos Cruciais Ocorridos:** Oferta de trabalho de 1 PO até as 18h, ainda não aceita.
+- **Condições do Jogador:** 12/12 PV, CA 16, 50/300 XP, 32 PO, 3 PP e 3 PC. Inspiração Heroica disponível.
+
+**GitHub:** transcrição, cronologia e estado atualizados; commits confirmados.
