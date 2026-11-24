@@ -4227,3 +4227,49 @@ O restante da tarde está livre.
 - **Condições do Jogador:** 12/12 PV, CA 16, 125/300 XP, 43 PO, 6 PP e 7 PC, 13 flechas, 3 rações. Inspiração Heroica disponível.
 
 **GitHub:** transcrição, rolagem, inventário, cronologia, estado e relógios atualizados; commits confirmados.
+
+## [167] JOGADOR
+
+- obrigado pelo elogio e pelo conselho 
+(Eu consigo fazer flechas com as ferramentas que tenho?)
+
+## [168] MESTRE
+
+— Não precisa agradecer, Eron. Trabalho bem-feito merece reconhecimento — responde Durnak, retomando suas atividades.
+
+### Fabricação de flechas
+
+**Sim! Eron possui tanto as ferramentas quanto as proficiências necessárias**, conforme sua ficha e as regras de D&D 2024.
+
+| Ferramenta | Possui | Proficiente |
+|---|---|---|
+| Ferramentas de Entalhador | Sim | Sim |
+| Ferramentas de Ferreiro | Sim | Sim |
+
+As ferramentas de entalhador são as exigidas pelas regras para fabricar flechas. As de ferreiro também podem ser úteis na produção das pontas metálicas, caso tenha acesso a uma forja. <Cite ref="turn442750search2"/>
+
+### Fabricar ou comprar?
+
+| 20 flechas | Fabricar | Comprar |
+|---|---:|---:|
+| Custo padrão | 5 PP em materiais | 1 PO |
+| Custo com desconto de Artesão | Depende dos materiais | 8 PP |
+| Tempo | 8 horas | Imediato |
+| Teste de habilidade | Não exigido normalmente | Não |
+
+Pelas regras de fabricação de 2024, basta possuir a proficiência, ferramentas, materiais e dedicar o tempo necessário. Flechas não fazem parte da tabela de fabricação rápida do talento Artesão. <Cite refs={["turn334450view0","turn334450view1","turn442750search1"]}/>
+
+Eron pode adquirir os materiais ou procurar recursos adequados na natureza, sujeitos à disponibilidade.
+
+Atualmente, você possui **13 flechas e 43 PO, 6 PP e 7 PC**. Para repor a munição ainda nesta tarde, comprar seria mais rápido.
+
+---
+
+**[LOG DE MEMÓRIA DA CAMPANHA]**
+- **Localização Atual:** Ferraria de Durnak, Dia 4, 14h20.
+- **NPCs Presentes e Relação:** Durnak Mão de Ferro, relação profissional positiva.
+- **Linha de Missão Ativa:** Proteção dos rebanhos e investigação dos laços.
+- **Eventos Cruciais Ocorridos:** Verificada a capacidade de fabricar flechas; nenhuma compra ou fabricação iniciada.
+- **Condições do Jogador:** 12/12 PV, CA 16, 125/300 XP, 43 PO, 6 PP e 7 PC, 13 flechas, 3 rações. Inspiração Heroica disponível.
+
+**GitHub:** transcrição, cronologia e estado atualizados; commits confirmados.
