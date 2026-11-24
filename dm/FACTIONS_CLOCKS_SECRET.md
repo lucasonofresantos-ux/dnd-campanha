@@ -56,3 +56,7 @@
 ## Dia 1, ~15h25 — Eron sai da toca para caçar
 - Eron deixou a loba e seus dois filhotes na toca, solicitando que não saísse. A loba ouviu tom, não compreende nem deve cumprir obrigação verbal. Quando Eron saiu, estava com filhotes; sem evento adicional forçado até nova passagem de tempo plausível. Eventual deslocamento animal dependerá de fome, dor, perturbação e risco.
 - Três rolagens reais com script Python: Sobrevivência [1]+5=6, falhou rastreamento de presa maior; Furtividade [11]+9=20, oculto; Percepção [9]+7=16, descobriu coelho selvagem por oportunidade, a ~18m junto à clareira. Eron está a ~20min da toca; não disparou nem capturou ainda. Nenhum arco de conspiração relacionado ao coelho. ~15h25, Dia 1.
+
+## Dia 1, ~16h05 — caçada parcial e mãe alimentada
+- Eron aproveitou pequena porção da carne de coelho após falha Sobrevivência [1]+5=6; flecha retirada inutilizável. Voltou à toca após ~40min, e Lidar com Animais [20]+3=23 permitiu oferta sem rosnados; loba repartiu com filhotes.
+- Loba e filhotes ainda estão na toca, alimento dá alívio imediato mas não corrige capacidade de caçar, necessidade futura ou ferida. Fragmento de arame superficial ainda no local. Relógio da noite permanece condicional, sem resolução automática do conflito dos rebanhos nem XP.
