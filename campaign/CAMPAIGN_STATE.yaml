@@ -146,7 +146,7 @@ scene:
   id: OPENING-001
   status: "awaiting_player_action_after_day4_smith_work"
   current_npcs_present: ["Durnak Mão de Ferro"]
-  immediate_visible_situation: "Dia4 ~13h10–14h20: Eron informou dado natural 16 para Destreza (Ferramentas de Ferreiro), 1d20+7=23, sucesso. Fabricou seis cravos de fixação uniformes e com bom acabamento; Durnak aprovou cravos e aros, pagou 1 PO e 5 PP e encerrou o serviço do dia. Saldo anterior 42PO1PP7PC; novo 43PO6PP7PC. Almoço já recebido. Nenhum XP adicional por trabalho rotineiro, dano ou consumo de material próprio. Eron permanece na ferraria, tarde livre."
+  immediate_visible_situation: "Dia4 ~14h20: Eron agradeceu Durnak, que respondeu cordialmente. Pergunta fora de personagem sobre fabricação de flechas. Ficha conferida: possui e é proficiente em Ferramentas de Entalhador e Ferreiro. Regras oficiais 2024, Equipment / Crafting Nonmagical Items (https://www.dndbeyond.com/sources/dnd/br-2024/equipment/): entalhador fabrica flechas; lote de 20 custa normalmente 1 PO, fabricação 5 PP de materiais e 1 dia de 8h; preço padrão de compra com Crafter 8 PP, estoque e preço local não confirmados. Crafter Fast Crafting não inclui flechas (PHB 2024, https://roll20.net/compendium/dnd5e/Feats%3ACrafter?expansion=32231). Nenhuma fabricação, compra, coleta, deslocamento, rolagem ou recurso alterado; permanece na ferraria."
   discovered_traps:
     - location: "Trilha dos Corcos, junto ao riacho"
       state: disarmed_safe_wire_left_at_tree
@@ -174,8 +174,8 @@ world:
 transcription:
   character_creation_history: sessions/transcripts/SESSION_0001_FULL.md
   narrative_session: sessions/transcripts/SESSION_0002_FULL.md
-  last_saved_player_turn: "16 natural "
-  last_saved_dm_turn: "[166] MESTRE — seis cravos concluídos, pagamento 1PO5PP."
+  last_saved_player_turn: "- obrigado pelo elogio e pelo conselho \n(Eu consigo fazer flechas com as ferramentas que tenho?)"
+  last_saved_dm_turn: "[168] MESTRE — esclarecimento sobre fabricação de flechas conforme regras 2024."
 notes:
   - "Primeira resposta de cena será salva literalmente e sem revelar preparativos de dm."
   - "Nunca tratar a aprovação da ficha como XP, nem mudar recursos automaticamente."
