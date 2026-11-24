@@ -621,3 +621,32 @@ Ela não rosna. Também não se aproxima nem oferece a pata a Eron deliberadamen
 - Condições do Jogador: Ladino 1, **12/12 PV**, **CA 16**, **0/300 XP**, **36 PO e 8 PP**. Quatro porções de ração intactas e uma aberta, bastante consumida; nenhuma condição ativa.
 
 **GitHub:** transcrição e registros da campanha atualizados; commits confirmados.
+
+## [035] JOGADOR — 2026-11-23
+
+- vem aqui perto que eu olho não quero me aproximar dos filhotes
+
+## [036] MESTRE — 2026-11-23
+
+A loba ergue as orelhas ao ouvir a voz de Eron.
+
+— Vem aqui perto que eu olho. Não quero me aproximar dos filhotes.
+
+Ela olha para ele, depois para os dois pequenos enroscados no fundo da toca. Um deles solta um ganido sonolento. A mãe responde com um som baixo, apoia o peso nas três patas saudáveis e se levanta.
+
+Por alguns instantes, apenas fareja o ar. Então dá **dois passos cautelosos em direção à entrada**. A pata ferida quase não toca o chão. Ela para a pouco mais de um metro de Eron, ainda fora do alcance confortável de sua mão, e o observa com a cabeça ligeiramente baixa.
+
+Dessa distância, Eron distingue uma **marca funda em torno da pata, com pele irritada e uma pequena ferida aberta**. Não consegue confirmar se há algo preso no ferimento sem examiná-lo mais de perto.
+
+A loba não rosna. Mas, quando um dos filhotes se agita, ela volta imediatamente a cabeça para a toca. **Aproximou-se por conta própria; ainda não autorizou o toque.**
+
+**O que Eron faz?**
+
+**[LOG DE MEMÓRIA DA CAMPANHA]**
+- Localização Atual: Sentado à entrada da toca na ravina, aproximadamente às 15h.
+- NPCs Presentes e Relação: Loba ferida e dois filhotes. A loba está mais próxima de Eron, porém continua vigilante e protetora.
+- Linha de Missão Ativa: Investigar os ataques ao rebanho de Mara; recompensa proposta de 12 PO, ainda não recebida.
+- Eventos Cruciais Ocorridos: Eron chamou a loba, sem se aproximar dos filhotes. Ela deu dois passos até ficar a pouco mais de um metro dele; a marca funda e uma pequena ferida na pata ficaram mais visíveis. Nenhum contato físico, tratamento ou teste novo.
+- Condições do Jogador: Ladino 1, **12/12 PV**, **CA 16**, **0/300 XP**, **36 PO e 8 PP**. Quatro porções de ração intactas e uma aberta, bastante consumida. Sem condições ou combate.
+
+**GitHub:** transcrição e estado da campanha atualizados; commits confirmados.
