@@ -1,13 +1,13 @@
 campaign_id: ERON-RIVER-ASTERION-001
 campaign_title: "Eron River — Estradas de Cinza e Pedra"
-status: active_session_1_opening
+status: "awaiting_player_after_successful_wolf_paw_first_aid"
 system: "D&D 5E — 2024, SRD 5.2.1"
 homebrew:
   - "Dois antecedentes mecânicos completos: Artesão e Guarda, exclusiva de Eron (rules/HOUSE_RULES.md)"
 advancement:
   method: experience_points
   milestones_do_not_grant_levels: true
-  current_total_xp: 0
+  current_total_xp: 25
   next_level_xp: 300
   rule: "Conceder XP por combate e ameaças resolvidas, investigação, exploração e desafios sociais substantivos; usar equivalências 2024, sem duplicação; registrar no XP_LOG.csv."
 character:
@@ -18,7 +18,7 @@ character:
   class_levels:
     Ladino: 1
   character_level: 1
-  xp_total: 0
+  xp_total: 25
   xp_next_level: 300
   hp_current: 12
   hp_max: 12
@@ -38,7 +38,7 @@ character:
   inventory_reference: character/ERON_RIVER_LEVEL_01.md
   carrying_all_owned_equipment: true
   carrying_weight_lb_recorded: 103.88
-  carrying_weight_note: "Peso registrado de abertura; pequena fração de alimento consumida da ração atual, redução exata ainda não quantificada."
+  carrying_weight_note: "Peso de abertura 103.88lb; pequena comida consumida e faixa de roupa usada não pesadas; pele crua parcialmente danificada de coelho e duas orelhas acrescentadas por correção auditável, peso ainda não medido."
   carrying_capacity_lb: 180
   known_personal_item: "Marca da Bigorna Velada, pequeno disco familiar e bolsa de couro; uso desconhecido para Eron."
   untrained_owned_tool: "Ferramentas de Funileiro (propriedade, sem proficiência)"
@@ -52,25 +52,33 @@ character:
     intact_full_days: 4
     partly_used_days: 1
     food_offered: "primeiro pedaço à loba; segundo dividido entre Eron e loba; almoço sem fogo dividido; às ~15h terceiro pedaço adicional dado à loba durante exame visual. Todos retirados da mesma porção diária aberta, agora quase consumida; quatro porções diárias permanecem intactas, quantidade restante não medida."
-  animal_handling_last: "1d20+3 → [4] +3=7; quinto teste, rolado em Python com secrets.randbelow, falhou tentativa de obter tolerância a toque na pata; Eron recuou conforme condicional do jogador"
+  salvaged_materials:
+    rabbit_raw_hide: "1 pele de coelho crua parcialmente danificada, apta apenas a trabalhos limitados após conservação; valor indeterminado"
+    rabbit_ears: 2
+    rabbit_meat: "toda a carne aproveitada entregue à loba e filhotes"
+    source: "correção auditável da interpretação de saquear, sem reescrever o teste de Sobrevivência anterior"
+  animal_first_aid:
+    wolf_forepaw: "fragmento metálico superficial removido, lavada com água do cantil e protegida por tira de roupa; ainda inchada, cicatrização pendente"
+  looting_convention: "Ao dizer saquear um animal, Eron procura carne, couro/pele, orelhas, ossos, dentes e demais partes plausivelmente úteis ou vendáveis; ferramentas/proficiências pertinentes contam para adjudicar o rendimento, sem garantir sucesso ou preço."
+  animal_handling_last: "1d20+3 → [19]+3=22; sétimo teste, dado físico, loba permitiu Eron tocar e sustentar pata ferida para os primeiros socorros."
 campaign_time:
   calendar_system: "Asterion, dias relativos; nenhuma era/ano formal estabelecido"
   day: 1
-  time_of_day: "aproximadamente 16h05 do Dia 1, meio da tarde"
+  time_of_day: "aproximadamente 16h20 do Dia 1, fim de tarde ainda claro"
   season: "final do outono"
-  elapsed_game_time: "~15h25 abate do coelho, ~15 min de preparo e ~25 min de retorno à toca; agora ~16h05"
+  elapsed_game_time: "~16h05 após retorno da caça, mais ~15min de abordagem cuidadosa, exame e curativo; ~16h20"
 location:
   continent: Asterion
   polity: "Terras Livres de Avenhar (homebrew), fora de Valdren"
   area: "entroncamento da Estrada do Cascalho, próximo ao Pouso das Três Fontes"
   nearby: "encostas arborizadas da serra cujo monte mais alto é chamado Veyra"
-  exact_position: "lado externo da entrada da toca rochosa na ravina, passagem livre, loba e filhotes próximos"
-  travel_status: "retornou da clareira trazendo poucos pedaços de carne limpa, deixou sobre pedra para a loba; não tocou na pata"
+  exact_position: "ao lado externo da entrada da toca na ravina, junto à loba cuja pata foi tratada, filhotes ao fundo, saída desimpedida"
+  travel_status: "Eron ficou na entrada da toca, aproximou-se da loba para examinar e tratar a pata com consentimento comportamental; não entrou entre os filhotes."
 scene:
   id: OPENING-001
-  status: "awaiting_player_animal_handling_roll_to_touch_wolf_paw"
+  status: "awaiting_player_after_successful_wolf_paw_first_aid"
   current_npcs_present: []
-  immediate_visible_situation: "~16h05. Eron declarou querer usar ferramentas de coureiro na pele do coelho e reaproveitar a última rolagem Sobrevivência para examinar a pata da loba. Mestre verificou que ele tem ferramentas e proficiência em Coureiro, mas trouxe só carne ao voltar da clareira; pele recém-retirada ficou no local de abate e não está em seu inventário, ~25min a pé; pode tentar recuperar posteriormente, requer conservação antes de trabalhar. Rolagem anterior Sobrevivência [1]+5=6 já aplicada ao preparo, não reutilizável. Eron se agachou fora da toca e observou a pata sem tocar; loba ergue cabeça e acompanha mãos sem rosnar, mas mantém pata recolhida. Ainda inchaço/ferida e brilho de possível arame. Pediu-se novo Lidar com Animais 1d20+3 para saber se permitirá manipulação, AGUARDANDO jogador rolar. Se sucesso, Medicina +3 para examinar. Sem novas rolagens, dano, gasto, XP ou passagem de tempo relevante."
+  immediate_visible_situation: "Eron informou dados físicos naturais Lidar com Animais [19]+3=22 e Medicina [20]+3=23. Loba tolerou que Eron tocasse e sustentasse a pata, tensa mas sem morder; exame revelou fragmento pequeno de arame superficial junto a escoriação de constrição. Eron removeu cuidadosamente o fragmento com ferramenta fina, lavou com água do cantil e improvisou faixa com pequena tira de suas roupas de viajante; loba ganiou no momento doloroso, permitiu completar, depois farejou faixa e lambeu a mão de Eron. Ferida permanece inchada e exige cicatrização/monitoramento, sem cura instantânea ou garantia contra infecção. Correção auditável de saque anterior: pele crua parcialmente danificada e duas orelhas de coelho também foram trazidas, pois 'saquear animal' significa buscar todos os componentes úteis; não há couro curtido ou venda; falha Sobrevivência 6 ainda causou perda de carne e flecha. Desafio de assistência difícil e real foi resolvido +25 XP discricionários, sem resolver a ameaça ao rebanho (prêmio12PO não recebido). ~16h20, 12/12PV, CA16, 19flechas utilizáveis."
   combat: false
   initiative: []
   rounds: 0
@@ -89,8 +97,8 @@ world:
 transcription:
   character_creation_history: sessions/transcripts/SESSION_0001_FULL.md
   narrative_session: sessions/transcripts/SESSION_0002_FULL.md
-  last_saved_player_turn: "Ferramentas de coureiro para o couro do coelho\nE aproveito a última sobrevivência para dar mais um olhada na pata e ver se a loba deixa eu examinar "
-  last_saved_dm_turn: "[050] MESTRE — 2026-11-23; pele do coelho não trazida, ferramentas de coureiro disponíveis, teste anterior Sobrevivência já consumido; novo Lidar com Animais +3 solicitado e aguardando jogador."
+  last_saved_player_turn: "19 em lidar com animais para tocar na pata e examinar e se ela deixar tratar\nMedicina 20\nResultados naturais\n(Quando falo saquear um animal é ver oque consigo aproveitar para fazer dinheiro, couro, orelhas, carne... E nesse caso ferramentas de coureiro ajuda muito)"
+  last_saved_dm_turn: "[052] MESTRE — 2026-11-23; Lidar com Animais 22, Medicina 23 dados físicos, fragmento removido e curativo, saque de coelho corrigido, 25XP; transcrição salva."
 notes:
   - "Primeira resposta de cena será salva literalmente e sem revelar preparativos de dm."
   - "Nunca tratar a aprovação da ficha como XP, nem mudar recursos automaticamente."
