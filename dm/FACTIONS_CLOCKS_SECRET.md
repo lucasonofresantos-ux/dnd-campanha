@@ -215,3 +215,6 @@
 
 ## Dia 5 ~06h00–09h45 — manhã e caçada
 - Iria manteve ronda e Mara recolheu cabras; não houve nova perda durante noite Dia4–5. Mara considera satisfeita condição da recompensa de 12 PO e poderá pagar quando Eron falar com ela; Eron ainda não sabe e não recebeu. Odran passou pelo terceiro laço ao fim do Dia4, recolheu arame inerte e deixou pegadas; Eron observou sinais, não identificou autoria. Nenhum novo laço nesse trecho; não forçar descoberta ou confronto. Loba não foi atrás do rebanho, consumiu parte da carne, conseguiu capturar pequena ave perto da ravina na manhã do Dia5, sem observação direta da caça por Eron. Recuperação motora quase completa, ainda selvagem. Eron chegou com 9kg carne ainda não ofertada. Nenhum XP de rotina. Investigação continua aberta.
+
+## Dia 5 ~10h05 — recuperação concluída
+- Loba recebeu 4,5 kg de carne; exame confirma cura completa da pata e mobilidade normal. Crias e mãe aceitam carinho voluntariamente. Eron anunciou possível último encontro, sem controlar ações futuras da família selvagem. Não garantir ausência de ataques futuros nem domesticação. Condição de pagamento de Mara satisfeita fora de cena, falta confirmação pública e pagamento; investigação opcional permanece aberta. Nenhum XP duplicado pelos cuidados. Auditoria: execução dos dados [180] não comprovada, continuidade preservada.
