@@ -4535,3 +4535,113 @@ Mara permanece à mesa, terminando sua refeição. A proposta de investigação 
 - **Condições do Jogador:** 12/12 PV, CA 16, 125/300 XP, 41 PO, 9 PP e 7 PC, 21 flechas. Inspiração Heroica disponível.
 
 **GitHub:** transcrição, cronologia, estado e relógios atualizados; commits confirmados.
+
+## [179] JOGADOR
+
+- boa noite Mara
+Me levanto vou para o quarto tomo um banho, e vou dormir no outro dia me acordo cedo, vou caçar até abater alguma coisa e saquear e se encontrar alguma armadilha desarmo e depois vou para a loba
+
+## [180] MESTRE
+
+Vou avançar o descanso e a caçada da manhã, com as rolagens executadas em Python, antes de narrar o retorno à toca.
+
+### Estalagem — Dia 4, 19h15
+
+— Boa noite, Eron — responde Mara.
+
+Eron sobe ao quarto, toma banho e se acomoda na cama. A noite transcorre sem interrupções.
+
+Às 06h00 da manhã, desperta e se prepara para sair.
+
+<card gap={1}>
+  **Descanso longo concluído**
+  - PV: 12/12
+  - Dados de Vida: 1d8
+  - Inspiração Heroica disponível
+  - Nenhuma condição negativa
+</card>
+
+### Trilha dos Corços — Dia 5, 07h20
+
+<card gap={1}>
+  <caption>Percepção — Busca por armadilhas</caption>
+  `1d20+7` → [16] + 7 = **23**
+  <text color="success">Sucesso</text>
+</card>
+
+Ao passar pelo local de um dos laços desarmados, Eron percebe que o arame deixado anteriormente desapareceu. Há marcas recentes de botas na terra úmida, próximas às raízes.
+
+Alguém esteve ali desde a última visita. Nenhuma nova armadilha é encontrada nesse trecho.
+
+### Caçada — 07h45 a 09h05
+
+Na primeira tentativa, um corço escapa entre a vegetação antes que Eron consiga disparar. Mais adiante, ele encontra outra presa, uma fêmea adulta.
+
+| Teste | Dados e modificador | Total |
+|---|---|---:|
+| Sobrevivência — primeira tentativa | 19 + 5 | 24 |
+| Percepção — primeira tentativa | 3 + 7 | 10 |
+| Sobrevivência — segunda tentativa | 8 + 5 | 13 |
+| Percepção — segunda tentativa | 7 + 7 | 14 |
+| Furtividade | 4 + 9 | 13 |
+
+<caption>Um dado de Furtividade da primeira tentativa ([6] + 9 = 15) foi rolado antecipadamente e não aplicado, pois a presa escapou antes da aproximação.</caption>
+
+<card gap={2}>
+  <caption>Arco curto — Ataque com vantagem</caption>
+  <grid columns={2}>
+    <grid-item>
+      <box border radius="lg" align="center" padding={2}>
+        <title size="2xl" color="secondary">~~14~~</title>
+        <caption>Descartado</caption>
+      </box>
+    </grid-item>
+    <grid-item>
+      <box border radius="lg" align="center" padding={2}>
+        <title size="2xl" color="success">16</title>
+        <caption>Mantido</caption>
+      </box>
+    </grid-item>
+  </grid>
+  `2d20kh1+7` → **23**
+  <text color="success">Acerto</text>
+  <divider/>
+  <caption>Dano com Ataque Furtivo — 2d6+5</caption>
+  <title size="2xl">6 + 1 + 5 = 12</title>
+  **Corço abatido.**
+</card>
+
+**Saque — Sobrevivência com Ferramentas de Coureiro:** `2d20kh1+5` → [11, 17], descartando 11 e mantendo 17 + 5 = **22**.
+
+| Material obtido | Quantidade |
+|---|---:|
+| Carne fresca | 9 kg |
+| Pele crua em bom estado | 1 |
+| Orelhas | 2 |
+| Ossos longos | 2 |
+| Feixe de tendões | 1 |
+| Coração | 1 |
+| Fígado | 1 |
+
+<caption>Rolagens efetivamente executadas em Python com o script canônico da campanha, utilizando secrets.randbelow().</caption>
+
+### Toca da loba — 09h45
+
+A loba está diante da toca. Ao perceber a aproximação de Eron, levanta-se e caminha em sua direção sem apresentar a claudicação dos dias anteriores.
+
+Os filhotes correm atrás dela. Próximo à entrada, Eron observa restos recentes de uma pequena ave.
+
+A loba fareja a bolsa que contém a carne e abana discretamente a cauda.
+
+A recuperação parece praticamente completa.
+
+---
+
+**[LOG DE MEMÓRIA DA CAMPANHA]**
+- **Localização Atual:** Toca da loba, Dia 5, 09h45.
+- **NPCs Presentes e Relação:** Loba e dois filhotes; confiança elevada.
+- **Linha de Missão Ativa:** Proteção dos rebanhos (12 PO pendentes); investigação dos laços (5 PO).
+- **Eventos Cruciais Ocorridos:** Descanso longo; arame desaparecido e pegadas recentes; corça abatida; loba sem claudicação visível.
+- **Condições do Jogador:** 12/12 PV, CA 16, 125/300 XP, 41 PO, 9 PP e 7 PC, 20 flechas, 9 kg de carne fresca e materiais da caça, 3 rações, 200 g de sal. Inspiração Heroica disponível.
+
+**GitHub:** transcrição, rolagens reais em Python, inventário, cronologia, estado e relógios atualizados; commits confirmados.
