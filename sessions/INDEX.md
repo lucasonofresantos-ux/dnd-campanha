@@ -18,5 +18,5 @@
 - XP: [XP_LOG.csv](../campaign/XP_LOG.csv), regras em [PROGRESSION_XP.md](../campaign/PROGRESSION_XP.md).
 - Sessão narrativa 1: [SESSION_0002.md](SESSION_0002.md), transcrição [SESSION_0002_FULL.md](transcripts/SESSION_0002_FULL.md).
 - Isolamento: não misturar com `PRE-CHAR-HUMAN-001` (que é histórico da criação), nem com campanhas de outros personagens.
-- Transcrição [SESSION_0002_FULL.md](transcripts/SESSION_0002_FULL.md), mensagens [001]–[062]: Eron pagou 1PO3PP pelo quarto individual nº3 e jantar, comeu e subiu; Percepção real [17]+7=24, viu Iria seguir aos currais e ouviu homens não identificados conversarem sobre laços perto do riacho. ~18h25 Dia1, Eron no quarto com chave temporária, não começou descanso longo; saldo35PO5PP, XP25/300, PV12/12, 19 flechas, prêmio12PO pendente.
+- Transcrição [SESSION_0002_FULL.md](transcripts/SESSION_0002_FULL.md), mensagens [001]–[064]: Eron trancou quarto 3, lavou-se na bacia e completou descanso longo ate ~06h30 Dia2, ganhando Inspiracao Heroica. Percepcao real [11]+7=18 no caminho: viu Iria conversar com Mara e cabras recolhidas sem confirmar ocorrencias da noite. Chegou ~07h a Casa das Ervas de Olma Ramo, ainda sem comprar nada; saldo35PO5PP, XP25/300, PV12/12, 19 flechas e chave temporaria em posse.
 - Planejamento secreto em `dm/` (jamais incluir em logs públicos).
