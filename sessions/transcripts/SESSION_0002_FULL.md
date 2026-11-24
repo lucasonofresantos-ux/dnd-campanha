@@ -2921,3 +2921,48 @@ Duas flechas foram utilizadas e não recuperadas. Restam **15 flechas**.
 - **Condições do Jogador:** 12/12 PV, CA 16, 50/300 XP, 15 flechas, três rações intactas e uma parcial, 33 PO, 3 PP e 3 PC. Saco de sal intacto e Inspiração Heroica disponível.
 
 **GitHub:** transcrição, rolagens, inventário, cronologia e estado atualizados; commits confirmados.
+
+## [119] JOGADOR
+
+Vou salgar oque pode ser salgado e vou ir para a toca da loba
+
+## [120] MESTRE
+
+### Mata próxima à ravina — Dia 3, 09h00
+
+Eron utiliza suas ferramentas de coureiro para retirar os resíduos de gordura da pele e aplicar o sal. Também prepara as orelhas para conservação e acondiciona separadamente os tendões e os ossos.
+
+A carne e os miúdos permanecem frescos, sem sal, para não comprometer a alimentação da loba e dos filhotes.
+
+Como Eron é proficiente em ferramentas de coureiro, esse procedimento rotineiro não exige uma nova rolagem.
+
+| Material | Estado |
+|---|---|
+| Pele de corça | Salgada, ainda não curtida |
+| 2 orelhas | Salgadas |
+| 1 feixe de tendões | Separado para secagem |
+| 2 ossos longos | Limpos |
+| 8 kg de carne | Fresca |
+| Coração e fígado | Frescos |
+| Sal restante | Aproximadamente 200 g |
+
+### Toca da loba — 09h50
+
+Ao retornar à ravina, Eron encontra os dois filhotes brincando entre as pedras. A loba está deitada do lado de fora da toca, aproveitando o calor do sol.
+
+Ao sentir o cheiro da carne fresca, ela se levanta e caminha alguns passos em sua direção. Ainda manca, porém demonstra maior mobilidade do que no dia anterior. Sua atadura está suja nas bordas, mas permanece no lugar.
+
+Os filhotes aproximam-se cautelosamente, farejando o ar.
+
+**O que Eron faz?**
+
+---
+
+**[LOG DE MEMÓRIA DA CAMPANHA]**
+- **Localização Atual:** Toca da loba, Dia 3, 09h50.
+- **NPCs Presentes e Relação:** Loba e dois filhotes, habituados à presença de Eron, ainda selvagens.
+- **Linha de Missão Ativa:** Recuperação da loba, proteção dos rebanhos e investigação dos laços.
+- **Eventos Cruciais Ocorridos:** Materiais preparados, retorno à toca; nenhuma carne entregue ainda.
+- **Condições do Jogador:** 12/12 PV, CA 16, 50/300 XP, 15 flechas, 33 PO, 3 PP e 3 PC, três rações intactas e uma parcial, 200 g de sal e Inspiração Heroica disponível.
+
+**GitHub:** transcrição, inventário, cronologia, estado e relógios atualizados; commits confirmados.
