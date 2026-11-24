@@ -71,8 +71,8 @@ character:
   rations:
     starting_full_days: 5
     intact_full_days: 3
-    partly_used_days: 1
-    food_offered: "Dia2 dividiu jantar com loba; Dia3 desjejum da mesma ração parcial, três intactas e uma parcial, quantidade residual não medida."
+    partly_used_days: 0
+    food_offered: "Dia2 jantar dividido com loba; Dia3 desjejum e almoço da mesma ração, agora consumida integralmente. Restam 3 intactas."
   salvaged_materials:
     rabbit_raw_hide: "vendida a Belda Cortiça Dia 2 ~11h55"
     rabbit_ears: 0
@@ -113,21 +113,21 @@ character:
 campaign_time:
   calendar_system: "Asterion, dias relativos; nenhuma era/ano formal estabelecido"
   day: 3
-  time_of_day: "aproximadamente 12h00 do Dia 3"
+  time_of_day: "aproximadamente 12h20 do Dia 3"
   season: "final do outono"
-  elapsed_game_time: "Dia3 ~10h20–12h00 oferta de carne, retorno ao Pouso e vendas."
+  elapsed_game_time: "Dia3 ~12h00–12h20 almoço e caminhada à ferraria."
 location:
   continent: Asterion
   polity: "Terras Livres de Avenhar (homebrew), fora de Valdren"
   area: "entroncamento da Estrada do Cascalho, próximo ao Pouso das Três Fontes"
   nearby: "encostas arborizadas da serra cujo monte mais alto é chamado Veyra"
-  exact_position: "Açougue de Bram Cutelo, Pouso das Três Fontes"
-  travel_status: "Retorno à aldeia concluído; materiais vendidos."
+  exact_position: "Ferraria de Durnak Mão de Ferro, terceira fonte do Pouso das Três Fontes"
+  travel_status: "Chegou à ferraria; oferta de trabalho pendente."
 scene:
   id: OPENING-001
-  status: "awaiting_player_action_after_day3_sales"
-  current_npcs_present: ["Bram Cutelo"]
-  immediate_visible_situation: "Dia 3 ~10h20–12h00: Eron pediu à loba que não ataque cabras e deixou metade dos 6 kg de carne restantes (~3 kg) sobre pedra sombreada. Total oferecido da caça do Dia3: ~5 kg; a fala não implica compreensão ou obediência animal. Retornou ao Pouso pela trilha e vendeu todos os materiais restantes: Belda comprou pele salgada por 7 PP, tendões por 1 PP e dois ossos por 5 PC; Nessa comprou duas orelhas salgadas por 5 PC; Bram comprou coração por 1 PP, fígado por 2 PP e ~3 kg carne fresca por 6 PP. Total 18 PP e 10 PC = 1 PO e 9 PP. Saldo anterior 33 PO 3 PP 3 PC; novo 35 PO 2 PP 3 PC. Venda rotineira, sem teste, preços comerciais decididos pelos NPCs. Nenhum material de caça restante em posse, sal ~200 g preservado. Bram manifestou interesse em fornecimento futuro, sem contrato novo. Eron no açougue ~12h00, nenhum XP, dano ou gasto extra."
+  status: "awaiting_day3_smith_job_acceptance_and_roll"
+  current_npcs_present: ["Durnak Mão de Ferro"]
+  immediate_visible_situation: "Dia 3 ~12h00–12h20: Eron terminou a ração parcialmente consumida (restam 3 rações intactas, nenhuma parcial) e seguiu à ferraria de Durnak. Durnak ofertou 1 PO por quatro dobradiças reforçadas, vinte pregos grandes e reparo da cabeça de um machado, materiais fornecidos, estimativa 4–5 horas. Também indicou Avel Duro, responsável pela ponte do Córrego Curvo, que precisa de alguém que entenda de ferragens e mecanismos; remuneração desconhecida. Oferta da ferraria aguarda aceitação e teste de Força (Ferramentas de Ferreiro) +3 para dobradiças e pregos. Nenhum contrato aceito, teste rolado, pagamento, XP ou dano."
   discovered_traps:
     - location: "Trilha dos Corcos, junto ao riacho"
       state: disarmed_safe_wire_left_at_tree
@@ -151,8 +151,8 @@ world:
 transcription:
   character_creation_history: sessions/transcripts/SESSION_0001_FULL.md
   narrative_session: sessions/transcripts/SESSION_0002_FULL.md
-  last_saved_player_turn: "- Tá, só vê se não vai atrás de nenhuma cabra.\nDeixo metade da carne de corço e vou vender tudo que peguei do corço"
-  last_saved_dm_turn: "[128] MESTRE — carne deixada à loba e venda dos materiais, saldo 35PO2PP3PC."
+  last_saved_player_turn: "Como um pouco e depois vou para a ferraria\n- tem mais algo que eu possa fazer?"
+  last_saved_dm_turn: "[130] MESTRE — nova oferta de trabalho e indicação da ponte."
 notes:
   - "Primeira resposta de cena será salva literalmente e sem revelar preparativos de dm."
   - "Nunca tratar a aprovação da ficha como XP, nem mudar recursos automaticamente."
