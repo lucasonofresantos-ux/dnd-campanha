@@ -44,8 +44,9 @@ character:
   untrained_owned_tool: "Ferramentas de Funileiro (propriedade, sem proficiência)"
   ammo:
     shortbow_arrows_in_quiver: 19
-    shortbow_arrows_fired_unrecovered: 1
-    unrecovered_arrow_location: "Alojada em coelho abatido na clareira"
+    shortbow_arrows_fired_unrecovered: 0
+    shortbow_arrows_lost_unusable: 1
+    unrecovered_arrow_location: "Flecha extraída mas danificada e inutilizável; perdida na clareira"
   rations:
     starting_full_days: 5
     intact_full_days: 4
@@ -55,21 +56,21 @@ character:
 campaign_time:
   calendar_system: "Asterion, dias relativos; nenhuma era/ano formal estabelecido"
   day: 1
-  time_of_day: "aproximadamente 15h25, Dia 1"
+  time_of_day: "aproximadamente 16h05 do Dia 1, meio da tarde"
   season: "final do outono"
-  elapsed_game_time: "desde ~12h até 15h na toca; mais aproximadamente 20 a 25 minutos de caminhada e procura de caça na encosta; ~15h25, Dia 1"
+  elapsed_game_time: "~15h25 abate do coelho, ~15 min de preparo e ~25 min de retorno à toca; agora ~16h05"
 location:
   continent: Asterion
   polity: "Terras Livres de Avenhar (homebrew), fora de Valdren"
   area: "entroncamento da Estrada do Cascalho, próximo ao Pouso das Três Fontes"
   nearby: "encostas arborizadas da serra cujo monte mais alto é chamado Veyra"
-  exact_position: "Atrás de um tronco caído na clareira arborizada, coelho abatido a cerca de 18m; flecha alojada na carcaça, não coletada"
-  travel_status: "Eron disparou contra coelho; não recolheu carcaça ou flecha, não retornou à toca"
+  exact_position: "lado externo da entrada da toca rochosa na ravina, passagem livre, loba e filhotes próximos"
+  travel_status: "retornou da clareira trazendo poucos pedaços de carne limpa, deixou sobre pedra para a loba; não tocou na pata"
 scene:
   id: OPENING-001
-  status: "awaiting_player_action_after_rabbit_hunt_kill"
+  status: "awaiting_player_action_after_rabbit_meat_delivered"
   current_npcs_present: []
-  immediate_visible_situation: "Eron disparou de posição oculta com arco curto contra coelho selvagem a 18m; ataque com vantagem 2d20kh1+7 → faces [2,10], manteve 10 +7=17, acerto; dano 2d6+5 → [4 arco,3 Ataque Furtivo]+5=12 perfurante. O coelho morreu. Carcaça e flecha disparada estão na clareira, a 18m; Eron não recolheu nenhum dos dois. Restam 19 flechas na aljava, uma disparada não recuperada. Nenhuma comida adicionada ou XP concedido, tempo ~15h25."
+  immediate_visible_situation: "Eron preparou coelho com adaga: Sobrevivência 1d20+5 [1]+5=6, falhou e contaminou grande parte da carcaça, aproveitando poucos pedaços de carne. Flecha removida danificada e inutilizável (19 flechas restantes utilizáveis). Fez o caminho de volta (~25min) após ~15min de preparo, chegou à toca ~16h05. Lidar com Animais 1d20+3 [20]+3=23, sucesso no oferecimento da caça: colocou carne em pedra afastada das crias, loba não rosnou e levou para dividir com dois filhotes. Nenhuma carne de coelho ficou com Eron. Pata da loba ainda ferida/sem tratamento, não se resolveu fome durável/rebanho, nenhum dano, XP0/300 e rações pessoais inalteradas."
   combat: false
   initiative: []
   rounds: 0
@@ -88,8 +89,8 @@ world:
 transcription:
   character_creation_history: sessions/transcripts/SESSION_0001_FULL.md
   narrative_session: sessions/transcripts/SESSION_0002_FULL.md
-  last_saved_player_turn: "Disparo com a flecha pode rolar o disparo e o dano"
-  last_saved_dm_turn: "[046] MESTRE — 2026-11-23; ataque de arco com vantagem [2,10] manteve 10+7=17, dano 12; coelho abatido, flecha no local; transcrição salva"
+  last_saved_player_turn: "Saqueio o coelho e levo a carne para a loba\nPode rolar tudo até lá "
+  last_saved_dm_turn: "[048] MESTRE — 2026-11-23; Sobrevivência [1]+5=6, pouca carne; Lidar com Animais [20]+3=23, carne entregue à loba e crias; 16h05, transcrição salva"
 notes:
   - "Primeira resposta de cena será salva literalmente e sem revelar preparativos de dm."
   - "Nunca tratar a aprovação da ficha como XP, nem mudar recursos automaticamente."
