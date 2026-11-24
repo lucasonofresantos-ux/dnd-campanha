@@ -6890,3 +6890,54 @@ Você permanece no vestíbulo, diante da escadaria. A porta metálica está aber
 - **Inventário:** Marca da Bigorna Velada na bolsa. Lanterna com 5h15 de autonomia restante e 6 frascos de óleo em reserva. Nenhum material adicional consumido.
 
 **GitHub:** transcrição, ficha, rolagem informada pelo jogador, XP, cronologia e estado atualizados; commits confirmados.
+
+## [259] JOGADOR
+
+Vou com furtividade percepção e investigação pode rolar tudo e eu vou descer a escada
+
+## [260] MESTRE
+
+### Monte Veyra — Dia 6, 15h05
+
+<card gap={3}>
+  {#each [["Furtividade",8,9],["Percepção",3,7],["Investigação",1,6]] as r}
+    <row align="center">
+      <svg viewBox="0 0 100 100" size="65px">
+        <polygon points="50,4 94,29 94,73 50,97 6,73 6,29" fill="#214b86" stroke="#78a7e1" strokeWidth="2"/>
+        <path d="M50 4L23 65L94 73L50 4L77 65L6 73L50 4M6 29L77 65L50 97L23 65L94 29M23 65L77 65" fill="none" stroke="#93b5dd"/>
+        <text x="50" y="54" fontSize="27" fontWeight="bold" fill="white" textAnchor="middle">{r[1]}</text>
+      </svg>
+      <box flex={1} gap={1}>
+        **{r[0]}**
+        <caption>{`1d20+${r[2]} → [${r[1]}] + ${r[2]}`}</caption>
+      </box>
+      <title size="2xl">{r[1]+r[2]}</title>
+    </row>
+  {/each}
+  <divider/>
+  <caption>Três rolagens efetivamente executadas em Python com secrets.randbelow(), utilizando o script do GitHub com hash verificado.</caption>
+</card>
+
+Você desce os degraus procurando minimizar o ruído das botas. Seus passos são discretos, embora a luz da lanterna possa denunciar sua presença.
+
+Durante a descida, examina os relevos e algumas inscrições desgastadas, mas não consegue extrair informações adicionais. O silêncio torna difícil determinar se existe alguma atividade mais abaixo.
+
+Após 24 degraus, você chega a um patamar retangular de aproximadamente seis por quatro metros. Há fragmentos de pedra espalhados pelo chão e dois suportes metálicos vazios nas paredes.
+
+À sua frente, um corredor largo prossegue horizontalmente para o interior da montanha. À direita, existe uma porta metálica menor, fechada, com uma inscrição parcialmente encoberta pela poeira.
+
+O ar está consideravelmente mais frio.
+
+Nenhuma criatura é avistada.
+
+---
+
+**[LOG DE MEMÓRIA DA CAMPANHA]**
+- **Localização atual:** Patamar inferior da escadaria do Monte Veyra, Dia 6, 15h05.
+- **NPCs presentes:** Nenhum avistado.
+- **Missão ativa:** Exploração da construção subterrânea.
+- **Eventos cruciais:** Escadaria percorrida; corredor horizontal e porta lateral identificados, ainda não explorados.
+- **Condições:** 12/12 PV | CA 16 | 275/300 XP | Inspiração Heroica disponível.
+- **Inventário:** Marca da Bigorna Velada na bolsa. Lanterna com aproximadamente 5h05 de autonomia; 6 frascos de óleo em reserva.
+
+**GitHub:** transcrição, rolagens, cronologia e estado atualizados; commits confirmados.
