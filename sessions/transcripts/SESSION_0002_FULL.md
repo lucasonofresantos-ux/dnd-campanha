@@ -6548,3 +6548,53 @@ O disco permanece em sua mão.
 - **Objeto:** Disco em mãos, ainda não inserido.
 
 **GitHub:** transcrição, rolagem informada pelo jogador, cronologia e estado atualizados; commits confirmados.
+
+## [247] JOGADOR
+
+Vou encaixar só para ver oque acontece 
+
+## [248] MESTRE
+
+### Monte Veyra — Dia 6, 14h06
+
+Você alinha os seis encaixes e introduz a Marca da Bigorna Velada na cavidade. O disco desliza perfeitamente, sem necessidade de força.
+
+**Clac.**
+
+Durante alguns segundos, nada acontece. Então, um ruído metálico abafado surge das profundezas da montanha. Uma leve vibração percorre a parede, fazendo pequenos fragmentos de musgo e poeira caírem ao chão.
+
+A fina linha que você havia identificado começa a se alargar. Um segmento inteiro da parede rochosa recua lentamente, deslocando-se para o lado até revelar uma abertura de aproximadamente 60 centímetros de largura. O movimento cessa com um ruído áspero de metal.
+
+Uma corrente de ar frio e seco escapa da abertura. A luz do dia revela os primeiros metros de um corredor de pedra trabalhada, com paredes de acabamento excepcionalmente preciso.
+
+Mais adiante, apenas escuridão.
+
+A Marca da Bigorna Velada permanece encaixada na parede, com a borda acessível aos seus dedos.
+
+Você continua do lado de fora. Nenhuma criatura é visível, e nenhum outro ruído vem do interior.
+
+<card gap={2}>
+  <row align="center">
+    <box flex={1}>
+      <caption>Experiência — descoberta de acesso oculto</caption>
+      <title size="xl">+25 XP</title>
+    </box>
+    **250/300 XP**
+  </row>
+  <box height="8px" radius="full" background="surface-tertiary" clip={true}>
+    <box height="8px" width="83.33%" radius="full" background="#537bb5"/>
+  </box>
+  <caption>Faltam 50 XP para o nível 2.</caption>
+</card>
+
+---
+
+**[LOG DE MEMÓRIA DA CAMPANHA]**
+- **Localização atual:** Entrada descoberta no Monte Veyra, Dia 6, 14h06.
+- **NPCs presentes:** Nenhum avistado.
+- **Missão ativa:** Exploração da passagem desconhecida.
+- **Eventos cruciais:** A herança de Gruner acionou a abertura da parede. Corredor descoberto, ainda não explorado.
+- **Condições:** 12/12 PV | CA 16 | 250/300 XP. Inspiração Heroica disponível.
+- **Objeto:** Marca da Bigorna Velada encaixada na parede.
+
+**GitHub:** transcrição, ficha, XP, cronologia e estado atualizados; commits confirmados.
