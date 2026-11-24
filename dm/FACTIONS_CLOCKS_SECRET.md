@@ -230,3 +230,6 @@
 
 ## Dia 5 ~15h40 — encerramento do contrato de investigação
 - Eron saiu sem ser detectado, apresentou relato a Iria. Ela reconhece Odran Peça e recebeu reclamações prévias, sem prova suficiente até agora. Cumprido contrato de 5PO, pagamento feito, +50XP (total225). Iria pretende organizar patrulha para averiguar e recolher laços; ainda não iniciou deslocamento. Não presumir detenção, confissão, desarme ou reação de Odran, que não sabe do relato. Outro lenhador não acusado. Iria perguntou sobre experiência investigativa de Eron, sem propor novo contrato ainda. Relógios seguem independentes.
+
+## Dia 5 ~15h45 — conversa com Iria
+- Iria reconhece a competência profissional de Eron e busca saber sua disponibilidade futura, sem novo contrato ou compromisso. Patrulha sobre laços ainda em organização. Nenhum avanço substancial dos demais relógios ou mudança de recursos.
