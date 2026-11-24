@@ -2376,3 +2376,68 @@ Eron é proficiente no ofício. O teste avaliará seu desempenho, não sua capac
 - **Condições do Jogador:** 12/12 PV, CA 16, 50/300 XP, 32 PO, 3 PP e 3 PC. Inspiração Heroica disponível.
 
 **GitHub:** transcrição, cronologia e estado atualizados; commits confirmados.
+
+## [101] JOGADOR
+
+16
+
+## [102] MESTRE
+
+### Ferraria de Durnak — Dia 2, 14h30
+
+<card gap={2}>
+  <caption>Força — Ferramentas de Ferreiro</caption>
+  <row align="center" gap={4}>
+    <svg viewBox="0 0 100 100" width="82px" height="82px">
+      <polygon points="50,3 93,27 93,73 50,97 7,73 7,27" fill="#244C80" stroke="#7098CA" strokeWidth="2"/>
+      <path d="M50 3 L22 65 L78 65 Z" fill="#37659D" stroke="#91B5E0"/>
+      <path d="M7 27 L22 65 L7 73 M93 27 L78 65 L93 73 M22 65 L50 97 L78 65" fill="none" stroke="#91B5E0"/>
+      <text x="50" y="52" fontSize="27" fontWeight="bold" fill="white" textAnchor="middle">16</text>
+    </svg>
+    <box gap={1}>
+      <title size="2xl" color="success">19</title>
+      `1d20+3` → 16 + 3 = 19
+      <text color="success" weight="medium">Sucesso</text>
+      <caption>Rolagem informada pelo jogador</caption>
+    </box>
+  </row>
+</card>
+
+Durante pouco mais de duas horas, o som do martelo de Eron acompanha o de Durnak. O ferro incandescente ganha forma sobre a bigorna, e as seis ferraduras ficam uniformes, resistentes e com os furos alinhados.
+
+Durnak recolhe uma delas, examina o acabamento e compara com o modelo original.
+
+— Muito bom! Não é todo humano que sabe trabalhar o ferro dessa maneira. Já vi aprendizes anões fazerem serviço pior.
+
+Ele coloca as duas enxadas danificadas sobre a bancada e oferece uma caneca de água.
+
+— Descanse um pouco, se precisar. Ainda temos bastante tempo. Aliás, qual é o seu nome, rapaz?
+
+<card gap={2}>
+  **Progresso do trabalho**
+  <row>
+    <icon name="check-circle-filled" color="success"/>
+    Seis ferraduras
+    <spacer/>
+    6/6
+  </row>
+  <row>
+    <icon name="circle" color="secondary"/>
+    Reparação das enxadas
+    <spacer/>
+    0/2
+  </row>
+  <divider/>
+  <caption>Pagamento contratado: 1 PO, pendente até o final do expediente.</caption>
+</card>
+
+---
+
+**[LOG DE MEMÓRIA DA CAMPANHA]**
+- **Localização Atual:** Ferraria de Durnak, Dia 2, 14h30.
+- **NPCs Presentes e Relação:** Durnak Mão de Ferro, satisfeito com o primeiro lote.
+- **Linha de Missão Ativa:** Trabalho na ferraria, recuperação da loba e investigação dos laços.
+- **Eventos Cruciais Ocorridos:** Teste de ferreiro 19; seis ferraduras concluídas, duas enxadas pendentes.
+- **Condições do Jogador:** 12/12 PV, CA 16, 50/300 XP, 32 PO, 3 PP e 3 PC. Inspiração Heroica disponível.
+
+**GitHub:** transcrição, rolagem, cronologia e estado atualizados; commits confirmados.
