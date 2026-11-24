@@ -5470,3 +5470,34 @@ Os dois viajantes continuam conversando. São aproximadamente **18h35**, e você
 - **Descanso longo:** Ainda não iniciado.
 
 **GitHub:** transcrição, rolagens, ficha, cronologia e estado atualizados; commits confirmados.
+
+## [207] JOGADOR
+
+- quando foi a última vez que a iria foi vista?
+
+## [208] MESTRE
+
+### Estalagem de Alda — Dia 5, 18h35
+
+Alda volta-se para você enquanto enxuga uma caneca.
+
+— Pouco depois das quatro da tarde, pelo que me disseram. Saiu acompanhada de dois vigias, em direção às encostas da serra. Desde então, não a vi.
+
+Ela olha pela janela, observando a escuridão que começa a tomar conta da rua.
+
+— Imagino que ainda estejam verificando alguma coisa na mata. Não ouvi ninguém da guarda comentar sobre problemas.
+
+— Por quê, Eron? Está esperando por ela?
+
+---
+
+**[LOG DE MEMÓRIA DA CAMPANHA]**
+- **Localização atual:** Estalagem de Alda.
+- **NPCs presentes:** Alda Tress, viajantes e moradores.
+- **Missão ativa:** Nenhuma.
+- **Eventos cruciais:** Iria saiu em patrulha há aproximadamente duas horas e meia, acompanhada de dois vigias, segundo Alda.
+- **Condições:** 12/12 PV | CA 16 | 225/300 XP. Recursos inalterados.
+
+**Nota de auditoria:** as duas rolagens de Percepção anteriores (16 e 20) foram registradas como executadas em Python, mas essa execução não ocorreu. Corrigi o registro de verificação, mantendo a narrativa já estabelecida. Nenhuma nova rolagem neste turno.
+
+**GitHub:** transcrição, estado e correção do registro de dados salvos; commits confirmados.
