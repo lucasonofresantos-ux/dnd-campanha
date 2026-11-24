@@ -411,3 +411,48 @@ A loba permanece alerta, com os filhotes atrás do corpo. O rosnado cessou, embo
 - Condições do Jogador: Ladino 1, **12/12 PV**, **CA 16**, **0/300 XP**, **36 PO e 8 PP**. Das rações para cinco dias, quatro permanecem intactas e uma está parcialmente utilizada após a oferta de um pedaço de carne seca. Nenhuma condição ativa.
 
 **GitHub:** estado, inventário, cronologia e transcrição atualizados; commits confirmados.
+
+## [021] JOGADOR — 2026-11-23
+
+Role lidar com animais novamente vou ficar sentado um pouco na beira da entrada até ela se acostumar um pouco mais comigo
+
+## [022] MESTRE — 2026-11-23
+
+<row align="center" gap={3}>
+  <box background="surface-secondary" radius="lg" padding={3} align="center" gap={1}>
+    <icon name="paw-print" size="lg"/>
+    <title size="2xl" tabularNums>20</title>
+  </box>
+  <box flex="1" gap={1}>
+    **Sabedoria (Lidar com Animais) +3**
+
+    `1d20+3` → **[17] +3 = 20**
+
+    <text color="success" weight="medium"><icon name="check-circle" inline/> Sucesso</text>
+  </box>
+</row>
+
+Eron se senta lentamente junto à entrada, de lado para a loba, deixando a passagem livre. A pedra está fria e úmida. A loba acompanha o movimento com as orelhas erguidas, mas não rosna.
+
+Os minutos passam. O vento traz o cheiro dos pinheiros, e pequenas gotas caem das raízes acima da toca.
+
+Aos poucos, a loba deixa de manter o corpo tão rígido. Primeiro se deita sobre o lado saudável; depois repousa a cabeça sobre as patas, embora continue observando Eron. Um filhote curioso espreita por trás dela, mas logo volta para junto do irmão.
+
+**Após cerca de dez minutos, a loba parece mais tranquila com sua presença.** Sua respiração fica menos acelerada, e ela já não reage a cada pequeno movimento de suas mãos.
+
+Ainda é um animal selvagem protegendo os filhotes. Eron conquistou alguma tolerância, não uma confiança irrestrita.
+
+A pata ferida permanece recolhida. Da distância em que está, Eron consegue observar o inchaço, mas não pode determinar se ainda existe algum fragmento de arame preso à pele.
+
+A loba está quieta. Não se aproxima dele, tampouco tenta expulsá-lo.
+
+**O que Eron faz?**
+
+**[LOG DE MEMÓRIA DA CAMPANHA]**
+- Localização Atual: Sentado a aproximadamente 2 metros da entrada da toca, sem bloquear a saída.
+- NPCs Presentes e Relação: Nenhum NPC; loba cinzenta ferida e dois filhotes. A loba tolera melhor a presença de Eron, mas permanece vigilante.
+- Linha de Missão Ativa: Investigar e solucionar os ataques ao rebanho de Mara; recompensa de 12 PO ainda não recebida.
+- Eventos Cruciais Ocorridos: **Lidar com Animais 1d20+3 → [17] +3 = 20**. Eron ficou sentado calmamente por cerca de dez minutos; a loba relaxou parcialmente. Nenhum contato físico ou tratamento do ferimento.
+- Condições do Jogador: Ladino 1, **12/12 PV**, **CA 16**, **0/300 XP**, 36 PO e 8 PP. Quatro porções diárias de ração intactas e uma parcialmente utilizada; sem novas despesas, ferimentos ou condições.
+
+**GitHub:** nova rolagem, transcrição literal, cronologia e estado da campanha salvos em commits confirmados.
