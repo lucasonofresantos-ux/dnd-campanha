@@ -61,12 +61,12 @@ character:
   medical_supplies:
     healer_kit:
       quantity: 1
-      uses_remaining: 10
+      uses_remaining: 9
       official_mechanics: "Estabiliza criatura a 0 PV sem teste de Medicina; não previne infecção nem cura automaticamente"
     mild_ointment_pots: 1
-    ointment_status: "pote parcialmente cheio, 1 aplicacao usada na loba no Dia2 ~10h15"
+    ointment_status: "Pote parcialmente cheio; duas aplicações acumuladas, Dia2 10h15 e Dia3 10h15."
     clean_bandage_sets: 0
-    bandage_status: "1 conjunto avulso aplicado na pata da loba no Dia2 ~10h15, nenhuma atadura avulsa limpa restante"
+    bandage_status: "Atadura avulsa utilizada Dia2; substituída Dia3 por atadura do kit (1 uso consumido como material), nenhuma avulsa restante."
     purchase: "Dia 2 ~07h10 em Olma Ramo, por 4PO4PP com 20% de desconto Artesão"
   rations:
     starting_full_days: 5
@@ -108,15 +108,15 @@ character:
     weight_kg_approx: 0.2
     purpose: "Conservação de peles; não garante conservação sem preparo adequado."
   animal_first_aid:
-    wolf_forepaw: "Dia2 ~10h15 curativo com unguento e atadura; Dia3 ~09h50 loba caminha alguns passos, ainda manca, atadura suja nas bordas e no lugar; nenhum novo exame ou tratamento."
+    wolf_forepaw: "Dia3 ~10h15: novo exame e curativo; inchaço consideravelmente reduzido, ferida quase fechada, sem secreção visível ou mau cheiro. Ainda em recuperação, não curada. Aplicação de unguento e atadura do kit."
   looting_convention: "Ao dizer saquear um animal, Eron procura carne, couro/pele, orelhas, ossos, dentes e demais partes plausivelmente úteis ou vendáveis; ferramentas/proficiências pertinentes contam para adjudicar o rendimento, sem garantir sucesso ou preço."
-  animal_handling_last: "Dia2 ~09h55, teste físico natural 19+3=22, loba consentiu contato cauteloso e novo exame da pata, sem estar domesticada."
+  animal_handling_last: "Dia3 ~10h15: dado do jogador 16+3=19; tolerou exame, curativo e carinho, sem domesticação."
 campaign_time:
   calendar_system: "Asterion, dias relativos; nenhuma era/ano formal estabelecido"
   day: 3
-  time_of_day: "aproximadamente 09h55 da manhã do Dia 3"
+  time_of_day: "aproximadamente 10h15 da manhã do Dia 3"
   season: "final do outono"
-  elapsed_game_time: "Dia3 ~09h50–09h55 oferta de carne à loba e filhotes."
+  elapsed_game_time: "Dia3 ~09h55–10h15 novo tratamento da pata e carinho."
 location:
   continent: Asterion
   polity: "Terras Livres de Avenhar (homebrew), fora de Valdren"
@@ -128,7 +128,7 @@ scene:
   id: OPENING-001
   status: "awaiting_player_action_at_wolf_den_day3"
   current_npcs_present: ["Loba ferida", "Dois filhotes"]
-  immediate_visible_situation: "Dia 3 ~09h55: Eron ofereceu cerca de 2 kg de carne fresca de corça à loba, que aceitou e levou para perto dos dois filhotes. Alimentaram-se; loba deitou a pouco mais de 1 m de Eron com postura relaxada e orelhas atentas, pata com atadura suja parcialmente. Permanecem animais selvagens; nenhuma domesticação ou cura adicional. Restam ~6 kg de carne fresca em posse de Eron, demais materiais intactos. Nenhuma rolagem, XP, dano, gasto monetário ou tratamento."
+  immediate_visible_situation: "Dia 3 ~09h55–10h15: dados naturais informados pelo jogador, Lidar com Animais 1d20+3 [16]+3=19 e Medicina 1d20+3 [18]+3=21, ambos sucessos. Loba permitiu exame e retirada da faixa antiga. Inchaço consideravelmente reduzido, ferida quase fechada, sem secreção visível ou mau cheiro; não garante ausência de infecção. Eron limpou região, aplicou uma pequena porção de unguento e utilizou atadura do kit de curandeiro, consumindo 1 uso como material físico de curativo, não como estabilização ou cura mecânica; kit 9/10, unguento parcialmente cheio, ataduras avulsas zero. Acariciou pescoço, loba relaxou e repousou cabeça perto da perna de Eron; filhote farejou bota. Confiança elevada, não domesticação. Nenhum XP adicional pelo tratamento repetido, dano ou outro recurso gasto. Permanecem 6 kg de carne, 15 flechas, 33PO3PP3PC, PV12/12, CA16, XP50/300 e Inspiração Heroica."
   discovered_traps:
     - location: "Trilha dos Corcos, junto ao riacho"
       state: disarmed_safe_wire_left_at_tree
@@ -152,8 +152,8 @@ world:
 transcription:
   character_creation_history: sessions/transcripts/SESSION_0001_FULL.md
   narrative_session: sessions/transcripts/SESSION_0002_FULL.md
-  last_saved_player_turn: "- aqui come alguma coisa\nTiro um bom pedaço da carne da corça e dou para ela"
-  last_saved_dm_turn: "[122] MESTRE — loba e filhotes alimentados, restam 6 kg de carne."
+  last_saved_player_turn: "Lidar com animais 16\nMedicina 18\nPara tratar da pata e todo o necessário e depois faço um carinho nela"
+  last_saved_dm_turn: "[124] MESTRE — tratamento bem-sucedido, kit 9/10, carinho e recuperação gradual."
 notes:
   - "Primeira resposta de cena será salva literalmente e sem revelar preparativos de dm."
   - "Nunca tratar a aprovação da ficha como XP, nem mudar recursos automaticamente."
