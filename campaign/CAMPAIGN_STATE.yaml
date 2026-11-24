@@ -156,9 +156,9 @@ character:
 campaign_time:
   calendar_system: "Asterion, dias relativos; nenhuma era/ano formal estabelecido"
   day: 5
-  time_of_day: "aproximadamente 15h40 do Dia 5"
+  time_of_day: "aproximadamente 15h45 do Dia 5"
   season: "final do outono"
-  elapsed_game_time: "Dia5 ~14h25–15h40 retirada furtiva e relato à guarda."
+  elapsed_game_time: "Dia5 ~15h40–15h45 conversa com Iria."
 location:
   continent: Asterion
   polity: "Terras Livres de Avenhar (homebrew), fora de Valdren"
@@ -168,9 +168,9 @@ location:
   travel_status: "No posto da guarda, após receber recompensa."
 scene:
   id: OPENING-001
-  status: "awaiting_player_response_to_iria_about_investigative_experience"
+  status: "awaiting_player_response_to_iria_about_future_stay"
   current_npcs_present: ["Iria Vento-Seco"]
-  immediate_visible_situation: "Dia5 ~14h25–15h40: Eron retirou-se da cabana mantendo o resultado de Furtividade 27 e aproveitando a observação anterior (Percepção 26), sem nova circunstância que exigisse teste para retirada imediata. Não foi descoberto. Retornou ao Pouso das Três Fontes, encontrou Iria no posto da guarda e relatou identificação parcial de Odran, instalação e verificação dos laços, correspondência das pegadas e localização da cabana. Iria identificou o provável suspeito como Odran Peça, lenhador da encosta, disse conhecer reclamações anteriores sem evidências suficientes e anotou relato. Considerou satisfeito o contrato de identificação e evidências para confronto, pagou 5PO. Iria pretende organizar patrulha para recolher laços e conversar com Odran; patrulha ainda não saiu, sem prisão, condenação ou desarme confirmado. Eron recebeu +50XP pela investigação substantiva concluída, sem duplicar XP de laços ou rebanhos. Total225/300, saldo60PO8PP7PC. Iria perguntou se tem experiência como investigador; aguarda resposta. Sem novos dados, dano, gastos ou consumo de recursos. PV12/12 CA16, 20 flechas, 3 rações, Inspiração Heroica disponível, fabricação de 12 flechas ainda pendente (4h25)."
+  immediate_visible_situation: "Dia5 ~15h45: Eron confirmou a Iria que possui alguma experiência investigativa. Iria reconheceu a competência demonstrada no caso dos laços, comentou a escassez de investigadores locais e perguntou se pretende permanecer no Pouso das Três Fontes ou está de passagem. Nenhum novo contrato oferecido ou aceito, patrulha ainda em organização; sem testes, XP, pagamentos, gastos ou deslocamento. PV12/12 CA16 XP225/300, saldo60PO8PP7PC, 20 flechas, 3 rações, Inspiração Heroica disponível."
   discovered_traps:
     - location: "Trilha dos Corcos, junto ao riacho"
       state: disarmed_safe_wire_left_at_tree
@@ -213,8 +213,8 @@ world:
 transcription:
   character_creation_history: sessions/transcripts/SESSION_0001_FULL.md
   narrative_session: sessions/transcripts/SESSION_0002_FULL.md
-  last_saved_player_turn: "Vou aproveitar a furtividade e percepção que tirei e vou até a aria para passar oque descobri"
-  last_saved_dm_turn: "[190] MESTRE — investigação concluída, 5 PO e 50 XP recebidos, pergunta de Iria."
+  last_saved_player_turn: " - um pouco mas tenho "
+  last_saved_dm_turn: "[192] MESTRE — Iria reconhece competência e pergunta sobre permanência."
 notes:
   - "Primeira resposta de cena será salva literalmente e sem revelar preparativos de dm."
   - "Nunca tratar a aprovação da ficha como XP, nem mudar recursos automaticamente."
