@@ -116,3 +116,11 @@ date,campaign_id,stage,attempt,expression,six_rolls_faces_in_order,six_attribute
 2026-11-24,ERON-RIVER-ASTERION-001,correction_unverified_execution_skill_check_persuasion,2,1d20+4,20,"20+4",24,false
 2026-11-24,ERON-RIVER-ASTERION-001,skill_check_investigation,3,1d20+6,19,"19+6",25,true
 2026-11-24,ERON-RIVER-ASTERION-001,smith_tools_dexterity_player_reported,2,1d20+7,18,"18+7",25,true
+2026-11-24,ERON-RIVER-ASTERION-001,skill_check_survival_disadvantage,3,2d20kl1+5,"14,6","6+5",11,true
+2026-11-24,ERON-RIVER-ASTERION-001,skill_check_survival_disadvantage,4,2d20kl1+5,"17,6","6+5",11,true
+2026-11-24,ERON-RIVER-ASTERION-001,skill_check_survival_disadvantage,5,2d20kl1+5,"17,2","2+5",7,true
+2026-11-24,ERON-RIVER-ASTERION-001,skill_check_perception_hearing,2,1d20+7,5,"5+7",12,true
+2026-11-24,ERON-RIVER-ASTERION-001,skill_check_stealth,13,1d20+9,14,"14+9",23,true
+2026-11-24,ERON-RIVER-ASTERION-001,ranged_attack_shortbow_advantage,6,2d20kh1+7,"11,7","11+7",18,true
+2026-11-24,ERON-RIVER-ASTERION-001,shortbow_damage_with_sneak_attack,4,2d6+5,"6,1","6+1+5",12,true
+2026-11-24,ERON-RIVER-ASTERION-001,skill_check_survival_leatherworker_tools_advantage,3,2d20kh1+5,"7,18","18+5",23,true
