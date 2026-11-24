@@ -43,6 +43,8 @@
 
 - Eron, sentado fora da toca, chamou a loba verbalmente, esclarecendo que não iria aproximar-se dos filhotes. Loba acompanhou-o com as orelhas, olhou as crias, levantou sobre três patas e avançou dois passos cautelosos à entrada, parando a pouco mais de 1m de Eron, ainda fora de alcance confortável. Ferimento agora mostra marca funda circunferencial, pele irritada e pequena abertura; não é possível assegurar a presença ou ausência de arame residual. Sem rosnado; ela se mantém vigilante em relação aos filhotes. Nenhum contato, exame por toque, tratamento, teste, XP ou avanço temporal significativo. ~15h Dia 1.
 
+- Eron informou **Lidar com Animais, resultado físico natural [18] +3 =21**, conferido na ficha; Mestre não rolou dado. Eron ofereceu outro pequeno pedaço de carne seca da ração diária já aberta, inclinou-se e acariciou lateral do pescoço da loba, que inicialmente enrijeceu mas tolerou o toque; permaneceu afastado dos filhotes. Sem tocar na pata, visualizou ferida mais de perto: marca estreita/funda de constrição, inchaço, irritação, sujeira e sangue seco, e **minúsculo brilho acinzentado semelhante à ponta de arame na borda da crosta**, sem poder distinguir se preso na pele ou no pelo. A loba retraiu levemente a perna quando mão se aproximou; não atacou. Nenhum tratamento, novo exame por toque, cura, combate ou XP. Inventário: 4 rações intactas, 1 porção aberta quase consumida. Horário ~15h.
+
 ## Índices
 - Estado: `CAMPAIGN_STATE.yaml`.
 - XP: `XP_LOG.csv`.
