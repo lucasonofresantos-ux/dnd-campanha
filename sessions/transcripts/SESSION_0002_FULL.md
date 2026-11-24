@@ -3287,3 +3287,69 @@ Destreza +5 e proficiência +2.
 - **Condições do Jogador:** 12/12 PV, CA 16, 50/300 XP, 35 PO, 2 PP e 3 PC, 15 flechas. Inspiração Heroica disponível.
 
 **GitHub:** transcrição, rolagem, cronologia e estado atualizados; commits confirmados.
+
+[Nota editorial: o bloco de log final de [132] foi preparado e persistido, mas a nova mensagem do jogador chegou antes de sua entrega visível.]
+
+## [133] JOGADOR
+
+16 natural
+
+## [134] MESTRE
+
+### Ferraria de Durnak — Dia 3, 16h40
+
+<card gap={1}>
+  <caption>Destreza — Ferramentas de Ferreiro</caption>
+  <title size="2xl" color="success">23</title>
+  `1d20+7` → [16] + 7 = **23**
+  <text color="success" weight="medium">Sucesso</text>
+</card>
+
+Eron corrige a deformação da lâmina, recupera seu fio e dá acabamento à cabeça do machado.
+
+Durnak examina a peça contra a luz e sorri, satisfeito.
+
+— Trabalho de primeira qualidade. Aqui está o combinado. Se precisar de uma forja enquanto estiver nesta aldeia, podemos conversar.
+
+O anão entrega uma moeda de ouro.
+
+<card gap={2}>
+  **Encomenda concluída**
+  <row>
+    <icon name="check-circle" color="success"/>
+    Dobradiças
+    <spacer/>
+    4/4
+  </row>
+  <row>
+    <icon name="check-circle" color="success"/>
+    Pregos
+    <spacer/>
+    20/20
+  </row>
+  <row>
+    <icon name="check-circle" color="success"/>
+    Machado reparado
+    <spacer/>
+    1/1
+  </row>
+  <divider/>
+  <text color="success" weight="medium">+1 PO recebida</text>
+  <caption>Patrimônio atual</caption>
+  <title size="2xl">36 PO · 2 PP · 3 PC</title>
+</card>
+
+Ainda resta pouco mais de uma hora de claridade. Durnak começa a organizar suas ferramentas, enquanto o movimento nas ruas da aldeia diminui.
+
+**O que Eron faz agora?**
+
+---
+
+**[LOG DE MEMÓRIA DA CAMPANHA]**
+- **Localização Atual:** Ferraria de Durnak, Dia 3, 16h40.
+- **NPCs Presentes e Relação:** Durnak Mão de Ferro, satisfeito com a qualidade do trabalho.
+- **Linha de Missão Ativa:** Recuperação da loba, proteção dos rebanhos e investigação dos laços.
+- **Eventos Cruciais Ocorridos:** Encomenda concluída; 1 PO recebida; possibilidade de utilização futura da forja.
+- **Condições do Jogador:** 12/12 PV, CA 16, 50/300 XP, 36 PO, 2 PP e 3 PC, 15 flechas, três rações intactas. Inspiração Heroica disponível.
+
+**GitHub:** transcrição, rolagem, inventário, cronologia e estado atualizados; commits confirmados.
