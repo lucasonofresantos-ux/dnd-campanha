@@ -7,7 +7,7 @@ homebrew:
 advancement:
   method: experience_points
   milestones_do_not_grant_levels: true
-  current_total_xp: 225
+  current_total_xp: 250
   next_level_xp: 300
   rule: "Conceder XP por combate e ameaças resolvidas, investigação, exploração e desafios sociais substantivos; usar equivalências 2024, sem duplicação; registrar no XP_LOG.csv."
 character:
@@ -18,7 +18,7 @@ character:
   class_levels:
     Ladino: 1
   character_level: 1
-  xp_total: 225
+  xp_total: 250
   xp_next_level: 300
   hp_current: 12
   hp_max: 12
@@ -41,7 +41,7 @@ character:
   carrying_weight_lb_recorded: 103.88
   carrying_weight_note: "Carga anterior registrada 103,88 lb; caça Dia6 acrescenta 11 kg de carne e outros materiais sem peso exato aferido; carga estimada abaixo de 180 lb."
   carrying_capacity_lb: 180
-  known_personal_item: "Marca da Bigorna Velada, disco familiar em mãos; compatibilidade geométrica aparente com cavidade, função mecânica provável, ainda não inserido."
+  known_personal_item: "Marca da Bigorna Velada; acionou abertura local, permanece encaixada na parede, borda acessível."
   untrained_owned_tool: "Ferramentas de Funileiro (propriedade, sem proficiência)"
   ammo:
     shortbow_arrows_in_quiver: 19
@@ -172,21 +172,21 @@ character:
 campaign_time:
   calendar_system: "Asterion, dias relativos; nenhuma era/ano formal estabelecido"
   day: 6
-  time_of_day: "aproximadamente 14h05 do Dia 6"
+  time_of_day: "aproximadamente 14h06 do Dia 6"
   season: "final do outono"
-  elapsed_game_time: "Dia6 ~13h50–14h05, comparação detalhada do disco com cavidade."
+  elapsed_game_time: "Dia6 ~14h05–14h06, inserção da peça e abertura."
 location:
   continent: Asterion
   polity: "Terras Livres de Avenhar (homebrew), fora de Valdren"
   area: "entroncamento da Estrada do Cascalho, próximo ao Pouso das Três Fontes"
   nearby: "encostas arborizadas da serra cujo monte mais alto é chamado Veyra"
-  exact_position: "Depressão rochosa na encosta do Monte Veyra, junto a parede com pequeno orifício geométrico."
-  travel_status: "Passagem percorrida, junto à parede rochosa."
+  exact_position: "Exterior de passagem de pedra aberta na parede rochosa da encosta do Monte Veyra."
+  travel_status: "Abertura de ~60cm; Eron do lado externo, não entrou."
 scene:
   id: OPENING-001
-  status: "awaiting_player_action_at_rock_wall_day6"
+  status: "awaiting_player_action_at_open_passage_day6"
   current_npcs_present: []
-  immediate_visible_situation: "Dia6 ~13h50–14h05: Eron declarou exame detalhado e informou 20 natural em Investigação; 1d20+6 [20]+6=26, dado fornecido pelo jogador e aceito, sem execução Python. Removeu musgo e sedimentos superficiais, revelou cavidade circular ~3cm com seis encaixes. Retirou Marca da Bigorna Velada da bolsa e comparou sem inserir. Dimensões e seis encaixes correspondem à geometria do disco; fabricação intencional de grande precisão; função mecânica provável. Linha fina quase indistinguível de fissuras sugere passagem oculta, sem confirmação de funcionamento, conteúdo ou origem. Disco em mãos, nenhum teste de ativação, dano ou gasto; XP225/300, demais recursos inalterados. Diagrama meramente esquemático."
+  immediate_visible_situation: "Dia6 14h06: Eron inseriu a Marca da Bigorna Velada na cavidade, encaixe perfeito sem força. Após clique e pausa, ruído metálico abafado e vibração; musgo e poeira caíram. Segmento de parede recuou e deslizou lateralmente, abertura ~60cm, movimento cessou com ruído áspero. Ar frio seco, luz externa mostra primeiros metros de corredor de pedra trabalhada de grande precisão, escuridão adiante. Disco permanece encaixado com borda acessível. Eron do lado de fora, nenhum ser visível, nenhum outro ruído percebido. Sem entrada, retirada de chave ou nova operação. Não houve teste pois encaixe era compatível e resposta do mecanismo determinada pelo cenário. +25 XP adjudicados pela descoberta substantiva e confirmação do acesso oculto (único, sem duplicar pelo mesmo acesso); total 250/300. PV12/12 CA16, 56PO2PP7PC, 24 flechas, 10 rações, 2,2kg sal, 8,5kg carne salgada, inspiração disponível; demais recursos intactos."
   discovered_traps:
     - location: "Trilha dos Corcos, junto ao riacho"
       state: disarmed_safe_wire_left_at_tree
@@ -231,8 +231,8 @@ world:
 transcription:
   character_creation_history: sessions/transcripts/SESSION_0001_FULL.md
   narrative_session: sessions/transcripts/SESSION_0002_FULL.md
-  last_saved_player_turn: "[245] JOGADOR — exame detalhado, 20 natural informado."
-  last_saved_dm_turn: "[246] MESTRE — Investigação 26; compatibilidade e possível passagem."
+  last_saved_player_turn: "[247] JOGADOR — encaixa disco."
+  last_saved_dm_turn: "[248] MESTRE — passagem aberta parcialmente; +25 XP."
 notes:
   - "Primeira resposta de cena será salva literalmente e sem revelar preparativos de dm."
   - "Nunca tratar a aprovação da ficha como XP, nem mudar recursos automaticamente."
