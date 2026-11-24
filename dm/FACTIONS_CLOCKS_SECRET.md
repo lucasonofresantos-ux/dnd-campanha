@@ -40,3 +40,8 @@
 - Eron pediu novo teste Lidar com Animais **[17]+3=20**, sentou-se a ~2 m da abertura durante 10 minutos, sem bloquear a saída ou chegar aos filhotes. Loba tolera melhor presença, relaxou parcialmente, mas não está domesticada e não deu permissão para toque, exame ou intervenção na pata.
 - Se Eron tentar tratar o ferimento, avaliar forma concreta de aproximação, equipamentos e possibilidade de reação defensiva; não deixar rolagem anterior automatizar tratamento. Não criar armadilha ativa em torno do personagem e não esquecer que filhotes estão protegidos.
 - Sem XP até resolução significativa; nenhum avanço de relógios de dia ou mudança de facção em dez minutos.
+
+## Dia 1, ~15h — espera de três horas junto à toca
+- Eron permaneceu sentado, sem fogueira, dividindo almoço da ração aberta com a loba. Loba aceitou alimento somente após a mão recuar; passa a tolerar melhor a presença e movimentos calmos de Eron, mas mantém defesa dos filhotes; ferimento sem tratamento.
+- Aproximadamente três horas transcorreram; ainda não chegou a noite, portanto risco de incursão noturna ainda não foi resolvido. A loba não saiu para caçar, alimentando-se do que recebeu. Filhotes permanecem na toca.
+- Nenhum ganho de XP por mero tempo de espera; não automatizar toque, cura ou domesticação. Se Eron optar por se aproximar da pata, avaliar a ação específica.
