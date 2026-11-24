@@ -3001,3 +3001,80 @@ Nenhum teste necessário para oferecer alimento, considerando a confiança conqu
 - **Condições do Jogador:** 12/12 PV, CA 16, 50/300 XP, 15 flechas, 33 PO, 3 PP e 3 PC, 6 kg de carne fresca. Inspiração Heroica disponível.
 
 **GitHub:** transcrição, inventário, cronologia, estado e relógios atualizados; commits confirmados.
+
+## [123] JOGADOR
+
+Lidar com animais 16
+Medicina 18
+Para tratar da pata e todo o necessário e depois faço um carinho nela
+
+## [124] MESTRE
+
+### Toca da loba — Dia 3, 10h15
+
+<grid columns={2} gap={3}>
+  <grid-item>
+    <box border radius="lg" padding={3} gap={1}>
+      <caption>Lidar com Animais</caption>
+      <title size="2xl" color="success">19</title>
+      `1d20+3` → 16 + 3
+      <text color="success">Sucesso</text>
+    </box>
+  </grid-item>
+  <grid-item>
+    <box border radius="lg" padding={3} gap={1}>
+      <caption>Medicina</caption>
+      <title size="2xl" color="success">21</title>
+      `1d20+3` → 18 + 3
+      <text color="success">Sucesso</text>
+    </box>
+  </grid-item>
+</grid>
+<caption>Dados naturais informados pelo jogador.</caption>
+
+A loba permite que Eron segure sua pata. Ao retirar a atadura antiga, ele percebe que o inchaço diminuiu consideravelmente e que a ferida está quase fechada. Não há secreção visível nem mau cheiro.
+
+Eron limpa a região, aplica uma pequena quantidade de unguento e retira uma atadura limpa do kit de curandeiro para protegê-la novamente.
+
+Depois do tratamento, enquanto Eron acaricia seu pescoço, a loba abaixa as orelhas, relaxa o corpo e repousa a cabeça próxima à sua perna. Um dos filhotes aproxima-se e começa a farejar sua bota.
+
+<card gap={2}>
+  **Evolução da loba**
+  <row>
+    Inflamação
+    <spacer/>
+    <text color="success">Reduzida</text>
+  </row>
+  <row>
+    Cicatrização
+    <spacer/>
+    <text color="success">Avançada</text>
+  </row>
+  <row>
+    Mobilidade
+    <spacer/>
+    Em recuperação
+  </row>
+  <row>
+    Confiança em Eron
+    <spacer/>
+    Elevada
+  </row>
+  <divider/>
+  <caption>Ainda é um animal selvagem. A recuperação completa dependerá de repouso e da evolução do ferimento.</caption>
+</card>
+
+**Recursos utilizados:** uma aplicação de unguento e uma atadura do kit de curandeiro, que agora possui 9/10 usos. O unguento ainda não acabou.
+
+**O que Eron faz agora?**
+
+---
+
+**[LOG DE MEMÓRIA DA CAMPANHA]**
+- **Localização Atual:** Toca da loba, Dia 3, 10h15.
+- **NPCs Presentes e Relação:** Loba e dois filhotes; confiança crescente, ainda selvagens.
+- **Linha de Missão Ativa:** Recuperação da loba, proteção dos rebanhos e investigação dos laços.
+- **Eventos Cruciais Ocorridos:** Tratamento bem-sucedido, novo curativo e melhora da cicatrização.
+- **Condições do Jogador:** 12/12 PV, CA 16, 50/300 XP, 15 flechas, 33 PO, 3 PP e 3 PC, 6 kg de carne, kit de curandeiro 9/10. Inspiração Heroica disponível.
+
+**GitHub:** transcrição, rolagens, inventário, cronologia, estado e relógios atualizados; commits confirmados.
