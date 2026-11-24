@@ -6467,3 +6467,84 @@ A semelhança é suficiente para justificar um exame mais cuidadoso dos dois obj
 **Auditoria:** as quatro rolagens da interação anterior não foram efetivamente executadas em Python, apesar da afirmação feita. Os acontecimentos foram preservados e os registros corrigidos. Nenhuma nova rolagem neste turno.
 
 **GitHub:** transcrição, estado e auditoria atualizados; commits confirmados.
+
+## [245] JOGADOR
+
+Vou examinar melhor
+Investigação 20 natural 
+
+## [246] MESTRE
+
+### Monte Veyra — Dia 6, 14h05
+
+<card gap={2}>
+  <row align="center">
+    <svg viewBox="0 0 100 100" size="86px">
+      <polygon points="50,4 94,29 94,73 50,97 6,73 6,29" fill="#214b86" stroke="#e6be64" strokeWidth="2.5"/>
+      <path d="M50 4L23 65L94 73L50 4L77 65L6 73L50 4M6 29L77 65L50 97L23 65L94 29M23 65L77 65" fill="none" stroke="#93b5dd"/>
+      <text x="50" y="55" fontSize="27" fontWeight="bold" fill="white" textAnchor="middle">20</text>
+    </svg>
+    <box gap={1}>
+      <badge color="success">20 natural</badge>
+      <title size="2xl">26</title>
+      <caption>Investigação: 20 + 6 = 26</caption>
+      <caption>Dado informado pelo jogador.</caption>
+    </box>
+  </row>
+</card>
+
+Você remove cuidadosamente o musgo e os sedimentos acumulados ao redor do orifício. Sob a sujeira, revela-se uma pequena cavidade circular de aproximadamente três centímetros, com seis encaixes distribuídos em seu interior.
+
+Retirando a herança de Gruner da bolsa de couro, você compara as duas peças lado a lado, sem inserir o disco.
+
+A correspondência é impressionante.
+
+<svg viewBox="0 0 340 190" width="100%">
+  <rect x="12" y="8" width="316" height="174" rx="10" fill="#55534d"/>
+  <g stroke="#77746a" strokeWidth="1" fill="none">
+    <path d="M12 51L44 39L65 48M12 135L44 117M150 8L140 30L157 50M260 8L253 27L285 43L328 34M284 145L310 159L328 153M126 140L143 159L129 182"/>
+  </g>
+  <circle cx="87" cy="83" r="53" fill="#33332f" stroke="#a49b83" strokeWidth="2"/>
+  {#each [0,60,120,180,240,300] as a}
+    <rect x="81" y="26" width="12" height="18" rx="1.5" fill="#1e201e" stroke="#827a68" transform={`rotate(${a} 87 83)`}/>
+  {/each}
+  <circle cx="87" cy="83" r="36" fill="none" stroke="#706c5d" strokeWidth="1"/>
+  <circle cx="252" cy="83" r="53" fill="#8f7750" stroke="#cbb58a" strokeWidth="2"/>
+  <circle cx="252" cy="83" r="41" fill="#766044" stroke="#bda477"/>
+  {#each [0,60,120,180,240,300] as a}
+    <rect x="247" y="30" width="10" height="15" rx="1.5" fill="#42392c" stroke="#ab936a" transform={`rotate(${a} 252 83)`}/>
+  {/each}
+  <path d="M225 79L243 54L251 65L260 51L280 79Z" fill="none" stroke="#d5c29d" strokeWidth="2"/>
+  <path d="M227 89L278 89L266 98L259 98L259 111L269 115L269 120L238 120L238 115L246 111L246 98L238 98Z" fill="#c1ab83"/>
+  <g stroke="#c2b596" strokeDasharray="3 4" fill="none">
+    <path d="M143 83H194"/>
+  </g>
+  <text x="87" y="159" fontSize="11" fill="#eee9dd" textAnchor="middle">Cavidade na rocha</text>
+  <text x="252" y="159" fontSize="11" fill="#eee9dd" textAnchor="middle">Herança de Gruner</text>
+</svg>
+<caption>Representação esquemática do que Eron observa.</caption>
+
+Seus conhecimentos de ferraria e cantaria permitem concluir que:
+
+- As dimensões são compatíveis.
+- Os seis encaixes correspondem à geometria do disco.
+- A cavidade foi produzida intencionalmente, com extrema precisão.
+- A peça de Gruner provavelmente possui uma função mecânica.
+
+Você também percebe uma linha muito fina na superfície da parede, quase indistinguível das fissuras naturais da rocha.
+
+**Existe a possibilidade de que você esteja diante de uma passagem oculta.** Entretanto, ainda não sabe se o mecanismo funciona, nem o que poderia existir do outro lado.
+
+O disco permanece em sua mão.
+
+---
+
+**[LOG DE MEMÓRIA DA CAMPANHA]**
+- **Localização atual:** Parede rochosa do Monte Veyra, Dia 6, 14h05.
+- **NPCs presentes:** Nenhum avistado.
+- **Missão ativa:** Exploração do Veyra.
+- **Eventos cruciais:** Investigação 26; compatibilidade geométrica entre a cavidade e a Marca da Bigorna Velada. Possível passagem oculta.
+- **Condições:** 12/12 PV | CA 16 | 225/300 XP. Recursos inalterados.
+- **Objeto:** Disco em mãos, ainda não inserido.
+
+**GitHub:** transcrição, rolagem informada pelo jogador, cronologia e estado atualizados; commits confirmados.
