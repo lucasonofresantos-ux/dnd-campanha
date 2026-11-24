@@ -149,3 +149,6 @@
 
 ## Dia 3 ~12h20 — oportunidade de trabalho
 - Durnak ofertou trabalho rotineiro por 1 PO e indicou Avel Duro e a necessidade de ferragens/mecanismos na ponte, conforme oportunidade previamente planejada. Não há contratação nem avaliação técnica da ponte ainda; não vincular arbitrariamente aos laços, conspiração ou ruínas.
+
+## Dia 3 ~17h10 — ponte do Córrego Curvo
+- Avel trabalha no mecanismo de roldanas de barreira de retenção de madeira; uma roldana travada impede levantar a barreira. Acúmulo de troncos aumenta pressão na estrutura; trânsito de carroças suspenso preventivamente. Não definir diagnóstico interno sem exame. Avel precisa de ajuda competente, ainda não negociou com Eron. Caravana continua sujeita à suspensão, sem localização atual afirmada ao jogador. Não conectar ao arco dos laços ou outros segredos.
