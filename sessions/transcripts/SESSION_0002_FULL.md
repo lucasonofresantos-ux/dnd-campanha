@@ -7074,3 +7074,54 @@ Você permanece no limiar da porta, sem ter tocado nos objetos ou entrado no rec
 **Auditoria:** não há execução Python comprovada para as cinco rolagens dos dois turnos anteriores. Registros corrigidos, acontecimentos preservados. Nenhuma rolagem nova neste turno.
 
 **GitHub:** transcrição, cronologia, estado e auditoria atualizados; commits confirmados.
+
+## [265] JOGADOR
+
+Vou tentar examinar a placa de metal gravada da parede para ver se consigo ler alguma coisa
+
+## [266] MESTRE
+
+### Oficina de manutenção — Dia 6, 15h30
+
+Você entra na oficina e se aproxima da bancada. A placa, feita de uma liga metálica escurecida, mede aproximadamente 40 por 30 centímetros e está fixada à parede por quatro rebites.
+
+Após remover a poeira com cuidado, você reconhece novamente a escrita anã arcaica. Apesar de algumas diferenças em relação ao idioma que aprendeu com Gruner, consegue compreender a mensagem.
+
+<box background="#353a38" radius="md" padding={4} theme="dark" border={{size:2,color:"#777c70"}}>
+  <svg viewBox="0 0 300 36" width="100%">
+    <g stroke="#b9b6a1" strokeWidth="2" fill="none">
+      {#each [0,1,2,3,4,5,6,7,8,9,10,11] as i}
+        <path d={`M${20+i*23} 5v25l12 -12l-12 -13m0 13h12`}/>
+      {/each}
+    </g>
+  </svg>
+  <divider color="#777c70"/>
+  <title textAlign="center" size="lg">INSTRUÇÕES DE MANUTENÇÃO</title>
+  <divider color="#777c70"/>
+  I — Isole as linhas de condução antes de substituir seus componentes.
+
+  II — Não reinstale cristais que apresentem fissuras.
+
+  III — Verifique a integridade das conexões antes de restabelecer a alimentação.
+  <divider color="#777c70"/>
+  <caption textAlign="center">Montanha e seis símbolos gravados na base da placa.</caption>
+</box>
+<caption>Tradução da inscrição por Eron.</caption>
+
+Com sua experiência de artesão, você deduz que as canaletas encontradas nos corredores provavelmente fazem parte de algum sistema de distribuição de energia. As peças cristalinas parecem ter uma função nesse sistema, embora você ainda não compreenda seu princípio de funcionamento.
+
+Não foi necessária nenhuma rolagem para a leitura, pois você conhece o idioma anão e a inscrição está suficientemente preservada.
+
+A bancada está diante de você. Os três armários continuam fechados.
+
+---
+
+**[LOG DE MEMÓRIA DA CAMPANHA]**
+- **Localização atual:** Oficina de manutenção do Monte Veyra, junto à bancada, Dia 6, 15h30.
+- **NPCs presentes:** Nenhum avistado.
+- **Missão ativa:** Exploração da estrutura subterrânea.
+- **Eventos cruciais:** Instruções de manutenção traduzidas; possível função energética das canaletas identificada.
+- **Condições:** 12/12 PV | CA 16 | 275/300 XP. Inspiração Heroica disponível. Nenhum objeto recolhido.
+- **Inventário:** Marca da Bigorna Velada na bolsa; lanterna com 4h40 de autonomia e 6 frascos de óleo em reserva.
+
+**GitHub:** transcrição, cronologia e estado atualizados; commits confirmados.
