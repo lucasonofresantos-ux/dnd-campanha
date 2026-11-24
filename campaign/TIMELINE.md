@@ -33,6 +33,8 @@
 
 - Ainda sentado a ~2 m da entrada da toca, Eron retirou um **segundo pedaço de carne seca** da porção diária parcialmente utilizada, comeu parte e ofereceu restante à loba. A loba farejou, levantou-se com cuidado sobre as outras patas, tomou alimento e recuou ao interior, afastando filhote curioso com focinho. Não rosnou desta vez, mas protege crias e não permitiu toque ou tratamento da pata. Não houve nova rolagem, combate ou resolução do problema dos rebanhos. Passaram-se poucos minutos; XP 0/300. **Rações: 4 porções diárias intactas e 1 porção parcialmente consumida, agora mais reduzida.**
 
+- Eron dirigiu-se verbalmente à loba: “vai deixar eu ver esta pata machucada?”. Ela ergueu a cabeça, observou Eron, lambeu brevemente a pata e mudou de posição, deixando-a estendida sobre folhas secas; sem rosnado, mas ainda atenta. Inchaço e marca avermelhada circundante tornaram-se mais visíveis. Filhotes dormitam atrás da mãe. Eron permaneceu sentado a ~2 m, sem se aproximar, tocar, examinar diretamente ou curar; não se sabe se ela toleraria contato. Sem rolagem, tempo significativo, gastos ou XP.
+
 ## Índices
 - Estado: `CAMPAIGN_STATE.yaml`.
 - XP: `XP_LOG.csv`.
