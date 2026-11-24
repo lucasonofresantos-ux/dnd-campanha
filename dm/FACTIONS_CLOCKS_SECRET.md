@@ -236,3 +236,6 @@
 
 ## Dia 5 ~15h45 — contato futuro
 - Iria deseja manter possibilidade de contratar Eron em serviços futuros e pergunta onde deixar recados. Nenhuma encomenda atual ou obrigação; não presumir disponibilidade nem permanência. Patrulha ainda em organização.
+
+## Dia 5 ~15h50 — ponto de contato definido
+- Iria pode deixar recados para Eron na ferraria de Durnak. Não há novo serviço nem vínculo formal. Começou a reunir equipamento para patrulha; não partiu ainda. Relógios seguem com tempo de jogo.
