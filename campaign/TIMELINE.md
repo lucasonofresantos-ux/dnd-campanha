@@ -39,6 +39,8 @@
 
 - Eron pediu terceira rolagem de **Lidar com Animais** sem declarar toque ou nova aproximação, ainda ~15h na entrada da toca. Script Python da campanha com `secrets.randbelow` executado: **1d20+3 → [12] +3 = 15**, sucesso moderado contextual. Loba ergue orelhas e observa movimentos lentos das mãos de Eron, sem rosnar ou se levantar, mas volta imediatamente atenção à cria que se mexeu. Avaliação: maior tolerância que na primeira aproximação, mas não garante consentimento à manipulação da pata; não houve exame direto, toque, cura, ataque, gasto de recursos, XP nem avanço apreciável de tempo.
 
+- Eron dirigiu à loba um aviso verbal de que, sem cuidar da pata, ela poderia perdê-la e morrer, deixando os filhotes. A loba não compreendeu o significado das palavras, mas reagiu ao tom familiar: ergueu a cabeça, acomodou um filhote com o focinho e voltou a estender a pata ferida sobre folhas com pequeno tremor. Sem rosnar ou oferecer deliberadamente a pata, Eron permaneceu a ~2m, sem exame ou toque; sem rolagem, tempo significativo, gastos ou XP. Ainda aproximadamente 15h Dia 1.
+
 ## Índices
 - Estado: `CAMPAIGN_STATE.yaml`.
 - XP: `XP_LOG.csv`.
