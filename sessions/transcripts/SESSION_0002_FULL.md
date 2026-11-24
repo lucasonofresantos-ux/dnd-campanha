@@ -2211,3 +2211,31 @@ Revise a transcrição e faça
 ## [092] MESTRE — atualização de manutenção
 
 Vou conferir a sequência das mensagens no GitHub, preencher as duas lacunas com o texto visível nesta conversa e preservar as correções de regras e rolagens.
+
+**Transcrição revisada e corrigida no GitHub.**
+
+As duas lacunas foram preenchidas com as mensagens originais desta conversa, sem resumir ou alterar seu conteúdo.
+
+| Verificação | Resultado |
+|---|---|
+| Mensagem 084 — Retomada da campanha | Restaurada |
+| Mensagem 086 — Negociação com Belda | Restaurada |
+| Mensagem 090 — Conclusão das vendas | Complementada |
+| Numeração das mensagens 001 a 092 | Contínua |
+| Mensagens duplicadas | Nenhuma |
+| Correção da rolagem inválida | Preservada |
+| Estado canônico | Sincronizado |
+
+**Arquivo:** [SESSION_0002_FULL.md](https://github.com/lucasonofresantos-ux/dnd-campanha/blob/main/sessions/transcripts/SESSION_0002_FULL.md)
+
+A partir daqui, a campanha prossegue normalmente, sem necessidade de repetir nenhuma ação.
+
+**[LOG DE MEMÓRIA DA CAMPANHA]**
+
+- **Localização Atual:** Açougue de Bram Cutelo, Dia 2, 12h10.
+- **NPCs Presentes e Relação:** Bram, contato comercial.
+- **Linha de Missão Ativa:** Recuperação da loba, proteção do rebanho e investigação dos laços.
+- **Eventos Cruciais Ocorridos:** Vendas concluídas e histórico restaurado.
+- **Condições do Jogador:** 12/12 PV, CA 16, 50/300 XP, 32 PO, 3 PP, 3 PC. Inspiração Heroica disponível.
+
+**GitHub:** commits confirmados. Nenhum avanço de tempo ou alteração de recursos nesta revisão.
