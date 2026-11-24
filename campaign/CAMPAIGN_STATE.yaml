@@ -32,13 +32,13 @@ character:
   heroic_inspiration: true
   hit_dice_available: "1d8"
   money:
-    gold: 60
-    silver: 8
+    gold: 57
+    silver: 6
     copper: 7
   inventory_reference: character/ERON_RIVER_LEVEL_01.md
   carrying_all_owned_equipment: true
   carrying_weight_lb_recorded: 103.88
-  carrying_weight_note: "Materiais da caça do Dia5 vendidos; carga abaixo de 180 lb, peso exato não aferido."
+  carrying_weight_note: "Compra Dia5 adicionou ~11,35 kg (14 lb rações e 5 kg sal); carga abaixo de 180 lb, peso exato não aferido."
   carrying_capacity_lb: 180
   known_personal_item: "Marca da Bigorna Velada, pequeno disco familiar e bolsa de couro; uso desconhecido para Eron."
   untrained_owned_tool: "Ferramentas de Funileiro (propriedade, sem proficiência)"
@@ -82,9 +82,9 @@ character:
     purchase: "Dia 2 ~07h10 em Olma Ramo, por 4PO4PP com 20% de desconto Artesão"
   rations:
     starting_full_days: 5
-    intact_full_days: 3
+    intact_full_days: 10
     partly_used_days: 0
-    food_offered: "Dia4 almoço na ferraria e jantar na estalagem, sem gastar rações; 3 intactas."
+    food_offered: "Dia5 ~16h05 comprou 7 rações; 10 intactas, nenhuma consumida nesta interação."
   salvaged_materials:
     rabbit_raw_hide: "vendida a Belda Cortiça Dia 2 ~11h55"
     rabbit_ears: 0
@@ -146,8 +146,8 @@ character:
     sale_total: "1 PO e 9 PP"
     preparation_result: "2d20kh1+5 [11,17] mantido 17+5=22; execução Python não comprovada, continuidade preservada"
   salt_supply:
-    sacks: 1
-    weight_kg_approx: 0.2
+    sacks: 2
+    weight_kg_approx: 5.2
     purpose: "Conservação de peles; não garante conservação sem preparo adequado."
   animal_first_aid:
     wolf_forepaw: "Dia5 ~10h05: exame confirmou cicatrização completa, mobilidade normal, sem dor aparente; cuidados concluídos."
@@ -156,21 +156,21 @@ character:
 campaign_time:
   calendar_system: "Asterion, dias relativos; nenhuma era/ano formal estabelecido"
   day: 5
-  time_of_day: "aproximadamente 15h50 do Dia 5"
+  time_of_day: "aproximadamente 16h15 do Dia 5"
   season: "final do outono"
-  elapsed_game_time: "Dia5 ~15h45–15h50 definição de contato com Iria."
+  elapsed_game_time: "Dia5 ~15h50–16h15 compra de provisões e retorno à ferraria."
 location:
   continent: Asterion
   polity: "Terras Livres de Avenhar (homebrew), fora de Valdren"
   area: "entroncamento da Estrada do Cascalho, próximo ao Pouso das Três Fontes"
   nearby: "encostas arborizadas da serra cujo monte mais alto é chamado Veyra"
-  exact_position: "Posto da Guarda do Pouso das Três Fontes"
-  travel_status: "No posto da guarda, após receber recompensa."
+  exact_position: "Ferraria de Durnak Mão de Ferro, Pouso das Três Fontes"
+  travel_status: "Na ferraria, ainda sem iniciar novo trabalho."
 scene:
   id: OPENING-001
-  status: "awaiting_player_action_after_iria_contact_agreed"
-  current_npcs_present: ["Iria Vento-Seco"]
-  immediate_visible_situation: "Dia5 ~15h50: Eron autorizou Iria a deixar futuros recados na ferraria de Durnak. Iria registrou o nome e local de contato, manifestou apreço por sua investigação não violenta, apertou-lhe a mão e começou a reunir equipamento para patrulha dos laços. Patrulha ainda não partiu. Nenhuma nova missão, vínculo formal, rolagem, XP ou gasto. Aguarda ação de Eron."
+  status: "awaiting_player_action_at_smithy_day5"
+  current_npcs_present: ["Durnak Mão de Ferro"]
+  immediate_visible_situation: "Dia5 ~15h50–16h15: Eron reiterou que Iria pode deixar recados e foi ao comerciante de artigos de viagem junto à segunda fonte. ~16h05 adquiriu 7 rações diárias a 5PP cada (35PP base, 28PP com desconto Crafter de 20%) e saco de sal de 5kg por preço local adjudicado de 5PP base (4PP com desconto). Total 32PP = 3PO2PP; saldo anterior 60PO8PP7PC, novo 57PO6PP7PC. Rações intactas 3→10, nenhuma consumida; sal 0,2→5,2 kg, dois sacos. Peso adicional ~11,35kg (14 lb de rações + 5 kg de sal, sem quantificar embalagem); abaixo da capacidade de 180 lb, peso total exato não aferido. ~16h15 chegou à ferraria; Durnak perguntou se veio terminar flechas ou procurar trabalho e ofereceu bancada até fechamento às18h. Projeto permanece 8/20 concluídas, 12 pendentes, 265min de trabalho restante, materiais pagos, 105min disponíveis antes do fechamento. Não iniciou fabricação, não definiu localização dos materiais, não aceitou novo trabalho. Sem teste ou XP, PV12/12 CA16 XP225/300, 20 flechas (19 aljava +1 reserva), kit9/10, Inspiração Heroica disponível. Iria permanece responsável pela patrulha dos laços; resultados ainda não conhecidos por Eron."
   discovered_traps:
     - location: "Trilha dos Corcos, junto ao riacho"
       state: disarmed_safe_wire_left_at_tree
@@ -214,8 +214,8 @@ world:
 transcription:
   character_creation_history: sessions/transcripts/SESSION_0001_FULL.md
   narrative_session: sessions/transcripts/SESSION_0002_FULL.md
-  last_saved_player_turn: "- pode deixar na ferraria "
-  last_saved_dm_turn: "[196] MESTRE — ponto de contato com Iria estabelecido na ferraria."
+  last_saved_player_turn: "- precisando só deixar recado\nVou sair comprar ração para fechar 10 dias na estrada e também um saco de sal de 5kg e depois vou para a ferraria"
+  last_saved_dm_turn: "[198] MESTRE — provisões compradas, retorno à ferraria."
 notes:
   - "Primeira resposta de cena será salva literalmente e sem revelar preparativos de dm."
   - "Nunca tratar a aprovação da ficha como XP, nem mudar recursos automaticamente."
