@@ -32,13 +32,13 @@ character:
   heroic_inspiration: true
   hit_dice_available: "1d8"
   money:
-    gold: 41
-    silver: 2
-    copper: 3
+    gold: 42
+    silver: 1
+    copper: 7
   inventory_reference: character/ERON_RIVER_LEVEL_01.md
   carrying_all_owned_equipment: true
   carrying_weight_lb_recorded: 103.88
-  carrying_weight_note: "6 kg de carne entregues à loba; demais materiais mantidos, carga abaixo de 180 lb."
+  carrying_weight_note: "Materiais de corço e lebre vendidos, exceto miúdos rejeitados; carga abaixo de 180 lb."
   carrying_capacity_lb: 180
   known_personal_item: "Marca da Bigorna Velada, pequeno disco familiar e bolsa de couro; uso desconhecido para Eron."
   untrained_owned_tool: "Ferramentas de Funileiro (propriedade, sem proficiência)"
@@ -105,19 +105,19 @@ character:
   harvested_hare_day3_evening:
     fresh_meat_kg_approx: 0
     meat_consumed_shared_kg_approx: 1.2
-    condition: "Pele, orelhas e miúdos crus sem sal após noite fria; perecíveis, qualidade comercial a avaliar."
-    raw_hide: "1 pele crua em bom estado, sem sal"
-    ears: 2
-    small_bones: 2
-    useful_offal: "1 coração e 1 fígado frescos"
+    condition: "Pele, orelhas e ossos vendidos Dia4 ~10h30; miúdos rejeitados por falta de conservação."
+    raw_hide: "vendida por 2 PP"
+    ears: 0
+    small_bones: 0
+    useful_offal: "1 coração e 1 fígado não conservados, rejeitados por Bram, ainda em posse"
     preparation_result: "Sobrevivência/Coureiro 2d20kh1+5 [7,18] mantido 18+5=23"
   harvested_roe_deer_day4:
     fresh_meat_kg_approx: 0
     meat_offered_to_wolf_kg_approx: 6
-    raw_hide: "1 pele crua danificada"
-    antler_stems: 2
-    ears: 2
-    long_bones: 2
+    raw_hide: "vendida por 4 PP"
+    antler_stems: 0
+    ears: 0
+    long_bones: 0
     sinew_bundles: 0
     useful_offal: "não aproveitados"
     preparation_result: "2d20kh1+5 [3,4] mantido 4+5=9; execução Python não comprovada, resultado narrativo preservado"
@@ -132,21 +132,21 @@ character:
 campaign_time:
   calendar_system: "Asterion, dias relativos; nenhuma era/ano formal estabelecido"
   day: 4
-  time_of_day: "aproximadamente 09h15 do Dia 4"
+  time_of_day: "aproximadamente 11h00 do Dia 4"
   season: "final do outono"
-  elapsed_game_time: "Dia4 ~09h05–09h15 carinho na loba e nas crias."
+  elapsed_game_time: "Dia4 ~09h15–11h00 retorno ao povoado, vendas e chegada à ferraria."
 location:
   continent: Asterion
   polity: "Terras Livres de Avenhar (homebrew), fora de Valdren"
   area: "entroncamento da Estrada do Cascalho, próximo ao Pouso das Três Fontes"
   nearby: "encostas arborizadas da serra cujo monte mais alto é chamado Veyra"
-  exact_position: "Entrada da toca da loba, ravina conhecida"
-  travel_status: "Na toca após entregar carne e tratar pata."
+  exact_position: "Ferraria de Durnak Mão de Ferro, próxima à terceira fonte do Pouso das Três Fontes"
+  travel_status: "Na ferraria após vender materiais de caça."
 scene:
   id: OPENING-001
-  status: "awaiting_player_action_at_wolf_den_day4_after_treatment"
-  current_npcs_present: ["Loba em recuperação final", "Dois filhotes"]
-  immediate_visible_situation: "Dia4 ~09h05–09h15: Eron acariciou espontaneamente ambos os filhotes quando se aproximaram, sem forçar contato, e acariciou a loba. Primeiro filhote brincou nas folhas; segundo aproximou-se após observar e voltou à mãe. Loba relaxou e repousou focinho sobre a perna de Eron. Confiança reforçada, sem domesticação ou vínculo mecânico; nenhuma rolagem, XP, dano ou consumo."
+  status: "awaiting_player_response_to_day4_smith_work_offer"
+  current_npcs_present: ["Durnak Mão de Ferro"]
+  immediate_visible_situation: "Dia4 ~09h15–11h00: Eron despediu-se da loba e crias, deixou a carne de corço anteriormente entregue (~6 kg total oferecido; quantidade remanescente não medida), voltou ao Pouso das Três Fontes. ~10h30 vendeu a Belda pele danificada do corço 4PP, pele de lebre 2PP, duas galhadas 2PP, dois ossos longos 5PC, dois ossos pequenos 2PC; a Nessa duas orelhas de corço 5PC e duas de lebre 2PC. Bram recusou coração e fígado de lebre sem conservação adequada, que permanecem em posse de Eron, sem valor comercial alimentar confirmado. Total 8PP+14PC=9PP4PC; saldo de 41PO2PP3PC para 42PO1PP7PC. Nenhuma rolagem ou XP por comércio. ~11h00 chegou à ferraria; Durnak soube do reparo e confirmou reabertura ao trânsito, ofereceu ajuste de aros de ferro de duas rodas de carroça e fabricação de seis cravos de fixação, material fornecido, pagamento 1PO5PP pela conclusão, estimativa antes de 15h. Ainda não aceito, nenhum pagamento adicional. PV12/12, CA16, XP125/300, 13 flechas, 3 rações, 200g sal, kit9/10, Inspiração Heroica disponível."
   discovered_traps:
     - location: "Trilha dos Corcos, junto ao riacho"
       state: disarmed_safe_wire_left_at_tree
@@ -174,8 +174,8 @@ world:
 transcription:
   character_creation_history: sessions/transcripts/SESSION_0001_FULL.md
   narrative_session: sessions/transcripts/SESSION_0002_FULL.md
-  last_saved_player_turn: "- faço carinho quando eles se aproxima e não forço nada e faço na loba também"
-  last_saved_dm_turn: "[158] MESTRE — carinho aceito pela loba e ambos os filhotes."
+  last_saved_player_turn: "- vou deixar vocês aqui acredito que 6kg de carne de corço da para vocês\nE vou para a cidade vender oque cacei e depois para a Ferraria"
+  last_saved_dm_turn: "[160] MESTRE — vendas concluídas, saldo 42PO1PP7PC, nova oferta de Durnak."
 notes:
   - "Primeira resposta de cena será salva literalmente e sem revelar preparativos de dm."
   - "Nunca tratar a aprovação da ficha como XP, nem mudar recursos automaticamente."
