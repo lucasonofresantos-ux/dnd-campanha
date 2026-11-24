@@ -221,3 +221,6 @@
 
 ## Dia 5 ~11h55 — contrato dos rebanhos concluído
 - Mara confirmou a ausência de perdas por três noites e pagou as 12 PO prometidas, encerrando o contrato. Gratidão e respeito por Eron. +50 XP pelo resultado substantivo de proteção verificável, não pelos primeiros socorros ou laços já pontuados. Animais selvagens seguem suas vidas, sem garantia de ausência de incidentes futuros. Investigação de Iria permanece opcional, 5 PO; não revelar autoria ou antecipar evidências. Comércio de caça concluído, saldo final 55PO8PP7PC. Sem novas rolagens.
+
+## Dia 5 ~13h50 — rastreamento até abrigo de lenhadores
+- Odran Peça, buscando manter sua renda, prepara outro laço nas proximidades do abrigo de lenhadores. Pegadas da bota direita com desgaste característico ligam a trilha ao local; Eron vê Odran preparando um laço, mas não sabe seu nome, nem tem prova direta de todos os laços anteriores. Rastreamento Sobrevivência 24, Investigação 16 e Percepção 19, dados realmente executados em Python com hash do script verificado. Odran ainda não demonstrou perceber Eron, distância ~25m; não assumir sucesso de Furtividade nem ação de confronto. Possível falar, observar, buscar provas ou retornar à guarda conforme ação do jogador; não forçar desfecho. Sem XP ou pagamento até resolução substantiva.
