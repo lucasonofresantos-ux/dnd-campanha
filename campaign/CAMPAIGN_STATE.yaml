@@ -32,7 +32,7 @@ character:
   heroic_inspiration: true
   hit_dice_available: "1d8"
   money:
-    gold: 35
+    gold: 36
     silver: 2
     copper: 3
   inventory_reference: character/ERON_RIVER_LEVEL_01.md
@@ -113,21 +113,21 @@ character:
 campaign_time:
   calendar_system: "Asterion, dias relativos; nenhuma era/ano formal estabelecido"
   day: 3
-  time_of_day: "aproximadamente 15h40 do Dia 3"
+  time_of_day: "aproximadamente 16h40 do Dia 3"
   season: "final do outono"
-  elapsed_game_time: "Dia3 ~12h20–15h40 fabricação de dobradiças e pregos."
+  elapsed_game_time: "Dia3 ~15h40–16h40 reparação do machado e pagamento."
 location:
   continent: Asterion
   polity: "Terras Livres de Avenhar (homebrew), fora de Valdren"
   area: "entroncamento da Estrada do Cascalho, próximo ao Pouso das Três Fontes"
   nearby: "encostas arborizadas da serra cujo monte mais alto é chamado Veyra"
   exact_position: "Ferraria de Durnak Mão de Ferro, terceira fonte do Pouso das Três Fontes"
-  travel_status: "Na ferraria; contrato aceito, primeira etapa concluída."
+  travel_status: "Na ferraria; encomenda concluída e paga."
 scene:
   id: OPENING-001
-  status: "awaiting_day3_axe_repair_dexterity_roll"
+  status: "awaiting_player_action_after_day3_smith_job"
   current_npcs_present: ["Durnak Mão de Ferro"]
-  immediate_visible_situation: "Dia 3 ~12h20–15h40: Eron aceitou a encomenda de Durnak por 1 PO, materiais da oficina. Teste de Força (Ferramentas de Ferreiro), dado natural informado pelo jogador 17, 1d20+3=20, sucesso. Quatro dobradiças reforçadas e vinte pregos grandes concluídos e aprovados. Resta reparar cabeça de machado com lâmina deformada e desgastada. Solicitado teste de Destreza (Ferramentas de Ferreiro) +7 (DES+5, proficiência+2), aguardando resultado ou autorização. Pagamento ainda pendente; nenhum XP, dano ou gasto de recursos."
+  immediate_visible_situation: "Dia 3 ~15h40–16h40: Eron reparou a cabeça do machado. Dado natural 16 informado pelo jogador, Destreza (Ferramentas de Ferreiro) 1d20+7=23, sucesso. Quatro dobradiças, vinte pregos e machado concluídos e aprovados. Durnak pagou 1 PO, saldo 36 PO 2 PP 3 PC; ofereceu conversar sobre uso futuro da forja, sem acordo novo. Nenhum XP adicional por trabalho rotineiro, dano ou gasto de materiais próprios. Eron permanece na ferraria, ~16h40."
   discovered_traps:
     - location: "Trilha dos Corcos, junto ao riacho"
       state: disarmed_safe_wire_left_at_tree
@@ -151,8 +151,8 @@ world:
 transcription:
   character_creation_history: sessions/transcripts/SESSION_0001_FULL.md
   narrative_session: sessions/transcripts/SESSION_0002_FULL.md
-  last_saved_player_turn: "- sim aceito, vamos lá\n17 natural"
-  last_saved_dm_turn: "[132] MESTRE — ferraria teste 20, dobradiças e pregos concluídos; teste de Destreza +7 solicitado para machado."
+  last_saved_player_turn: "16 natural"
+  last_saved_dm_turn: "[134] MESTRE — machado reparado, teste 23, 1 PO recebida."
 notes:
   - "Primeira resposta de cena será salva literalmente e sem revelar preparativos de dm."
   - "Nunca tratar a aprovação da ficha como XP, nem mudar recursos automaticamente."
