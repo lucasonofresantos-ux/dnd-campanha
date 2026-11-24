@@ -158,3 +158,6 @@
 
 ## Dia 3 ~17h15 — negociação
 - Avel cedeu aos 5 PO, condicionado ao funcionamento antes de escurecer. Sem pagamento antecipado. Pressão crescente dos detritos, diagnóstico ainda pendente. Não tratar negociação como solução do desafio técnico nem conceder XP duplicado.
+
+## Dia 3 ~17h25 — diagnóstico da ponte
+- Eixo empenado, anel deformado e tensão da corrente diagnosticados com Investigação 25 (dado do jogador). Peças compatíveis disponíveis; reparo depende de sustentar a carga e substituição/ajuste das peças, sem garantia de sucesso. Estimativa 25 min; pagamento 5 PO condicionado à conclusão antes do anoitecer. Avel pode ajudar a sustentar a carga com recursos locais se solicitado. Sem XP até resolução substantiva.
