@@ -18,5 +18,5 @@
 - XP: [XP_LOG.csv](../campaign/XP_LOG.csv), regras em [PROGRESSION_XP.md](../campaign/PROGRESSION_XP.md).
 - Sessão narrativa 1: [SESSION_0002.md](SESSION_0002.md), transcrição [SESSION_0002_FULL.md](transcripts/SESSION_0002_FULL.md).
 - Isolamento: não misturar com `PRE-CHAR-HUMAN-001` (que é histórico da criação), nem com campanhas de outros personagens.
-- Transcrição [SESSION_0002_FULL.md](transcripts/SESSION_0002_FULL.md), mensagens [001]–[052]: dados físicos Lidar com Animais [19]+3=22 e Medicina [20]+3=23; Eron extraiu pequeno arame da pata da loba, limpou com água e faixa de roupa; ferida ainda cicatrizando. Correção auditável de 'saquear' inclui todas as partes úteis: coelho deixou 1 pele crua danificada e 2 orelhas com Eron; falha anterior no preparo de carne e flecha perdida permanecem. ~16h20 Dia1, +25XP (25/300), 19 flechas, 36 PO 8 PP.
+- Transcrição [SESSION_0002_FULL.md](transcripts/SESSION_0002_FULL.md), mensagens [001]–[054]: Eron prometeu voltar à loba pela manhã com comida e unguento e pedir que evitasse cabras; retornou ~1h20 à aldeia e chegou às 17h40 ao curral de Mara Telha. Mara pergunta sobre a ameaça e teme novos ataques na noite; Eron ainda deve responder. Missão e 12PO pendentes; XP25/300, PV12/12, 19 flechas utilizáveis, 36 PO 8 PP.
 - Planejamento secreto em `dm/` (jamais incluir em logs públicos).
