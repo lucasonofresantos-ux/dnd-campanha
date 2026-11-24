@@ -375,3 +375,39 @@ A loba continua deitada e vigilante. **Eron permanece atrás da pedra, a cerca d
 - Condições do Jogador: Ladino 1, **12/12 PV**, **CA 16**, **0/300 XP**, **36 PO e 8 PP**. Sem condições ou recursos gastos; combate não iniciado.
 
 **GitHub:** rolagem, estado, cronologia e transcrição atualizados; commits confirmados.
+
+## [019] JOGADOR — 2026-11-23
+
+Saio devagar com o lidar animais que tirei longe das crias e sem bloquear a saída e tiro alguma carne seca da ração e ofereço 
+- calma garota, calma não quero te fazer mal, só deixa eu ver isso, e oque você está fazendo sem uma matilha?
+
+## [020] MESTRE — 2026-11-23
+
+Eron sai lentamente de trás da saliência rochosa, mantendo distância dos filhotes e deixando livre o caminho de saída da toca. Sua voz baixa quebra o silêncio da ravina.
+
+— Calma, garota, calma... Não quero te fazer mal. Só deixa eu ver isso. E o que você está fazendo sem uma matilha?
+
+A loba ergue a cabeça imediatamente. Suas orelhas se voltam para Eron e um **rosnado baixo** vibra em sua garganta. Ela não compreende suas palavras como uma pessoa compreenderia, mas acompanha o tom de voz, os movimentos e a postura daquele desconhecido.
+
+O cheiro da carne seca parece chamar sua atenção.
+
+Aproveitando a abordagem cuidadosa e o resultado anterior de **Lidar com Animais: 18**, Eron consegue evitar uma reação agressiva imediata. A loba se levanta com dificuldade, mantendo o corpo entre ele e os filhotes. Um deles tenta sair de perto da mãe, mas ela o empurra delicadamente para trás com o focinho.
+
+Depois de longos instantes, a loba avança o suficiente para **apanhar a carne oferecida com os dentes** e recua para junto das crias. Não há mordida contra Eron.
+
+Ao vê-la movimentar-se, ele distingue melhor o ferimento: uma faixa de pelo arrancado e pele avermelhada contorna parte da pata dianteira, logo acima dos dedos. A região parece inchada, compatível com a pressão de um laço apertado.
+
+Ela mastiga a carne sem tirar os olhos dele. **Aceitou o alimento, mas ainda não permite que ele toque sua pata.** Não há outros lobos visíveis na toca ou nas imediações; isso, por si só, não explica a ausência de uma matilha.
+
+A loba permanece alerta, com os filhotes atrás do corpo. O rosnado cessou, embora ela ainda acompanhe cada movimento de Eron.
+
+**O que Eron faz agora?**
+
+**[LOG DE MEMÓRIA DA CAMPANHA]**
+- Localização Atual: Entrada da toca na ravina, aproximadamente 2 m da abertura.
+- NPCs Presentes e Relação: Nenhum NPC; uma loba ferida e dois filhotes presentes. A loba tolera a presença de Eron e aceitou alimento, mas continua protegendo as crias.
+- Linha de Missão Ativa: Investigar e resolver os ataques ao rebanho de Mara; recompensa de 12 PO ainda não recebida.
+- Eventos Cruciais Ocorridos: Eron se revelou com cautela, falou à loba e ofereceu carne seca. Aplicado o resultado anterior de **Lidar com Animais 18**, sem nova rolagem. O ferimento na pata tornou-se mais visível; não houve toque ou combate.
+- Condições do Jogador: Ladino 1, **12/12 PV**, **CA 16**, **0/300 XP**, **36 PO e 8 PP**. Das rações para cinco dias, quatro permanecem intactas e uma está parcialmente utilizada após a oferta de um pedaço de carne seca. Nenhuma condição ativa.
+
+**GitHub:** estado, inventário, cronologia e transcrição atualizados; commits confirmados.
