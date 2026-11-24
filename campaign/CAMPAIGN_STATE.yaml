@@ -38,7 +38,7 @@ character:
   inventory_reference: character/ERON_RIVER_LEVEL_01.md
   carrying_all_owned_equipment: true
   carrying_weight_lb_recorded: 103.88
-  carrying_weight_note: "6 kg de carne de corço e demais materiais adicionados; abaixo de 180 lb, carga exata não aferida."
+  carrying_weight_note: "6 kg de carne entregues à loba; demais materiais mantidos, carga abaixo de 180 lb."
   carrying_capacity_lb: 180
   known_personal_item: "Marca da Bigorna Velada, pequeno disco familiar e bolsa de couro; uso desconhecido para Eron."
   untrained_owned_tool: "Ferramentas de Funileiro (propriedade, sem proficiência)"
@@ -66,7 +66,7 @@ character:
     mild_ointment_pots: 1
     ointment_status: "Pote parcialmente cheio; duas aplicações acumuladas, Dia2 10h15 e Dia3 10h15."
     clean_bandage_sets: 0
-    bandage_status: "Atadura avulsa utilizada Dia2; substituída Dia3 por atadura do kit (1 uso consumido como material), nenhuma avulsa restante."
+    bandage_status: "Atadura do kit colocada Dia3, retirada Dia4 após cicatrização; nenhuma nova atadura usada."
     purchase: "Dia 2 ~07h10 em Olma Ramo, por 4PO4PP com 20% de desconto Artesão"
   rations:
     starting_full_days: 5
@@ -112,40 +112,41 @@ character:
     useful_offal: "1 coração e 1 fígado frescos"
     preparation_result: "Sobrevivência/Coureiro 2d20kh1+5 [7,18] mantido 18+5=23"
   harvested_roe_deer_day4:
-    fresh_meat_kg_approx: 6
+    fresh_meat_kg_approx: 0
+    meat_offered_to_wolf_kg_approx: 6
     raw_hide: "1 pele crua danificada"
     antler_stems: 2
     ears: 2
     long_bones: 2
     sinew_bundles: 0
     useful_offal: "não aproveitados"
-    preparation_result: "2d20kh1+5 [3,4] mantido 4+5=9; execução Python comprovada"
+    preparation_result: "2d20kh1+5 [3,4] mantido 4+5=9; execução Python não comprovada, resultado narrativo preservado"
   salt_supply:
     sacks: 1
     weight_kg_approx: 0.2
     purpose: "Conservação de peles; não garante conservação sem preparo adequado."
   animal_first_aid:
-    wolf_forepaw: "Dia3 ~10h15: novo exame e curativo; inchaço consideravelmente reduzido, ferida quase fechada, sem secreção visível ou mau cheiro. Ainda em recuperação, não curada. Aplicação de unguento e atadura do kit."
+    wolf_forepaw: "Dia4 ~09h00: ferida fechada, sem inchaço significativo ou secreção, mobilidade quase normal, força ainda em recuperação; curativo retirado, região limpa, sem novo unguento."
   looting_convention: "Ao dizer saquear um animal, Eron procura carne, couro/pele, orelhas, ossos, dentes e demais partes plausivelmente úteis ou vendáveis; ferramentas/proficiências pertinentes contam para adjudicar o rendimento, sem garantir sucesso ou preço."
-  animal_handling_last: "Dia4 ~06h10: [5]+3=8; loba não acompanha caça, retorna às crias."
+  animal_handling_last: "Dia4 ~09h00: dado natural 15+3=18, exame e carinho aceitos."
 campaign_time:
   calendar_system: "Asterion, dias relativos; nenhuma era/ano formal estabelecido"
   day: 4
-  time_of_day: "aproximadamente 08h00 do Dia 4"
+  time_of_day: "aproximadamente 09h00 do Dia 4"
   season: "final do outono"
-  elapsed_game_time: "Dia4 ~06h00–08h00 convite à loba, desarme de laço e caça."
+  elapsed_game_time: "Dia4 ~08h00–09h00 retorno à toca, alimentação e exame da pata."
 location:
   continent: Asterion
   polity: "Terras Livres de Avenhar (homebrew), fora de Valdren"
   area: "entroncamento da Estrada do Cascalho, próximo ao Pouso das Três Fontes"
   nearby: "encostas arborizadas da serra cujo monte mais alto é chamado Veyra"
-  exact_position: "Trilha dos Corços, trecho arborizado onde abateu corço macho"
-  travel_status: "Na mata, caça concluída; loba na toca."
+  exact_position: "Entrada da toca da loba, ravina conhecida"
+  travel_status: "Na toca após entregar carne e tratar pata."
 scene:
   id: OPENING-001
-  status: "awaiting_player_action_after_day4_hunt"
-  current_npcs_present: []
-  immediate_visible_situation: "Dia4 ~06h00–08h00: Eron convidou a loba a caçar e saiu. Rolagens efetivamente executadas em Python via container, usando script com hash Git d35af70119bf684ea055619bb10678a1c4b03bbb. Lidar com Animais 1d20+3 [5]+3=8, falha; loba acompanhou poucos metros e retornou às crias. ~06h50 Percepção 1d20+7 [9]+7=16, identificou terceiro laço distinto entre raízes na Trilha dos Corços; Prestidigitação/Ferramentas de Ladrão 2d20kh1+7 [16,16] mantendo primeiro 16+7=23, desarmou, arame solto junto à árvore. +25 XP por neutralizar novo desafio ambiental, total 125/300. Responsável não identificado. ~07h30 Sobrevivência 1d20+5 [14]+5=19, Percepção 1d20+7 [11]+7=18, Furtividade 1d20+9 [18]+9=27; avistou corço macho adulto ~25m. Ataque arco curto vantagem 2d20kh1+7 [2,14] mantido 14+7=21, acerto; dano furtivo 2d6+5 [5,3]+5=13, abate. ~08h00 saque Sobrevivência/Coureiro vantagem 2d20kh1+5 [3,4] mantido 4+5=9, aproveitamento parcial: 6 kg carne, 1 pele crua danificada, 2 galhadas pequenas, 2 orelhas, 2 ossos longos; miúdos e tendões não aproveitados. Uma flecha consumida, 13 restantes; sal 200g sem uso. Materiais anteriores da lebre permanecem. PV12/12, CA16, dinheiro41PO2PP3PC, Inspiração Heroica disponível; nenhuma recompensa pelo rebanho, XP de caça rotineira zero."
+  status: "awaiting_player_action_at_wolf_den_day4_after_treatment"
+  current_npcs_present: ["Loba em recuperação final", "Dois filhotes"]
+  immediate_visible_situation: "Dia4 ~08h00–09h00: Eron retornou à toca, chegou ~08h40, ofereceu toda a carne de corço (~6 kg) à loba e crias, que começaram a comer; restante ficou junto à entrada, quantidade ingerida não aferida. Dados naturais do jogador: Lidar com Animais 1d20+3 [15]+3=18, Medicina 1d20+3 [19]+3=22, sucessos. Retirou atadura e examinou pata; ferida fechada, sem inchaço significativo, secreção ou sinais aparentes de infecção; inflamação resolvida clinicamente, mobilidade quase normal, força ainda em recuperação. Limpou região, sem necessidade de nova atadura ou unguento, kit permanece 9/10. Loba aceitou carinho, encostou focinho na mão e lambeu dedos; crias próximas e brincando. Confiança muito elevada, ainda selvagem, sem domesticação. Nenhum XP adicional por tratamento repetido; 125/300 XP, 13 flechas, 41PO2PP3PC, PV12/12, CA16, 3 rações, 200g sal, demais materiais de caça mantidos. Nota de auditoria: execução Python alegada em [152] não é comprovada no histórico de ferramentas disponível; preservar acontecimentos e inventário, assinalar resultados como não verificados, sem nova rolagem retroativa."
   discovered_traps:
     - location: "Trilha dos Corcos, junto ao riacho"
       state: disarmed_safe_wire_left_at_tree
@@ -173,8 +174,8 @@ world:
 transcription:
   character_creation_history: sessions/transcripts/SESSION_0001_FULL.md
   narrative_session: sessions/transcripts/SESSION_0002_FULL.md
-  last_saved_player_turn: "- já está melhor é que tal me ajudar a caçar hoje\nSaio para caçar até matar alguma coisa e saquear e se achar outra armadilha eu desarmo"
-  last_saved_dm_turn: "[152] MESTRE — loba fica na toca, novo laço desarmado, corço abatido, saque parcial."
+  last_saved_player_turn: "Volto para a loba para dar a carne para ela e também para tratar a pata\nLidar com animais 15\nMedicina 19\nTermino e faço um carinho nela"
+  last_saved_dm_turn: "[154] MESTRE — alimentação, exame bem-sucedido, ferida fechada e curativo retirado."
 notes:
   - "Primeira resposta de cena será salva literalmente e sem revelar preparativos de dm."
   - "Nunca tratar a aprovação da ficha como XP, nem mudar recursos automaticamente."
