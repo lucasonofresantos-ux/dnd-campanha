@@ -239,3 +239,6 @@
 
 ## Dia 5 ~15h50 — ponto de contato definido
 - Iria pode deixar recados para Eron na ferraria de Durnak. Não há novo serviço nem vínculo formal. Começou a reunir equipamento para patrulha; não partiu ainda. Relógios seguem com tempo de jogo.
+
+## Dia 5 ~16h15 — provisões e ferraria
+- Eron comprou rações e sal pelo preço local com desconto de Artesão e chegou à ferraria; Durnak disponibilizou bancada até 18h. Não iniciar fabricação nem novo contrato sem ação declarada. Iria saiu com dois vigias para averiguar laços às ~16h10; ainda em deslocamento, sem apreensão ou confronto. Eron não presenciou a saída. Sem XP ou testes novos.
