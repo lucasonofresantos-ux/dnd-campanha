@@ -134,3 +134,6 @@
 ## Dia 2 à noite – Dia 3 ~06h00
 - Eron retornou à ravina e pernoitou fora da toca; família permanece no abrigo, ainda selvagem. Parte da carne anterior remanesce, jantar de carne seca suplementar. Recuperação gradual: loba suporta parte do peso, claudica, curativo permanece; não presumir cura total. Loba não deixou a região para atacar rebanho nesta noite; sem inferir segurança permanente ou recompensa concluída. Nenhum incidente durante o descanso.
 - Relógios avançaram até manhã do Dia 3. Iria manteve proteção do rebanho na noite; debate sobre medidas adicionais ainda aberto. Caravana prevista passou pelo Pouso na tarde do Dia 2 e pernoitou para avaliar a passagem do Córrego Curvo; oportunidade de escolta ainda condicionada à avaliação matinal, sem conhecimento de Eron. Umidade noturna compatível com previsão; não impor enchente sem evolução observável.
+
+## Dia 3 ~09h50 — retorno à toca
+- Loba permanece na ravina com os dois filhotes; mobilidade gradual melhorada, ainda claudica e não recuperou plena capacidade de caça. Atadura suja nas bordas, permanece no lugar; não presumir ausência de infecção. Reconhece Eron e cheiro de carne; tolerância anterior não equivale à domesticação. Carne de corça em posse de Eron, nenhuma nova oferta ou tratamento confirmado. Não conceder recompensa de Mara ou XP por simples retorno.
