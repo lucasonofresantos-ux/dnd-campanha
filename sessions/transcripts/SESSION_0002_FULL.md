@@ -5239,3 +5239,111 @@ Lá fora, a luz do dia começa a desaparecer.
 - **Condições do Jogador:** 12/12 PV, CA 16, 225/300 XP, 57 PO, 6 PP e 7 PC, 25 flechas, 10 rações, 5,2 kg de sal. Inspiração Heroica disponível.
 
 **GitHub:** transcrição, inventário, cronologia, estado e relógios atualizados; commits confirmados.
+
+
+## [201] JOGADOR — 2026-11-24, retomada em nova conversa
+
+Quero continuar a campanha de onde parou na conversa Continuar campanha, me narre a última cena de volta
+
+## [202] MESTRE — retomada, sem avanço narrativo
+
+Vou conferir o histórico da conversa e o registro da campanha para retomar exatamente da última cena, sem avançar os acontecimentos.
+
+Encontrei a transcrição original, até a mensagem 200, e confirmei que o estado da ficha corresponde ao encerramento da cena na ferraria.
+
+# Eron River — Estradas de Cinza e Pedra
+
+<caption>Continuação da sessão anterior • Dia 5 • Final do outono</caption>
+
+## Ferraria de Durnak Mão de Ferro — 18h00
+
+— Então a bancada é sua. Pode trabalhar à vontade — responde Durnak.
+
+Eron retoma a fabricação, ajustando as hastes, fixando as pontas metálicas e preparando as penas. Quando chega o horário de fechamento, mais cinco flechas estão prontas.
+
+<card gap={3}>
+  **Fabricação de flechas**
+  <row align="center">
+    <title size="2xl" tabularNums={true}>13/20</title>
+    <spacer/>
+    **65% concluído**
+  </row>
+  <box height={2} radius="full" background="surface-tertiary" clip={true}>
+    <box background="#328456" width="65%" height="100%" radius="full"/>
+  </box>
+  <row><text color="secondary">Fabricadas nesta tarde</text><spacer/>**5**</row>
+  <row><text color="secondary">Total de flechas no inventário</text><spacer/>**25**</row>
+  <row><text color="secondary">Restantes para fabricar</text><spacer/>**7**</row>
+  <row><text color="secondary">Tempo de trabalho restante</text><spacer/>**2h40**</row>
+  <caption>Materiais já pagos. Nenhum gasto adicional ou teste necessário.</caption>
+</card>
+
+Durnak apaga a forja e limpa as mãos num pano.
+
+— Amanhã de manhã você termina. Se chegar cedo, terá as flechas prontas antes do almoço.
+
+Lá fora, a luz do dia começa a desaparecer.
+
+**O que você faz, Eron?**
+
+---
+
+<card gap={3}>
+  <title size="lg">Eron River — Ladino nível 1</title>
+  <grid columns={3}>
+    <grid-item>
+      <caption>Pontos de vida</caption>
+      <title size="xl" color="success">12/12</title>
+    </grid-item>
+    <grid-item>
+      <caption>CA</caption>
+      <title size="xl">16</title>
+    </grid-item>
+    <grid-item>
+      <caption>Iniciativa</caption>
+      <title size="xl">+7</title>
+    </grid-item>
+  </grid>
+  <divider/>
+  <row>
+    **Experiência**
+    <spacer/>
+    **225/300 XP**
+  </row>
+  <box height={2} background="surface-tertiary" radius="full" clip={true}>
+    <box height="100%" width="75%" background="#328456" radius="full"/>
+  </box>
+  <caption>Faltam 75 XP para o nível 2.</caption>
+  <divider/>
+  <caption>Dinheiro disponível</caption>
+  <grid columns={3}>
+    <grid-item>
+      <title size="xl" color="#C59B37">57 PO</title>
+      <caption>Ouro</caption>
+    </grid-item>
+    <grid-item>
+      <title size="xl">6 PP</title>
+      <caption>Prata</caption>
+    </grid-item>
+    <grid-item>
+      <title size="xl" color="#B87333">7 PC</title>
+      <caption>Cobre</caption>
+    </grid-item>
+  </grid>
+  <divider/>
+  <row><icon name="bow-arrow"/><text>Flechas</text><spacer/>**25**</row>
+  <row><icon name="backpack"/><text>Rações</text><spacer/>**10 dias**</row>
+  <row><icon name="package"/><text>Sal</text><spacer/>**5,2 kg**</row>
+  <row><icon name="heart-pulse"/><text>Kit de curandeiro</text><spacer/>**9/10 usos**</row>
+  <row><icon name="sparkles" color="#C59B37"/><text>Inspiração Heroica</text><spacer/>**Disponível**</row>
+</card>
+
+### [LOG DE MEMÓRIA DA CAMPANHA]
+
+- **Localização atual:** Ferraria de Durnak, Pouso das Três Fontes, Terras Livres de Avenhar.
+- **NPCs presentes e relação:** Durnak Mão de Ferro, amigável.
+- **Linha de missão ativa:** Nenhum contrato novo. Fabricação de sete flechas pendente.
+- **Eventos cruciais ocorridos:** Loba recuperada; contrato de Mara concluído; Odran identificado; investigação entregue a Iria; ferraria definida como ponto de contato para futuros trabalhos.
+- **Condições do jogador:** Saudável, sem penalidades ou condições negativas.
+
+**GitHub:** commit da retomada confirmado. Cena recuperada do [registro original da sessão](https://github.com/lucasonofresantos-ux/dnd-campanha/blob/main/sessions/transcripts/SESSION_0002_FULL.md). Nenhum acontecimento, recurso ou horário foi alterado.
