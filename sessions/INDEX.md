@@ -72,3 +72,5 @@
 - Atualização: sessão 0002 até [252], Dia6 14h10; entrada fechada, lanterna acesa, segunda porta avistada; auditoria [250] corrigida.
 
 - Atualização: sessão 0002 até [254], Dia6 14h35; disco recuperado, vestíbulo examinado, Investigação 25 do jogador, inscrição anã e alavanca da porta metálica.
+
+- Atualização: sessão 0002 até [256], Dia6 14h35; alavanca com resistência, Atletismo +3 ou outra abordagem pendente.
