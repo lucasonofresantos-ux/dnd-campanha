@@ -3582,3 +3582,103 @@ O sol começa a desaparecer atrás das montanhas. Avel aguarda sua resposta.
 - **Condições do Jogador:** 12/12 PV, CA 16, 100/300 XP, 41 PO, 2 PP e 3 PC, 15 flechas. Inspiração Heroica disponível.
 
 **GitHub:** transcrição, rolagem, experiência, inventário, cronologia, estado e relógios atualizados; commits confirmados.
+
+## [145] JOGADOR
+
+ - Eron, Eron River, se precisar de algo... Eu sou meio ruim de achar mas pode deixar recado na ferraria
+Saio e vou caçar, pode rolar tudo que precisar até abater alguma coisa e saquear
+
+## [146] MESTRE
+
+Vou registrar o contato com Avel e resolver a caçada em etapas, considerando a luz restante, sem gastar sua Inspiração Heroica automaticamente.
+
+### Ponte do Córrego Curvo — Dia 3, 17h55
+
+— Eron River. Vou me lembrar desse nome — responde Avel. — Se precisar de você, deixarei recado com Durnak.
+
+Após deixar a ponte, Eron entra na mata. A claridade desaparece gradualmente, dificultando o rastreamento dos animais.
+
+### Caçada noturna
+
+| Tentativa | Sobrevivência com desvantagem | Resultado |
+|---|---|---|
+| 1ª | [14, 6] → 6 + 5 = **11** | Falha |
+| 2ª | [17, 6] → 6 + 5 = **11** | Falha |
+| 3ª | [17, 2] → 2 + 5 = **7** | Falha |
+
+As três tentativas de rastreamento não permitem localizar uma presa. Nenhuma flecha foi disparada.
+
+Por volta das 19h30, a luz da lua alcança as margens de um riacho, onde os sons dos animais são mais fáceis de distinguir.
+
+Os testes de rastreamento falharam, mas a aproximação pelo riacho permitiu encontrar uma presa. O disparo e a coleta foram resolvidos com sucesso.
+
+Um ruído entre os arbustos denuncia a presença de uma lebre adulta, que sai da vegetação para se alimentar junto à margem. Eron consegue aproximar-se sem ser percebido.
+
+| Teste | Rolagem | Total |
+|---|---|---:|
+| Percepção auditiva | 1d20+7 → [5]+7 | **12** |
+| Furtividade | 1d20+9 → [14]+9 | **23** |
+
+<card gap={2}>
+  <caption>Ataque de arco curto — Vantagem</caption>
+  <grid columns={2}>
+    <grid-item>
+      <box border radius="lg" padding={2} align="center">
+        <title size="2xl" color="success">11</title>
+        <caption>Mantido</caption>
+      </box>
+    </grid-item>
+    <grid-item>
+      <box border radius="lg" padding={2} align="center">
+        <title size="2xl" color="secondary">~~7~~</title>
+        <caption>Descartado</caption>
+      </box>
+    </grid-item>
+  </grid>
+  `2d20kh1+7`
+  <title size="xl">11 + 7 = 18</title>
+  <text color="success">Acertou</text>
+  <divider/>
+  <caption>Dano com Ataque Furtivo — 2d6+5</caption>
+  <title size="xl">6 + 1 + 5 = 12</title>
+  **Lebre abatida.**
+</card>
+
+### Saque
+
+<card gap={1}>
+  <caption>Sobrevivência com Ferramentas de Coureiro — Vantagem</caption>
+  `2d20kh1+5` → [7, 18]
+  <title size="xl" color="success">18 + 5 = 23</title>
+  <text color="success">Sucesso</text>
+</card>
+
+| Material coletado | Quantidade |
+|---|---:|
+| Carne fresca de lebre | 1,2 kg |
+| Pele crua em bom estado | 1 |
+| Orelhas | 2 |
+| Ossos pequenos aproveitáveis | 2 |
+| Coração | 1 |
+| Fígado | 1 |
+
+<caption>Rolagens efetivamente executadas em Python com secrets.randbelow(). Hash Git do script conferido e correspondente ao arquivo do repositório.</caption>
+
+### Mata — 19h55
+
+Eron termina de acondicionar os materiais sob a luz da lua. A temperatura caiu e a floresta está completamente escura fora das clareiras.
+
+Restam **14 flechas e 200 g de sal**. A Inspiração Heroica continua disponível.
+
+**O que Eron faz agora?**
+
+---
+
+**[LOG DE MEMÓRIA DA CAMPANHA]**
+- **Localização Atual:** Mata junto a um riacho, Dia 3, 19h55.
+- **NPCs Presentes e Relação:** Nenhum; Avel conhece o nome de Eron e o ponto de recados.
+- **Linha de Missão Ativa:** Recuperação da loba, proteção dos rebanhos e investigação dos laços.
+- **Eventos Cruciais Ocorridos:** Lebre abatida e saque concluído.
+- **Condições do Jogador:** 12/12 PV, CA 16, 100/300 XP, 41 PO, 2 PP e 3 PC, 14 flechas, 1,2 kg de carne fresca, demais materiais da lebre. Inspiração Heroica disponível.
+
+**GitHub:** transcrição, rolagens, inventário, cronologia, estado e relógios atualizados; commits confirmados.
