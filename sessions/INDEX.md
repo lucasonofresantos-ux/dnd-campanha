@@ -18,5 +18,5 @@
 - XP: [XP_LOG.csv](../campaign/XP_LOG.csv), regras em [PROGRESSION_XP.md](../campaign/PROGRESSION_XP.md).
 - Sessão narrativa 1: [SESSION_0002.md](SESSION_0002.md), transcrição [SESSION_0002_FULL.md](transcripts/SESSION_0002_FULL.md).
 - Isolamento: não misturar com `PRE-CHAR-HUMAN-001` (que é histórico da criação), nem com campanhas de outros personagens.
-- Transcrição [SESSION_0002_FULL.md](transcripts/SESSION_0002_FULL.md), mensagens [001]–[050]: Eron quis trabalhar a pele do coelho e reexaminar a pata; a pele foi deixada na clareira, ferramentas de Coureiro disponíveis, último teste Sobrevivência 6 já aplicado à caça. Solicitado novo Lidar com Animais +3, aguardando rolagem para aproximação da pata. ~16h05 Dia1, 19 flechas, XP0/300, 36 PO 8 PP.
+- Transcrição [SESSION_0002_FULL.md](transcripts/SESSION_0002_FULL.md), mensagens [001]–[052]: dados físicos Lidar com Animais [19]+3=22 e Medicina [20]+3=23; Eron extraiu pequeno arame da pata da loba, limpou com água e faixa de roupa; ferida ainda cicatrizando. Correção auditável de 'saquear' inclui todas as partes úteis: coelho deixou 1 pele crua danificada e 2 orelhas com Eron; falha anterior no preparo de carne e flecha perdida permanecem. ~16h20 Dia1, +25XP (25/300), 19 flechas, 36 PO 8 PP.
 - Planejamento secreto em `dm/` (jamais incluir em logs públicos).
