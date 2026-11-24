@@ -4305,3 +4305,79 @@ Durnak aponta para algumas hastes de madeira seca, um recipiente com penas e peq
 - **Condições do Jogador:** 12/12 PV, CA 16, 125/300 XP, 43 PO, 6 PP e 7 PC, 13 flechas. Inspiração Heroica disponível.
 
 **GitHub:** transcrição, cronologia, estado e relógios atualizados; commits confirmados.
+
+## [171] JOGADOR
+
+- Eu sou rápido e aceito.
+20 natural para fazer as flechas antes as 18 hrs, vou fazer 20 flechas
+
+## [172] MESTRE
+
+### Ferraria de Durnak — Dia 4, 18h00
+
+— Então mãos à obra! — responde o anão, entregando os materiais.
+
+Eron paga as quatro moedas de prata e começa a trabalhar. Durnak observa ocasionalmente sua técnica, impressionado com a precisão do trabalho.
+
+<card gap={1}>
+  <caption>Destreza — Ferramentas de Entalhador</caption>
+  <title size="2xl" color="success">20 natural</title>
+  Resultado informado: 20 + 7 = **27**
+</card>
+
+Pelas regras de fabricação de D&D 2024, o teste não é necessário e um 20 natural não reduz automaticamente o tempo de fabricação. Entretanto, permitirei que Eron conclua as flechas individualmente, sem precisar esperar pelo lote inteiro.
+
+<card gap={3}>
+  **Progresso da fabricação**
+  <row align="center">
+    <title size="2xl">8/20 flechas</title>
+    <spacer/>
+    40%
+  </row>
+  <box height={3} radius="full" background="surface-tertiary" clip>
+    <box height="100%" width="40%" background="#328456" radius="full"/>
+  </box>
+  <divider/>
+  <row>
+    Tempo trabalhado
+    <spacer/>
+    **3h35**
+  </row>
+  <row>
+    Tempo restante
+    <spacer/>
+    **4h25**
+  </row>
+  <row>
+    Materiais pagos
+    <spacer/>
+    4 PP
+  </row>
+  <row>
+    Munição disponível
+    <spacer/>
+    **21 flechas**
+  </row>
+  <row>
+    Saldo atual
+    <spacer/>
+    **43 PO, 2 PP, 7 PC**
+  </row>
+</card>
+
+Durnak começa a fechar a oficina.
+
+— São boas flechas, Eron. Pode voltar amanhã para terminar as outras doze.
+
+A noite começa a cair sobre o povoado. Eron possui vinte flechas na aljava e uma reserva guardada separadamente.
+
+---
+
+**[LOG DE MEMÓRIA DA CAMPANHA]**
+- **Localização Atual:** Ferraria de Durnak, Dia 4, 18h00.
+- **NPCs Presentes e Relação:** Durnak Mão de Ferro, relação profissional positiva.
+- **Linha de Missão Ativa:** Proteção dos rebanhos e investigação dos laços; fabricação de flechas em andamento.
+- **Eventos Cruciais Ocorridos:** Materiais adquiridos, oito flechas concluídas e doze pendentes.
+- **Condições do Jogador:** 12/12 PV, CA 16, 125/300 XP, 43 PO, 2 PP e 7 PC, 21 flechas, 3 rações. Inspiração Heroica disponível.
+
+**GitHub:** transcrição, inventário, registro do dado informado, cronologia, estado e relógios atualizados; commits confirmados.
