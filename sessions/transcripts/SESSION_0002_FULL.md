@@ -1403,3 +1403,63 @@ Ela mantém o kit sobre o balcão, aguardando a resposta.
 - **Condições do Jogador:** Ladino 1, **12/12 PV**, **CA 16**, **25/300 XP**, **35 PO e 5 PP**, Inspiração Heroica disponível; 19 flechas utilizáveis. Quatro rações intactas e uma quase consumida; pele crua de coelho parcialmente danificada e duas orelhas. Chave do quarto 3 ainda em posse de Eron.
 
 **GitHub:** transcrição literal e estado da campanha atualizados; commits confirmados.
+
+## [067] JOGADOR — 2026-11-23
+
+- inchada, tirei um pedaço de ferro dele ontem da armadilha mas não fedia, só inchado e quente mas faz parte do ferimento recente, mas oque precisar pode colocar junto e eu pago, e claro um desconto seria algo muito bom
+
+## [068] MESTRE — 2026-11-23
+
+### Casa das Ervas — Dia 2, aproximadamente 7h10
+
+Olma escuta a descrição do ferimento e examina o pequeno pote de unguento que tinha separado.
+
+— Inchada e quente, você diz? Isso pode acontecer depois de uma lesão dessas. A ausência de mau cheiro é um bom sinal, mas não garante que esteja livre de infecção. Ainda mais se havia um pedaço de ferro preso na carne.
+
+Ela prepara uma bolsa com o kit de curandeiro, um pote de unguento suave e um conjunto de ataduras limpas.
+
+— Primeiro, lave a ferida com água limpa. Depois, passe uma camada fina deste unguento e proteja com uma atadura nova, sem apertar demais. Observe se o inchaço aumenta ou se aparece secreção. E cuidado: até uma loba mansa pode morder quando sente dor.
+
+Ao ouvir o pedido de desconto, Olma sorri discretamente.
+
+— Já estou lhe cobrando preço de artesão. O conjunto custaria cinco peças de ouro e cinco de prata. Para você, faço por **quatro peças de ouro e quatro de prata**. É o máximo que consigo reduzir.
+
+Eron entrega as moedas, e Olma lhe passa a bolsa com os materiais.
+
+<box border radius="lg" padding={3} gap={2}>
+  <row align="center" justify="between">
+    **Compra concluída**
+    <badge color="success"><icon name="check" inline/> Pago</badge>
+  </row>
+  | Item adquirido | Quantidade |
+  |---|---:|
+  | Kit de curandeiro | 1 — 10 usos |
+  | Unguento suave | 1 pote |
+  | Ataduras limpas | 1 conjunto |
+  <divider color="subtle"/>
+  <row justify="between" align="center">
+    <text color="secondary">Total pago</text>
+    **4 PO e 4 PP**
+  </row>
+  <row justify="between" align="center">
+    <text color="secondary">Dinheiro restante</text>
+    **31 PO e 1 PP**
+  </row>
+</box>
+
+Olma fecha a bolsa e volta a olhar para Eron.
+
+— Espero que consiga ajudá-la. Não esqueça que o animal ainda precisará descansar e comer enquanto a pata melhora.
+
+A manhã está apenas começando. Do lado de fora, ouve-se o movimento dos primeiros comerciantes abrindo suas bancas.
+
+**O que Eron faz agora?**
+
+**[LOG DE MEMÓRIA DA CAMPANHA]**
+- **Localização Atual:** Casa das Ervas de Olma Ramo, Pouso das Três Fontes, aproximadamente às **7h10 do Dia 2**.
+- **NPCs Presentes e Relação:** Olma Ramo, boticária prestativa; orientou cuidados para a ferida da loba e realizou a venda.
+- **Linha de Missão Ativa:** Retornar à toca da loba com materiais de curativo e conseguir alimento; manter a segurança das cabras de Mara. Recompensa de **12 PO pendente**.
+- **Eventos Cruciais Ocorridos:** Eron informou que a pata estava inchada e quente, sem mau cheiro, após retirar um fragmento de ferro. Comprou **1 kit de curandeiro (10 usos)**, **1 pote de unguento suave** e **1 conjunto de ataduras limpas**. Pagou **4 PO e 4 PP**, com o desconto de Artesão já aplicado. Nenhum dos materiais foi utilizado ainda; nenhuma rolagem realizada.
+- **Condições do Jogador:** Ladino 1, **12/12 PV**, **CA 16**, **25/300 XP**, **31 PO e 1 PP**, Inspiração Heroica disponível, **19 flechas utilizáveis**. Quatro rações intactas e uma quase consumida; pele crua parcialmente danificada de coelho e duas orelhas; chave temporária do quarto 3 ainda em posse de Eron. Sem condições ativas.
+
+**GitHub:** transcrição, cronologia, compra e inventário atualizados; commits confirmados.
