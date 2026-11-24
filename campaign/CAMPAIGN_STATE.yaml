@@ -97,9 +97,9 @@ character:
 campaign_time:
   calendar_system: "Asterion, dias relativos; nenhuma era/ano formal estabelecido"
   day: 2
-  time_of_day: "aproximadamente 10h15 da manhã do Dia 2"
+  time_of_day: "aproximadamente 10h20 do Dia 2"
   season: "final do outono"
-  elapsed_game_time: "Dia2 ~09h55–10h15: com dados físicos Lidar com Animais nat19+3=22 e Medicina nat20+3=23, Eron aproximou-se, examinou pata e trocou curativo"
+  elapsed_game_time: "Dia2 ~10h15–10h20: Eron falou com a loba e acariciou brevemente seu pescoço após tratamento, sem novo teste nem deslocamento"
 location:
   continent: Asterion
   polity: "Terras Livres de Avenhar (homebrew), fora de Valdren"
@@ -109,9 +109,9 @@ location:
   travel_status: "Eron permanece na toca da loba após alimentação e curativo; nenhum movimento de retorno à aldeia realizado"
 scene:
   id: OPENING-001
-  status: "awaiting_player_after_wolf_forepaw_rebandaged_day2"
+  status: "awaiting_player_at_wolf_den_after_gentle_pet"
   current_npcs_present: []
-  immediate_visible_situation: "Jogador informou rolagens físicas naturais: Lidar com Animais d20=19+3=22, Medicina d20=20+3=23, e declarou tratar a pata com pomada e o necessário. Ambos testes bem-sucedidos sem novo lançamento do Mestre. Mãe loba, alimentada há pouco com ~2kg carne de corço, permitiu Eron aproximar, sustentar pata e retirar faixa suja do Dia1. Exame mostrou ferida de arame ainda inchada e quente, começando a fechar nas bordas, SEM pus ou odor ruim ou fragmento metálico visível; infecção não excluída, nenhuma infecção avançada evidente. Eron lavou com água do cantil, passou UMA aplicação de unguento suave de Olma (pote parcialmente cheio) e colocou UMA atadura limpa frouxa (conjunto avulso consumido). Loba contraiu pata brevemente mas não mordeu, depois apoiou por instante e repousou, mantendo-se selvagem e protetora de dois filhotes. O kit de curandeiro permanece 10/10 usos, pois não estabilizou criatura 0PV; nenhum efeito de cura mágica, recuperação completa, imunidade a infecção, dano ou experiência extra. ~10h15 Dia2, 50/300XP, 12/12PV, 31PO1PP, inspiração disponível, 18 flechas, 8kg carne corço, quatro rações intactas, chave quarto3. Nenhuma nova ação de Eron após tratamento."
+  immediate_visible_situation: "Dia2 ~10h15 Eron disse à loba que levará dias para ela poder se mover melhor; prometeu retornar com comida e tratamento, pediu que ela não atacasse nenhuma cabra e que fosse para Monte Veyra após a cura. Eron acariciou delicadamente o pescoço/pelagem da loba aproveitando teste físico anterior de Lidar com Animais nat19+3=22, sem lançar novamente por ser o mesmo contato tranquilo do curativo. Loba ficou momentaneamente tensa, permitiu poucas carícias sem rosnar ou morder, depois afastou um pouco a cabeça e tornou a repousar junto aos dois filhotes; Eron respeitou o limite. A loba reconhece voz, cheiro e ações, mas NÃO compreende termos do acordo humano (cabras, visitas futuras ou migração para Monte Veyra); não prometeu nada, não tornou-se domesticada. Nada foi gasto ou consumido de novo, sem rolagens/XP adicionais; Eron ainda está na entrada da toca ~10h20, 12/12PV,50/300XP,31PO1PP,18 flechas,8kg carne corço,4 rações intactas, unguento parcialmente usado, ataduras avulsas0, kit10/10, Inspiração disponível."
   discovered_traps:
     - location: "Trilha dos Corcos, junto ao riacho"
       state: disarmed_safe_wire_left_at_tree
@@ -135,8 +135,8 @@ world:
 transcription:
   character_creation_history: sessions/transcripts/SESSION_0001_FULL.md
   narrative_session: sessions/transcripts/SESSION_0002_FULL.md
-  last_saved_player_turn: "- primeiro vai comer depois vai deixar eu dar um olhada nessa pata\nDou para ela um bom pedaço da carne de corço e como um pouco da ração e deixo ela e os filhotes comerem"
-  last_saved_dm_turn: "[076] MESTRE — 2026-11-23; Eron alimentou loba e filhotes com ~2kg de carne de corço e terminou a ração parcial; espera Lidar com Animais +3 para examinar pata; transcrição salva"
+  last_saved_player_turn: "- vai levar uns dias para pode se mover melhor, eu venho aqui trago comida e cuido da ferida e você não ataca nenhuma cabra e quando se curar vai para o Veyra \nFaço um carinho nela aproveitando o último resultado de lidar com animais"
+  last_saved_dm_turn: "[080] MESTRE — 2026-11-23; Eron fez promessa à loba e acariciou pescoço usando teste anterior de Lidar com Animais22, animal tolerou brevemente mas não entende acordo, sem recursos ou dados adicionais."
 notes:
   - "Primeira resposta de cena será salva literalmente e sem revelar preparativos de dm."
   - "Nunca tratar a aprovação da ficha como XP, nem mudar recursos automaticamente."
