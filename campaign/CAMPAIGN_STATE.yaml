@@ -113,21 +113,21 @@ character:
 campaign_time:
   calendar_system: "Asterion, dias relativos; nenhuma era/ano formal estabelecido"
   day: 3
-  time_of_day: "aproximadamente 16h40 do Dia 3"
+  time_of_day: "aproximadamente 17h10 do Dia 3"
   season: "final do outono"
-  elapsed_game_time: "Dia3 ~15h40–16h40 reparação do machado e pagamento."
+  elapsed_game_time: "Dia3 ~16h40–17h10 caminhada da ferraria à ponte."
 location:
   continent: Asterion
   polity: "Terras Livres de Avenhar (homebrew), fora de Valdren"
   area: "entroncamento da Estrada do Cascalho, próximo ao Pouso das Três Fontes"
   nearby: "encostas arborizadas da serra cujo monte mais alto é chamado Veyra"
-  exact_position: "Ferraria de Durnak Mão de Ferro, terceira fonte do Pouso das Três Fontes"
-  travel_status: "Na ferraria; encomenda concluída e paga."
+  exact_position: "Margem do Córrego Curvo, junto à ponte na Estrada do Cascalho"
+  travel_status: "Chegou à ponte; conversa inicial com Avel."
 scene:
   id: OPENING-001
-  status: "awaiting_player_action_after_day3_smith_job"
-  current_npcs_present: ["Durnak Mão de Ferro"]
-  immediate_visible_situation: "Dia 3 ~15h40–16h40: Eron reparou a cabeça do machado. Dado natural 16 informado pelo jogador, Destreza (Ferramentas de Ferreiro) 1d20+7=23, sucesso. Quatro dobradiças, vinte pregos e machado concluídos e aprovados. Durnak pagou 1 PO, saldo 36 PO 2 PP 3 PC; ofereceu conversar sobre uso futuro da forja, sem acordo novo. Nenhum XP adicional por trabalho rotineiro, dano ou gasto de materiais próprios. Eron permanece na ferraria, ~16h40."
+  status: "awaiting_player_response_to_avel"
+  current_npcs_present: ["Avel Duro"]
+  immediate_visible_situation: "Dia3 ~16h40–17h10: Eron anunciou que iria ver o outro serviço. Durnak indicou a Estrada do Cascalho; após ~30 minutos Eron chegou à ponte do Córrego Curvo, tabuleiro de madeira sobre pilares de pedra, correnteza audível. Encontrou Avel Duro junto a mecanismo de roldanas de barreira de retenção de troncos, ferramentas e corrente parcialmente desmontada. Avel informou que uma roldana travou, madeira acumulada ameaça pilares e passagem de carroças está suspensa; apresentou-se e perguntou o que Eron deseja. Sem diagnóstico independente, negociação, teste ou contratação; nenhum recurso alterado."
   discovered_traps:
     - location: "Trilha dos Corcos, junto ao riacho"
       state: disarmed_safe_wire_left_at_tree
@@ -151,8 +151,8 @@ world:
 transcription:
   character_creation_history: sessions/transcripts/SESSION_0001_FULL.md
   narrative_session: sessions/transcripts/SESSION_0002_FULL.md
-  last_saved_player_turn: "16 natural"
-  last_saved_dm_turn: "[134] MESTRE — machado reparado, teste 23, 1 PO recebida."
+  last_saved_player_turn: "- acho que terminei, vou lá ver este outro serviço"
+  last_saved_dm_turn: "[136] MESTRE — chegada à ponte, encontro com Avel Duro."
 notes:
   - "Primeira resposta de cena será salva literalmente e sem revelar preparativos de dm."
   - "Nunca tratar a aprovação da ficha como XP, nem mudar recursos automaticamente."
