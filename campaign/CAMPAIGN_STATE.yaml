@@ -42,6 +42,10 @@ character:
   carrying_capacity_lb: 180
   known_personal_item: "Marca da Bigorna Velada, pequeno disco familiar e bolsa de couro; uso desconhecido para Eron."
   untrained_owned_tool: "Ferramentas de Funileiro (propriedade, sem proficiência)"
+  ammo:
+    shortbow_arrows_in_quiver: 19
+    shortbow_arrows_fired_unrecovered: 1
+    unrecovered_arrow_location: "Alojada em coelho abatido na clareira"
   rations:
     starting_full_days: 5
     intact_full_days: 4
@@ -51,7 +55,7 @@ character:
 campaign_time:
   calendar_system: "Asterion, dias relativos; nenhuma era/ano formal estabelecido"
   day: 1
-  time_of_day: "aproximadamente 15h25 (meio da tarde, estimado pela luz natural)"
+  time_of_day: "aproximadamente 15h25, Dia 1"
   season: "final do outono"
   elapsed_game_time: "desde ~12h até 15h na toca; mais aproximadamente 20 a 25 minutos de caminhada e procura de caça na encosta; ~15h25, Dia 1"
 location:
@@ -59,13 +63,13 @@ location:
   polity: "Terras Livres de Avenhar (homebrew), fora de Valdren"
   area: "entroncamento da Estrada do Cascalho, próximo ao Pouso das Três Fontes"
   nearby: "encostas arborizadas da serra cujo monte mais alto é chamado Veyra"
-  exact_position: "encosta arborizada acima/lateral da ravina, cerca de 20 minutos de caminhada da toca; Eron oculto atrás de tronco caído, coelho selvagem a ~18 metros na borda de clareira"
-  travel_status: "Eron deixou a toca após dizer que voltaria com alimento; caminhou por cerca de 20 minutos encosta adentro tentando caçar, está escondido diante de coelho; retorno ainda não realizado"
+  exact_position: "Atrás de um tronco caído na clareira arborizada, coelho abatido a cerca de 18m; flecha alojada na carcaça, não coletada"
+  travel_status: "Eron disparou contra coelho; não recolheu carcaça ou flecha, não retornou à toca"
 scene:
   id: OPENING-001
-  status: awaiting_player_action_hidden_near_rabbit
+  status: "awaiting_player_action_after_rabbit_hunt_kill"
   current_npcs_present: []
-  immediate_visible_situation: "Eron falou à loba que ela devia estar com fome e que voltaria, pedindo para não sair. A loba ficou na toca com filhotes no instante da partida, mas não entende compromisso verbal, estado dela após a partida desconhecido a Eron. O jogador autorizou três rolagens para tentar caçar: Sobrevivência 1d20+5 → [1]+5=6 (falhou rastrear caça grande em chão lavrado pela chuva), Furtividade 1d20+9 → [11]+9=20 (segue oculto), Percepção 1d20+7 → [9]+7=16 (notou um coelho selvagem por acaso). Após ~20-25min, Eron oculto atrás de tronco caído observa coelho a cerca de 18m na borda de pequena clareira, sem ser notado. Arco curto disponível, 20 flechas no inventário; NENHUM disparo, captura ou morte declarados. ~15h25, XP 0, recursos inalterados."
+  immediate_visible_situation: "Eron disparou de posição oculta com arco curto contra coelho selvagem a 18m; ataque com vantagem 2d20kh1+7 → faces [2,10], manteve 10 +7=17, acerto; dano 2d6+5 → [4 arco,3 Ataque Furtivo]+5=12 perfurante. O coelho morreu. Carcaça e flecha disparada estão na clareira, a 18m; Eron não recolheu nenhum dos dois. Restam 19 flechas na aljava, uma disparada não recuperada. Nenhuma comida adicionada ou XP concedido, tempo ~15h25."
   combat: false
   initiative: []
   rounds: 0
@@ -84,8 +88,8 @@ world:
 transcription:
   character_creation_history: sessions/transcripts/SESSION_0001_FULL.md
   narrative_session: sessions/transcripts/SESSION_0002_FULL.md
-  last_saved_player_turn: "- Você deve estar com fome, já volto mas não saía daqui\nRole sobrevivência furtividade e percepção vou tentar caçar alguma coisa para comer"
-  last_saved_dm_turn: "[044] MESTRE — 2026-11-23; Sobrevivência 6, Furtividade 20, Percepção 16; Eron observa coelho a 18m sem atacar; transcrição salva"
+  last_saved_player_turn: "Disparo com a flecha pode rolar o disparo e o dano"
+  last_saved_dm_turn: "[046] MESTRE — 2026-11-23; ataque de arco com vantagem [2,10] manteve 10+7=17, dano 12; coelho abatido, flecha no local; transcrição salva"
 notes:
   - "Primeira resposta de cena será salva literalmente e sem revelar preparativos de dm."
   - "Nunca tratar a aprovação da ficha como XP, nem mudar recursos automaticamente."
