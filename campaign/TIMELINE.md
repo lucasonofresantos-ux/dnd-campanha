@@ -100,3 +100,5 @@
 - Dia 2 ~12h05: Eron visitou Bram Cutelo, açougueiro, que ofereceu 2 PP pelo fígado e 1 PP pelo coração de corço. Bram indicou Nessa, comerciante de ingredientes, que ofereceu 3 PC pelas duas orelhas de coelho. Eron está na banca de Nessa, com ambas as ofertas pendentes. Nenhuma venda adicional, rolagem, XP ou gasto. Saldo 32 PO; demais recursos inalterados.
 
 - Dia 2 ~12h10: Eron aceitou as duas ofertas; Nessa recebeu duas orelhas de coelho e pagou 3 PC; Bram recebeu coração e fígado de corço e pagou 3 PP. Saldo 32 PO, 3 PP, 3 PC. Materiais de caça esgotados; saco de sal ~1 kg mantido. Eron no açougue de Bram. Nenhum XP, dano, gasto ou teste novo.
+
+- Dia 2 ~12h10: Eron perguntou a Bram onde encontrar trabalho como ferreiro ou em outro ofício. Bram indicou ferraria próxima à terceira fonte, ocupada com ferraduras e ferramentas para o inverno, mercadores que precisam carregar carroças e Alda como possível fonte de informações sobre escoltas. Nenhum contrato garantido ou aceito. Bram perguntou se Eron aprendeu o ofício com mestre ou trabalha por conta própria; aguarda resposta. Nenhum recurso ou tempo significativo alterado.
