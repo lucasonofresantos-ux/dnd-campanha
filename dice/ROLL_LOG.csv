@@ -277,3 +277,5 @@ date,campaign_id,stage,attempt,expression,six_rolls_faces_in_order,six_attribute
 2026-11-24,ERON-RIVER-ASTERION-001,correction_unverified_execution_skill_check_investigation_staircase_day6,1,1d20+6,1,"1+6",7,false
 2026-11-24,ERON-RIVER-ASTERION-001,correction_unverified_execution_skill_check_investigation_lower_landing_day6,1,1d20+6,15,"15+6",21,false
 2026-11-24,ERON-RIVER-ASTERION-001,correction_unverified_execution_skill_check_investigation_maintenance_door_day6,1,1d20+6,13,"13+6",19,false
+2026-11-24,ERON-RIVER-ASTERION-001,skill_check_investigation_local_line_diagnosis_day6,1,2d20kh1+6,"9,18","18+6",24,true
+2026-11-24,ERON-RIVER-ASTERION-001,smith_tools_dexterity_local_line_repair_day6,1,1d20+7,8,"8+7",15,true
