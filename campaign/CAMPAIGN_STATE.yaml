@@ -38,17 +38,17 @@ character:
   inventory_reference: character/ERON_RIVER_LEVEL_01.md
   carrying_all_owned_equipment: true
   carrying_weight_lb_recorded: 103.88
-  carrying_weight_note: "Materiais de corço e lebre vendidos, exceto miúdos rejeitados; carga abaixo de 180 lb."
+  carrying_weight_note: "9 kg carne de corça e outros materiais crus adicionados, abaixo da capacidade de 180 lb; peso exato não aferido."
   carrying_capacity_lb: 180
   known_personal_item: "Marca da Bigorna Velada, pequeno disco familiar e bolsa de couro; uso desconhecido para Eron."
   untrained_owned_tool: "Ferramentas de Funileiro (propriedade, sem proficiência)"
   ammo:
-    shortbow_arrows_in_quiver: 20
+    shortbow_arrows_in_quiver: 19
     shortbow_arrows_spare: 1
     shortbow_arrows_crafted_total: 8
     shortbow_arrows_fired_unrecovered: 0
-    shortbow_arrows_lost_unusable: 7
-    unrecovered_arrow_location: "Seis flechas consumidas anteriormente; mais uma no abate do corço Dia4."
+    shortbow_arrows_lost_unusable: 8
+    unrecovered_arrow_location: "Sete flechas perdidas até Dia4, mais uma consumida no abate Dia5."
   crafting_project_arrows:
     total_target: 20
     completed: 8
@@ -67,9 +67,9 @@ character:
     cost_gold: 1
     cost_silver: 3
     temporary_room_key: "chave de ferro do quarto 3, deverá ser devolvida ao encerrar hospedagem"
-    long_rest_started: false
-    long_rest_completed: false
-    rest_completion: "Último descanso longo concluído Dia4 ~06h00; nova hospedagem paga para noite Dia4–5, descanso ainda não iniciado."
+    long_rest_started: true
+    long_rest_completed: true
+    rest_completion: "Dia5 ~06h00 no quarto 3; iniciou Dia4 ~19h15, sem interrupções; chave ainda em posse."
   medical_supplies:
     healer_kit:
       quantity: 1
@@ -133,39 +133,48 @@ character:
     sinew_bundles: 0
     useful_offal: "não aproveitados"
     preparation_result: "2d20kh1+5 [3,4] mantido 4+5=9; execução Python não comprovada, resultado narrativo preservado"
+  harvested_roe_deer_day5:
+    fresh_meat_kg_approx: 9
+    raw_hide: "1 pele crua em bom estado"
+    antler_stems: 0
+    ears: 2
+    long_bones: 2
+    sinew_bundles: 1
+    useful_offal: "1 coração e 1 fígado frescos"
+    preparation_result: "2d20kh1+5 [11,17] mantido 17+5=22; execução Python confirmada"
   salt_supply:
     sacks: 1
     weight_kg_approx: 0.2
     purpose: "Conservação de peles; não garante conservação sem preparo adequado."
   animal_first_aid:
-    wolf_forepaw: "Dia4 ~09h00: ferida fechada, sem inchaço significativo ou secreção, mobilidade quase normal, força ainda em recuperação; curativo retirado, região limpa, sem novo unguento."
+    wolf_forepaw: "Dia5 ~09h45: caminha sem claudicação visível; sem novo exame clínico; recuperação aparentemente quase completa."
   looting_convention: "Ao dizer saquear um animal, Eron procura carne, couro/pele, orelhas, ossos, dentes e demais partes plausivelmente úteis ou vendáveis; ferramentas/proficiências pertinentes contam para adjudicar o rendimento, sem garantir sucesso ou preço."
   animal_handling_last: "Dia4 ~09h00: dado natural 15+3=18, exame e carinho aceitos."
 campaign_time:
   calendar_system: "Asterion, dias relativos; nenhuma era/ano formal estabelecido"
-  day: 4
-  time_of_day: "aproximadamente 18h45 do Dia 4"
+  day: 5
+  time_of_day: "aproximadamente 09h45 do Dia 5"
   season: "final do outono"
-  elapsed_game_time: "Dia4 ~18h40–18h45 conversa com Mara e Iria."
+  elapsed_game_time: "Dia4 ~18h45–Dia5 ~09h45 descanso longo, busca de armadilhas, caça e retorno à toca."
 location:
   continent: Asterion
   polity: "Terras Livres de Avenhar (homebrew), fora de Valdren"
   area: "entroncamento da Estrada do Cascalho, próximo ao Pouso das Três Fontes"
   nearby: "encostas arborizadas da serra cujo monte mais alto é chamado Veyra"
-  exact_position: "Salão do Posto de Descanso de Alda Tress, Pouso das Três Fontes"
-  travel_status: "No salão da estalagem; quarto 3 pago para esta noite."
+  exact_position: "Entrada da toca da loba, ravina conhecida"
+  travel_status: "Na toca após caça; carne ainda não entregue."
 scene:
   id: OPENING-001
-  status: "awaiting_player_action_at_inn_after_iria_departure"
-  current_npcs_present: ["Alda Tress", "Mara Telha"]
-  immediate_visible_situation: "Dia4 ~18h45: Eron disse que não promete, mas verá o que pode fazer sobre os laços. Iria aceitou a intenção sem compromisso obrigatório, indicou posto da guarda ou currais para relatar evidências e saiu para iniciar ronda. Mara reconheceu a solução não letal e desejou recuperação da loba, permaneceu à mesa. Oferta de 5 PO permanece disponível, sem garantia ou obrigação de conclusão. Recompensa de Mara 12 PO ainda condicionada à noite sem perdas. Nenhum teste, XP, gasto, pagamento ou descanso iniciado."
+  status: "awaiting_player_action_at_wolf_den_day5"
+  current_npcs_present: ["Loba aparentemente recuperada", "Dois filhotes"]
+  immediate_visible_situation: "Dia4 ~18h45–Dia5 ~06h00: Eron despediu-se de Mara, subiu ao quarto 3, tomou banho e dormiu desde ~19h15. Descanso longo concluído sem incidentes; PV12/12, dado de vida 1d8, Inspiração Heroica já disponível, nenhuma condição. Dia5 ~07h20 Percepção 1d20+7 [16]+7=23: no local do terceiro laço desarmado entre raízes, arame anterior desapareceu e marcas recentes de botas na terra; nenhum novo laço nesse trecho, autoria não identificada. ~07h45 primeira caça Sobrevivência 1d20+5 [19]+5=24, Percepção 1d20+7 [3]+7=10, falha de observação e corço escapou antes de disparo. Furtividade 1d20+9 [6]+9=15 rolada antecipadamente e não aplicada. Segunda tentativa Sobrevivência 1d20+5 [8]+5=13, Percepção 1d20+7 [7]+7=14, Furtividade 1d20+9 [4]+9=13. Corça adulta: ataque arco curto vantagem 2d20kh1+7 [14,16] mantido 16+7=23, acerto; dano com furtivo 2d6+5 [6,1]+5=12, abate; saque Sobrevivência/Coureiro vantagem 2d20kh1+5 [11,17] mantendo 17+5=22. ~09h05 obteve 9kg carne, pele crua boa, 2 orelhas, 2 ossos longos, feixe de tendões, coração e fígado. Flecha consumida, 19 na aljava +1 reserva, 20 totais; 8 perdidas acumuladas. ~09h45 chegou à toca; loba sem claudicação visível ao caminhar, crias presentes, restos de pequena ave junto à entrada, origem não confirmada. Carne ainda não entregue; sem novo exame. Rolagens efetivamente executadas via container com script cujo git hash-object conferiu d35af70119bf684ea055619bb10678a1c4b03bbb. Nenhum XP novo por caça rotineira ou simples observação de pista ainda não resolvida; XP125/300, saldo41PO9PP7PC, 3 rações, sal200g, projeto de 12 flechas pendentes, recompensa de Mara ainda não recebida nem confirmada pelo personagem."
   discovered_traps:
     - location: "Trilha dos Corcos, junto ao riacho"
       state: disarmed_safe_wire_left_at_tree
       description: "segundo laco de arame escondido entre folhas ligado a haste de madeira flexivel, perto de marcas de botas e sulco de arame em arvore jovem"
       owner_known_by_character: false
     - location: "Trilha dos Corços, entre raízes de outra árvore"
-      state: disarmed_safe_wire_left_at_tree
+      state: disarmed_wire_missing_on_day5_fresh_bootprints
       description: "terceiro laço encontrado, distinto do anterior; fio metálico escondido entre raízes"
       owner_known_by_character: false
   combat: false
@@ -187,8 +196,8 @@ world:
 transcription:
   character_creation_history: sessions/transcripts/SESSION_0001_FULL.md
   narrative_session: sessions/transcripts/SESSION_0002_FULL.md
-  last_saved_player_turn: "- não prometo mas vou ver oque posso fazer"
-  last_saved_dm_turn: "[178] MESTRE — investigação opcional, Iria sai para ronda, Mara permanece à mesa."
+  last_saved_player_turn: "- boa noite Mara\nMe levanto vou para o quarto tomo um banho, e vou dormir no outro dia me acordo cedo, vou caçar até abater alguma coisa e saquear e se encontrar alguma armadilha desarmo e depois vou para a loba"
+  last_saved_dm_turn: "[180] MESTRE — descanso longo, pista de pegadas e caça concluída, retorno à toca."
 notes:
   - "Primeira resposta de cena será salva literalmente e sem revelar preparativos de dm."
   - "Nunca tratar a aprovação da ficha como XP, nem mudar recursos automaticamente."
