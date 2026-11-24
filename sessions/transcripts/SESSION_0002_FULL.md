@@ -5176,3 +5176,66 @@ Ele aponta para a bancada disponível.
 - **Condições do Jogador:** 12/12 PV, CA 16, 225/300 XP, 57 PO, 6 PP e 7 PC, 20 flechas, 10 rações, 5,2 kg de sal. Inspiração Heroica disponível.
 
 **GitHub:** transcrição, inventário, cronologia, estado e relógios atualizados; commits confirmados.
+
+## [199] JOGADOR
+
+- vim terminar as flechas 
+
+## [200] MESTRE
+
+### Ferraria de Durnak — Dia 5, 16h15–18h00
+
+— Então a bancada é sua. Pode trabalhar à vontade — responde Durnak.
+
+Eron retoma a fabricação, ajustando as hastes, fixando as pontas metálicas e preparando as penas. Quando chega o horário de fechamento, mais cinco flechas estão prontas.
+
+<card gap={3}>
+  **Fabricação de flechas**
+  <row>
+    <title size="2xl">13/20</title>
+    <spacer/>
+    **65% concluído**
+  </row>
+  <box height={3} radius="full" background="surface-tertiary" clip>
+    <box background="#328456" width="65%" height="100%" radius="full"/>
+  </box>
+  <divider/>
+  <row>
+    Fabricadas hoje
+    <spacer/>
+    **+5**
+  </row>
+  <row>
+    Total de flechas no inventário
+    <spacer/>
+    **25**
+  </row>
+  <row>
+    Restantes para fabricar
+    <spacer/>
+    **7**
+  </row>
+  <row>
+    Trabalho restante
+    <spacer/>
+    **2h40**
+  </row>
+  <caption>Nenhum gasto adicional. Fabricação rotineira com ferramentas proficientes, sem necessidade de teste.</caption>
+</card>
+
+Durnak apaga a forja e limpa as mãos num pano.
+
+— Amanhã de manhã você termina. Se chegar cedo, terá as flechas prontas antes do almoço.
+
+Lá fora, a luz do dia começa a desaparecer.
+
+---
+
+**[LOG DE MEMÓRIA DA CAMPANHA]**
+- **Localização Atual:** Ferraria de Durnak, Dia 5, 18h00.
+- **NPCs Presentes e Relação:** Durnak Mão de Ferro, amigável.
+- **Linha de Missão Ativa:** Nenhum contrato novo; sete flechas pendentes.
+- **Eventos Cruciais Ocorridos:** Cinco flechas fabricadas; ferraria fechada.
+- **Condições do Jogador:** 12/12 PV, CA 16, 225/300 XP, 57 PO, 6 PP e 7 PC, 25 flechas, 10 rações, 5,2 kg de sal. Inspiração Heroica disponível.
+
+**GitHub:** transcrição, inventário, cronologia, estado e relógios atualizados; commits confirmados.
