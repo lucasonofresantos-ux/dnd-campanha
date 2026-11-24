@@ -4948,3 +4948,67 @@ Odran ainda desconhece a presença de Eron. As armadilhas permanecem na mata.
 - **Condições do Jogador:** 12/12 PV, CA 16, 175/300 XP, 55 PO, 8 PP e 7 PC, 20 flechas, 3 rações. Inspiração Heroica disponível.
 
 **GitHub:** transcrição, dados informados, cronologia, estado e relógios atualizados; commits confirmados.
+
+## [189] JOGADOR
+
+Vou aproveitar a furtividade e percepção que tirei e vou até a aria para passar oque descobri
+
+## [190] MESTRE
+
+### Posto da Guarda — Dia 5, 15h40
+
+Mantendo a Furtividade de **27** e atento ao ambiente, Eron afasta-se da cabana sem ser descoberto e retorna ao povoado.
+
+Ao encontrar Iria, relata tudo o que observou na mata, incluindo as armadilhas, as pegadas e a localização da cabana.
+
+— Odran? Odran Peça? Conheço aquele sujeito. Trabalha cortando lenha nas encostas. Já ouvimos reclamações sobre ele, mas nunca tivemos evidências suficientes.
+
+Iria pega um pedaço de pergaminho e anota as informações.
+
+— Seu relato nos dá motivo para averiguar pessoalmente. Deixe o restante conosco. Vou organizar uma patrulha para recolher os laços e conversar com ele.
+
+Ela entrega as cinco moedas de ouro combinadas.
+
+<card gap={3}>
+  <row>
+    <icon name="check-circle" color="success" size="xl"/>
+    **Missão concluída — Investigação dos laços**
+  </row>
+  <divider/>
+  <grid columns={2}>
+    <grid-item>
+      <caption>Recompensa</caption>
+      <title size="2xl" color="success">+5 PO</title>
+    </grid-item>
+    <grid-item>
+      <caption>Experiência</caption>
+      <title size="2xl" color="success">+50 XP</title>
+    </grid-item>
+  </grid>
+  <divider/>
+  <row>
+    **Nível 1 — Ladino**
+    <spacer/>
+    **225/300 XP**
+  </row>
+  <box height={3} background="surface-tertiary" radius="full" clip>
+    <box height="100%" width="75%" background="#328456" radius="full"/>
+  </box>
+  <caption>Faltam 75 XP para o próximo nível.</caption>
+  <divider/>
+  <caption>Dinheiro disponível</caption>
+  <title size="2xl">60 PO · 8 PP · 7 PC</title>
+</card>
+
+— Você tem experiência como investigador, não tem? — pergunta Iria, guardando o pergaminho.
+
+---
+
+**[LOG DE MEMÓRIA DA CAMPANHA]**
+- **Localização Atual:** Posto da Guarda, Dia 5, 15h40.
+- **NPCs Presentes e Relação:** Iria Vento-Seco, confiança profissional fortalecida.
+- **Linha de Missão Ativa:** Contratos dos rebanhos e dos laços concluídos; nenhuma nova missão aceita.
+- **Eventos Cruciais Ocorridos:** Evidências entregues à guarda; recompensa de 5 PO e 50 XP recebida. Patrulha ainda por organizar.
+- **Condições do Jogador:** 12/12 PV, CA 16, 225/300 XP, 60 PO, 8 PP e 7 PC, 20 flechas, 3 rações. Inspiração Heroica disponível.
+
+**GitHub:** transcrição, inventário, experiência, cronologia, estado e relógios atualizados; commits confirmados.
