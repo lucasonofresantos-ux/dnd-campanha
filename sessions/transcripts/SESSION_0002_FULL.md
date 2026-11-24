@@ -505,3 +505,34 @@ O horário é aproximado, pois Eron não consultou nenhum relógio.
 - Condições do Jogador: Ladino 1, **12/12 PV**, **CA 16**, **0/300 XP**, **36 PO e 8 PP**. Quatro porções de ração intactas e uma parcialmente consumida.
 
 **GitHub:** atualização da transcrição e do estado confirmada.
+
+## [027] JOGADOR — 2026-11-23
+
+- vai deixar eu ver esta pata machucada?
+
+## [028] MESTRE — 2026-11-23
+
+A loba ergue a cabeça ao ouvir a voz de Eron.
+
+— Vai deixar eu ver esta pata machucada?
+
+Ela observa seu rosto por alguns instantes, depois baixa o focinho e lambe brevemente a pata ferida.
+
+Ao mudar de posição, deixa a pata estendida sobre as folhas secas. Da distância em que Eron está, é possível perceber melhor a região inchada e uma marca avermelhada que parece contornar o membro, como se algo tivesse ficado apertado ali por algum tempo.
+
+A loba solta um suspiro comprido e repousa a cabeça novamente. Não rosna nem tenta esconder a pata de imediato, mas seus olhos continuam acompanhando Eron.
+
+**Ela parece confortável o suficiente para permanecer ali, porém ainda não está claro se toleraria ser tocada.**
+
+A abertura da toca permanece livre, e os dois filhotes dormitam atrás da mãe.
+
+**O que Eron faz?**
+
+**[LOG DE MEMÓRIA DA CAMPANHA]**
+- Localização Atual: Sentado a aproximadamente 2 metros da entrada da toca, na ravina.
+- NPCs Presentes e Relação: Nenhum NPC; loba cinzenta ferida e dois filhotes. A loba permanece cautelosa, mas tolera a presença de Eron.
+- Linha de Missão Ativa: Investigar e solucionar os ataques ao rebanho de Mara; recompensa de 12 PO ainda não recebida.
+- Eventos Cruciais Ocorridos: Eron perguntou se poderia examinar a pata; a loba mudou de posição e deixou o membro visível por mais tempo. A marca avermelhada e o inchaço estão mais evidentes. Não houve toque, exame direto, teste ou tratamento.
+- Condições do Jogador: Ladino 1, **12/12 PV**, **CA 16**, **0/300 XP**, **36 PO e 8 PP**. Quatro porções diárias de ração intactas e uma parcialmente consumida. Nenhuma condição ativa ou combate.
+
+**GitHub:** transcrição e estado da campanha atualizados; commits confirmados.
