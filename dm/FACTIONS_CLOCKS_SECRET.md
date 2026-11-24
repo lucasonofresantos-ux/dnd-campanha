@@ -245,3 +245,6 @@
 
 ## Dia 5 ~18h00 — fabricação parcial e patrulha
 - Eron trabalhou 105min, total 320min, 13/20 flechas prontas, 7 pendentes. Durnak fechou e autorizou retorno amanhã. Sem novos XP ou gastos. Patrulha de Iria chegou à encosta no fim da tarde e iniciou verificação dos locais descritos; resultado de eventual confronto ainda não estabelecido. Eron não presenciou. Não presumir nova hospedagem ou descanso.
+
+## Dia 5 ~18h35 — estalagem
+- Durnak guardou materiais e se mantém disponível para encomendas futuras; nenhum contrato. Eron jantou e ouviu conversas locais. Patrulha de Iria ainda na encosta, verificando laços, sem resultado de confronto estabelecido; Alda não viu seu retorno. Previsão popular de geada nas alturas não é certeza. Sem avanço automático para banho ou repouso.
