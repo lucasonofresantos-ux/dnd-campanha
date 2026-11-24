@@ -2966,3 +2966,38 @@ Os filhotes aproximam-se cautelosamente, farejando o ar.
 - **Condições do Jogador:** 12/12 PV, CA 16, 50/300 XP, 15 flechas, 33 PO, 3 PP e 3 PC, três rações intactas e uma parcial, 200 g de sal e Inspiração Heroica disponível.
 
 **GitHub:** transcrição, inventário, cronologia, estado e relógios atualizados; commits confirmados.
+
+## [121] JOGADOR
+
+- aqui come alguma coisa
+Tiro um bom pedaço da carne da corça e dou para ela
+
+## [122] MESTRE
+
+### Toca da loba — Dia 3, 09h55
+
+A loba fareja o pedaço de carne que Eron oferece. Aproxima-se sem rosnar, recolhe o alimento com a boca e o leva para perto dos filhotes.
+
+Os pequenos disputam alguns pedaços enquanto a mãe se alimenta. Depois de comer, ela se deita a pouco mais de um metro de Eron, mantendo as orelhas atentas aos sons da floresta, mas com uma postura relaxada.
+
+A pata ferida permanece estendida sobre o chão, com a atadura parcialmente suja. A loba parece cada vez mais habituada à presença de Eron.
+
+**Inventário atualizado:**
+- Carne oferecida: aproximadamente 2 kg.
+- Carne fresca restante: 6 kg.
+- Demais materiais preservados.
+
+Nenhum teste necessário para oferecer alimento, considerando a confiança conquistada nos últimos dias.
+
+**O que Eron faz agora?**
+
+---
+
+**[LOG DE MEMÓRIA DA CAMPANHA]**
+- **Localização Atual:** Toca da loba, Dia 3, 09h55.
+- **NPCs Presentes e Relação:** Loba e dois filhotes, receptivos à presença de Eron, ainda selvagens.
+- **Linha de Missão Ativa:** Recuperação da loba, proteção dos rebanhos e investigação dos laços.
+- **Eventos Cruciais Ocorridos:** Alimentação da loba e dos filhotes.
+- **Condições do Jogador:** 12/12 PV, CA 16, 50/300 XP, 15 flechas, 33 PO, 3 PP e 3 PC, 6 kg de carne fresca. Inspiração Heroica disponível.
+
+**GitHub:** transcrição, inventário, cronologia, estado e relógios atualizados; commits confirmados.
