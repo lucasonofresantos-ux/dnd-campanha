@@ -100,3 +100,7 @@
 ## Dia 2 ~07h10 — aquisição de suprimentos médicos (reservado)
 - Eron contou a Olma que a pata do lobo estava inchada/quente, não fedia e continha fragmento de ferro de armadilha retirado no Dia 1. Olma não testemunhou nem examinou a loba, portanto não confirmou diagnóstico ou ausência de infecção. Sua orientação pública incluiu limpeza com água, unguento suave e atadura frouxa, monitorar piora/secreção. Não deduzir magicamente o estado da loba ao reencontro.
 - Olma vendeu ao Eron um kit de curandeiro novo (10 usos), pote de unguento suave e ataduras limpas. Preço base 5PO5PP, desconto Crafter20%, **preço efetivo 4PO4PP**, sem barganha extra; **pagamento e entrega confirmados**. Novo saldo 31PO1PP. Não contabilizar como tratamento aplicado à loba, nem como cura ou resistência a doenças. Olma continua no balcão ~07h10.
+
+## Dia 2 ~08h05 — Eron encontra um corço (reservado)
+- Eron percorreu caminho da Casa das Ervas em direção à ravina (~55min com rastreio), sucessos reais Furtividade [18]+9=27, Percepção [19]+7=26, Sobrevivência [16]+5=21. Achou corço adulto vivo a ~20m comendo folhas, não percebeu Eron oculto no tronco com musgo. Ainda não abateu presa, disparou ou entregou alimento à loba.
+- Pegadas de botas na lama do riacho e estreita marca de pressão na árvore jovem são indícios AMBÍGUOS de circulação humana e possível laço. Eron não conhece identidade do autor nem se há laço ativo. Não impor emboscada, descoberta de culpado ou resultado de caçada sem ação e teste correspondentes.
