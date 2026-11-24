@@ -26,3 +26,5 @@
 - Atualização: sessão 0002 até [206], Dia5 18h35 na estalagem de Alda, jantar pago e consumido, descanso não iniciado. Dois testes Percepção 16 e 20 registrados.
 
 - Atualização: sessão 0002 até [208], Dia5 ~18h35; Alda relata saída de Iria. Dados de [206] marcados sem execução verificada.
+
+- Atualização: sessão 0002 até [210]; Dia5 20h10, Eron oculto a 15m da cabana dos lenhadores, patrulha localizada. Três testes Python verificados.
