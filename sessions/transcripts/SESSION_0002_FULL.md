@@ -484,3 +484,24 @@ Quando termina de comer, a loba volta a se deitar. A pata ferida continua recolh
 - Condições do Jogador: Ladino 1, **12/12 PV**, **CA 16**, **0/300 XP**, **36 PO e 8 PP**. Quatro porções diárias de ração intactas e uma parcialmente consumida; nenhuma condição ativa ou combate.
 
 **GitHub:** transcrição literal, inventário, cronologia e estado da campanha atualizados; commits confirmados.
+
+## [025] JOGADOR — 2026-11-23
+
+Que horas que é?
+
+## [026] MESTRE — 2026-11-23
+
+Na campanha, são **aproximadamente 12h (meio-dia)**, no primeiro dia de aventura, no final do outono.
+
+Eron está sentado à entrada da toca da loba, nas encostas próximas ao Pouso das Três Fontes. Ainda restam várias horas de luz do dia.
+
+O horário é aproximado, pois Eron não consultou nenhum relógio.
+
+**[LOG DE MEMÓRIA DA CAMPANHA]**
+- Localização Atual: Entrada da toca da loba, na ravina próxima ao Pouso das Três Fontes.
+- NPCs Presentes e Relação: Loba ferida e dois filhotes; a loba tolera Eron, mas protege as crias.
+- Linha de Missão Ativa: Investigar os ataques ao rebanho de Mara, recompensa proposta de 12 PO.
+- Eventos Cruciais Ocorridos: Consulta ao horário aproximado; nenhuma ação nova ou avanço de tempo.
+- Condições do Jogador: Ladino 1, **12/12 PV**, **CA 16**, **0/300 XP**, **36 PO e 8 PP**. Quatro porções de ração intactas e uma parcialmente consumida.
+
+**GitHub:** atualização da transcrição e do estado confirmada.
