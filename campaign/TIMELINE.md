@@ -37,6 +37,8 @@
 
 - Eron decidiu permanecer à entrada da toca até o meio da tarde (~15h), comendo e compartilhando almoço com a loba **sem acender fogo**. Comeu pão de viagem e carne seca da porção diária já aberta, reservando parte para a loba; ela aguardou a mão afastar-se antes de tomar o alimento. Durante cerca de três horas, a loba descansou, lambeu a pata ferida, cuidou dos filhotes; um filhote espreitou a entrada, foi chamado de volta. A loba tolera melhor movimentos tranquilos de Eron mas continua protegendo crias; ferimento inchado, sem tratamento, sem toque. Ainda Dia 1, ~15h. Rações: 4 porções intactas e 1 porção aberta bastante consumida; peso não mensurado. Descanso de várias horas, nenhum Dado de Vida utilizado, XP 0/300, sem combate ou rolagens novas.
 
+- Eron pediu terceira rolagem de **Lidar com Animais** sem declarar toque ou nova aproximação, ainda ~15h na entrada da toca. Script Python da campanha com `secrets.randbelow` executado: **1d20+3 → [12] +3 = 15**, sucesso moderado contextual. Loba ergue orelhas e observa movimentos lentos das mãos de Eron, sem rosnar ou se levantar, mas volta imediatamente atenção à cria que se mexeu. Avaliação: maior tolerância que na primeira aproximação, mas não garante consentimento à manipulação da pata; não houve exame direto, toque, cura, ataque, gasto de recursos, XP nem avanço apreciável de tempo.
+
 ## Índices
 - Estado: `CAMPAIGN_STATE.yaml`.
 - XP: `XP_LOG.csv`.
