@@ -2662,3 +2662,39 @@ Ao longe, ouve-se o canto de uma coruja. A temperatura continua caindo.
 - **Condições do Jogador:** 12/12 PV, CA 16, 50/300 XP, 33 PO, 3 PP e 3 PC, 17 flechas, quatro rações e Inspiração Heroica disponível.
 
 **GitHub:** transcrição, correções de auditoria, novas rolagens, cronologia e estado atualizados; commits confirmados.
+
+## [109] JOGADOR
+
+Vou continuar caçando até matar algum
+
+## [110] MESTRE
+
+Vou resolver a caçada em etapas, considerando a visibilidade noturna, o tempo decorrido e as flechas disponíveis.
+
+## [111] JOGADOR
+
+Não dá para usar inspiração heróica para mudar o disparo na corça fêmea?
+
+## [112] MESTRE
+
+Sim! A **Inspiração Heroica** permite, no D&D 2024, rolar novamente qualquer dado imediatamente após sua rolagem. Quando há vantagem ou desvantagem, você pode rerrolar somente um dos dois dados e deve aceitar seu novo valor. <Cite refs={["turn204277search0","turn204277search16"]}/>
+
+No disparo contra a corça, os resultados apresentados foram:
+
+- Dados: [4, 3].
+- Modificador de ataque: +7.
+- CA da corça: 13.
+- Precisaria de um resultado natural de 6 ou superior para acertar.
+
+Entretanto, como já avançamos para outra tentativa de caça, pela regra oficial não podemos gastar a Inspiração Heroica retroativamente naquele disparo.
+
+**Eron ainda possui sua Inspiração Heroica.** Nas próximas rolagens malsucedidas, vou dar a você a oportunidade de utilizá-la antes de avançar a cena, inclusive quando eu estiver realizando as rolagens em seu lugar.
+
+**[LOG DE MEMÓRIA DA CAMPANHA]**
+- **Localização Atual:** Mata do Pouso, Dia 2, 19h00.
+- **NPCs Presentes e Relação:** Nenhum.
+- **Linha de Missão Ativa:** Continuar caçando; recuperação da loba e investigação dos laços.
+- **Eventos Cruciais Ocorridos:** Esclarecimento da Inspiração Heroica; nenhum novo teste ou disparo.
+- **Condições do Jogador:** 12/12 PV, 17 flechas, 50/300 XP, Inspiração Heroica disponível.
+
+**GitHub:** transcrição e estado atualizados; commits confirmados.
