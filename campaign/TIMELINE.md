@@ -53,6 +53,8 @@
 
 - **Dia 1, ~15h25–16h05:** Eron recolheu o coelho abatido e usou adaga para aproveitar a carne. Rolagem real Sobrevivência 1d20+5 → [1]+5=6, falha: contaminou parte grande da carne ao perfurar vísceras; restaram poucos pedaços limpos. Flecha extraída danificada/inutilizável, 19 flechas utilizáveis. Após ~15min de preparo e ~25min de retorno, chegou à toca da loba (~16h05) e entregou os pedaços sobre uma pedra próxima da entrada, mantendo-se afastado das crias. Lidar com Animais 1d20+3 → [20]+3=23, sucesso: loba aceitou sem rosnar e repartiu com dois filhotes. Nada da carne ficou no inventário. Pata ainda sem tratamento, alimento insuficiente para solução duradoura. Sem XP, gasto de rações ou dano.
 
+- **Dia 1, ~16h05:** Eron perguntou por usar ferramentas de coureiro no couro do coelho e por aproveitar a última Sobrevivência para ver a pata. Mestre confirmou posse e proficiência com ferramentas, mas a pele foi retirada do animal e **não foi trazida da clareira**; apenas a carne veio, pele permanece no local do preparo (~25min de caminhada). Preparação/conservação demandaria tempo. Último teste Sobrevivência [1]+5=6 já foi aplicado ao preparo da caça e não pode servir em um exame posterior. Eron se agachou fora da toca, loba observou mãos sem rosnar mas manteve pata recolhida. Foi solicitado **novo Lidar com Animais +3** para tentar tocar a pata; **rolagem não efetuada, resultado aguardado**. Se contato tolerado, Medicina +3 posteriormente. Sem toque, cura, recursos gastos, XP ou tempo novo.
+
 ## Índices
 - Estado: `CAMPAIGN_STATE.yaml`.
 - XP: `XP_LOG.csv`.
