@@ -3078,3 +3078,32 @@ Depois do tratamento, enquanto Eron acaricia seu pescoço, a loba abaixa as orel
 - **Condições do Jogador:** 12/12 PV, CA 16, 50/300 XP, 15 flechas, 33 PO, 3 PP e 3 PC, 6 kg de carne, kit de curandeiro 9/10. Inspiração Heroica disponível.
 
 **GitHub:** transcrição, rolagens, inventário, cronologia, estado e relógios atualizados; commits confirmados.
+
+## [125] JOGADOR
+
+- boa menina, boa menina, agora para onde está a sua matilha?
+
+## [126] MESTRE
+
+### Toca da loba — Dia 3, 10h15
+
+A loba ergue a cabeça ao ouvir a voz de Eron e inclina ligeiramente as orelhas. Embora não compreenda suas palavras, reconhece o tom afetuoso.
+
+Ela se levanta, fareja o vento durante alguns instantes e observa a encosta arborizada. Em seguida, retorna aos filhotes, lambendo a cabeça de um deles antes de se deitar novamente.
+
+Nenhum uivo responde ao silêncio da floresta.
+
+Eron pode tentar procurar vestígios de outros lobos nas proximidades da ravina.
+
+**Teste de Sabedoria (Sobrevivência): 1d20+5**, caso queira investigar os rastros da possível matilha.
+
+---
+
+**[LOG DE MEMÓRIA DA CAMPANHA]**
+- **Localização Atual:** Toca da loba, Dia 3, 10h15.
+- **NPCs Presentes e Relação:** Loba e dois filhotes; confiança crescente.
+- **Linha de Missão Ativa:** Recuperação da loba, possível localização da matilha e investigação dos laços.
+- **Eventos Cruciais Ocorridos:** Nenhuma localização da matilha confirmada.
+- **Condições do Jogador:** 12/12 PV, CA 16, 50/300 XP, 15 flechas, 33 PO, 3 PP e 3 PC, 6 kg de carne, kit de curandeiro 9/10. Inspiração Heroica disponível.
+
+**GitHub:** transcrição, cronologia e estado atualizados; commits confirmados.
