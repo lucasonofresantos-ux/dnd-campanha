@@ -22,3 +22,5 @@
 - Planejamento secreto em `dm/` (jamais incluir em logs públicos).
 
 - Atualização: transcrição literal da sessão 0002 até [204], Dia5 ~18h00; nenhum recado na ferraria, decisão sobre guarda de materiais pendente. Estado canônico em CAMPAIGN_STATE.yaml e cronologia em TIMELINE.md.
+
+- Atualização: sessão 0002 até [206], Dia5 18h35 na estalagem de Alda, jantar pago e consumido, descanso não iniciado. Dois testes Percepção 16 e 20 registrados.
