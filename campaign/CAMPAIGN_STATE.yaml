@@ -32,13 +32,13 @@ character:
   heroic_inspiration: true
   hit_dice_available: "1d8"
   money:
-    gold: 33
-    silver: 3
+    gold: 35
+    silver: 2
     copper: 3
   inventory_reference: character/ERON_RIVER_LEVEL_01.md
   carrying_all_owned_equipment: true
   carrying_weight_lb_recorded: 103.88
-  carrying_weight_note: "Peso inicial 103,88 lb era referência; novo material de caça (~8kg de carne mais pele, ossos, tendões e miúdos) não pesado integralmente; abaixo de 180 lb."
+  carrying_weight_note: "Materiais da caça Dia3 vendidos ou oferecidos; carga abaixo de 180 lb, peso exato não aferido."
   carrying_capacity_lb: 180
   known_personal_item: "Marca da Bigorna Velada, pequeno disco familiar e bolsa de couro; uso desconhecido para Eron."
   untrained_owned_tool: "Ferramentas de Funileiro (propriedade, sem proficiência)"
@@ -91,18 +91,17 @@ character:
     condition: "Toda carne fresca do corco, ~10kg, foi entregue a loba e filhotes: ~2kg Dia2 ~09h40, ~8kg restantes deixados junto a entrada da toca Dia2 ~10h25, expostos a deterioracao se nao consumidos. Peles, galhadas, tendões e ossos vendidos a Belda; miúdos vendidos a Bram; orelhas vendidas a Nessa."
     preparation_result: "Sobrevivencia + Ferramentas de Coureiro com vantagem 2d20kh1+5 [1,19] mantido 19+5=24"
   harvested_roe_deer_day3:
-    fresh_meat_kg_approx: 6
-    meat_offered_to_wolf_kg_approx: 2
-    raw_hide: "1 pele crua salgada, não curtida"
-    ears: 2
-    ears_condition: "salgadas"
-    sinew_bundles: 1
-    sinew_condition: "separados para secagem"
-    long_bones: 2
-    bones_condition: "limpos"
-    useful_offal: "1 coração e 1 fígado"
+    fresh_meat_kg_approx: 0
+    meat_offered_to_wolf_kg_approx: 5
+    meat_sold_kg_approx: 3
+    raw_hide: "vendida a Belda por 7 PP"
+    ears: 0
+    sinew_bundles: 0
+    long_bones: 0
+    useful_offal: "vendidos a Bram"
     antlers: 0
-    preparation_result: "Sobrevivência e Coureiro 2d20kh1+5 [13,8] mantido 13+5=18"
+    sale_total: "1 PO e 9 PP"
+    preparation_result: "Sobrevivência e Coureiro 2d20kh1+5 [13,8] mantido 13+5=18, conforme registro anterior"
   salt_supply:
     sacks: 1
     weight_kg_approx: 0.2
@@ -114,21 +113,21 @@ character:
 campaign_time:
   calendar_system: "Asterion, dias relativos; nenhuma era/ano formal estabelecido"
   day: 3
-  time_of_day: "aproximadamente 10h15 da manhã do Dia 3"
+  time_of_day: "aproximadamente 12h00 do Dia 3"
   season: "final do outono"
-  elapsed_game_time: "Dia3 ~09h55–10h15 novo tratamento da pata e carinho."
+  elapsed_game_time: "Dia3 ~10h20–12h00 oferta de carne, retorno ao Pouso e vendas."
 location:
   continent: Asterion
   polity: "Terras Livres de Avenhar (homebrew), fora de Valdren"
   area: "entroncamento da Estrada do Cascalho, próximo ao Pouso das Três Fontes"
   nearby: "encostas arborizadas da serra cujo monte mais alto é chamado Veyra"
-  exact_position: "Entrada da toca da loba, ravina conhecida"
-  travel_status: "Na toca; ofereceu ~2 kg de carne, restam ~6 kg."
+  exact_position: "Açougue de Bram Cutelo, Pouso das Três Fontes"
+  travel_status: "Retorno à aldeia concluído; materiais vendidos."
 scene:
   id: OPENING-001
-  status: "awaiting_player_action_at_wolf_den_day3"
-  current_npcs_present: ["Loba ferida", "Dois filhotes"]
-  immediate_visible_situation: "Dia 3 ~10h15: Eron perguntou à loba pela matilha. Ela reagiu ao tom, farejou o vento, observou a encosta e voltou aos filhotes; nenhum uivo ouvido. Nenhuma direção ou existência de matilha confirmada. Oferecido teste opcional de Sobrevivência +5 para investigar rastros; não rolado. Sem alteração de recursos, tempo significativo ou XP."
+  status: "awaiting_player_action_after_day3_sales"
+  current_npcs_present: ["Bram Cutelo"]
+  immediate_visible_situation: "Dia 3 ~10h20–12h00: Eron pediu à loba que não ataque cabras e deixou metade dos 6 kg de carne restantes (~3 kg) sobre pedra sombreada. Total oferecido da caça do Dia3: ~5 kg; a fala não implica compreensão ou obediência animal. Retornou ao Pouso pela trilha e vendeu todos os materiais restantes: Belda comprou pele salgada por 7 PP, tendões por 1 PP e dois ossos por 5 PC; Nessa comprou duas orelhas salgadas por 5 PC; Bram comprou coração por 1 PP, fígado por 2 PP e ~3 kg carne fresca por 6 PP. Total 18 PP e 10 PC = 1 PO e 9 PP. Saldo anterior 33 PO 3 PP 3 PC; novo 35 PO 2 PP 3 PC. Venda rotineira, sem teste, preços comerciais decididos pelos NPCs. Nenhum material de caça restante em posse, sal ~200 g preservado. Bram manifestou interesse em fornecimento futuro, sem contrato novo. Eron no açougue ~12h00, nenhum XP, dano ou gasto extra."
   discovered_traps:
     - location: "Trilha dos Corcos, junto ao riacho"
       state: disarmed_safe_wire_left_at_tree
@@ -152,8 +151,8 @@ world:
 transcription:
   character_creation_history: sessions/transcripts/SESSION_0001_FULL.md
   narrative_session: sessions/transcripts/SESSION_0002_FULL.md
-  last_saved_player_turn: "- boa menina, boa menina, agora para onde está a sua matilha?"
-  last_saved_dm_turn: "[126] MESTRE — reação da loba à fala; investigação opcional da matilha, sem rolagem."
+  last_saved_player_turn: "- Tá, só vê se não vai atrás de nenhuma cabra.\nDeixo metade da carne de corço e vou vender tudo que peguei do corço"
+  last_saved_dm_turn: "[128] MESTRE — carne deixada à loba e venda dos materiais, saldo 35PO2PP3PC."
 notes:
   - "Primeira resposta de cena será salva literalmente e sem revelar preparativos de dm."
   - "Nunca tratar a aprovação da ficha como XP, nem mudar recursos automaticamente."
