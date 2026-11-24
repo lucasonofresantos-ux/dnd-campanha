@@ -5564,3 +5564,48 @@ Você permanece oculto entre as árvores. Nenhum deles demonstra ter percebido s
 - **Descanso longo:** Não iniciado. Quarto e banho reservados na estalagem.
 
 **GitHub:** transcrição, rolagens, cronologia e estado atualizados; commits confirmados.
+
+## [211] JOGADOR
+
+Vou permanecer escondido e escutando, quero ver oque acontece
+
+## [212] MESTRE
+
+### Cabana dos lenhadores — Dia 5, 20h15
+
+Você permanece imóvel entre as árvores, observando a conversa.
+
+— Ninguém está proibindo você de caçar, Odran — diz Iria. — Mas colocar laços escondidos perto das trilhas é outra coisa. Poderia ter ferido uma criança.
+
+— E desde quando caçar para sobreviver virou crime?
+
+Um dos vigias joga o feixe de arames aos pés do lenhador.
+
+— Encontramos três destes na encosta.
+
+Odran permanece calado por alguns instantes, antes de responder:
+
+— Está bem. Fui eu quem colocou. Mas eram para corços e lebres, não para gente.
+
+Iria cruza os braços.
+
+— Amanhã, apresente-se no posto da guarda. Vamos discutir a penalidade e você vai nos mostrar onde estão os outros laços, caso existam.
+
+Odran concorda contrariado. Iria faz um gesto aos dois vigias, que recolhem os arames e preparam as lanternas para retornar ao povoado.
+
+Não houve violência. Os três começam a descer pela trilha, enquanto Odran retorna para dentro da cabana e fecha a porta.
+
+**Você continua escondido, a quinze metros da cabana, sem ter sido percebido.**
+
+---
+
+**[LOG DE MEMÓRIA DA CAMPANHA]**
+- **Localização atual:** Mata, a 15 metros da cabana dos lenhadores. Dia 5, 20h15.
+- **NPCs presentes e relação:** Odran Peça, dentro da cabana; Iria e dois vigias, retornando ao povoado.
+- **Missão ativa:** Nenhum novo contrato.
+- **Eventos cruciais:** Odran admitiu ter instalado os laços. Deverá comparecer à guarda amanhã.
+- **Condições:** 12/12 PV | CA 16 | 225/300 XP | 56 PO, 3 PP e 7 PC | 25 flechas | 10 rações | 5,2 kg de sal. Inspiração Heroica disponível.
+
+**Nota de auditoria:** os três resultados da travessia anterior (24, 20 e 13) não têm execução Python comprovada. Corrigi a classificação no registro, preservando os acontecimentos. Nesta cena não houve nova rolagem, pois você permaneceu imóvel e a conversa era audível.
+
+**GitHub:** transcrição, cronologia, estado e auditoria atualizados; commits confirmados.
