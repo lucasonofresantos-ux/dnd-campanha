@@ -3510,3 +3510,75 @@ O trabalho deverá levar aproximadamente 25 minutos, se não houver complicaçõ
 - **Condições do Jogador:** 12/12 PV, CA 16, 50/300 XP, 36 PO, 2 PP e 3 PC, 15 flechas. Inspiração Heroica disponível.
 
 **GitHub:** transcrição, rolagens, cronologia e estado atualizados; commits confirmados.
+
+## [143] JOGADOR
+
+- encontrei
+18 natural para arrumar
+
+## [144] MESTRE
+
+### Ponte do Córrego Curvo — Dia 3, 17h50
+
+<card gap={1}>
+  <caption>Destreza — Ferramentas de Ferreiro</caption>
+  <title size="2xl" color="success">25</title>
+  `1d20+7` → [18] + 7 = **25**
+  <text color="success">Sucesso</text>
+  <caption>Dado natural informado pelo jogador.</caption>
+</card>
+
+Após assegurar a sustentação da carga, Eron substitui os componentes deformados, ajusta o alinhamento da roldana e restabelece o movimento da corrente.
+
+Avel aciona o mecanismo. A barreira começa a subir lentamente, liberando os troncos acumulados. A correnteza carrega a madeira para longe dos pilares da ponte.
+
+— Pelos deuses! Passei metade do dia tentando resolver isso!
+
+Avel observa o mecanismo funcionando e, satisfeito, retira cinco moedas de ouro de sua bolsa.
+
+— Aqui está. Cada moeda merecida. Qual é o seu nome, rapaz? Quero saber a quem procurar quando tiver outro problema desses.
+
+<card gap={3}>
+  <row>
+    <icon name="check-circle" color="success" size="xl"/>
+    **Serviço concluído antes do anoitecer**
+  </row>
+  <divider/>
+  <grid columns={2}>
+    <grid-item>
+      <caption>Recompensa</caption>
+      <title size="2xl" color="success">+5 PO</title>
+    </grid-item>
+    <grid-item>
+      <caption>Experiência adquirida</caption>
+      <title size="2xl" color="success">+50 XP</title>
+    </grid-item>
+  </grid>
+  <divider/>
+  <caption>Progresso para o nível 2</caption>
+  <row align="center">
+    **100 / 300 XP**
+    <spacer/>
+    33,3%
+  </row>
+  <box background="surface-tertiary" height={3} radius="full" clip>
+    <box background="#328456" width="33.33%" height="100%" radius="full"/>
+  </box>
+  <caption>Patrimônio atual</caption>
+  <title size="2xl">41 PO · 2 PP · 3 PC</title>
+</card>
+
+O ganho de experiência decorre da resolução de um problema estrutural que ameaçava a ponte e prejudicava o comércio local, não simplesmente do trabalho remunerado.
+
+O sol começa a desaparecer atrás das montanhas. Avel aguarda sua resposta.
+
+---
+
+**[LOG DE MEMÓRIA DA CAMPANHA]**
+- **Localização Atual:** Ponte do Córrego Curvo, Dia 3, 17h50.
+- **NPCs Presentes e Relação:** Avel Duro, satisfeito e agradecido.
+- **Linha de Missão Ativa:** Recuperação da loba, proteção dos rebanhos e investigação dos laços.
+- **Eventos Cruciais Ocorridos:** Mecanismo reparado; serviço concluído, 5 PO e 50 XP recebidos.
+- **Condições do Jogador:** 12/12 PV, CA 16, 100/300 XP, 41 PO, 2 PP e 3 PC, 15 flechas. Inspiração Heroica disponível.
+
+**GitHub:** transcrição, rolagem, experiência, inventário, cronologia, estado e relógios atualizados; commits confirmados.
