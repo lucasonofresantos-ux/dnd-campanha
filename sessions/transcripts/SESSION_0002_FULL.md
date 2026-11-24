@@ -3464,3 +3464,49 @@ Para identificar a causa do travamento e determinar como reparar o mecanismo, fa
 - **Condições do Jogador:** 12/12 PV, CA 16, 50/300 XP, 36 PO, 2 PP e 3 PC, 15 flechas. Inspiração Heroica disponível.
 
 **GitHub:** transcrição, rolagem, cronologia, estado e relógios atualizados; commits confirmados.
+
+## [141] JOGADOR
+
+- somente Ferramentas
+19 natural para isso
+
+## [142] MESTRE
+
+### Ponte do Córrego Curvo — Dia 3, 17h25
+
+<card gap={1}>
+  <caption>Inteligência — Investigação</caption>
+  <title size="2xl" color="success">25</title>
+  `1d20+6` → [19] + 6 = **25**
+  <text color="success">Sucesso</text>
+  <caption>Dado natural informado pelo jogador.</caption>
+</card>
+
+Avel entrega as ferramentas e disponibiliza uma pequena caixa com peças de reposição.
+
+Examinando o mecanismo, Eron identifica três problemas:
+
+- O eixo de uma das roldanas está ligeiramente empenado.
+- Um anel de retenção deformado impede sua rotação.
+- A tensão da corrente dificulta a desmontagem.
+
+Graças aos seus conhecimentos de ferreiro, Eron percebe que não será necessário fabricar novas peças. Avel possui componentes compatíveis, e o reparo poderá ser realizado na própria margem, desde que a carga seja sustentada antes da desmontagem.
+
+O trabalho deverá levar aproximadamente 25 minutos, se não houver complicações.
+
+— Encontrou o problema? — pergunta Avel, impaciente.
+
+**Teste para executar o reparo:** Destreza (Ferramentas de Ferreiro), **1d20+7**.
+
+---
+
+**Nota de auditoria:** a execução Python da Persuasão anterior não está comprovada no histórico disponível. O acordo de 5 PO permanece como decisão de Avel, sem necessidade de rerrolar. O teste atual usa o dado informado por você.
+
+**[LOG DE MEMÓRIA DA CAMPANHA]**
+- **Localização Atual:** Ponte do Córrego Curvo, Dia 3, 17h25.
+- **NPCs Presentes e Relação:** Avel Duro, contratante.
+- **Linha de Missão Ativa:** Reparo da ponte; recuperação da loba e proteção dos rebanhos.
+- **Eventos Cruciais Ocorridos:** Diagnóstico concluído; reparo pendente.
+- **Condições do Jogador:** 12/12 PV, CA 16, 50/300 XP, 36 PO, 2 PP e 3 PC, 15 flechas. Inspiração Heroica disponível.
+
+**GitHub:** transcrição, rolagens, cronologia e estado atualizados; commits confirmados.
