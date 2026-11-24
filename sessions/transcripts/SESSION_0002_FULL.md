@@ -5680,3 +5680,77 @@ Ela começa a descer a trilha com os dois vigias, em passo tranquilo.
 - **Condições:** 12/12 PV | CA 16 | 225/300 XP | 56 PO, 3 PP e 7 PC | 25 flechas | 10 rações | 5,2 kg de sal. Inspiração Heroica disponível.
 
 **GitHub:** transcrição, cronologia e estado atualizados; commits confirmados.
+
+## [217] JOGADOR
+
+Acompanho eles até a estalagem
+Role percepção para o caminho e para o salão quando chegar
+
+## [218] MESTRE
+
+Vou rolar os dois testes de Percepção, um durante o retorno com a patrulha e outro ao chegar à estalagem.
+
+### Retorno ao Pouso das Três Fontes — Dia 5, 20h25
+
+<card gap={2}>
+  <caption>Percepção — Trajeto</caption>
+  <row align="center">
+    <svg viewBox="0 0 100 100" size="64px">
+      <polygon points="50,4 94,29 94,73 50,97 6,73 6,29" fill="#214b86" stroke="#78a7e1" strokeWidth="2"/>
+      <path d="M50 4L23 65L94 73L50 4L77 65L6 73L50 4M6 29L77 65L50 97L23 65L94 29M23 65L77 65" fill="none" stroke="#78a7e1"/>
+      <text x="50" y="53" fontSize="26" fontWeight="bold" fill="white" textAnchor="middle">2</text>
+    </svg>
+    <box gap={1}>
+      <title size="2xl">9</title>
+      `1d20+7` → [2] + 7 = **9**
+    </box>
+  </row>
+</card>
+
+O retorno transcorre sem incidentes aparentes. O som das botas sobre o cascalho e as conversas dos vigias dificultam perceber ruídos mais distantes na floresta.
+
+Ao chegarem ao povoado, Iria dispensa os dois homens para que levem os arames ao posto da guarda.
+
+— Vou ver quem estava perguntando por mim e depois encerrar o serviço por hoje.
+
+### Estalagem de Alda — 21h45
+
+<card gap={2}>
+  <caption>Percepção — Salão da estalagem</caption>
+  <row align="center">
+    <svg viewBox="0 0 100 100" size="64px">
+      <polygon points="50,4 94,29 94,73 50,97 6,73 6,29" fill="#214b86" stroke="#78a7e1" strokeWidth="2"/>
+      <path d="M50 4L23 65L94 73L50 4L77 65L6 73L50 4M6 29L77 65L50 97L23 65L94 29M23 65L77 65" fill="none" stroke="#78a7e1"/>
+      <text x="50" y="53" fontSize="26" fontWeight="bold" fill="white" textAnchor="middle">10</text>
+    </svg>
+    <box gap={1}>
+      <title size="2xl">17</title>
+      `1d20+7` → [10] + 7 = **17**
+    </box>
+  </row>
+  <caption>Os dois testes foram executados em Python com secrets.randbelow(), utilizando o script do GitHub com hash conferido.</caption>
+</card>
+
+Restam seis clientes no salão. A lareira ainda está acesa e Alda recolhe as canecas das mesas vazias.
+
+Você reconhece o homem que havia perguntado pela patrulha. Ele se levanta assim que vê Iria.
+
+— Finalmente! Queria saber se encontraram os laços. Meu cachorro quase ficou preso num deles há alguns dias.
+
+— Encontramos três. Amanhã continuaremos a averiguação — responde Iria.
+
+Alda então olha para você.
+
+— Voltou inteiro, pelo menos. Vou esquentar a água do seu banho.
+
+---
+
+**[LOG DE MEMÓRIA DA CAMPANHA]**
+- **Localização atual:** Estalagem de Alda, Dia 5, 21h45.
+- **NPCs presentes e relação:** Alda Tress e Iria Vento-Seco, amigáveis; seis clientes.
+- **Missão ativa:** Nenhum novo contrato.
+- **Eventos cruciais:** Patrulha retornou em segurança. Motivo da procura por Iria esclarecido.
+- **Condições:** 12/12 PV | CA 16 | 225/300 XP | 56 PO, 3 PP e 7 PC | 25 flechas | 10 rações | 5,2 kg de sal. Inspiração Heroica disponível.
+- **Descanso longo:** Ainda não iniciado. Banho sendo preparado.
+
+**GitHub:** transcrição, dados, cronologia e estado atualizados; commits confirmados.
