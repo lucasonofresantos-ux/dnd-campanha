@@ -5647,3 +5647,36 @@ Os dois vigias aguardam enquanto ela conversa com você.
 - **Condições:** 12/12 PV | CA 16 | 225/300 XP | 56 PO, 3 PP e 7 PC | 25 flechas | 10 rações | 5,2 kg de sal. Inspiração Heroica disponível.
 
 **GitHub:** transcrição, cronologia e estado atualizados; commits confirmados.
+
+## [215] JOGADOR
+
+- aí não sei dizer, não perguntei o nome ou o motivo, mas quando falaram que saíram em 3 e não tinham voltado quis vir ver se estavam todos bem, mas foi uma preocupação atoa
+
+## [216] MESTRE
+
+### Trilha dos Corços — Dia 5, 20h20
+
+Iria esboça um sorriso e baixa a lanterna.
+
+— Não diria que foi à toa. É bom saber que alguém se preocupa quando demoramos a voltar.
+
+Um dos vigias solta uma breve risada.
+
+— Ainda mais alguém disposto a entrar nesta mata depois de escurecer só para conferir.
+
+Iria olha na direção do povoado.
+
+— Vamos voltar. Já tivemos trabalho suficiente por hoje. Se estiver retornando à estalagem, pode nos acompanhar. Aproveitamos a companhia pelo caminho.
+
+Ela começa a descer a trilha com os dois vigias, em passo tranquilo.
+
+---
+
+**[LOG DE MEMÓRIA DA CAMPANHA]**
+- **Localização atual:** Trilha dos Corços, Dia 5, 20h20.
+- **NPCs presentes e relação:** Iria Vento-Seco, amigável e agradecida; dois vigias.
+- **Missão ativa:** Nenhum novo contrato.
+- **Eventos cruciais:** Iria agradeceu a preocupação de Eron e convidou-o a acompanhar a patrulha de volta ao povoado.
+- **Condições:** 12/12 PV | CA 16 | 225/300 XP | 56 PO, 3 PP e 7 PC | 25 flechas | 10 rações | 5,2 kg de sal. Inspiração Heroica disponível.
+
+**GitHub:** transcrição, cronologia e estado atualizados; commits confirmados.
