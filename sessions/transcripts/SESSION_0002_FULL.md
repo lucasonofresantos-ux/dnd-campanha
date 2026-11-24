@@ -5347,3 +5347,35 @@ Lá fora, a luz do dia começa a desaparecer.
 - **Condições do jogador:** Saudável, sem penalidades ou condições negativas.
 
 **GitHub:** commit da retomada confirmado. Cena recuperada do [registro original da sessão](https://github.com/lucasonofresantos-ux/dnd-campanha/blob/main/sessions/transcripts/SESSION_0002_FULL.md). Nenhum acontecimento, recurso ou horário foi alterado.
+
+## [203] JOGADOR
+
+- Durnak não sei se venho amanhã quero caçar mais um pouco, e alguém deixou algum recado para mim?
+
+## [204] MESTRE
+
+### Ferraria de Durnak — Dia 5, 18h00
+
+— Não tem problema, rapaz. A bancada estará aqui quando precisar.
+
+Durnak pendura o avental de couro na parede e balança a cabeça.
+
+— Recado? Não, ninguém veio procurá-lo hoje. Se aparecer alguém, aviso assim que você voltar.
+
+Ele olha para os materiais restantes sobre a bancada.
+
+— Quer deixar isso aqui comigo ou vai levar tudo? Posso guardar no armário da oficina.
+
+Do lado de fora, alguns comerciantes começam a fechar suas portas. O vento frio do entardecer desce das encostas da serra.
+
+---
+
+**[LOG DE MEMÓRIA DA CAMPANHA]**
+- **Localização atual:** Ferraria de Durnak, Pouso das Três Fontes.
+- **NPCs presentes:** Durnak Mão de Ferro — amigável.
+- **Missão ativa:** Nenhuma.
+- **Eventos cruciais:** Nenhum recado recebido. Bancada disponível para retorno futuro.
+- **Condições:** 12/12 PV | CA 16 | 225/300 XP | 57 PO, 6 PP e 7 PC | 25 flechas | 10 rações | 5,2 kg de sal.
+- **Fabricação pendente:** 7 flechas, 2h40 de trabalho.
+
+**GitHub:** transcrição e estado da campanha atualizados; commits confirmados.
