@@ -38,15 +38,15 @@ character:
   inventory_reference: character/ERON_RIVER_LEVEL_01.md
   carrying_all_owned_equipment: true
   carrying_weight_lb_recorded: 103.88
-  carrying_weight_note: "Peso inicial 103,88 lb era referência; após venda dos materiais e aquisição de ~1 kg de sal, carga abaixo de 180 lb, peso exato não aferido."
+  carrying_weight_note: "Peso inicial 103,88 lb era referência; novo material de caça (~8kg de carne mais pele, ossos, tendões e miúdos) não pesado integralmente; abaixo de 180 lb."
   carrying_capacity_lb: 180
   known_personal_item: "Marca da Bigorna Velada, pequeno disco familiar e bolsa de couro; uso desconhecido para Eron."
   untrained_owned_tool: "Ferramentas de Funileiro (propriedade, sem proficiência)"
   ammo:
-    shortbow_arrows_in_quiver: 17
+    shortbow_arrows_in_quiver: 15
     shortbow_arrows_fired_unrecovered: 0
-    shortbow_arrows_lost_unusable: 3
-    unrecovered_arrow_location: "Flechas anteriores perdidas; Dia 2 ao entardecer uma flecha errou corço fêmea e desapareceu na vegetação, não recuperada."
+    shortbow_arrows_lost_unusable: 5
+    unrecovered_arrow_location: "Três flechas perdidas antes do Dia3; dois disparos separados na manhã do Dia3, um erro e um acerto, não recuperados."
   accommodation:
     inn: "Posto de Descanso de Alda Tress"
     private_room: 3
@@ -72,7 +72,7 @@ character:
     starting_full_days: 5
     intact_full_days: 3
     partly_used_days: 1
-    food_offered: "Dia 2 ~21h00 abriu uma nova ração e dividiu a janta com a loba; três intactas e uma parcial."
+    food_offered: "Dia2 dividiu jantar com loba; Dia3 desjejum da mesma ração parcial, três intactas e uma parcial, quantidade residual não medida."
   salvaged_materials:
     rabbit_raw_hide: "vendida a Belda Cortiça Dia 2 ~11h55"
     rabbit_ears: 0
@@ -90,6 +90,15 @@ character:
     estimated_added_weight_kg: 15
     condition: "Toda carne fresca do corco, ~10kg, foi entregue a loba e filhotes: ~2kg Dia2 ~09h40, ~8kg restantes deixados junto a entrada da toca Dia2 ~10h25, expostos a deterioracao se nao consumidos. Peles, galhadas, tendões e ossos vendidos a Belda; miúdos vendidos a Bram; orelhas vendidas a Nessa."
     preparation_result: "Sobrevivencia + Ferramentas de Coureiro com vantagem 2d20kh1+5 [1,19] mantido 19+5=24"
+  harvested_roe_deer_day3:
+    fresh_meat_kg_approx: 8
+    raw_hide: "1 pele crua, ainda não salgada"
+    ears: 2
+    sinew_bundles: 1
+    long_bones: 2
+    useful_offal: "1 coração e 1 fígado"
+    antlers: 0
+    preparation_result: "Sobrevivência e Coureiro 2d20kh1+5 [13,8] mantido 13+5=18"
   salt_supply:
     sacks: 1
     weight_kg_approx: 1
@@ -101,21 +110,21 @@ character:
 campaign_time:
   calendar_system: "Asterion, dias relativos; nenhuma era/ano formal estabelecido"
   day: 3
-  time_of_day: "aproximadamente 06h00 da manhã do Dia 3"
+  time_of_day: "aproximadamente 09h00 da manhã do Dia 3"
   season: "final do outono"
-  elapsed_game_time: "Dia2 ~19h30–21h00 retorno à ravina; jantar e descanso até Dia3 ~06h00."
+  elapsed_game_time: "Dia3 ~06h10–09h00 desjejum, três tentativas de caça e saque."
 location:
   continent: Asterion
   polity: "Terras Livres de Avenhar (homebrew), fora de Valdren"
   area: "entroncamento da Estrada do Cascalho, próximo ao Pouso das Três Fontes"
   nearby: "encostas arborizadas da serra cujo monte mais alto é chamado Veyra"
-  exact_position: "Saliência rochosa junto à entrada da toca da loba, ravina conhecida"
-  travel_status: "Retornou à toca e passou a noite do lado de fora; não regressou ao Pouso."
+  exact_position: "Mata junto a pequeno curso de água, cerca de 30 minutos da toca"
+  travel_status: "Caçada concluída; Eron na mata com materiais frescos."
 scene:
   id: OPENING-001
-  status: "awaiting_player_action_day3_wolf_den"
-  current_npcs_present: ["Loba ferida", "Dois filhotes"]
-  immediate_visible_situation: "Dia 2 ~19h30–21h00: Eron recusou gastar Inspiração Heroica no teste pendente, encerrou a caça sem nova presa e retornou pela trilha conhecida à ravina. Loba e dois filhotes presentes, parte da carne entregue pela manhã ainda junto à toca, atadura no lugar. Eron abriu uma ração diária e dividiu a janta, oferecendo carne seca à loba, que aceitou. Restam três rações intactas e uma parcialmente consumida. Dormiu sob saliência rochosa próxima, sem bloquear a entrada, de ~21h00 a 06h00 do Dia 3, sem interrupção; descanso longo concluído. Pela manhã, loba apoia parte do peso na pata, ainda manca e não está curada. Sem novo teste, XP, gasto monetário, flecha ou medicamento. 12/12 PV, CA16, XP50/300, 33PO3PP3PC, 17 flechas, Inspiração Heroica disponível (Humano; não acumula)."
+  status: "awaiting_player_action_after_day3_harvest"
+  current_npcs_present: []
+  immediate_visible_situation: "Dia 3 ~06h10–09h00: Eron comeu pão e carne seca da ração parcial, ainda parcial; três intactas. Caçou sucessivamente sem gastar Inspiração Heroica. Rolagens reais Python no script Git d35af70119bf684ea055619bb10678a1c4b03bbb: tentativa 1 Sobrevivência [16]+5=21, Percepção [1]+7=8, Furtividade [14]+9=23; não localizou presa. Tentativa 2 Sobrevivência [20]+5=25, Percepção [17]+7=24, Furtividade [9]+9=18, ataque vantagem [2,3] mantido 3+7=10, errou. Tentativa 3 Sobrevivência [15]+5=20, Percepção [8]+7=15, Furtividade [16]+9=25, ataque vantagem [16,14] mantido 16+7=23, dano arco e furtivo [1,2]+5=8, corça adulta abatida. Saque Sobrevivência e ferramentas de coureiro com vantagem [13,8] mantido 13+5=18: ~8kg carne fresca, uma pele crua, duas orelhas, feixe de tendões, dois ossos longos, coração e fígado; sem galhadas, sal não usado. Duas flechas não recuperadas, restam 15. Sem XP novo por caça rotineira, PV12/12, CA16, 50/300XP, 33PO3PP3PC, Inspiração Heroica disponível. Eron na mata a ~30min da toca, 09h00."
   discovered_traps:
     - location: "Trilha dos Corcos, junto ao riacho"
       state: disarmed_safe_wire_left_at_tree
@@ -139,8 +148,8 @@ world:
 transcription:
   character_creation_history: sessions/transcripts/SESSION_0001_FULL.md
   narrative_session: sessions/transcripts/SESSION_0002_FULL.md
-  last_saved_player_turn: "Não vou para a loba divido a janta com ela e durmo lá"
-  last_saved_dm_turn: "[116] MESTRE — jantar compartilhado e descanso longo junto à toca; Dia3 06h00."
+  last_saved_player_turn: "Como alguma coisa e vou sair para caçar até matar alguma coisa pode rolar tudo até lá inclusive o saque"
+  last_saved_dm_turn: "[118] MESTRE — caçada concluída, saque 18, 15 flechas."
 notes:
   - "Primeira resposta de cena será salva literalmente e sem revelar preparativos de dm."
   - "Nunca tratar a aprovação da ficha como XP, nem mudar recursos automaticamente."
