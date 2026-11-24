@@ -7125,3 +7125,89 @@ A bancada está diante de você. Os três armários continuam fechados.
 - **Inventário:** Marca da Bigorna Velada na bolsa; lanterna com 4h40 de autonomia e 6 frascos de óleo em reserva.
 
 **GitHub:** transcrição, cronologia e estado atualizados; commits confirmados.
+
+## [267] JOGADOR
+
+Vou tentar arrumar, fazer oque a placa diz role oque for necessário 
+
+## [268] MESTRE
+
+Vou resolver primeiro o diagnóstico das linhas e, se houver condições seguras, o reparo com suas ferramentas de ferreiro.
+
+### Oficina de manutenção — Dia 6, 15h30
+
+Você começa examinando a ligação entre as canaletas e os componentes cristalinos, procurando compreender como o sistema foi montado antes de interferir nele.
+
+<card gap={3}>
+  <caption>Investigação com vantagem — proficiência em Investigação e Ferramentas de Ferreiro</caption>
+  <row align="center">
+    {#each [9,18] as v,i}
+      <box align="center" flex={1} gap={1}>
+        <svg viewBox="0 0 100 100" size="76px">
+          <polygon points="50,4 94,29 94,73 50,97 6,73 6,29" fill={i===1?"#214b86":"#545b65"} stroke={i===1?"#78a7e1":"#9299a1"} strokeWidth="2"/>
+          <path d="M50 4L23 65L94 73L50 4L77 65L6 73L50 4M6 29L77 65L50 97L23 65L77 65" stroke="#93b5dd" fill="none"/>
+          <text x="50" y="54" fontSize="27" fontWeight="bold" fill="white" textAnchor="middle">{v}</text>
+        </svg>
+        <caption>{i===1?"Mantido":"Descartado"}</caption>
+      </box>
+    {/each}
+    <box flex={1} align="center">
+      <title size="2xl">24</title>
+      **18 + 6**
+    </box>
+  </row>
+  <divider/>
+  <row>
+    <icon name="hammer" size="2xl"/>
+    <box flex={1} gap={1}>
+      **Destreza (Ferramentas de Ferreiro)**
+      <caption>1d20+7 → [8] + 7</caption>
+    </box>
+    <title size="2xl">15</title>
+  </row>
+  <caption>Rolagens executadas em Python, com verificação do hash do script do repositório.</caption>
+</card>
+
+### Diagnóstico e reparo
+
+Graças à investigação, você identifica um dispositivo de isolamento junto à bancada, conectado às canaletas do patamar. Examina a caixa de cristais e encontra seis peças, das quais quatro estão aparentemente intactas e duas apresentam fissuras.
+
+Seguindo as instruções da placa, você realiza o procedimento:
+
+<box border radius="lg" padding={3} gap={3}>
+  {#each [["Isolamento da linha local","Concluído"],["Remoção de dois cristais danificados","Concluído"],["Instalação de dois cristais de reposição","Concluído"],["Ajuste das conexões metálicas","Concluído"],["Restabelecimento da alimentação","Sem resposta"]] as item,i}
+    <row align="center">
+      <icon name={i===4?"alert-circle":"check-circle"} color={i===4?"warning":"success"} size="lg"/>
+      <box flex={1} gap=0>
+        **{item[0]}**
+        <caption>{item[1]}</caption>
+      </box>
+    </row>
+  {/each}
+</box>
+
+Ao terminar, você devolve o dispositivo de isolamento à posição original.
+
+Nada se acende.
+
+Você conseguiu reparar fisicamente o trecho local, mas aparentemente não existe alimentação suficiente chegando até ele. As canaletas prosseguem pelo corredor principal, possivelmente em direção à origem dessa energia.
+
+O reparo está montado, porém ainda não foi possível confirmar seu funcionamento.
+
+### 16h15
+
+Passaram-se 45 minutos desde o início do trabalho. Os três armários permanecem fechados, e ainda existem dois cristais aparentemente intactos na caixa de reposição.
+
+---
+
+**[LOG DE MEMÓRIA DA CAMPANHA]**
+- **Localização atual:** Oficina de manutenção do Monte Veyra, Dia 6, 16h15.
+- **NPCs presentes:** Nenhum detectado.
+- **Missão ativa:** Exploração da estrutura e investigação da alimentação de energia.
+- **Eventos cruciais:** Trecho local reparado; alimentação não restabelecida. Dois cristais de reposição utilizados.
+- **Condições:** 12/12 PV | CA 16 | 275/300 XP. Inspiração Heroica disponível.
+- **Inventário:** Marca da Bigorna Velada na bolsa; lanterna com 3h55 de autonomia e 6 frascos de óleo em reserva. Nenhum objeto recolhido.
+
+**XP:** não concedido por enquanto, pois o funcionamento do trecho reparado ainda não foi confirmado.
+
+**GitHub:** transcrição, rolagens, cronologia e estado atualizados; commits confirmados.
