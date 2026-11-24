@@ -23,3 +23,8 @@ Estado anterior à criação de Eron: nenhuma house rule mecânica aprovada. A e
 - **Talentos:** Crafter do Artesão; Alerta do Guarda; Humano Versátil concede Vigoroso (Tough) como terceiro talento de origem confirmado (não Alerta duplicado). Humano Habilidoso concede uma perícia adicional.
 - **Outros:** a classe é Ladino 1 e seu equipamento inicial permanece disponível separadamente. A escolha posterior de Artífice é planejamento, não nível inicial. Não alterar rolagens ou demais regras gerais sem aprovação explícita.
 - **Fontes dos dois antecedentes:** Player's Handbook 2024, verbetes Artisan e Guard (Roll20 Compendium, consulta em 2026-11-23). Regra canônica padrão é somente um antecedente completo; os dois cumulativos são exceção deliberada.
+
+## Convenção de saque de criaturas — campanha Eron River (2026-11-23)
+- **"Saquear um animal"** significa que o jogador declara examinar o animal inteiro e tentar recuperar componentes úteis ou comercializáveis plausíveis: carne, pele, orelhas, ossos, dentes, chifres, órgãos e demais materiais, conforme a criatura, considerando o objetivo e ferramentas existentes.
+- As Ferramentas de Coureiro (possuídas e proficientes) **devem ser consideradas** quando relevantes para retirar, conservar e trabalhar pele; não fornecem bônus automático a uma perícia sem regra que o determine, nem asseguram ausência de perdas, pele curtida imediatamente ou valores de venda fictícios.
+- Convenção de interpretação de declaração, aplicável somente à campanha de Eron; não altera D&D 2024 nem a interpretação de outras campanhas.
