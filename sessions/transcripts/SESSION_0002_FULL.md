@@ -3417,3 +3417,50 @@ O homem observa a correnteza com preocupação.
 - **Condições do Jogador:** 12/12 PV, CA 16, 50/300 XP, 36 PO, 2 PP e 3 PC, 15 flechas. Inspiração Heroica disponível.
 
 **GitHub:** transcrição, cronologia, estado e relógios atualizados; commits confirmados.
+
+## [139] JOGADOR
+
+- até o anoitecer... 5 PO, isso vai dá trabalho e acho que sou sua última esperança para hoje
+Role persuasão
+
+## [140] MESTRE
+
+### Ponte do Córrego Curvo — Dia 3, 17h15
+
+<card gap={2}>
+  <caption>Carisma — Persuasão</caption>
+  <box align="center" padding={2}>
+    <svg viewBox="0 0 120 120" width="104px" height="104px">
+      <polygon points="60,5 112,35 112,85 60,115 8,85 8,35" fill="#173c70" stroke="#689ed8" strokeWidth="2"/>
+      <path d="M60 5 L28 39 L92 39 Z M8 35 L28 39 L8 85 Z M112 35 L92 39 L112 85 Z M28 39 L92 39 L60 94 Z M8 85 L28 39 L60 94 L60 115 Z M112 85 L92 39 L60 94 L60 115 Z" fill="none" stroke="#689ed8" strokeWidth="1.4"/>
+      <text x="60" y="67" textAnchor="middle" fontSize="28" fontWeight="bold" fill="#ffffff">20</text>
+    </svg>
+    <text color="success" weight="medium">20 natural</text>
+    <title size="2xl">20 + 4 = 24</title>
+    <text color="success">Sucesso</text>
+  </box>
+  <caption>1d20+4 — Executado em Python com o script verificado do repositório, utilizando secrets.randbelow().</caption>
+</card>
+
+Avel solta um longo suspiro, olha para o céu e depois para a correnteza.
+
+— Pelas barbas dos deuses... Você sabe negociar. Está bem, cinco moedas de ouro. Mas quero esse mecanismo funcionando antes que escureça.
+
+Ele estende a mão para selar o acordo.
+
+— O que precisa de mim?
+
+**Condição negociada:** 5 PO mediante conclusão do reparo antes do anoitecer, com ferramentas e materiais disponíveis fornecidos por Avel.
+
+Para identificar a causa do travamento e determinar como reparar o mecanismo, faça um teste de **Inteligência (Investigação), 1d20+6**.
+
+---
+
+**[LOG DE MEMÓRIA DA CAMPANHA]**
+- **Localização Atual:** Ponte do Córrego Curvo, Dia 3, 17h15.
+- **NPCs Presentes e Relação:** Avel Duro, contratante.
+- **Linha de Missão Ativa:** Reparo do mecanismo da ponte; recuperação da loba e proteção dos rebanhos.
+- **Eventos Cruciais Ocorridos:** Persuasão 24; remuneração negociada de 3 para 5 PO, ainda não recebida.
+- **Condições do Jogador:** 12/12 PV, CA 16, 50/300 XP, 36 PO, 2 PP e 3 PC, 15 flechas. Inspiração Heroica disponível.
+
+**GitHub:** transcrição, rolagem, cronologia, estado e relógios atualizados; commits confirmados.
