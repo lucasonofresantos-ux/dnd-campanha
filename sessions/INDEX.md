@@ -18,5 +18,5 @@
 - XP: [XP_LOG.csv](../campaign/XP_LOG.csv), regras em [PROGRESSION_XP.md](../campaign/PROGRESSION_XP.md).
 - Sessão narrativa 1: [SESSION_0002.md](SESSION_0002.md), transcrição [SESSION_0002_FULL.md](transcripts/SESSION_0002_FULL.md).
 - Isolamento: não misturar com `PRE-CHAR-HUMAN-001` (que é histórico da criação), nem com campanhas de outros personagens.
-- Transcrição [SESSION_0002_FULL.md](transcripts/SESSION_0002_FULL.md), mensagens [001]–[018]: Eron está oculto a 2 m da toca e solicita Lidar com Animais, rolagem [15]+3=18; interpreta postura defensiva da loba e filhotes. Nenhuma ação de aproximação, contato ou domesticação; 0/300 XP, 36 PO 8 PP, sem combate.
+- Transcrição [SESSION_0002_FULL.md](transcripts/SESSION_0002_FULL.md), mensagens [001]–[020]: Eron se revelou lentamente junto à toca, alimentou a loba com pedaço de carne seca usando a abordagem informada pelo resultado de Lidar com Animais 18; loba não atacou, ainda vigilante e protegendo dois filhotes. Ferimento da pata observado, nenhum toque/curativo. Rações 4 porções intactas + 1 parcialmente usada; 0/300 XP, 36 PO 8 PP, sem combate.
 - Planejamento secreto em `dm/` (jamais incluir em logs públicos).
