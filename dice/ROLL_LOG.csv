@@ -81,3 +81,4 @@ date,campaign_id,stage,attempt,expression,six_rolls_faces_in_order,six_attribute
 2026-11-23,ERON-RIVER-ASTERION-001,skill_check_perception,10,1d20+7,19,"19+7",26,true
 2026-11-23,ERON-RIVER-ASTERION-001,skill_check_persuasion,1,1d20+4,14,"14+4",18,true
 2026-11-23,ERON-RIVER-ASTERION-001,correction_invalid_unexecuted_skill_check_persuasion,1,1d20+4,14,"14+4",18,false
+2026-11-23,ERON-RIVER-ASTERION-001,smith_tools_strength_player_reported,1,1d20+3,16,"16+3",19,true
