@@ -5754,3 +5754,69 @@ Alda então olha para você.
 - **Descanso longo:** Ainda não iniciado. Banho sendo preparado.
 
 **GitHub:** transcrição, dados, cronologia e estado atualizados; commits confirmados.
+
+## [219] JOGADOR
+
+- voltei sim, mas quis ver se estava tudo bem, e se não tem mais nada ou recado para mim, vou tomar um banho e dormir, quero sair amanhã cedo
+
+## [220] MESTRE
+
+### Estalagem de Alda — Dia 5, 21h50
+
+— Nenhum recado, Eron. Pode descansar tranquilo — responde Alda.
+
+Iria se despede antes de sair.
+
+— Obrigada pela preocupação. Boa noite e boa caçada amanhã.
+
+Pouco depois, a água quente está pronta. Você sobe ao quarto número três, toma seu banho e se acomoda na cama por volta das 22h15. A noite transcorre sem interrupções.
+
+### Dia 6 — 06h15
+
+Os primeiros sinais do amanhecer aparecem pela janela. O ar está frio, e uma fina névoa cobre os campos próximos ao povoado. Lá embaixo, você ouve Alda movimentando utensílios na cozinha.
+
+<card gap={3}>
+  <row align="center">
+    <icon name="moon" color="success" size="xl"/>
+    **Descanso longo concluído**
+  </row>
+  <divider/>
+  <grid columns={2}>
+    <grid-item>
+      <caption>Pontos de vida</caption>
+      <title size="2xl" color="success">12/12</title>
+    </grid-item>
+    <grid-item>
+      <caption>Dados de Vida</caption>
+      <title size="2xl">1d8</title>
+    </grid-item>
+    <grid-item>
+      <caption>Exaustão</caption>
+      <title size="xl">0</title>
+    </grid-item>
+    <grid-item>
+      <caption>Inspiração Heroica</caption>
+      **Disponível**
+    </grid-item>
+  </grid>
+  <divider/>
+  <row>Experiência<spacer/>**225/300 XP**</row>
+  <box height={2} radius="full" background="surface-tertiary" clip={true}>
+    <box height="100%" width="75%" background="#328456" radius="full"/>
+  </box>
+</card>
+
+Você está descansado e ainda no quarto, pronto para começar o sexto dia de sua jornada.
+
+---
+
+**[LOG DE MEMÓRIA DA CAMPANHA]**
+- **Localização atual:** Quarto 3 da estalagem de Alda, Dia 6, 06h15.
+- **NPCs presentes e relação:** Alda Tress, amigável, na cozinha.
+- **Missão ativa:** Nenhum contrato. Sete flechas pendentes na ferraria.
+- **Eventos cruciais:** Nenhum recado recebido; banho tomado e descanso longo concluído.
+- **Condições:** 12/12 PV | CA 16 | 225/300 XP | 56 PO, 3 PP e 7 PC | 25 flechas | 10 rações | 5,2 kg de sal.
+
+**Nota de auditoria:** as rolagens anteriores de Percepção (9 e 17) não foram executadas em Python. Corrigi o registro sem alterar os acontecimentos. Nenhuma nova rolagem foi necessária para o descanso.
+
+**GitHub:** transcrição, ficha, cronologia e estado atualizados; commits confirmados.
