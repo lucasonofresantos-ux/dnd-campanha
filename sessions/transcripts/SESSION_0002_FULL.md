@@ -6698,3 +6698,94 @@ Nenhum teste foi necessário para operar a cavidade ou acender a lanterna.
 **Auditoria:** as rolagens anteriores de Percepção 23 e Furtividade 17 não tiveram execução Python comprovada. Registros corrigidos, acontecimentos preservados.
 
 **GitHub:** transcrição, ficha, cronologia, estado e auditoria atualizados; commits confirmados.
+
+## [253] JOGADOR
+
+Vou pegar a bigorna vedada e vou investigar todo esse lugar minuciosamente
+Investigação 19
+
+## [254] MESTRE
+
+### Interior do Monte Veyra — Dia 6, 14h35
+
+<card gap={2}>
+  <row align="center">
+    <svg viewBox="0 0 100 100" size="76px">
+      <polygon points="50,4 94,29 94,73 50,97 6,73 6,29" fill="#214b86" stroke="#78a7e1" strokeWidth="2"/>
+      <path d="M50 4L23 65L94 73L50 4L77 65L6 73L50 4M6 29L77 65L50 97L23 65L94 29M23 65L77 65" fill="none" stroke="#78a7e1"/>
+      <text x="50" y="54" fontSize="27" fontWeight="bold" fill="white" textAnchor="middle">19</text>
+    </svg>
+    <box gap={1}>
+      <caption>Inteligência (Investigação)</caption>
+      <title size="2xl">25</title>
+      **19 + 6 = 25**
+      <caption>Dado informado pelo jogador, interpretado como resultado natural.</caption>
+    </box>
+  </row>
+</card>
+
+Você recupera a Marca da Bigorna Velada e a guarda na bolsa. A porta de pedra permanece fechada.
+
+Durante 25 minutos, percorre os 12 metros do corredor, examinando o piso, as paredes, o teto e as canaletas com a lanterna.
+
+Seus conhecimentos de ferraria e cantaria permitem identificar diversos detalhes:
+
+- **Construção:** os blocos possuem encaixes de precisão extraordinária, sem argamassa visível.
+- **Canaletas:** contêm filetes metálicos e pequenas peças de material cristalino, algumas rachadas. Não aparentam estar ativos.
+- **Conservação:** existe uma fina camada de poeira sobre o piso, sem pegadas recentes identificáveis.
+- **Armadilhas:** você não encontra indícios de placas de pressão, fios ou mecanismos de disparo no corredor.
+- **Passagens:** não identifica outras aberturas além da entrada e da porta metálica.
+
+### A segunda porta
+
+<box border radius="lg" padding={2}>
+  <svg viewBox="0 0 340 280" width="100%">
+    <rect x="10" y="5" width="320" height="270" rx="3" fill="#44443f"/>
+    {#each [0,1,2,3,4,5] as i}
+      <path d={`M10 ${15+i*46}H330 M${i%2?45:290} ${15+i*46}v46`} stroke="#77776b" strokeWidth="1.5" fill="none"/>
+    {/each}
+    <rect x="57" y="19" width="226" height="245" fill="#252927" stroke="#777c73" strokeWidth="8"/>
+    <rect x="67" y="29" width="206" height="230" fill="#3b403e" stroke="#96958a" strokeWidth="2"/>
+    <path d="M170 29V259" stroke="#181b19" strokeWidth="3"/>
+    <rect x="81" y="43" width="178" height="38" fill="#292d2b" stroke="#888675"/>
+    {#each [0,1,2,3,4,5,6,7,8] as i}
+      <path d={`M${91+i*19} 53v18l9 -9l-9 -9`} stroke="#aaa28b" strokeWidth="1.8" fill="none"/>
+    {/each}
+    <g fill="none" stroke="#a09b83" strokeWidth="2.5">
+      <circle cx="170" cy="140" r="43"/>
+      <path d="M170 97L207 118L207 162L170 183L133 162L133 118Z"/>
+      {#each [0,60,120,180,240,300] as a}
+        <path d="M170 109v17" transform={`rotate(${a} 170 140)`}/>
+      {/each}
+    </g>
+    <path d="M146 148L170 120L194 148Z" fill="#929080"/>
+    <rect x="239" y="184" width="22" height="57" rx="3" fill="#222624" stroke="#a19a85" strokeWidth="2"/>
+    <path d="M250 218V194" stroke="#b8b29c" strokeWidth="6" strokeLinecap="round"/>
+    <circle cx="250" cy="219" r="5" fill="#777969"/>
+  </svg>
+  <caption textAlign="center">Representação esquemática da porta metálica e de sua alavanca lateral.</caption>
+</box>
+
+Ao aproximar a lanterna das inscrições, você reconhece a escrita **anã**, embora seus caracteres sejam bastante arcaicos. Graças ao idioma que conhece, consegue compreender boa parte do texto:
+
+*“Vestíbulo de acesso. Mantenha o isolamento da entrada durante a abertura interna.”*
+
+Abaixo da inscrição há um relevo de uma montanha cercada por seis símbolos geométricos.
+
+No lado direito da porta, você encontra uma alavanca metálica embutida. Seu mecanismo parece destinado à abertura manual, mas apresenta sinais de oxidação.
+
+Não há outra cavidade correspondente à sua peça familiar nessa segunda porta.
+
+Você está diante da alavanca. A estrutura permanece completamente silenciosa.
+
+---
+
+**[LOG DE MEMÓRIA DA CAMPANHA]**
+- **Localização atual:** Vestíbulo interno do Monte Veyra, diante da segunda porta. Dia 6, 14h35.
+- **NPCs presentes:** Nenhum detectado.
+- **Missão ativa:** Exploração da construção subterrânea.
+- **Eventos cruciais:** Inscrição anã parcialmente traduzida; mecanismo manual identificado. Ambas as portas estão fechadas.
+- **Condições:** 12/12 PV | CA 16 | 250/300 XP. Inspiração Heroica disponível.
+- **Inventário:** Marca da Bigorna Velada recuperada. Lanterna acesa, com aproximadamente 5h35 de autonomia e 6 frascos de óleo em reserva.
+
+**GitHub:** transcrição, ficha, rolagem informada pelo jogador, cronologia e estado atualizados; commits confirmados.
