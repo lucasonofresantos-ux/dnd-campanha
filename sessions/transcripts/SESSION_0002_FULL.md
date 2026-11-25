@@ -13091,3 +13091,24 @@ Você está com a Marca da Bigorna Velada em sua posse e já pode preparar seu r
 O turno anterior já estava salvo. Não avancei o horário, não iniciei sua viagem e não concedi XP adicional. Os dois dados que você informou continuam válidos; as cinco expressões adicionais do turno anterior não tiveram execução Python comprovada e foram classificadas como não verificadas, preservando os acontecimentos.
 
 **GitHub:** commit confirmado.
+
+## [411] JOGADOR
+
+(foi concertado os sensores exteriores?) uma parte ali cortou
+
+## [412] MESTRE
+
+Sim. **Os dois sensores exteriores foram consertados e estão funcionando**, conectados ao Sistema Central.
+
+- Sensor da entrada: operacional.
+- Sensor da aproximação: operacional.
+- Monitoramento e registro de movimentos: ativos.
+- Nenhuma pessoa detectada nas imediações durante a inspeção.
+
+A entrada original está fechada, e os seis Caminhos continuam selados. O Sistema poderá informar o que aconteceu nas proximidades durante sua ausência, quando você retornar.
+
+**[LOG DE MEMÓRIA DA CAMPANHA]** Dia 10, 10h05 | Vestíbulo original | UM-027 e Sistema Central cooperativos | Próxima missão: retorno à cidade | 30/30 PV | CA 16 | 1.325/2.700 XP.
+
+Nenhuma nova ação ou rolagem; apenas confirmação do resultado anterior.
+
+**GitHub:** commit confirmado.
