@@ -13112,3 +13112,40 @@ A entrada original está fechada, e os seis Caminhos continuam selados. O Sistem
 Nenhuma nova ação ou rolagem; apenas confirmação do resultado anterior.
 
 **GitHub:** commit confirmado.
+
+## [413] JOGADOR
+
+- mantenham as saídas seladas e camufladas enquanto eu saio para a cidade
+Vou com furtividade e percepção e tento caçar mais um corço
+
+## [414] MESTRE
+
+## Dia 10 — 10h07 | Saída de Thûn-Khazad
+
+— Ordens registradas, Guardião — responde o Sistema Central, em anão. — Manteremos os acessos fechados e sua camuflagem preservada. A vigilância e a restauração interna continuarão durante sua ausência. Os Seis Caminhos não serão abertos.
+
+UM-027 confirma que os sensores não detectam pessoas nas imediações. A Marca da Bigorna Velada libera a entrada original, deixando uma fresta por onde entram a luz do dia e o ar frio da montanha.
+
+Para sair discretamente, descer pela mata em direção ao Pouso das Três Fontes e procurar um corço, faça os seguintes testes:
+
+| Teste | Modificador |
+|---|---:|
+| Furtividade | 1d20 +9 |
+| Percepção | 1d20 +7 |
+| Sobrevivência — rastrear a caça | 1d20 +5 |
+
+Informe os três resultados naturais ou autorize que eu role por você.
+
+---
+
+**[LOG DE MEMÓRIA DA CAMPANHA]**
+
+- **Localização atual:** Limiar interno do acesso original, Dia 10, 10h07.
+- **NPCs presentes:** UM-027 e Sistema Central, cooperativos.
+- **Linha de missão ativa:** Retornar à cidade e caçar no percurso.
+- **Eventos cruciais:** Ordem de fechamento e preservação da camuflagem durante a ausência registrada.
+- **Condições:** 30/30 PV | CA 16 | 1.325/2.700 XP | 24 flechas.
+
+A entrada está temporariamente aberta para sua saída; o fechamento ocorrerá após a travessia. Os testes ainda não foram rolados.
+
+**GitHub:** commit confirmado.
