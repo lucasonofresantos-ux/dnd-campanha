@@ -230,21 +230,21 @@ character:
 campaign_time:
   calendar_system: "Asterion, dias relativos; nenhuma era/ano formal estabelecido"
   day: 10
-  time_of_day: "aproximadamente 14h45 do Dia 10"
+  time_of_day: "aproximadamente 14h55 do Dia 10"
   season: "final do outono"
-  elapsed_game_time: "Dia10 14h00–14h45, comércio e visita à ferraria."
+  elapsed_game_time: "Dia10 14h45–14h55, trajeto até a Vigília e proposta de Iria."
 location:
   continent: Asterion
   polity: "Terras Livres de Avenhar (homebrew), fora de Valdren"
   area: "entroncamento da Estrada do Cascalho, próximo ao Pouso das Três Fontes"
   nearby: "encostas arborizadas da serra cujo monte mais alto é chamado Veyra"
-  exact_position: "Ferraria de Durnak, Pouso das Três Fontes."
+  exact_position: "Posto da Vigília, Pouso das Três Fontes."
   travel_status: "Eron retornou ao Pouso das Três Fontes. Thûn-Khazad: entrada original fechada e camuflada, sensores operacionais, oito unidades, manutenção interna e inventário contínuos, seis Caminhos selados. Nenhuma comunicação remota estabelecida."
 scene:
   id: OPENING-001
-  status: "durnak_message_iria_day10"
-  current_npcs_present: ["Durnak, amistoso"]
-  immediate_visible_situation: "Dia10 14h00–14h45: jogador vende toda caça disponível Dia10 e anterior, depois visita ferraria para recados. Belda compra duas peles (Dia10 6PP, Dia6 salgada 7PP), galhadas 2PP por par, tendões 1PP por feixe, ossos 5PC por par; Nessa orelhas 5PC por par; Bram compra 11kg carne fresca 22PP e coração/fígado Dia10 3PP, recusa miúdos antigos Dia6 e lebre por tempo armazenamento, permanecem em posse, sem valor alimentar confirmado, não descartados. Dia10 35PP, Dia6 11PP, total46PP=4PO6PP, saldo56PO2PP7PC→60PO8PP7PC. Carne salgada6,45kg em custódia UM019 não comercializada. Dia10 e Dia6 peles/galhadas/orelhas/ossos/tendões vendidos, carne Dia10 e miúdos Dia10 vendidos. Chegada ferraria14h45; Durnak amistoso confirma materiais guardados para sete flechas, entrega papel dobrado de Iria, que passou Dia9 solicitando encontro pessoal após retorno, motivo desconhecido. Durnak pergunta se caça foi boa. Nenhuma rolagem, XP, gasto extra, dano ou venda de patrimônio imperial. PV30/30 CA16 XP1325/2700 23 flechas. Auditoria [416]: seis expressões não tiveram chamada efetiva a Python comprovada, corrigidas por registros false, acontecimentos e inventário mantidos. Decisões locais: preços, conservação, horário, recado."
+  status: "iria_missing_goods_offer_day10"
+  current_npcs_present: ["Iria, amistosa e profissional"]
+  immediate_visible_situation: "Dia10 14h45–14h55: jogador respondeu Durnak que caçou dois corços, agradeceu, prometeu voltar para concluir flechas e foi encontrar Iria (chamada aria pelo jogador); pediu Percepção para detectar seguimento. Durnak amistoso confirma bancada disponível. Execução comprovada container.exec /tmp/eron_419_dice.py, git hash-object d35af70119bf684ea055619bb10678a1c4b03bbb igual ao blob do GitHub, JSON expression 1d20+7 rolls [9] kept_indices [0] modifier7 total16. Observa ruas/esquinas/movimento; nenhum seguidor deliberado identificado, não garantia absoluta. Chega posto da Vigília, Iria amistosa e profissional, apresenta proposta de investigar desaparecimento de duas caixas de mercadorias de depósito próximo à Estrada do Cascalho, sem sinais evidentes de arrombamento segundo relato e versões divergentes dos responsáveis. Oferece 8PO pela investigação, pergunta se interessado; proposta não aceita, não há contrato/pagamento ou culpado estabelecido. Decisões locais: ocorrência, remuneração, deslocamento e horário. Nenhum XP, gasto, dano, magia ou alteração de inventário, PV30/30 CA16 XP1325/2700 60PO8PP7PC 23 flechas. Thûn-Khazad permanece em manutenção sem comunicação remota."
   discovered_traps:
     - location: "Trilha dos Corcos, junto ao riacho"
       state: disarmed_safe_wire_left_at_tree
@@ -269,7 +269,7 @@ scene:
   combat: false
   initiative: []
   rounds: 0
-  dice_rolled: false
+  dice_rolled: true
   xp_awarded: true
   reward_offered_but_not_accepted: null
   herd_contract_status: "Concluído Dia5 ~11h55; Mara confirmou três noites sem perdas, pagou 12 PO; +50 XP de resolução substantiva, reputação gratidão e respeito."
@@ -289,8 +289,8 @@ world:
 transcription:
   character_creation_history: sessions/transcripts/SESSION_0001_FULL.md
   narrative_session: sessions/transcripts/SESSION_0002_FULL.md
-  last_saved_player_turn: "[417] JOGADOR — vende caça e procura recados na ferraria."
-  last_saved_dm_turn: "[418] MESTRE — vendas +46PP, recado Iria, Dia10 14h45."
+  last_saved_player_turn: "[419] JOGADOR — segue para Iria, solicita Percepção."
+  last_saved_dm_turn: "[420] MESTRE — Percepção16 verificada, proposta de Iria, Dia10 14h55."
 notes:
   - "Primeira resposta de cena será salva literalmente e sem revelar preparativos de dm."
   - "Nunca tratar a aprovação da ficha como XP, nem mudar recursos automaticamente."
