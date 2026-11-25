@@ -14912,3 +14912,29 @@ Ele olha para o pano estendido na margem.
 - **Condições do jogador** · 30/30 PV, CA 16, 1.425/2.700 XP. Saldo de 73 PO, 2 PP e 4 PC.
 
 **Commit confirmado no GitHub.**
+
+## [515] JOGADOR
+
+- Certo e obrigado vou levar isto para ela
+
+### Mestre — andamento
+
+— Leva, sim. — Tomé ergue a mão em despedida e volta para as mós.
+
+## [516] MESTRE
+
+Você recolhe o tecido ainda úmido e sobe pela margem do córrego. Na primeira curva, o barulho das mós some atrás das árvores. Pouco adiante, duas galinhas saem debaixo de um barco emborcado e correm até uma mulher que espalha grão no terreiro. É a casa que Lena descreveu.
+
+Ao ver o pano que você trouxe, Celina limpa as mãos na saia e vem até a cerca. Você estende a peça sobre a trave. Ela vira a bainha pelo avesso e corre o polegar por uma carreira de pontos miúdos. Perto do canto, três deles foram feitos com linha verde.
+
+— Esses pontos fui eu que dei. A linha preta tinha acabado. — Ela vira o canto para a luz. — É um pedaço da manta que eu punha sobre o cesto quando levava roupa limpa pro pouso. Faz uns dias que procuro por ela. Onde foi que você achou isso?
+
+**[LOG DE MEMÓRIA DA CAMPANHA]**
+
+- **Localização atual** · Cerca do terreiro de Celina, acima do moinho. Dia 12, cerca de 09h20.
+- **NPCs presentes e relação** · Celina, lavadeira e criadora de ovelhas, conversa com Eron pela primeira vez.
+- **Linha de missão ativa** · Descobrir como a manta chegou ao canal. O paradeiro das duas ovelhas continua desconhecido.
+- **Eventos cruciais ocorridos** · Eron levou o pano até Celina. Ela identificou os três pontos verdes que costurou na bainha de sua manta de cobrir o cesto.
+- **Condições do jogador** · 30/30 PV, CA 16, 1.425/2.700 XP. Saldo de 73 PO, 2 PP e 4 PC.
+
+**Commit confirmado no GitHub.**

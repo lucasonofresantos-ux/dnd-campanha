@@ -240,3 +240,5 @@
 - [512] Dia12 08h35–09h05. Sem nova rolagem, Eron e Tomé desobstruem a tomada. Pano de lã preta com bainha preservado na margem. Galho e folhas removidos, grade e comporta íntegras. Vazão estável e saco inteiro de centeio moído. Origem do tecido pendente.
 
 - [514] Dia12 09h10. Tomé confirma que visitou Celina ao entardecer Dia10 para mostrar tufo da grade. Segundo Tomé, ela identificou fio torcido e mencionou duas ovelhas tosquiadas desaparecidas. Pano continua na margem, não mostrado a ela.
+
+- [516] Dia12 09h10–09h20. Tomé consente. Eron leva o tecido molhado até Celina. Pano estendido na trave da cerca. Celina identifica três pontos de linha verde feitos por ela na bainha da manta de cobrir o cesto de roupa. Dava falta há dias e pergunta onde foi achada. Ovelhas seguem desaparecidas.
