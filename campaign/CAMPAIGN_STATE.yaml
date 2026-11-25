@@ -233,9 +233,9 @@ character:
 campaign_time:
   calendar_system: "Asterion, dias relativos; nenhuma era/ano formal estabelecido"
   day: 12
-  time_of_day: "Dia 12, cerca de 09h30"
+  time_of_day: "Dia 12, cerca de 09h32"
   season: "final do outono"
-  elapsed_game_time: "Dia 12, 09h25–09h30"
+  elapsed_game_time: "Dia 12, 09h30–09h32"
 location:
   continent: Asterion
   polity: "Terras Livres de Avenhar (homebrew), fora de Valdren"
@@ -247,7 +247,7 @@ scene:
   id: OPENING-001
   status: "celina_visit_day12"
   current_npcs_present: ["Celina"]
-  immediate_visible_situation: "Dia12 09h30. Celina conduz Eron à porteira e ergue a barra. Eron vê três fios pretos no sebo do encaixe. Celina indica onde pendurara a manta a um braço do encaixe e diz que encontrou a barra baixada de manhã. Do lado de fora há barro junto ao caminho do córrego."
+  immediate_visible_situation: "Dia12 09h32. Eron examina ponto original da manta. Laçada preta numa farpa na face externa da travessa; rasgo próximo quando Celina alinha a bainha de memória. Tranca à direita, a um braço. Investigação +6 pendente para reconstruir movimento."
   discovered_traps:
     - location: "Trilha dos Corcos, junto ao riacho"
       state: disarmed_safe_wire_left_at_tree
@@ -292,8 +292,8 @@ world:
 transcription:
   character_creation_history: sessions/transcripts/SESSION_0001_FULL.md
   narrative_session: sessions/transcripts/SESSION_0002_FULL.md
-  last_saved_player_turn: "[519] JOGADOR — aceita ver a porteira."
-  last_saved_dm_turn: "[520] MESTRE — fios no encaixe da tranca."
+  last_saved_player_turn: "[521] JOGADOR — olha onde estava a manta."
+  last_saved_dm_turn: "[522] MESTRE — laçada na face externa da travessa."
 notes:
   - "Primeira resposta de cena será salva literalmente e sem revelar preparativos de dm."
   - "Nunca tratar a aprovação da ficha como XP, nem mudar recursos automaticamente."

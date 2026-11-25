@@ -14992,3 +14992,29 @@ Ela mantém a barra erguida para você ver melhor. Do lado de fora, a porteira d
 - **Condições do jogador** · 30/30 PV, CA 16, 1.425/2.700 XP. Saldo de 73 PO, 2 PP e 4 PC.
 
 **Commit confirmado no GitHub.**
+
+## [521] JOGADOR
+
+Vou dar um olhada onde estava a manta?
+
+### Mestre — andamento
+
+Celina aponta o trecho da travessa onde costumava estender a manta.
+
+## [522] MESTRE
+
+No meio da travessa, a madeira está lisa de tanto uso. Você se abaixa para olhar a face que dá para fora do curral. Logo abaixo da borda, uma farpa comprida prende uma pequena laçada de fio preto. Vista de cima, a própria travessa escondia o fio.
+
+Celina segura a manta recuperada junto à marca, sem encostar uma na outra. Quando alinha a bainha como lembra de tê-la deixado, a borda rasgada cai perto da farpa. A tranca com os outros três fios fica à tua direita, a um braço de distância.
+
+Para reconstruir como o pano se moveu entre esses dois pontos, **role Inteligência (Investigação), `1d20+6`**, ou me autorize a rolar.
+
+**[LOG DE MEMÓRIA DA CAMPANHA]**
+
+- **Localização atual** · Porteira do curral de Celina, Dia 12, cerca de 09h32.
+- **NPCs presentes e relação** · Celina ajuda a comparar a manta com a travessa.
+- **Linha de missão ativa** · Investigar a retirada da manta e o desaparecimento das ovelhas.
+- **Eventos cruciais ocorridos** · Eron localizou um fio preso numa farpa na face externa da travessa, perto de onde fica o rasgo quando Celina posiciona a manta.
+- **Condições do jogador** · 30/30 PV, CA 16, 1.425/2.700 XP. Saldo de 73 PO, 2 PP e 4 PC.
+
+**Commit confirmado no GitHub.**
