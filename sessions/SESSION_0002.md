@@ -321,3 +321,5 @@ Auditoria [270]: no histórico não consta execução efetiva Python para Percep
 - [472] Dia 11, 14h05. Quadro de avisos do Pouso. Lena oferece 2 PO quando a carroça parada no vau chegar ao pouso. Filho presente como guia; vau a meia hora a pé. Nara oferece 1 PO pela devolução do caderno azul até o anoitecer; banca a três portas. Nenhum serviço aceito.
 
 - [474] Dia 11, 14h10. Banca de Nara. Eron começa a apurar o desaparecimento do caderno. Nara relata anotação corrigida de Bina, trouxa de meadas retirada pelo rapaz da tinturaria, ida aos fundos e pena encontrada no chão. Permite examinar a banca. Forno na esquina, tinturaria junto ao córrego. Carroça não aceita.
+
+- [476] Dia 11, 14h10–14h35. Investigação na banca 1d20+6 = [5]+6 = 11, inconclusiva. Bina confirma anotação. Na tinturaria rapaz abre a trouxa e entrega caderno azul seco a Eron. Devolução a Nara e recompensa de 1 PO pendentes.

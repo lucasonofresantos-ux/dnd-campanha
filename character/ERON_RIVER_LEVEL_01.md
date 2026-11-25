@@ -585,3 +585,5 @@ Dia10 16h59–17h20: Eron acompanha os dois vigias na escolta de Berric até Iri
 - [464] Dia 11, 09h35–13h35. Eron aceita e conclui a encomenda de Durnak: duas enxadas e uma foice reparadas, quatro braçadeiras prontas. Almoço fornecido, 1 PO recebida. Saldo 68 PO, 4 PP e 7 PC. Sem teste ou XP.
 
 - [470] Dia 11, 13h35–13h55. Investigação com vantagem [3, 10] +6 = 16. Apoio rachado diagnosticado e reparado com Consertar. Balança remontada, pesagem conferida, Durnak paga 5 PP. Saldo 68 PO, 9 PP, 7 PC.
+
+- [476] Dia 11, 14h10–14h35. Investigação na banca 1d20+6 = [5]+6 = 11, inconclusiva. Bina confirma anotação. Na tinturaria rapaz abre a trouxa e entrega caderno azul seco a Eron. Devolução a Nara e recompensa de 1 PO pendentes.

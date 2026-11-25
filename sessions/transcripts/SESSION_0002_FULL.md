@@ -14340,3 +14340,32 @@ Ela limpa as mãos no avental antes de tocar no linho outra vez.
 - **Condições do jogador** · 30/30 PV, CA 16, 1.400/2.700 XP. Saldo de 68 PO, 9 PP e 7 PC.
 
 **Commit confirmado no GitHub.**
+
+## [475] JOGADOR
+
+- ok, deixa eu investigar isso
+Role oque precisar até achar o bendito caderno
+
+### Mestre — andamento
+
+Nara afasta o cesto de retalhos com o pé e te dá espaço para examinar o balcão.
+
+## [476] MESTRE
+
+**Investigação na banca** · `1d20+6` → [5] + 6 = **11**.
+
+Você examina o vão entre o balcão e a parede, levanta o estrado e confere o lugar onde caiu a pena. Há tinta seca na madeira e fiapos de meia dúzia de cores. Depois de Nara ter revirado os tecidos, nada ali permite dizer por onde o caderno saiu. Na esquina, porém, Bina confirma um detalhe de que se lembra bem: quando ela já ia saindo, Nara ainda soprava o “dois” recém-escrito. A próxima coisa a sair daquele balcão, pelo relato de Nara, foi a trouxa de meadas.
+
+Na tinturaria junto ao córrego, o rapaz reconhece o pano pardo pela costura remendada. Ele mesmo vai buscar o embrulho, ainda amarrado, e o abre sobre uma mesa seca. As meadas rolam para os lados. **O caderno azul ficou deitado no fundo do pano**, com um fio preso no fecho. Na última página escrita estão o nome de Bina, o “três” riscado e o “dois” por cima. O papel está seco.
+
+— Ainda bem que você veio agora. Eu ia separar essa lã por cor depois do almoço. — O rapaz solta o fio com os dedos e te entrega o caderno.
+
+**[LOG DE MEMÓRIA DA CAMPANHA]**
+
+- **Localização atual** · Tinturaria junto ao córrego, Pouso das Três Fontes. Dia 11, cerca de 14h35.
+- **NPCs presentes e relação** · O rapaz das entregas colaborou e entregou o caderno a Eron.
+- **Linha de missão ativa** · Caderno encontrado. Falta devolvê-lo a Nara para receber **1 PO**.
+- **Eventos cruciais ocorridos** · Bina confirmou a última anotação. O caderno estava embrulhado com as meadas.
+- **Condições do jogador** · Caderno azul de Nara em mãos. 30/30 PV, CA 16, 1.400/2.700 XP. Saldo de 68 PO, 9 PP e 7 PC.
+
+**Commit confirmado no GitHub.**
