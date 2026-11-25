@@ -14424,3 +14424,31 @@ Ele se levanta e aponta estrada afora.
 - **Condições do jogador** · 30/30 PV, CA 16, 1.400/2.700 XP. Saldo de 69 PO, 9 PP e 7 PC.
 
 **Commit confirmado no GitHub.**
+
+## [481] JOGADOR
+
+- sim me leva lá, vou dar um olhada se consigo arrumar
+
+### Mestre — andamento
+
+— Por aqui, moço. — O garoto toma a dianteira pela Estrada do Cascalho.
+
+## [482] MESTRE
+
+Meia hora depois, o garoto dobra à direita no salgueiro partido. A carroça está na saída do vau, com uma roda traseira ainda no cascalho molhado. Lena soltou a mula dos tirantes e calçou a outra roda com uma pedra. Quando vê o filho voltando contigo, larga o cabresto na mão dele e abre espaço junto à carroça.
+
+— Foi essa aqui. Ouvi uma pancada quando a mula puxou pra subir a margem. Andei mais um palmo e a roda começou a raspar na caixa. Aí eu parei.
+
+De perto, você vê a marca recente na madeira, bem acima da roda. O aro parece inteiro e os raios à vista estão no lugar. É o alto da roda que pende para dentro. Lena aponta para a extremidade do eixo: há uma lasca de madeira clara presa na graxa, rente ao cubo.
+
+Para descobrir de onde saiu a lasca e avaliar o reparo, **role Inteligência (Investigação), 1d20 + 6**. Se preferir, pode me autorizar a rolar.
+
+**[LOG DE MEMÓRIA DA CAMPANHA]**
+
+- **Localização atual** · Saída do vau do córrego, Dia 11, cerca de 15h15.
+- **NPCs presentes e relação** · Lena, dona da carroça, e o filho dela, que te guiou até o vau.
+- **Linha de missão ativa** · Avaliar a carroça. Lena oferece **2 PO** quando ela chegar ao pouso.
+- **Eventos cruciais ocorridos** · Roda traseira inclinada, marca de atrito na caixa e lasca junto ao cubo. Diagnóstico pendente.
+- **Condições do jogador** · 30/30 PV, CA 16, 1.400/2.700 XP. Saldo de 69 PO, 9 PP e 7 PC.
+
+**Commit confirmado no GitHub.**
