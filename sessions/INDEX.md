@@ -166,3 +166,5 @@
 - Atualização: sessão 0002 até [346], Dia8 16h20; pesquisa de categorias acessíveis concluída, Núcleo das Runas indicado, XP800/900; auditoria Orientação [344] corrigida.
 
 - Atualização: sessão 0002 até [348], Dia8 16h23; diálogo sobre funcionamento e reativação da Grande Forja; XP800/900.
+
+- Atualização: sessão 0002 até [350], Dia8 20h10; Núcleo das Runas restaurado em modo auxiliar, geração central inativa, XP850/900.

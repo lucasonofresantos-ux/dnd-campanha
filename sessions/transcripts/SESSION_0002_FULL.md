@@ -10801,3 +10801,107 @@ UM-021 volta a olhar para você.
 Nenhum teste ou deslocamento foi realizado. As etapas apresentadas são orientações técnicas gerais, não um diagnóstico das avarias nem garantia de reativação.
 
 **GitHub:** commit confirmado.
+
+
+## [349] JOGADOR
+
+- sim vamos lá
+Role oque precisar e use oque precisar para deixar o núcleo das runas funcionando
+
+## [350] MESTRE
+
+UM-021 conduz você por uma escadaria de serviço que sobe pelo interior da montanha. Vocês passam pelos acessos ao quinto e ao quarto níveis, ambos fechados, até alcançar uma pesada porta de metal no terceiro nível.
+
+Após verificar a Marca da Bigorna Velada e identificar a finalidade da intervenção, UM-021 autoriza a entrada acompanhada para manutenção.
+
+## Dia 8 — 16h40 | Núcleo das Runas
+
+A porta revela uma câmara ampla, repleta de colunas metálicas, placas rúnicas e condutores que atravessam o teto e o piso. No centro encontra-se uma estação de controle circular, cercada por seis módulos menores.
+
+A maioria dos cristais está apagada. Apenas alguns indicadores recebem energia auxiliar.
+
+— Interface central em estado de espera. Comunicação com os setores remotos indisponível — informa UM-021.
+
+Você começa a trabalhar.
+
+### Diagnóstico e reparação
+
+<card gap={3}>
+  {#each [{t:"Investigação inicial",d:"2d20kh1+6 + 1d4",f:"[2, 1] → 2 + 6 + 2",v:10,ok:false},{t:"Diagnóstico por esquemas técnicos",d:"2d20kh1+6 + 1d4",f:"[3, 3] → 3 + 6 + 3",v:12,ok:false},{t:"Diagnóstico em bancada",d:"2d20kh1+6 + 1d4",f:"[9, 7] → 9 + 6 + 3",v:18,ok:true},{t:"Reparação — Ferramentas de Ferreiro",d:"1d20+7 + 1d4",f:"[12] + 7 + 1",v:20,ok:true},{t:"Calibração — Ferramentas de Funileiro",d:"1d20+6 + 1d4",f:"[19] + 6 + 1",v:26,ok:true}] as r,i}
+    {#if i>0}<divider/>{/if}
+    <row align="center">
+      <box flex={1} gap={1}>
+        **{r.t}**
+        <caption>{r.d}</caption>
+        <text size="sm">{r.f}</text>
+        <text color={r.ok?"success":"danger"} size="sm">{r.ok?"Sucesso":"Falha"}</text>
+      </box>
+      <title size="2xl" color={r.ok?"success":"danger"}>{r.v}</title>
+    </row>
+  {/each}
+</card>
+
+As duas primeiras tentativas não permitem identificar a origem da falha. Você então isola o módulo de controle e o leva à bancada de diagnóstico do depósito de serviço, com auxílio das unidades de manutenção.
+
+Ali, identifica dois problemas: um condutor metálico fraturado e um cristal de controle que perde sua estabilidade quando recebe energia.
+
+Utilizando **Consertar**, você recupera o condutor removido. Substitui o cristal defeituoso por outro compatível do estoque local, reinstala os componentes e calibra o módulo.
+
+Ao retornar ao Núcleo, você restabelece a alimentação da estação de controle.
+
+## Dia 8 — 20h10 | Reativação do Núcleo
+
+Um ruído grave percorre a câmara. Os cristais da estação central começam a emitir uma luz azulada, iluminando as inscrições nas colunas.
+
+Sequencialmente, informações surgem sobre o painel de controle.
+
+<card gap={3}>
+  <title size="lg">THÛN-KHAZAD — SISTEMA CENTRAL</title>
+  <caption>Modo de alimentação auxiliar</caption>
+  <divider/>
+  {#each [{n:"Interface central",s:"Operacional",c:"success"},{n:"Geração auxiliar",s:"Operacional",c:"success"},{n:"Diagnóstico central",s:"Operacional",c:"success"},{n:"Comunicação com a Grande Forja",s:"Restabelecida",c:"success"},{n:"Geração energética principal",s:"Inativa",c:"danger"},{n:"Seis Caminhos",s:"Selados",c:"secondary"},{n:"Comunicação com os seis territórios",s:"Indisponível",c:"danger"},{n:"Autenticação do Guardião",s:"Pendente",c:"secondary"}] as r}
+    <row align="center">
+      <text>{r.n}</text>
+      <spacer/>
+      <text color={r.c} weight="medium" size="sm">{r.s}</text>
+    </row>
+  {/each}
+</card>
+
+UM-021 examina os indicadores.
+
+— Núcleo das Runas operacional em modo auxiliar. Confirmada ausência de geração energética na Grande Forja. Inspeção presencial necessária.
+
+Uma segunda inscrição aparece no painel:
+
+**ACESSO À GALERIA DE MANUTENÇÃO DA GRANDE FORJA DISPONÍVEL PARA VERIFICAÇÃO.**
+
+— Excelente trabalho, artesão. Podemos agora localizar os pontos de inspeção da forja.
+
+<row align="center">
+  <box flex={1} gap={1}>
+    <caption>Experiência — Recuperação do Núcleo das Runas</caption>
+    **850/900 XP — Nível 2**
+    <box height={2} radius="full" background="surface-tertiary" clip>
+      <box width="94.44%" height="100%" background="#26925b"/>
+    </box>
+  </box>
+  <title color="success" size="xl">+50 XP</title>
+</row>
+
+---
+
+**O que você faz?**
+
+**[LOG DE MEMÓRIA DA CAMPANHA]**
+
+- **Localização atual:** Núcleo das Runas, terceiro nível, Dia 8, 20h10.
+- **NPCs presentes:** UM-021, cooperativo.
+- **Missão ativa:** Inspecionar e recuperar a Grande Forja.
+- **Eventos cruciais:** Núcleo das Runas reativado em modo auxiliar; geração principal confirmada inativa.
+- **Condições:** 21/21 PV | CA 16 | Sem exaustão.
+- **Recursos:** 2/2 espaços de magia, 4/4 usos da Magia do Funileiro. Cristais intactos no depósito: 3 de 4 anteriores.
+
+Os dez dados foram efetivamente rolados em Python, utilizando o script do repositório com hash conferido. Foram usadas cinco conjurações de Orientação e uma de Consertar, sem gastar espaços de magia. As falhas consumiram tempo, e os reparos exigiram uma peça de reposição.
+
+**GitHub:** commit confirmado; transcrição, estado, ficha, cronologia, XP e rolagens atualizados.
