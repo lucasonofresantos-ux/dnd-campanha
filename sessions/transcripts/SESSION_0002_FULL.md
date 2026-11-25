@@ -14884,3 +14884,31 @@ O pano de lã preta ficou estendido na margem, com a bainha inteira e visível.
 - **Condições do jogador** · 30/30 PV, CA 16, 1.425/2.700 XP. Dois espaços de 1º círculo disponíveis. Saldo de 73 PO, 2 PP e 4 PC.
 
 **Commit confirmado no GitHub.**
+
+## [513] JOGADOR
+
+- Sem problema e se precisar é só chamar, era disso ontem a conversa coma Cilene?
+
+### Mestre — andamento
+
+Tomé se afasta um pouco das mós para conseguir te ouvir.
+
+## [514] MESTRE
+
+— Com a Celina? Foi por causa da lã, sim. Mas foi **anteontem**, já escurecendo. Ontem eu passei o dia tentando manter essa roda girando. — Tomé esfrega o polegar e o indicador, como se ainda tivesse o tufo na mão. — Levei um punhado pra ela ver. A Celina cria ovelha preta e lava roupa ali acima. Achei que pudesse ter perdido um velo na água.
+
+— Ela desmanchou o tufo com os dedos e me mostrou um fio torcido no meio. Disse: “Isso aqui já passou por uma roca, Tomé. Da minha ovelha não sai assim.” Aí me contou que estava dando falta de duas, ambas tosquiadas. Foi só isso que conversamos. Enquanto eu estava na porta dela, daqui de baixo já não se ouvia a roda.
+
+Ele olha para o pano estendido na margem.
+
+— Agora entendo o que ela tentou me mostrar. Naquele dia eu só tinha um punhado de fiapo pra levar. Uma bainha dessas talvez ela reconheça.
+
+**[LOG DE MEMÓRIA DA CAMPANHA]**
+
+- **Localização atual** · Moinho de Tomé, Dia 12, cerca de 09h10.
+- **NPCs presentes e relação** · Tomé, agradecido e disposto a conversar.
+- **Linha de missão ativa** · Moinho em funcionamento. A origem do tecido continua em aberto.
+- **Eventos cruciais ocorridos** · Tomé confirmou a visita a Celina ao entardecer do Dia 10. Segundo ele, ela reconheceu um fio já fiado no tufo e mencionou duas ovelhas tosquiadas desaparecidas. Ela ainda não viu o pano inteiro.
+- **Condições do jogador** · 30/30 PV, CA 16, 1.425/2.700 XP. Saldo de 73 PO, 2 PP e 4 PC.
+
+**Commit confirmado no GitHub.**
