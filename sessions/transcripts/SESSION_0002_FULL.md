@@ -8973,3 +8973,234 @@ Essas são opções selecionadas da [lista completa de magias do Artífice](http
 Nenhuma escolha de Artífice foi aplicada sem sua confirmação.
 
 **GitHub:** commit confirmado; transcrição, ficha, estado e cronologia atualizados.
+
+
+## [307] JOGADOR
+
+Arcanismo
+Prestidigitacao e (orientação, luz, elementarismo, mensagem, resistência, raio de fogo e raio de gelo me explique como exemplos a utilização deles e de prestidigitacao)
+Curar feridas concerteza, o outro estou na dúvida
+E eu posso trocar eles em um descanso longo ou curto neh?
+Daqui vou seguir adiante pode rolar oq precisa
+
+## [308] MESTRE
+
+Vou confirmar as regras do Artífice, registrar Arcanismo, Prestidigitação e Curar Ferimentos, e deixar as outras duas escolhas em aberto enquanto você explora.
+
+## Eron River — Ladino 1 / Artífice 1
+
+Suas escolhas confirmadas:
+
+- **Perícia:** Arcanismo +6.
+- **Truque automático:** Consertar (Mending).
+- **Primeiro truque eletivo:** Prestidigitação.
+- **Primeira magia preparada:** Curar Ferimentos (2d8+4 PV).
+
+Falta escolher um truque e uma magia de 1º círculo.
+
+### Troca de magias durante os descansos
+
+Conforme o Artífice de 2025, de *Eberron: Forge of the Artificer*:
+
+| Benefício | Descanso curto | Descanso longo |
+|---|:---:|:---:|
+| Trocar um truque eletivo | Não | Sim |
+| Trocar as magias preparadas | Não | Sim |
+| Recuperar espaços de magia | Não | Sim |
+| Recuperar Magia do Funileiro | Não | Sim |
+| Trocar a perícia Arcanismo | Não | Não |
+
+Portanto, você não precisa ficar preso à sua escolha de magias durante toda a campanha. <Cite refs={["turn279134search0","turn418208view0","turn682937view0"]}/>
+
+## Truques e exemplos de utilização
+
+<row align="start" gap={3}>
+  <icon name="sparkles" size="2xl" color="#b68ad7"/>
+  <box flex={1} gap={1}>
+    **Prestidigitação (Prestidigitation) — escolhido**
+
+    Alcance: 3 m. Sem concentração.
+
+    - Limpar ferramentas, roupas, armas e pequenos componentes.
+    - Aquecer, esfriar ou temperar uma porção de alimento.
+    - Acender ou apagar tochas, velas e pequenas fogueiras.
+    - Marcar passagens com símbolos que duram uma hora.
+    - Criar pequenos efeitos sensoriais para distrair alguém.
+    - Criar uma pequena ilusão ou bugiganga temporária.
+
+    **Na campanha:** limpar uma placa coberta de sujeira para facilitar a leitura de inscrições. Não remove automaticamente corrosão, não conserta peças e não purifica alimentos. <Cite ref="turn418208view2"/>
+  </box>
+</row>
+<divider/>
+<row align="start" gap={3}>
+  <icon name="hand" size="2xl" color="#c8a45c"/>
+  <box flex={1} gap={1}>
+    **Orientação (Guidance)**
+
+    Toque. Concentração de até 1 minuto.
+
+    Adiciona 1d4 aos testes de uma perícia selecionada na conjuração.
+
+    **Na campanha:** antes de investigar uma máquina anã, conjurar Orientação em si mesmo escolhendo Investigação. Seu teste passa de 1d20+6 para **1d20+6+1d4**, quando realizado enquanto a magia estiver ativa.
+
+    Não se aplica diretamente a testes exclusivos de ferramentas, ataques ou resistências. <Cite ref="turn682937search2"/>
+  </box>
+</row>
+<divider/>
+<row align="start" gap={3}>
+  <icon name="sun" size="2xl" color="#d7ad35"/>
+  <box flex={1} gap={1}>
+    **Luz (Light)**
+
+    Duração: 1 hora. Sem concentração.
+
+    Transforma um objeto em fonte luminosa, com 6 m de luz plena e mais 6 m de penumbra.
+
+    **Na campanha:** iluminar uma pedra, uma ferramenta ou sua espada, mantendo as mãos livres e economizando óleo. Pode ocultar a luz cobrindo o objeto com algo opaco.
+
+    Você pode renovar a magia gratuitamente. <Cite ref="turn682937search1"/>
+  </box>
+</row>
+<divider/>
+<row align="start" gap={3}>
+  <icon name="wind" size="2xl" color="#62b5a6"/>
+  <box flex={1} gap={1}>
+    **Elementalismo (Elementalism)**
+
+    Alcance: 9 m. Sem concentração.
+
+    Permite produzir pequenos efeitos elementais:
+
+    - **Ar:** movimentar poeira e folhas ou abrir portas e venezianas destrancadas.
+    - **Terra:** criar uma fina camada de poeira ou escrever sobre areia.
+    - **Fogo:** produzir fumaça colorida e brasas inofensivas, capazes de acender tochas.
+    - **Água:** produzir névoa ou aproximadamente um copo de água limpa, que desaparece após um minuto.
+    - **Escultura:** moldar pequenas quantidades de elementos em formas rudimentares.
+
+    **Na campanha:** espalhar poeira para procurar correntes de ar ou produzir fumaça para investigar a ventilação subterrânea.
+
+    Não permite controlar grandes volumes de água, mover rochas pesadas ou causar dano diretamente. <Cite ref="turn418208view3"/>
+  </box>
+</row>
+<divider/>
+<row align="start" gap={3}>
+  <icon name="message-circle" size="2xl" color="#829ccf"/>
+  <box flex={1} gap={1}>
+    **Mensagem (Message)**
+
+    Alcance: 36 m.
+
+    Envia uma mensagem sussurrada a uma criatura, que pode responder de maneira privada.
+
+    **Na campanha:** comunicar-se com um aliado do outro lado de uma passagem sem alertar os guardas. Paredes suficientemente espessas e outras barreiras podem impedir a comunicação. <Cite ref="turn418208search0"/>
+  </box>
+</row>
+<divider/>
+<row align="start" gap={3}>
+  <icon name="shield" size="2xl" color="#a0aab6"/>
+  <box flex={1} gap={1}>
+    **Resistência (Resistance)**
+
+    Toque. Concentração de até 1 minuto.
+
+    Escolhe um tipo de dano e reduz em 1d4 o dano recebido daquele tipo, uma vez por turno.
+
+    **Na campanha:** antes de atravessar uma área com risco de queimaduras, escolher fogo. Se sofrer 8 pontos de dano e tirar 3 no d4, recebe apenas 5 de dano.
+
+    Não reduz o dano pela metade nem concede imunidade. <Cite ref="turn682937view2"/>
+  </box>
+</row>
+<divider/>
+<row align="start" gap={3}>
+  <icon name="flame" size="2xl" color="#e17e39"/>
+  <box flex={1} gap={1}>
+    **Raio de Fogo (Fire Bolt)**
+
+    Alcance: 36 m. Ataque mágico: +6. Dano: 1d10 de fogo.
+
+    **Na campanha:** atacar uma criatura distante ou incendiar um objeto inflamável que não esteja sendo vestido ou carregado.
+
+    Não consome flechas nem espaços de magia.
+  </box>
+</row>
+<divider/>
+<row align="start" gap={3}>
+  <icon name="snowflake" size="2xl" color="#66b7dc"/>
+  <box flex={1} gap={1}>
+    **Raio de Gelo (Ray of Frost)**
+
+    Alcance: 18 m. Ataque mágico: +6. Dano: 1d8 de frio.
+
+    Reduz o deslocamento do inimigo em 3 m até o início do seu próximo turno.
+
+    **Na campanha:** retardar uma criatura que esteja perseguindo você, facilitando a fuga.
+  </box>
+</row>
+
+Os dois raios aumentam de dano nos níveis totais de personagem 5, 11 e 17. Entretanto, seu arco curto já possui ataque +7, dano 1d6+5 e possibilidade de Ataque Furtivo. Por isso, priorizaria um truque de utilidade.
+
+Uma correção sobre Elementalismo: o efeito de ar permite **fechar portas e venezianas abertas**, não abri-las magicamente. <Cite ref="turn862406view1"/>
+
+### Minha recomendação para Eron
+
+| Escolha pendente | Recomendação | Motivo |
+|---|---|---|
+| Segundo truque | **Orientação** | Melhora sua capacidade investigativa. |
+| Segunda magia | **Detectar Magia** | Ajuda a distinguir mecanismos comuns de efeitos mágicos. |
+
+Detectar Magia e Alarme também podem ser conjuradas como rituais, quando preparadas, sem consumir espaços de magia, acrescentando dez minutos à conjuração. <Cite refs={["turn862406view0","turn682937view0"]}/>
+
+Você precisa estar com uma ferramenta apropriada em mãos para conjurar suas magias de Artífice. Por enquanto, deixarei as duas escolhas pendentes, sem impedir a exploração.
+
+---
+
+## Retomando a campanha — Dia 7, 14h40
+
+<card gap={2}>
+  {#each [{name:"Percepção",die:17,mod:7},{name:"Furtividade",die:11,mod:9},{name:"Arcanismo",die:16,mod:6}] as r}
+    <row align="center">
+      <svg viewBox="0 0 100 100" size="66px">
+        <polygon points="50,4 94,29 94,73 50,97 6,73 6,29" fill="#214b86" stroke="#93b5dd" strokeWidth="2"/>
+        <path d="M50 4L23 65L94 73L50 4L77 65L6 73L50 4M6 29L77 65L94 29" stroke="#93b5dd" fill="none"/>
+        <text x="50" y="58" fontSize="29" fontWeight="bold" fill="white" textAnchor="middle">{r.die}</text>
+      </svg>
+      <box flex={1} gap={1}>
+        **{r.name}**
+        <caption>{`1d20+${r.mod} → [${r.die}] + ${r.mod}`}</caption>
+      </box>
+      <title size="xl">{r.die+r.mod}</title>
+    </row>
+  {/each}
+  <caption>Rolagens executadas em Python com secrets.randbelow(), utilizando o script do repositório com hash verificado.</caption>
+</card>
+
+Descansado, você recolhe seus pertences e sobe a escadaria. Após cerca de trinta metros, chega a uma extensa galeria com portas numeradas, suportes vazios para equipamentos e relevos de antigos trabalhadores anões. A iluminação continua funcionando neste trecho.
+
+Antes de dobrar uma esquina, reconhece o ruído irregular que escutara anteriormente: metal raspando contra pedra.
+
+Você se aproxima silenciosamente e avista uma estrutura humanoide de bronze e ferro, com aproximadamente um metro e meio de altura. Uma de suas pernas está danificada. Ela insiste em empurrar um pequeno carro de ferramentas contra uma porta emperrada, recuando e repetindo o movimento.
+
+Seu conhecimento de Arcanismo permite reconhecer runas de animação gravadas nas articulações. **Trata-se de um construto animado por magia**, não apenas de um mecanismo movido pelas engrenagens que você vinha reparando.
+
+Na parede, uma inscrição identifica o setor:
+
+*“Nível de serviço — alojamentos, manutenção e acesso administrativo.”*
+
+O construto ainda não demonstrou ter percebido sua presença. A aproximadamente quinze metros dele, você permanece protegido pela esquina do corredor.
+
+**O que você faz?**
+
+---
+
+**[LOG DE MEMÓRIA DA CAMPANHA]**
+
+- **Localização atual:** Galeria do nível de serviço de Thûn-Khazad, Dia 7, 14h40.
+- **NPCs presentes e relação:** Construto de manutenção, comportamento ainda indeterminado.
+- **Linha de missão ativa:** Explorar o nível de serviço e investigar o acesso ao Salão.
+- **Eventos cruciais:** Primeiro construto avistado; Arcanismo, Prestidigitação e Curar Ferimentos incorporados à ficha.
+- **Condições:** 21/21 PV | CA 16 | Nível 2 | 550/900 XP | Inspiração Heroica disponível.
+- **Recursos:** 2/2 espaços de magia, 4/4 usos de Magia do Funileiro, 9 rações e 4 frascos de óleo.
+
+Nenhuma magia foi conjurada, nenhum XP adicional concedido e as duas escolhas restantes continuam abertas.
+
+**GitHub:** commit confirmado; transcrição, ficha, estado, cronologia e rolagens atualizados.

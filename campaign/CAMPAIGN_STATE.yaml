@@ -10,7 +10,7 @@ advancement:
   current_total_xp: 550
   next_level_xp: 900
   level_up_pending: false
-  level_up_note: "Nível 2 aplicado: Ladino1/Artífice1. Perícia e magias eletivas pendentes."
+  level_up_note: "Ladino1/Artífice1. Arcanismo, Prestidigitação e Curar Ferimentos confirmados; um truque e uma magia pendentes."
   rule: "Conceder XP por combate e ameaças resolvidas, investigação, exploração e desafios sociais substantivos; usar equivalências 2024, sem duplicação; registrar no XP_LOG.csv."
 character:
   id: ERON-RIVER
@@ -43,9 +43,12 @@ character:
     tinkers_magic_available: 4
     tinkers_magic_max: 4
     automatic_cantrips: ["Mending"]
-    elective_cantrips_pending: 2
-    prepared_level_1_spells_pending: 2
-    skill_proficiency_pending: true
+    elective_cantrips: ["Prestidigitation"]
+    elective_cantrips_pending: 1
+    prepared_level_1_spells: ["Cure Wounds"]
+    prepared_level_1_spells_pending: 1
+    skill_proficiency_pending: false
+    skill_proficiency: "Arcanismo +6"
     armor_training: ["light", "medium", "shields"]
     tinkers_tools_proficient: true
   money:
@@ -199,21 +202,21 @@ character:
 campaign_time:
   calendar_system: "Asterion, dias relativos; nenhuma era/ano formal estabelecido"
   day: 7
-  time_of_day: "aproximadamente 14h20 do Dia 7"
+  time_of_day: "aproximadamente 14h40 do Dia 7"
   season: "final do outono"
-  elapsed_game_time: "Dia7 ~06h05–14h20, refeição e descanso longo de oito horas."
+  elapsed_game_time: "Dia7 14h20–14h40, exploração do nível de serviço."
 location:
   continent: Asterion
   polity: "Terras Livres de Avenhar (homebrew), fora de Valdren"
   area: "entroncamento da Estrada do Cascalho, próximo ao Pouso das Três Fontes"
   nearby: "encostas arborizadas da serra cujo monte mais alto é chamado Veyra"
-  exact_position: "Sala lateral do núcleo de distribuição de Thûn-Khazad."
-  travel_status: "Descanso longo concluído; nível de serviço não explorado."
+  exact_position: "Nível de serviço de Thûn-Khazad, protegido por esquina da galeria a ~15m do construto."
+  travel_status: "Escada percorrida; primeiro construto avistado, sem interação."
 scene:
   id: OPENING-001
-  status: "awaiting_artificer_choices_after_long_rest_day7"
-  current_npcs_present: []
-  immediate_visible_situation: "Dia7 ~06h05–06h20: jogador declarou comer e dormir aqui e perguntou escolhas Artífice. Eron acomodou-se na sala lateral do núcleo de distribuição, consumiu uma ração (10→9), bebeu água do cantil (volume não aferido), apagou lanterna ~06h20 (óleo carregado com 1h50 de queima restante, 4 frascos reserva). Descanso longo ininterrupto Dia7 ~06h20–14h20, sem encontro/dano ou teste necessário; PV21/21, 2d8 dados vida, exaustão0, espaços2/2, Magia do Funileiro4/4, inspiração heroica disponível, XP550/900 CA16. Permanece na sala lateral; escada não percorrida. Ruído distante persiste sem fonte identificada. Nenhuma magia conjurada, nenhuma escolha aplicada. Refeição e descanso autorizados, local e ração escolhidos pelo Mestre como execução logística da declaração. Mantida chave e outros pertences. Fontes realmente consultadas: artigo oficial D&D Beyond de Artífice 2025 https://www.dndbeyond.com/posts/2106-whats-new-with-the-artificer-in-eberron-forge-of e referência complementar https://dnd2024.wikidot.com/artificer:main e https://dnd2024.wikidot.com/artificer:spell-list; regras básicas 2024 D&D Beyond Rules Glossary, The Basics. Confirmadas escolhas pendentes: 1 perícia entre Arcanismo/História/Natureza/Medicina (Investigação, Percepção e Prestidigitação já proficientes); 2 truques eletivos além de Mending automático; 2 magias preparadas de 1º círculo, 2 espaços, 4 usos Tinker's Magic; substitui um truque eletivo e magias preparadas ao terminar descanso longo. Recomendados Arcanismo, Orientação, Luz, Detectar Magia e Curar Ferimentos, aguardando decisão."
+  status: "awaiting_player_action_at_service_level_construct_day7"
+  current_npcs_present: ["Construto de manutenção, relação indeterminada"]
+  immediate_visible_situation: "Dia7 14h20–14h40: Eron confirmou Arcanismo (INT+4 PB+2=+6), truque Prestidigitação, magia preparada Curar Ferimentos (2d8+4); mantém Mending automático, 1 truque eletivo e 1 magia preparada pendentes, sem selecionar automaticamente. Regras Artífice 2025 verificadas nesta interação por web.run; D&D Beyond artigo oficial 2106 e verbetes 2024, Wikidot artificer:main e spell-list auxiliares. Troca um truque eletivo e lista de preparadas em descanso longo, não curto; 2 espaços e 4 usos Tinker recuperados no longo. Explicados oito truques e corrigida descrição do efeito de ar de Elementalismo (fecha portas abertas, não abre). Recomendados Orientação e Detectar Magia, sem confirmação. Eron recolheu pertences, subiu escadaria ~30m, chegou ao nível de serviço iluminado, galeria com portas numeradas e suportes vazios, relevos de trabalhadores. Percepção24 identificou ruído metálico; Furtividade20 aproximou-se sem reação observável; Arcanismo22 reconheceu runas de animação nas articulações de construto humanoide de bronze/ferro ~1,5m, perna danificada, empurra carro de ferramentas contra porta emperrada, recua e repete. Inscrição 'Nível de serviço — alojamentos, manutenção e acesso administrativo.' Eron atrás da esquina ~15m do construto. Não se aproximou, não interagiu, não atacou, não conjurou. Lanterna permanece apagada (110min), 4 óleos, 9 rações. PV21/21 CA16 XP550/900 nível2, inspiração disponível, 2d8, espaços2/2, Magia Funileiro4/4, exaustão0. Nenhum novo XP, dano, gasto ou combate. Execução comprovada container.exec nesta interação: /tmp/eron_307_dice.py hash git d35af70119bf684ea055619bb10678a1c4b03bbb verificado com test antes de Python. JSON 1d20+7 [17] kept_indices[0] modifier7 total24; 1d20+9 [11] kept_indices[0] modifier9 total20; 1d20+6 [16] kept_indices[0] modifier6 total22."
   discovered_traps:
     - location: "Trilha dos Corcos, junto ao riacho"
       state: disarmed_safe_wire_left_at_tree
@@ -258,8 +261,8 @@ world:
 transcription:
   character_creation_history: sessions/transcripts/SESSION_0001_FULL.md
   narrative_session: sessions/transcripts/SESSION_0002_FULL.md
-  last_saved_player_turn: "[305] JOGADOR — come, dorme e pergunta escolhas de Artífice."
-  last_saved_dm_turn: "[306] MESTRE — descanso concluído, opções Artífice verificadas e pendentes."
+  last_saved_player_turn: "[307] JOGADOR — escolhas parciais Artífice, pergunta truques, segue explorando."
+  last_saved_dm_turn: "[308] MESTRE — Arcanismo+6, Prestidigitação e Curar Ferimentos; construto avistado."
 notes:
   - "Primeira resposta de cena será salva literalmente e sem revelar preparativos de dm."
   - "Nunca tratar a aprovação da ficha como XP, nem mudar recursos automaticamente."
