@@ -13751,3 +13751,44 @@ Berric não percebeu sua presença. Os dois vigias estão próximos à entrada d
 **Nota do Mestre:** apliquei os bônus aos dados naturais fornecidos por você. Nenhum combate, apreensão ou confirmação definitiva da origem das caixas. Horário e detalhes do local adjudicados; nenhum XP adicional nesta etapa.
 
 **GitHub:** commit confirmado.
+
+## [441] JOGADOR
+
+- lá e não descartem a possibilidade de o outro estar envolvido, anunciem a prisão eu vou continuar escondidos e observando
+Pode rolar oque precisar
+
+## [442] MESTRE
+
+## Dia 10 — 16h54 | Pátio dos carreteiros
+
+Os dois vigias concordam com sua orientação e avançam pelo pátio, enquanto você permanece oculto atrás da pilha de madeira.
+
+— Berric! Em nome da Vigília, você está detido sob suspeita de furto. Afaste-se da carroça e mostre as mãos!
+
+Berric larga a corda e olha para os dois homens.
+
+— Furto? Que história é essa? Sou apenas um carreteiro!
+
+Apesar do protesto, ele ergue as mãos e permite que um dos vigias o algeme, sem oferecer resistência física. O outro carreteiro dá um passo para trás.
+
+— Eu não tenho nada a ver com isso! Meu nome é Harl, trabalho aqui no pátio.
+
+O segundo vigia pede que Harl permaneça no local para prestar esclarecimentos. Em seguida, aproxima-se do portão verde e observa as caixas parcialmente cobertas pela lona.
+
+Você acompanha tudo sem ser descoberto. Até agora, Harl não tentou fugir nem interferir na prisão, mas seu envolvimento ainda não foi esclarecido.
+
+**Berric está sob custódia. As duas caixas ainda precisam ser examinadas.**
+
+---
+
+**[LOG DE MEMÓRIA DA CAMPANHA]**
+
+- **Localização atual:** Pátio dos carreteiros, atrás da pilha de madeira, Dia 10, 16h54.
+- **NPCs presentes e relação:** Dois vigias aliados; Berric, detido; Harl, testemunha ainda não investigada.
+- **Linha de missão ativa:** Recuperar as mercadorias e esclarecer possíveis outros envolvidos.
+- **Eventos cruciais:** Berric detido sem combate; Harl permanece no local.
+- **Condições:** 30/30 PV | CA 16 | 1.375/2.700 XP | 68 PO, 8 PP e 7 PC | 23 flechas.
+
+**Nota do Mestre:** a reação do NPC foi sorteada em Python com o script do repositório e hash conferido. Mantive os testes anteriores de Furtividade e Percepção de Eron, pois sua posição e atividade não mudaram. Nenhum XP adicional ou alteração de recursos.
+
+**GitHub:** commit confirmado.
