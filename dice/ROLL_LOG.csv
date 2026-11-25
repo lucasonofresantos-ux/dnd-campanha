@@ -585,3 +585,6 @@ date,campaign_id,stage,attempt,expression,six_rolls_faces_in_order,six_attribute
 2026-11-25,ERON-RIVER-ASTERION-001,audit_unverified_persuasion_tavin_day10,1,1d20+4,"6","6+4; kept index 0",10,false
 2026-11-25,ERON-RIVER-ASTERION-001,persuasion_tavin_cooperation_player_day10,1,1d20+4,"19","19+4; informado jogador",23,true
 2026-11-25,ERON-RIVER-ASTERION-001,insight_tavin_confession_player_day10,1,1d20+5,"17","17+5; informado jogador",22,true
+2026-11-25,ERON-RIVER-ASTERION-001,survival_berric_wagon_player_day10,1,1d20+5,"18","18+5; informado jogador",23,true
+2026-11-25,ERON-RIVER-ASTERION-001,stealth_berric_yard_player_day10,1,1d20+9,"20","20+9; informado jogador",29,true
+2026-11-25,ERON-RIVER-ASTERION-001,perception_berric_yard_player_day10,1,1d20+7,"19","19+7; informado jogador",26,true
