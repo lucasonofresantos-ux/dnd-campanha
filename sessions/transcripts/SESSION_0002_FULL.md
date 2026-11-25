@@ -10145,3 +10145,32 @@ O livro de registros de ocupação continua sobre a escrivaninha. A porta admini
 **Correção de auditoria:** as duas rolagens dos alojamentos, na interação anterior, não foram realmente executadas em Python, ao contrário do que informei. Corrigi o registro, preservando os acontecimentos já narrados. Nesta interação não houve novas rolagens.
 
 **GitHub:** commit confirmado; transcrição, ficha, estado, cronologia e auditoria atualizados.
+
+
+## [331] JOGADOR
+
+- cadê o UM-017 ou o da administração?
+
+## [332] MESTRE
+
+**Dia 8 — 05h46 | Alojamentos**
+
+Ao ouvir sua voz, UM-017 interrompe a limpeza do corredor e aparece à porta do dormitório.
+
+— Estou aqui, artesão. A unidade 021 encontra-se no acesso administrativo. Sua função é a manutenção daquele setor.
+
+O construto inclina ligeiramente a cabeça.
+
+— Necessita de assistência?
+
+---
+
+**[LOG DE MEMÓRIA DA CAMPANHA]**
+
+- **Localização atual:** Dormitório de Thûn-Khazad.
+- **NPCs presentes:** UM-017, cooperativo.
+- **Missão ativa:** Descobrir a história de Thûn-Khazad.
+- **Eventos cruciais:** UM-017 localizado; UM-021 permanece no acesso administrativo.
+- **Condições:** 21/21 PV | CA 16 | 725/900 XP.
+
+**GitHub:** commit confirmado.

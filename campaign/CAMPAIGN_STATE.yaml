@@ -212,9 +212,9 @@ character:
 campaign_time:
   calendar_system: "Asterion, dias relativos; nenhuma era/ano formal estabelecido"
   day: 8
-  time_of_day: "aproximadamente 05h45 do Dia 8"
+  time_of_day: "aproximadamente 05h46 do Dia 8"
   season: "final do outono"
-  elapsed_game_time: "Dia7 21h13–Dia8 05h45, refeição, limpeza e sono."
+  elapsed_game_time: "Dia8 05h45–05h46, chamada a UM-017."
 location:
   continent: Asterion
   polity: "Terras Livres de Avenhar (homebrew), fora de Valdren"
@@ -225,8 +225,8 @@ location:
 scene:
   id: OPENING-001
   status: "awaiting_player_action_at_dormitories_day8"
-  current_npcs_present: []
-  immediate_visible_situation: "Dia7 21h13–Dia8 05h45: jogador aceitou limpeza de dormitório por UM-017, foi ao refeitório e comeu porção de aproximadamente 0,4kg de carne salgada de corço preparada/assada por UM-019 e bebeu água. Estoque em custódia 8,5→8,1kg aproximados, restantes mantidos salgados, conservação indefinida não garantida, rações pessoais9. UM-017 limpou um quarto acessível, retirou tecidos deteriorados, liberou cama de pedra; Eron voltou, dormiu 21h45–05h45 sem interrupções; Luz expirou21h40. Último descanso longo terminou Dia7 14h20; regra D&D 2024 exige esperar 16h antes de iniciar outro (Dia8 06h20), portanto noite não concede benefícios de descanso longo. Fonte consultada D&D Beyond Basic Rules 2024 Rules Glossary https://www.dndbeyond.com/sources/dnd/br-2024/rules-glossary. Recursos já completos, sem gasto novo, PV21/21 CA16 XP725/900, 2d8, slots2/2 Tinker4/4, inspiração, exaustão0, 4 óleos, lanterna apagada110min. Eron no dormitório limpo, sem NPC visível imediato; cinco unidades operacionais em suas rotinas, nenhuma nova descoberta, livro de ocupação não lido, arcas fechadas e sexto dormitório e acesso administrativo fechados. Intenção de investigar história e localização, nenhuma ação investigativa iniciada. Nenhum novo dado, XP, combate, coleta ou magia. Porção e horários e ausência de interrupção adjudicados pelo Mestre; sem garantia geral de segurança. Auditoria [328]: não houve execução Python real na interação anterior para Percepção 1d20+7 [1]=8 e Investigação 1d20+6 [13]=19, apesar da alegação de execução/hash. Acrescentar linhas false sem apagar originais, preservar narrativa sem rerrolagem retroativa."
+  current_npcs_present: ["UM-017, cooperativo, à porta do dormitório"]
+  immediate_visible_situation: "Dia8 05h45–05h46: Eron perguntou por UM-017 ou unidade administrativa. UM-017, limpando corredor adjacente, ouviu e apareceu à porta do dormitório; confirmou UM-021 no acesso administrativo, função manutenção daquele setor, e perguntou se Eron necessita assistência. Eron permanece no dormitório; UM-017 cooperativo presente, sem mudança de autorização administrativa. Nenhum dado, XP, deslocamento do personagem, magia, gasto, dano ou mudança de inventário. PV21/21 CA16 XP725/900; Luz inativa, 9 rações e ~8,1kg carne salgada em custódia UM-019. Decisão local de cenário: UM-017 continuava limpeza do corredor próximo, ao alcance da voz."
   discovered_traps:
     - location: "Trilha dos Corcos, junto ao riacho"
       state: disarmed_safe_wire_left_at_tree
@@ -271,8 +271,8 @@ world:
 transcription:
   character_creation_history: sessions/transcripts/SESSION_0001_FULL.md
   narrative_session: sessions/transcripts/SESSION_0002_FULL.md
-  last_saved_player_turn: "[329] JOGADOR — autoriza limpeza, janta, dorme e declara intenção investigativa."
-  last_saved_dm_turn: "[330] MESTRE — refeição e sono concluídos, Dia8 05h45, XP725."
+  last_saved_player_turn: "[331] JOGADOR — pergunta por UM-017 ou unidade administrativa."
+  last_saved_dm_turn: "[332] MESTRE — UM-017 atende à porta, Dia8 05h46."
 notes:
   - "Primeira resposta de cena será salva literalmente e sem revelar preparativos de dm."
   - "Nunca tratar a aprovação da ficha como XP, nem mudar recursos automaticamente."

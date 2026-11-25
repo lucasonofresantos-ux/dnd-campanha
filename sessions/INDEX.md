@@ -148,3 +148,5 @@
 - Atualização: sessão 0002 até [328], Dia7 21h13; alojamentos investigados, dois dados Python comprovados, XP725/900.
 
 - Atualização: sessão 0002 até [330], Dia8 05h45; refeição e sono, sem novo descanso longo, XP725/900; auditoria das duas rolagens [328] corrigida.
+
+- Atualização: sessão 0002 até [332], Dia8 05h46; UM-017 presente, XP725/900.
