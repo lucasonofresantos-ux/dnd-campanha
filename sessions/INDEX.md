@@ -118,3 +118,5 @@
 - Atualização: sessão 0002 até [298], Dia7 03h00; proteção 5/6, mola e válvula pendentes, inspeção local concluída, XP475/900, 4 óleos reserva.
 
 - Atualização: sessão 0002 até [300], Dia7 05h35; proteção e circulação restauradas, distribuição local 6/6, núcleo técnico destravado, XP525/900. Três dados efetivamente executados.
+
+- Atualização: sessão 0002 até [302], Dia7 06h05; núcleo parcialmente explorado, nome Thûn-Khazad conhecido, escada ao nível de serviço, XP550/900; dois dados executados.

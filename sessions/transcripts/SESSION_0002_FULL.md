@@ -8724,3 +8724,112 @@ Eron está acordado há quase 24 horas. A rede auxiliar conhecida está funciona
 Utilizei peças da oficina e mantive a falha da primeira tentativa de reparo da válvula. Nenhuma magia ou material pessoal foi consumido, e não iniciei um descanso sem sua autorização.
 
 **GitHub:** commit confirmado; transcrição, estado, ficha, cronologia, XP e rolagens atualizados.
+
+
+## [301] JOGADOR
+
+Vou seguir explorando pode rolar oque precisar
+
+## [302] MESTRE
+
+Vou abrir a passagem do núcleo e resolver a exploração com os testes necessários, mantendo o controle do tempo e da lanterna.
+
+## Monte Veyra — Dia 7, 06h05
+
+<card gap={2}>
+  <row align="center">
+    <svg viewBox="0 0 100 100" size="74px">
+      <polygon points="50,4 94,29 94,73 50,97 6,73 6,29" fill="#214b86" stroke="#93b5dd" strokeWidth="2"/>
+      <path d="M50 4L23 65L94 73L50 4L77 65L6 73L50 4M6 29L77 65L50 97L23 65L94 29" fill="none" stroke="#93b5dd"/>
+      <text x="50" y="58" fontSize="29" fontWeight="bold" fill="white" textAnchor="middle">6</text>
+    </svg>
+    <box flex={1} gap={1}>
+      **Percepção**
+      <caption>1d20+7 → [6] + 7</caption>
+    </box>
+    <title size="2xl">13</title>
+  </row>
+  <divider/>
+  **Investigação com vantagem**
+  <row align="center">
+    {#each [20,2] as n,i}
+      <box flex={1} align="center">
+        <svg viewBox="0 0 100 100" size="74px">
+          <polygon points="50,4 94,29 94,73 50,97 6,73 6,29" fill={i===0?"#927021":"#555b62"} stroke="#c3c5c8" strokeWidth="2"/>
+          <path d="M50 4L23 65L94 73L50 4L77 65L6 73L50 4M6 29L77 65L94 29M23 65L77 65" stroke="#c3c5c8" fill="none"/>
+          <text x="50" y="58" fontSize="29" fontWeight="bold" fill="white" textAnchor="middle">{n}</text>
+        </svg>
+        <caption>{i===0?"Mantido":"Descartado"}</caption>
+      </box>
+    {/each}
+    <box flex={1} align="center">
+      <title size="2xl" color="success">26</title>
+      **20 + 6**
+    </box>
+  </row>
+  <caption>Ambos os testes executados em Python com o rolador do repositório e hash conferido.</caption>
+</card>
+
+Você abre a pesada porta e atravessa um corredor revestido por grandes blocos de pedra perfeitamente encaixados. A iluminação cristalina acompanha seus passos até uma câmara octogonal, sustentada por pilares esculpidos com figuras de artesãos anões.
+
+Em algum ponto além das paredes, você escuta um ruído irregular. A vibração dos mecanismos impede que identifique sua origem.
+
+## Núcleo de distribuição
+
+No centro da câmara há uma mesa de pedra negra, sobre a qual repousa uma grande placa metálica gravada com diagramas. Ao examiná-la, você percebe que a infraestrutura recuperada durante a noite corresponde apenas a uma pequena parte de uma instalação muito maior.
+
+Na borda da mesa, sob o desenho de uma montanha cercada por seis símbolos, encontra uma inscrição em anão.
+
+<box background="#30312f" theme="dark" radius="lg" padding={4} gap={3}>
+  <svg viewBox="0 0 240 150" width="100%">
+    {#each [0,1,2,3,4,5] as i}
+      <path d={`M120 75L${120+Math.cos(i*Math.PI/3)*94} ${75+Math.sin(i*Math.PI/3)*58}`} stroke="#a68b55" strokeWidth="1.5"/>
+      <circle cx={120+Math.cos(i*Math.PI/3)*94} cy={75+Math.sin(i*Math.PI/3)*58} r="10" fill="#30312f" stroke="#c7aa6d" strokeWidth="2"/>
+    {/each}
+    <circle cx="120" cy="75" r="40" fill="#30312f" stroke="#c7aa6d" strokeWidth="2"/>
+    <path d="M89 95L111 57L122 75L136 47L153 95Z" fill="none" stroke="#d9bb82" strokeWidth="2.5"/>
+    <path d="M99 80H141L132 87H125V97H115V87H108Z" fill="#c7aa6d"/>
+  </svg>
+  <title textAlign="center" size="2xl" color="#dfc08b">THÛN-KHAZAD</title>
+  <divider color="#777c74"/>
+  <text textAlign="center" color="#dfc08b">Núcleo de distribuição</text>
+  <text textAlign="center">Infraestrutura de serviço</text>
+</box>
+
+É a primeira vez que você encontra esse nome. O desenho da montanha e da bigorna lembra a marca metálica que Gruner lhe entregou, embora não seja exatamente igual.
+
+O diagrama registra uma ligação entre o núcleo e os demais níveis da instalação, mas diversas inscrições estão ilegíveis. Na parede oposta existe uma escadaria ascendente, ampla o suficiente para permitir a passagem de vários anões lado a lado.
+
+Junto à escadaria, uma placa indica:
+
+*“Acesso ao nível de serviço. Acesso ao Salão sujeito a autorização.”*
+
+Há também uma pequena sala lateral com bancos de pedra, uma mesa e antigos suportes para ferramentas. Você não encontrou nenhuma criatura até o momento.
+
+<card gap={2}>
+  <caption>Experiência — descoberta de Thûn-Khazad</caption>
+  <title size="xl" color="success">+25 XP</title>
+  **550/900 XP — Nível 2**
+  <box height={2} radius="full" background="surface-tertiary" clip>
+    <box width="61.11%" height="100%" background="#26925b"/>
+  </box>
+</card>
+
+Você está acordado há pouco mais de 24 horas. Ainda não realizou um descanso longo.
+
+**O que você faz?**
+
+---
+
+**[LOG DE MEMÓRIA DA CAMPANHA]**
+
+- **Localização atual:** Núcleo de distribuição de Thûn-Khazad, Monte Veyra, Dia 7, 06h05.
+- **NPCs presentes e relação:** Nenhum detectado.
+- **Linha de missão ativa:** Investigar a instalação anã e o acesso ao Salão.
+- **Eventos cruciais:** Nome Thûn-Khazad descoberto; semelhança com a Marca da Bigorna Velada; escadaria para o nível de serviço localizada.
+- **Condições:** 21/21 PV | CA 16 | Ladino 1 / Artífice 1 | Inspiração Heroica disponível.
+- **Recursos:** 2/2 espaços de magia, 4/4 usos de Magia do Funileiro, quatro frascos de óleo em reserva e 2h05 de autonomia da lanterna.
+
+Nenhum descanso foi iniciado e nenhuma penalidade opcional de exaustão foi aplicada automaticamente.
+
+**GitHub:** commit confirmado; transcrição, estado, ficha, cronologia, XP e rolagens atualizados.

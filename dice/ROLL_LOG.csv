@@ -335,3 +335,5 @@ date,campaign_id,stage,attempt,expression,six_rolls_faces_in_order,six_attribute
 2026-11-24,ERON-RIVER-ASTERION-001,tinkers_dex_replacement_protection_spring_day7,2,1d20+7,10,"10+7",17,true
 2026-11-24,ERON-RIVER-ASTERION-001,smith_dex_full_secondary_valve_disassembly_day7,2,1d20+7,7,"7+7",14,true
 2026-11-24,ERON-RIVER-ASTERION-001,smith_dex_valve_seal_replacement_bench_day7,2,1d20+7,14,"14+7",21,true
+2026-11-24,ERON-RIVER-ASTERION-001,skill_check_perception_distribution_core_day7,2,1d20+7,6,"6+7",13,true
+2026-11-24,ERON-RIVER-ASTERION-001,skill_check_investigation_distribution_core_day7,2,2d20kh1+6,"20,2","20+6",26,true
