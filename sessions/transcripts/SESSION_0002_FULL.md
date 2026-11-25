@@ -14617,3 +14617,29 @@ Ela se levanta, pega uma tigela vazia na mesa ao lado e para à porta da cozinha
 - **Condições do jogador** · 30/30 PV, CA 16, 1.400/2.700 XP. Saldo de **71 PO, 9 PP e 7 PC**.
 
 **Commit confirmado no GitHub.**
+
+## [495] JOGADOR
+
+- tá mas vou querer jantar e o quarto em troca e um banho
+
+### Mestre — andamento
+
+Alda para à porta da cozinha e volta à mesa para acertar a troca contigo.
+
+## [496] MESTRE
+
+— Jantar, banho quente e mais uma noite no quarto três? Fechado, Eron. Me traz um costelar de corço com carne pra seis pratos, que eu cubro os três. Se a caça for miúda, a gente vê o que vale quando você voltar.
+
+Alda pega a chave da despensa e acrescenta, já a caminho da cozinha:
+
+— Pode ficar com a chave do quarto. Se voltar depois que eu tirar a panela do fogo, bate na porta da cozinha. Eu esquento teu jantar enquanto a água do banho pega calor.
+
+**[LOG DE MEMÓRIA DA CAMPANHA]**
+
+- **Localização atual** · Salão da hospedagem de Alda, Dia 11, cerca de 16h25.
+- **NPCs presentes e relação** · Alda Tress, anfitriã, aceitou a proposta com uma condição sobre a quantidade de carne.
+- **Linha de missão ativa** · Levar a Alda um costelar de corço com carne para seis pratos em troca de jantar, banho quente e uma noite no quarto 3.
+- **Eventos cruciais ocorridos** · Eron continua com a chave. A entrega da carne e os serviços ficam para a volta.
+- **Condições do jogador** · 30/30 PV, CA 16, 1.400/2.700 XP. Saldo de **71 PO, 9 PP e 7 PC**.
+
+**Commit confirmado no GitHub.**

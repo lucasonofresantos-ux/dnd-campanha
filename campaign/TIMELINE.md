@@ -534,3 +534,5 @@ Dia10 16h15–16h30: Eron agradeceu a Tavin e retornou ao posto da Vigília para
 - [492] Dia 11, 16h25. Eron pergunta sobre moinho. Alda conhece o caminho: desde o vau seguir a água pela margem do salgueiro partido, ramal superior para Celina, inferior para moinho. Bina compra farinha ali. Alda não recebeu relato de Lena de Eron.
 
 - [494] Dia 11, cerca de 16h25. Eron pondera caçar e mantém incerta a visita ao moinho. Alda sugere Trilha dos Corços e manifesta interesse em comprar costelas para amanhã. Sem compromisso de venda ou partida declarada.
+
+- [496] Dia 11, cerca de 16h25. Alda aceita jantar, banho quente e mais uma noite no quarto 3 mediante entrega de um costelar de corço com carne para seis pratos. Caça menor sujeita a nova avaliação. Eron mantém chave; sem entrega, consumo ou pagamento.
