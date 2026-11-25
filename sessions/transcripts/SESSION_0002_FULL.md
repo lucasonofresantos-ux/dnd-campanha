@@ -11688,3 +11688,76 @@ A porta encontra-se fechada. Você percebe uma inscrição em anão indicando a 
 **Nota do Mestre:** considerei sua criação da bolsa como a finalização do descanso longo que acabou de ocorrer. A carga exata ainda precisa ser recalculada; nenhum pertence foi descartado. A estação ainda não foi investigada e nenhuma rolagem foi necessária.
 
 **GitHub:** commit confirmado.
+
+
+## [371] JOGADOR
+
+Continuando campanha
+Pode rolar oque precisar até abrir a porta
+
+## [372] MESTRE
+
+## Dia 9 — 12h50 | Thûn-Khazad
+*Estação de manutenção do primeiro nível*
+
+Você retira as ferramentas da Bolsa Porta-Tudo, conjura Orientação e começa a examinar o painel apagado e o mecanismo da porta de bronze. UM-012 permanece ao seu lado.
+
+<card gap={2}>
+  **Investigação com ferramentas de Funileiro e Orientação**
+  <row align="center">
+    <box border radius="md" padding={3}>
+      <title size="2xl" color="secondary"><strikethrough>1</strikethrough></title>
+    </box>
+    <box border radius="md" padding={3}>
+      <title size="2xl" color="success">14</title>
+    </box>
+    <title size="lg">+ 6 + 4 =</title>
+    <title size="2xl" color="success">24</title>
+  </row>
+  <caption>2d20kh1 + 6 + 1d4 | Sucesso</caption>
+</card>
+
+Após remover a cobertura do painel, você identifica um contato metálico deslocado e um pequeno mecanismo de travamento emperrado. A alimentação elétrica da galeria está funcionando, mas não chega corretamente ao acionador da porta.
+
+Você conjura Orientação novamente e utiliza suas ferramentas de Ferreiro para corrigir o mecanismo.
+
+<card gap={2}>
+  **Destreza — Ferramentas de Ferreiro e Orientação**
+  <row align="center">
+    <box border radius="md" padding={3}>
+      <title size="2xl">13</title>
+    </box>
+    <title size="lg">+ 7 + 4 =</title>
+    <title size="2xl" color="success">24</title>
+  </row>
+  <caption>1d20 + 7 + 1d4 | Sucesso</caption>
+</card>
+
+## Dia 9 — 13h05
+
+O painel se ilumina em âmbar. Você escuta o movimento de engrenagens atrás da parede, seguido pelo ruído pesado da porta de bronze deslizando lateralmente.
+
+As luminárias da estação acendem parcialmente, revelando uma oficina de manutenção com bancadas de pedra, gavetas metálicas, ferramentas suspensas e compartimentos para componentes.
+
+No fundo da oficina, você avista um construto imóvel, sentado sobre uma plataforma de manutenção. Uma placa de identificação está fixada em seu peito, mas, dessa distância, você ainda não consegue lê-la.
+
+UM-012 manifesta-se em anão:
+
+— Guardião, acesso restabelecido. A unidade interna permanece sem resposta.
+
+A porta está completamente aberta. O interior ainda não foi investigado.
+
+---
+
+**[LOG DE MEMÓRIA DA CAMPANHA]**
+
+- **Localização atual:** Estação de manutenção do primeiro nível.
+- **NPCs presentes:** UM-012, cooperativa; construto inativo não identificado.
+- **Missão ativa:** Restaurar integralmente o Salão dos Seis Caminhos.
+- **Eventos cruciais:** Porta reparada e aberta; novo construto localizado.
+- **Condições:** 30/30 PV | CA 16 | 1.000/2.700 XP.
+- **Recursos:** 2/2 espaços de magia, 4/4 Magia do Funileiro e Inspiração Heroica disponível.
+
+Os dados foram efetivamente rolados em Python, utilizando o script do repositório com hash conferido. Considerei autorizadas as duas conjurações de Orientação e a retirada das ferramentas. Nenhum espaço de magia ou componente consumível foi gasto. Não atribuí XP separado pela abertura da porta.
+
+**GitHub:** commit confirmado.
