@@ -230,9 +230,9 @@ character:
 campaign_time:
   calendar_system: "Asterion, dias relativos; nenhuma era/ano formal estabelecido"
   day: 10
-  time_of_day: "aproximadamente 16h05 do Dia 10"
+  time_of_day: "aproximadamente 16h08 do Dia 10"
   season: "final do outono"
-  elapsed_game_time: "Dia10 15h45–16h05, reconstrução cronológica das testemunhas."
+  elapsed_game_time: "Dia10 16h05–16h08, questionamento direto de Tavin."
 location:
   continent: Asterion
   polity: "Terras Livres de Avenhar (homebrew), fora de Valdren"
@@ -242,9 +242,9 @@ location:
   travel_status: "Eron retornou ao Pouso das Três Fontes. Thûn-Khazad: entrada original fechada e camuflada, sensores operacionais, oito unidades, manutenção interna e inventário contínuos, seis Caminhos selados. Nenhuma comunicação remota estabelecida."
 scene:
   id: OPENING-001
-  status: "iria_missing_goods_detailed_interviews_day10"
-  current_npcs_present: ["Tavin, reservado", "Lessa, colaborativa"]
-  immediate_visible_situation: "Dia10 15h45–16h05: Eron pediu reconstrução cronológica dos dias8–9 e informou Intuição17 para ambos; duas aplicações de 17 natural +5=22, fornecidas pelo jogador, sem Python. Nova entrevista detalhada: Tavin relata abertura ao amanhecer, cargas normais, conferência fim da tarde com Neral, saída de Lessa antes dele, afirma ter fechado e ido para casa, manhã seguinte abriu e notou caixas ausentes, avisou Neral. Hesita e corrige horário de fechamento, de logo após conferência para algum tempo depois; demonstra desconforto específico sobre intervalo e acesso, sem confissão. Lessa relata arrumação, conferência, saiu antes de Tavin, viu porta encostada, chegou manhã seguinte depois de Tavin, viu-o procurando caixas, não viu retirada; aparenta esforço genuíno de lembrar, sem certeza absoluta. Nenhuma culpa provada. Neral e livro ainda não consultados. Ambos presentes, PV30/30 CA16 XP1325/2700 saldo60PO8PP7PC flechas23. Sem XP, gasto, dano ou pagamento. Auditoria [424]: as quatro rolagens anteriores não tiveram execução Python comprovada; entradas false acrescentadas, acontecimentos preservados. Novos depoimentos e tempo adjudicados."
+  status: "iria_missing_goods_tavin_defensive_day10"
+  current_npcs_present: ["Tavin, defensivo", "Lessa, colaborativa"]
+  immediate_visible_situation: "Dia10 16h05–16h08: Eron questionou diretamente Tavin sobre esquecer a porta ou saber do roubo e pediu Persuasão. Execução real container.exec /tmp/eron_427_dice.py; git hash-object d35af70119bf684ea055619bb10678a1c4b03bbb coincide com GitHub; JSON 1d20+4 rolls [6] kept_indices [0] modifier4 total10. Tavin torna-se defensivo, insiste que trancou e não sabia do desaparecimento; não admite erro nem oferece informação nova. Nenhuma culpa comprovada. Lessa disponível nas proximidades, Neral e livro não consultados. Sem XP, gasto, dano, magia ou pagamento; recursos inalterados."
   discovered_traps:
     - location: "Trilha dos Corcos, junto ao riacho"
       state: disarmed_safe_wire_left_at_tree
@@ -289,8 +289,8 @@ world:
 transcription:
   character_creation_history: sessions/transcripts/SESSION_0001_FULL.md
   narrative_session: sessions/transcripts/SESSION_0002_FULL.md
-  last_saved_player_turn: "[425] JOGADOR — Intuição17 para ambos, pede cronologia."
-  last_saved_dm_turn: "[426] MESTRE — depoimentos detalhados, Dia10 16h05."
+  last_saved_player_turn: "[427] JOGADOR — questiona Tavin, pede Persuasão."
+  last_saved_dm_turn: "[428] MESTRE — Persuasão10, Tavin defensivo."
 notes:
   - "Primeira resposta de cena será salva literalmente e sem revelar preparativos de dm."
   - "Nunca tratar a aprovação da ficha como XP, nem mudar recursos automaticamente."
