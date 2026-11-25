@@ -7390,3 +7390,91 @@ Nenhuma criatura foi encontrada durante a exploração do salão.
 **Auditoria:** as duas rolagens do deslocamento anterior não possuem execução Python comprovada. Corrigi os registros sem alterar os acontecimentos. Os três testes deste turno foram efetivamente executados e verificados.
 
 **GitHub:** transcrição, rolagens, cronologia e estado atualizados; commits confirmados.
+
+
+## [273] JOGADOR
+
+Continuar campanha de onde parou, vou seguir descendo pode rolar oque precisar 
+
+## [274] MESTRE
+
+Vou conferir o último registro da campanha e a ficha de Eron antes de resolver a descida e as rolagens necessárias.
+
+## Monte Veyra — Dia 6, 17h20
+
+<card gap={3}>
+  {#each [{name:"Percepção",die:7,mod:7},{name:"Furtividade",die:12,mod:9}] as r}
+    <row align="center">
+      <svg viewBox="0 0 100 100" size="66px">
+        <polygon points="50,4 94,29 94,73 50,97 6,73 6,29" fill="#214b86" stroke="#78a7e1" strokeWidth="2"/>
+        <path d="M50 4L23 65L94 73L50 4L77 65L6 73L50 4M6 29L77 65L94 29M23 65L77 65" fill="none" stroke="#93b5dd"/>
+        <text x="50" y="54" fontSize="27" fontWeight="bold" fill="white" textAnchor="middle">{r.die}</text>
+      </svg>
+      <box flex={1} gap={1}>
+        **{r.name}**
+        <caption>{`1d20+${r.mod} → [${r.die}] + ${r.mod}`}</caption>
+      </box>
+      <title size="2xl">{r.die+r.mod}</title>
+    </row>
+  {/each}
+  <caption>Rolagens executadas em Python com secrets.randbelow() e hash do script conferido com o GitHub.</caption>
+</card>
+
+Você deixa o salão de distribuição e começa a descer. A escadaria é larga, construída com grandes blocos de pedra escura. Conforme avança, a temperatura aumenta discretamente, e a umidade nas paredes diminui. As canaletas metálicas continuam acompanhando o percurso, embora sejam consideravelmente mais grossas neste trecho.
+
+Após aproximadamente 40 metros de descida, você alcança outro patamar. À sua frente existe uma pesada grade metálica, atrás da qual a luz da lanterna revela parte de um corredor. Junto à grade há uma roda de metal, um mecanismo embutido na parede e uma placa com inscrições anãs.
+
+Você consegue traduzir as inscrições:
+
+<box background="#353a38" theme="dark" radius="md" padding={4}>
+  <title textAlign="center" size="lg">NÍVEL INFERIOR</title>
+  <divider color="#75796e"/>
+  <text textAlign="center">CONTROLE DE ALIMENTAÇÃO</text>
+  <text textAlign="center">ACESSO DE MANUTENÇÃO</text>
+  <text textAlign="center" weight="medium" color="#e8c88b">Não liberar a passagem sob pressão.</text>
+</box>
+
+Do outro lado da grade, você escuta um ruído grave e contínuo, semelhante ao de água correndo sob a pedra. Não identifica vozes nem movimentação de criaturas.
+
+O mecanismo ainda não foi examinado.
+
+**O que você faz?**
+
+---
+
+**[LOG DE MEMÓRIA DA CAMPANHA]**
+
+- **Localização atual:** Patamar do nível inferior do Monte Veyra.
+- **Horário:** Dia 6, 17h20.
+- **NPCs presentes e relação:** Nenhum detectado.
+- **Linha de missão ativa:** Exploração subterrânea e investigação da fonte de energia.
+- **Eventos cruciais:** Escadaria percorrida; acesso de manutenção localizado.
+- **Condições:** Sem ferimentos ou efeitos negativos.
+- **Inventário:** Marca da Bigorna Velada na bolsa; lanterna com 2h50 de autonomia e 6 frascos de óleo em reserva.
+
+<card gap={2}>
+  <grid columns={2}>
+    <grid-item>
+      <caption>Pontos de vida</caption>
+      <title size="xl" color="success">12/12</title>
+      <box height={2} radius="full" background="#26925b"/>
+    </grid-item>
+    <grid-item>
+      <caption>Experiência — Nível 1</caption>
+      <title size="xl">275/300 XP</title>
+      <box height={2} radius="full" background="surface-tertiary" clip>
+        <box width="91.67%" height="100%" background="#bd943c" radius="full"/>
+      </box>
+    </grid-item>
+    <grid-item>
+      <caption>Classe de Armadura</caption>
+      <title size="lg">16</title>
+    </grid-item>
+    <grid-item>
+      <caption>Inspiração Heroica</caption>
+      <text color="success" weight="medium"><icon name="sparkles" inline/> Disponível</text>
+    </grid-item>
+  </grid>
+</card>
+
+**GitHub:** commit confirmado; transcrição, estado, cronologia e rolagens atualizados.
