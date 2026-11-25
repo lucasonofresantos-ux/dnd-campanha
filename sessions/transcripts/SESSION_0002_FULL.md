@@ -11421,3 +11421,52 @@ Nenhuma nova rolagem foi necessária. Mantive os PV fixos conforme a evolução 
 **Auditoria:** não há execução Python comprovada para os dois dados da ativação anterior; registrei a correção, preservando os acontecimentos.
 
 **GitHub:** commit confirmado.
+
+
+## [363] JOGADOR
+
+- aceito, e posso falar com este sistema?
+
+## [364] MESTRE
+
+Assim que você pronuncia sua aceitação, as runas da estação central se iluminam. Uma sequência de inscrições percorre o painel.
+
+<box border radius="lg" padding={4} gap={3}>
+  <caption textAlign="center">SISTEMA CENTRAL DE THÛN-KHAZAD</caption>
+  <divider/>
+  <title size="xl" textAlign="center">ERON RIVER</title>
+  <text textAlign="center" weight="medium" color="#b69252">Guardião dos Seis Caminhos</text>
+  <divider/>
+  {#each ["Diretriz de sucessão cumprida","Identidade registrada","Autoridade central autenticada","Permissões administrativas concedidas"] as item}
+    <row align="center">
+      <icon name="check-circle-filled" color="success"/>
+      <text size="sm">{item}</text>
+    </row>
+  {/each}
+</box>
+
+UM-021 inclina a cabeça respeitosamente.
+
+— Bem-vindo, Guardião.
+
+— Sim, poderá comunicar-se diretamente com o Sistema. Basta dirigir-se à interface central em nosso idioma. O Sistema é capaz de interpretar solicitações, consultar registros, apresentar diagnósticos, transmitir instruções às unidades e executar comandos autorizados. Entretanto, não possui consciência própria.
+
+Uma inscrição surge no painel:
+
+**AUTORIDADE RECONHECIDA. AGUARDANDO INSTRUÇÕES.**
+
+UM-021 afasta-se da estação, deixando o painel à sua disposição.
+
+---
+
+**[LOG DE MEMÓRIA DA CAMPANHA]**
+
+- **Localização atual:** Núcleo das Runas, Dia 9, 02h58.
+- **NPCs presentes:** UM-021, cooperativo; reconhece sua autoridade.
+- **Missão ativa:** Recuperar a distribuição geral de energia.
+- **Eventos cruciais:** Eron reconhecido pelo Sistema Central como Guardião dos Seis Caminhos.
+- **Condições:** Ladino 1 / Artífice 2 | 30/30 PV | CA 16 | 1.000/2.700 XP.
+
+A autoridade foi autenticada no Sistema Central. Os Caminhos continuam selados, e os territórios desconectados ainda não foram contactados. Nenhuma rolagem necessária.
+
+**GitHub:** commit confirmado.

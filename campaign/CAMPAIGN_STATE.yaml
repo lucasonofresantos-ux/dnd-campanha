@@ -82,7 +82,8 @@ character:
   carrying_weight_lb_recorded: 103.88
   carrying_weight_note: "Carga anterior registrada 103,88 lb; caça Dia6 acrescenta 11 kg de carne e outros materiais sem peso exato aferido; carga estimada abaixo de 180 lb."
   carrying_capacity_lb: 180
-  known_personal_item: "Marca da Bigorna Velada devolvida a Eron após autenticação do objeto; autoriza serviço e consulta ao arquivo acompanhada por UM-021; não autentica autoridade administrativa. Porta externa permanece fechada."
+  known_personal_item: "Marca da Bigorna Velada em posse de Eron; permissões próprias de serviço e consulta acompanhada. Autoridade de Guardião agora autenticada separadamente pela diretriz de sucessão. Porta externa permanece fechada."
+  guardian_authority: "Guardião dos Seis Caminhos autenticado no Sistema Central, Dia9 02h58, por sucessão extraordinária e aceitação expressa; territórios desconectados não consultados."
   trained_owned_tool: "Ferramentas de Funileiro (propriedade e proficiência Artífice1)"
   ammo:
     shortbow_arrows_in_quiver: 19
@@ -217,21 +218,21 @@ character:
 campaign_time:
   calendar_system: "Asterion, dias relativos; nenhuma era/ano formal estabelecido"
   day: 8
-  time_of_day: "aproximadamente 02h55 do Dia 9"
+  time_of_day: "aproximadamente 02h58 do Dia 9"
   season: "final do outono"
-  elapsed_game_time: "Dia9 02h35–02h55, evolução de classe e retorno ao Núcleo das Runas."
+  elapsed_game_time: "Dia9 02h55–02h58, aceitação da sucessão e autenticação como Guardião."
 location:
   continent: Asterion
   polity: "Terras Livres de Avenhar (homebrew), fora de Valdren"
   area: "entroncamento da Estrada do Cascalho, próximo ao Pouso das Três Fontes"
   nearby: "encostas arborizadas da serra cujo monte mais alto é chamado Veyra"
   exact_position: "Núcleo das Runas de Thûn-Khazad, terceiro nível, diante da interface central."
-  travel_status: "Cinco unidades de serviço operacionais; Grande Forja e Núcleo operacionais; serviços alimentados, níveis1/4/5 exigem inspeção, Salão das Seis Portas isolado, Caminhos selados; diretriz de sucessão lida, aceitação pendente, distribuição geral não liberada."
+  travel_status: "Cinco unidades de serviço operacionais; Grande Forja e Núcleo operacionais; serviços alimentados, níveis1/4/5 exigem inspeção, Salão das Seis Portas isolado, Caminhos selados; Eron autenticado como Guardião dos Seis Caminhos no Sistema Central, distribuição geral não liberada."
 scene:
   id: OPENING-001
-  status: "awaiting_player_guardian_acceptance_and_distribution_day9"
+  status: "awaiting_guardian_commands_at_rune_core_day9"
   current_npcs_present: ["UM-021, cooperativo"]
-  immediate_visible_situation: "Dia9 02h35–02h55: jogador escolheu novo nível Artífice2 (Ladino1/Artífice2, total3, 1000/2700 XP); aplicado PV fixo 5+CON2+Vigoroso2=9 conforme evolução anterior, PV30/30, 3d8 disponíveis, PB+2, CA16, CD14, ataque mágico+6, slots1º2/2, Tinker4/4, Mending automático, Light/Guidance, Cure Wounds/Detect Magic mantidos, uma magia de primeiro círculo pendente; Replicate Magic Item quatro planos pendentes, máximo2 itens simultâneos, nenhum criado; seleção do jogador pendente, não nível. Fontes efetivamente verificadas D&D Beyond artigo oficial https://www.dndbeyond.com/posts/2106-whats-new-with-the-artificer-in-eberron-forge-of e tabela auxiliar https://dnd2024.wikidot.com/artificer:main, versão 2025. Sem descanso ou renovação adicional de recursos; inspiração disponível. Eron pediu seguir ao Núcleo e depois distribuição geral; voltou acompanhado por UM-021, UM-017 permaneceu na forja. Núcleo alimentado pela Grande Forja; UM-021 recuperou diretriz de contingência autenticada, identidade emissora não exibida, inscrição anã compreensível; revelou cláusula extraordinária de sucessão para ausência de Guardião legítimo, descoberta do Salão, compreensão e recuperação da forja; obrigação de preservar união e patrimônio, administrar riquezas em benefício de Thûn-Khazad. Nenhum Guardião atualmente autenticado no Sistema Central, recuperação atribuída a Eron, condições técnicas satisfeitas; UM-021 solicitou aceitação expressa; não autenticou Eron como Guardião nem concedeu poderes antes da decisão. Não afirmar ausência de sobreviventes, linhagem extinta ou inexistência de autoridade em postos desconectados; não definir destino populacional ou causa do selamento. Fonte autoral consultada pp68–69 de Thun-Khazad_Cronicas_do_Imperio_Esquecido.pdf; inscrição adaptada ao jogo, aceitação expressa adjudicada para preservar autonomia. Painel diagnóstico automático: forja e Núcleo operacionais, serviços alimentados, níveis1/4/5 exigem inspeção, nível2 isolado, Caminhos selados; distribuição progressiva após inspeção, não liberada; nenhuma movimentação adicional. Sem rolagem, magia, dano, gasto, XP novo, descanso ou exaustão automática. 9 rações, 7,45kg carne custódia UM019, 3 cristais comuns e 8 molas intactos, Luz inativa, 4 óleos e lanterna apagada110min. Auditoria [360]: nenhuma chamada efetiva a executor Python consta no histórico disponível para 1d20+6 [11] e 1d4 [3], apesar da afirmação de execução. Acrescentadas duas entradas false; preservar narrativa e XP sem rerrolagem. [362] leitura e diagnóstico automático sem rolagem."
+  immediate_visible_situation: "Dia9 02h55–02h58: Eron aceitou expressamente a responsabilidade de Guardião dos Seis Caminhos e perguntou se pode falar com o Sistema. Em cumprimento da diretriz extraordinária já apresentada e condições técnicas anteriores satisfeitas, Sistema Central registrou identidade Eron River, autenticou autoridade central e concedeu permissões administrativas do cargo. UM-021 inclinou a cabeça, passou a tratá-lo por Guardião e esclareceu que interface central aceita comunicação oral em Anão para interpretar solicitações, consultar registros, apresentar diagnósticos, transmitir instruções às unidades e executar comandos autorizados; Sistema programado, não consciente, resposta atual por inscrições no painel. Interface exibiu AUTORIDADE RECONHECIDA. AGUARDANDO INSTRUÇÕES. UM-021 permaneceu na sala, afastado do painel. Decisão local do Mestre: interface admite comunicação oral e textual no idioma anão, respostas limitadas a dados e funções disponíveis. Autoridade obtida segundo cláusula excepcional, não por prova genealógica nem pelo disco; Marca permanece com Eron, não muda permissões intrínsecas do objeto. Autenticação central não estabelece legitimidade perante possíveis habitantes/autoridades locais não contactados, não garante controle remoto, abertura de Caminhos, integridade de circuitos ou acesso seguro. Nenhum comando de distribuição emitido, níveis1/4/5 exigem inspeção, nível2 isolado, Caminhos selados, forja/Núcleo operacionais e serviços alimentados. Causa do selamento e destino populacional desconhecidos. Sem novo teste, XP, magia, deslocamento, gasto ou descanso. Ladino1/Artífice2 nível3 XP1000/2700, PV30/30 CA16, espaços2/2 Tinker4/4, inspiração disponível, 4 planos/1 magia preparada pendentes; 9 rações, carne custódia7,45kg, Luz inativa, exaustão0. Aguardar ordens do jogador."
   discovered_traps:
     - location: "Trilha dos Corcos, junto ao riacho"
       state: disarmed_safe_wire_left_at_tree
@@ -276,8 +277,8 @@ world:
 transcription:
   character_creation_history: sessions/transcripts/SESSION_0001_FULL.md
   narrative_session: sessions/transcripts/SESSION_0002_FULL.md
-  last_saved_player_turn: "[361] JOGADOR — escolhe Artífice2, segue ao Núcleo e distribuição geral."
-  last_saved_dm_turn: "[362] MESTRE — nível3 confirmado, diretriz de sucessão revelada, Dia9 02h55."
+  last_saved_player_turn: "[363] JOGADOR — aceita sucessão e pergunta se pode falar com o Sistema."
+  last_saved_dm_turn: "[364] MESTRE — Guardião autenticado e interface disponível, Dia9 02h58."
 notes:
   - "Primeira resposta de cena será salva literalmente e sem revelar preparativos de dm."
   - "Nunca tratar a aprovação da ficha como XP, nem mudar recursos automaticamente."
