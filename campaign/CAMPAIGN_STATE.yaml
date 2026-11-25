@@ -82,18 +82,18 @@ character:
   carrying_weight_lb_recorded: 103.88
   carrying_weight_note: "103,88 lb é registro histórico; carga atual reduzida pela Bolsa Porta-Tudo de 5 lb. Peso externo e conteúdo exatos pendentes de conferência; armas, armadura, aljava e Marca acessíveis. Pertences pessoais portáteis restantes guardados na bolsa; carne em custódia e materiais deixados com Durnak não recolhidos."
   carrying_capacity_lb: 180
-  known_personal_item: "Marca da Bigorna Velada em posse de Eron; permissões próprias de serviço e consulta acompanhada. Autoridade de Guardião agora autenticada separadamente pela diretriz de sucessão. Porta externa permanece fechada."
+  known_personal_item: "Marca da Bigorna Velada em posse de Eron; autoridade de Guardião autenticada separadamente pela diretriz de sucessão. Entrada original de Thûn-Khazad fechada e camuflada após saída Dia10."
   guardian_authority: "Guardião dos Seis Caminhos autenticado no Sistema Central, Dia9 02h58, por sucessão extraordinária e aceitação expressa; territórios desconectados não consultados."
   trained_owned_tool: "Ferramentas de Funileiro (propriedade e proficiência Artífice1)"
   ammo:
-    shortbow_arrows_in_quiver: 19
+    shortbow_arrows_in_quiver: 18
     shortbow_arrows_spare: 5
     shortbow_arrows_crafted_total: 13
     shortbow_arrows_fired_unrecovered: 0
-    shortbow_arrows_lost_unusable: 9
+    shortbow_arrows_lost_unusable: 10
     damaged_arrow_recovered_day6: 1
     damaged_arrow_salvage: "Ponta e penas aproveitáveis; ainda montadas na flecha quebrada."
-    unrecovered_arrow_location: "Oito flechas perdidas até Dia5; uma inutilizada Dia6, encontrada quebrada."
+    unrecovered_arrow_location: "Oito flechas perdidas até Dia5; uma inutilizada Dia6, encontrada quebrada; uma inutilizada Dia10 na caça."
   crafting_project_arrows:
     total_target: 20
     completed: 13
@@ -207,6 +207,17 @@ character:
     sinew_bundles: 1
     useful_offal: ["coração", "fígado"]
     preparation_result: "2d20kh1+5 [13,4] mantido 13+5=18, execução não comprovada; continuidade preservada"
+  harvested_roe_deer_day10:
+    fresh_meat_kg_approx: 11
+    raw_hide: "1 pele crua em boas condições"
+    antler_stems: 2
+    ears: 2
+    long_bones: 2
+    sinew_bundles: 1
+    useful_offal: ["coração", "fígado"]
+    condition: "Crus, sem sal, sem venda; acondicionados na Bolsa Porta-Tudo."
+    estimated_added_weight_kg: 16
+    preparation_result: "2d20kh1+5 [20,11] mantido20+5=25, execução Python real verificada."
   salt_supply:
     sacks: 2
     weight_kg_approx: 2.2
@@ -218,21 +229,21 @@ character:
 campaign_time:
   calendar_system: "Asterion, dias relativos; nenhuma era/ano formal estabelecido"
   day: 10
-  time_of_day: "aproximadamente 10h07 do Dia 10"
+  time_of_day: "aproximadamente 14h00 do Dia 10"
   season: "final do outono"
-  elapsed_game_time: "Dia10 10h05–10h07, ordem de segurança e preparação para saída."
+  elapsed_game_time: "Dia10 10h07–14h00, saída de Thûn-Khazad, caça e retorno ao povoado."
 location:
   continent: Asterion
   polity: "Terras Livres de Avenhar (homebrew), fora de Valdren"
   area: "entroncamento da Estrada do Cascalho, próximo ao Pouso das Três Fontes"
   nearby: "encostas arborizadas da serra cujo monte mais alto é chamado Veyra"
-  exact_position: "Limiar interno do acesso original de Thûn-Khazad, entrada temporariamente aberta para saída."
-  travel_status: "Sensores exteriores operacionais; acesso original temporariamente aberto para saída, fechamento após travessia pendente; camuflagem a preservar. Oito unidades operacionais, manutenção interna e inventário continuam. Seis Caminhos selados. Retorno ao Pouso das Três Fontes e tentativa de caça declarados, testes pendentes."
+  exact_position: "Entrada do Pouso das Três Fontes."
+  travel_status: "Eron retornou ao Pouso das Três Fontes. Thûn-Khazad: entrada original fechada e camuflada, sensores operacionais, oito unidades, manutenção interna e inventário contínuos, seis Caminhos selados. Nenhuma comunicação remota estabelecida."
 scene:
   id: OPENING-001
-  status: "departure_hunt_checks_pending_day10"
-  current_npcs_present: ["UM-027, cooperativa", "Sistema Central, autoridade reconhecida"]
-  immediate_visible_situation: "Dia10 10h05–10h07: jogador ordenou manter saídas seladas/camufladas enquanto retorna cidade, declarou Furtividade e Percepção no percurso e tentativa de caçar corço. Sistema confirma ordem de fechamento e preservação camuflagem, vigilância e restauração interna contínuas, seis Caminhos selados. UM027 informa sensores sem pessoas detectadas nas imediações, não garantia absoluta. Eron aciona Marca e entrada original abre fresta para saída, ainda no limiar interno; fechamento após travessia pendente, Marca em posse. Solicitados testes Furtividade 1d20+9, Percepção 1d20+7, Sobrevivência 1d20+5; aguarda dados naturais ou autorização explícita para rolar, conforme regra padrão. Sem rolagem nova, abate, disparo, XP, gasto, dano ou alteração de recursos. Destino Pouso das Três Fontes, caça no percurso. PV30/30 CA16 XP1325/2700, 24 flechas utilizáveis (19 aljava,5 reserva)."
+  status: "returned_to_pouso_day10_after_hunt"
+  current_npcs_present: []
+  immediate_visible_situation: "Dia10 10h07–14h00: jogador autorizou todas as rolagens da saída/caça. Eron atravessa limiar, Marca em posse, entrada original fecha e se confunde com encosta, ordem de preservação da camuflagem e vigilância contínua permanece. Seis Caminhos selados. Execução REAL container.exec em quatro chamadas, /tmp/eron_415_dice.py reproduzido do GitHub com git hash-object d35af70119bf684ea055619bb10678a1c4b03bbb conferido; JSON: Furtividade 1d20+9 [3]=12, Percepção 1d20+7 [20]=27, Sobrevivência 1d20+5 [14]=19. Sem pessoas identificadas junto à saída, rastreio bem-sucedido, corço macho adulto ~20m, cobertura vegetal, furtividade suficiente ante percepção passiva 12, vantagem. Ataque 2d20kh1+7 [11,2] mantido índice0=18, acerto CA13; dano arco e Ataque Furtivo 2d6+5 [2,5]=12, abate (4PV). Aproveitamento com Coureiro/Sobrevivência 2d20kh1+5 [20,11] mantido índice0=25. 11kg carne fresca, pele crua boa1, galhadas2, orelhas2, ossos longos2, tendões1 feixe, coração e fígado1 cada; acondicionados na Bolsa Porta-Tudo, crus, sem sal ou venda; estimativa carga interna adicionada ~16kg. Flecha única disparada inutilizável, 18 aljava+5 reserva=23, perdidas/inutilizáveis10. Chega entrada Pouso das Três Fontes Dia10 14h00, nenhuma interação NPC, recados ainda desconhecidos. Saída da cidade Dia6, retorno Dia10. Sem dano, gasto monetário, magia, XP ou alimento consumido; 30/30PV CA16 XP1325/2700 slots2/2 Tinker4/4 inspiração disponível. Adjudicados tempo, rendimento e descarte; aproveitamento habitual da caça."
   discovered_traps:
     - location: "Trilha dos Corcos, junto ao riacho"
       state: disarmed_safe_wire_left_at_tree
@@ -277,8 +288,8 @@ world:
 transcription:
   character_creation_history: sessions/transcripts/SESSION_0001_FULL.md
   narrative_session: sessions/transcripts/SESSION_0002_FULL.md
-  last_saved_player_turn: "[413] JOGADOR — ordena camuflagem e fechamento, retorno à cidade e tentativa de caça."
-  last_saved_dm_turn: "[414] MESTRE — prepara saída e solicita testes, Dia10 10h07."
+  last_saved_player_turn: "[415] JOGADOR — autoriza todas as rolagens."
+  last_saved_dm_turn: "[416] MESTRE — corço abatido, retorno ao Pouso, Dia10 14h00."
 notes:
   - "Primeira resposta de cena será salva literalmente e sem revelar preparativos de dm."
   - "Nunca tratar a aprovação da ficha como XP, nem mudar recursos automaticamente."
