@@ -218,21 +218,21 @@ character:
 campaign_time:
   calendar_system: "Asterion, dias relativos; nenhuma era/ano formal estabelecido"
   day: 9
-  time_of_day: "aproximadamente 14h26 do Dia 9"
+  time_of_day: "aproximadamente 14h45 do Dia 9"
   season: "final do outono"
-  elapsed_game_time: "Dia9 14h25–14h26, consulta do vínculo das unidades."
+  elapsed_game_time: "Dia9 14h26–14h45, deslocamento guiado à segunda estação."
 location:
   continent: Asterion
   polity: "Terras Livres de Avenhar (homebrew), fora de Valdren"
   area: "entroncamento da Estrada do Cascalho, próximo ao Pouso das Três Fontes"
   nearby: "encostas arborizadas da serra cujo monte mais alto é chamado Veyra"
-  exact_position: "Interior da estação de manutenção dos aposentos e recepção, nível1 de Thûn-Khazad."
+  exact_position: "Diante da porta fechada da estação de manutenção de reservas e armazenamento, nível4 de Thûn-Khazad."
   travel_status: "Seis unidades operacionais em manutenção permanente; estação nível1 operacional, nível1 alimentação local recuperada, nível5 galeria iluminada, nível4 aguarda reparação, nível2 isolado, níveis3/7 operacionais, nível6 setores recuperados operacionais. Duas estações sem resposta; Caminhos selados, vigilância exterior pendente, compartimento privativo fechado."
 scene:
   id: OPENING-001
-  status: "level1_station_and_um023_operational_day9"
-  current_npcs_present: ["UM-012, cooperativa", "UM-023, cooperativa"]
-  immediate_visible_situation: "Dia9 14h25–14h26: Eron perguntou se há mais unidades ligadas à oficina atual. UM023 consultou terminal operacional e informou ser única unidade permanentemente vinculada à estação nível1; demais unidades podem utilizar a oficina. Duas estações sem resposta persistem, sem confirmação de construtos internos. UM012 e UM023 presentes, seis operacionais no Salão. Definição local de cenário sobre vinculação. Sem rolagens, XP, dano, magia ou gasto. Auditoria [374]: ausência de chamada real ao executor Python no histórico disponível para as dez expressões; corrigir verificação sem apagar registros originais, preservar narrativa e XP, sem rerrolagem."
+  status: "awaiting_inspection_level4_station_day9"
+  current_npcs_present: ["UM-012, cooperativa"]
+  immediate_visible_situation: "Dia9 14h26–14h45: jogador solicitou seguir à segunda oficina. UM012 informou localização da próxima estação sem resposta no nível4 (reservas estratégicas), guiou Eron por galerias e escadas internas até porta reforçada de bronze, inscrição de manutenção reservas/armazenamento, painel apagado e abertura de inspeção com grade; iluminação parcial, nenhum ruído ou movimento percebido automaticamente. Porta fechada, interior não investigado, unidades internas não confirmadas. UM023 permanece na estação nível1 em manutenção permanente, UM012 presente; seis operacionais, duas estações pendentes, Caminhos selados. Definições locais: localização, duração, configuração visível e trajeto acessível. Sem teste, XP, dano, magia ou gasto; 30/30PV CA16 XP1050/2700, demais recursos inalterados."
   discovered_traps:
     - location: "Trilha dos Corcos, junto ao riacho"
       state: disarmed_safe_wire_left_at_tree
@@ -277,8 +277,8 @@ world:
 transcription:
   character_creation_history: sessions/transcripts/SESSION_0001_FULL.md
   narrative_session: sessions/transcripts/SESSION_0002_FULL.md
-  last_saved_player_turn: "[375] JOGADOR — pergunta sobre unidades vinculadas à oficina."
-  last_saved_dm_turn: "[376] MESTRE — UM023 única unidade vinculada; duas estações pendentes."
+  last_saved_player_turn: "[377] JOGADOR — solicita seguir à segunda oficina."
+  last_saved_dm_turn: "[378] MESTRE — chegada à estação do nível4, porta fechada, Dia9 14h45."
 notes:
   - "Primeira resposta de cena será salva literalmente e sem revelar preparativos de dm."
   - "Nunca tratar a aprovação da ficha como XP, nem mudar recursos automaticamente."
