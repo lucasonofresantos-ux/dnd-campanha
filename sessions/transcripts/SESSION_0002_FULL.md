@@ -12723,3 +12723,106 @@ Os objetos permanecem no cofre aberto. A caixa lacrada ainda não foi aberta, e 
 **Nota do Mestre:** as seis expressões de dados foram efetivamente executadas em Python, com o hash do script conferido. Utilizei duas conjurações de Orientação; nenhum recurso limitado foi gasto. O conteúdo do cofre, as avarias, a duração e a experiência são definições locais do cenário. As moedas não foram adicionadas à sua bolsa pessoal, e seu valor de circulação atual ainda não foi confirmado. As imagens são referências ilustrativas, não plantas canônicas.
 
 **GitHub:** commit confirmado.
+
+## [401] JOGADOR
+
+vou investigar oque tem dentro do cofre e os documentos do escritório pode rolar oque precisar e não vou pegar as moedas ou o dinheiro que aqui tiver e os socumentos e oque tiver no cofre volta para o cofre
+
+## [402] MESTRE
+
+### Comentário visível antes da narração
+
+Vou examinar os documentos e o conteúdo do cofre sem retirar patrimônio dos aposentos. Ao terminar, devolverei os objetos aos seus respectivos lugares.
+
+### Resposta
+
+## Dia 10 — 05h40 | Escritório do Guardião
+
+Você se acomoda diante da escrivaninha e, com o auxílio de UM-021, começa a organizar os documentos por assunto. Abre cuidadosamente a caixa lacrada, preservando as folhas antigas e os selos que identificam seus remetentes.
+
+### Testes de investigação
+
+| Documento | Rolagem | Total |
+|---|---|---:|
+| Diário pessoal | 1d20 [18] +6 +2 | 26 |
+| Registros financeiros | 2d20 [~~7~~, 8] +6 +4 | 18 |
+| Correspondência reservada | 2d20 [~~7~~, 11] +6 +4 | 21 |
+| Plantas e mapas | 1d20 [9] +6 +3 | 18 |
+
+Os quatro testes foram bem-sucedidos. Orientação foi utilizada em cada teste.
+
+### 1. Diário do antigo Guardião
+
+Diversas páginas estão deterioradas, mas você consegue recuperar algumas passagens escritas antes do Grande Selamento.
+
+<box border radius="lg" padding={4} gap={3}>
+  <caption>Fragmentos do diário — traduzidos do anão</caption>
+  <divider/>
+  *Os seis territórios prosperaram porque compreenderam que sua força estava na união, não na submissão de seus vizinhos.*
+
+  *Os Caminhos são nossa maior realização, mas também nossa maior responsabilidade. Aquilo que transporta uma colheita pode igualmente transportar uma legião.*
+
+  *Se chegar o dia em que não possamos garantir a segurança de um Caminho, será preferível fechá-lo a colocar os demais em perigo.*
+</box>
+
+As últimas páginas legíveis demonstram uma preocupação crescente com a segurança da rede, mas não esclarecem a causa definitiva do Grande Selamento.
+
+### 2. Livro de registros financeiros
+
+Você descobre que as riquezas administradas pelo Guardião eram contabilizadas separadamente.
+
+- **Tesouro imperial:** patrimônio comum de Thûn-Khazad.
+- **Reservas estratégicas:** metais, alimentos, componentes e materiais de emergência.
+- **Fundos administrativos:** recursos destinados à manutenção do Salão e às despesas do Guardião.
+
+As 120 moedas de ouro e as 80 moedas de prata encontradas no cofre correspondem a uma reserva administrativa. Não representam a totalidade das riquezas do império.
+
+### 3. Correspondência reservada do Conselho dos Seis
+
+Dentro da caixa existem seis documentos, um de cada território. São relatórios administrativos que registram necessidades de abastecimento, manutenção e defesa.
+
+Um deles, remetido por Baraz-Khaz, recomenda que qualquer reativação dos Caminhos seja precedida de verificações independentes em suas extremidades.
+
+— O Sistema Central não consegue realizar essa verificação enquanto os terminais dos territórios permanecerem incomunicáveis — esclarece UM-021.
+
+Não há confirmação de que algum dos seis povos tenha sobrevivido.
+
+### 4. Plantas do Salão e sinete
+
+A planta permite identificar as sete suítes do primeiro nível, as câmaras do Conselho no segundo e a localização dos depósitos de reservas estratégicas no quarto. Também indica galerias técnicas que ligam os setores de manutenção.
+
+O sinete de bronze destinava-se à autenticação de documentos oficiais. Não é uma chave para os Caminhos.
+
+## Dia 10 — 08h10 | Investigação concluída
+
+Você devolve as moedas, o sinete, o livro, a caixa de correspondências e os documentos examinados, incluindo o diário e a planta, ao cofre. A caixa foi aberta, mas seu lacre original permanece guardado junto aos documentos. Você fecha o cofre.
+
+— Patrimônio administrativo preservado, Guardião — informa UM-021.
+
+<row align="center">
+  <box flex={1} gap={1}>
+    <caption>Experiência — investigação documental</caption>
+    <title size="lg">1.300 / 2.700 XP</title>
+    <box height={2} radius="full" background="surface-tertiary" clip>
+      <box height={2} width="48.15%" background="#26925b"/>
+    </box>
+  </box>
+  <title size="xl" color="success">+50 XP</title>
+</row>
+
+---
+
+**[LOG DE MEMÓRIA DA CAMPANHA]**
+
+- **Localização atual:** Escritório do Guardião, primeiro nível, Dia 10, 08h10.
+- **NPCs presentes:** UM-021, cooperativo.
+- **Linha de missão ativa:** Restauração interna e investigação de Thûn-Khazad.
+- **Eventos cruciais:** Documentos examinados; patrimônio preservado; cofre fechado.
+- **Condições:** 30/30 PV | CA 16 | 1.300/2.700 XP | 2/2 espaços de magia | 4/4 Magia do Funileiro.
+- **Dinheiro pessoal:** 56 PO, 2 PP e 7 PC, inalterado.
+
+**Nota do Mestre:** as oito expressões desta interação foram realmente executadas em Python, com o hash do script conferido. Os fragmentos, registros e conteúdo das cartas são elementos narrativos do cenário; a duração e os 50 XP foram adjudicados. Nenhum recurso limitado foi gasto. Interpretei sua ordem como guardar também o diário e a planta examinados no escritório dentro do cofre. A manutenção externa permanece suspensa.
+
+**Auditoria:** as seis expressões da investigação anterior não tiveram execução Python comprovada. Os resultados foram classificados como não verificados, sem alterar os acontecimentos ou o XP.
+
+**GitHub:** commit confirmado.
