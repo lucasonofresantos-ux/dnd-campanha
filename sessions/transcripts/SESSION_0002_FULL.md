@@ -9552,3 +9552,42 @@ Ele volta a organizar as ferramentas.
 Renovei Luz às 16h50, com duração até 17h50. A lanterna continua apagada. Foram usados dois lançamentos de Orientação e uma mola do depósito, restando oito molas no estoque. As seis rolagens foram efetivamente executadas em Python com o script do repositório e hash conferido.
 
 **GitHub:** commit confirmado; transcrição, ficha, estado, cronologia, XP e rolagens atualizados.
+
+
+## [315] JOGADOR
+
+- tem mais unidades? E oque é o alojamento?
+
+## [316] MESTRE
+
+## Thûn-Khazad — Dia 7, 16h57
+
+UM-017 coloca uma chave metálica sobre a prateleira e vira a cabeça em sua direção.
+
+— Afirmativo. Existem outras unidades de manutenção registradas neste nível. Estado operacional desconhecido. Consulte a estação de diagnóstico.
+
+Ao ouvir sua segunda pergunta, ele aponta para o corredor de onde vocês vieram.
+
+— Alojamentos: instalações destinadas ao repouso dos trabalhadores, artesãos e responsáveis pelo serviço. Quartos, instalações sanitárias e refeitório. Ocupação atual desconhecida.
+
+Após uma breve pausa, acrescenta:
+
+— Unidades de manutenção não necessitam de alojamentos.
+
+Ele retorna à organização das ferramentas. Até agora, você não encontrou nenhum habitante vivo no complexo.
+
+**O que você faz?**
+
+---
+
+**[LOG DE MEMÓRIA DA CAMPANHA]**
+
+- **Localização atual:** Depósito de serviço, Thûn-Khazad, Dia 7, 16h57.
+- **NPCs presentes e relação:** UM-017, cooperativo.
+- **Linha de missão ativa:** Explorar o nível de serviço e investigar o acesso ao Salão.
+- **Eventos cruciais:** Existência de outras unidades registradas confirmada; finalidade dos alojamentos esclarecida.
+- **Condições:** 21/21 PV | CA 16 | 625/900 XP | Nível 2. Luz ativa até 17h50.
+
+Nenhuma rolagem necessária para esta conversa.
+
+**GitHub:** commit confirmado; transcrição e estado atualizados.
