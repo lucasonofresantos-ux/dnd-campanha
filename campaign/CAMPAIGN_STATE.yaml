@@ -7,7 +7,7 @@ homebrew:
 advancement:
   method: experience_points
   milestones_do_not_grant_levels: true
-  current_total_xp: 1125
+  current_total_xp: 1150
   next_level_xp: 2700
   level_up_pending: false
   level_up_note: "Nível total3 confirmado: Ladino1/Artífice2. Três planos e uma magia de 1º círculo pendentes; Bolsa Porta-Tudo criada."
@@ -21,7 +21,7 @@ character:
     Ladino: 1
     Artífice: 2
   character_level: 3
-  xp_total: 1125
+  xp_total: 1150
   xp_next_level: 2700
   hp_current: 30
   hp_max: 30
@@ -61,7 +61,7 @@ character:
     copper: 7
   inventory_reference: character/ERON_RIVER_LEVEL_01.md
   illumination:
-    light_cantrip: "Ativo em ferramenta desde Dia9 16h45, expira17h45, sem concentração."
+    light_cantrip: "Ativo em ferramenta desde Dia9 17h45, expira18h45, sem concentração."
     hooded_lantern_lit: false
     oil_flasks_spare: 4
     candles: 10
@@ -218,21 +218,21 @@ character:
 campaign_time:
   calendar_system: "Asterion, dias relativos; nenhuma era/ano formal estabelecido"
   day: 9
-  time_of_day: "aproximadamente 17h25 do Dia 9"
+  time_of_day: "aproximadamente 18h10 do Dia 9"
   season: "final do outono"
-  elapsed_game_time: "Dia9 17h15–17h25, consulta e deslocamento em busca de UM027."
+  elapsed_game_time: "Dia9 17h25–18h10, localização, recuperação e conexão UM027."
 location:
   continent: Asterion
   polity: "Terras Livres de Avenhar (homebrew), fora de Valdren"
   area: "entroncamento da Estrada do Cascalho, próximo ao Pouso das Três Fontes"
   nearby: "encostas arborizadas da serra cujo monte mais alto é chamado Veyra"
-  exact_position: "Galeria técnica dos arquivos, nível5 de Thûn-Khazad, diante de passagem lateral escura."
-  travel_status: "Sete unidades operacionais; estações nível1, nível4 e nível5 recuperadas; UM027 registrada, não localizada. Reservas não integralmente inspecionadas, nível2 isolado, níveis3/7 operacionais, nível6 setores recuperados operacionais. Caminhos selados, vigilância exterior pendente, compartimento privativo fechado."
+  exact_position: "Oficina de instrumentos rúnicos e arquivos, nível5 de Thûn-Khazad."
+  travel_status: "Oito unidades operacionais; estações nível1, nível4 e nível5 recuperadas; UM027 conectada. Reservas não integralmente inspecionadas, nível2 isolado, níveis3/7 operacionais, nível6 setores recuperados operacionais. Caminhos selados, vigilância exterior pendente, compartimento privativo fechado."
 scene:
   id: OPENING-001
-  status: "awaiting_investigation_um027_traces_day9"
-  current_npcs_present: ["UM-012, cooperativa"]
-  immediate_visible_situation: "Dia9 17h15–17h25: jogador solicita procurar UM027. UM012 consulta registro da oficina recuperada; última ordem de serviço encaminhou UM027 à galeria técnica dos arquivos para manutenção dos instrumentos de transmissão rúnica, sem registro de retorno. Eron e UM012 seguem até galeria e, a cerca de15m da entrada, marcas antigas de arrastamento visíveis na pedra (percepção passiva17, sem teste), seguem à passagem lateral escura não monitorada. UM027 ainda não localizada; teste de Investigação+6 solicitado, vantagem se ferramentas de Funileiro pertinentes e Orientação +1d4 se conjurada, aguarda dado/autorizações; não entrou passagem. Sete construtos, três estações restauradas, caminhos selados. Luz ativa até17h45, 30/30PV CA16 XP1125/2700, slots2/2 Tinker4/4, inspiração disponível. Sem novo XP, rolagem, dano ou gasto. Auditoria [384]: oito expressões sem execução comprovada no histórico; preservar resultados narrativos e XP, acrescentar correções false. Recuperação anterior consta em ficha, XP e cronologia; reconciliar estado e transcrição integral a partir das mensagens visíveis."
+  status: "um027_recovered_connected_day9"
+  current_npcs_present: ["UM-012, cooperativa", "UM-027, cooperativa"]
+  immediate_visible_situation: "Dia9 17h25–18h10: jogador autorizou rolar para localizar UM027 e conectar ao Sistema Central. Investigação vestígios INT/Funileiro vantagem 2d20kh1+6 [6,20] índice1 mantido26 +1d4[2]=28 sucesso CD15; marcas de estrutura metálica pesada, conduzem a câmara transmissão; UM027 presa por suporte tombado. UM012 ajuda liberar sem risco incerto; Funileiro INT com ajuda 2d20kh1+6 [18,12] índice0=24 sucesso CD15; Arcanismo com ferramentas 2d20kh1+6 [5,5] índice0=11 +1d4[2]=13 falha CD16; nova abordagem registros técnicos oficina 2d20kh1+6 [19,17] índice0=25 +1d4[2]=27 sucesso CD16. Sete expressões realmente executadas por três chamadas container.exec neste turno, hash script conferido d35af70119bf684ea055619bb10678a1c4b03bbb, JSON retornado. Orientação em três testes de perícia; Luz renovada17h45 até18h45; Mending em condutor não mágico fissurado. UM027 recuperada, especialidade instrumentos rúnicos/circuitos comunicação/equipamentos arquivo, conexão central confirmada, autoridade reconhecida, ordem manutenção permanente, retorno oficina com UM012 e Eron. Oito unidades operacionais, três estações recuperadas, Caminhos selados, nível2 isolado, vigilância exterior pendente. +25XP recuperação unidade, total1150/2700; 30/30PV CA16 slots2/2 Tinker4/4 inspiração 3d8, sem dano, condição, gasto ou consumo peças. Decisões locais: avaria, especialidade, tempo, CDs, XP, ajuda, abordagem de registros. Orientação encerrada."
   discovered_traps:
     - location: "Trilha dos Corcos, junto ao riacho"
       state: disarmed_safe_wire_left_at_tree
@@ -257,8 +257,8 @@ scene:
   combat: false
   initiative: []
   rounds: 0
-  dice_rolled: false
-  xp_awarded: false
+  dice_rolled: true
+  xp_awarded: true
   reward_offered_but_not_accepted: null
   herd_contract_status: "Concluído Dia5 ~11h55; Mara confirmou três noites sem perdas, pagou 12 PO; +50 XP de resolução substantiva, reputação gratidão e respeito."
   investigation_offer: null
@@ -277,8 +277,8 @@ world:
 transcription:
   character_creation_history: sessions/transcripts/SESSION_0001_FULL.md
   narrative_session: sessions/transcripts/SESSION_0002_FULL.md
-  last_saved_player_turn: "[385] JOGADOR — solicita procurar UM027."
-  last_saved_dm_turn: "[386] MESTRE — galeria técnica, aguarda Investigação, Dia9 17h25."
+  last_saved_player_turn: "[387] JOGADOR — autoriza rolar e conectar unidade."
+  last_saved_dm_turn: "[388] MESTRE — UM027 recuperada e conectada, Dia9 18h10, XP1150."
 notes:
   - "Primeira resposta de cena será salva literalmente e sem revelar preparativos de dm."
   - "Nunca tratar a aprovação da ficha como XP, nem mudar recursos automaticamente."
