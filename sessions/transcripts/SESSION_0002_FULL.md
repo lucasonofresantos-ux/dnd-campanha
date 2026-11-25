@@ -8320,3 +8320,108 @@ Escolhi um eixo e um pino simples como peças de teste, sem consumir seu invent�
 **Auditoria:** as quatro rolagens deste turno foram efetivamente executadas em Python com o script do repositório e hash conferido. A rolagem do reparo superior anterior não tem execução comprovada no histórico disponível; corrigi sua classificação sem mudar os acontecimentos.
 
 **GitHub:** commit confirmado; transcrição, ficha, estado, cronologia, XP e rolagens atualizados.
+
+
+## [293] JOGADOR
+
+Vou seguir adiante de onde parei, a galeria de inspeção pode rolar oque precisar e depoisseguir adiante explorando
+
+## [294] MESTRE
+
+Vou seguir pela galeria de inspeção até encontrar o próximo ponto relevante, verificando os perigos do percurso e o estado da rede.
+
+## Monte Veyra — Dia 6, 22h35
+
+<card gap={2}>
+  {#each [{name:"Percepção",dice:"[4] + 7",total:11,die:4},{name:"Resistência de Destreza",dice:"[9] + 7",total:16,die:9},{name:"Investigação com vantagem",dice:"[18, 14] → 18 + 6",total:24,die:18}] as r,i}
+    <row align="center">
+      <svg viewBox="0 0 100 100" size="66px">
+        <polygon points="50,4 94,29 94,73 50,97 6,73 6,29" fill="#214b86" stroke="#93b5dd" strokeWidth="2"/>
+        <path d="M50 4L23 65L94 73L50 4L77 65L6 73L50 4M6 29L77 65L94 29M23 65L77 65" fill="none" stroke="#93b5dd"/>
+        <text x="50" y="58" fontSize="29" fontWeight="bold" fill="white" textAnchor="middle">{r.die}</text>
+      </svg>
+      <box flex={1} gap={1}>
+        **{r.name}**
+        <caption>{i===2?"2d20kh1+6":"1d20+7"} → {r.dice}</caption>
+      </box>
+      <title size="2xl">{r.total}</title>
+    </row>
+  {/each}
+  <caption>Rolagens efetivamente executadas em Python com secrets.randbelow() e hash do script conferido. Na Investigação, o 14 foi descartado.</caption>
+</card>
+
+Você deixa a oficina e retorna à estação térmica. A estrutura continua funcionando, produzindo uma vibração constante que se transmite pelas paredes da montanha.
+
+Ao entrar na galeria de inspeção, encontra um corredor mais estreito, acompanhado por um canal de água. Depois de aproximadamente 60 metros, uma pedra solta cede sob seu pé. Você consegue recuperar o equilíbrio antes de cair no canal, escapando sem ferimentos.
+
+Prosseguindo, chega a uma câmara consideravelmente maior que as anteriores.
+
+## O coletor central
+
+<svg viewBox="0 0 340 240" width="100%">
+  <defs>
+    <linearGradient id="floor" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stopColor="#292e34"/><stop offset="1" stopColor="#41484f"/></linearGradient>
+  </defs>
+  <rect x="0" y="0" width="340" height="240" rx="9" fill="#171d23"/>
+  <path d="M15 210L75 45H265L325 210Z" fill="url(#floor)" stroke="#67727c"/>
+  {#each [75,265] as x}
+    <path d={`M${x} 45V20`} stroke="#788087" strokeWidth="12"/>
+  {/each}
+  {#each [0,1,2,3,4,5] as i}
+    <path d={`M${170+Math.cos(i*Math.PI/3)*34} ${108+Math.sin(i*Math.PI/3)*25}L${170+Math.cos(i*Math.PI/3)*110} ${108+Math.sin(i*Math.PI/3)*82}`} stroke="#6f7b80" strokeWidth="13" strokeLinecap="round"/>
+    <circle cx={170+Math.cos(i*Math.PI/3)*110} cy={108+Math.sin(i*Math.PI/3)*82} r="9" fill="#363e46" stroke="#85939b" strokeWidth="2"/>
+  {/each}
+  <ellipse cx="170" cy="133" rx="43" ry="22" fill="#3c444a" stroke="#78868f" strokeWidth="2"/>
+  <rect x="137" y="54" width="66" height="78" fill="#545e66" stroke="#88939a"/>
+  <ellipse cx="170" cy="54" rx="33" ry="14" fill="#777e86" stroke="#a2abb4"/>
+  <path d="M170 68V120" stroke="#242a31" strokeWidth="12"/>
+  <path d="M170 70V87" stroke="#70d4e8" strokeWidth="5"/>
+  <rect x="110" y="173" width="120" height="27" rx="4" fill="#30383b" stroke="#78868f"/>
+  {#each [0,1,2,3] as i}
+    <rect x={120+i*28} y="180" width="16" height="10" rx="2" fill={i===0?"#c6944d":"#171d23"}/>
+  {/each}
+  <path d="M150 237V206H190V237" fill="#59616a" stroke="#7f8992"/>
+  <text x="170" y="225" textAnchor="middle" fontSize="10" fill="#ffffff">Eron</text>
+</svg>
+<caption>Representação esquemática da estrutura encontrada.</caption>
+
+No centro da câmara existe um grande dispositivo metálico, ligado a seis conjuntos de condutores. A estrutura recebe uma pequena quantidade de energia, mas a maior parte dos cristais permanece apagada.
+
+Sua investigação permite distinguir três problemas:
+
+- Um dos condutores de alimentação apresenta uma ruptura.
+- O mecanismo de distribuição está fisicamente bloqueado.
+- O painel possui alimentação parcial, mas não estabelece comunicação com os circuitos seguintes.
+
+Na face frontal do coletor, você encontra outra inscrição em anão:
+
+<box background="#353a38" theme="dark" radius="md" padding={4}>
+  <title textAlign="center" size="lg">COLETOR CENTRAL</title>
+  <divider color="#777c74"/>
+  <text textAlign="center">Distribuição setorial</text>
+  <text textAlign="center">Inspeção e controle de alimentação</text>
+  <text textAlign="center" color="#e8c88b">Conexões setoriais bloqueadas.</text>
+</box>
+
+Além do coletor existem duas passagens laterais e uma pesada porta metálica ao fundo. Nenhuma delas foi explorada.
+
+Os componentes de reposição que você preparou anteriormente ficaram na oficina. Ainda não é possível afirmar se serão compatíveis com este equipamento.
+
+**O que você faz?**
+
+---
+
+**[LOG DE MEMÓRIA DA CAMPANHA]**
+
+- **Localização atual:** Câmara do coletor central, Monte Veyra, Dia 6, 22h35.
+- **NPCs presentes e relação:** Nenhum detectado.
+- **Linha de missão ativa:** Investigar o coletor e as passagens adjacentes.
+- **Eventos cruciais:** Galeria atravessada; queda evitada; três problemas do coletor identificados.
+- **Condições:** 21/21 PV | CA 16 | Nível 2 | 425/900 XP | Inspiração Heroica disponível.
+- **Recursos:** 2/2 espaços de magia, 4/4 usos de Magia do Funileiro, 5 frascos de óleo em reserva e 3h35 de autonomia da lanterna.
+
+Nenhum XP adicional por enquanto: o coletor foi diagnosticado, mas não recuperado.
+
+**Auditoria:** as três rolagens atuais têm execução Python comprovada. As quatro rolagens da oficina do turno anterior não têm execução comprovada no histórico disponível; corrigi a classificação, preservando os acontecimentos.
+
+**GitHub:** commit confirmado; transcrição, estado, ficha, cronologia e rolagens atualizados.
