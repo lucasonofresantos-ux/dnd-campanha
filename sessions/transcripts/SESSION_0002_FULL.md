@@ -13941,3 +13941,50 @@ Ela fecha o relatório.
 **Nota do Mestre:** nenhuma gratificação confirmada, nenhum novo teste ou XP. A investigação da Vigília prosseguirá independentemente de Eron.
 
 **GitHub:** commit confirmado.
+
+## [451] JOGADOR
+
+- sem problema e se precisar de algo vou dormir na hospedagem hoje
+Vou para a hospedagem pegar o quarto um banho e primeiro o jantar
+Role Percepção para o caminho se alguém me segue e para observar o salão
+
+## [452] MESTRE
+
+## Dia 10 — 18h10 | Hospedagem de Alda Tress
+
+— Pode deixar, Eron. Se precisar de você, sei onde encontrá-lo — responde Iria.
+
+| Teste de Percepção | Rolagem | Total |
+|---|---:|---:|
+| Trajeto | 1d20+7 → [6] +7 | **13** |
+| Salão | 1d20+7 → [15] +7 | **22** |
+
+Durante o caminho, você não identifica ninguém seguindo seus passos, embora o movimento das ruas não permita descartar completamente essa possibilidade.
+
+Ao entrar na hospedagem, encontra alguns artesãos encerrando o expediente, viajantes jantando e conversas dispersas junto à lareira. Sua observação cuidadosa não revela ninguém demonstrando interesse incomum por você.
+
+Alda o reconhece atrás do balcão.
+
+— Ora, voltou! O quarto três está disponível. O mesmo preço de antes, com jantar e banho.
+
+Ela entrega a chave e serve um ensopado de carne com legumes, pão fresco e uma caneca de água. Depois de jantar, você sobe para o quarto e toma um banho quente.
+
+**Despesa:** 1 PO e 3 PP — quarto, jantar e banho.
+
+**Saldo:** 67 PO, 5 PP e 7 PC.
+
+Você está no quarto privativo, com a noite ainda pela frente.
+
+---
+
+**[LOG DE MEMÓRIA DA CAMPANHA]**
+
+- **Localização atual:** Hospedagem de Alda Tress, quarto 3, Dia 10, 18h10.
+- **NPCs presentes e relação:** Alda, amistosa, no salão.
+- **Linha de missão ativa:** Restauração de Thûn-Khazad.
+- **Eventos cruciais:** Hospedagem contratada, jantar consumido e banho tomado; nenhum seguidor identificado.
+- **Condições:** 30/30 PV | CA 16 | 1.400/2.700 XP | 67 PO, 5 PP e 7 PC | 23 flechas.
+
+**Nota do Mestre:** duas rolagens executadas em Python com o hash do script do repositório conferido. Mantive o preço anterior e adjudiquei a disponibilidade do quarto e o horário. Nenhum descanso longo iniciado ou XP concedido.
+
+**GitHub:** commit confirmado.
