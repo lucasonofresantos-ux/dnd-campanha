@@ -11470,3 +11470,55 @@ UM-021 afasta-se da estação, deixando o painel à sua disposição.
 A autoridade foi autenticada no Sistema Central. Os Caminhos continuam selados, e os territórios desconectados ainda não foram contactados. Nenhuma rolagem necessária.
 
 **GitHub:** commit confirmado.
+
+
+## [365] JOGADOR
+
+- (com o sistema só falo em anão) sistema me responda por voz me explica oque é este lugar, oque aconteceu e a quanto tempo está assim, fechado ou selado, e mais uma coisa o guardião tinha um quarto só para ele? Provavelmente tinha banheiro e banho junto nesse quarto e um cofre
+
+## [366] MESTRE
+
+O painel responde à sua solicitação. Algumas runas mudam de posição e uma voz grave, de timbre metálico, ressoa pela câmara, falando em anão.
+
+— Comunicação vocal habilitada. Idioma: anão.
+
+— Guardião, encontra-se em Thûn-Khazad, sede administrativa, energética e estratégica da união dos Seis Caminhos. Este complexo foi construído para conectar os seis territórios, coordenar seus recursos e preservar a segurança de seus habitantes.
+
+— O último estado registrado da rede corresponde ao selamento dos acessos e à suspensão das operações gerais. Os registros disponíveis ainda não permitem determinar a causa do selamento ou o destino da população.
+
+— Quanto ao tempo transcorrido, os registros indicam um intervalo de milênios. Não disponho, neste momento, de uma contagem cronológica suficientemente íntegra para informar a duração exata.
+
+Após uma breve interrupção, o Sistema responde à sua última pergunta.
+
+— Afirmativo. O Guardião dos Seis Caminhos dispõe de aposentos privativos no primeiro nível.
+
+## Suíte do Guardião
+
+<box border radius="lg" gap={3} padding={3}>
+  {#each [{i:"bed-double",t:"Dormitório privativo"},{i:"bath",t:"Banheiro com água quente e fria"},{i:"armchair",t:"Sala de estar"},{i:"book-open",t:"Escritório particular"},{i:"lock-keyhole",t:"Compartimento de segurança privativo"}] as r}
+    <row align="center" gap={3}>
+      <icon name={r.i} color="secondary" size="xl"/>
+      {r.t}
+    </row>
+  {/each}
+  <divider/>
+  <caption>Estado de conservação, funcionamento e conteúdo do compartimento de segurança ainda não verificados.</caption>
+</box>
+
+— Seus aposentos são os maiores entre as sete suítes destinadas aos Guardiões. Sua autorização permite o acesso, porém o circuito energético do primeiro nível necessita de inspeção.
+
+— Posso encaminhar unidades de manutenção para verificar as instalações e preparar seus aposentos, se assim desejar.
+
+---
+
+**[LOG DE MEMÓRIA DA CAMPANHA]**
+
+- **Localização atual:** Núcleo das Runas, Dia 9, 03h02.
+- **NPCs presentes:** UM-021, cooperativo; Sistema Central, autoridade reconhecida.
+- **Missão ativa:** Restabelecer a distribuição geral e investigar o Grande Selamento.
+- **Eventos cruciais:** Comunicação vocal em anão habilitada; aposentos privativos identificados.
+- **Condições:** 30/30 PV | CA 16 | 1.000/2.700 XP.
+
+O compartimento de segurança é um detalhe incorporado ao cenário nesta sessão; seu conteúdo não foi determinado. Nenhuma rolagem necessária.
+
+**GitHub:** commit confirmado.

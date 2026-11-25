@@ -182,3 +182,5 @@
 - Atualização: sessão 0002 até [362], Dia9 02h55; Ladino1/Artífice2, XP1000/2700, diretriz de sucessão revelada, aceitação pendente.
 
 - Atualização: sessão 0002 até [364], Dia9 02h58; Eron autenticado como Guardião dos Seis Caminhos no Sistema Central; XP1000/2700.
+
+- Atualização: sessão 0002 até [366], Dia9 03h02; comunicação vocal em Anão e aposentos identificados, XP1000/2700.

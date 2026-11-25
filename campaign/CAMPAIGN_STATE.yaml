@@ -218,9 +218,9 @@ character:
 campaign_time:
   calendar_system: "Asterion, dias relativos; nenhuma era/ano formal estabelecido"
   day: 8
-  time_of_day: "aproximadamente 02h58 do Dia 9"
+  time_of_day: "aproximadamente 03h02 do Dia 9"
   season: "final do outono"
-  elapsed_game_time: "Dia9 02h55–02h58, aceitação da sucessão e autenticação como Guardião."
+  elapsed_game_time: "Dia9 02h58–03h02, consulta vocal ao Sistema Central sobre história e aposentos."
 location:
   continent: Asterion
   polity: "Terras Livres de Avenhar (homebrew), fora de Valdren"
@@ -232,7 +232,7 @@ scene:
   id: OPENING-001
   status: "awaiting_guardian_commands_at_rune_core_day9"
   current_npcs_present: ["UM-021, cooperativo"]
-  immediate_visible_situation: "Dia9 02h55–02h58: Eron aceitou expressamente a responsabilidade de Guardião dos Seis Caminhos e perguntou se pode falar com o Sistema. Em cumprimento da diretriz extraordinária já apresentada e condições técnicas anteriores satisfeitas, Sistema Central registrou identidade Eron River, autenticou autoridade central e concedeu permissões administrativas do cargo. UM-021 inclinou a cabeça, passou a tratá-lo por Guardião e esclareceu que interface central aceita comunicação oral em Anão para interpretar solicitações, consultar registros, apresentar diagnósticos, transmitir instruções às unidades e executar comandos autorizados; Sistema programado, não consciente, resposta atual por inscrições no painel. Interface exibiu AUTORIDADE RECONHECIDA. AGUARDANDO INSTRUÇÕES. UM-021 permaneceu na sala, afastado do painel. Decisão local do Mestre: interface admite comunicação oral e textual no idioma anão, respostas limitadas a dados e funções disponíveis. Autoridade obtida segundo cláusula excepcional, não por prova genealógica nem pelo disco; Marca permanece com Eron, não muda permissões intrínsecas do objeto. Autenticação central não estabelece legitimidade perante possíveis habitantes/autoridades locais não contactados, não garante controle remoto, abertura de Caminhos, integridade de circuitos ou acesso seguro. Nenhum comando de distribuição emitido, níveis1/4/5 exigem inspeção, nível2 isolado, Caminhos selados, forja/Núcleo operacionais e serviços alimentados. Causa do selamento e destino populacional desconhecidos. Sem novo teste, XP, magia, deslocamento, gasto ou descanso. Ladino1/Artífice2 nível3 XP1000/2700, PV30/30 CA16, espaços2/2 Tinker4/4, inspiração disponível, 4 planos/1 magia preparada pendentes; 9 rações, carne custódia7,45kg, Luz inativa, exaustão0. Aguardar ordens do jogador."
+  immediate_visible_situation: "Dia9 02h58–03h02: jogador estabeleceu que fala exclusivamente em Anão com o Sistema, solicitou resposta vocal e informações sobre o lugar, acontecimento, duração do selamento e aposentos/cofre do Guardião. Sistema habilitou resposta vocal em Anão, voz grave metálica (representada em português na narração; não áudio real), explicou sede administrativa/energética/estratégica da união, último estado de selamento e suspensão de operações gerais, sem causa ou destino da população determináveis. Registros indicam intervalo de milênios, contagem cronológica exata indisponível; não estabelecida data absoluta. Confirmou maior das sete suítes no primeiro nível, dormitório, banheiro com água quente/fria, sala de estar, escritório conforme lore original; compartimento de segurança privativo acrescentado pelo Mestre, conteúdo e estado não verificados, não garante tesouro ou funcionamento. Autorização de cargo permite acesso, mas circuito do primeiro nível necessita inspeção. Ofereceu encaminhar unidades para verificar/preparar aposentos; aguarda decisão, nenhum comando de manutenção ainda emitido. Eron permanece junto à interface, UM-021 presente. Sistema não consciente, mecanismo programado. Forja e Núcleo operacionais, serviços alimentados, nível2 isolado, níveis1/4/5 aguardam inspeção; seis Caminhos selados. Sem testes, XP, deslocamento, gasto, magia, descanso ou mudança de condição. Ladino1/Artífice2 nível3 XP1000/2700, PV30/30 CA16, slots2/2 Tinker4/4, inspiração disponível, Luz inativa, exaustão0."
   discovered_traps:
     - location: "Trilha dos Corcos, junto ao riacho"
       state: disarmed_safe_wire_left_at_tree
@@ -277,8 +277,8 @@ world:
 transcription:
   character_creation_history: sessions/transcripts/SESSION_0001_FULL.md
   narrative_session: sessions/transcripts/SESSION_0002_FULL.md
-  last_saved_player_turn: "[363] JOGADOR — aceita sucessão e pergunta se pode falar com o Sistema."
-  last_saved_dm_turn: "[364] MESTRE — Guardião autenticado e interface disponível, Dia9 02h58."
+  last_saved_player_turn: "[365] JOGADOR — solicita resposta vocal em Anão, história, duração do selamento e aposentos."
+  last_saved_dm_turn: "[366] MESTRE — comunicação vocal habilitada, aposentos identificados, Dia9 03h02."
 notes:
   - "Primeira resposta de cena será salva literalmente e sem revelar preparativos de dm."
   - "Nunca tratar a aprovação da ficha como XP, nem mudar recursos automaticamente."
