@@ -233,21 +233,21 @@ character:
 campaign_time:
   calendar_system: "Asterion, dias relativos; nenhuma era/ano formal estabelecido"
   day: 12
-  time_of_day: "Dia 12, cerca de 08h15"
+  time_of_day: "Dia 12, cerca de 08h20"
   season: "final do outono"
-  elapsed_game_time: "Dia 12, 06h20–08h15"
+  elapsed_game_time: "Dia 12, 08h15–08h20"
 location:
   continent: Asterion
   polity: "Terras Livres de Avenhar (homebrew), fora de Valdren"
   area: "entroncamento da Estrada do Cascalho, próximo ao Pouso das Três Fontes"
   nearby: "encostas arborizadas da serra cujo monte mais alto é chamado Veyra"
-  exact_position: "Terreiro do moinho a jusante do vau."
+  exact_position: "Tomada d’água do moinho."
   travel_status: "Chegou ao moinho após deixar o pouso e vender os materiais."
 scene:
   id: OPENING-001
-  status: "mill_yard_day12"
-  current_npcs_present: ["Homem com farinha nas mangas"]
-  immediate_visible_situation: "Dia12 06h20–08h15. Chave devolvida. Sem compromisso de lebre ou pernoite. Belda compra pele 7PP, galhadas 2PP, tendões 2PP, ossos 1PP, dentes 2PC. Nessa compra orelhas 5PC. Todo restante do corço Dia11 vendido por 1PO2PP7PC. Saldo 73PO2PP4PC. Só ponta da pedra exposta no vau. Chega ao terreiro do moinho; córrego corrente, canal abaixo de marca molhada, roda parada. Trabalhador relata moagem intermitente desde ontem."
+  status: "mill_intake_day12"
+  current_npcs_present: ["Tomé, moleiro"]
+  immediate_visible_situation: "Dia12 08h20. Tomé, o moleiro, aceita ajuda e mostra a tomada d’água. Marcas da haste e do poste alinhadas, água passa pela grade, superfície treme numa lateral. Relata remoção de lã e breve retomada. Autoriza exame e oferece operar comporta se pedido. Sem teste nem diagnóstico."
   discovered_traps:
     - location: "Trilha dos Corcos, junto ao riacho"
       state: disarmed_safe_wire_left_at_tree
@@ -292,8 +292,8 @@ world:
 transcription:
   character_creation_history: sessions/transcripts/SESSION_0001_FULL.md
   narrative_session: sessions/transcripts/SESSION_0002_FULL.md
-  last_saved_player_turn: "[505] JOGADOR — venda dos restos do corço e viagem ao moinho."
-  last_saved_dm_turn: "[506] MESTRE — venda concluída e chegada ao moinho."
+  last_saved_player_turn: "[507] JOGADOR — oferece examinar o canal."
+  last_saved_dm_turn: "[508] MESTRE — Tomé mostra a comporta."
 notes:
   - "Primeira resposta de cena será salva literalmente e sem revelar preparativos de dm."
   - "Nunca tratar a aprovação da ficha como XP, nem mudar recursos automaticamente."

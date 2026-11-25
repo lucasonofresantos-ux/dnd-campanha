@@ -14796,3 +14796,33 @@ Já passa das oito quando um homem com farinha nas mangas sai pela porta lateral
 - **Condições do jogador** · 30/30 PV, CA 16, 1.400/2.700 XP. Saldo após a venda de **73 PO, 2 PP e 4 PC**.
 
 **Commit confirmado no GitHub.**
+
+## [507] JOGADOR
+
+- me falaram que o nível do canal baixou, queres que eu de um olhada?
+
+### Mestre — andamento
+
+O homem apoia a medida de grão no batente e limpa a farinha das mãos antes de te cumprimentar.
+
+## [508] MESTRE
+
+— Quero, sim. Sou Tomé, o moleiro. Vem cá que daqui dá pra ver o que me encasquetou.
+
+Ele te leva pela margem do canal até a tomada d’água, onde parte do córrego passa por uma grade de varas e entra por baixo de uma comporta. Tomé aponta duas marcas na madeira: um risco de faca na haste que levanta a comporta e outro no poste ao lado. Os riscos estão na mesma altura.
+
+— Fiz essas marcas pra acertar a abertura de manhã. Ontem, quando a roda parou, vim ver se a haste tinha descido. Tava assim mesmo. Tirei um punhado de lã preta da grade e a roda até voltou a girar. Deu tempo de eu voltar pro meu saco de centeio. Aí parou outra vez.
+
+Da margem, você vê água passando entre as varas. Atrás delas, a superfície treme junto a uma das laterais da comporta. O reflexo do céu encobre o que há por baixo.
+
+— Pode examinar à vontade. Se precisar que eu levante ou baixe a comporta, me avisa. Deixo como tá até lá.
+
+**[LOG DE MEMÓRIA DA CAMPANHA]**
+
+- **Localização atual** · Tomada d’água do moinho, Dia 12, cerca de 08h20.
+- **NPCs presentes e relação** · Tomé, o moleiro, aceitou a ajuda e está à disposição junto à comporta.
+- **Linha de missão ativa** · Investigar a perda de vazão no canal.
+- **Eventos cruciais ocorridos** · As marcas da haste e do poste estão alinhadas. Tomé relata que a roda voltou a girar por pouco tempo após a retirada da lã. A causa da falha segue em aberto.
+- **Condições do jogador** · 30/30 PV, CA 16, 1.400/2.700 XP. Saldo de **73 PO, 2 PP e 4 PC**.
+
+**Commit confirmado no GitHub.**
