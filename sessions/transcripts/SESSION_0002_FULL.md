@@ -10399,3 +10399,136 @@ UM-021 permanece junto à mesa.
 - **Condições:** 21/21 PV | CA 16 | 725/900 XP.
 
 **GitHub:** commit confirmado.
+
+
+## [343] JOGADOR
+
+- Vou passar um bom tempo aqui mas vou começar pelas crônicas e fundação, se possível o do refeitório me trazer um café da manhã agradeço
+Investigação 17
+E rolê oque mais precisar e claro com orientação nesse caso acho que encaixa
+
+## [344] MESTRE
+
+— Providenciarei a refeição — responde UM-017, deixando a biblioteca.
+
+UM-021 conduz você até as estantes das crônicas, retira alguns volumes e os deposita sobre a mesa. As páginas são frágeis, escritas em uma forma antiga do idioma anão, mas compreensível para você.
+
+<card gap={2}>
+  <caption>Investigação — Crônicas e fundação</caption>
+  <grid columns={3}>
+    <grid-item>
+      <caption>D20 informado</caption>
+      <title size="2xl">17</title>
+    </grid-item>
+    <grid-item>
+      <caption>Modificador</caption>
+      <title size="2xl">+6</title>
+    </grid-item>
+    <grid-item>
+      <caption>Orientação (1d4)</caption>
+      <title size="2xl">+2</title>
+    </grid-item>
+  </grid>
+  <divider/>
+  <row align="center">
+    **Resultado final**
+    <spacer/>
+    <title size="2xl" color="success">25</title>
+  </row>
+  <text color="success">Sucesso</text>
+</card>
+
+## Crônicas de Thûn-Khazad — O Império Esquecido
+
+<caption>Pesquisa entre 06h02 e 08h15 — Dia 8</caption>
+
+### I — A fundação
+
+Os primeiros registros descrevem seis territórios anões que, embora independentes, estabeleceram uma união política, econômica e militar. O empreendimento que consolidou essa aliança foi a construção de um centro comum nas profundezas do Monte Veyra.
+
+Esse centro recebeu o nome de **Salão dos Seis Caminhos**, tornando-se a sede do império.
+
+Em uma das primeiras crônicas, você encontra um nome particularmente familiar:
+
+**Dorrin Barba de Cobre — Primeiro Guardião dos Seis Caminhos.**
+
+Seu sobrenome é exatamente o mesmo de Gruner.
+
+### II — Os seis territórios
+
+| Território | Atividade predominante |
+|---|---|
+| Karak-Mith | Mineração |
+| Barak-Zirak | Agricultura e abastecimento |
+| Khaz-Vardun | Engenharia, forjaria e construção |
+| Dun-Khazâr | Defesa e formação militar |
+| Thoradin | Comércio e transporte marítimo |
+| Baraz-Khaz | Conhecimento e estudos rúnicos |
+
+Cada território possuía sua própria organização, especialização e representação no Conselho dos Seis.
+
+### III — O governo
+
+A autoridade máxima do império era exercida pelo **Guardião dos Seis Caminhos**, cargo hereditário da linhagem de Dorrin Barba de Cobre, auxiliado pelo Conselho dos Seis.
+
+Você encontra diversas referências à responsabilidade dos Guardiões pela preservação da unidade do império e pela proteção de sua infraestrutura.
+
+Entretanto, os documentos consultados até agora não permitem estabelecer uma ligação genealógica entre Dorrin e Gruner.
+
+### IV — A era de prosperidade
+
+Os registros descrevem aproximadamente cinco séculos de prosperidade. O império desenvolveu instalações de engenharia, sistemas de abastecimento, autômatos de manutenção e uma extensa infraestrutura subterrânea.
+
+As crônicas também mencionam guerras defensivas e confrontos contra dragões, destacando a disciplina das legiões anãs de Dun-Khazâr, apoiadas pelas máquinas construídas em Khaz-Vardun.
+
+A população registrada durante o período de prosperidade era da ordem de **30 mil habitantes**.
+
+### V — O Grande Selamento
+
+Entre os volumes consultados, as crônicas dos últimos anos estão incompletas.
+
+Contudo, uma referência chama sua atenção:
+
+**O Grande Selamento.**
+
+Os acessos do império foram fechados. As crônicas disponíveis não esclarecem a razão dessa decisão nem o destino dos habitantes.
+
+Para compreender esse acontecimento, será necessário procurar os registros administrativos correspondentes.
+
+---
+
+Durante a leitura, UM-019 chega trazendo água aquecida e uma porção de carne de corço preparada para o desjejum. Não há café, pão ou outros mantimentos frescos disponíveis.
+
+— Refeição, artesão.
+
+Ao terminar a leitura inicial, você tem diante de si os registros de uma civilização inteira que aparentemente desapareceu da história conhecida.
+
+<row align="center">
+  <box flex={1} gap={1}>
+    <caption>Experiência — Descoberta histórica significativa</caption>
+    **750/900 XP — Nível 2**
+    <box height={2} radius="full" background="surface-tertiary" clip>
+      <box height="100%" width="83.33%" background="#26925b"/>
+    </box>
+  </box>
+  <title color="success" size="xl">+25 XP</title>
+</row>
+
+UM-021 permanece disponível junto à mesa.
+
+— Deseja consultar outros registros, artesão?
+
+---
+
+**[LOG DE MEMÓRIA DA CAMPANHA]**
+
+- **Localização atual:** Arquivo administrativo, Dia 8, 08h15.
+- **NPCs presentes:** UM-021, cooperativo.
+- **Missão ativa:** Investigar o Grande Selamento e a linhagem Barba de Cobre.
+- **Eventos cruciais:** Fundação, seis territórios, estrutura política, população histórica e Grande Selamento identificados.
+- **Condições:** 21/21 PV | CA 16 | Sem exaustão.
+- **Provisões:** 9 rações e aproximadamente 7,85 kg de carne salgada sob custódia de UM-019.
+
+Orientação foi aplicada ao momento decisivo da investigação, não às duas horas inteiras de leitura. O d4 foi efetivamente executado em Python com o script do repositório e seu hash conferido. O 17 informado foi interpretado como resultado natural do d20.
+
+**GitHub:** commit confirmado; transcrição, ficha, estado, cronologia, XP e rolagens atualizados.

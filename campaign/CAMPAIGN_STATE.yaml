@@ -7,7 +7,7 @@ homebrew:
 advancement:
   method: experience_points
   milestones_do_not_grant_levels: true
-  current_total_xp: 725
+  current_total_xp: 750
   next_level_xp: 900
   level_up_pending: false
   level_up_note: "Ladino1/Artífice1; escolhas iniciais de Artífice concluídas em [312]."
@@ -21,7 +21,7 @@ character:
     Ladino: 1
     Artífice: 1
   character_level: 2
-  xp_total: 725
+  xp_total: 750
   xp_next_level: 900
   hp_current: 21
   hp_max: 21
@@ -188,9 +188,10 @@ character:
   harvested_roe_deer_day6:
     fresh_meat_kg_approx: 0
     salted_meat_kg_approx: 0
-    salted_meat_in_custody_um019_kg_approx: 8.1
+    salted_meat_in_custody_um019_kg_approx: 7.85
+    cooked_meat_served_day8_kg_approx: 0.25
     cooked_meat_consumed_day7_kg_approx: 0.4
-    salted_meat_custody_status: "Dia7 21h25: aproximadamente 0,4kg consumidos após preparo; restantes ~8,1kg mantidos salgados sob custódia UM-019."
+    salted_meat_custody_status: "Dia8: desjejum de ~0,25kg servido; ~7,85kg de carne salgada permanecem em custódia UM-019; Dia7 0,4kg consumidos."
     salted_meat_offered_on_ground_kg_approx: 2.5
     offered_meat_status: "Parcialmente lavada com água do cantil, deixada junto à loba; ingestão não confirmada."
     raw_hide: "1 pele crua salgada, não curtida"
@@ -212,9 +213,9 @@ character:
 campaign_time:
   calendar_system: "Asterion, dias relativos; nenhuma era/ano formal estabelecido"
   day: 8
-  time_of_day: "aproximadamente 06h02 do Dia 8"
+  time_of_day: "aproximadamente 08h15 do Dia 8"
   season: "final do outono"
-  elapsed_game_time: "Dia8 05h56–06h02, entrada acompanhada no arquivo administrativo."
+  elapsed_game_time: "Dia8 06h02–08h15, pesquisa das crônicas e fundação."
 location:
   continent: Asterion
   polity: "Terras Livres de Avenhar (homebrew), fora de Valdren"
@@ -225,8 +226,8 @@ location:
 scene:
   id: OPENING-001
   status: "awaiting_player_archive_research_day8"
-  current_npcs_present: ["UM-017, cooperativo", "UM-021, cooperativo"]
-  immediate_visible_situation: "Dia8 05h56–06h02: Eron comentou que trazer Gruner demoraria e solicitou condução ao arquivo. UM-021 disse que presença de Gruner permitiria tentativa de identificação, sem assegurar autoridade, e conduziu Eron e UM-017 pelo acesso administrativo, galeria de aproximadamente20m ornamentada, colunas polidas e inscrições preenchidas de metal dourado. Abriu porta lateral do arquivo administrativo do Salão dos Seis Caminhos, ampla biblioteca com centenas de livros, pergaminhos e placas metálicas em estantes de pedra, algumas prateleiras desabadas e aparente preservação parcial. Mesa central com mapa gravado, seis símbolos ao redor de montanha. UM-021 identificou seis classificações: Crônicas e fundação de Thûn-Khazad; Territórios e cartografia; Guardiões e Conselho dos Seis; Engenharia e infraestrutura; Registros populacionais; Ordens e acontecimentos administrativos. Alertou sobre deterioração e restrições de consulta, perguntou por onde começar. Eron presente no arquivo com UM-021 e UM-017; nenhuma leitura, investigação minuciosa, coleta ou autenticação adicional; acesso acompanhado não implica autoridade nem acesso irrestrito. Decisões locais de cenário: configuração da galeria, biblioteca, mapa não interpretado e classificação de acervo, sem determinar causa do selamento ou destino dos habitantes. Não conceder XP apenas por deslocamento rotineiro; reavaliar descobertas substantivas quando pesquisadas. Nenhuma rolagem, magia, dano, combate ou gasto. PV21/21 CA16 XP725/900, Luz inativa, Marca em posse de Eron, 9 rações e ~8,1kg de carne sob custódia UM-019."
+  current_npcs_present: ["UM-021, cooperativo"]
+  immediate_visible_situation: "Dia8 06h02–08h15: jogador solicitou pesquisa longa começando pelas crônicas e fundação, desjejum entregue pelo refeitório, informou Investigação17 e autorizou demais dados e Orientação. UM-017 saiu para providenciar refeição; UM-021 trouxe volumes em Anão arcaico legível. Investigação 1d20+6 [17] dado natural informado pelo jogador =23, Orientação 1d4 [2] =25, sucesso CD15, conjurada no momento decisivo da localização/interpretação, não durante pesquisa inteira; sem vantagem, nenhum slot ou Tinker gasto. Execução REAL container.exec /tmp/eron_343_dice.py: git hash-object d35af70119bf684ea055619bb10678a1c4b03bbb conferido com test, Python JSON expression 1d4 rolls [2] kept_indices [0] modifier0 total2. Nenhum outro dado necessário. Crônicas revelaram união de seis territórios, Salão dos Seis Caminhos sob Monte Veyra, Dorrin Barba de Cobre primeiro Guardião, linhagem hereditária e Conselho dos Seis, Karak-Mith mineração, Barak-Zirak agricultura/abastecimento, Khaz-Vardun engenharia/forjaria/construção, Dun-Khazâr defesa, Thoradin comércio/transporte marítimo, Baraz-Khaz conhecimento/runas; ~500 anos prosperidade, ~30 mil habitantes, autômatos e infraestrutura, guerras defensivas e dragões enfrentados pelas legiões anãs com apoio das máquinas; Grande Selamento fechou acessos, crônicas finais incompletas, motivo e destino dos habitantes não estabelecidos, nenhuma genealogia Gruner-Dorrin confirmada. UM-019 trouxe água aquecida e porção de 0,25kg de carne preparada (servida; consumo não explicitamente declarado), sem outros mantimentos frescos ou café, estoque em custódia 8,1→7,85kg aproximadamente; rações9. +25XP descoberta histórica substantiva distinta, total750/900 nível2. UM-021 presente, demais unidades não presentes. Eron permanece à mesa no arquivo; outras categorias não pesquisadas, nenhum documento recolhido, Luz inativa, nenhuma concentração restante, PV21/21 CA16, slots2/2 Tinker4/4, inspiração disponível, exaustão0. Horário, porção e organização das crônicas adjudicados pelo Mestre segundo bíblia canônica; não revelar causa definitiva do Selamento, mecanismo dos Caminhos ou genealogia sem evidência. Nenhum combate, dano ou novo descanso."
   discovered_traps:
     - location: "Trilha dos Corcos, junto ao riacho"
       state: disarmed_safe_wire_left_at_tree
@@ -251,8 +252,8 @@ scene:
   combat: false
   initiative: []
   rounds: 0
-  dice_rolled: false
-  xp_awarded: false
+  dice_rolled: true
+  xp_awarded: true
   reward_offered_but_not_accepted: null
   herd_contract_status: "Concluído Dia5 ~11h55; Mara confirmou três noites sem perdas, pagou 12 PO; +50 XP de resolução substantiva, reputação gratidão e respeito."
   investigation_offer: null
@@ -271,8 +272,8 @@ world:
 transcription:
   character_creation_history: sessions/transcripts/SESSION_0001_FULL.md
   narrative_session: sessions/transcripts/SESSION_0002_FULL.md
-  last_saved_player_turn: "[341] JOGADOR — solicita condução ao arquivo."
-  last_saved_dm_turn: "[342] MESTRE — chegada ao arquivo administrativo, Dia8 06h02."
+  last_saved_player_turn: "[343] JOGADOR — pesquisa crônicas, pede desjejum e informa Investigação17 com Orientação."
+  last_saved_dm_turn: "[344] MESTRE — crônicas e fundação consultadas, Grande Selamento conhecido, XP750, Dia8 08h15."
 notes:
   - "Primeira resposta de cena será salva literalmente e sem revelar preparativos de dm."
   - "Nunca tratar a aprovação da ficha como XP, nem mudar recursos automaticamente."

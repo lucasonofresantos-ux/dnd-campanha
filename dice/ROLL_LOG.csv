@@ -374,3 +374,5 @@ date,campaign_id,stage,attempt,expression,six_rolls_faces_in_order,six_attribute
 2026-11-24,ERON-RIVER-ASTERION-001,investigation_dormitories_day7,2,1d20+6,"13","13+6",19,true
 2026-11-24,ERON-RIVER-ASTERION-001,audit_unverified_perception_dormitories_day7,2,1d20+7,"1","1+7",8,false
 2026-11-24,ERON-RIVER-ASTERION-001,audit_unverified_investigation_dormitories_day7,2,1d20+6,"13","13+6",19,false
+2026-11-25,ERON-RIVER-ASTERION-001,player_investigation_foundation_chronicles_day8,2,1d20+6,"17","17+6",23,true
+2026-11-25,ERON-RIVER-ASTERION-001,guidance_foundation_chronicles_day8,2,1d4,"2","23+2=25 (combined check)",2,true
