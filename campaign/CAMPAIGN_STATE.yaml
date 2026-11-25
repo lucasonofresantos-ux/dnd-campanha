@@ -7,7 +7,7 @@ homebrew:
 advancement:
   method: experience_points
   milestones_do_not_grant_levels: true
-  current_total_xp: 1400
+  current_total_xp: 1425
   next_level_xp: 2700
   level_up_pending: false
   level_up_note: "Nível total3 confirmado: Ladino1/Artífice2. Três planos e uma magia de 1º círculo pendentes; Bolsa Porta-Tudo criada."
@@ -21,7 +21,7 @@ character:
     Ladino: 1
     Artífice: 2
   character_level: 3
-  xp_total: 1400
+  xp_total: 1425
   xp_next_level: 2700
   hp_current: 30
   hp_max: 30
@@ -233,9 +233,9 @@ character:
 campaign_time:
   calendar_system: "Asterion, dias relativos; nenhuma era/ano formal estabelecido"
   day: 12
-  time_of_day: "Dia 12, cerca de 08h20"
+  time_of_day: "Dia 12, cerca de 08h35"
   season: "final do outono"
-  elapsed_game_time: "Dia 12, 08h15–08h20"
+  elapsed_game_time: "Dia 12, 08h20–08h35"
 location:
   continent: Asterion
   polity: "Terras Livres de Avenhar (homebrew), fora de Valdren"
@@ -247,7 +247,7 @@ scene:
   id: OPENING-001
   status: "mill_intake_day12"
   current_npcs_present: ["Tomé, moleiro"]
-  immediate_visible_situation: "Dia12 08h20. Tomé, o moleiro, aceita ajuda e mostra a tomada d’água. Marcas da haste e do poste alinhadas, água passa pela grade, superfície treme numa lateral. Relata remoção de lã e breve retomada. Autoriza exame e oferece operar comporta se pedido. Sem teste nem diagnóstico."
+  immediate_visible_situation: "Dia12 08h35. Investigação [17]+6 e Orientação [2]=25. Tecido de lã preta com bainha sobre galho entalado retém detritos na abertura. Levantar temporariamente restabelece fluxo e soltar reproduz falha. Tomé testemunha. Origem e remoção pendentes. +25 XP, total 1425."
   discovered_traps:
     - location: "Trilha dos Corcos, junto ao riacho"
       state: disarmed_safe_wire_left_at_tree
@@ -292,8 +292,8 @@ world:
 transcription:
   character_creation_history: sessions/transcripts/SESSION_0001_FULL.md
   narrative_session: sessions/transcripts/SESSION_0002_FULL.md
-  last_saved_player_turn: "[507] JOGADOR — oferece examinar o canal."
-  last_saved_dm_turn: "[508] MESTRE — Tomé mostra a comporta."
+  last_saved_player_turn: "[509] JOGADOR — autoriza investigação com Orientação."
+  last_saved_dm_turn: "[510] MESTRE — obstrução diagnosticada."
 notes:
   - "Primeira resposta de cena será salva literalmente e sem revelar preparativos de dm."
   - "Nunca tratar a aprovação da ficha como XP, nem mudar recursos automaticamente."

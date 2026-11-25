@@ -234,3 +234,5 @@
 - [506] Dia12 06h20–08h15. Chave devolvida. Sem compromisso de lebre ou pernoite. Belda compra pele 7PP, galhadas 2PP, tendões 2PP, ossos 1PP, dentes 2PC. Nessa compra orelhas 5PC. Todo restante do corço Dia11 vendido por 1PO2PP7PC. Saldo 73PO2PP4PC. Só ponta da pedra exposta no vau. Chega ao terreiro do moinho; córrego corrente, canal abaixo de marca molhada, roda parada. Trabalhador relata moagem intermitente desde ontem.
 
 - [508] Dia12 08h20. Tomé, o moleiro, aceita ajuda e mostra a tomada d’água. Marcas da haste e do poste alinhadas, água passa pela grade, superfície treme numa lateral. Relata remoção de lã e breve retomada. Autoriza exame e oferece operar comporta se pedido. Sem teste nem diagnóstico.
+
+- [510] Dia12 08h35. Investigação [17]+6 e Orientação [2]=25. Tecido de lã preta com bainha sobre galho entalado retém detritos na abertura. Levantar temporariamente restabelece fluxo e soltar reproduz falha. Tomé testemunha. Origem e remoção pendentes. +25 XP, total 1425.

@@ -14826,3 +14826,33 @@ Da margem, você vê água passando entre as varas. Atrás delas, a superfície 
 - **Condições do jogador** · 30/30 PV, CA 16, 1.400/2.700 XP. Saldo de **73 PO, 2 PP e 4 PC**.
 
 **Commit confirmado no GitHub.**
+
+## [509] JOGADOR
+
+Role oque precisar até descobrir por que o canal baixou e diminuíu o fluxo e pode usar orientação também
+
+### Mestre — andamento
+
+Tomé mantém a comporta na marca enquanto Eron usa Orientação e examina a corrente dos dois lados da grade.
+
+## [510] MESTRE
+
+**Investigação com Orientação** · `1d20+6` → [17] + 6 = 23. `1d4` → [2]. **Total 25.**
+
+Uma folha passa pela grade e fica presa debaixo da comporta. Depois vem outra. As duas somem no mesmo ponto, embora haja espaço de sobra entre as varas. Você pede a Tomé que erga a comporta um palmo. A madeira sobe, mas uma borda escura continua atravessada no fundo. Tomé te alcança a vara com que costuma limpar a grade.
+
+**É um pedaço de tecido grosso, dobrado sobre um galho entalado entre a grade e a comporta.** Você levanta uma ponta com a vara. Dá para ver os fios de lã preta cruzados na trama e uma bainha costurada. Por baixo da dobra, folhas e gravetos ficaram prensados. Enquanto você mantém o tecido erguido, a água passa, as duas folhas seguem pelo canal e, pouco depois, a roda dá meia volta. Quando você alivia a vara, a corrente estende o pano de novo contra a abertura. O nível começa a cair diante de vocês.
+
+— Então era a beirada disso que vinha na minha mão — diz Tomé. Ele se agacha para ver a costura. — E eu catando tufo por tufo desde ontem.
+
+Você descobriu por que a moagem falhava. Ao mexer na lã, Tomé abria passagem por alguns instantes. O galho continuava preso, e a corrente tornava a fechar a passagem com o tecido. O pano segue no lugar. A bainha mostra que é uma peça trabalhada, mas ainda não há sinal de como ela chegou ali.
+
+**[LOG DE MEMÓRIA DA CAMPANHA]**
+
+- **Localização atual** · Tomada d’água do moinho, Dia 12, cerca de 08h35.
+- **NPCs presentes e relação** · Tomé ajudou no exame e viu a roda responder ao teste.
+- **Linha de missão ativa** · Causa da baixa no canal identificada. Desobstrução definitiva e origem do tecido em aberto.
+- **Eventos cruciais ocorridos** · Eron isolou a obstrução e reproduziu a falha. **+25 XP** pela investigação.
+- **Condições do jogador** · 30/30 PV, CA 16, **1.425/2.700 XP**. Dois espaços de 1º círculo disponíveis. Saldo de 73 PO, 2 PP e 4 PC.
+
+**Commit confirmado no GitHub.**

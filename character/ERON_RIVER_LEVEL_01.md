@@ -597,3 +597,5 @@ Dia10 16h59–17h20: Eron acompanha os dois vigias na escolta de Berric até Iri
 - [502] Dia 11–12. Eron toma banho, dorme no quarto 3, completa descanso longo (20h30–04h30), acorda cedo, desce e toma café da manhã oferecido por Alda, sem despesa. Dia 12, 06h15 no salão, Alda à mesa.
 
 - [506] Dia12 06h20–08h15. Chave devolvida. Sem compromisso de lebre ou pernoite. Belda compra pele 7PP, galhadas 2PP, tendões 2PP, ossos 1PP, dentes 2PC. Nessa compra orelhas 5PC. Todo restante do corço Dia11 vendido por 1PO2PP7PC. Saldo 73PO2PP4PC. Só ponta da pedra exposta no vau. Chega ao terreiro do moinho; córrego corrente, canal abaixo de marca molhada, roda parada. Trabalhador relata moagem intermitente desde ontem.
+
+- [510] Dia12 08h35. Investigação [17]+6 e Orientação [2]=25. Tecido de lã preta com bainha sobre galho entalado retém detritos na abertura. Levantar temporariamente restabelece fluxo e soltar reproduz falha. Tomé testemunha. Origem e remoção pendentes. +25 XP, total 1425.
