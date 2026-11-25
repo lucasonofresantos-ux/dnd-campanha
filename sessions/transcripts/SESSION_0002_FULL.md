@@ -13600,3 +13600,45 @@ Ele aponta na direção da estrada.
 **Nota do Mestre:** Tavin confirmou a proposta de quitação da dívida, mas não uma ameaça explícita. O local e a descrição foram definidos pelo Mestre. Nenhuma nova rolagem ou alteração de recursos.
 
 **GitHub:** commit confirmado.
+
+## [433] JOGADOR
+
+- obrigado
+Vou a até quem me contratou e passar o relatório
+
+## [434] MESTRE
+
+## Dia 10 — 16h30 | Posto da Vigília
+
+Iria ouve atentamente seu relatório, anotando a confissão de Tavin, a questão da dívida, os vestígios encontrados no depósito e a identificação de Berric.
+
+— Então foi alguém de dentro. Bom trabalho, Eron. Vou registrar que Tavin colaborou voluntariamente. Quanto à dívida, vamos apurar as circunstâncias antes de decidir o que fazer com ele.
+
+Ela chama dois vigias e transmite a descrição da carroça e a localização do galpão.
+
+— Vão ao pátio dos carreteiros e localizem esse Berric.
+
+Iria abre uma gaveta, conta oito moedas de ouro e as coloca sobre a mesa.
+
+— Você cumpriu sua parte. A recuperação das mercadorias fica conosco. Se aparecer outro serviço, deixarei um recado na ferraria.
+
+### Missão concluída — Mercadorias desaparecidas
+
+- Recompensa: **+8 PO**
+- Experiência: **+50 XP**
+- Patrimônio pessoal: **68 PO, 8 PP e 7 PC**
+- Progressão: **1.375 / 2.700 XP**
+
+---
+
+**[LOG DE MEMÓRIA DA CAMPANHA]**
+
+- **Localização atual:** Posto da Vigília, Dia 10, 16h30.
+- **NPCs presentes e relação:** Iria, amistosa e satisfeita.
+- **Linha de missão ativa:** Restauração de Thûn-Khazad; contrato de investigação concluído.
+- **Eventos cruciais:** Relatório entregue, recompensa recebida e vigias enviados para localizar Berric.
+- **Condições:** 30/30 PV | CA 16 | Nível 3 | 1.375/2.700 XP | 23 flechas.
+
+**Nota do Mestre:** concedidos 50 XP pela investigação completa, sem duplicação. A captura de Berric e a recuperação das caixas ainda não foram confirmadas. Nenhuma nova rolagem.
+
+**GitHub:** commit confirmado.
