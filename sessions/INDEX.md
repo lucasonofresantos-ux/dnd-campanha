@@ -224,3 +224,5 @@
 - [496] Dia 11, cerca de 16h25. Alda aceita jantar, banho quente e mais uma noite no quarto 3 mediante entrega de um costelar de corço com carne para seis pratos. Caça menor sujeita a nova avaliação. Eron mantém chave; sem entrega, consumo ou pagamento.
 
 - [498] Dia 11, 16h25–19h10. Caça na Trilha dos Corços: Sobrevivência 25, Furtividade 22, ataque crítico 27, dano 16, aproveitamento 21. Flecha recuperada intacta. Pele salgada (1 kg consumido, 1,2 kg restante), duas orelhas, duas galhadas, quatro ossos longos, dois feixes de tendões e dentes em posse. 11 kg de carne incluindo costelar, mais coração e fígado entregues a Alda. Troca quitada, jantar servido ainda não consumido, banho aquecendo e quarto 3 garantido.
+
+- [500] Dia 11, 19h10–19h35. Jantar consumido. Alda oferece café da manhã Dia12, banho pronto. Percepção [18]+7=25: nenhum sinal de vigilância; mulher com punho manchado de azul relata canal baixo ontem ao entardecer enquanto moleiro estava à porta de Celina. Ela e companheiro continuam à janela.

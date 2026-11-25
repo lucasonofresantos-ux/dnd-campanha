@@ -105,7 +105,7 @@ character:
     status: completed
     remaining_materials_location: "Materiais do projeto consumidos; 20 flechas concluídas; nenhuma sobra estabelecida."
   accommodation:
-    day11_barter: "Quitada: jantar servido, banho aquecendo e quarto 3 reservado."
+    day11_barter: "Quitada. Jantar consumido, banho pronto, quarto 3 para esta noite. Café da manhã do Dia 12 oferecido."
     inn: "Posto de Descanso de Alda Tress"
     private_room: 3
     room_paid: true
@@ -233,9 +233,9 @@ character:
 campaign_time:
   calendar_system: "Asterion, dias relativos; nenhuma era/ano formal estabelecido"
   day: 11
-  time_of_day: "Dia 11, cerca de 19h10"
+  time_of_day: "Dia 11, cerca de 19h35"
   season: "final do outono"
-  elapsed_game_time: "Dia 11, 16h25–19h10"
+  elapsed_game_time: "Dia 11, 19h10–19h35"
 location:
   continent: Asterion
   polity: "Terras Livres de Avenhar (homebrew), fora de Valdren"
@@ -246,8 +246,8 @@ location:
 scene:
   id: OPENING-001
   status: "alda_inn_afternoon_day11"
-  current_npcs_present: ["Alda Tress"]
-  immediate_visible_situation: "Dia 11, 16h25–19h10. Caça na Trilha dos Corços: Sobrevivência 25, Furtividade 22, ataque crítico 27, dano 16, aproveitamento 21. Flecha recuperada intacta. Pele salgada (1 kg consumido, 1,2 kg restante), duas orelhas, duas galhadas, quatro ossos longos, dois feixes de tendões e dentes em posse. 11 kg de carne incluindo costelar, mais coração e fígado entregues a Alda. Troca quitada, jantar servido ainda não consumido, banho aquecendo e quarto 3 garantido."
+  current_npcs_present: ["Alda Tress", "Mulher de punho azul", "Companheiro da mulher", "Homem grisalho"]
+  immediate_visible_situation: "Dia 11, 19h10–19h35. Jantar consumido. Alda oferece café da manhã Dia12, banho pronto. Percepção [18]+7=25: nenhum sinal de vigilância; mulher com punho manchado de azul relata canal baixo ontem ao entardecer enquanto moleiro estava à porta de Celina. Ela e companheiro continuam à janela."
   discovered_traps:
     - location: "Trilha dos Corcos, junto ao riacho"
       state: disarmed_safe_wire_left_at_tree
@@ -292,8 +292,8 @@ world:
 transcription:
   character_creation_history: sessions/transcripts/SESSION_0001_FULL.md
   narrative_session: sessions/transcripts/SESSION_0002_FULL.md
-  last_saved_player_turn: "[497] JOGADOR — autoriza caça, saque, salga e entrega."
-  last_saved_dm_turn: "[498] MESTRE — caça e troca concluídas."
+  last_saved_player_turn: "[499] JOGADOR — janta e observa salão."
+  last_saved_dm_turn: "[500] MESTRE — conversa sobre o canal."
 notes:
   - "Primeira resposta de cena será salva literalmente e sem revelar preparativos de dm."
   - "Nunca tratar a aprovação da ficha como XP, nem mudar recursos automaticamente."

@@ -14683,3 +14683,32 @@ Ela recebe toda a carne e te serve ensopado de feijão com uma ponta de linguiç
 - **Condições do jogador** · 30/30 PV, CA 16, 1.400/2.700 XP. **30 flechas**. Saldo de **71 PO, 9 PP e 7 PC**. Jantar servido, banho e quarto 3 garantidos.
 
 **Commit confirmado no GitHub.**
+
+## [499] JOGADOR
+
+- era carne para seis pratos, aí dá uma semana, acho que ganho mais uma noite kkkkkk brincando mas se eu matar mais alguma coisa trago para você
+E como oque der e rolê percepção para o salão, se tem alguém me observando ou pego alguma conversa
+
+### Mestre — andamento
+
+Alda ri e puxa um banco para você jantar. Vou rolar Percepção para ver o que Eron consegue notar e ouvir do lugar onde está.
+
+## [500] MESTRE
+
+— Uma semana? Você nunca viu esse povo repetir prato quando tem carne. — Alda põe mais uma concha de feijão na tua tigela. — Mas foi generoso, Eron. Amanhã o café é por minha conta. E, se trouxer outro corço, a gente pesa antes de acertar o preço.
+
+**Percepção no salão** · `1d20+7` → [18] + 7 = **25**.
+
+Enquanto você janta, um homem de barba grisalha olha duas vezes na tua direção. Na segunda, você acompanha os olhos dele até a travessa que Alda leva atrás do teu banco. Ele ergue a tigela vazia, ela o serve e ele volta a comer. Durante a refeição, você não nota ninguém mantendo os olhos em você.
+
+Da mesa junto à janela, entre uma colherada e outra, chega uma conversa que as vozes perto do balcão quase encobrem. Uma mulher com o punho da camisa manchado de azul diz ao companheiro: “Eu tava enxaguando os panos quando a água do canal baixou. Deu pra ver o fundo. O moleiro ainda tava lá em cima, batendo na porta da Celina.” O homem pergunta a que horas foi. “Ontem, pouco antes de escurecer. Tive que ir enxaguar o resto no córrego.” Os dois continuam à mesa quando você termina de comer. Alda passa por ti e avisa que o banho está pronto.
+
+**[LOG DE MEMÓRIA DA CAMPANHA]**
+
+- **Localização atual** · Salão da hospedagem de Alda, Dia 11, cerca de 19h35.
+- **NPCs presentes e relação** · Alda, amistosa. A mulher de punho azul e o companheiro estão junto à janela.
+- **Linha de missão ativa** · A pista do moinho continua em aberto.
+- **Eventos cruciais ocorridos** · Eron ouviu uma mulher relatar que o canal baixou ontem ao entardecer enquanto ela via o moleiro à porta de Celina. Nenhum sinal perceptível de vigilância durante o jantar.
+- **Condições do jogador** · Jantou. Banho pronto, quarto 3 reservado para esta noite e café de amanhã oferecido por Alda. 30/30 PV, CA 16, 1.400/2.700 XP. Saldo de **71 PO, 9 PP e 7 PC**.
+
+**Commit confirmado no GitHub.**
