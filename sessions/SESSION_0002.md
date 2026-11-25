@@ -385,3 +385,5 @@ Auditoria [270]: no histórico não consta execução efetiva Python para Percep
 - [536] Dia12 16h50. Alda aceita ~4kg carne de lebre por jantar, banho quente e pernoite no quarto 3 até Dia13. Carne entregue e chave com Eron. Sem pagamento em moedas; nenhum serviço ainda usufruído. Miúdos com Eron.
 
 - [538] Dia12 17h05. Eron saiu da hospedagem e chegou à ferraria. Balança funciona na venda de cobre. Durnak entrega bilhete de Iria, que achou outra denúncia de comerciante diferente e quer conferir detalhe da entrega das caixas; disponível no posto hoje até anoitecer ou amanhã após troca da guarda. Sem compromisso assumido.
+
+- [540] Dia12 17h15. Eron chega ao posto da Vigília. Iria apresenta ocorrência três semanas antes do caso Neral: outro comerciante, quatro caixas recebidas, uma ausente pela manhã, fechadura íntegra. Encarregado declarou que carreteiro sem nome retornou após fechar para acertar uma conta. Iria pergunta se Tavin relatou origem ou data da dívida; detalhes não registrados. Vínculo entre casos incerto.

@@ -15264,3 +15264,33 @@ Ele te entrega um bilhete dobrado. Na letra de Iria, lê-se: *“Eron, achei out
 - **Condições do jogador** · 30/30 PV, CA 16, 1.450/2.700 XP. Saldo de **73 PO, 9 PP e 3 PC**. Chave do quarto 3 em mãos. Jantar e banho reservados com Alda.
 
 **Commit confirmado no GitHub.**
+
+## [539] JOGADOR
+
+- Não, vim só ver como estava e ver se tinha um recado, vou lá ver isso com a iria
+
+### Mestre — andamento
+
+— Boa, Eron. Se ela passar aqui de novo, digo que você já pegou o bilhete. — Durnak levanta a mão em despedida.
+
+## [540] MESTRE
+
+Você chega ao posto da Vigília ainda com luz na rua. Iria está com dois registros abertos sobre a mesa. Ao ver o bilhete na tua mão, ela puxa um banco com o pé.
+
+— Fiz o que você sugeriu, Eron. Olha essa entrega aqui. Outro comerciante, três semanas antes do caso de Neral. O encarregado assinou que recebeu quatro caixas. Na manhã seguinte só tinha três, e a fechadura estava inteira. Até aí, podia ser erro de conta. Foi essa frase que me fez te chamar.
+
+Ela vira o registro para você. Na margem, em letra menor que a do resto do depoimento, alguém anotou as palavras do encarregado: *“O carreteiro voltou depois de eu fechar. Disse que faltava acertar uma conta nossa.”* A linha seguinte já trata do valor da mercadoria. O nome do carreteiro ficou em branco.
+
+— No teu relatório consta que Berric ofereceu quitar a dívida de Tavin pelas duas caixas. Aqui, “acertar uma conta” pode ser até cobrar um frete atrasado. Quero começar por quem abriu a porta. Quando você conversou com Tavin, ele te disse **de onde vinha a dívida ou havia quanto tempo devia a Berric**?
+
+Iria pousa a pena para te ouvir. Você se lembra de Tavin admitir a dívida particular e explicar a proposta de Berric. A origem e a data da dívida ficaram fora do depoimento.
+
+**[LOG DE MEMÓRIA DA CAMPANHA]**
+
+- **Localização atual** · Posto da Vigília, Pouso das Três Fontes. Dia 12, cerca de 17h15.
+- **NPCs presentes e relação** · Iria, que pediu a Eron ajuda para comparar os depoimentos.
+- **Linha de missão ativa** · Verificar se há ligação entre a ocorrência anterior e o caso de Neral. O carreteiro do primeiro registro ainda não foi identificado.
+- **Eventos cruciais ocorridos** · Iria mostrou a anotação sobre o retorno de um carreteiro após o fechamento e perguntou o que Tavin revelou sobre a dívida.
+- **Condições do jogador** · 30/30 PV, CA 16, 1.450/2.700 XP. Saldo de 73 PO, 9 PP e 3 PC. Jantar, banho e quarto 3 garantidos na hospedagem de Alda.
+
+**Commit confirmado no GitHub.**
