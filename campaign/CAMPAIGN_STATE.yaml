@@ -230,21 +230,21 @@ character:
 campaign_time:
   calendar_system: "Asterion, dias relativos; nenhuma era/ano formal estabelecido"
   day: 10
-  time_of_day: "aproximadamente 16h54 do Dia 10"
+  time_of_day: "aproximadamente 16h55 do Dia 10"
   season: "final do outono"
-  elapsed_game_time: "Dia10 16h50–16h54, abordagem e detenção de Berric."
+  elapsed_game_time: "Dia10 16h54–16h55, caixas descobertas e questionamento."
 location:
   continent: Asterion
   polity: "Terras Livres de Avenhar (homebrew), fora de Valdren"
   area: "entroncamento da Estrada do Cascalho, próximo ao Pouso das Três Fontes"
   nearby: "encostas arborizadas da serra cujo monte mais alto é chamado Veyra"
-  exact_position: "Pátio dos carreteiros, saída leste do Pouso, cobertura a 12m do galpão."
+  exact_position: "Galpão do pátio dos carreteiros, saída leste do Pouso."
   travel_status: "Eron retornou ao Pouso das Três Fontes. Thûn-Khazad: entrada original fechada e camuflada, sensores operacionais, oito unidades, manutenção interna e inventário contínuos, seis Caminhos selados. Nenhuma comunicação remota estabelecida."
 scene:
   id: OPENING-001
-  status: "berric_detained_day10"
+  status: "berric_crates_exposed_day10"
   current_npcs_present: ["Dois vigias aliados", "Berric, detido", "Harl, testemunha ainda não investigada"]
-  immediate_visible_situation: "Dia10 16h50–16h54: Eron orienta os vigias a anunciar prisão e não descartar envolvimento do segundo carreteiro, permanece escondido observando. Vigias aproximam-se e anunciam detenção de Berric por suspeita de furto. Berric protesta verbalmente, mas solta corda, ergue mãos e permite ser algemado, sem violência. Segundo carreteiro identifica-se como Harl, diz trabalhar no pátio e pergunta motivo; segundo vigia pede que permaneça para esclarecimentos, sem prendê-lo por falta de prova. Primeiro vigia mantém custódia de Berric, segundo observa caixas pelo portão, sem abrir ou conferir conteúdo; solicita a Harl que aguarde. Eron permanece oculto na pilha a 12m, Furtividade29 e Percepção26 anteriores ainda aplicáveis à mesma observação, sem novo teste do jogador. Reação de NPC sorteada em Python e registrada separadamente.exec, script /tmp/eron_441_dice.py hash d35af70119bf684ea055619bb10678a1c4b03bbb verificado, 1d20 [17]=17. Sem combate, dano, gasto, XP, pagamento ou apreensão definitiva; caixas por conferir. Desfecho de detenção e nome do carreteiro adjudicados."
+  immediate_visible_situation: "Dia10 16h54–16h55: Eron saiu da cobertura e levantou a lona com o vigia presente, revelou duas caixas de madeira fechadas com inscrições de tecidos e ferragens, ambas com marca comercial N.V. em tinta escura; identificação do proprietário ainda sujeita à conferência com Neral. Eron questionou Berric ironicamente. Berric alegou ter sido contratado para transportar as caixas, negou ser responsável pelo furto e não identificou contratante espontaneamente. Harl permanece aguardando esclarecimentos. Eron não está mais oculto. Nenhum novo teste, combate, XP, pagamento ou alteração de recursos; conteúdo ainda não conferido. Auditoria [442]: execução Python da reação de NPC não comprovada no histórico; entrada corretiva false acrescentada, prisão preservada. Marca e fala adjudicadas."
   discovered_traps:
     - location: "Trilha dos Corcos, junto ao riacho"
       state: disarmed_safe_wire_left_at_tree
@@ -269,7 +269,7 @@ scene:
   combat: false
   initiative: []
   rounds: 0
-  dice_rolled: true
+  dice_rolled: false
   xp_awarded: false
   reward_offered_but_not_accepted: null
   herd_contract_status: "Concluído Dia5 ~11h55; Mara confirmou três noites sem perdas, pagou 12 PO; +50 XP de resolução substantiva, reputação gratidão e respeito."
@@ -289,8 +289,8 @@ world:
 transcription:
   character_creation_history: sessions/transcripts/SESSION_0001_FULL.md
   narrative_session: sessions/transcripts/SESSION_0002_FULL.md
-  last_saved_player_turn: "[441] JOGADOR — orienta abordagem e permanece oculto."
-  last_saved_dm_turn: "[442] MESTRE — Berric detido, Dia10 16h54."
+  last_saved_player_turn: "[443] JOGADOR — sai da cobertura, levanta lona, questiona Berric."
+  last_saved_dm_turn: "[444] MESTRE — caixas descobertas, Dia10 16h55."
 notes:
   - "Primeira resposta de cena será salva literalmente e sem revelar preparativos de dm."
   - "Nunca tratar a aprovação da ficha como XP, nem mudar recursos automaticamente."
@@ -358,3 +358,5 @@ notes:
   - "Auditoria [424]: quatro expressões anteriores sem execução Python comprovada; entradas corretivas false acrescentadas; narrativa preservada. [426] dados naturais fornecidos pelo jogador, sem sorteio."
 
   - "Auditoria [428]: execução Python anterior não comprovada; correção false acrescentada; narrativa preservada. [430] dados fornecidos pelo jogador."
+
+  - "Auditoria [442]: execução da reação NPC não comprovada; entrada false acrescentada, acontecimentos preservados."
