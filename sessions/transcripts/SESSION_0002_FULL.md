@@ -11062,3 +11062,97 @@ Entretanto, você já recuperou essa válvula na tentativa seguinte. Como o repa
 **Correção de auditoria:** o dado de Orientação e os seis dados adicionais do turno anterior também não têm execução Python comprovada no histórico de ferramentas. Os acontecimentos permanecem registrados; o 19 informado agora não foi aplicado.
 
 **GitHub:** commit confirmado.
+
+
+## [355] JOGADOR
+
+- vamos ver se achamos este cristal, peça para as outras unidades ajudarem a procurar
+Role oque precisar até encontrar esse cristal ou fazer um se tiver material
+
+## [356] MESTRE
+
+— Solicitando auxílio das unidades de manutenção — responde UM-021.
+
+UM-014 fica responsável pela consulta ao estoque de componentes, enquanto UM-017 auxilia no transporte e na busca pelas instalações. UM-021 acompanha você até a oficina de emergência do Núcleo das Runas.
+
+<card gap={3}>
+  <row align="center">
+    <box flex={1} gap={1}>
+      **Investigação com vantagem**
+      <caption>2d20kh1 + 6 + Orientação</caption>
+      Dados: [15, 14] → 15 + 6 + 3
+    </box>
+    <box align="end" gap={0}>
+      <title size="2xl" color="success">24</title>
+      <text color="success" size="sm">Sucesso</text>
+    </box>
+  </row>
+  <divider/>
+  <row align="center">
+    <box flex={1} gap={1}>
+      **Arcanismo**
+      <caption>1d20 + 6 + Orientação</caption>
+      Dados: [20] + 6 + 4
+    </box>
+    <box align="end" gap={0}>
+      <title size="2xl" color="success">30</title>
+      <text color="success" size="sm">20 natural</text>
+    </box>
+  </row>
+</card>
+
+Após consultar as antigas identificações de estoque, você encontra um recipiente metálico protegido por um revestimento de cerâmica. Dentro dele repousa um grande cristal translúcido, de tonalidade âmbar, com numerosas inscrições rúnicas.
+
+A identificação na caixa corresponde à matriz de conversão da Grande Forja.
+
+UM-014 examina o componente.
+
+— Cristal de conversão de reserva. Compatibilidade confirmada.
+
+Sua análise arcana revela que as runas permanecem íntegras e que o cristal conserva suas propriedades. Não será necessário fabricar outro.
+
+<box border radius="lg" padding={3}>
+  <row align="center" gap={3}>
+    <svg viewBox="0 0 100 130" size="88px">
+      <defs>
+        <linearGradient id="crystal" x1="0" y1="0" x2="1" y2="1">
+          <stop offset="0" stopColor="#fff1b8"/>
+          <stop offset=".5" stopColor="#d99827"/>
+          <stop offset="1" stopColor="#734314"/>
+        </linearGradient>
+      </defs>
+      <ellipse cx="50" cy="120" rx="29" ry="5" fill="#b88b45" opacity=".2"/>
+      <polygon points="50,4 79,30 88,92 51,117 13,92 21,30" fill="url(#crystal)" stroke="#b88b45" strokeWidth="1.5"/>
+      <path d="M50 4L36 34L30 89L51 117L70 89L64 34Z" fill="#ffe39e" fillOpacity=".38" stroke="#fce0a3"/>
+      <path d="M21 30L36 34L64 34L79 30M13 92L30 89L70 89L88 92" stroke="#ffdf91" fill="none"/>
+      <path d="M43 48V63L56 53V72M43 80L50 74L57 80L50 86Z" stroke="#fff3d0" strokeWidth="2" fill="none"/>
+    </svg>
+    <box flex={1} gap={1}>
+      **Cristal de Conversão Geotérmica**
+      <caption>Componente tecnológico de Thûn-Khazad</caption>
+      <text color="success">Íntegro e compatível</text>
+      Quantidade encontrada: 1
+      <caption>Peça especializada da Grande Forja, destinada à manutenção.</caption>
+    </box>
+  </row>
+</box>
+
+Com auxílio de UM-017, vocês transportam o cristal de volta à Grande Forja.
+
+— Componente de reposição disponível. Podemos iniciar a instalação — informa UM-021.
+
+**+25 XP pela localização e identificação do componente especializado.** Total: **925 XP**.
+
+---
+
+**[LOG DE MEMÓRIA DA CAMPANHA]**
+
+- **Localização atual:** Grande Forja, Dia 9, 00h45.
+- **NPCs presentes e relação:** UM-017 e UM-021, cooperativos.
+- **Linha de missão ativa:** Instalar e calibrar o cristal de conversão.
+- **Eventos cruciais:** Cristal de reposição encontrado e transportado. A Grande Forja ainda está inativa.
+- **Condições:** 21/21 PV | CA 16 | Inspiração Heroica disponível | Nível 3 pendente de escolha de classe.
+
+As quatro rolagens foram executadas em Python com o script do repositório e hash efetivamente conferido. Dois usos de Orientação, sem gasto de espaços de magia. O cristal foi localizado no estoque de emergência; não foi fabricado nem instalado.
+
+**GitHub:** commit confirmado.

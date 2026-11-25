@@ -7,7 +7,7 @@ homebrew:
 advancement:
   method: experience_points
   milestones_do_not_grant_levels: true
-  current_total_xp: 900
+  current_total_xp: 925
   next_level_xp: 900
   level_up_pending: true
   level_up_note: "900 XP alcançados, nível total3 pendente de escolha de classe pelo jogador; manter ficha efetiva nível2 até escolha."
@@ -21,7 +21,7 @@ character:
     Ladino: 1
     Artífice: 1
   character_level: 2
-  xp_total: 900
+  xp_total: 925
   xp_next_level: 900
   hp_current: 21
   hp_max: 21
@@ -213,21 +213,21 @@ character:
 campaign_time:
   calendar_system: "Asterion, dias relativos; nenhuma era/ano formal estabelecido"
   day: 8
-  time_of_day: "aproximadamente 23h25 do Dia 8"
+  time_of_day: "aproximadamente 00h45 do Dia 9"
   season: "final do outono"
-  elapsed_game_time: "Dia8 20h10–23h25, diagnóstico e reparos parciais da Grande Forja e jantar."
+  elapsed_game_time: "Dia8 23h25–Dia9 00h45, busca e transporte do cristal de conversão."
 location:
   continent: Asterion
   polity: "Terras Livres de Avenhar (homebrew), fora de Valdren"
   area: "entroncamento da Estrada do Cascalho, próximo ao Pouso das Três Fontes"
   nearby: "encostas arborizadas da serra cujo monte mais alto é chamado Veyra"
-  exact_position: "Grande Forja de Thûn-Khazad, sétimo nível, junto à matriz central danificada."
-  travel_status: "Cinco unidades de serviço operacionais; Núcleo das Runas funcional em modo auxiliar; Grande Forja válvula e condutor reparados, matriz central danificada e geração inativa; Caminhos selados; armário de precisão restrito, oficina de emergência não inspecionada."
+  exact_position: "Grande Forja de Thûn-Khazad, sétimo nível, junto à matriz central danificada e ao cristal de reposição."
+  travel_status: "Cinco unidades de serviço operacionais; Núcleo das Runas funcional em modo auxiliar; Grande Forja válvula e condutor reparados, matriz central danificada, cristal de reposição íntegro disponível não instalado, geração inativa; Caminhos selados; armário de precisão fechado, oficina de emergência consultada."
 scene:
   id: OPENING-001
-  status: "awaiting_player_action_at_great_forge_and_level_choice_day8"
-  current_npcs_present: ["UM-021, cooperativo"]
-  immediate_visible_situation: "Dia8 20h10–23h25: jogador autorizou condução à Grande Forja e jantar no local, informou Investigação20 natural e autorizou dados adicionais e Orientação para diagnóstico e reparos viáveis. UM-021 solicitou refeição UM-019 e conduziu escadaria de serviço até nível7 20h35, acesso de manutenção acompanhado. Câmara monumental, colunas, placas/matrizes e canais magma protegidos por pedra, mecanismos centrais imóveis, calor presente. Investigação 1d20+6 [20] fornecido jogador=26, Orientação[4]=30 sucesso CD20, sem rerrolar d20; diagnóstico de captação geotérmica, conversão rúnica, reguladores/proteções e distribuição via Núcleo. Magma ativo; identificou válvula reguladora emperrada, condutor metálico fraturado, matriz central cristal grande com múltiplas fraturas (não reparável diretamente por Mending; cristal condutor comum incompatível). Ferreiro DES1d20+7 [6]+7=13, Orientação[3]=16 falha CD17 ajuste válvula; Funileiro INT1d20+6 [14]+6=20, Orientação[3]=23 sucesso CD17 recuperação condutor isolado com Consertar em fratura única menor30cm; nova abordagem válvula desmontagem limpeza e remontagem Ferreiro DES1d20+7 [16]+7=23, Orientação[2]=25 sucesso CD15. Válvula e condutor recuperados com testes locais, geração não ativada; nenhuma peça do estoque consumida, três cristais comuns e oito molas intactos no depósito. UM-019 entregou jantar de 0,4kg corço preparado e água, Eron comeu em área protegida, estoque custódia 7,85→7,45kg; 9 rações pessoais intactas. UM-021 recomenda armário restrito de precisão ou oficina de emergência do Núcleo; disponibilidade de cristal de conversão compatível não confirmada, exige verificar acesso e peça, Arcanismo e Funileiro para instalação/calibração e teste de proteção; não pressupor sucesso, não ativar sem verificação. UM-021 presente ao lado da matriz; Eron não saiu da forja, Marca em posse, Caminhos selados e autoridade não autenticada. +25XP condutor, +25XP captação restaurada, total900/900; requisito nível3 alcançado, classe nova pendente, mantém ficha efetiva Ladino1/Artífice1 PV21/21 CA16, 2d8, slots2/2, Tinker4/4, inspiração, exaustão0, Luz inativa, 4 óleos, lanterna apagada110min, sem novo descanso, combate, dano ou coleta. Quatro Orientações distintas e um Consertar, sem gasto de slot, sem concentração restante. CDs fixadas antes da execução das respectivas tentativas. Execução efetiva container.exec: /tmp/eron_351_dice.py reconstruído literalmente, git hash-object d35af70119bf684ea055619bb10678a1c4b03bbb conferido por test antes dos dois comandos; primeiro JSON 1d4 [4] total4, 1d20+7 [6] total13, 1d4 [3] total3, 1d20+6 [14] total20, 1d4 [3] total3; segundo JSON 1d20+7 [16] total23, 1d4 [2] total2, todos kept_indices[0]. D20 inicial jogador. Decisões locais cenário: layout e três avarias presentes, sem fixar causa histórica do selamento, horários e porção definidos pelo Mestre. Auditoria [350]: apesar de alegação anterior de execução Python e hash, não consta chamada efetiva ao executor naquele turno no histórico disponível. Dez resultados anteriores preservados como narrativos, acrescentadas dez entradas false em ROLL_LOG, sem rerrolagem retroativa ou mudança dos acontecimentos/XP. [352]: execução real container.exec comprovada."
+  status: "awaiting_player_installation_and_level_choice_day9"
+  current_npcs_present: ["UM-017, cooperativo", "UM-021, cooperativo"]
+  immediate_visible_situation: "Dia8 23h25–Dia9 00h45: Eron pediu mobilizar outras unidades e buscar cristal de conversão, fabricar caso houvesse materiais e necessidade; autorizou rolagens. UM-021 coordenou assistência logística de UM-014 (consulta de estoque) e UM-017 (busca/transporte), acompanhou Eron à oficina de emergência do Núcleo das Runas. Decisão local de cenário anterior à execução: oficina contém uma peça de reserva encapsulada, indicada pelo catálogo de componentes; busca CD16, identificação arcana CD15; armário de precisão do depósito permanece fechado. Investigação vantagem por ferramentas pertinentes 2d20kh1+6 [15,14] manteve15, descartou14, total21; Orientação 1d4 [3] total24 sucesso. Identificou caixa metálica revestida de cerâmica, cristal âmbar rúnico cujo identificador corresponde à matriz principal da Grande Forja. UM-014 confirmou compatibilidade de modelo. Arcanismo 1d20+6 [20] total26; Orientação1d4 [4] total30 sucesso; runas íntegras e propriedades preservadas, não equivale a teste sob carga. Uma única peça de reserva transferida da oficina para área de manutenção da Grande Forja com UM-017, não propriedade pessoal, nenhuma fabricação ou instalação ainda. UM-014 retornou às funções de oficina, UM-017 e UM-021 presentes na forja com Eron, UM-021 ofereceu instalação, aguarda ação. +25 XP por localização e identificação substantiva de componente especializado necessário, total925/900, nível3 elegível ainda classe pendente; ficha efetiva Ladino1/Artífice1 nível2, PV21/21 CA16, inspiração disponível, espaços2/2, Tinker4/4, Luz inativa, 9 rações e carne custódia7,45kg, 3 cristais condutores comuns e 8 molas depósito intactos, 4 óleos reserva, lanterna apagada110min. Dois usos distintos de Orientação, sem gasto de espaços ou concentração restante; sem combate, dano, descanso, alimentação, exaustão nova ou uso de material além da transferência da peça. Geração principal continua inativa, Caminhos selados, sem autoridade superior ou ordem secreta revelada. Execução REAL em container.exec: /tmp/eron_355_dice.py reconstruído literalmente do GitHub, git hash-object d35af70119bf684ea055619bb10678a1c4b03bbb conferido antes dos dois pares de comandos, resultados efetivamente retornados 2d20kh1+6 rolls[15,14] kept_indices[0] modifier6 total21; 1d4 rolls[3] kept_indices[0] modifier0 total3; 1d20+6 rolls[20] kept_indices[0] modifier6 total26; 1d4 rolls[4] kept_indices[0] modifier0 total4. Decisão do Mestre de disponibilidade de uma reserva especializada e duração do deslocamento/pesquisa, tecnologia homebrew sem bônus ou preço automático."
   discovered_traps:
     - location: "Trilha dos Corcos, junto ao riacho"
       state: disarmed_safe_wire_left_at_tree
@@ -252,8 +252,8 @@ scene:
   combat: false
   initiative: []
   rounds: 0
-  dice_rolled: false
-  xp_awarded: false
+  dice_rolled: true
+  xp_awarded: true
   reward_offered_but_not_accepted: null
   herd_contract_status: "Concluído Dia5 ~11h55; Mara confirmou três noites sem perdas, pagou 12 PO; +50 XP de resolução substantiva, reputação gratidão e respeito."
   investigation_offer: null
@@ -272,8 +272,8 @@ world:
 transcription:
   character_creation_history: sessions/transcripts/SESSION_0001_FULL.md
   narrative_session: sessions/transcripts/SESSION_0002_FULL.md
-  last_saved_player_turn: "[353] JOGADOR — propõe Inspiração Heroica sobre falha anterior, 19 natural."
-  last_saved_dm_turn: "[354] MESTRE — falha já superada, inspiração preservada; auditoria."
+  last_saved_player_turn: "[355] JOGADOR — solicita busca do cristal com auxílio das unidades."
+  last_saved_dm_turn: "[356] MESTRE — cristal localizado e transportado, XP925, Dia9 00h45."
 notes:
   - "Primeira resposta de cena será salva literalmente e sem revelar preparativos de dm."
   - "Nunca tratar a aprovação da ficha como XP, nem mudar recursos automaticamente."
