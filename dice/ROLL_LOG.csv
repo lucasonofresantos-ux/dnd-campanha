@@ -571,3 +571,7 @@ date,campaign_id,stage,attempt,expression,six_rolls_faces_in_order,six_attribute
 2026-11-25,ERON-RIVER-ASTERION-001,audit_unverified_shortbow_sneak_damage_hunt_day10,1,2d6+5,"2,5","2+5+5; kept both",12,false
 2026-11-25,ERON-RIVER-ASTERION-001,audit_unverified_survival_leatherworker_hunt_day10,1,2d20kh1+5,"20,11","20+5; kept index 0",25,false
 2026-11-25,ERON-RIVER-ASTERION-001,perception_check_followers_pouso_day10,1,1d20+7,"9","9+7; kept index 0",16,true
+2026-11-25,ERON-RIVER-ASTERION-001,investigation_thieves_tools_warehouse_day10,1,2d20kh1+6,"16,20","20+6; kept index 1",26,true
+2026-11-25,ERON-RIVER-ASTERION-001,perception_warehouse_tracks_day10,1,1d20+7,"12","12+7",19,true
+2026-11-25,ERON-RIVER-ASTERION-001,insight_tavin_day10,1,1d20+5,"7","7+5",12,true
+2026-11-25,ERON-RIVER-ASTERION-001,insight_lessa_day10,1,1d20+5,"1","1+5",6,true
