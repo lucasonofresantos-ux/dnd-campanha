@@ -575,3 +575,9 @@ date,campaign_id,stage,attempt,expression,six_rolls_faces_in_order,six_attribute
 2026-11-25,ERON-RIVER-ASTERION-001,perception_warehouse_tracks_day10,1,1d20+7,"12","12+7",19,true
 2026-11-25,ERON-RIVER-ASTERION-001,insight_tavin_day10,1,1d20+5,"7","7+5",12,true
 2026-11-25,ERON-RIVER-ASTERION-001,insight_lessa_day10,1,1d20+5,"1","1+5",6,true
+2026-11-25,ERON-RIVER-ASTERION-001,audit_unverified_investigation_thieves_tools_warehouse_day10,1,2d20kh1+6,"16,20","20+6; kept index 1",26,false
+2026-11-25,ERON-RIVER-ASTERION-001,audit_unverified_perception_warehouse_tracks_day10,1,1d20+7,"12","12+7",19,false
+2026-11-25,ERON-RIVER-ASTERION-001,audit_unverified_insight_tavin_day10,1,1d20+5,"7","7+5",12,false
+2026-11-25,ERON-RIVER-ASTERION-001,audit_unverified_insight_lessa_day10,1,1d20+5,"1","1+5",6,false
+2026-11-25,ERON-RIVER-ASTERION-001,insight_tavin_detailed_player_day10,1,1d20+5,"17","17+5; informado jogador",22,true
+2026-11-25,ERON-RIVER-ASTERION-001,insight_lessa_detailed_player_day10,1,1d20+5,"17","17+5; informado jogador",22,true
