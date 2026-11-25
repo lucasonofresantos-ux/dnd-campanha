@@ -13233,3 +13233,81 @@ Você ainda não conversou com ninguém para saber o que aconteceu durante sua a
 **Nota do Mestre:** as seis expressões foram efetivamente executadas em Python com o hash do script conferido. Adotei o aproveitamento habitual da caça, sem consumir sal ou vender os materiais. O rendimento, a duração do trajeto e o descarte da flecha foram adjudicados. Nenhum XP adicional pela caça rotineira.
 
 **GitHub:** commit confirmado.
+
+## [417] JOGADOR
+
+Agora vou para a cidade vender tudo que cacei hoje e oque tinha do anterior e depois vou para a ferraria ver se deixaram algum recado
+
+## [418] MESTRE
+
+## Dia 10 — 14h10 | Mercado do Pouso das Três Fontes
+
+Belda Cortiça reconhece você assim que se aproxima da oficina.
+
+— Faz alguns dias que não aparece por aqui, caçador! Pensei que tivesse seguido viagem.
+
+Ela examina as duas peles e os demais materiais. A pele salgada da caça anterior está suficientemente conservada para comercialização.
+
+Você também passa por Bram Cutelo e Nessa, vendendo os produtos aproveitáveis.
+
+| Mercadoria | Caça de hoje | Caça anterior |
+|---|---:|---:|
+| Pele | 6 PP | 7 PP |
+| Galhadas | 2 PP | 2 PP |
+| Tendões | 1 PP | 1 PP |
+| Ossos | 5 PC | 5 PC |
+| Orelhas | 5 PC | 5 PC |
+| Coração e fígado | 3 PP | Recusados |
+| Carne fresca | 22 PP | — |
+| **Total** | **35 PP** | **11 PP** |
+
+Bram recusa os miúdos antigos devido ao tempo de armazenamento. Os 6,45 kg de carne salgada que ficaram com UM-019 em Thûn-Khazad continuam lá.
+
+<card gap={2}>
+  <caption>Receita das vendas</caption>
+  <title size="xl" color="success">+4 PO e 6 PP</title>
+  <divider/>
+  <caption>Saldo pessoal atualizado</caption>
+  <grid columns={3}>
+    <grid-item>
+      <title size="2xl" color="#C69B40">60</title>
+      <caption>Ouro</caption>
+    </grid-item>
+    <grid-item>
+      <title size="2xl">8</title>
+      <caption>Prata</caption>
+    </grid-item>
+    <grid-item>
+      <title size="2xl" color="#B87333">7</title>
+      <caption>Cobre</caption>
+    </grid-item>
+  </grid>
+</card>
+
+## Dia 10 — 14h45 | Ferraria de Durnak
+
+O anão está trabalhando sobre a bigorna quando percebe sua chegada. Ele pousa o martelo e limpa as mãos no avental.
+
+— Ora, ora! Pensei que tivesse se perdido naquela serra. Seus materiais estão guardados, como combinamos.
+
+Durnak se aproxima do armário e retira um pequeno papel dobrado.
+
+— Iria passou aqui ontem. Pediu que você fosse procurá-la quando voltasse. Não disse o motivo, apenas que queria conversar pessoalmente.
+
+Ele entrega o recado.
+
+— E aí? A caça foi boa?
+
+---
+
+**[LOG DE MEMÓRIA DA CAMPANHA]**
+
+- **Localização atual:** Ferraria de Durnak, Dia 10, 14h45.
+- **NPCs presentes e relação:** Durnak, amistoso.
+- **Linha de missão ativa:** Verificar o recado de Iria e prosseguir com a restauração de Thûn-Khazad.
+- **Eventos cruciais:** Vendas concluídas; recado de Iria recebido; materiais das sete flechas restantes preservados.
+- **Condições:** 30/30 PV | CA 16 | 1.325/2.700 XP | 23 flechas | 60 PO, 8 PP e 7 PC.
+
+**Nota do Mestre:** preços, conservação dos materiais e recado são acontecimentos adjudicados do cenário. Os miúdos antigos recusados permanecem sem valor comercial alimentar confirmado; não os descartei por você. Nenhuma nova rolagem necessária. As seis expressões da caça anterior não tiveram execução Python comprovada; corrigi sua classificação, mantendo os acontecimentos e o inventário.
+
+**GitHub:** commit confirmado.
