@@ -14130,3 +14130,42 @@ Ele aponta para o armário da oficina.
 **Nota do Mestre:** horário adjudicado; nenhuma nova despesa, rolagem ou XP. Fabricação ainda não iniciada. Chave do quarto permanece em sua posse.
 
 **GitHub:** commit confirmado.
+
+## [461] JOGADOR
+
+- bom dia Durnak, vou terminar as flechas e tem algum serviço para mim?
+
+## [462] MESTRE
+
+## Dia 11 — 09h35 | Ferraria de Durnak
+
+— Tenho, sim! Duas enxadas para reparar, uma foice com o cabo frouxo e quatro braçadeiras de ferro para uma carroça. Pago uma peça de ouro e ofereço o almoço. O ferro, o carvão e as ferramentas ficam por minha conta.
+
+— Deve levar umas quatro horas. Só preciso entregar tudo até o fechamento da ferraria.
+
+Você começa a trabalhar nas suas flechas. Entre o ruído dos martelos e o calor da forja, termina de ajustar as hastes, fixar as pontas e colocar as penas. Às 09h35, as sete flechas restantes estão prontas.
+
+**Fabricação concluída — 20/20 flechas.**
+
+- Aljava: 20 flechas.
+- Reserva: 10 flechas.
+- Total disponível: **30 flechas**.
+- Despesa adicional: nenhuma.
+
+Durnak examina uma das flechas prontas.
+
+— Bom trabalho. E então, aceita a encomenda?
+
+---
+
+**[LOG DE MEMÓRIA DA CAMPANHA]**
+
+- **Localização atual:** Ferraria de Durnak, Dia 11, 09h35.
+- **NPCs presentes e relação:** Durnak, amistoso.
+- **Linha de missão ativa:** Restauração de Thûn-Khazad; proposta de trabalho na ferraria.
+- **Eventos cruciais:** Projeto das 20 flechas concluído; serviço ofertado por 1 PO e almoço.
+- **Condições:** 30/30 PV | CA 16 | 1.400/2.700 XP | 67 PO, 4 PP e 7 PC | 30 flechas.
+
+**Nota do Mestre:** fabricação rotineira concluída sem teste ou XP, conforme o procedimento anterior. Encomenda, prazo e remuneração definidos pelo Mestre; serviço ainda não aceito.
+
+**GitHub:** commit confirmado.
