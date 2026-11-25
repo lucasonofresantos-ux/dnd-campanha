@@ -230,9 +230,9 @@ character:
 campaign_time:
   calendar_system: "Asterion, dias relativos; nenhuma era/ano formal estabelecido"
   day: 10
-  time_of_day: "aproximadamente 16h50 do Dia 10"
+  time_of_day: "aproximadamente 16h54 do Dia 10"
   season: "final do outono"
-  elapsed_game_time: "Dia10 16h33–16h50, rastreamento e observação do pátio."
+  elapsed_game_time: "Dia10 16h50–16h54, abordagem e detenção de Berric."
 location:
   continent: Asterion
   polity: "Terras Livres de Avenhar (homebrew), fora de Valdren"
@@ -242,9 +242,9 @@ location:
   travel_status: "Eron retornou ao Pouso das Três Fontes. Thûn-Khazad: entrada original fechada e camuflada, sensores operacionais, oito unidades, manutenção interna e inventário contínuos, seis Caminhos selados. Nenhuma comunicação remota estabelecida."
 scene:
   id: OPENING-001
-  status: "berric_yard_observation_day10"
-  current_npcs_present: ["Dois vigias aliados", "Berric, suspeito não abordado", "Outro carreteiro"]
-  immediate_visible_situation: "Dia10 16h33–16h50: Eron aceita auxiliar e avisa Iria que reagirá se atacado; ela recomenda defesa sem excesso. Segue ao pátio, retoma vestígios de rodas do depósito, usa dados naturais informados Sobrevivência18+5=23, Furtividade20+9=29, Percepção19+7=26. Identifica sequência descontínua de sulcos com característica de roda direita irregular compatível com carroça de dois eixos junto a galpão portão verde, mula castanha. Alcança dois vigias nas imediações antes de abordagem; observa de cobertura de pilhas de madeira a cerca de 12m do galpão. Ouve outro carreteiro chamar homem junto à carroça de Berric; Berric organiza cordas e carga. Pela abertura parcial do portão observa duas caixas sob lona deslocada, uma com inscrição de tecidos, outra com ferragens; identificação compatível com relato, ainda não autenticada por Neral/registro. Berric não identifica Eron; vigias não iniciaram abordagem, aguardam junto à entrada do pátio. Sem apreensão, combate, dano, XP, gasto ou pagamento; recursos inalterados. Adjudicados detalhes físicos, posições, horário e CDs. Nenhuma rolagem automática."
+  status: "berric_detained_day10"
+  current_npcs_present: ["Dois vigias aliados", "Berric, detido", "Harl, testemunha ainda não investigada"]
+  immediate_visible_situation: "Dia10 16h50–16h54: Eron orienta os vigias a anunciar prisão e não descartar envolvimento do segundo carreteiro, permanece escondido observando. Vigias aproximam-se e anunciam detenção de Berric por suspeita de furto. Berric protesta verbalmente, mas solta corda, ergue mãos e permite ser algemado, sem violência. Segundo carreteiro identifica-se como Harl, diz trabalhar no pátio e pergunta motivo; segundo vigia pede que permaneça para esclarecimentos, sem prendê-lo por falta de prova. Primeiro vigia mantém custódia de Berric, segundo observa caixas pelo portão, sem abrir ou conferir conteúdo; solicita a Harl que aguarde. Eron permanece oculto na pilha a 12m, Furtividade29 e Percepção26 anteriores ainda aplicáveis à mesma observação, sem novo teste do jogador. Reação de NPC sorteada em Python e registrada separadamente.exec, script /tmp/eron_441_dice.py hash d35af70119bf684ea055619bb10678a1c4b03bbb verificado, 1d20 [17]=17. Sem combate, dano, gasto, XP, pagamento ou apreensão definitiva; caixas por conferir. Desfecho de detenção e nome do carreteiro adjudicados."
   discovered_traps:
     - location: "Trilha dos Corcos, junto ao riacho"
       state: disarmed_safe_wire_left_at_tree
@@ -289,8 +289,8 @@ world:
 transcription:
   character_creation_history: sessions/transcripts/SESSION_0001_FULL.md
   narrative_session: sessions/transcripts/SESSION_0002_FULL.md
-  last_saved_player_turn: "[439] JOGADOR — rastreia Berric com dados18/20/19."
-  last_saved_dm_turn: "[440] MESTRE — localiza suspeito e caixas, Dia10 16h50."
+  last_saved_player_turn: "[441] JOGADOR — orienta abordagem e permanece oculto."
+  last_saved_dm_turn: "[442] MESTRE — Berric detido, Dia10 16h54."
 notes:
   - "Primeira resposta de cena será salva literalmente e sem revelar preparativos de dm."
   - "Nunca tratar a aprovação da ficha como XP, nem mudar recursos automaticamente."
