@@ -542,3 +542,5 @@ Dia10 16h15–16h30: Eron agradeceu a Tavin e retornou ao posto da Vigília para
 - [500] Dia 11, 19h10–19h35. Jantar consumido. Alda oferece café da manhã Dia12, banho pronto. Percepção [18]+7=25: nenhum sinal de vigilância; mulher com punho manchado de azul relata canal baixo ontem ao entardecer enquanto moleiro estava à porta de Celina. Ela e companheiro continuam à janela.
 
 - [502] Dia 11–12. Eron toma banho, dorme no quarto 3, completa descanso longo (20h30–04h30), acorda cedo, desce e toma café da manhã oferecido por Alda, sem despesa. Dia 12, 06h15 no salão, Alda à mesa.
+
+- [504] Dia12 06h20. Eron pergunta pelo sono de Alda, nível do rio e carne. Alda dormiu bem, serviu tiras a um hóspede e reservou costelas para almoço. Ouviu relato sobre canal, não observou córrego. Segundo ela, Lena viu só a ponta da pedra comprida do vau ontem cedo. Eron considera verificar depois, sem partir.

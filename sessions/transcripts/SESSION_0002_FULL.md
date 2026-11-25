@@ -14741,3 +14741,29 @@ Você toma o café da manhã enquanto a primeira claridade alcança a janela. Na
 - **Condições do jogador** · 30/30 PV, CA 16, dois espaços de magia de 1º círculo disponíveis, Inspiração Heroica disponível. 1.400/2.700 XP. Saldo de **71 PO, 9 PP e 7 PC**.
 
 **Commit confirmado no GitHub.**
+
+## [503] JOGADOR
+
+- dormi sim e você? Parece que o rio está baixando quero dar um olhada no por que depois, pessoal gostou da carne de corço?
+
+### Mestre — andamento
+
+Alda termina de mastigar e descansa a caneca entre as mãos.
+
+## [504] MESTRE
+
+— Dormi bem, sim. Só fui deitar tarde, que tinha um corço pra guardar. Lembra do homem que procurava carne debaixo do nabo? Fritei umas tiras pra ele provar. Comeu até o nabo com o caldinho que ficou no prato. Acho que gostou. — Alda sorri por cima da caneca. — As costelas ficaram pro almoço. Daqui a pouco ponho a panela no fogo.
+
+— Agora, o rio baixou também? — Ela olha pra você. — Da mesa da janela eu ouvi a moça dizer que faltou água no **canal do moinho**. Aqui no pouso eu não vi o nível do córrego. Quando passar no vau, dá uma olhada na pedra comprida do meio. Ontem cedo, quando a Lena veio pela estrada, só a ponta dela aparecia. Foi o que ela me disse enquanto secava os pés aqui na cozinha.
+
+Alda parte o pão e volta ao café, deixando a manhã correr no teu ritmo.
+
+**[LOG DE MEMÓRIA DA CAMPANHA]**
+
+- **Localização atual** · Salão da hospedagem de Alda, Pouso das Três Fontes. Dia 12, cerca de 06h20.
+- **NPCs presentes e relação** · Alda Tress, conversando com Eron durante o café.
+- **Linha de missão ativa** · Eron pretende verificar a água mais tarde. A baixa observada foi no canal do moinho. O nível atual do córrego ainda é desconhecido.
+- **Eventos cruciais ocorridos** · Segundo Alda, Lena viu apenas a ponta da pedra comprida acima da água no vau ontem cedo. Um hóspede provou o corço, e as costelas serão servidas no almoço.
+- **Condições do jogador** · 30/30 PV, CA 16, 1.400/2.700 XP. Saldo de **71 PO, 9 PP e 7 PC**.
+
+**Commit confirmado no GitHub.**
