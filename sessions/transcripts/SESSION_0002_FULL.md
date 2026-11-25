@@ -11931,3 +11931,102 @@ A porta está fechada.
 Nenhuma rolagem necessária para o deslocamento. A localização da estação e sua configuração são definições locais do cenário; o interior ainda não foi investigado.
 
 **GitHub:** commit confirmado.
+
+## [379] JOGADOR
+
+Pode rolar oque precisar para colocar este lugar para funcionar
+
+## [380] MESTRE
+
+### Comentário visível antes da narração
+
+Vou examinar a segunda estação, recuperar o acesso e verificar o que pode ser reparado com segurança.
+
+### Resposta
+
+## Dia 9 — 14h45 | Segunda oficina de manutenção
+
+Você conjura Luz e Orientação, retira suas ferramentas da Bolsa Porta-Tudo e começa a examinar a porta e o painel de acionamento.
+
+Identifica um pino de travamento deformado, que impede a abertura da porta. Após corrigir a peça, o mecanismo volta a funcionar.
+
+No interior, encontra uma oficina consideravelmente maior que a anterior, equipada com bancadas reforçadas, carrinhos de transporte, balanças, ferramentas e armários de componentes.
+
+Junto a uma bancada encontra-se um construto desativado, identificado como **UM-025**.
+
+### Rolagens de investigação e reparação
+
+| Teste | Dados e modificadores | Total | Resultado |
+|---|---|---:|---|
+| Investigação da porta | [17, 15] +6 +2 | 25 | <text color="success">Sucesso</text> |
+| Ferramentas de Ferreiro | [10] +7 | 17 | <text color="success">Sucesso</text> |
+| Investigação do construto | [19, 15] +6 +1 | 26 | <text color="success">Sucesso</text> |
+| Ferramentas de Funileiro | [1] +6 | 7 | <text color="danger">Falha</text> |
+| Reparação na bancada | [2, 14] +6 | 20 | <text color="success">Sucesso</text> |
+| Arcanismo — reativação | [3, 14] +6 +4 | 24 | <text color="success">Sucesso</text> |
+
+Nos testes com vantagem, foi mantido o maior d20. Os bônus adicionais de +2, +1 e +4 vieram de Orientação. A falha exigiu desmontar o circuito e trabalhar na bancada com auxílio de UM-012.
+
+Você utiliza Reparar em um condutor fissurado e substitui um fusível rúnico danificado por outro encontrado no estoque da própria oficina.
+
+## Dia 9 — 16h05 | Estação restabelecida
+
+As runas do construto se iluminam e seus braços começam a se movimentar.
+
+— Unidade de manutenção 025. Especialidade: armazenamento, controle de inventário, movimentação de cargas e conservação de reservas estratégicas.
+
+— Autoridade do Guardião reconhecida. Aguardando instruções.
+
+O terminal da oficina restabelece a comunicação com o Sistema Central.
+
+<card gap={2}>
+  <title size="lg">Segunda oficina de manutenção</title>
+  {#each ["Porta de acesso","Iluminação","Bancadas e equipamentos","Terminal de diagnóstico","Comunicação central","Construto UM-025"] as item}
+    <row align="center">
+      <icon name="check-circle-filled" color="success"/>
+      <box flex={1}>{item}</box>
+      <text color="success" size="sm">Operacional</text>
+    </row>
+  {/each}
+</card>
+
+UM-025 recebe a diretriz permanente de restauração do Salão e inicia a inspeção das instalações de armazenamento.
+
+<grid columns={2}>
+  <grid-item>
+    <caption>Unidades operacionais</caption>
+    <title size="2xl" color="success">7</title>
+  </grid-item>
+  <grid-item>
+    <caption>Estações sem resposta</caption>
+    <title size="2xl">1</title>
+  </grid-item>
+</grid>
+
+<card gap={2}>
+  <row align="center">
+    <box flex={1}>
+      <caption>Experiência — estação e unidade recuperadas</caption>
+      <title size="lg">1.100 / 2.700 XP</title>
+    </box>
+    <title color="success" size="xl">+50 XP</title>
+  </row>
+  <box height={2} radius="full" background="surface-tertiary" clip>
+    <box height={2} width="40.74%" background="#26925b"/>
+  </box>
+  <caption>Nível 3 — Ladino 1 / Artífice 2</caption>
+</card>
+
+---
+
+**[LOG DE MEMÓRIA DA CAMPANHA]**
+
+- **Localização atual:** Segunda oficina, quarto nível, Dia 9, 16h05.
+- **NPCs presentes:** UM-012 e UM-025, cooperativas.
+- **Linha de missão ativa:** Restaurar o Salão dos Seis Caminhos.
+- **Eventos cruciais:** Segunda oficina e sétimo construto recuperados; resta uma estação sem resposta.
+- **Condições:** 30/30 PV | CA 16 | 2/2 espaços de magia | 4/4 Magia do Funileiro | Inspiração Heroica disponível.
+
+**Nota do Mestre:** as nove expressões foram realmente executadas em Python, com o script do GitHub e hash conferido. Renovei Luz às 15h45, com duração até 16h45. A duração dos reparos, o componente local e os 50 XP foram definidos pelo Mestre. Nenhum recurso pessoal limitado foi consumido. A oficina está operacional, mas as reservas do quarto nível ainda não foram integralmente inspecionadas.
+
+**GitHub:** commit confirmado.
