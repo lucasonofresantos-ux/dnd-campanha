@@ -11895,3 +11895,39 @@ Nenhuma nova rolagem necessária. A vinculação exclusiva de UM-023 é uma defi
 **Auditoria:** as rolagens da restauração anterior também não tiveram execução Python comprovada. Corrigi o registro sem alterar os acontecimentos ou a experiência adquirida.
 
 **GitHub:** commit confirmado.
+
+## [377] JOGADOR
+
+- Vamos para a segunda oficina então
+
+## [378] MESTRE
+
+— A próxima estação sem resposta encontra-se no quarto nível, Guardião — informa UM-012.
+
+UM-023 permanece na oficina, dando continuidade aos trabalhos de manutenção, enquanto você acompanha UM-012 pelas galerias e escadarias internas do Salão.
+
+## Dia 9 — 14h45 | Quarto nível — Reservas estratégicas
+
+Ao chegar, você percebe que apenas algumas luminárias estão funcionando. UM-012 conduz você até uma porta reforçada de bronze, com uma inscrição em anão:
+
+**ESTAÇÃO DE MANUTENÇÃO — RESERVAS E ARMAZENAMENTO**
+
+Ao lado da porta há um painel apagado. Diferentemente da oficina anterior, existe também uma abertura de inspeção protegida por uma grade metálica. Nenhum movimento ou ruído vem do interior.
+
+— Chegamos, Guardião. Esta estação permanece sem comunicação com o Sistema Central.
+
+A porta está fechada.
+
+---
+
+**[LOG DE MEMÓRIA DA CAMPANHA]**
+
+- **Localização atual:** Segunda oficina, quarto nível de Thûn-Khazad, Dia 9, 14h45.
+- **NPCs presentes:** UM-012, cooperativa.
+- **Linha de missão ativa:** Recuperar as estações de manutenção restantes.
+- **Eventos cruciais:** Segunda estação localizada; seis unidades operacionais.
+- **Condições:** 30/30 PV | CA 16 | 1.050/2.700 XP.
+
+Nenhuma rolagem necessária para o deslocamento. A localização da estação e sua configuração são definições locais do cenário; o interior ainda não foi investigado.
+
+**GitHub:** commit confirmado.
