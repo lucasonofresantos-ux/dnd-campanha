@@ -14018,3 +14018,43 @@ A noite ainda está começando. Seu quarto está reservado, e você pode permane
 **Nota do Mestre:** ajustei apenas o momento da cena para antes do banho, conforme seu pedido, sem nova cobrança. Usei Percepção passiva 17 para a observação ostensiva. As duas rolagens automáticas anteriores não tiveram execução Python comprovada; corrigi o registro sem alterar os acontecimentos já observados. Nenhum descanso iniciado.
 
 **GitHub:** commit confirmado.
+
+## [455] JOGADOR
+
+termino de comer vou tomar um banho e dormir, assim posso acordar cedo
+
+## [456] MESTRE
+
+## Dia 11 — 04h30 | Hospedagem de Alda Tress
+
+Você termina o jantar, sobe ao quarto três e toma um banho quente. Por volta das 18h30, deita-se para dormir.
+
+A noite transcorre sem interrupções.
+
+Às 04h30, você desperta. Lá fora ainda está escuro, e o frio do final do outono se faz sentir pelas frestas da janela. A hospedagem permanece silenciosa.
+
+**Descanso longo concluído.**
+
+| Recurso | Disponível |
+|---|---:|
+| Pontos de vida | 30/30 |
+| Espaços de magia de 1º círculo | 2/2 |
+| Magia de Funileiro | 4/4 |
+| Dados de vida | 3d8 |
+| Inspiração heroica | Disponível |
+
+Seus pertences estão no quarto. A chave continua em sua posse.
+
+---
+
+**[LOG DE MEMÓRIA DA CAMPANHA]**
+
+- **Localização atual:** Hospedagem de Alda Tress, quarto 3, Dia 11, 04h30.
+- **NPCs presentes e relação:** Nenhum no quarto; Alda, amistosa.
+- **Linha de missão ativa:** Restauração de Thûn-Khazad.
+- **Eventos cruciais:** Jantar, banho e descanso longo concluídos.
+- **Condições:** Descansado, sem condições adversas | 30/30 PV | CA 16 | 1.400/2.700 XP | 67 PO, 5 PP e 7 PC | 23 flechas.
+
+**Nota do Mestre:** defini o despertar às 04h30 para atender ao pedido de acordar cedo. Nenhuma nova cobrança, rolagem ou XP.
+
+**GitHub:** commit confirmado.
