@@ -14369,3 +14369,32 @@ Na tinturaria junto ao córrego, o rapaz reconhece o pano pardo pela costura rem
 - **Condições do jogador** · Caderno azul de Nara em mãos. 30/30 PV, CA 16, 1.400/2.700 XP. Saldo de 68 PO, 9 PP e 7 PC.
 
 **Commit confirmado no GitHub.**
+
+## [477] JOGADOR
+
+Levo para a Lena
+- aqui foi junto no pacote
+
+### Mestre — andamento
+
+Pela fala sobre o pacote, entendi que Eron volta à banca de Nara, a dona do caderno. Lena é a carreteira que ficou no vau.
+
+## [478] MESTRE
+
+Entendi que você quis dizer **Nara**, a tecelã. Lena é a dona da carroça.
+
+Nara recebe o caderno com as duas mãos. Abre na última página e passa o dedo pelo “três” riscado ao lado do nome de Bina.
+
+— Foi junto nas meadas? E eu aqui, sacudindo cada peça de linho da banca… — Ela ri e guarda o caderno na gaveta. — Obrigada, Eron. Aqui está o combinado.
+
+Ela põe **1 PO** na tua mão. A três portas dali, o filho de Lena está sentado debaixo do quadro de avisos, torcendo a barra molhada das calças.
+
+**[LOG DE MEMÓRIA DA CAMPANHA]**
+
+- **Localização atual** · Banca de Nara, Dia 11, cerca de 14h45.
+- **NPCs presentes e relação** · Nara, agradecida. O filho de Lena está à vista.
+- **Linha de missão ativa** · Serviço de Nara concluído. O serviço da carroça continua disponível por **2 PO**.
+- **Eventos cruciais ocorridos** · Caderno devolvido e recompensa recebida.
+- **Condições do jogador** · 30/30 PV, CA 16, 1.400/2.700 XP. Saldo de **69 PO, 9 PP e 7 PC**.
+
+**Commit confirmado no GitHub.**

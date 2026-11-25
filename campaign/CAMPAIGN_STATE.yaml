@@ -56,7 +56,7 @@ character:
     armor_training: ["light", "medium", "shields"]
     tinkers_tools_proficient: true
   money:
-    gold: 68
+    gold: 69
     silver: 9
     copper: 7
   inventory_reference: character/ERON_RIVER_LEVEL_01.md
@@ -231,21 +231,21 @@ character:
 campaign_time:
   calendar_system: "Asterion, dias relativos; nenhuma era/ano formal estabelecido"
   day: 11
-  time_of_day: "Dia 11, cerca de 14h35"
+  time_of_day: "Dia 11, cerca de 14h45"
   season: "final do outono"
-  elapsed_game_time: "Dia 11, 14h10–14h35"
+  elapsed_game_time: "Dia 11, 14h35–14h45"
 location:
   continent: Asterion
   polity: "Terras Livres de Avenhar (homebrew), fora de Valdren"
   area: "entroncamento da Estrada do Cascalho, próximo ao Pouso das Três Fontes"
   nearby: "encostas arborizadas da serra cujo monte mais alto é chamado Veyra"
-  exact_position: "Tinturaria junto ao córrego, Pouso das Três Fontes."
+  exact_position: "Banca de Nara, Pouso das Três Fontes."
   travel_status: "Eron retornou ao Pouso das Três Fontes. Thûn-Khazad: entrada original fechada e camuflada, sensores operacionais, oito unidades, manutenção interna e inventário contínuos, seis Caminhos selados. Nenhuma comunicação remota estabelecida."
 scene:
   id: OPENING-001
-  status: "nara_notebook_found_day11"
-  current_npcs_present: ["Rapaz das entregas da tinturaria"]
-  immediate_visible_situation: "Dia 11, 14h10–14h35. Investigação na banca 1d20+6 = [5]+6 = 11, inconclusiva. Bina confirma anotação. Na tinturaria rapaz abre a trouxa e entrega caderno azul seco a Eron. Devolução a Nara e recompensa de 1 PO pendentes."
+  status: "nara_notebook_returned_day11"
+  current_npcs_present: ["Nara", "Filho de Lena à vista"]
+  immediate_visible_situation: "Dia 11, 14h45. Pela referência ao pacote, destino interpretado como Nara. Eron devolve o caderno, informa o ocorrido e recebe 1 PO. Saldo 69 PO, 9 PP e 7 PC. Filho de Lena junto ao quadro, serviço da carroça disponível por 2 PO."
   discovered_traps:
     - location: "Trilha dos Corcos, junto ao riacho"
       state: disarmed_safe_wire_left_at_tree
@@ -290,8 +290,8 @@ world:
 transcription:
   character_creation_history: sessions/transcripts/SESSION_0001_FULL.md
   narrative_session: sessions/transcripts/SESSION_0002_FULL.md
-  last_saved_player_turn: "[475] JOGADOR — investiga até achar o caderno."
-  last_saved_dm_turn: "[476] MESTRE — caderno encontrado."
+  last_saved_player_turn: "[477] JOGADOR — leva o caderno e explica."
+  last_saved_dm_turn: "[478] MESTRE — entrega a Nara e recompensa."
 notes:
   - "Primeira resposta de cena será salva literalmente e sem revelar preparativos de dm."
   - "Nunca tratar a aprovação da ficha como XP, nem mudar recursos automaticamente."

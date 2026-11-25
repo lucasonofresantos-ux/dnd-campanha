@@ -587,3 +587,5 @@ Dia10 16h59–17h20: Eron acompanha os dois vigias na escolta de Berric até Iri
 - [470] Dia 11, 13h35–13h55. Investigação com vantagem [3, 10] +6 = 16. Apoio rachado diagnosticado e reparado com Consertar. Balança remontada, pesagem conferida, Durnak paga 5 PP. Saldo 68 PO, 9 PP, 7 PC.
 
 - [476] Dia 11, 14h10–14h35. Investigação na banca 1d20+6 = [5]+6 = 11, inconclusiva. Bina confirma anotação. Na tinturaria rapaz abre a trouxa e entrega caderno azul seco a Eron. Devolução a Nara e recompensa de 1 PO pendentes.
+
+- [478] Dia 11, 14h45. Pela referência ao pacote, destino interpretado como Nara. Eron devolve o caderno, informa o ocorrido e recebe 1 PO. Saldo 69 PO, 9 PP e 7 PC. Filho de Lena junto ao quadro, serviço da carroça disponível por 2 PO.
