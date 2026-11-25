@@ -13311,3 +13311,44 @@ Ele entrega o recado.
 **Nota do Mestre:** preços, conservação dos materiais e recado são acontecimentos adjudicados do cenário. Os miúdos antigos recusados permanecem sem valor comercial alimentar confirmado; não os descartei por você. Nenhuma nova rolagem necessária. As seis expressões da caça anterior não tiveram execução Python comprovada; corrigi sua classificação, mantendo os acontecimentos e o inventário.
 
 **GitHub:** commit confirmado.
+
+## [419] JOGADOR
+
+- dois corço só, nem todo dia é dia de caça... E obrigado mas depois eu volto para terminar aqui, vou ver oque a aria quer
+Role percepção pelo caminho para ver se alguém me segue
+
+## [420] MESTRE
+
+Durnak solta uma risada.
+
+— Dois corços em quatro dias ainda é melhor do que voltar de mãos vazias! Vá falar com Iria. Sua bancada estará disponível quando voltar.
+
+## Dia 10 — 14h50 | Pouso das Três Fontes
+
+**Teste de Percepção:** `1d20+7` → [9] +7 = **16**.
+
+Enquanto atravessa o povoado, você observa as esquinas, os comerciantes e as pessoas que circulam pelas ruas. Não identifica ninguém acompanhando deliberadamente seus passos.
+
+Ao chegar ao posto da Vigília, encontra Iria examinando alguns registros sobre uma mesa. Ela levanta os olhos e reconhece você.
+
+— Eron! Finalmente. Estava começando a pensar que tinha deixado a região.
+
+Ela afasta os registros e indica uma cadeira.
+
+— Tenho outro serviço de investigação. Um comerciante denunciou o desaparecimento de duas caixas de mercadorias de um depósito próximo à Estrada do Cascalho. Não encontramos sinais evidentes de arrombamento, e as versões dos responsáveis pelo depósito não coincidem.
+
+— Preciso de alguém que saiba observar antes de tirar conclusões. Posso pagar oito peças de ouro pela investigação. Está interessado?
+
+---
+
+**[LOG DE MEMÓRIA DA CAMPANHA]**
+
+- **Localização atual:** Posto da Vigília, Pouso das Três Fontes, Dia 10, 14h55.
+- **NPCs presentes e relação:** Iria, amistosa e profissional.
+- **Linha de missão ativa:** Proposta de investigação apresentada; restauração de Thûn-Khazad continua.
+- **Eventos cruciais:** Nenhum perseguidor identificado; novo serviço oferecido, ainda não aceito.
+- **Condições:** 30/30 PV | CA 16 | 1.325/2.700 XP | 60 PO, 8 PP e 7 PC.
+
+Rolagem executada em Python, com hash do script conferido. A ausência de um perseguidor identificado não garante que ninguém esteja observando você. A ocorrência, a remuneração e o horário são adjudicações do Mestre; nenhum pagamento ou XP foi concedido.
+
+**GitHub:** commit confirmado.
