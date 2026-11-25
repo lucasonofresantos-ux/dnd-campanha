@@ -8632,3 +8632,95 @@ Já é madrugada, e você está acordado há aproximadamente 21 horas.
 As oito rolagens foram efetivamente executadas em Python, com o script do repositório e hash conferido. As falhas foram mantidas; não gastei sua Inspiração Heroica nem concedi XP pelos reparos inconclusos. Nenhuma magia foi utilizada.
 
 **GitHub:** commit confirmado; transcrição, estado, ficha, cronologia e rolagens atualizados.
+
+
+## [299] JOGADOR
+
+Pode agir e rolar tudo até isto tudo estar funcionando, se falar role de novo até acertar
+
+## [300] MESTRE
+
+Vou procurar as peças de reposição na oficina, recuperar os dois mecanismos pendentes e testar a distribuição. As novas tentativas terão consequências de tempo e recursos, sem descartar resultados desfavoráveis.
+
+## Monte Veyra — Dia 7, 03h00–05h35
+
+Você retorna à oficina de manutenção e examina os três armários metálicos. Entre ferramentas antigas, peças de reposição e componentes deteriorados, encontra uma mola compatível com o mecanismo de proteção e um anel de vedação adequado à válvula secundária.
+
+### 1. Recuperação dos mecanismos
+
+<card gap={3}>
+  {#each [{name:"Instalação da mola — Funileiro",die:10,mod:7,ok:true},{name:"Desmontagem integral da válvula — Ferreiro",die:7,mod:7,ok:false},{name:"Substituição da vedação e alinhamento em bancada — Ferreiro",die:14,mod:7,ok:true}] as r}
+    <row align="center">
+      <svg viewBox="0 0 100 100" size="64px">
+        <polygon points="50,4 94,29 94,73 50,97 6,73 6,29" fill="#214b86" stroke="#93b5dd" strokeWidth="2"/>
+        <path d="M50 4L23 65L94 73L50 4L77 65L6 73L50 4M6 29L77 65L94 29M23 65L77 65L50 97" stroke="#93b5dd" fill="none"/>
+        <text x="50" y="58" fontSize="29" fontWeight="bold" fill="white" textAnchor="middle">{r.die}</text>
+      </svg>
+      <box flex={1} gap={1}>
+        **{r.name}**
+        <caption>{`1d20+${r.mod} → [${r.die}] + ${r.mod}`}</caption>
+        <text color={r.ok?"success":"danger"} size="sm">{r.ok?"Sucesso":"Falha"}</text>
+      </box>
+      <title size="2xl">{r.die+r.mod}</title>
+    </row>
+  {/each}
+  <caption>Três rolagens efetivamente executadas em Python, com o script do GitHub e hash verificado.</caption>
+</card>
+
+A substituição da mola recupera o sexto mecanismo de proteção. A válvula exige mais trabalho: somente após substituir sua vedação e corrigir o alinhamento na bancada você consegue remontá-la adequadamente.
+
+A água volta a circular pelas duas tubulações. Os indicadores de circulação retornam à faixa normal de operação.
+
+### 2. Teste da distribuição
+
+De volta ao coletor central, você inicia a distribuição de teste, mantendo os dispositivos de segurança ativos. Os seis mecanismos respondem corretamente, e a energia alcança os trechos locais inspecionados.
+
+<box background="#172521" theme="dark" radius="lg" padding={4} gap={2}>
+  <title size="lg" color="#a5e6c2">SISTEMA DE ALIMENTAÇÃO LOCAL</title>
+  <divider color="#426154"/>
+  {#each ["Estação térmica","Oficina de manutenção","Salão superior","Coletor central","Proteção da rede — 6/6","Reservatório e circulação","Distribuição local — 6/6"] as item}
+    <row align="center">
+      <icon name="check-circle" color="#79d6a3"/>
+      <box flex={1}><text color="#d9e6dd">{item}</text></box>
+      <text color="#79d6a3" size="sm">Operacional</text>
+    </row>
+  {/each}
+  <divider color="#426154"/>
+  <text textAlign="center" color="#79d6a3" weight="medium">REDE AUXILIAR RECUPERADA</text>
+</box>
+
+### 3. A porta do núcleo
+
+Um som grave ecoa pela câmara. Na pesada porta ao fundo, seis símbolos circulares se iluminam sucessivamente. O mecanismo interno recolhe as travas, e uma inscrição surge sobre a superfície metálica:
+
+*“Alimentação restabelecida. Acesso ao núcleo de distribuição disponível.”*
+
+A porta está destravada, mas permanece fechada. Você ainda não sabe o que existe do outro lado, nem quais instalações mais distantes poderão receber energia.
+
+<card gap={2}>
+  <caption>Experiência adquirida — proteção e circulação recuperadas</caption>
+  <title size="xl" color="success">+50 XP</title>
+  **525/900 XP — Nível 2**
+  <box height={2} radius="full" background="surface-tertiary" clip>
+    <box width="58.33%" height="100%" background="#26925b"/>
+  </box>
+</card>
+
+Eron está acordado há quase 24 horas. A rede auxiliar conhecida está funcionando, mas ainda existem setores inexplorados.
+
+**O que você faz?**
+
+---
+
+**[LOG DE MEMÓRIA DA CAMPANHA]**
+
+- **Localização atual:** Câmara do coletor central, Monte Veyra, Dia 7, 05h35.
+- **NPCs presentes e relação:** Nenhum detectado.
+- **Linha de missão ativa:** Explorar o núcleo de distribuição.
+- **Eventos cruciais:** Proteção, circulação e distribuição local recuperadas; porta do núcleo destravada.
+- **Condições:** 21/21 PV | CA 16 | Ladino 1 / Artífice 1 | Inspiração Heroica disponível.
+- **Recursos:** 2/2 espaços de magia, 4/4 usos de Magia do Funileiro, quatro frascos de óleo em reserva e 2h35 de autonomia da lanterna.
+
+Utilizei peças da oficina e mantive a falha da primeira tentativa de reparo da válvula. Nenhuma magia ou material pessoal foi consumido, e não iniciei um descanso sem sua autorização.
+
+**GitHub:** commit confirmado; transcrição, estado, ficha, cronologia, XP e rolagens atualizados.
