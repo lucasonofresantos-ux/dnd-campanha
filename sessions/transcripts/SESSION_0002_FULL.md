@@ -14643,3 +14643,43 @@ Alda pega a chave da despensa e acrescenta, já a caminho da cozinha:
 - **Condições do jogador** · 30/30 PV, CA 16, 1.400/2.700 XP. Saldo de **71 PO, 9 PP e 7 PC**.
 
 **Commit confirmado no GitHub.**
+
+## [497] JOGADOR
+
+Vou caçar, pode rolar oque precisar até terminar e eu conseguir caçar algo e saquear e salgar a pele claro, a carne vem para a alda
+
+### Mestre — andamento
+
+Eron segue para a Trilha dos Corços. Vou conferir o equipamento e rolar a caça, o aproveitamento da presa e a conservação da pele conforme forem necessários.
+
+## [498] MESTRE
+
+Perto do riacho, duas marcas de casco cortam a sua própria pegada seca de uma caçada anterior. Você segue o rastro até perder de vista a trilha. Do outro lado de um tronco caído, um corço ergue a cabeça, ainda mastigando. Ele olha na direção do pouso. **Sua primeira flecha o abate.**
+
+Com as ferramentas de coureiro, você recupera a pele inteira e separa **cerca de 11 kg de carne**, incluindo o costelar. Coração e fígado seguem junto com a carne para Alda. Você salga a pele, guarda os demais materiais na Bolsa Porta-Tudo e recupera a flecha intacta.
+
+Já escureceu quando Alda abre a porta da cozinha. Ela ergue o costelar, vê os outros cortes e chama alguém para desocupar a mesa.
+
+— E eu aqui contando seis pratos! Entra, Eron. O quarto três é teu esta noite. Vou pôr a água do banho no fogo.
+
+Ela recebe toda a carne e te serve ensopado de feijão com uma ponta de linguiça e duas fatias do pão da Bina. **A troca está quitada.** O jantar está na mesa e a água do banho está esquentando.
+
+**Rolagens da caçada**
+
+| Teste | Dados e resultado |
+|---|---|
+| Sobrevivência para rastrear | `1d20+5` → [20] + 5 = **25** |
+| Furtividade | `1d20+9` → [13] + 9 = **22** |
+| Arco curto com vantagem | `2d20kh1+7` → [20, 14], mantém 20, descarta 14. **27, crítico** |
+| Dano crítico com Ataque Furtivo | `4d6+5` → [1, 4, 3, 3] + 5 = **16** |
+| Sobrevivência com ferramentas de coureiro | `2d20kh1+5` → [16, 6], mantém 16, descarta 6. **21** |
+
+**[LOG DE MEMÓRIA DA CAMPANHA]**
+
+- **Localização atual** · Hospedagem de Alda, Dia 11, cerca de 19h10.
+- **NPCs presentes e relação** · Alda recebeu a carne e honrou a troca.
+- **Linha de missão ativa** · Caçada e entrega concluídas. A pista do moinho segue em aberto.
+- **Eventos cruciais ocorridos** · Você conservou **1 pele salgada**, 2 orelhas, 2 galhadas, 4 ossos longos, 2 feixes de tendões e dentes aproveitáveis. Usou cerca de 1 kg de sal e restam **1,2 kg**.
+- **Condições do jogador** · 30/30 PV, CA 16, 1.400/2.700 XP. **30 flechas**. Saldo de **71 PO, 9 PP e 7 PC**. Jantar servido, banho e quarto 3 garantidos.
+
+**Commit confirmado no GitHub.**

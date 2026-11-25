@@ -591,3 +591,5 @@ Dia10 16h59–17h20: Eron acompanha os dois vigias na escolta de Berric até Iri
 - [478] Dia 11, 14h45. Pela referência ao pacote, destino interpretado como Nara. Eron devolve o caderno, informa o ocorrido e recebe 1 PO. Saldo 69 PO, 9 PP e 7 PC. Filho de Lena junto ao quadro, serviço da carroça disponível por 2 PO.
 
 - [486] Dia 11, 15h40–16h15. Eron aceita carona e pede notícias. Lena relata lã preta comprida na grade do moinho a uma légua abaixo do vau e conversa com Celina, que perdeu duas ovelhas pretas tosquiadas há três noites. Casa com barco virado como galinheiro acima do moinho. Ao chegar ao pouso Lena paga 2 PO e remove aviso. Saldo 71 PO, 9 PP, 7 PC.
+
+- [498] Dia 11, 16h25–19h10. Caça na Trilha dos Corços: Sobrevivência 25, Furtividade 22, ataque crítico 27, dano 16, aproveitamento 21. Flecha recuperada intacta. Pele salgada (1 kg consumido, 1,2 kg restante), duas orelhas, duas galhadas, quatro ossos longos, dois feixes de tendões e dentes em posse. 11 kg de carne incluindo costelar, mais coração e fígado entregues a Alda. Troca quitada, jantar servido ainda não consumido, banho aquecendo e quarto 3 garantido.
