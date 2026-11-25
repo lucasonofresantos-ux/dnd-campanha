@@ -10532,3 +10532,196 @@ UM-021 permanece disponível junto à mesa.
 Orientação foi aplicada ao momento decisivo da investigação, não às duas horas inteiras de leitura. O d4 foi efetivamente executado em Python com o script do repositório e seu hash conferido. O 17 informado foi interpretado como resultado natural do d20.
 
 **GitHub:** commit confirmado; transcrição, ficha, estado, cronologia, XP e rolagens atualizados.
+
+
+## [345] JOGADOR
+
+- obrigado.
+Tomo o café e vou para território e assim por diante até terminar em ordens e acontecimentos administrativos
+Acho que aqui da para manter o resultado
+
+## [346] MESTRE
+
+— De nada, artesão — responde UM-019, recolhendo os utensílios após seu desjejum.
+
+UM-021 passa o restante do dia auxiliando na localização dos documentos. Gradualmente, os volumes e as placas metálicas vão ocupando a mesa de leitura.
+
+**Investigação:** mantenho o teste anterior para toda esta pesquisa documental, sem novas rolagens. Documentos destruídos ou sujeitos a restrições continuam fora do seu alcance.
+
+## I — Territórios e cartografia
+<caption>Dia 8 — 08h15 às 09h45</caption>
+
+Você descobre que os seis territórios não eram vizinhos. Alguns estavam separados por oceanos e distâncias que exigiriam décadas de viagem convencional.
+
+<box border radius="xl" padding={2}>
+  <svg viewBox="0 0 340 320" width="100%">
+    {#each [{x:170,y:42},{x:282,y:100},{x:282,y:224},{x:170,y:280},{x:58,y:224},{x:58,y:100}] as p}
+      <line x1="170" y1="161" x2={p.x} y2={p.y} stroke="#b69252" strokeWidth="3" strokeDasharray="5 4"/>
+    {/each}
+    <circle cx="170" cy="161" r="45" fill="#997337" fillOpacity=".12" stroke="#b69252" strokeWidth="1.5"/>
+    <path d="M139 170L160 139L174 156L186 140L201 170Z" fill="#b69252"/>
+    <text x="170" y="184" fontSize="10" fontWeight="bold" fill="currentColor" textAnchor="middle">THÛN-KHAZAD</text>
+    <text x="170" y="197" fontSize="9" fill="currentColor" textAnchor="middle">Monte Veyra</text>
+    {#each [{x:170,y:42,n:"Karak-Mith",s:"Mina",i:"⛏"},{x:282,y:100,n:"Barak-Zirak",s:"Vale",i:"🌾"},{x:282,y:224,n:"Khaz-Vardun",s:"Oficina",i:"⚒"},{x:170,y:280,n:"Dun-Khazâr",s:"Lança",i:"⚔"},{x:58,y:224,n:"Thoradin",s:"Balança",i:"⚓"},{x:58,y:100,n:"Baraz-Khaz",s:"Saber",i:"📖"}] as p}
+      <circle cx={p.x} cy={p.y} r="24" fill="#b69252" fillOpacity=".14" stroke="#b69252"/>
+      <text x={p.x} y={p.y+6} fontSize="19" textAnchor="middle">{p.i}</text>
+      <text x={p.x} y={p.y-30} fontSize="10.5" fontWeight="bold" textAnchor="middle" fill="currentColor">{p.n}</text>
+      <text x={p.x} y={p.y+38} fontSize="10" textAnchor="middle" fill="currentColor">{p.s}</text>
+    {/each}
+  </svg>
+  <caption textAlign="center">Representação esquemática da rede imperial. Não corresponde à posição geográfica real dos territórios.</caption>
+</box>
+
+| Território | Descobertas |
+|---|---|
+| Karak-Mith | Montanha cujos veios minerais se regeneravam pela influência do Plano Elemental da Terra. |
+| Barak-Zirak | Vale extraordinariamente fértil, com produção agrícola durante todo o ano. |
+| Khaz-Vardun | Centro de engenharia, metalurgia, fabricação de máquinas e construtos. |
+| Dun-Khazâr | Reino militar, sede das grandes legiões anãs. |
+| Thoradin | Porto comercial construído dentro de uma montanha costeira, conectado ao mar e a um rio navegável. |
+| Baraz-Khaz | Comunidade de estudiosos, mestres rúnicos, eremitas e curadores. |
+
+Os mapas são antigos. Você ainda não consegue relacionar com segurança os seis territórios à geografia do mundo atual.
+
+## II — Os Guardiões e o Conselho dos Seis
+<caption>09h45 às 10h50</caption>
+
+Você descobre que Dorrin Barba de Cobre não era originalmente um rei, guerreiro famoso ou proprietário de grandes riquezas.
+
+Era um anão humilde que acolheu os outros seis fundadores. Sua dedicação e a confiança que conquistou fizeram dele o primeiro Guardião.
+
+Seus descendentes herdaram a autoridade máxima do império, mas também a obrigação de proteger e administrar suas riquezas, sem tratá-las como propriedade pessoal.
+
+— Barba de Cobre era uma linhagem de grande importância — confirma UM-021.
+
+Apesar da pesquisa, você não encontra documentação que comprove a descendência direta de Gruner.
+
+## III — Engenharia e infraestrutura
+<caption>10h50 às 13h20</caption>
+
+Aqui estão algumas das descobertas mais extraordinárias do arquivo.
+
+### Os Seis Caminhos
+
+Cada Caminho era constituído por um corredor de exatamente **50 metros**, capaz de comprimir distâncias imensas entre dois pontos fixos do Plano Material.
+
+Não eram viagens no tempo. Uma pessoa poderia atravessar um corredor em poucos instantes e alcançar uma região situada a décadas de viagem convencional.
+
+A energia necessária provinha da Grande Forja, alimentada pelo magma do Monte Veyra.
+
+Os projetos completos de construção das matrizes e de novas ancoragens possuem acesso restrito.
+
+### Os sete níveis de Thûn-Khazad
+
+Você encontra um esquema da organização original do complexo.
+
+<box border radius="xl" padding={3} gap={1}>
+  {#each [{n:1,t:"Recepção e câmaras dos Guardiões",d:"Sete suítes destinadas às autoridades",c:"#9d8050"},{n:2,t:"Salão das Seis Portas",d:"Caminhos e câmaras do Conselho",c:"#9d8050"},{n:3,t:"Núcleo das Runas",d:"Controle, autenticação e diagnóstico",c:"#6389b2"},{n:4,t:"Reservas estratégicas",d:"Alimentos, materiais e componentes",c:"#8b927c"},{n:5,t:"Aposentos e estudo",d:"Residências e espaços de pesquisa",c:"#8b927c"},{n:6,t:"Serviços",d:"Cozinhas, manutenção e depósitos",c:"#398d68"},{n:7,t:"Grande Forja",d:"Captação e distribuição de energia geotérmica",c:"#c16a3c"}] as l}
+    <row align="center" gap={3} background="surface-secondary" radius="md" padding={2}>
+      <box background={l.c} radius="sm" size="34px" align="center" justify="center">
+        <title color="#ffffff">{l.n}</title>
+      </box>
+      <box flex={1} gap={0}>
+        **{l.t}**
+        <caption>{l.d}</caption>
+        {#if l.n===6}<text size="xs" color="success">Setor de serviço já explorado por Eron</text>{/if}
+      </box>
+    </row>
+  {/each}
+  <caption>As galerias auxiliares não estão todas representadas no esquema. O estado atual dos outros níveis é desconhecido.</caption>
+</box>
+
+### O Sistema
+
+Você finalmente compreende a natureza de boa parte das instalações que recuperou.
+
+O Sistema era uma infraestrutura mágico-mecânica programada para administrar energia, iluminação, água, ventilação, mecanismos de segurança, construtos e os próprios Caminhos.
+
+Cada território possuía uma filial do Sistema e fontes auxiliares de energia, permitindo certo grau de funcionamento independente.
+
+Os construtos não eram seres vivos. Eram máquinas programadas para executar funções específicas e obedecer a autoridades devidamente autenticadas.
+
+— Correto, artesão — confirma UM-021.
+
+## IV — Registros populacionais
+<caption>13h20 às 14h30</caption>
+
+<grid columns={2}>
+  <grid-item>
+    <card gap={1}>
+      <caption>População no apogeu</caption>
+      <title size="2xl">≈ 30.000</title>
+      Habitantes
+    </card>
+  </grid-item>
+  <grid-item>
+    <card gap={1}>
+      <caption>Período de prosperidade</caption>
+      <title size="2xl">≈ 500</title>
+      Anos
+    </card>
+  </grid-item>
+</grid>
+
+Os registros descrevem uma sociedade que havia superado a fome e a pobreza por meio da integração dos recursos dos seis territórios.
+
+Você procura evidências de mortes em massa, evacuações ou migrações que expliquem o abandono das instalações.
+
+Não encontra uma conclusão.
+
+Os registros populacionais disponíveis não informam o destino final da população.
+
+## V — Ordens e acontecimentos administrativos
+<caption>14h30 às 16h20</caption>
+
+Você encontra descrições de protocolos de emergência que poderiam ser executados pelo Sistema em caso de interrupção grave da energia central.
+
+Esses procedimentos incluíam o fechamento dos Caminhos, o selamento das entradas externas, a redução do consumo energético e a suspensão das atividades de numerosos construtos.
+
+O protocolo corresponde, em termos gerais, ao estado em que você encontrou as instalações.
+
+Contudo, não há evidência suficiente para determinar se o Grande Selamento foi provocado por uma falha da forja, uma ordem autenticada ou alguma outra condição.
+
+Ao chegar aos registros administrativos reservados, UM-021 impede a consulta de determinados documentos.
+
+— A autorização de sua credencial não abrange ordens de autoridade superior. Os registros operacionais completos do Sistema encontram-se no Núcleo das Runas.
+
+— O acesso a essa área necessita de verificação adicional.
+
+---
+
+## Encerramento da pesquisa — 16h20
+
+<row align="center">
+  <box flex={1} gap={1}>
+    <caption>Experiência — Pesquisa histórica e técnica</caption>
+    **800/900 XP — Nível 2**
+    <box height={2} radius="full" background="surface-tertiary" clip>
+      <box height="100%" width="88.89%" background="#26925b"/>
+    </box>
+  </box>
+  <title color="success" size="xl">+50 XP</title>
+</row>
+
+— Posso auxiliá-lo a localizar o acesso ao Núcleo das Runas, artesão — informa UM-021.
+
+Você permanece no arquivo, diante dos documentos.
+
+**O que você faz?**
+
+---
+
+**[LOG DE MEMÓRIA DA CAMPANHA]**
+
+- **Localização atual:** Arquivo administrativo, Dia 8, 16h20.
+- **NPCs presentes:** UM-021, cooperativo.
+- **Linha de missão ativa:** Investigar o Grande Selamento, o estado dos Caminhos e a linhagem Barba de Cobre.
+- **Eventos cruciais:** Conhecimento da estrutura de sete níveis, compressão espacial, Grande Forja e protocolos de emergência.
+- **Condições:** 21/21 PV | CA 16 | Sem exaustão.
+- **Provisões:** Desjejum consumido, 9 rações e cerca de 7,85 kg de carne salgada sob custódia de UM-019.
+
+*Nota do Mestre:* consultei as crônicas originais de Thûn-Khazad para preservar o cenário. <FileCite ref_id="turn131file0"/>
+
+**Auditoria dos dados:** o d4 de Orientação da resposta anterior não teve execução Python comprovada. O resultado verificável da Investigação é 17 + 6 = 23, suficiente para esta pesquisa. Preservo os acontecimentos e não faço nova rolagem.
+
+**GitHub:** commit confirmado; transcrição, ficha, estado, cronologia, XP e auditoria atualizados.
