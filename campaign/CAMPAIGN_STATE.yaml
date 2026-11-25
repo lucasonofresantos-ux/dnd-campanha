@@ -233,7 +233,7 @@ campaign_time:
   day: 11
   time_of_day: "Dia 11, cerca de 16h25"
   season: "final do outono"
-  elapsed_game_time: "Dia 11, 16h20–16h25"
+  elapsed_game_time: "Dia 11, cerca de 16h25"
 location:
   continent: Asterion
   polity: "Terras Livres de Avenhar (homebrew), fora de Valdren"
@@ -245,7 +245,7 @@ scene:
   id: OPENING-001
   status: "alda_inn_afternoon_day11"
   current_npcs_present: ["Alda Tress"]
-  immediate_visible_situation: "Dia 11, 16h25. Eron pergunta sobre moinho. Alda conhece o caminho: desde o vau seguir a água pela margem do salgueiro partido, ramal superior para Celina, inferior para moinho. Bina compra farinha ali. Alda não recebeu relato de Lena de Eron."
+  immediate_visible_situation: "Dia 11, cerca de 16h25. Eron pondera caçar e mantém incerta a visita ao moinho. Alda sugere Trilha dos Corços e manifesta interesse em comprar costelas para amanhã. Sem compromisso de venda ou partida declarada."
   discovered_traps:
     - location: "Trilha dos Corcos, junto ao riacho"
       state: disarmed_safe_wire_left_at_tree
@@ -290,8 +290,8 @@ world:
 transcription:
   character_creation_history: sessions/transcripts/SESSION_0001_FULL.md
   narrative_session: sessions/transcripts/SESSION_0002_FULL.md
-  last_saved_player_turn: "[491] JOGADOR — pergunta sobre um moinho."
-  last_saved_dm_turn: "[492] MESTRE — Alda explica o caminho."
+  last_saved_player_turn: "[493] JOGADOR — considera caçar."
+  last_saved_dm_turn: "[494] MESTRE — conversa sobre caça."
 notes:
   - "Primeira resposta de cena será salva literalmente e sem revelar preparativos de dm."
   - "Nunca tratar a aprovação da ficha como XP, nem mudar recursos automaticamente."

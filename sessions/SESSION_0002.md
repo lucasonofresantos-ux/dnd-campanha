@@ -339,3 +339,5 @@ Auditoria [270]: no histórico não consta execução efetiva Python para Percep
 - [490] Dia 11, 16h20. Eron entra no salão e pergunta pelo dia de Alda. Ela conta que Bina trouxe pão e falou da busca pelo caderno. Nenhum visitante o procurou na hospedagem desde a manhã. Alda pergunta pelo dia dele.
 
 - [492] Dia 11, 16h25. Eron pergunta sobre moinho. Alda conhece o caminho: desde o vau seguir a água pela margem do salgueiro partido, ramal superior para Celina, inferior para moinho. Bina compra farinha ali. Alda não recebeu relato de Lena de Eron.
+
+- [494] Dia 11, cerca de 16h25. Eron pondera caçar e mantém incerta a visita ao moinho. Alda sugere Trilha dos Corços e manifesta interesse em comprar costelas para amanhã. Sem compromisso de venda ou partida declarada.

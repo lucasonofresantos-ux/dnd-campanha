@@ -14591,3 +14591,29 @@ Alda recolhe a tesourinha da mesa e guarda no bolso recém-costurado.
 - **Condições do jogador** · 30/30 PV, CA 16, 1.400/2.700 XP. Saldo de **71 PO, 9 PP e 7 PC**.
 
 **Commit confirmado no GitHub.**
+
+## [493] JOGADOR
+
+- só intuição, mas não sei se vou para lá amanhã, tô bom de aproveitar o tempo que tenho e tentar caçar mais alguma coisa
+
+### Mestre — andamento
+
+Alda assente e deixa o assunto do moinho descansar.
+
+## [494] MESTRE
+
+— Amanhã você vê o que faz — diz Alda. — Se for caçar ainda hoje, deve pegar o fim da tarde na Trilha dos Corços. Só conta com a volta também. Lá debaixo das árvores escurece bem antes daqui.
+
+Ela se levanta, pega uma tigela vazia na mesa ao lado e para à porta da cozinha.
+
+— E, se trouxer caça pra vender, passa aqui. Pra panela de amanhã me servem umas costelas. Já tem dois dias que um hóspede meu tira o nabo da sopa, olha embaixo e torna a pôr no prato. Acho que ele ainda tem esperança de encontrar carne.
+
+**[LOG DE MEMÓRIA DA CAMPANHA]**
+
+- **Localização atual** · Salão da hospedagem de Alda, Dia 11, cerca de 16h25.
+- **NPCs presentes e relação** · Alda Tress, interessada em comprar costelas se Eron trouxer caça.
+- **Linha de missão ativa** · Eron considera caçar. A visita ao moinho segue sem data.
+- **Eventos cruciais ocorridos** · Alda sugeriu a Trilha dos Corços para o fim da tarde. Eron ainda está na hospedagem.
+- **Condições do jogador** · 30/30 PV, CA 16, 1.400/2.700 XP. Saldo de **71 PO, 9 PP e 7 PC**.
+
+**Commit confirmado no GitHub.**
