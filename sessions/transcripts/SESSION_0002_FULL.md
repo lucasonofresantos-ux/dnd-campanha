@@ -9874,3 +9874,32 @@ UM-017 inclina ligeiramente a cabeça.
 Utilizei Orientação e Consertar duas vezes cada, e renovei Luz às 19h40, até 20h40. Não foram consumidos materiais do depósito nem espaços de magia. As oito rolagens foram executadas em Python com o script do repositório e hash verificado. A falha de Percepção foi preservada, exigindo uma busca mais demorada. O funcionamento das unidades não concede autorização administrativa.
 
 **GitHub:** commit confirmado; transcrição, ficha, estado, cronologia, XP e rolagens atualizados.
+
+
+## [323] JOGADOR
+
+- acho que agora aisso reduz bastante o meu trabalho... O do refeitório seq eqquq deixar com ele a carne de corço ele consegue preparar?
+
+## [324] MESTRE
+
+UM-017 responde em anão:
+
+— Afirmativo, artesão. A unidade 019 possui rotinas de preparação de alimentos, limpeza e conservação do refeitório. A preparação de carne é possível, desde que os equipamentos da cozinha e o abastecimento de água estejam operacionais.
+
+— A unidade deverá examinar os mantimentos antes do preparo.
+
+Você ainda possui **8,5 kg de carne salgada de corço**. UM-019 poderá avaliar sua conservação, retirar o excesso de sal e preparar porções, caso a cozinha esteja em condições de uso.
+
+Com as cinco unidades recuperadas, elas podem cuidar de suas tarefas habituais sem depender constantemente de você.
+
+**[LOG DE MEMÓRIA DA CAMPANHA]**
+
+- **Localização atual:** Acesso administrativo, Dia 7, 20h31.
+- **NPCs presentes:** UM-017 e UM-021, cooperativos.
+- **Missão ativa:** Exploração do nível de serviço.
+- **Eventos cruciais:** Capacidade de preparação de alimentos de UM-019 esclarecida.
+- **Condições:** 21/21 PV | CA 16 | 725/900 XP.
+
+A carne permanece no seu inventário. A cozinha ainda não foi inspecionada.
+
+**GitHub:** commit confirmado.
