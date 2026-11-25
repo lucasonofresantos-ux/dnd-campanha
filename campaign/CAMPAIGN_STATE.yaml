@@ -218,21 +218,21 @@ character:
 campaign_time:
   calendar_system: "Asterion, dias relativos; nenhuma era/ano formal estabelecido"
   day: 10
-  time_of_day: "aproximadamente 10h05 do Dia 10"
+  time_of_day: "aproximadamente 10h07 do Dia 10"
   season: "final do outono"
-  elapsed_game_time: "Dia10 08h42–10h05, deslocamento, reconhecimento e recuperação dos sensores."
+  elapsed_game_time: "Dia10 10h05–10h07, ordem de segurança e preparação para saída."
 location:
   continent: Asterion
   polity: "Terras Livres de Avenhar (homebrew), fora de Valdren"
   area: "entroncamento da Estrada do Cascalho, próximo ao Pouso das Três Fontes"
   nearby: "encostas arborizadas da serra cujo monte mais alto é chamado Veyra"
-  exact_position: "Interior do vestíbulo de acesso original de Thûn-Khazad, entrada fechada."
-  travel_status: "Oito unidades operacionais; três estações recuperadas; sete níveis alimentados localmente. Vigilância exterior local recuperada, dois sensores conectados, acesso original fechado; demais intervenções exteriores suspensas. Retorno à cidade pendente; Caminhos selados até restauração e autorização expressa. Reservas em inventário, cofre fechado, certificação integral pendente."
+  exact_position: "Limiar interno do acesso original de Thûn-Khazad, entrada temporariamente aberta para saída."
+  travel_status: "Sensores exteriores operacionais; acesso original temporariamente aberto para saída, fechamento após travessia pendente; camuflagem a preservar. Oito unidades operacionais, manutenção interna e inventário continuam. Seis Caminhos selados. Retorno ao Pouso das Três Fontes e tentativa de caça declarados, testes pendentes."
 scene:
   id: OPENING-001
-  status: "exterior_sensors_operational_city_return_pending_day10"
+  status: "departure_hunt_checks_pending_day10"
   current_npcs_present: ["UM-027, cooperativa", "Sistema Central, autoridade reconhecida"]
-  immediate_visible_situation: "Dia10 10h05: jogador pediu continuar após interrupção da resposta anterior. Registros [407–408] localizados no GitHub; retomada sem avançar horário, sem sair do vestíbulo, sem novo XP, dano, gasto ou rolagem. UM027 confirma manutenção interna/vigilância/inventário contínuos, Caminhos selados. Marca com Eron. Auditoria [408]: cinco expressões adicionais não possuem chamada efetiva ao executor Python no histórico disponível, apesar da alegação anterior; acrescentar registros false, preservar dados fornecidos pelo jogador (18/20), fatos e XP1325. A resposta anterior foi interrompida na entrega após +25 XP, embora o texto completo tenha sido gravado no repositório; este turno retoma sem repetir ou duplicar ações."
+  immediate_visible_situation: "Dia10 10h05–10h07: jogador ordenou manter saídas seladas/camufladas enquanto retorna cidade, declarou Furtividade e Percepção no percurso e tentativa de caçar corço. Sistema confirma ordem de fechamento e preservação camuflagem, vigilância e restauração interna contínuas, seis Caminhos selados. UM027 informa sensores sem pessoas detectadas nas imediações, não garantia absoluta. Eron aciona Marca e entrada original abre fresta para saída, ainda no limiar interno; fechamento após travessia pendente, Marca em posse. Solicitados testes Furtividade 1d20+9, Percepção 1d20+7, Sobrevivência 1d20+5; aguarda dados naturais ou autorização explícita para rolar, conforme regra padrão. Sem rolagem nova, abate, disparo, XP, gasto, dano ou alteração de recursos. Destino Pouso das Três Fontes, caça no percurso. PV30/30 CA16 XP1325/2700, 24 flechas utilizáveis (19 aljava,5 reserva)."
   discovered_traps:
     - location: "Trilha dos Corcos, junto ao riacho"
       state: disarmed_safe_wire_left_at_tree
@@ -277,8 +277,8 @@ world:
 transcription:
   character_creation_history: sessions/transcripts/SESSION_0001_FULL.md
   narrative_session: sessions/transcripts/SESSION_0002_FULL.md
-  last_saved_player_turn: "[411] JOGADOR — confirma se sensores foram consertados após corte."
-  last_saved_dm_turn: "[412] MESTRE — confirma dois sensores operacionais, sem avanço."
+  last_saved_player_turn: "[413] JOGADOR — ordena camuflagem e fechamento, retorno à cidade e tentativa de caça."
+  last_saved_dm_turn: "[414] MESTRE — prepara saída e solicita testes, Dia10 10h07."
 notes:
   - "Primeira resposta de cena será salva literalmente e sem revelar preparativos de dm."
   - "Nunca tratar a aprovação da ficha como XP, nem mudar recursos automaticamente."
