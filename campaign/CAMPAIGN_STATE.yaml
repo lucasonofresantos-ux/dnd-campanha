@@ -245,7 +245,7 @@ scene:
   id: OPENING-001
   status: "durnak_commission_completed_day11"
   current_npcs_present: ["Durnak Mão de Ferro, amistoso"]
-  immediate_visible_situation: "Dia 11, 09h35–13h35. Eron aceita e conclui a encomenda de Durnak: duas enxadas e uma foice reparadas, quatro braçadeiras prontas. Almoço fornecido, 1 PO recebida. Saldo 68 PO, 4 PP e 7 PC. Sem teste ou XP."
+  immediate_visible_situation: "Dia 11, 13h35. Durnak oferece 5 PP para reparar a balança até amanhã cedo. Oferta pendente."
   discovered_traps:
     - location: "Trilha dos Corcos, junto ao riacho"
       state: disarmed_safe_wire_left_at_tree
@@ -290,8 +290,8 @@ world:
 transcription:
   character_creation_history: sessions/transcripts/SESSION_0001_FULL.md
   narrative_session: sessions/transcripts/SESSION_0002_FULL.md
-  last_saved_player_turn: "[463] JOGADOR — aceita o serviço."
-  last_saved_dm_turn: "[464] MESTRE — encomenda paga, Dia 11, 13h35."
+  last_saved_player_turn: "[465] JOGADOR — pergunta por mais trabalho."
+  last_saved_dm_turn: "[466] MESTRE — proposta de conserto da balança."
 notes:
   - "Primeira resposta de cena será salva literalmente e sem revelar preparativos de dm."
   - "Nunca tratar a aprovação da ficha como XP, nem mudar recursos automaticamente."

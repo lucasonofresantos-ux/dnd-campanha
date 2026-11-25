@@ -14199,3 +14199,31 @@ Durnak pega a foice, firma o cabo e experimenta a lâmina num tufo de capim dos 
 - **Condições do jogador** · 30/30 PV, CA 16, 1.400/2.700 XP. Saldo de **68 PO, 4 PP e 7 PC**. 30 flechas, sendo 20 na aljava e 10 de reserva.
 
 Serviço de ofício concluído sem teste. **Commit confirmado no GitHub.**
+
+## [465] JOGADOR
+
+- tem mais alguma coisa para fazer
+
+### Mestre — atualização de andamento
+
+Vou conferir se ficou alguma encomenda em aberto na ferraria.
+
+## [466] MESTRE
+
+— Tem, se quiser sujar as mãos de graxa também.
+
+Durnak tira da gaveta uma balança de dois pratos. Põe um peso em cada lado. O prato esquerdo desce. Ele troca os pesos de lado e o mesmo prato torna a descer. Quando ergue o braço da balança com o polegar, ouve-se um estalinho.
+
+— Ontem pesei o mesmo pedaço de cobre três vezes. Na terceira, o vendedor já estava juntando as coisas pra ir embora. **Te pago 5 PP pra descobrir onde ela prende e acertar a pesagem.** Pode usar minha bancada. Preciso dela amanhã cedo.
+
+Ele deixa a balança montada e os dois pesos ao teu alcance.
+
+**[LOG DE MEMÓRIA DA CAMPANHA]**
+
+- **Localização atual** · Ferraria de Durnak, Dia 11, por volta das 13h35.
+- **NPCs presentes e relação** · Durnak Mão de Ferro, parceiro de ofício.
+- **Linha de missão ativa** · Proposta em aberto para consertar a balança até amanhã cedo.
+- **Eventos cruciais ocorridos** · O prato esquerdo baixou nas duas pesagens.
+- **Condições do jogador** · 30/30 PV, CA 16, 1.400/2.700 XP. Saldo de 68 PO, 4 PP e 7 PC.
+
+**Commit confirmado no GitHub.**
