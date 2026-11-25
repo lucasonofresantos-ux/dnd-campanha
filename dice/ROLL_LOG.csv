@@ -495,3 +495,10 @@ date,campaign_id,stage,attempt,expression,six_rolls_faces_in_order,six_attribute
 2026-11-25,ERON-RIVER-ASTERION-001,guidance_connection_um027_day9,1,1d4,"2","11+2=13",2,true
 2026-11-25,ERON-RIVER-ASTERION-001,arcana_records_um027_day9,2,2d20kh1+6,"19,17","19+6; kept index 0",25,true
 2026-11-25,ERON-RIVER-ASTERION-001,guidance_records_um027_day9,2,1d4,"2","25+2=27",2,true
+2026-11-25,ERON-RIVER-ASTERION-001,audit_unverified_investigation_traces_um027_day9,1,2d20kh1+6,"6,20","20+6; kept index 1",26,false
+2026-11-25,ERON-RIVER-ASTERION-001,audit_unverified_guidance_traces_um027_day9,1,1d4,"2","26+2=28",2,false
+2026-11-25,ERON-RIVER-ASTERION-001,audit_unverified_tinkers_repair_um027_day9,1,2d20kh1+6,"18,12","18+6; kept index 0",24,false
+2026-11-25,ERON-RIVER-ASTERION-001,audit_unverified_arcana_connection_um027_day9,1,2d20kh1+6,"5,5","5+6; kept index 0",11,false
+2026-11-25,ERON-RIVER-ASTERION-001,audit_unverified_guidance_connection_um027_day9,1,1d4,"2","11+2=13",2,false
+2026-11-25,ERON-RIVER-ASTERION-001,audit_unverified_arcana_records_um027_day9,2,2d20kh1+6,"19,17","19+6; kept index 0",25,false
+2026-11-25,ERON-RIVER-ASTERION-001,audit_unverified_guidance_records_um027_day9,2,1d4,"2","25+2=27",2,false
