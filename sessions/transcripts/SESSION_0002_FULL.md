@@ -9903,3 +9903,60 @@ Com as cinco unidades recuperadas, elas podem cuidar de suas tarefas habituais s
 A carne permanece no seu inventário. A cozinha ainda não foi inspecionada.
 
 **GitHub:** commit confirmado.
+
+
+## [325] JOGADOR
+
+Continuando a companhia de onde parou
+- me ajude a levar isso lá, se conseguir preparar ótimo e depois me leve aos dormitórios
+
+## [326] MESTRE
+
+## Eron River — Thûn-Khazad
+<caption>Dia 7 — 20h31 | Nível de serviço</caption>
+
+UM-017 inclina a cabeça.
+
+— Afirmativo, artesão. Acompanhe-me.
+
+O construto ajuda a transportar a carne salgada de corço até o refeitório. Ao chegarem, UM-019 está limpando as mesas de pedra e organizando os utensílios. Ele recebe a carne, examina sua conservação e verifica os equipamentos da cozinha.
+
+— Abastecimento de água funcional. Equipamento de cocção operacional. Iniciarei a preparação após a retirada do excesso de sal. Avisarei quando estiver pronta.
+
+UM-017 conduz você por outra galeria, onde existem portas de madeira reforçadas com bronze. Acima da entrada, uma inscrição em anão identifica o setor:
+
+**ALOJAMENTOS DOS ARTESÃOS E TRABALHADORES**
+
+A primeira porta encontra-se entreaberta. Pela abertura, você consegue distinguir duas camas com estruturas de pedra, um armário, uma pequena escrivaninha e uma arca aos pés de uma das camas. Os tecidos estão deteriorados pelo tempo, e uma espessa camada de poeira cobre o mobiliário.
+
+— Alojamentos disponíveis para inspeção, artesão. Condições de ocupação ainda não verificadas.
+
+UM-017 permanece ao seu lado, no corredor.
+
+**O que você faz?**
+
+---
+
+**[LOG DE MEMÓRIA DA CAMPANHA]**
+
+- **Localização atual:** Dormitórios do nível de serviço, Dia 7, aproximadamente 20h38.
+- **NPCs presentes:** UM-017, cooperativo. UM-019 no refeitório, preparando a carne.
+- **Missão ativa:** Exploração e recuperação das instalações de Thûn-Khazad.
+- **Eventos cruciais:** 8,5 kg de carne salgada entregues ao refeitório. Dormitórios localizados, ainda não inspecionados.
+- **Condições:** 21/21 PV | CA 16 | Sem exaustão.
+- **Recursos:** 2/2 espaços de magia, 4/4 usos de Magia do Funileiro, 9 rações. Luz ativa até 20h40.
+
+<row align="center">
+  <box flex={1} gap={1}>
+    <caption>Progresso para o nível 3</caption>
+    **725/900 XP**
+    <box height={2} radius="full" background="surface-tertiary" clip>
+      <box width="80.56%" height="100%" background="#26925b"/>
+    </box>
+  </box>
+  <title size="xl">80,6%</title>
+</row>
+
+Nenhuma rolagem foi necessária para o transporte e deslocamento. A carne ainda não está pronta, e a entrega não garante sua conservação indefinida.
+
+**GitHub:** commit confirmado; transcrição, estado, ficha e cronologia atualizados.
