@@ -14058,3 +14058,38 @@ Seus pertences estão no quarto. A chave continua em sua posse.
 **Nota do Mestre:** defini o despertar às 04h30 para atender ao pedido de acordar cedo. Nenhuma nova cobrança, rolagem ou XP.
 
 **GitHub:** commit confirmado.
+
+## [457] JOGADOR
+
+vou esperar amanhecer e vou pegar um café da manhã e vou perguntar para a alda se tem algum recado
+
+## [458] MESTRE
+
+## Dia 11 — 06h30 | Hospedagem de Alda Tress
+
+O amanhecer revela uma fina névoa sobre os telhados do povoado. Você desce ao salão, onde Alda já está preparando as primeiras refeições do dia.
+
+— Bom dia, Eron! Dormiu bem?
+
+Ela serve dois ovos, pão fresco, queijo e uma caneca de leite quente. Quando você pergunta pelos recados, Alda responde:
+
+— Ninguém deixou recado para você desde que voltou. Pelo menos não aqui. A ferraria deve abrir daqui a pouco.
+
+O povoado começa a despertar. Do lado de fora, comerciantes começam a abrir suas portas.
+
+**Café da manhã:** 1 PP.
+**Saldo:** 67 PO, 4 PP e 7 PC.
+
+---
+
+**[LOG DE MEMÓRIA DA CAMPANHA]**
+
+- **Localização atual:** Salão da hospedagem de Alda, Dia 11, 06h30.
+- **NPCs presentes e relação:** Alda, amistosa.
+- **Linha de missão ativa:** Restauração de Thûn-Khazad.
+- **Eventos cruciais:** Café da manhã servido; nenhum recado na hospedagem.
+- **Condições:** 30/30 PV | CA 16 | 1.400/2.700 XP | 67 PO, 4 PP e 7 PC | 23 flechas.
+
+**Nota do Mestre:** mantive o preço do desjejum anterior e defini o horário e o clima do amanhecer. Nenhuma nova rolagem ou XP. A chave do quarto continua em sua posse.
+
+**GitHub:** commit confirmado.
