@@ -15018,3 +15018,33 @@ Para reconstruir como o pano se moveu entre esses dois pontos, **role Inteligên
 - **Condições do jogador** · 30/30 PV, CA 16, 1.425/2.700 XP. Saldo de 73 PO, 2 PP e 4 PC.
 
 **Commit confirmado no GitHub.**
+
+## [523] JOGADOR
+
+Role oque precisar e use oque precisar para onde estava a lã e a porteira
+
+### Mestre — andamento
+
+Eron usa Orientação e compara o rasgo da manta com a farpa e os fios presos na tranca.
+
+## [524] MESTRE
+
+**Investigação com Orientação** · `1d20+6` → [20] + 6 = 26. `1d4` → [1]. **Total 27.**
+
+Celina segura a manta aberta enquanto você acompanha os fios repuxados desde o rasgo. Eles formam uma diagonal. Quando ela desloca a bainha para a direita, em direção à tranca, o rasgo se alinha com a farpa do lado de fora. Mais adiante na mesma borda há uma marca estreita de sebo. Ela tem a largura da ponta da barra. No fundo do encaixe, os três fios pretos estão achatados contra a madeira, e dá para ver a marca da trama no sebo entre eles.
+
+**A manta foi puxada do meio da porteira em direção à tranca. A barra chegou a baixar sobre o tecido.** A farpa segurou uma parte enquanto o restante corria para a direita. Isso explica tanto o rasgo quanto os fios no encaixe. Celina olha para a marca de sebo e diz, mais baixo:
+
+— Eu já tinha passado a tranca quando pendurei a manta. Disso eu lembro bem.
+
+Se a lembrança dela estiver certa, **alguém voltou a manusear a tranca depois que ela recolheu o rebanho**. Ao pé do poste, do lado de fora, você encontra a borda de uma marca de sola no barro, com a ponta voltada para o curral. Marcas de casco cruzam o mesmo trecho em direção ao caminho do córrego. O barro está pisado demais para atribuir aquela sola a alguém ou contar quantas ovelhas passaram ali.
+
+**[LOG DE MEMÓRIA DA CAMPANHA]**
+
+- **Localização atual** · Porteira do curral de Celina, Dia 12, cerca de 09h40.
+- **NPCs presentes e relação** · Celina colaborou com o exame e continua com a manta.
+- **Linha de missão ativa** · Descobrir quem mexeu na porteira e para onde foram as duas ovelhas.
+- **Eventos cruciais ocorridos** · Eron reconstruiu o movimento da manta e identificou onde a barra prensou o tecido. Há marcas de casco na saída para o caminho do córrego.
+- **Condições do jogador** · 30/30 PV, CA 16, 1.425/2.700 XP. Dois espaços de 1º círculo disponíveis. Saldo de 73 PO, 2 PP e 4 PC.
+
+**Commit confirmado no GitHub.**

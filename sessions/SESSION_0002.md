@@ -369,3 +369,5 @@ Auditoria [270]: no histórico não consta execução efetiva Python para Percep
 - [520] Dia12 09h30. Celina conduz Eron à porteira e ergue a barra. Eron vê três fios pretos no sebo do encaixe. Celina indica onde pendurara a manta a um braço do encaixe e diz que encontrou a barra baixada de manhã. Do lado de fora há barro junto ao caminho do córrego.
 
 - [522] Dia12 09h32. Eron examina ponto original da manta. Laçada preta numa farpa na face externa da travessa; rasgo próximo quando Celina alinha a bainha de memória. Tranca à direita, a um braço. Investigação +6 pendente para reconstruir movimento.
+
+- [524] Dia12 09h40. Investigação 20+6 e Orientação 1, total 27. Rasgo diagonal, marca de sebo e fios prensados indicam manta puxada da travessa para a direita e barra baixada sobre tecido. Celina lembra ter trancado antes de pendurar a manta. Marca parcial de sola voltada ao curral e cascos rumo ao caminho do córrego, sem identificação, datação ou contagem.
