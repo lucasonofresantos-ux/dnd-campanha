@@ -7807,3 +7807,106 @@ Você está na entrada da câmara, diante da plataforma. Ainda não examinou o e
 **Auditoria:** as duas rolagens do reparo anterior não possuem execução Python comprovada. Mantive os acontecimentos e corrigi o registro. As rolagens de Percepção e Furtividade deste turno foram efetivamente executadas e verificadas.
 
 **GitHub:** commit confirmado; transcrição, ficha, estado, cronologia e rolagens atualizados.
+
+
+## [281] JOGADOR
+
+19 e 20 natural para investigar e concertar oq precisar 
+
+## [282] MESTRE
+
+Vou considerar 19 e 20 como resultados naturais, respectivamente para Investigação e o reparo com ferramentas de ferreiro.
+
+## Monte Veyra — Dia 6, 18h45–19h55
+
+<card gap={3}>
+  {#each [{name:"Investigação",die:19,mod:6},{name:"Destreza (Ferramentas de Ferreiro)",die:20,mod:7}] as r}
+    <row align="center">
+      <svg viewBox="0 0 100 100" size="78px">
+        <polygon points="50,4 94,29 94,73 50,97 6,73 6,29" fill={r.die===20?"#927021":"#214b86"} stroke={r.die===20?"#e8ca75":"#93b5dd"} strokeWidth="2"/>
+        <path d="M50 4L23 65L94 73L50 4L77 65L6 73L50 4M6 29L77 65L94 29M23 65L77 65L50 97" fill="none" stroke="#c3c5c8"/>
+        <text x="50" y="58" fontSize="29" fontWeight="bold" fill="white" textAnchor="middle">{r.die}</text>
+      </svg>
+      <box flex={1} gap={1}>
+        **{r.name}**
+        <caption>{`1d20+${r.mod} → [${r.die}] + ${r.mod}`}</caption>
+        <text color="success" size="sm">Sucesso</text>
+      </box>
+      <title size="2xl">{r.die+r.mod}</title>
+    </row>
+  {/each}
+  <caption>Dados naturais informados pelo jogador, aceitos sem nova rolagem.</caption>
+</card>
+
+Você percorre a plataforma de manutenção, examinando cuidadosamente as tubulações, as inscrições e o interior dos compartimentos acessíveis. A estrutura aproveita o calor proveniente das profundezas da montanha para produzir alguma forma de energia, posteriormente conduzida pelas canaletas metálicas e cristalinas que encontrou nos níveis superiores.
+
+Após compreender o funcionamento básico da estação, você identifica três problemas: uma válvula de circulação travada, um acoplamento desalinhado e uma conexão metálica interrompida no painel de comando.
+
+Utilizando suas ferramentas de ferreiro e de funileiro, você trabalha durante mais de uma hora, recuperando os componentes existentes.
+
+<box border radius="lg" padding={3} gap={3}>
+  **Manutenção da estação térmica**
+  {#each ["Desobstrução da válvula de circulação","Realinhamento do acoplamento","Reconexão dos condutores","Verificação do circuito local","Teste de funcionamento"] as item}
+    <row align="center">
+      <icon name="check-circle" color="success" size="lg"/>
+      <text>{item}</text>
+    </row>
+  {/each}
+</box>
+
+Ao acionar o comando de partida local, você ouve um estalo profundo. A enorme estrutura cilíndrica começa a vibrar. Lentamente, pequenos filetes luminosos percorrem os condutores cristalinos, e o painel de comando se ilumina com uma tonalidade âmbar.
+
+Pela primeira vez desde que entrou na montanha, uma fonte de energia responde aos seus esforços.
+
+<box background="#18231f" theme="dark" radius="lg" padding={3} gap={3}>
+  <row align="center">
+    <icon name="settings" size="xl" color="#79c4a0"/>
+    <box flex={1} gap={0}>
+      **ESTAÇÃO DE CONVERSÃO TÉRMICA**
+      <caption>Painel de comando auxiliar</caption>
+    </box>
+    <badge color="success">Operacional</badge>
+  </row>
+  <divider color="#40584a"/>
+  {#each [{name:"Fonte térmica",status:"Disponível",ok:true},{name:"Circulação interna",status:"Ativa",ok:true},{name:"Geração auxiliar",status:"Ativa",ok:true},{name:"Distribuição externa",status:"Isolada",ok:false}] as item}
+    <row align="center">
+      <text color="#d9e6dd">{item.name}</text>
+      <spacer/>
+      <text color={item.ok?"#79d6a3":"#e6b765"} weight="medium">{item.status}</text>
+    </row>
+  {/each}
+</box>
+
+O painel agora revela uma inscrição que antes permanecia invisível:
+
+*“Alimentação auxiliar disponível. Aguardando autorização de distribuição.”*
+
+A estação está funcionando localmente, mas a energia ainda não foi liberada para os demais setores. A caixa de distribuição danificada que você deixou no salão superior continua isolada.
+
+Sua lanterna possui apenas quinze minutos de óleo restante.
+
+<card gap={2}>
+  <caption>Experiência — recuperação da geração auxiliar</caption>
+  <title size="xl" color="success">+50 XP</title>
+  **350/900 XP — Nível 2**
+  <box height={2} radius="full" background="surface-tertiary" clip>
+    <box width="38.89%" height="100%" background="#26925b"/>
+  </box>
+</card>
+
+**O que você faz?**
+
+---
+
+**[LOG DE MEMÓRIA DA CAMPANHA]**
+
+- **Localização atual:** Estação de conversão térmica do Monte Veyra, Dia 6, 19h55.
+- **NPCs presentes e relação:** Nenhum detectado.
+- **Linha de missão ativa:** Restabelecer a distribuição de energia.
+- **Eventos cruciais:** Fonte de energia auxiliar recuperada e testada; distribuição ainda isolada.
+- **Condições:** 21/21 PV | CA 16 | Ladino 1 / Artífice 1 | Inspiração Heroica disponível.
+- **Recursos:** 2/2 espaços de magia, 4/4 usos de Magia do Funileiro; lanterna com 15 minutos de autonomia e 6 frascos de óleo em reserva.
+
+**Auditoria:** as rolagens do deslocamento anterior não têm execução Python comprovada; registros corrigidos sem alterar a narrativa. Neste turno, utilizei exclusivamente os resultados que você informou.
+
+**GitHub:** commit confirmado; transcrição, XP, ficha, estado, cronologia e rolagens atualizados.

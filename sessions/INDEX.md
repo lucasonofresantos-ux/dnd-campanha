@@ -98,3 +98,5 @@
 - Atualização: sessão 0002 até [278], Dia6 18h35; reparo da grade concluído, corredor não percorrido, 300 XP, escolha de nível2 pendente; dados 17 e 26 comprovados. Auditoria [276] corrigida.
 
 - Atualização: sessão 0002 até [280], Dia6 18h45; Ladino1/Artífice1, 21 PV, 300XP; estação térmica localizada, equipamento ainda não examinado; escolhas eletivas pendentes; dados atuais verificados.
+
+- Atualização: sessão 0002 até [282], Dia6 19h55; geração auxiliar recuperada e testada, distribuição isolada, XP350/900; dados do jogador 19 e 20 naturais. Auditoria [280].

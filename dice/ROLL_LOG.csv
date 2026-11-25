@@ -302,3 +302,7 @@ date,campaign_id,stage,attempt,expression,six_rolls_faces_in_order,six_attribute
 2026-11-24,ERON-RIVER-ASTERION-001,correction_unverified_execution_smith_tools_dexterity_pressure_mechanism_repair_day6,1,1d20+7,19,"19+7",26,false
 2026-11-24,ERON-RIVER-ASTERION-001,skill_check_perception_thermal_corridor_day6,1,1d20+7,16,"16+7",23,true
 2026-11-24,ERON-RIVER-ASTERION-001,skill_check_stealth_thermal_corridor_day6,1,1d20+9,9,"9+9",18,true
+2026-11-24,ERON-RIVER-ASTERION-001,correction_unverified_execution_skill_check_perception_thermal_corridor_day6,1,1d20+7,16,"16+7",23,false
+2026-11-24,ERON-RIVER-ASTERION-001,correction_unverified_execution_skill_check_stealth_thermal_corridor_day6,1,1d20+9,9,"9+9",18,false
+2026-11-24,ERON-RIVER-ASTERION-001,player_reported_investigation_thermal_station_day6,2,1d20+6,19,"19+6",25,false
+2026-11-24,ERON-RIVER-ASTERION-001,player_reported_smith_tools_dexterity_thermal_station_repair_day6,2,1d20+7,20,"20+7",27,false

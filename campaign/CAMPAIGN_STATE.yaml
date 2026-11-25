@@ -7,7 +7,7 @@ homebrew:
 advancement:
   method: experience_points
   milestones_do_not_grant_levels: true
-  current_total_xp: 300
+  current_total_xp: 350
   next_level_xp: 900
   level_up_pending: false
   level_up_note: "Nível 2 aplicado: Ladino1/Artífice1. Perícia e magias eletivas pendentes."
@@ -21,7 +21,7 @@ character:
     Ladino: 1
     Artífice: 1
   character_level: 2
-  xp_total: 300
+  xp_total: 350
   xp_next_level: 900
   hp_current: 21
   hp_max: 21
@@ -197,21 +197,21 @@ character:
 campaign_time:
   calendar_system: "Asterion, dias relativos; nenhuma era/ano formal estabelecido"
   day: 6
-  time_of_day: "aproximadamente 18h45 do Dia 6"
+  time_of_day: "aproximadamente 19h55 do Dia 6"
   season: "final do outono"
-  elapsed_game_time: "Dia6 ~18h35–18h45, deslocamento até estação térmica."
+  elapsed_game_time: "Dia6 ~18h45–19h55, diagnóstico, reparo e teste local da estação térmica."
 location:
   continent: Asterion
   polity: "Terras Livres de Avenhar (homebrew), fora de Valdren"
   area: "entroncamento da Estrada do Cascalho, próximo ao Pouso das Três Fontes"
   nearby: "encostas arborizadas da serra cujo monte mais alto é chamado Veyra"
-  exact_position: "Entrada da estação de conversão térmica do Monte Veyra, diante da plataforma."
-  travel_status: "Grade atravessada; corredor percorrido; equipamento térmico não examinado."
+  exact_position: "Estação de conversão térmica do Monte Veyra, junto ao painel de comando."
+  travel_status: "Geração auxiliar operacional, distribuição externa isolada; permanece no painel."
 scene:
   id: OPENING-001
-  status: "awaiting_player_action_at_thermal_station_day6"
+  status: "awaiting_player_action_at_thermal_distribution_panel_day6"
   current_npcs_present: []
-  immediate_visible_situation: "Dia6 ~18h35–18h45: jogador escolheu Artífice 1, personagem agora Ladino1/Artífice1, nível total2, XP300/900. Artífice oficial Eberron: Forge of the Artificer (2025), regras 2024; DES20 INT19 satisfazem pré-requisitos. PV fixos 5+CON2+Vigoroso2=9 adicionais, 21/21; 2d8 disponíveis; CA16, PB+2, iniciativa+7, Percepção passiva17. Treinamento armaduras médias e escudos, proficiência Funileiro, perícia adicional pendente; 2 espaços de 1º círculo disponíveis, 2 truques e 2 magias de 1º círculo pendentes de escolha; Mending automático, Tinker's Magic 4/4 por descanso longo, CD14, ataque mágico+6. Sem equipamento gratuito, nenhuma magia usada. Percepção23 e Furtividade18 executadas. Atravessou grade, corredor ~30m com tubulações quentes/frias; percebeu fuga pequena de vapor e evitou, sem dano. Chegou à entrada de câmara industrial com estrutura cilíndrica, válvulas, engrenagens, canal de água sob plataforma, painel apagado. Leu placa anã ESTAÇÃO DE CONVERSÃO TÉRMICA; Unidade de alimentação auxiliar; Circuito de circulação; Controle de distribuição; Verificar o circuito antes da partida. Ruído aparentemente do canal, nenhuma criatura detectada. Equipamento não examinado, alimentação não restabelecida, derivação anterior permanece isolada. Lanterna 1h25 até ~20h10, 6 óleos reserva; Marca na bolsa, inspiração disponível. Nenhum XP novo ou gasto. Auditoria [278]: não consta execução Python efetiva das duas rolagens anteriores; preservar valores e narrativa, acrescentar linhas false. [280]: execução efetiva por container.exec, hash d35af70119bf684ea055619bb10678a1c4b03bbb verificado por git hash-object e test; Percepção 1d20+7 rolls [16], kept_indices [0], modifier7,total23; Furtividade 1d20+9 rolls [9], kept_indices [0], modifier9,total18."
+  immediate_visible_situation: "Dia6 ~18h45–19h55: jogador informou faces naturais 19 e 20 para investigação e reparos. Investigação 1d20+6 [19]+6=25; Destreza (Ferramentas de Ferreiro) 1d20+7 [20]+7=27. Aceitas sem rerrolagem. Examinou plataforma e componentes acessíveis; identificou uso de calor profundo para gerar energia transmitida por condutores metálicos/cristalinos. Recuperou válvula de circulação travada, acoplamento desalinhado e conexão interrompida no painel; ferramentas Ferreiro/Funileiro, sem peças pessoais consumidas. Testou partida local, estrutura vibrou, condutores iluminaram, painel âmbar; fonte térmica disponível, circulação ativa, geração auxiliar ativa, distribuição externa isolada. Inscrição: Alimentação auxiliar disponível. Aguardando autorização de distribuição. Caixa superior permanece isolada e defeituosa, nenhuma alimentação externa confirmada. +50 XP por reparo e validação de estação auxiliar distinta, total350/900, nível2. PV21/21, CA16, inspiração disponível, espaços2/2, Magia do Funileiro4/4, nenhum feitiço usado. Lanterna 15min até ~20h10, seis óleos reserva; Marca na bolsa. Nenhum combate, dano, criatura detectada, coleta ou deslocamento adicional; permanece no painel. Auditoria [280]: não consta execução Python efetiva das duas rolagens anteriores no histórico disponível de ferramentas; preservar valores narrativos e acrescentar correções false. [282]: faces 19 e 20 informadas pelo jogador; nenhuma execução Python necessária, nenhuma rolagem adicional."
   discovered_traps:
     - location: "Trilha dos Corcos, junto ao riacho"
       state: disarmed_safe_wire_left_at_tree
@@ -256,8 +256,8 @@ world:
 transcription:
   character_creation_history: sessions/transcripts/SESSION_0001_FULL.md
   narrative_session: sessions/transcripts/SESSION_0002_FULL.md
-  last_saved_player_turn: "[279] JOGADOR — escolhe Artífice e segue explorando."
-  last_saved_dm_turn: "[280] MESTRE — nível2 aplicado, Percepção23 Furtividade18; estação térmica localizada."
+  last_saved_player_turn: "[281] JOGADOR — informa 19 e 20 naturais para investigação e reparo."
+  last_saved_dm_turn: "[282] MESTRE — Investigação25, reparo27; geração auxiliar ativa; +50 XP."
 notes:
   - "Primeira resposta de cena será salva literalmente e sem revelar preparativos de dm."
   - "Nunca tratar a aprovação da ficha como XP, nem mudar recursos automaticamente."
@@ -293,3 +293,5 @@ notes:
   - "Auditoria [276]: as duas rolagens anteriores não tiveram execução Python comprovada; manter narrativa e acrescentar registros false. [278] execução real por container.exec, hash d35af70119bf684ea055619bb10678a1c4b03bbb conferido; Investigação 2d20kh1+6 [7,11], kept_indices [1], total17; Destreza/Ferreiro 1d20+7 [19], kept_indices [0], total26."
 
   - "Auditoria [278]: não consta execução Python efetiva das duas rolagens anteriores; preservar valores e narrativa, acrescentar linhas false. [280]: execução efetiva por container.exec, hash d35af70119bf684ea055619bb10678a1c4b03bbb verificado por git hash-object e test; Percepção 1d20+7 rolls [16], kept_indices [0], modifier7,total23; Furtividade 1d20+9 rolls [9], kept_indices [0], modifier9,total18."
+
+  - "Auditoria [280]: não consta execução Python efetiva das duas rolagens anteriores no histórico disponível de ferramentas; preservar valores narrativos e acrescentar correções false. [282]: faces 19 e 20 informadas pelo jogador; nenhuma execução Python necessária, nenhuma rolagem adicional."
