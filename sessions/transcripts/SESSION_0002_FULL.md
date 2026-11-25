@@ -14398,3 +14398,29 @@ Ela põe **1 PO** na tua mão. A três portas dali, o filho de Lena está sentad
 - **Condições do jogador** · 30/30 PV, CA 16, 1.400/2.700 XP. Saldo de **69 PO, 9 PP e 7 PC**.
 
 **Commit confirmado no GitHub.**
+
+## [479] JOGADOR
+
+- boa tarde garoto, onde está essa carroça?
+
+### Mestre — andamento
+
+O garoto levanta a cabeça ao ouvir tua voz.
+
+## [480] MESTRE
+
+— Boa tarde, moço. Tá no vau do córrego. Segue pela Estrada do Cascalho até ver um salgueiro com o tronco partido. Ali tem uma descida à direita. Lá de cima já dá pra ver a carroça. Dá meia hora a pé daqui.
+
+Ele se levanta e aponta estrada afora.
+
+— A roda ficou torta quando a gente tava saindo da água. Minha mãe ficou lá com a mula. Quer que eu te leve?
+
+**[LOG DE MEMÓRIA DA CAMPANHA]**
+
+- **Localização atual** · Quadro de avisos do Pouso das Três Fontes, Dia 11, cerca de 14h45.
+- **NPCs presentes e relação** · O filho de Lena se oferece como guia.
+- **Linha de missão ativa** · Carroça no vau. Lena oferece **2 PO** quando a carroça chegar ao pouso. Serviço ainda por aceitar.
+- **Eventos cruciais ocorridos** · O garoto indicou o caminho e relatou que uma roda ficou torta na saída do vau.
+- **Condições do jogador** · 30/30 PV, CA 16, 1.400/2.700 XP. Saldo de 69 PO, 9 PP e 7 PC.
+
+**Commit confirmado no GitHub.**

@@ -518,3 +518,5 @@ Dia10 16h15–16h30: Eron agradeceu a Tavin e retornou ao posto da Vigília para
 - [476] Dia 11, 14h10–14h35. Investigação na banca 1d20+6 = [5]+6 = 11, inconclusiva. Bina confirma anotação. Na tinturaria rapaz abre a trouxa e entrega caderno azul seco a Eron. Devolução a Nara e recompensa de 1 PO pendentes.
 
 - [478] Dia 11, 14h45. Pela referência ao pacote, destino interpretado como Nara. Eron devolve o caderno, informa o ocorrido e recebe 1 PO. Saldo 69 PO, 9 PP e 7 PC. Filho de Lena junto ao quadro, serviço da carroça disponível por 2 PO.
+
+- [480] Dia 11, 14h45. Eron pergunta onde está a carroça. Filho de Lena indica descida à direita junto ao salgueiro partido na Estrada do Cascalho, meia hora até o vau. Relata roda torta ao sair da água e se oferece como guia. Nenhuma partida ou aceitação.

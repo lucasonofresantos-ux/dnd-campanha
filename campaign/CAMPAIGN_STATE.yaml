@@ -233,19 +233,19 @@ campaign_time:
   day: 11
   time_of_day: "Dia 11, cerca de 14h45"
   season: "final do outono"
-  elapsed_game_time: "Dia 11, 14h35–14h45"
+  elapsed_game_time: "Dia 11, cerca de 14h45"
 location:
   continent: Asterion
   polity: "Terras Livres de Avenhar (homebrew), fora de Valdren"
   area: "entroncamento da Estrada do Cascalho, próximo ao Pouso das Três Fontes"
   nearby: "encostas arborizadas da serra cujo monte mais alto é chamado Veyra"
-  exact_position: "Banca de Nara, Pouso das Três Fontes."
+  exact_position: "Quadro de avisos, Pouso das Três Fontes."
   travel_status: "Eron retornou ao Pouso das Três Fontes. Thûn-Khazad: entrada original fechada e camuflada, sensores operacionais, oito unidades, manutenção interna e inventário contínuos, seis Caminhos selados. Nenhuma comunicação remota estabelecida."
 scene:
   id: OPENING-001
-  status: "nara_notebook_returned_day11"
-  current_npcs_present: ["Nara", "Filho de Lena à vista"]
-  immediate_visible_situation: "Dia 11, 14h45. Pela referência ao pacote, destino interpretado como Nara. Eron devolve o caderno, informa o ocorrido e recebe 1 PO. Saldo 69 PO, 9 PP e 7 PC. Filho de Lena junto ao quadro, serviço da carroça disponível por 2 PO."
+  status: "cart_directions_day11"
+  current_npcs_present: ["Filho de Lena"]
+  immediate_visible_situation: "Dia 11, 14h45. Eron pergunta onde está a carroça. Filho de Lena indica descida à direita junto ao salgueiro partido na Estrada do Cascalho, meia hora até o vau. Relata roda torta ao sair da água e se oferece como guia. Nenhuma partida ou aceitação."
   discovered_traps:
     - location: "Trilha dos Corcos, junto ao riacho"
       state: disarmed_safe_wire_left_at_tree
@@ -290,8 +290,8 @@ world:
 transcription:
   character_creation_history: sessions/transcripts/SESSION_0001_FULL.md
   narrative_session: sessions/transcripts/SESSION_0002_FULL.md
-  last_saved_player_turn: "[477] JOGADOR — leva o caderno e explica."
-  last_saved_dm_turn: "[478] MESTRE — entrega a Nara e recompensa."
+  last_saved_player_turn: "[479] JOGADOR — pergunta pela carroça."
+  last_saved_dm_turn: "[480] MESTRE — instruções do garoto."
 notes:
   - "Primeira resposta de cena será salva literalmente e sem revelar preparativos de dm."
   - "Nunca tratar a aprovação da ficha como XP, nem mudar recursos automaticamente."
