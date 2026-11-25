@@ -365,3 +365,6 @@
 
 
 - Dia8 23h25: tempo independente avançou; geração central ainda inativa, Caminhos selados; nenhum acontecimento externo confirmado por Eron.
+
+
+- Dia9 12h15: tempo avançou durante descanso e manutenção autônoma. Forja central operacional, restauração local parcial, Caminhos permanecem selados. Nenhuma notícia exterior ou destino dos povos confirmado por Eron. Ordens permanentes de manutenção vigentes; novas avarias e estações não verificadas demandam inspeção, sem conclusão automática.

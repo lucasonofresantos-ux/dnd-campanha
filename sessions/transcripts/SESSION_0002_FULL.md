@@ -11522,3 +11522,105 @@ Após uma breve interrupção, o Sistema responde à sua última pergunta.
 O compartimento de segurança é um detalhe incorporado ao cenário nesta sessão; seu conteúdo não foi determinado. Nenhuma rolagem necessária.
 
 **GitHub:** commit confirmado.
+
+
+## [367] JOGADOR
+
+- por favor eu preciso comer e dormir e a prioridade é colocar este lugar em ordem, se tiver mais construtors concerto amanhã mas oque já tem que vão concertando tudo, quero este tal salão dos 6 caminhos funcionando em 100% e uma unidade para me guiar até os aposentos... Cara quem fez isso está de parabéns que lugar incrível... Amanhã descubro quem são os 6 povos e se ainda Existem
+
+## [368] MESTRE
+
+— Ordens recebidas, Guardião. A recuperação integral do Salão dos Seis Caminhos foi estabelecida como prioridade operacional — responde o Sistema, em anão.
+
+— As unidades disponíveis executarão inspeções, limpeza, manutenção e reparações compatíveis com suas capacidades. As avarias que exigirem intervenção de um artesão serão registradas para sua avaliação.
+
+<card gap={3}>
+  **Ordens permanentes de manutenção**
+  <divider/>
+  {#each [{u:"UM-017",t:"Transporte, inspeção e manutenção da infraestrutura."},{u:"UM-014",t:"Reparação de equipamentos e componentes."},{u:"UM-012",t:"Saneamento, abastecimento de água e limpeza."},{u:"UM-019",t:"Preparação de alimentos e manutenção do refeitório."},{u:"UM-021",t:"Coordenação administrativa e assistência ao Guardião."}] as r}
+    <row align="start">
+      <icon name="bot" color="secondary" size="xl"/>
+      <box flex={1} gap={1}>
+        **{r.u}**
+        <caption>{r.t}</caption>
+      </box>
+    </row>
+  {/each}
+</card>
+
+## Dia 9 — 04h00 | Aposentos do Guardião
+
+UM-021 acompanha você até o primeiro nível. Após a inspeção e a recuperação da alimentação local pelas unidades de manutenção, as luminárias da galeria se acendem.
+
+A porta dos seus aposentos abre-se, revelando um amplo ambiente de pedra trabalhada, móveis de madeira escura, detalhes em bronze e uma grande cama. Nas paredes estão gravados os seis símbolos dos territórios.
+
+UM-019 traz água e uma porção de aproximadamente 300 gramas de carne de corço preparada. UM-012 termina de organizar o banheiro e UM-017 coloca na cama a roupa de cama limpa que conseguiu recuperar.
+
+O compartimento de segurança permanece fechado e o escritório ainda não foi examinado.
+
+Você faz sua refeição e se recolhe para dormir.
+
+## Dia 9 — 12h15 | Descanso longo concluído
+
+<card gap={3}>
+  <grid columns={2}>
+    <grid-item>
+      <caption>Pontos de vida</caption>
+      <title color="success" size="2xl">30/30</title>
+    </grid-item>
+    <grid-item>
+      <caption>Espaços de magia</caption>
+      <title size="2xl">2/2</title>
+    </grid-item>
+    <grid-item>
+      <caption>Magia do Funileiro</caption>
+      <title size="xl">4/4</title>
+    </grid-item>
+    <grid-item>
+      <caption>Dados de vida</caption>
+      <title size="xl">3d8</title>
+    </grid-item>
+  </grid>
+  <divider/>
+  <row>
+    <icon name="check-circle-filled" color="success"/>
+    Inspiração Heroica disponível
+  </row>
+  <row>
+    <icon name="check-circle-filled" color="success"/>
+    Nenhuma condição ou exaustão
+  </row>
+</card>
+
+Ao despertar, você ouve uma batida na porta.
+
+— Guardião, relatório de manutenção disponível — anuncia UM-021.
+
+| Nível | Situação atual |
+|---|---|
+| 1 — Recepção e suítes | Alimentação local recuperada |
+| 2 — Salão das Seis Portas | Isolado |
+| 3 — Núcleo das Runas | Operacional |
+| 4 — Reservas estratégicas | Aguardando reparação |
+| 5 — Aposentos e estudo | Iluminação da galeria recuperada |
+| 6 — Serviços | Operacional nos setores recuperados |
+| 7 — Grande Forja | Operacional |
+
+— Também foram identificadas três estações de manutenção sem resposta. Recomendo verificar se ainda existem unidades recuperáveis nesses locais.
+
+— A restauração prossegue, Guardião. Os Seis Caminhos permanecem selados por segurança.
+
+---
+
+**[LOG DE MEMÓRIA DA CAMPANHA]**
+
+- **Localização atual:** Suíte do Guardião, primeiro nível, Dia 9, 12h15.
+- **NPCs presentes:** UM-021 à porta; demais unidades em serviço.
+- **Missão ativa:** Restaurar integralmente o Salão e investigar os seis territórios.
+- **Eventos cruciais:** Ordens permanentes de manutenção registradas; descanso longo concluído; três estações sem resposta identificadas.
+- **Condições:** 30/30 PV | CA 16 | 1.000/2.700 XP.
+- **Provisões:** 9 rações e aproximadamente 7,15 kg de carne salgada sob custódia de UM-019.
+
+As unidades realizaram tarefas rotineiras de manutenção, sem testes ou XP adicionais. As três estações não confirmam a existência de três novos construtos. A recuperação de 100% permanece como objetivo, não como resultado já alcançado.
+
+**GitHub:** commit confirmado.
