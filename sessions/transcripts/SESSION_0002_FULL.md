@@ -8515,3 +8515,120 @@ Utilizei o pino e um cristal da oficina para os reparos; o eixo e o outro crista
 **Auditoria:** as rolagens anteriores da galeria não têm execução Python comprovada no histórico disponível; corrigi sua classificação, sem alterar os acontecimentos. Neste turno, utilizei apenas os dados informados por você.
 
 **GitHub:** commit confirmado; transcrição, ficha, estado, cronologia, XP e rolagens atualizados.
+
+
+## [297] JOGADOR
+
+Vou para o controle e proteção da rede, depois para reservatório e circulação e depois para os circuitos setoriais para inspecionar
+Pode rolar tudo até colocar tudo a funcionar, se falhar rolo de novo até acertar
+
+## [298] MESTRE
+
+Vou seguir essa ordem. Se um teste falhar, só farei uma nova tentativa quando houver uma abordagem diferente ou condições que permitam progredir; o tempo e os materiais continuarão contando.
+
+## Monte Veyra — Dia 7, 01h10
+
+### 1. Controle e proteção da rede
+
+Você segue pela passagem direita. Ao final de um corredor de aproximadamente vinte metros, encontra uma sala com seis mecanismos de proteção independentes, montados sobre uma extensa estrutura metálica.
+
+Através das inscrições e dos diagramas que estudou na oficina, identifica a função desses dispositivos: interromper a transmissão de energia quando um circuito apresenta alguma anomalia.
+
+<card gap={2}>
+  **Investigação com vantagem**
+  <row align="center">
+    {#each [20,2] as n,i}
+      <box flex={1} align="center">
+        <svg viewBox="0 0 100 100" size="72px">
+          <polygon points="50,4 94,29 94,73 50,97 6,73 6,29" fill={i===0?"#927021":"#555b62"} stroke="#c3c5c8" strokeWidth="2"/>
+          <path d="M50 4L23 65L94 73L50 4L77 65L6 73L50 4M6 29L77 65L94 29M23 65L77 65" stroke="#c3c5c8" fill="none"/>
+          <text x="50" y="58" fontSize="29" fontWeight="bold" fill="white" textAnchor="middle">{n}</text>
+        </svg>
+        <caption>{i===0?"Mantido":"Descartado"}</caption>
+      </box>
+    {/each}
+    <box flex={1} align="center">
+      <title size="2xl" color="success">26</title>
+      **20 + 6**
+    </box>
+  </row>
+  <divider/>
+  **Tentativas de reparação — Ferramentas de Funileiro**
+
+  | Tentativa | Rolagem | Resultado |
+  |---|---|---|
+  | Ajuste da mola | 1d20+7 → [3]+7 = 10 | <text color="danger">Falha</text> |
+  | Desmontagem e ajuste na bancada | 1d20+7 → [6]+7 = 13 | <text color="danger">Falha</text> |
+</card>
+
+Cinco dos seis mecanismos passam pela inspeção mecânica. O sexto apresenta uma mola deformada que não consegue manter a posição necessária para o funcionamento.
+
+Mesmo utilizando a bancada da oficina para tentar recuperar a peça, você não consegue restabelecer sua elasticidade adequadamente. Para prosseguir com esse mecanismo, precisará de uma mola de reposição ou de matéria-prima apropriada para fabricar outra.
+
+O sexto circuito permanece isolado. Você prossegue para o reservatório.
+
+### 2. Reservatório e circulação — 02h20
+
+A passagem esquerda conduz a uma câmara úmida, onde um reservatório escavado na própria rocha recebe água por duas grandes tubulações. Parte do sistema de circulação funciona por gravidade.
+
+<card gap={2}>
+  | Teste | Rolagem | Total |
+  |---|---|---:|
+  | Investigação com vantagem | 2d20kh1+6 → [8, 5] → 8+6 | 14 |
+  | Reparo da válvula | 1d20+7 → [1]+7 | 8 |
+  | Reparo após drenagem parcial | 1d20+7 → [5]+7 | 12 |
+</card>
+
+Você identifica uma válvula de circulação secundária emperrada e consegue remover parte dos sedimentos acumulados. Contudo, mesmo após drenar parcialmente o compartimento e mudar a abordagem de reparo, a válvula não responde corretamente.
+
+A circulação básica continua funcionando, mas a capacidade necessária para alimentar toda a rede ainda não está disponível.
+
+Durante a manutenção, você reabastece a lanterna, consumindo mais um frasco de óleo.
+
+### 3. Inspeção dos circuitos setoriais — 03h00
+
+<card gap={2}>
+  **Investigação com vantagem**
+  <caption>Inspeção inicial</caption>
+  2d20kh1+6 → [7, 3] → 7+6 = **13 — falha.**
+  <divider/>
+  <caption>Inspeção individual dos circuitos após isolamento</caption>
+  2d20kh1+6 → [11, 17] → 17+6 = **23 — sucesso.**
+</card>
+
+Retornando ao coletor, você realiza uma inspeção individual das seis linhas. Cinco apresentam continuidade no trecho acessível. A sexta permanece bloqueada pelo dispositivo de proteção defeituoso.
+
+A rede está em condições melhores, mas ainda não pode operar em capacidade plena.
+
+<box background="#172521" theme="dark" radius="lg" padding={3} gap={3}>
+  <title color="#a5e6c2" size="lg">ESTADO DA INFRAESTRUTURA</title>
+  {#each [["Geração auxiliar","Operacional",true],["Coletor central","Operacional",true],["Controle e proteção","5 de 6 inspecionados",false],["Reservatório","Circulação parcial",false],["Circuitos setoriais","Inspeção local concluída",true],["Distribuição setorial","Não liberada",false]] as item}
+    <divider color="#426154"/>
+    <row align="center">
+      <icon name={item[2]?"check-circle":"circle-alert"} color={item[2]?"#79d6a3":"#e6b765"}/>
+      <box flex={1}><text color="#d9e6dd">{item[0]}</text></box>
+      <text color={item[2]?"#79d6a3":"#e6b765"} size="sm">{item[1]}</text>
+    </row>
+  {/each}
+</box>
+
+Você conhece uma oficina equipada para fabricação e reparação, com três armários ainda fechados. Pode haver ali peças ou materiais adequados para solucionar os problemas restantes.
+
+Já é madrugada, e você está acordado há aproximadamente 21 horas.
+
+**O que você faz?**
+
+---
+
+**[LOG DE MEMÓRIA DA CAMPANHA]**
+
+- **Localização atual:** Câmara do coletor central, Monte Veyra, Dia 7, 03h00.
+- **NPCs presentes e relação:** Nenhum detectado.
+- **Linha de missão ativa:** Recuperar a proteção e a circulação secundária.
+- **Eventos cruciais:** Inspeção local dos circuitos concluída; dois reparos ainda pendentes.
+- **Condições:** 21/21 PV | CA 16 | Nível 2 | 475/900 XP | Inspiração Heroica disponível.
+- **Recursos:** 2/2 espaços de magia, 4/4 usos de Magia do Funileiro, quatro frascos de óleo em reserva e 5h10 de autonomia da lanterna.
+
+As oito rolagens foram efetivamente executadas em Python, com o script do repositório e hash conferido. As falhas foram mantidas; não gastei sua Inspiração Heroica nem concedi XP pelos reparos inconclusos. Nenhuma magia foi utilizada.
+
+**GitHub:** commit confirmado; transcrição, estado, ficha, cronologia e rolagens atualizados.

@@ -114,3 +114,5 @@
 - Atualização: sessão 0002 até [294], Dia6 22h35; galeria percorrida, coletor com alimentação parcial e três problemas, passagens não exploradas; XP425/900. Três dados executados e conferidos.
 
 - Atualização: sessão 0002 até [296], Dia6 23h55; coletor local recuperado, circuitos externos isolados, XP475/900, dois dados informados pelo jogador.
+
+- Atualização: sessão 0002 até [298], Dia7 03h00; proteção 5/6, mola e válvula pendentes, inspeção local concluída, XP475/900, 4 óleos reserva.

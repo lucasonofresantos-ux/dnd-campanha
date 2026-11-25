@@ -55,10 +55,10 @@ character:
   inventory_reference: character/ERON_RIVER_LEVEL_01.md
   illumination:
     hooded_lantern_lit: true
-    oil_flasks_spare: 5
+    oil_flasks_spare: 4
     candles: 10
-    oil_loaded_at: "Dia6 ~20h10"
-    continuous_burn_until: "Dia7 ~02h10"
+    oil_loaded_at: "Dia7 ~02h10"
+    continuous_burn_until: "Dia7 ~08h10"
     bright_light_ft: 30
     additional_dim_light_ft: 30
   waterskin: "Dia6 ~13h30: ~250ml usados para lavar carne; volume restante não aferido."
@@ -196,22 +196,22 @@ character:
   animal_handling_last: "Dia5 ~10h05: dado natural 14+3=17; loba e filhotes aceitam carinho."
 campaign_time:
   calendar_system: "Asterion, dias relativos; nenhuma era/ano formal estabelecido"
-  day: 6
-  time_of_day: "aproximadamente 23h55 do Dia 6"
+  day: 7
+  time_of_day: "aproximadamente 03h00 do Dia 7"
   season: "final do outono"
-  elapsed_game_time: "Dia6 ~22h35–23h55, busca de peças, reparo e teste local do coletor."
+  elapsed_game_time: "Dia6 23h55–Dia7 03h00, inspeções e tentativas de reparo."
 location:
   continent: Asterion
   polity: "Terras Livres de Avenhar (homebrew), fora de Valdren"
   area: "entroncamento da Estrada do Cascalho, próximo ao Pouso das Três Fontes"
   nearby: "encostas arborizadas da serra cujo monte mais alto é chamado Veyra"
   exact_position: "Câmara do coletor central do Monte Veyra, diante do equipamento."
-  travel_status: "Coletor recuperado, circuitos setoriais isolados; três acessos identificados e não percorridos."
+  travel_status: "Inspeção local concluída; mola e válvula secundária pendentes, distribuição isolada."
 scene:
   id: OPENING-001
-  status: "awaiting_player_action_at_repaired_central_collector_day6"
+  status: "awaiting_player_action_at_central_collector_day7"
   current_npcs_present: []
-  immediate_visible_situation: "Dia6 ~22h35–23h55: jogador informou 17 e 18 para reparo. Destreza/Ferreiro 1d20+7 [17]+7=24 e Inteligência/Funileiro 1d20+6 [18]+6=24, faces informadas pelo jogador, sem Python. Verificou compatibilidade, retornou à oficina e trouxe pino fabricado e um cristal calibrado; ambos instalados no coletor (estoque oficina restante: eixo recuperado, um cristal calibrado; três armários fechados). Recuperou condutor rompido, substituiu pino defeituoso, liberou mecanismo e instalou cristal no controle. Teste local: coletor gira lentamente, seis linhas iluminadas junto ao dispositivo, painel informa alimentação, mecanismo, controle, comunicação local operacionais; circuitos setoriais aguardam inspeção, não liberados. Iluminação da câmara acesa. Inscrições Anão: porta ao fundo 'NÍVEL DE DISTRIBUIÇÃO — ACESSO AO NÚCLEO', esquerda 'Reservatório e circulação', direita 'Controle e proteção da rede'. Porta fechada, passagens não exploradas. +50 XP por recuperação funcional local do coletor, total475/900, nível2. PV21/21 CA16 inspiração disponível, espaços2/2, Magia do Funileiro4/4; lanterna 2h15 até Dia7 ~02h10, cinco óleos reserva; sem dano, combate, coleta pessoal ou gasto de material próprio. Eron permanece diante do coletor. Auditoria [294]: no histórico de ferramentas disponível não consta execução Python efetiva das três rolagens anteriores; preservar fatos e resultados narrativos e acrescentar registros de correção false. [296] dados físicos informados pelo jogador, sem alegação de execução Python."
+  immediate_visible_situation: "Dia6 23h55–Dia7 03h00: Eron seguiu controle/proteção, reservatório e inspeção setorial; autorizou rolagens e novas tentativas. Controle: corredor direito ~20m, sala seis mecanismos independentes; Investigação vantagem26, cinco passam inspeção mecânica, sexto tem mola deformada sem elasticidade. Ajuste local10 falhou; desmontagem e ajuste em bancada13 falhou. Mola exige reposição ou matéria-prima apropriada, sexto circuito permanece isolado. Reservatório: câmara úmida com duas tubulações, circulação básica por gravidade; Investigação vantagem14, válvula secundária emperrada, removeu parte de sedimentos; reparo8 falhou, após drenagem parcial reparo12 falhou, capacidade plena indisponível. Lanterna recarregada Dia7 ~02h10, 4 óleos reserva, até ~08h10. Coletor: inspeção inicial vantagem13 falhou, teste individual após isolamento vantagem23 sucesso, cinco linhas continuidade no trecho acessível, sexta bloqueada; inspeção local concluída, distribuição setorial não liberada. Sem presumir integridade dos trechos remotos. Eron permanece no coletor às 03h00, acordado ~21h desde Dia6 06h; sem descanso novo, sem nova exaustão automática. PV21/21 CA16 XP475/900, inspiração disponível, espaços2/2, Magia do Funileiro4/4, lanterna 5h10, 4 óleos reserva. Nenhuma criatura detectada, combate, dano, coleta ou novo XP; armários oficina fechados, estoque eixo e cristal permanece. Mola removida para teste e recolocada sem funcionamento; nenhum novo material além de óleo consumido. Oito rolagens efetivamente executadas em container.exec após conferência git hash-object d35af70119bf684ea055619bb10678a1c4b03bbb: 2d20kh1+6 [20,2] mantém20=26; 1d20+7 [3]=10; 1d20+7 [6]=13; 2d20kh1+6 [8,5] mantém8=14; 1d20+7 [1]=8; 1d20+7 [5]=12; 2d20kh1+6 [7,3] mantém7=13; 2d20kh1+6 [11,17] mantém17=23."
   discovered_traps:
     - location: "Trilha dos Corcos, junto ao riacho"
       state: disarmed_safe_wire_left_at_tree
@@ -256,8 +256,8 @@ world:
 transcription:
   character_creation_history: sessions/transcripts/SESSION_0001_FULL.md
   narrative_session: sessions/transcripts/SESSION_0002_FULL.md
-  last_saved_player_turn: "[295] JOGADOR — informa 17 e 18 para reparo."
-  last_saved_dm_turn: "[296] MESTRE — Ferreiro24 Funileiro24, coletor recuperado, +50 XP."
+  last_saved_player_turn: "[297] JOGADOR — autoriza inspeção, reparos e novas tentativas."
+  last_saved_dm_turn: "[298] MESTRE — inspeção local, falhas na mola e válvula, distribuição não liberada."
 notes:
   - "Primeira resposta de cena será salva literalmente e sem revelar preparativos de dm."
   - "Nunca tratar a aprovação da ficha como XP, nem mudar recursos automaticamente."
