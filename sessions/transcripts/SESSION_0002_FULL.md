@@ -12594,3 +12594,132 @@ UM-021 aponta para a porta do escritório de sua suíte.
 Nenhuma rolagem necessária. As atividades apresentadas são possibilidades, não ações já realizadas. A manutenção externa continua suspensa.
 
 **GitHub:** commit confirmado.
+
+## [399] JOGADOR
+
+vou começar por aqui então
+role oque precisar para investigar este lugar todo e o cofre
+
+## [400] MESTRE
+
+### Comentário visível antes da narração
+
+Vou investigar a suíte, o escritório e o mecanismo do cofre, usando a autoridade de Guardião antes de tentar qualquer abertura forçada.
+
+### Resposta
+
+## Dia 10 — 04h32 | Aposentos do Guardião
+
+UM-021 acompanha você durante a investigação da suíte. O lugar foi construído com um padrão de acabamento muito superior ao das demais dependências: madeira escura, bronze trabalhado, pedra polida e detalhes dourados representando os seis territórios.
+
+Você começa pelo dormitório, banheiro e sala de estar, deixando o escritório e o cofre por último.
+
+<card gap={2}>
+  <caption>Investigação com Orientação</caption>
+  <row align="center">
+    <box border radius="lg" padding={3}>
+      <title size="2xl">12</title>
+    </box>
+    <title size="lg">+ 6 + 3 =</title>
+    <title size="2xl" color="success">21</title>
+  </row>
+  <text color="success" weight="medium">Sucesso</text>
+</card>
+
+### Investigação dos aposentos
+
+<row align="start">
+  <AsyncImage query="medieval dwarven underground royal bedroom dark wood bronze carved stone bed fantasy concept art" aspectRatio="4:3" maxWidth="120px"/>
+  <box gap={1}>
+    **Dormitório**
+
+    Cama ampla, dois armários, uma cômoda e roupas antigas deterioradas pelo tempo. O mobiliário permanece estruturalmente preservado.
+  </box>
+</row>
+<divider/>
+<row align="start">
+  <AsyncImage query="dwarven ancient underground royal bathroom carved stone bronze faucets stone bathtub fantasy interior" aspectRatio="4:3" maxWidth="120px"/>
+  <box gap={1}>
+    **Banheiro privativo**
+
+    Banheira de pedra, lavatório, instalações sanitárias e tubulações independentes para água quente e fria. O aquecimento ainda necessita de verificação.
+  </box>
+</row>
+<divider/>
+<row align="start">
+  <AsyncImage query="dwarven royal underground medieval living room stone carved fireplace dark wood bronze fantasy interior" aspectRatio="4:3" maxWidth="120px"/>
+  <box gap={1}>
+    **Sala de estar**
+
+    Mesa, poltronas, lareira e armários contendo utensílios de bronze e prata. Há seis brasões representando os territórios de Thûn-Khazad.
+  </box>
+</row>
+<divider/>
+<row align="start">
+  <AsyncImage query="ancient dwarven king private study large dark wooden desk shelves books maps carved stone underground fantasy interior" aspectRatio="4:3" maxWidth="120px"/>
+  <box gap={1}>
+    **Escritório**
+
+    Uma grande escrivaninha, estantes de documentos, mapas e registros administrativos. Atrás da mesa encontra-se o cofre privativo, embutido na parede de pedra.
+  </box>
+</row>
+
+Sobre a escrivaninha, você encontra um diário pessoal parcialmente deteriorado e uma planta detalhada dos sete níveis do Salão, indicando galerias e passagens de serviço.
+
+## O cofre do Guardião
+
+A porta do cofre é feita de uma espessa liga metálica, com o símbolo da linhagem Barba de Cobre gravado no centro. O mecanismo possui autenticação rúnica.
+
+UM-021 confirma sua autorização, mas o cofre não responde à primeira tentativa.
+
+| Teste | Dados | Total | Resultado |
+|---|---|---:|---|
+| Investigação do mecanismo | [~~1~~, 3] +6 +4 | 13 | <text color="danger">Falha</text> |
+| Diagnóstico com auxílio de UM-021 | [~~2~~, 16] +6 | 22 | <text color="success">Sucesso</text> |
+| Ferramentas de Ferreiro | [15, ~~11~~] +7 | 22 | <text color="success">Sucesso</text> |
+
+Após consultar o esquema de manutenção do mecanismo com UM-021, você identifica uma articulação emperrada. Corrige o problema sem danificar o cofre e realiza novamente a autenticação.
+
+— Autoridade do Guardião reconhecida. Acesso autorizado.
+
+A pesada porta se abre.
+
+## Dia 10 — 05h40 | Conteúdo do cofre
+
+O interior está seco e protegido por compartimentos revestidos de metal. Você encontra:
+
+| Objeto | Quantidade e descrição |
+|---|---|
+| Moedas de ouro imperiais | 120 moedas, cunhadas com os símbolos de Thûn-Khazad |
+| Moedas de prata imperiais | 80 moedas |
+| Selo de bronze | 1 sinete oficial dos Guardiões |
+| Livro de registros | 1 volume de despesas e transferências de recursos |
+| Caixa de documentos | 1 caixa metálica fechada com lacre de cera intacto |
+
+Na tampa da caixa de documentos, há uma inscrição em anão:
+
+> Correspondência reservada ao Guardião. Conselho dos Seis.
+
+UM-021 observa o conteúdo.
+
+— Guardião, esses bens encontram-se sob sua administração. Recomendo que sejam registrados separadamente do tesouro geral do Salão.
+
+Os objetos permanecem no cofre aberto. A caixa lacrada ainda não foi aberta, e o diário e o livro de registros ainda não foram lidos integralmente.
+
+**+50 XP** pela investigação dos aposentos e recuperação do acesso ao cofre.
+
+**Experiência:** 1.250/2.700 XP.
+
+---
+
+**[LOG DE MEMÓRIA DA CAMPANHA]**
+
+- **Localização atual:** Escritório privativo do Guardião, primeiro nível, Dia 10, 05h40.
+- **NPCs presentes:** UM-021, cooperativo.
+- **Linha de missão ativa:** Restauração interna e investigação de Thûn-Khazad.
+- **Eventos cruciais:** Suíte investigada; cofre aberto; documentos e patrimônio identificados.
+- **Condições:** 30/30 PV | CA 16 | 1.250/2.700 XP | 2/2 espaços de magia | 4/4 Magia do Funileiro.
+
+**Nota do Mestre:** as seis expressões de dados foram efetivamente executadas em Python, com o hash do script conferido. Utilizei duas conjurações de Orientação; nenhum recurso limitado foi gasto. O conteúdo do cofre, as avarias, a duração e a experiência são definições locais do cenário. As moedas não foram adicionadas à sua bolsa pessoal, e seu valor de circulação atual ainda não foi confirmado. As imagens são referências ilustrativas, não plantas canônicas.
+
+**GitHub:** commit confirmado.
