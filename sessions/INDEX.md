@@ -230,3 +230,5 @@
 - [502] Dia 11–12. Eron toma banho, dorme no quarto 3, completa descanso longo (20h30–04h30), acorda cedo, desce e toma café da manhã oferecido por Alda, sem despesa. Dia 12, 06h15 no salão, Alda à mesa.
 
 - [504] Dia12 06h20. Eron pergunta pelo sono de Alda, nível do rio e carne. Alda dormiu bem, serviu tiras a um hóspede e reservou costelas para almoço. Ouviu relato sobre canal, não observou córrego. Segundo ela, Lena viu só a ponta da pedra comprida do vau ontem cedo. Eron considera verificar depois, sem partir.
+
+- [506] Dia12 06h20–08h15. Chave devolvida. Sem compromisso de lebre ou pernoite. Belda compra pele 7PP, galhadas 2PP, tendões 2PP, ossos 1PP, dentes 2PC. Nessa compra orelhas 5PC. Todo restante do corço Dia11 vendido por 1PO2PP7PC. Saldo 73PO2PP4PC. Só ponta da pedra exposta no vau. Chega ao terreiro do moinho; córrego corrente, canal abaixo de marca molhada, roda parada. Trabalhador relata moagem intermitente desde ontem.

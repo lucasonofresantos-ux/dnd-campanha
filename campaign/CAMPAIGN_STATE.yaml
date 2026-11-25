@@ -56,9 +56,9 @@ character:
     armor_training: ["light", "medium", "shields"]
     tinkers_tools_proficient: true
   money:
-    gold: 71
-    silver: 9
-    copper: 7
+    gold: 73
+    silver: 2
+    copper: 4
   inventory_reference: character/ERON_RIVER_LEVEL_01.md
   illumination:
     light_cantrip: "Inativo; expirou Dia9 20h50."
@@ -113,7 +113,7 @@ character:
     breakfast_day11: "Pago 1PP; consumido antes da chegada à ferraria 06h55."
     cost_gold: 1
     cost_silver: 3
-    temporary_room_key: "Chave do quarto 3 recebida Dia10; em posse, devolver ao sair."
+    temporary_room_key: "Chave do quarto 3 devolvida a Alda Dia12."
     long_rest_started: true
     long_rest_completed: true
     rest_completion: "Dia12 04h30; descanso longo completo, noite sem interrupção."
@@ -221,7 +221,7 @@ character:
     condition: "Todos os produtos comercializados Dia10 por 35PP."
     estimated_added_weight_kg: 16
     preparation_result: "2d20kh1+5 [20,11] mantido20+5=25, execução Python não comprovada, continuidade preservada."
-  harvested_roe_deer_day11: "Dia 11, 16h25–19h10. Caça na Trilha dos Corços: Sobrevivência 25, Furtividade 22, ataque crítico 27, dano 16, aproveitamento 21. Flecha recuperada intacta. Pele salgada (1 kg consumido, 1,2 kg restante), duas orelhas, duas galhadas, quatro ossos longos, dois feixes de tendões e dentes em posse. 11 kg de carne incluindo costelar, mais coração e fígado entregues a Alda. Troca quitada, jantar servido ainda não consumido, banho aquecendo e quarto 3 garantido."
+  harvested_roe_deer_day11: "Dia 11, 16h25–19h10. Caça na Trilha dos Corços: Sobrevivência 25, Furtividade 22, ataque crítico 27, dano 16, aproveitamento 21. Flecha recuperada intacta. Pele salgada (1 kg consumido, 1,2 kg restante), duas orelhas, duas galhadas, quatro ossos longos, dois feixes de tendões e dentes em posse. 11 kg de carne incluindo costelar, mais coração e fígado entregues a Alda. Troca quitada, jantar servido ainda não consumido, banho aquecendo e quarto 3 garantido. Restante vendido no Dia12; nada da caça Dia11 em posse."
   salt_supply:
     sacks: 2
     weight_kg_approx: 1.2
@@ -233,21 +233,21 @@ character:
 campaign_time:
   calendar_system: "Asterion, dias relativos; nenhuma era/ano formal estabelecido"
   day: 12
-  time_of_day: "Dia 12, cerca de 06h20"
+  time_of_day: "Dia 12, cerca de 08h15"
   season: "final do outono"
-  elapsed_game_time: "Dia 12, 06h15–06h20"
+  elapsed_game_time: "Dia 12, 06h20–08h15"
 location:
   continent: Asterion
   polity: "Terras Livres de Avenhar (homebrew), fora de Valdren"
   area: "entroncamento da Estrada do Cascalho, próximo ao Pouso das Três Fontes"
   nearby: "encostas arborizadas da serra cujo monte mais alto é chamado Veyra"
-  exact_position: "Salão da hospedagem de Alda, Pouso das Três Fontes."
-  travel_status: "Eron retornou ao Pouso das Três Fontes. Thûn-Khazad: entrada original fechada e camuflada, sensores operacionais, oito unidades, manutenção interna e inventário contínuos, seis Caminhos selados. Nenhuma comunicação remota estabelecida."
+  exact_position: "Terreiro do moinho a jusante do vau."
+  travel_status: "Chegou ao moinho após deixar o pouso e vender os materiais."
 scene:
   id: OPENING-001
-  status: "alda_breakfast_day12"
-  current_npcs_present: ["Alda Tress"]
-  immediate_visible_situation: "Dia12 06h20. Eron pergunta pelo sono de Alda, nível do rio e carne. Alda dormiu bem, serviu tiras a um hóspede e reservou costelas para almoço. Ouviu relato sobre canal, não observou córrego. Segundo ela, Lena viu só a ponta da pedra comprida do vau ontem cedo. Eron considera verificar depois, sem partir."
+  status: "mill_yard_day12"
+  current_npcs_present: ["Homem com farinha nas mangas"]
+  immediate_visible_situation: "Dia12 06h20–08h15. Chave devolvida. Sem compromisso de lebre ou pernoite. Belda compra pele 7PP, galhadas 2PP, tendões 2PP, ossos 1PP, dentes 2PC. Nessa compra orelhas 5PC. Todo restante do corço Dia11 vendido por 1PO2PP7PC. Saldo 73PO2PP4PC. Só ponta da pedra exposta no vau. Chega ao terreiro do moinho; córrego corrente, canal abaixo de marca molhada, roda parada. Trabalhador relata moagem intermitente desde ontem."
   discovered_traps:
     - location: "Trilha dos Corcos, junto ao riacho"
       state: disarmed_safe_wire_left_at_tree
@@ -292,8 +292,8 @@ world:
 transcription:
   character_creation_history: sessions/transcripts/SESSION_0001_FULL.md
   narrative_session: sessions/transcripts/SESSION_0002_FULL.md
-  last_saved_player_turn: "[503] JOGADOR — pergunta por Alda e pelo corço, comenta sobre o rio."
-  last_saved_dm_turn: "[504] MESTRE — conversa sobre o canal e referência no vau."
+  last_saved_player_turn: "[505] JOGADOR — venda dos restos do corço e viagem ao moinho."
+  last_saved_dm_turn: "[506] MESTRE — venda concluída e chegada ao moinho."
 notes:
   - "Primeira resposta de cena será salva literalmente e sem revelar preparativos de dm."
   - "Nunca tratar a aprovação da ficha como XP, nem mudar recursos automaticamente."

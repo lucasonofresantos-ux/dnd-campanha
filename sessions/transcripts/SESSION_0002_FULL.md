@@ -14767,3 +14767,32 @@ Alda parte o pão e volta ao café, deixando a manhã correr no teu ritmo.
 - **Condições do jogador** · 30/30 PV, CA 16, 1.400/2.700 XP. Saldo de **71 PO, 9 PP e 7 PC**.
 
 **Commit confirmado no GitHub.**
+
+## [505] JOGADOR
+
+- boa ideia mas vou agora no moinho, obrigado pelo café e vou tentar trazer uma lebre ou duas hoje, mas não prometo, nem prometo que venho dormir aqui
+Saio para vender o resto que tinha caçado do corço e depois vou para o moinho
+
+### Mestre — andamento
+
+Alda estende a mão para a chave do quarto três. — Boa estrada, Eron. Se aparecer com uma lebre, a gente acerta o preço. Se aparecer só com fome, também é bem-vindo.
+
+## [506] MESTRE
+
+Você devolve a chave do quarto três e encontra Belda Cortiça abrindo a oficina. Ela estende a pele de corço sobre a bancada, confere as bordas e paga **7 PP** por ela. As duas galhadas, os dois feixes de tendões e os quatro ossos longos rendem mais **5 PP**. Belda ainda separa **2 PC** pelos dentes. Na banca de Nessa, o par de orelhas rende **5 PC**. Com isso, você vendeu tudo o que restava do corço de ontem por **1 PO, 2 PP e 7 PC**.
+
+No vau, você reconhece a pedra comprida de que Alda falou. Só a ponta rompe a corrente, como Lena tinha descrito na manhã anterior. Uma légua mais abaixo, junto ao moinho, dá para ver o córrego e o canal ao mesmo tempo. A água corre pelo leito do córrego. No canal, uma faixa escura de madeira molhada aparece acima da água, e a roda está parada. A diferença é visível dali. A causa ainda não.
+
+Já passa das oito quando um homem com farinha nas mangas sai pela porta lateral, carregando uma medida de grão vazia. Ele te vê no terreiro e ergue a voz sem precisar competir com a roda.
+
+— Bom dia. Se trouxe grão, vou ter que pedir que espere. Desde ontem mói um saco, para dois. Veio por farinha?
+
+**[LOG DE MEMÓRIA DA CAMPANHA]**
+
+- **Localização atual** · Terreiro do moinho, a jusante do vau. Dia 12, cerca de 08h15.
+- **NPCs presentes e relação** · Homem trabalhando no moinho, primeiro contato. Alda ficou no pouso, sem promessa de caça ou de nova pernoite.
+- **Linha de missão ativa** · Investigar por que o nível do canal baixou. No vau, a referência visível coincide com o relato de Lena.
+- **Eventos cruciais ocorridos** · Chave devolvida. Restos do corço vendidos. Eron encontrou a roda parada e ouviu que a moagem está intermitente desde ontem.
+- **Condições do jogador** · 30/30 PV, CA 16, 1.400/2.700 XP. Saldo após a venda de **73 PO, 2 PP e 4 PC**.
+
+**Commit confirmado no GitHub.**
