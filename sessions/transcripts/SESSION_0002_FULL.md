@@ -10725,3 +10725,79 @@ Você permanece no arquivo, diante dos documentos.
 **Auditoria dos dados:** o d4 de Orientação da resposta anterior não teve execução Python comprovada. O resultado verificável da Investigação é 17 + 6 = 23, suficiente para esta pesquisa. Preservo os acontecimentos e não faço nova rolagem.
 
 **GitHub:** commit confirmado; transcrição, ficha, estado, cronologia, XP e auditoria atualizados.
+
+
+## [347] JOGADOR
+
+- tá, está me dizendo que estes 6 lugares ficam longe para um caralho daqui, e que fizeram um jeito de atravessar essa distância em 50 passos... Isso parece conversa de doído mas por que eu tenho a impressão que isso é verdade? E cara se isso for verdade esse lugar é magnífico, e também me responda se a grande forja está funcionando, e se não tiver como faço para ativar la
+
+## [348] MESTRE
+
+UM-021 vira-se para o mapa gravado na mesa.
+
+— Cinquenta metros, precisamente. Não importa a distância geográfica entre o Salão e o território conectado. A extensão interna de cada Caminho permanece a mesma.
+
+O construto aponta para os símbolos dos seis territórios.
+
+— Durante o funcionamento pleno, era possível transportar alimentos de Barak-Zirak, minérios de Karak-Mith e legiões de Dun-Khazâr em questão de minutos. A distância deixou de representar uma limitação para Thûn-Khazad.
+
+Ao ouvir sua pergunta sobre a Grande Forja, UM-021 permanece imóvel por alguns segundos.
+
+— Comunicação com a Grande Forja indisponível. Não posso confirmar seu estado operacional. A energia que atualmente abastece este setor provém da geração auxiliar que você recuperou.
+
+— A Grande Forja é uma instalação consideravelmente mais complexa.
+
+## Procedimento de reativação da Grande Forja
+
+UM-021 apresenta as etapas gerais de manutenção previstas nos registros técnicos.
+
+<box border radius="lg" padding={3}>
+  <list connector="solid" marker="number" gap={3}>
+    <list-item marker={<icon name="check-circle-filled" color="success" size="xl"/>}>
+      **Restabelecer a geração auxiliar**
+      <caption>Concluído por Eron.</caption>
+    </list-item marker={<icon name="check-circle-filled" color="success" size="xl"/>}>
+    <list-item marker={<icon name="check-circle-filled" color="success" size="xl"/>}>
+      **Recuperar a distribuição setorial local**
+      <caption>Concluído por Eron.</caption>
+    </list-item>
+    <list-item>
+      **Acessar o Núcleo das Runas**
+      <caption>Restabelecer a comunicação e consultar os diagnósticos da rede central.</caption>
+    </list-item>
+    <list-item>
+      **Inspecionar a Grande Forja**
+      <caption>Identificar avarias nas matrizes, mecanismos de captação geotérmica e condutores.</caption>
+    </list-item>
+    <list-item>
+      **Executar os reparos necessários**
+      <caption>Recuperar os componentes danificados e verificar os sistemas de proteção.</caption>
+    </list-item>
+    <list-item>
+      **Restabelecer a geração central**
+      <caption>Ativação controlada, condicionada à integridade das instalações e às autorizações necessárias.</caption>
+    </list-item>
+  </list>
+</box>
+
+— Recomendo iniciar pelo Núcleo das Runas. Tentar ativar a Grande Forja sem conhecer as condições da rede pode provocar danos severos à infraestrutura.
+
+UM-021 volta a olhar para você.
+
+— Considerando os reparos que realizou até o momento, suas habilidades de artesão poderão ser úteis durante esse procedimento.
+
+— Deseja iniciar a inspeção agora?
+
+---
+
+**[LOG DE MEMÓRIA DA CAMPANHA]**
+
+- **Localização atual:** Arquivo administrativo, Dia 8, 16h23.
+- **NPCs presentes e relação:** UM-021, cooperativo.
+- **Linha de missão ativa:** Diagnosticar a Grande Forja e investigar o Grande Selamento.
+- **Eventos cruciais:** Confirmada a indisponibilidade de comunicação com a Grande Forja; procedimento geral de manutenção esclarecido.
+- **Condições:** 21/21 PV | CA 16 | 800/900 XP | Sem exaustão.
+
+Nenhum teste ou deslocamento foi realizado. As etapas apresentadas são orientações técnicas gerais, não um diagnóstico das avarias nem garantia de reativação.
+
+**GitHub:** commit confirmado.
