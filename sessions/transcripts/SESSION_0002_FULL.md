@@ -14169,3 +14169,33 @@ Durnak examina uma das flechas prontas.
 **Nota do Mestre:** fabricação rotineira concluída sem teste ou XP, conforme o procedimento anterior. Encomenda, prazo e remuneração definidos pelo Mestre; serviço ainda não aceito.
 
 **GitHub:** commit confirmado.
+
+## [463] JOGADOR
+
+- aceito sim, e vamos terminar isso
+
+### Mestre — atualização de andamento
+
+Vou conferir a última conversa com Durnak para retomar a cena do ponto em que você aceitou o serviço.
+
+## [464] MESTRE
+
+**Dia 11, 13h35 — Ferraria de Durnak**
+
+— Fechado, Eron. Começa pelas enxadas enquanto eu separo o ferro da carroça.
+
+O som do teu martelo se mistura ao de Durnak. As duas enxadas ficam prontas primeiro. Na foice, o cabo insiste em girar na mão até a cunha assentar de vez. Ao meio-dia, Durnak traz pão e duas tigelas de ensopado para a bancada junto à porta. Depois do almoço, vocês conferem as quatro braçadeiras no molde da carroça. A última desliza até a marca e fica justa como as outras três.
+
+Durnak pega a foice, firma o cabo e experimenta a lâmina num tufo de capim dos fundos. Volta com umas sementes presas na barba e põe **1 PO** na tua mão.
+
+— Essa me deu trabalho ontem. Hoje posso entregar sem medo de o cabo voltar sozinho. Valeu, Eron.
+
+**[LOG DE MEMÓRIA DA CAMPANHA]**
+
+- **Localização atual** · Ferraria de Durnak, Dia 11, 13h35.
+- **NPCs presentes e relação** · Durnak Mão de Ferro, ferreiro que te cede a bancada e paga pelos teus serviços.
+- **Linha de missão ativa** · Encomenda concluída. A Vigília ainda pode deixar recado na ferraria.
+- **Eventos cruciais ocorridos** · Duas enxadas e uma foice reparadas, quatro braçadeiras prontas. Almoço fornecido e 1 PO recebida.
+- **Condições do jogador** · 30/30 PV, CA 16, 1.400/2.700 XP. Saldo de **68 PO, 4 PP e 7 PC**. 30 flechas, sendo 20 na aljava e 10 de reserva.
+
+Serviço de ofício concluído sem teste. **Commit confirmado no GitHub.**

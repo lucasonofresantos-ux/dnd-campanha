@@ -56,7 +56,7 @@ character:
     armor_training: ["light", "medium", "shields"]
     tinkers_tools_proficient: true
   money:
-    gold: 67
+    gold: 68
     silver: 4
     copper: 7
   inventory_reference: character/ERON_RIVER_LEVEL_01.md
@@ -231,9 +231,9 @@ character:
 campaign_time:
   calendar_system: "Asterion, dias relativos; nenhuma era/ano formal estabelecido"
   day: 11
-  time_of_day: "aproximadamente 09h35 do Dia 11"
+  time_of_day: "aproximadamente 13h35 do Dia 11"
   season: "final do outono"
-  elapsed_game_time: "Dia11 06h55–09h35, conclusão da fabricação de flechas."
+  elapsed_game_time: "Dia 11, 09h35–13h35."
 location:
   continent: Asterion
   polity: "Terras Livres de Avenhar (homebrew), fora de Valdren"
@@ -243,9 +243,9 @@ location:
   travel_status: "Eron retornou ao Pouso das Três Fontes. Thûn-Khazad: entrada original fechada e camuflada, sensores operacionais, oito unidades, manutenção interna e inventário contínuos, seis Caminhos selados. Nenhuma comunicação remota estabelecida."
 scene:
   id: OPENING-001
-  status: "durnak_arrows_completed_offer_day11"
+  status: "durnak_commission_completed_day11"
   current_npcs_present: ["Durnak Mão de Ferro, amistoso"]
-  immediate_visible_situation: "Dia11 06h55–09h35: Eron cumprimenta Durnak, declara terminar flechas e pergunta por serviço. Durnak oferece reparo de duas enxadas, uma foice com cabo frouxo e fabricação de quatro braçadeiras de ferro para carroça, 1PO e almoço pela conclusão, materiais e bancada da oficina, estimativa 4h, prazo até fechamento18h. Oferta não aceita, nenhum serviço remunerado iniciado nem pagamento. Eron trabalha 160min restantes do projeto de flechas na bancada gratuita, fabricação rotineira sem teste; conclui sete flechas, total projeto20/20, 480/480min, saldo flechas23→30 (20 aljava, 10 reserva; duas novas na aljava e cinco na reserva). Materiais pagos anteriormente consumidos, sem sobra estabelecida. XP1400/2700, saldo67PO4PP7PC, PV30/30 CA16, sem gasto ou alteração de outros recursos. Nenhum novo recado chegou durante fabricação. Horário, encomenda, remuneração e prazo adjudicados."
+  immediate_visible_situation: "Dia 11, 09h35–13h35. Eron aceita e conclui a encomenda de Durnak: duas enxadas e uma foice reparadas, quatro braçadeiras prontas. Almoço fornecido, 1 PO recebida. Saldo 68 PO, 4 PP e 7 PC. Sem teste ou XP."
   discovered_traps:
     - location: "Trilha dos Corcos, junto ao riacho"
       state: disarmed_safe_wire_left_at_tree
@@ -290,8 +290,8 @@ world:
 transcription:
   character_creation_history: sessions/transcripts/SESSION_0001_FULL.md
   narrative_session: sessions/transcripts/SESSION_0002_FULL.md
-  last_saved_player_turn: "[461] JOGADOR — termina flechas e pergunta por serviço."
-  last_saved_dm_turn: "[462] MESTRE — flechas concluídas e proposta, Dia11 09h35."
+  last_saved_player_turn: "[463] JOGADOR — aceita o serviço."
+  last_saved_dm_turn: "[464] MESTRE — encomenda paga, Dia 11, 13h35."
 notes:
   - "Primeira resposta de cena será salva literalmente e sem revelar preparativos de dm."
   - "Nunca tratar a aprovação da ficha como XP, nem mudar recursos automaticamente."

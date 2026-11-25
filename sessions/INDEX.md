@@ -188,3 +188,5 @@
 - Atualização: sessão 0002 até [368], Dia9 12h15; ordens permanentes de manutenção, descanso longo, três estações sem resposta, XP1000/2700.
 
 - Atualização: sessão 0002 até [370], Dia9 12h50; Bolsa Porta-Tudo criada, primeira estação localizada, XP1000/2700.
+
+- [464] Dia 11, 09h35–13h35. Eron aceita e conclui a encomenda de Durnak: duas enxadas e uma foice reparadas, quatro braçadeiras prontas. Almoço fornecido, 1 PO recebida. Saldo 68 PO, 4 PP e 7 PC. Sem teste ou XP.
