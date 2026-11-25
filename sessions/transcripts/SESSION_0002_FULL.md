@@ -12889,3 +12889,49 @@ Conforme sua instrução anterior, você devolve os seis documentos à caixa, gu
 **Nota do Mestre:** 2d20kh1+6 → [12, 20] → 20+6=26; Orientação 1d4 → [1]; total 27. Execução Python confirmada e hash do script conferido. As informações adicionais dos relatórios e os 30 minutos de investigação são definições do cenário. Não concedi XP novamente pela mesma correspondência. As oito expressões da interação anterior não tiveram execução Python comprovada; sua classificação foi corrigida sem alterar a narrativa ou o XP.
 
 **GitHub:** commit confirmado.
+
+## [405] JOGADOR
+
+- mas isso é outra conversa, antes de reabrir qualquer caminho este lugar tem que estar em ordem, e eu tenho que ir para a cidade antes que me procurem e também precisamos ver os sensores exteriores
+
+## [406] MESTRE
+
+## Dia 10 — 08h40 | Escritório do Guardião
+
+UM-021 inclina a cabeça.
+
+— Compreendido, Guardião.
+
+A voz do Sistema Central manifesta-se em anão:
+
+— As prioridades operacionais serão reorganizadas. A reabertura dos Seis Caminhos permanecerá suspensa até que a restauração do Salão seja concluída e o senhor autorize expressamente sua abertura.
+
+— Quanto à sua saída, recomendo recuperar primeiro os sensores exteriores. Assim, poderemos monitorar as proximidades da entrada durante sua ausência.
+
+| Prioridade | Objetivo |
+|---|---|
+| 1 | Recuperar os sensores de vigilância exterior. |
+| 2 | Garantir o funcionamento e o fechamento seguro do acesso original. |
+| 3 | Prosseguir com a manutenção interna durante sua ausência. |
+| 4 | Concluir o inventário das reservas e certificar as instalações. |
+| 5 | Manter os Seis Caminhos selados. |
+
+Você está dentro de Thûn-Khazad há aproximadamente **3 dias e 18 horas**. Desde sua entrada, não recebeu notícias da cidade, de Alda, de Durnak ou da Vigília. Não sabe se alguém já começou a procurá-lo.
+
+— Posso solicitar que UM-027 nos acompanhe até o vestíbulo original para examinarmos os sensores, Guardião — oferece UM-021.
+
+---
+
+**[LOG DE MEMÓRIA DA CAMPANHA]**
+
+- **Localização atual:** Escritório do Guardião, primeiro nível, Dia 10, 08h42.
+- **NPCs presentes:** UM-021 e Sistema Central, cooperativos.
+- **Linha de missão ativa:** Recuperar a vigilância exterior e preparar o retorno à cidade.
+- **Eventos cruciais:** Prioridades reorganizadas; Seis Caminhos permanecem selados.
+- **Condições:** 30/30 PV | CA 16 | 1.300/2.700 XP.
+
+Nenhum teste necessário nesta conversa. A inspeção dos sensores está autorizada como prioridade, mas ainda não foi realizada. Não presumi sua saída nem que alguém esteja procurando por você.
+
+**Correção de registro:** as duas expressões da interação anterior não foram efetivamente executadas em Python, apesar da afirmação anterior. Os registros foram corrigidos, sem modificar os acontecimentos ou o XP.
+
+**GitHub:** commit confirmado.
