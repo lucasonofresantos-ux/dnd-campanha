@@ -7,7 +7,7 @@ homebrew:
 advancement:
   method: experience_points
   milestones_do_not_grant_levels: true
-  current_total_xp: 400
+  current_total_xp: 425
   next_level_xp: 900
   level_up_pending: false
   level_up_note: "Nível 2 aplicado: Ladino1/Artífice1. Perícia e magias eletivas pendentes."
@@ -21,7 +21,7 @@ character:
     Ladino: 1
     Artífice: 1
   character_level: 2
-  xp_total: 400
+  xp_total: 425
   xp_next_level: 900
   hp_current: 21
   hp_max: 21
@@ -197,21 +197,21 @@ character:
 campaign_time:
   calendar_system: "Asterion, dias relativos; nenhuma era/ano formal estabelecido"
   day: 6
-  time_of_day: "aproximadamente 20h52 do Dia 6"
+  time_of_day: "aproximadamente 22h05 do Dia 6"
   season: "final do outono"
-  elapsed_game_time: "Dia6 ~20h50–20h52, leitura dos serviços da bancada."
+  elapsed_game_time: "Dia6 ~20h52–22h05, diagnóstico, arquivo e testes dos serviços."
 location:
   continent: Asterion
   polity: "Terras Livres de Avenhar (homebrew), fora de Valdren"
   area: "entroncamento da Estrada do Cascalho, próximo ao Pouso das Três Fontes"
   nearby: "encostas arborizadas da serra cujo monte mais alto é chamado Veyra"
   exact_position: "Oficina de manutenção do Monte Veyra, junto à bancada rúnica."
-  travel_status: "Bancada alimentada; cinco serviços identificados, nenhum selecionado."
+  travel_status: "Cinco serviços da oficina testados; coletor sem resposta; permanece junto à bancada."
 scene:
   id: OPENING-001
   status: "awaiting_player_action_at_powered_workshop_day6"
   current_npcs_present: []
-  immediate_visible_situation: "Dia6 ~20h52: Eron perguntou em voz alta que serviços. Não houve resposta sonora. Inscrições anãs luminosas da bancada identificam diagnóstico de rede (falhas nos circuitos conectados), reparação de componentes (assistência mecânica), calibração cristalina (ajuste de cristais condutores), fabricação de componentes (produção mediante matéria-prima), arquivo técnico (esquemas e registros). Observou superfície circular rúnica à direita e encaixes à esquerda aparentemente para fixação de componentes. Funções listadas, não testadas; nenhum serviço selecionado, armários fechados. PV21/21 CA16 XP400/900, inspiração disponível, espaços2/2, Magia do Funileiro4/4, lanterna acesa com 5h18 até Dia7 ~02h10, cinco óleos reserva. Nenhum teste, XP, dano, gasto ou coleta."
+  immediate_visible_situation: "Dia6 ~20h52–22h05: Eron selecionou serviços na ordem diagnóstico, arquivo técnico, reparação, calibração, fabricação. Diagnóstico mostra estação térmica, distribuição superior, oficina e vestíbulo alimentados; coletor central sem resposta, rede além indeterminada. Arquivo parcialmente deteriorado, Investigação vantagem 2d20kh1+6 [20,15] mantém20+6=26; esquemas de peças, manutenção, condutores e rede auxiliar, instrução 'Em caso de interrupção prolongada, restabelecer a geração auxiliar antes da inspeção do coletor. Não conectar circuitos não verificados.' Diagrama funcional sem escala. Reparou eixo deformado da estante Destreza/Ferreiro 1d20+7 [8]+7=15; calibrou dois cristais de reposição existentes Inteligência/Funileiro 1d20+6 [16]+6=22; fabricou pino simples de reposição compatível com articulação de distribuição a partir de sobra de metal local, Destreza/Ferreiro 1d20+7 [11]+7=18. Eixo, pino, dois cristais calibrados permanecem na bancada, não adicionados ao inventário. Cinco funções verificadas no escopo dos testes, não implicam capacidades ilimitadas ou bônus automático. Nenhum armário aberto, nenhuma magia utilizada, nenhum material pessoal gasto. +25 XP por decifrar arquivo e validar funções de oficina como desafio técnico/investigativo distinto da alimentação, não por fabricação rotineira; total425/900. PV21/21 CA16 nível2 inspiração disponível, espaços2/2, Magia do Funileiro4/4, cinco óleos reserva, lanterna acesa 4h05 até Dia7 ~02h10. Nenhuma criatura detectada, nenhum dano, coleta ou combate. Galeria inferior não percorrida. Auditoria: [288] não possui execução Python comprovada no histórico disponível, preservar acontecimentos, acrescentar correção false para reparo22. [292] quatro rolagens efetivamente executadas em container.exec: script /tmp/eron_dice_roller.py reconstruído do GitHub; git hash-object d35af70119bf684ea055619bb10678a1c4b03bbb conferido com test antes de executar; JSON 2d20kh1+6 rolls [20,15], kept_indices [0], modifier6,total26; 1d20+7 rolls [8], kept_indices [0],modifier7,total15; 1d20+6 rolls [16], kept_indices [0],modifier6,total22; 1d20+7 rolls [11], kept_indices [0],modifier7,total18."
   discovered_traps:
     - location: "Trilha dos Corcos, junto ao riacho"
       state: disarmed_safe_wire_left_at_tree
@@ -256,8 +256,8 @@ world:
 transcription:
   character_creation_history: sessions/transcripts/SESSION_0001_FULL.md
   narrative_session: sessions/transcripts/SESSION_0002_FULL.md
-  last_saved_player_turn: "[289] JOGADOR — pergunta que serviços."
-  last_saved_dm_turn: "[290] MESTRE — cinco serviços identificados, nenhum acionado."
+  last_saved_player_turn: "[291] JOGADOR — seleciona cinco serviços e autoriza rolagens."
+  last_saved_dm_turn: "[292] MESTRE — serviços verificados, arquivo interpretado, +25 XP."
 notes:
   - "Primeira resposta de cena será salva literalmente e sem revelar preparativos de dm."
   - "Nunca tratar a aprovação da ficha como XP, nem mudar recursos automaticamente."

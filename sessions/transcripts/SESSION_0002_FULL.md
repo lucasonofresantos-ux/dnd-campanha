@@ -8171,3 +8171,152 @@ Os três armários permanecem fechados.
 - **Recursos:** 2/2 espaços de magia, 4/4 usos de Magia do Funileiro, 5 frascos de óleo em reserva.
 
 **GitHub:** commit confirmado; transcrição, estado e cronologia atualizados.
+
+
+## [291] JOGADOR
+
+Vou primeiro para o diagnóstico depois arquivo técnico e depois em sequência de reparação de componentes até fabricação de componentes e pode rolar oque precisar 
+
+## [292] MESTRE
+
+Vou executar os serviços na ordem indicada, registrar o diagnóstico e consultar os esquemas antes de iniciar os reparos e a fabricação.
+
+## Monte Veyra — Dia 6, 20h52–22h05
+
+Você seleciona a primeira inscrição. As runas da bancada mudam de posição e linhas luminosas formam uma representação esquemática dos circuitos conectados à oficina.
+
+### 1. Diagnóstico da rede
+
+<box background="#172521" theme="dark" radius="lg" padding={3} gap={2}>
+  <title color="#a5e6c2" size="md">DIAGNÓSTICO CONCLUÍDO</title>
+  <divider color="#426154"/>
+  {#each [["Estação térmica","Operacional",true],["Distribuição superior","Operacional",true],["Oficina de manutenção","Operacional",true],["Vestíbulo de acesso","Alimentado",true],["Coletor central","Sem resposta",false],["Rede além do coletor","Indeterminada",false]] as item}
+    <row align="center">
+      <icon name={item[2]?"check-circle":"circle-alert"} color={item[2]?"#79d6a3":"#e6b765"}/>
+      <box flex={1}><text color="#d9e6dd">{item[0]}</text></box>
+      <text color={item[2]?"#79d6a3":"#e6b765"} size="sm">{item[1]}</text>
+    </row>
+  {/each}
+</box>
+
+O diagnóstico indica que a distribuição auxiliar está funcionando. Entretanto, a bancada não consegue estabelecer comunicação com o coletor central.
+
+### 2. Arquivo técnico
+
+<card gap={2}>
+  **Investigação — vantagem pela proficiência em ferramentas pertinentes**
+  <row align="center">
+    {#each [20,15] as n,i}
+      <box flex={1} align="center">
+        <svg viewBox="0 0 100 100" size="72px">
+          <polygon points="50,4 94,29 94,73 50,97 6,73 6,29" fill={i===0?"#927021":"#555b62"} stroke="#c3c5c8" strokeWidth="2"/>
+          <path d="M50 4L23 65L94 73L50 4L77 65L6 73L50 4M6 29L77 65L94 29M23 65L77 65" stroke="#c3c5c8" fill="none"/>
+          <text x="50" y="57" fontSize="29" fontWeight="bold" fill="white" textAnchor="middle">{n}</text>
+        </svg>
+        <caption>{i===0?"Mantido":"Descartado"}</caption>
+      </box>
+    {/each}
+    <box flex={1} align="center">
+      <title size="2xl" color="success">26</title>
+      **20 + 6**
+    </box>
+  </row>
+</card>
+
+O arquivo está parcialmente deteriorado, mas você consegue interpretar os registros preservados.
+
+Você encontra esquemas de fabricação de peças, procedimentos de manutenção, diagramas dos condutores e uma representação da rede auxiliar.
+
+<box border radius="lg" padding={2} gap={2}>
+  <svg viewBox="0 0 340 335" width="100%">
+    <rect x="85" y="10" width="170" height="42" rx="5" fill="#234c3b" stroke="#78ac92"/>
+    <text x="170" y="27" fontSize="12" fill="#e3f4ea" textAnchor="middle">Vestíbulo de acesso</text>
+    <text x="170" y="42" fontSize="10" fill="#a4d6b9" textAnchor="middle">Entrada conhecida</text>
+    <path d="M170 52V76M170 76H80V92M170 76H255V92" stroke="#659b80" fill="none" strokeWidth="2"/>
+    <rect x="10" y="92" width="140" height="44" rx="5" fill="#234c3b" stroke="#78ac92"/>
+    <text x="80" y="110" fill="#e3f4ea" fontSize="11" textAnchor="middle">Oficina de manutenção</text>
+    <text x="80" y="124" fill="#a4d6b9" fontSize="10" textAnchor="middle">Você está aqui</text>
+    <rect x="178" y="92" width="152" height="44" rx="5" fill="#234c3b" stroke="#78ac92"/>
+    <text x="254" y="110" fontSize="11" fill="#e3f4ea" textAnchor="middle">Distribuição auxiliar</text>
+    <text x="254" y="124" fontSize="10" fill="#a4d6b9" textAnchor="middle">Salão superior</text>
+    <path d="M150 114H178M254 136V160" stroke="#659b80" strokeWidth="2"/>
+    <rect x="178" y="160" width="152" height="40" rx="5" fill="#234c3b" stroke="#78ac92"/>
+    <text x="254" y="184" fontSize="11" fill="#e3f4ea" textAnchor="middle">Estação térmica</text>
+    <path d="M254 200V218H170V234" stroke="#a28b5d" strokeDasharray="5 4" strokeWidth="2" fill="none"/>
+    <rect x="90" y="234" width="160" height="40" rx="5" fill="#655335" stroke="#c9aa6e"/>
+    <text x="170" y="250" fontSize="11" fill="#fff1ce" textAnchor="middle">Galeria de inspeção</text>
+    <text x="170" y="265" fontSize="10" fill="#f1d7a2" textAnchor="middle">Não explorada</text>
+    <path d="M170 274V290" stroke="#a28b5d" strokeDasharray="4 4" strokeWidth="2"/>
+    <rect x="90" y="290" width="160" height="35" rx="5" fill="#484b4c" stroke="#969b9e"/>
+    <text x="170" y="312" fontSize="12" fill="#eeeeee" textAnchor="middle">Coletor central</text>
+  </svg>
+  <caption>Esquema funcional da rede auxiliar, sem escala. Verde: setores alimentados; amarelo e cinza: setores ainda não verificados.</caption>
+</box>
+
+Um dos registros contém uma instrução importante:
+
+*“Em caso de interrupção prolongada, restabelecer a geração auxiliar antes da inspeção do coletor. Não conectar circuitos não verificados.”*
+
+### 3. Reparação de componentes
+
+**Ferramentas de Ferreiro:** 1d20+7 → [8] + 7 = **15 — sucesso.**
+
+Você utiliza um pequeno eixo deformado encontrado na estante para experimentar a bancada. Os encaixes se ajustam à peça e as runas indicam os pontos de desalinhamento. Com auxílio das ferramentas, você recupera sua geometria.
+
+A bancada não realiza todo o trabalho sozinha, mas proporciona uma precisão muito superior à de uma oficina comum.
+
+### 4. Calibração cristalina
+
+**Inteligência (Ferramentas de Funileiro):** 1d20+6 → [16] + 6 = **22 — sucesso.**
+
+Você examina os dois cristais de reposição que permaneciam na caixa. A superfície circular da bancada permite avaliar e ajustar suas propriedades condutoras.
+
+Ambos estão agora calibrados e disponíveis para futuros reparos.
+
+### 5. Fabricação de componentes
+
+**Ferramentas de Ferreiro:** 1d20+7 → [11] + 7 = **18 — sucesso.**
+
+Utilizando uma pequena sobra de metal da estante, você seleciona um esquema simples de fabricação e produz um pino de reposição compatível com as articulações dos mecanismos de distribuição.
+
+<box border radius="lg" padding={3} gap={2}>
+  **Resultado dos testes da oficina**
+  {#each ["Diagnóstico de rede","Arquivo técnico","Reparação mecânica","Calibração cristalina","Fabricação de peças simples"] as item}
+    <row align="center">
+      <icon name="check-circle" color="success" size="lg"/>
+      <text>{item}</text>
+      <spacer/>
+      <text color="success" size="sm">Operacional</text>
+    </row>
+  {/each}
+</box>
+
+O eixo recuperado, o pino fabricado e os dois cristais calibrados permanecem sobre a bancada. Nenhum material do seu inventário foi consumido. Os três armários continuam fechados.
+
+<card gap={2}>
+  <caption>Experiência — investigação e validação técnica da oficina</caption>
+  <title size="xl" color="success">+25 XP</title>
+  **425/900 XP — Nível 2**
+  <box height={2} radius="full" background="surface-tertiary" clip>
+    <box width="47.22%" height="100%" background="#26925b"/>
+  </box>
+</card>
+
+**O que você faz?**
+
+---
+
+**[LOG DE MEMÓRIA DA CAMPANHA]**
+
+- **Localização atual:** Oficina de manutenção, Monte Veyra, Dia 6, 22h05.
+- **NPCs presentes e relação:** Nenhum detectado.
+- **Linha de missão ativa:** Investigar o coletor central e recuperar a rede.
+- **Eventos cruciais:** Cinco serviços testados; arquivo técnico interpretado; coletor sem resposta.
+- **Condições:** 21/21 PV | CA 16 | Ladino 1 / Artífice 1 | Inspiração Heroica disponível.
+- **Recursos:** 2/2 espaços de magia, 4/4 usos de Magia do Funileiro, lanterna com 4h05 de autonomia e 5 frascos de óleo em reserva.
+
+Escolhi um eixo e um pino simples como peças de teste, sem consumir seu inventário. Os serviços da bancada são tecnologia própria do cenário (homebrew), não benefícios automáticos da classe Artífice.
+
+**Auditoria:** as quatro rolagens deste turno foram efetivamente executadas em Python com o script do repositório e hash conferido. A rolagem do reparo superior anterior não tem execução comprovada no histórico disponível; corrigi sua classificação sem mudar os acontecimentos.
+
+**GitHub:** commit confirmado; transcrição, ficha, estado, cronologia, XP e rolagens atualizados.
