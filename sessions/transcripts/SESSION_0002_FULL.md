@@ -14964,3 +14964,31 @@ Ela olha por cima do ombro e aponta para uma porteira baixa, do outro lado do te
 - **Condições do jogador** · 30/30 PV, CA 16, 1.425/2.700 XP. Saldo de 73 PO, 2 PP e 4 PC.
 
 **Commit confirmado no GitHub.**
+
+## [519] JOGADOR
+
+- Pode me mostrar
+
+### Mestre — andamento
+
+Celina abre a passagem e te leva até a porteira do curral.
+
+## [520] MESTRE
+
+— Olha a ponta da tranca, Eron.
+
+Celina levanta a barra de carvalho que fecha a porteira. Na véspera de recolher as ovelhas, conta ela, tinha passado sebo no encaixe porque a madeira inchava e prendia. Ainda há sebo ali. Grudados nele, bem no fundo do entalhe, você vê três fios de lã preta. Celina aproxima a borda rasgada da manta para te mostrar a espessura dos fios, sem tirá-los do lugar.
+
+— Quando pendurei a manta, foi aqui no meio da porteira. — Ela indica a travessa, a um braço de distância do encaixe. — E de manhã achei a barra baixada, igual você viu agora. Foi isso que eu queria te mostrar. Se as duas saíram por aqui, quem tornou a fechar?
+
+Ela mantém a barra erguida para você ver melhor. Do lado de fora, a porteira dá para uma faixa de barro entre a cerca e o caminho que desce ao córrego.
+
+**[LOG DE MEMÓRIA DA CAMPANHA]**
+
+- **Localização atual** · Porteira do curral de Celina, Dia 12, cerca de 09h30.
+- **NPCs presentes e relação** · Celina, colaborando com Eron.
+- **Linha de missão ativa** · Apurar como as duas ovelhas desapareceram.
+- **Eventos cruciais ocorridos** · Eron viu fios pretos no encaixe da tranca. Segundo Celina, ela pendurou a manta longe dali e encontrou a porteira trancada pela manhã.
+- **Condições do jogador** · 30/30 PV, CA 16, 1.425/2.700 XP. Saldo de 73 PO, 2 PP e 4 PC.
+
+**Commit confirmado no GitHub.**

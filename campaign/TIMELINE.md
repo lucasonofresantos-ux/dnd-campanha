@@ -558,3 +558,5 @@ Dia10 16h15–16h30: Eron agradeceu a Tavin e retornou ao posto da Vigília para
 - [516] Dia12 09h10–09h20. Tomé consente. Eron leva o tecido molhado até Celina. Pano estendido na trave da cerca. Celina identifica três pontos de linha verde feitos por ela na bainha da manta de cobrir o cesto de roupa. Dava falta há dias e pergunta onde foi achada. Ovelhas seguem desaparecidas.
 
 - [518] Dia12 09h25. Eron explica a obstrução. Celina recolhe a manta recuperada, que diz ter visto na porteira ao trancar o rebanho completo; na manhã seguinte faltavam duas ovelhas e mais tarde notou a manta ausente. Convida Eron a examinar porteira. Eron ainda na cerca.
+
+- [520] Dia12 09h30. Celina conduz Eron à porteira e ergue a barra. Eron vê três fios pretos no sebo do encaixe. Celina indica onde pendurara a manta a um braço do encaixe e diz que encontrou a barra baixada de manhã. Do lado de fora há barro junto ao caminho do córrego.
