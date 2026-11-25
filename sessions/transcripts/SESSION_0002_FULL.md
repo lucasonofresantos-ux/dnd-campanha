@@ -7968,3 +7968,71 @@ Sua lanterna ainda possui dez minutos de autonomia.
 Nenhum teste adicional foi necessário para acionar o equipamento já reparado. Nenhum XP adicional.
 
 **GitHub:** commit confirmado; transcrição, estado e cronologia atualizados.
+
+
+## [285] JOGADOR
+
+Vou reparar oq precisar até a energia chegar a oficina e ao ramal do salão superior 
+
+## [286] MESTRE
+
+Vou conferir o circuito já recuperado e o defeito pendente no salão superior, mantendo o ramal isolado durante a manutenção.
+
+## Monte Veyra — Dia 6, 20h12
+
+Você retorna pelo corredor das tubulações, atravessa a grade que reparou e sobe a escadaria até o salão de distribuição auxiliar.
+
+Ao chegar à caixa metálica, percebe uma diferença importante: os condutores que chegam até ela agora apresentam uma fraca luminosidade azulada. Entretanto, após o dispositivo de isolamento, permanecem completamente apagados.
+
+Você reabastece a lanterna com um frasco de óleo e prepara suas ferramentas de ferreiro e de funileiro. Dessa vez, em vez de tentar liberar diretamente o pino oxidado, pode desmontar a articulação para recuperar a peça e corrigir o alinhamento da conexão.
+
+<box border radius="lg" padding={3} gap={2}>
+  <title size="md">Rede de alimentação auxiliar</title>
+  {#each [{name:"Estação de conversão térmica",ok:true},{name:"Condutores principais",ok:true},{name:"Caixa de distribuição superior",ok:false},{name:"Salão de distribuição",ok:false},{name:"Oficina de manutenção",ok:false}] as item,i}
+    {#if i>0}
+      <row justify="center"><icon name="arrow-down" color="secondary"/></row>
+    {/if}
+    <row background="surface-secondary" radius="md" padding={2}>
+      <icon name={item.ok?"check-circle":"circle-alert"} color={item.ok?"success":"warning"} size="lg"/>
+      <box flex={1} gap={0}>
+        **{item.name}**
+        <caption>{item.ok?"Alimentado":i===2?"Reparo pendente":"Sem alimentação"}</caption>
+      </box>
+    </row>
+  {/each}
+</box>
+
+Como o defeito já foi diagnosticado anteriormente, não será necessário repetir a Investigação.
+
+**Teste necessário:**
+
+<card gap={2}>
+  <row align="center">
+    <svg viewBox="0 0 100 100" size="76px">
+      <polygon points="50,4 94,29 94,73 50,97 6,73 6,29" fill="#214b86" stroke="#93b5dd" strokeWidth="2"/>
+      <path d="M50 4L23 65L94 73L50 4L77 65L6 73L50 97L23 65M23 65L77 65" stroke="#93b5dd" fill="none"/>
+      <text x="50" y="58" fontSize="28" fontWeight="bold" textAnchor="middle" fill="white">?</text>
+    </svg>
+    <box flex={1} gap={1}>
+      **Destreza (Ferramentas de Ferreiro)**
+      <title size="xl">1d20 + 7</title>
+      <caption>Destreza +5 | Proficiência +2</caption>
+    </box>
+  </row>
+  <button block onClick={()=>GenUI.issueNewTurn("Pode rolar o teste de reparo e os demais testes necessários para restabelecer a alimentação do salão superior e da oficina.")}>Rolar e prosseguir com os reparos</button>
+</card>
+
+---
+
+**[LOG DE MEMÓRIA DA CAMPANHA]**
+
+- **Localização atual:** Salão de distribuição auxiliar, Dia 6, 20h12.
+- **NPCs presentes e relação:** Nenhum detectado.
+- **Linha de missão ativa:** Recuperar a alimentação do salão e da oficina.
+- **Eventos cruciais:** Retorno à caixa defeituosa; alimentação confirmada até o ponto de isolamento; reparo aguardando teste.
+- **Condições:** 21/21 PV | CA 16 | Nível 2 | 350/900 XP | Inspiração Heroica disponível.
+- **Recursos:** 5 frascos de óleo em reserva, lanterna reabastecida com autonomia até aproximadamente 02h10 do Dia 7.
+
+Utilizei um frasco de óleo para permitir a continuidade da manutenção. Nenhum dado foi rolado ainda.
+
+**GitHub:** commit confirmado; transcrição, estado, ficha e cronologia atualizados.

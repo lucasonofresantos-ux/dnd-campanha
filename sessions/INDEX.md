@@ -102,3 +102,5 @@
 - Atualização: sessão 0002 até [282], Dia6 19h55; geração auxiliar recuperada e testada, distribuição isolada, XP350/900; dados do jogador 19 e 20 naturais. Auditoria [280].
 
 - Atualização: sessão 0002 até [284], Dia6 20h00; distribuição auxiliar e iluminação da estação ativas, ramal superior isolado; galeria de inspeção identificada. Nenhuma rolagem nova ou XP.
+
+- Atualização: sessão 0002 até [286], Dia6 20h12; retornou à caixa superior, energia a montante, 5 óleos reserva; teste Ferreiro +7 pendente.
