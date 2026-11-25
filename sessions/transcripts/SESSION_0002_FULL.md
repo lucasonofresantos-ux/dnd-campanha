@@ -14565,3 +14565,29 @@ Ela está à mesa mais próxima do balcão, com um avental no colo. Dá mais um 
 - **Condições do jogador** · 30/30 PV, CA 16, 1.400/2.700 XP. Saldo de **71 PO, 9 PP e 7 PC**.
 
 **Commit confirmado no GitHub.**
+
+## [491] JOGADOR
+
+- nada de mais, só uns trabalhos e outros sabe alguma coisa de um moinho?
+
+### Mestre — andamento
+
+Alda põe o avental dobrado no encosto da cadeira.
+
+## [492] MESTRE
+
+— O de baixo, no córrego? É de lá que vem a farinha da Bina. Já fui buscar saco pra ela quando o moleiro machucou as costas. Se for a pé, chega ao vau e acompanha a água pela margem do salgueiro partido. Quando o caminho se divide, o de cima vai dar na casa da Celina. O de baixo termina no terreiro do moinho.
+
+Alda recolhe a tesourinha da mesa e guarda no bolso recém-costurado.
+
+— Estive lá pela última vez antes da chuva. De novidade desta semana, sei pouco. A Bina costuma ir buscar farinha de manhã cedo. Se o que você quer é prosa com o moleiro, espera ele fechar a comporta. Com a roda andando, o homem só entende metade e responde como se tivesse ouvido tudo. — Ela sorri. — Por que a pergunta, Eron? Aconteceu alguma coisa por lá?
+
+**[LOG DE MEMÓRIA DA CAMPANHA]**
+
+- **Localização atual** · Salão da hospedagem de Alda, Dia 11, cerca de 16h25.
+- **NPCs presentes e relação** · Alda Tress, anfitriã e conhecida de Eron.
+- **Linha de missão ativa** · Pista do moinho em aberto.
+- **Eventos cruciais ocorridos** · Alda conhece o caminho até o moinho e a casa de Celina. Bina é freguesa do moleiro. Eron ainda não contou a Alda o relato de Lena.
+- **Condições do jogador** · 30/30 PV, CA 16, 1.400/2.700 XP. Saldo de **71 PO, 9 PP e 7 PC**.
+
+**Commit confirmado no GitHub.**

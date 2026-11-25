@@ -530,3 +530,5 @@ Dia10 16h15–16h30: Eron agradeceu a Tavin e retornou ao posto da Vigília para
 - [488] Dia 11, cerca de 16h15. Eron deseja boa viagem. Lena e o filho se despedem e seguem com a carroça; Eron permanece no quadro. Lena pede lembranças a Celina se Eron passar pelo moinho.
 
 - [490] Dia 11, 16h20. Eron entra no salão e pergunta pelo dia de Alda. Ela conta que Bina trouxe pão e falou da busca pelo caderno. Nenhum visitante o procurou na hospedagem desde a manhã. Alda pergunta pelo dia dele.
+
+- [492] Dia 11, 16h25. Eron pergunta sobre moinho. Alda conhece o caminho: desde o vau seguir a água pela margem do salgueiro partido, ramal superior para Celina, inferior para moinho. Bina compra farinha ali. Alda não recebeu relato de Lena de Eron.
