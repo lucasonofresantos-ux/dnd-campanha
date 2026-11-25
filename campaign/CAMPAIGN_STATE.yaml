@@ -78,7 +78,7 @@ character:
   carrying_weight_lb_recorded: 103.88
   carrying_weight_note: "Carga anterior registrada 103,88 lb; caça Dia6 acrescenta 11 kg de carne e outros materiais sem peso exato aferido; carga estimada abaixo de 180 lb."
   carrying_capacity_lb: 180
-  known_personal_item: "Marca da Bigorna Velada em mãos, apresentada a UM-021; acionou abertura e fechamento da porta externa, atualmente fechada; tipo reconhecido visualmente, permissões não verificadas."
+  known_personal_item: "Marca da Bigorna Velada devolvida a Eron após autenticação do objeto; autoriza serviço e consulta ao arquivo acompanhada por UM-021; não autentica autoridade administrativa. Porta externa permanece fechada."
   trained_owned_tool: "Ferramentas de Funileiro (propriedade e proficiência Artífice1)"
   ammo:
     shortbow_arrows_in_quiver: 19
@@ -212,21 +212,21 @@ character:
 campaign_time:
   calendar_system: "Asterion, dias relativos; nenhuma era/ano formal estabelecido"
   day: 8
-  time_of_day: "aproximadamente 05h54 do Dia 8"
+  time_of_day: "aproximadamente 05h56 do Dia 8"
   season: "final do outono"
-  elapsed_game_time: "Dia8 05h53–05h54, apresentação da Marca e relato de adoção."
+  elapsed_game_time: "Dia8 05h54–05h56, identificação e autorização limitada de acesso."
 location:
   continent: Asterion
   polity: "Terras Livres de Avenhar (homebrew), fora de Valdren"
   area: "entroncamento da Estrada do Cascalho, próximo ao Pouso das Três Fontes"
   nearby: "encostas arborizadas da serra cujo monte mais alto é chamado Veyra"
   exact_position: "Diante da porta de bronze do acesso administrativo, nível de serviço de Thûn-Khazad."
-  travel_status: "Cinco unidades locais operacionais; porta administrativa e armário restrito fechados; cozinha funcional, cinco dormitórios investigados, sexto trancado."
+  travel_status: "Cinco unidades locais operacionais; porta administrativa aberta para consulta acompanhada, armário restrito fechado; cozinha funcional, cinco dormitórios investigados, sexto trancado."
 scene:
   id: OPENING-001
-  status: "awaiting_player_name_and_credential_insertion_day8"
+  status: "awaiting_player_archive_entry_day8"
   current_npcs_present: ["UM-017, cooperativo", "UM-021, cooperativo"]
-  immediate_visible_situation: "Dia8 05h53–05h54: Eron apresentou Marca da Bigorna Velada e contou que abriu porta externa, herança familiar recebida de seu pai por adoção Gruner Barba de Cobre, que o reconheceu descendente apesar de não possuir sangue anão. UM-021 reconheceu visualmente tipo de Marca e associou sobrenome Barba de Cobre à linhagem dos Guardiões dos Seis Caminhos, não confirmou genealogia de Gruner nem autoridade de Eron. Explicou que posse e adoção não bastam para autenticação, exigindo registros; apontou painel de bronze com cavidade circular junto à porta e solicitou inserção para verificar permissões, além de nome completo. Eron ainda não respondeu nem inseriu disco; permanece em suas mãos, porta fechada, sem autorização concedida. Decisão local de cenário: unidade administrativa conhece símbolos institucionais; painel permite testar credencial, não equivale a autenticação bem-sucedida; não definir direitos, parentesco biológico, cargo ou permissões antes da verificação. Respeitar adoção canônica por Gruner. Nenhum dado, XP, magia, combate, gasto ou dano; PV21/21 CA16 XP725/900, UM-017 e UM-021 presentes cooperativos."
+  immediate_visible_situation: "Dia8 05h54–05h56: Eron informou nome Eron River, relatou que Gruner o apresentava aos anões como Eron Barba de Cobre, brincava que era um anão que cresceu demais, ensinou-lhe ofício de artesão e é seu pai por escolha. Autorizou inserir Marca no painel desde que devolvida. UM-021 registrou declaração pessoal não autenticada; Eron inseriu disco, encaixe perfeito, runas douradas acenderam. Painel em Anão indicou credencial ancestral reconhecida, acesso de serviço autorizado, autoridade administrativa não autenticada, consulta ao arquivo autorizada sob acompanhamento. Porta bronze abriu, revelou corredor iluminado por cristais âmbar e relevos de anões em torno de mesa circular. UM-021 retirou Marca e devolveu a Eron, ofereceu acompanhamento aos registros, aguarda resposta. Eron no limiar, ainda não atravessou. Decisão local de cenário: Marca autêntica permite acesso de serviço e consulta acompanhada a arquivo, sem direitos administrativos, governamentais ou comprovação genealógica; frase herança autêntica refere-se ao objeto reconhecido, não a genealogia. Identificação do usuário não autentica linhagem; preservar adoção como canônica e mistério do desaparecimento. Não conceder XP adicional nesta autenticação rotineira, reavaliar descoberta substantiva quando efetivamente explorada. Sem dado, magia, consumo, dano ou combate; PV21/21 CA16 XP725/900, Luz inativa, UM-017 e UM-021 presentes, 9 rações, ~8,1kg carne em custódia UM-019. Nenhuma informação histórica nova dos arquivos foi lida."
   discovered_traps:
     - location: "Trilha dos Corcos, junto ao riacho"
       state: disarmed_safe_wire_left_at_tree
@@ -271,8 +271,8 @@ world:
 transcription:
   character_creation_history: sessions/transcripts/SESSION_0001_FULL.md
   narrative_session: sessions/transcripts/SESSION_0002_FULL.md
-  last_saved_player_turn: "[337] JOGADOR — apresenta Marca e explica adoção por Gruner."
-  last_saved_dm_turn: "[338] MESTRE — Marca reconhecida, painel indicado, nome solicitado, Dia8 05h54."
+  last_saved_player_turn: "[339] JOGADOR — informa nome, recorda Gruner e insere Marca com condição de devolução."
+  last_saved_dm_turn: "[340] MESTRE — credencial reconhecida, acesso acompanhado ao arquivo, Marca devolvida, Dia8 05h56."
 notes:
   - "Primeira resposta de cena será salva literalmente e sem revelar preparativos de dm."
   - "Nunca tratar a aprovação da ficha como XP, nem mudar recursos automaticamente."

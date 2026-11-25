@@ -10287,3 +10287,71 @@ O construto aponta para um pequeno painel de bronze ao lado da porta, onde exist
 A Marca permanece em suas mãos. Nenhuma autorização foi concedida até o momento.
 
 **GitHub:** commit confirmado.
+
+
+## [339] JOGADOR
+
+- Eron River, se bem que Gruner me chamava para os outros anões de Eron barba de cobre e dizia que eu era um anão que cresceu de mais kkkkkkk, ele me ensinou o ofício de artesão... E tenho ele como meu pai, mas tá vou colocar ali mas quero de volta depois
+
+## [340] MESTRE
+
+UM-021 escuta seu relato sem interrompê-lo.
+
+— Eron River. Reconhecido por Gruner Barba de Cobre como membro de sua família. Informação registrada como declaração pessoal, ainda não autenticada.
+
+Você encaixa a Marca no painel. Os seis sulcos do disco se alinham perfeitamente com as ranhuras internas. Um estalo metálico ecoa pela galeria, seguido pelo acendimento gradual de pequenas runas douradas.
+
+Uma inscrição surge no painel, em anão:
+
+<card gap={2}>
+  <row align="center">
+    <icon name="shield-check" color="success" size="xl"/>
+    **Sistema de identificação**
+  </row>
+  <divider/>
+  <row>
+    Credencial ancestral
+    <spacer/>
+    <text color="success" weight="medium">Reconhecida</text>
+  </row>
+  <row>
+    Acesso de serviço
+    <spacer/>
+    <text color="success">Autorizado</text>
+  </row>
+  <row>
+    Autoridade administrativa
+    <spacer/>
+    <text color="secondary">Não autenticada</text>
+  </row>
+  <row>
+    Consulta ao arquivo
+    <spacer/>
+    <text color="success">Autorizada sob acompanhamento</text>
+  </row>
+</card>
+
+As travas da grande porta de bronze começam a se recolher. Lentamente, suas duas folhas se afastam, revelando um corredor iluminado por cristais âmbar. Nas paredes, relevos representam anões reunidos em torno de uma enorme mesa circular.
+
+UM-021 retira a Marca do dispositivo e a devolve a você.
+
+— Sua herança é autêntica, Eron River. A credencial permite acesso ao arquivo sob minha supervisão. Entretanto, sua relação com a linhagem dos Guardiões ainda necessita de comprovação.
+
+— Posso acompanhá-lo até os registros históricos.
+
+O construto aguarda diante da passagem aberta.
+
+---
+
+**[LOG DE MEMÓRIA DA CAMPANHA]**
+
+- **Localização atual:** Entrada do setor administrativo, Dia 8, 05h56.
+- **NPCs presentes:** UM-017 e UM-021, cooperativos.
+- **Missão ativa:** Investigar a história de Thûn-Khazad e a herança de Gruner.
+- **Eventos cruciais:** Credencial reconhecida, acesso acompanhado ao arquivo autorizado, porta administrativa aberta.
+- **Condições:** 21/21 PV | CA 16 | 725/900 XP.
+- **Inventário:** Marca da Bigorna Velada devolvida integralmente à sua posse.
+
+Nenhuma rolagem necessária. O reconhecimento da credencial não equivale ao reconhecimento de Eron como Guardião.
+
+**GitHub:** commit confirmado.
