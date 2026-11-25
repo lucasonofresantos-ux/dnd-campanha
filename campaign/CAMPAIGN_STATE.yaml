@@ -72,11 +72,11 @@ character:
     bright_light_ft: 30
     additional_dim_light_ft: 30
   underground_sleep:
-    last_long_rest_finished: "Dia11 04h30 — hospedagem de Alda"
-    sleep_started: "Dia9 20h30"
-    sleep_finished: "Dia10 04h30"
-    new_long_rest_benefits: false
-    next_long_rest_earliest_start: "Dia11 20h30"
+    last_long_rest_finished: "Dia12 04h30 — hospedagem de Alda"
+    sleep_started: "Dia11 20h30"
+    sleep_finished: "Dia12 04h30"
+    new_long_rest_benefits: true
+    next_long_rest_earliest_start: "Dia12 20h30"
   waterskin: "Dia7 ~06h05–06h20: bebeu água; volume restante não aferido."
   carrying_all_owned_equipment: false
   carrying_weight_lb_recorded: 103.88
@@ -105,7 +105,7 @@ character:
     status: completed
     remaining_materials_location: "Materiais do projeto consumidos; 20 flechas concluídas; nenhuma sobra estabelecida."
   accommodation:
-    day11_barter: "Quitada. Jantar consumido, banho pronto, quarto 3 para esta noite. Café da manhã do Dia 12 oferecido."
+    day11_barter: "Quitada e usufruída. Banho, jantar, quarto 3 e café do Dia 12 consumados."
     inn: "Posto de Descanso de Alda Tress"
     private_room: 3
     room_paid: true
@@ -116,7 +116,7 @@ character:
     temporary_room_key: "Chave do quarto 3 recebida Dia10; em posse, devolver ao sair."
     long_rest_started: true
     long_rest_completed: true
-    rest_completion: "Dia11 04h30; descanso longo iniciado Dia10 18h30, noite sem interrupção, jantar e banho concluídos."
+    rest_completion: "Dia12 04h30; descanso longo completo, noite sem interrupção."
   medical_supplies:
     healer_kit:
       quantity: 1
@@ -232,10 +232,10 @@ character:
   animal_handling_last: "Dia5 ~10h05: dado natural 14+3=17; loba e filhotes aceitam carinho."
 campaign_time:
   calendar_system: "Asterion, dias relativos; nenhuma era/ano formal estabelecido"
-  day: 11
-  time_of_day: "Dia 11, cerca de 19h35"
+  day: 12
+  time_of_day: "Dia 12, cerca de 06h15"
   season: "final do outono"
-  elapsed_game_time: "Dia 11, 19h10–19h35"
+  elapsed_game_time: "Dia 11, 19h35 a Dia 12, 06h15"
 location:
   continent: Asterion
   polity: "Terras Livres de Avenhar (homebrew), fora de Valdren"
@@ -245,9 +245,9 @@ location:
   travel_status: "Eron retornou ao Pouso das Três Fontes. Thûn-Khazad: entrada original fechada e camuflada, sensores operacionais, oito unidades, manutenção interna e inventário contínuos, seis Caminhos selados. Nenhuma comunicação remota estabelecida."
 scene:
   id: OPENING-001
-  status: "alda_inn_afternoon_day11"
-  current_npcs_present: ["Alda Tress", "Mulher de punho azul", "Companheiro da mulher", "Homem grisalho"]
-  immediate_visible_situation: "Dia 11, 19h10–19h35. Jantar consumido. Alda oferece café da manhã Dia12, banho pronto. Percepção [18]+7=25: nenhum sinal de vigilância; mulher com punho manchado de azul relata canal baixo ontem ao entardecer enquanto moleiro estava à porta de Celina. Ela e companheiro continuam à janela."
+  status: "alda_breakfast_day12"
+  current_npcs_present: ["Alda Tress"]
+  immediate_visible_situation: "Dia 11–12. Eron toma banho, dorme no quarto 3, completa descanso longo (20h30–04h30), acorda cedo, desce e toma café da manhã oferecido por Alda, sem despesa. Dia 12, 06h15 no salão, Alda à mesa."
   discovered_traps:
     - location: "Trilha dos Corcos, junto ao riacho"
       state: disarmed_safe_wire_left_at_tree
@@ -292,8 +292,8 @@ world:
 transcription:
   character_creation_history: sessions/transcripts/SESSION_0001_FULL.md
   narrative_session: sessions/transcripts/SESSION_0002_FULL.md
-  last_saved_player_turn: "[499] JOGADOR — janta e observa salão."
-  last_saved_dm_turn: "[500] MESTRE — conversa sobre o canal."
+  last_saved_player_turn: "[501] JOGADOR — banho, sono e café cedo."
+  last_saved_dm_turn: "[502] MESTRE — manhã do Dia 12."
 notes:
   - "Primeira resposta de cena será salva literalmente e sem revelar preparativos de dm."
   - "Nunca tratar a aprovação da ficha como XP, nem mudar recursos automaticamente."

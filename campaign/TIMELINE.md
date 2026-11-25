@@ -540,3 +540,5 @@ Dia10 16h15–16h30: Eron agradeceu a Tavin e retornou ao posto da Vigília para
 - [498] Dia 11, 16h25–19h10. Caça na Trilha dos Corços: Sobrevivência 25, Furtividade 22, ataque crítico 27, dano 16, aproveitamento 21. Flecha recuperada intacta. Pele salgada (1 kg consumido, 1,2 kg restante), duas orelhas, duas galhadas, quatro ossos longos, dois feixes de tendões e dentes em posse. 11 kg de carne incluindo costelar, mais coração e fígado entregues a Alda. Troca quitada, jantar servido ainda não consumido, banho aquecendo e quarto 3 garantido.
 
 - [500] Dia 11, 19h10–19h35. Jantar consumido. Alda oferece café da manhã Dia12, banho pronto. Percepção [18]+7=25: nenhum sinal de vigilância; mulher com punho manchado de azul relata canal baixo ontem ao entardecer enquanto moleiro estava à porta de Celina. Ela e companheiro continuam à janela.
+
+- [502] Dia 11–12. Eron toma banho, dorme no quarto 3, completa descanso longo (20h30–04h30), acorda cedo, desce e toma café da manhã oferecido por Alda, sem despesa. Dia 12, 06h15 no salão, Alda à mesa.

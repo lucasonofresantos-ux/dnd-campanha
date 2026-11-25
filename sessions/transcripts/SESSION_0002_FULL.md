@@ -14712,3 +14712,32 @@ Da mesa junto à janela, entre uma colherada e outra, chega uma conversa que as 
 - **Condições do jogador** · Jantou. Banho pronto, quarto 3 reservado para esta noite e café de amanhã oferecido por Alda. 30/30 PV, CA 16, 1.400/2.700 XP. Saldo de **71 PO, 9 PP e 7 PC**.
 
 **Commit confirmado no GitHub.**
+
+## [501] JOGADOR
+
+Vou tomar um banho e dormir e acordar cedo e tomar café da manhã
+- bom dia alda
+
+### Mestre — andamento
+
+Alda recolhe a tigela e deixa uma toalha limpa à porta do quarto três.
+
+## [502] MESTRE
+
+A água ainda está quente quando você entra no banho. A poeira da trilha sai dos teus pés, e a água leva a graxa que tinha ficado debaixo de uma unha desde o conserto da carroça. Depois, no quarto três, você adormece ao som das últimas conversas do salão.
+
+Você acorda cedo, depois de uma noite tranquila. Quando desce, ainda está escuro lá fora. Alda acaba de tirar dois ovos da frigideira.
+
+— Bom dia, Eron. Dormiu bem? Senta aqui perto do fogo. — Ela põe os ovos no teu prato, ao lado de uma fatia de pão tostada e um pedaço de queijo. — E guarda a bolsa. Desse café eu já cuidei ontem.
+
+Você toma o café da manhã enquanto a primeira claridade alcança a janela. Na rua, alguém abre uma veneziana. Alda puxa a cadeira em frente à tua e aproveita o sossego para comer também.
+
+**[LOG DE MEMÓRIA DA CAMPANHA]**
+
+- **Localização atual** · Salão da hospedagem de Alda, Pouso das Três Fontes. **Dia 12, cerca de 06h15.**
+- **NPCs presentes e relação** · Alda Tress, anfitriã amistosa, à mesa com Eron.
+- **Linha de missão ativa** · A pista do moinho continua em aberto. Nenhum serviço assumido para hoje.
+- **Eventos cruciais ocorridos** · Banho tomado, noite no quarto 3 e descanso longo concluído. Café da manhã consumido por conta de Alda.
+- **Condições do jogador** · 30/30 PV, CA 16, dois espaços de magia de 1º círculo disponíveis, Inspiração Heroica disponível. 1.400/2.700 XP. Saldo de **71 PO, 9 PP e 7 PC**.
+
+**Commit confirmado no GitHub.**
