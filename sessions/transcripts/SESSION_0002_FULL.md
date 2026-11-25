@@ -15048,3 +15048,29 @@ Se a lembrança dela estiver certa, **alguém voltou a manusear a tranca depois 
 - **Condições do jogador** · 30/30 PV, CA 16, 1.425/2.700 XP. Dois espaços de 1º círculo disponíveis. Saldo de 73 PO, 2 PP e 4 PC.
 
 **Commit confirmado no GitHub.**
+
+## [525] JOGADOR
+
+- Tem pegadas aqui, pelo jeito alguém mexeu no que não lhe pertencia e deu problema para a senhora e para o Tomé do moinho
+
+### Mestre — andamento
+
+Celina se inclina sobre a cerca para ver a marca que você aponta.
+
+## [526] MESTRE
+
+— Eu passei por aqui de bota na manhã em que dei falta delas. Andei rente à cerca, chamando as duas, e depois voltei pelo mesmo caminho. Essa pisada pode até ser minha, Eron. Agora, a manta presa *debaixo* da tranca… eu teria sentido a barra pegar quando fechei.
+
+Celina dobra a manta no antebraço. Do outro lado da porteira, uma ovelha enfia o focinho entre as travessas. Ela coça a testa do bicho por hábito.
+
+— Se for olhar mais adiante, tem um jeito bom de saber se achou as minhas. A Brasa tem um talho antigo na orelha esquerda. A outra é a Pinta. Ficou com esse nome por causa de uma manchinha branca debaixo do queixo. As duas tão de lã curta. Se encontrar só uma, olha em volta. Desde cordeiras que uma berra até a outra responder.
+
+**[LOG DE MEMÓRIA DA CAMPANHA]**
+
+- **Localização atual** · Porteira do curral de Celina, Dia 12, cerca de 09h42.
+- **NPCs presentes e relação** · Celina, colaborando com Eron.
+- **Linha de missão ativa** · Descobrir o paradeiro de Brasa e Pinta e quem manuseou a tranca.
+- **Eventos cruciais ocorridos** · Celina passou de botas junto à cerca durante a busca. A pegada segue sem identificação. Brasa tem um talho na orelha esquerda, e Pinta tem uma mancha branca sob o queixo.
+- **Condições do jogador** · 30/30 PV, CA 16, 1.425/2.700 XP. Saldo de 73 PO, 2 PP e 4 PC.
+
+**Commit confirmado no GitHub.**

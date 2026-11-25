@@ -233,9 +233,9 @@ character:
 campaign_time:
   calendar_system: "Asterion, dias relativos; nenhuma era/ano formal estabelecido"
   day: 12
-  time_of_day: "Dia 12, cerca de 09h40"
+  time_of_day: "Dia 12, cerca de 09h42"
   season: "final do outono"
-  elapsed_game_time: "Dia 12, 09h32–09h40"
+  elapsed_game_time: "Dia 12, 09h40–09h42"
 location:
   continent: Asterion
   polity: "Terras Livres de Avenhar (homebrew), fora de Valdren"
@@ -247,7 +247,7 @@ scene:
   id: OPENING-001
   status: "celina_visit_day12"
   current_npcs_present: ["Celina"]
-  immediate_visible_situation: "Dia12 09h40. Investigação 20+6 e Orientação 1, total 27. Rasgo diagonal, marca de sebo e fios prensados indicam manta puxada da travessa para a direita e barra baixada sobre tecido. Celina lembra ter trancado antes de pendurar a manta. Marca parcial de sola voltada ao curral e cascos rumo ao caminho do córrego, sem identificação, datação ou contagem."
+  immediate_visible_situation: "Dia12 09h42. Eron sugere interferência de terceiro. Celina relata ter passado de bota junto à cerca durante a busca; autoria da pegada incerta. Identifica Brasa pelo talho antigo na orelha esquerda e Pinta por mancha branca sob o queixo. Ambas tosquiadas e acostumadas a responder aos chamados uma da outra."
   discovered_traps:
     - location: "Trilha dos Corcos, junto ao riacho"
       state: disarmed_safe_wire_left_at_tree
@@ -292,8 +292,8 @@ world:
 transcription:
   character_creation_history: sessions/transcripts/SESSION_0001_FULL.md
   narrative_session: sessions/transcripts/SESSION_0002_FULL.md
-  last_saved_player_turn: "[523] JOGADOR — autoriza investigação na porteira."
-  last_saved_dm_turn: "[524] MESTRE — reconstrução da manta e tranca."
+  last_saved_player_turn: "[525] JOGADOR — comenta pegadas e consequências."
+  last_saved_dm_turn: "[526] MESTRE — Celina descreve a busca e suas ovelhas."
 notes:
   - "Primeira resposta de cena será salva literalmente e sem revelar preparativos de dm."
   - "Nunca tratar a aprovação da ficha como XP, nem mudar recursos automaticamente."
