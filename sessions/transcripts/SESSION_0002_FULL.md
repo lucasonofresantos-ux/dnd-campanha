@@ -12332,3 +12332,112 @@ Nenhuma nova rolagem necessária. As prioridades são recomendações do Sistema
 **Auditoria:** não houve execução Python comprovada na recuperação de UM-027; os sete resultados anteriores foram registrados como não verificados, preservando os acontecimentos e o XP.
 
 **GitHub:** commit confirmado.
+
+## [391] JOGADOR
+
+- peça que me traga a janta e vamos reestabelecer o circuito do segundo nivel
+- pode rolar oque precisar até ter arrumado
+
+## [392] MESTRE
+
+### Comentário visível antes da narração
+
+Vou encaminhar o pedido de jantar à UM-019 e verificar o circuito do segundo nível com auxílio de UM-027, mantendo as Seis Portas seladas durante os reparos.
+
+### Resposta
+
+## Dia 9 — 18h12 | Thûn-Khazad
+
+— Solicitação encaminhada à UM-019, Guardião — responde o Sistema Central.
+
+Pouco depois, UM-019 traz uma porção de aproximadamente 350 gramas de carne de corço preparada e água. Após a refeição, você segue para o segundo nível acompanhado de UM-012 e UM-027.
+
+## Dia 9 — 18h50 | Salão das Seis Portas
+
+Ao chegar ao segundo nível, você encontra as seis monumentais portas de pedra ainda mergulhadas na escuridão. As inscrições rúnicas permanecem apagadas.
+
+UM-027 localiza o painel de distribuição energética e auxilia você na inspeção dos componentes.
+
+### Testes de recuperação do circuito
+
+| Teste | Dados e modificadores | Total | Resultado |
+|---|---|---:|---|
+| Investigação + Orientação | [13, ~~11~~] +6 +2 | 21 | Sucesso |
+| Ferreiro com auxílio | [8, ~~2~~] +7 | 15 | Sucesso |
+| Arcanismo + Orientação | [20, ~~11~~] +6 +1 | 27 | Sucesso |
+| Funileiro — teste sob carga | [10, ~~6~~] +6 | 16 | Sucesso |
+
+Os dados riscados foram descartados pela vantagem. Todas as seis expressões foram executadas em Python com o script do repositório, cujo hash foi conferido.
+
+Você identifica um suporte metálico rompido e contatos desalinhados no distribuidor principal. Utilizando Reparar e suas ferramentas, recupera a estrutura, enquanto UM-027 auxilia na calibração do circuito rúnico.
+
+## Dia 9 — 20h05 | Segundo nível reativado
+
+UM-027 aciona o distribuidor. Um som grave percorre as paredes do salão. As luminárias se acendem e as runas gravadas ao redor das seis portas começam a brilhar, revelando a grandiosidade da arquitetura anã.
+
+A voz do Sistema Central ecoa pelo ambiente:
+
+— **Distribuição energética do segundo nível restabelecida. Comunicação central recuperada.**
+
+— Guardião, os sete níveis possuem agora alimentação energética, ainda que alguns setores necessitem de inspeções complementares. Os mecanismos das Seis Portas estão disponíveis para diagnóstico. Os selos permanecem ativos.
+
+### Situação do Salão dos Seis Caminhos
+
+| Nível | Situação |
+|---|---|
+| 1 — Recepção e suítes | Alimentado; oficina operacional |
+| 2 — Salão das Seis Portas | Circuito e comunicação recuperados |
+| 3 — Núcleo das Runas | Operacional |
+| 4 — Reservas estratégicas | Alimentado; inventário em andamento |
+| 5 — Aposentos e estudo | Alimentado; oficina operacional |
+| 6 — Serviços | Operacional nos setores recuperados |
+| 7 — Grande Forja | Operacional |
+
+<card gap={2}>
+  <grid columns={2}>
+    <grid-item>
+      <caption>Níveis alimentados</caption>
+      <title size="2xl" color="success">7/7</title>
+    </grid-item>
+    <grid-item>
+      <caption>Construtos operacionais</caption>
+      <title size="2xl" color="success">8</title>
+    </grid-item>
+    <grid-item>
+      <caption>Estações recuperadas</caption>
+      <title size="2xl" color="success">3/3</title>
+    </grid-item>
+    <grid-item>
+      <caption>Caminhos abertos</caption>
+      <title size="2xl">0/6</title>
+    </grid-item>
+  </grid>
+  <divider/>
+  <row align="center">
+    <box flex={1}>
+      <caption>Experiência — recuperação do segundo nível</caption>
+      <title size="lg">1.200 / 2.700 XP</title>
+    </box>
+    <title color="success" size="xl">+50 XP</title>
+  </row>
+  <box height={2} radius="full" background="surface-tertiary" clip>
+    <box height={2} width="44.44%" background="#26925b"/>
+  </box>
+</card>
+
+— A próxima intervenção recomendada é recuperar a vigilância dos acessos externos — informa o Sistema.
+
+---
+
+**[LOG DE MEMÓRIA DA CAMPANHA]**
+
+- **Localização atual:** Salão das Seis Portas, segundo nível, Dia 9, 20h05.
+- **NPCs presentes:** UM-012, UM-027 e Sistema Central, cooperativos.
+- **Linha de missão ativa:** Restaurar integralmente Thûn-Khazad.
+- **Eventos cruciais:** Segundo nível conectado; todos os sete níveis alimentados.
+- **Condições:** 30/30 PV | CA 16 | 1.200/2.700 XP | Inspiração Heroica disponível.
+- **Provisões:** 9 rações e aproximadamente 6,45 kg de carne sob custódia de UM-019.
+
+**Nota do Mestre:** utilizei Orientação duas vezes, Reparar e Luz, renovada às 18h50 e 19h50. Nenhum espaço de magia, componente de reposição ou uso de Magia do Funileiro foi consumido. Os 50 XP, a porção do jantar e a duração dos reparos são decisões do Mestre. Alimentação energética não equivale à recuperação integral de todos os equipamentos.
+
+**GitHub:** commit confirmado.
