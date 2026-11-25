@@ -12508,3 +12508,47 @@ Nenhuma rolagem necessária para a consulta. O horário de entrada foi conferido
 **Auditoria:** a execução Python das seis expressões da interação anterior não está comprovada; corrigi sua classificação, preservando os acontecimentos e o XP.
 
 **GitHub:** commit confirmado.
+
+## [395] JOGADOR
+
+- eu vou dormir agora e que mantenha a prioridade em recuperar tudo mas sem a área externa agora
+
+## [396] MESTRE
+
+— Ordem registrada, Guardião. A restauração interna permanece como prioridade máxima. As intervenções na área externa serão suspensas até nova autorização. Os Seis Caminhos permanecerão selados.
+
+UM-012 acompanha você até seus aposentos privativos, no primeiro nível. O quarto está limpo, a cama preparada e a iluminação funcionando.
+
+## Dia 10 — 04h30 | Aposentos do Guardião
+
+Você dorme durante oito horas, sem interrupções. Ao despertar, encontra UM-021 aguardando junto à porta.
+
+— Bom dia, Guardião. As unidades permaneceram em atividade durante seu repouso. Apresento o relatório de manutenção.
+
+| Unidade | Atividade durante a noite |
+|---|---|
+| UM-012 | Limpeza dos corredores e saneamento |
+| UM-014 | Inspeção e manutenção de equipamentos |
+| UM-017 | Transporte de componentes e inspeção estrutural |
+| UM-019 | Organização da cozinha e dos mantimentos |
+| UM-021 | Coordenação e atualização dos registros |
+| UM-023 | Inspeção hidráulica e do aquecimento |
+| UM-025 | Inventário das reservas estratégicas |
+| UM-027 | Verificação dos circuitos rúnicos internos |
+
+— Os circuitos anteriormente recuperados continuam funcionando. A manutenção interna prossegue. Nenhuma intervenção externa foi realizada, conforme sua determinação.
+
+---
+
+**[LOG DE MEMÓRIA DA CAMPANHA]**
+
+- **Localização atual:** Aposentos privativos do Guardião, primeiro nível.
+- **Data e horário:** Dia 10, 04h30.
+- **NPCs presentes:** UM-021, cooperativo.
+- **Linha de missão ativa:** Restaurar integralmente as instalações internas de Thûn-Khazad.
+- **Eventos cruciais:** Oito horas de sono; manutenção interna contínua; intervenções externas suspensas.
+- **Condições:** 30/30 PV | CA 16 | 1.200/2.700 XP | 2/2 espaços de magia | 4/4 Magia do Funileiro | Inspiração Heroica disponível.
+
+**Nota de regras:** você dormiu das 20h30 às 04h30, mas ainda não decorreram 24 horas desde a conclusão do último descanso longo, às 12h15 do Dia 9. Portanto, não concedi novamente seus benefícios mecânicos. Seus recursos já estavam completos. Nenhuma rolagem necessária; as atividades rotineiras das unidades não conferiram XP.
+
+**GitHub:** commit confirmado.
