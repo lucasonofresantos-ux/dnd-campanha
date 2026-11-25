@@ -13704,3 +13704,50 @@ Iria olha pela janela, na direção em que os dois vigias partiram.
 **Nota do Mestre:** nenhuma nova remuneração foi combinada, nem houve deslocamento ou rolagem. A diligência ainda está em andamento.
 
 **GitHub:** commit confirmado.
+
+## [439] JOGADOR
+
+- vou fazer o possível mas se me atacarem não espere que eles voltem inteiros
+Sobrevivência 18
+Furtividade 20
+Percepção 19 para encontrar o Berric e seguir os rastros da carroça e ver se acha oque foi roubado
+
+## [440] MESTRE
+
+## Dia 10 — 16h50 | Pátio dos carreteiros
+
+— Defender-se é uma coisa, Eron. Só não quero que uma prisão termine num funeral desnecessário — responde Iria.
+
+Você segue em direção à saída leste do povoado.
+
+| Teste | Dado natural | Total |
+|---|---:|---:|
+| Sobrevivência | 18 +5 | **23** |
+| Furtividade | 20 +9 | **29** |
+| Percepção | 19 +7 | **26** |
+
+Retomando os vestígios encontrados nas proximidades do depósito, você identifica uma irregularidade no sulco deixado por uma das rodas direitas. Apesar de outros rastros cruzarem o percurso, encontra marcas compatíveis até o pátio dos carreteiros. Ali está a carroça de dois eixos, puxada pela mula castanha, junto ao galpão de portão verde.
+
+Você alcança os dois vigias antes que abordem o suspeito. Aproveitando uma pilha de madeira como cobertura, observa o local discretamente, a aproximadamente 12 metros do galpão. Um homem de barba escura está organizando cordas na carroça quando outro carreteiro o chama pelo nome:
+
+— Berric! Vai pegar a estrada amanhã?
+
+— Vou, se terminar de arrumar tudo hoje.
+
+Pela abertura parcial do portão, você consegue distinguir **duas caixas parcialmente cobertas por uma lona**. Uma possui inscrição referente a tecidos; a outra, a ferragens. Correspondem à descrição das mercadorias desaparecidas, embora ainda seja necessário confirmar sua procedência.
+
+Berric não percebeu sua presença. Os dois vigias estão próximos à entrada do pátio e ainda não fizeram a abordagem.
+
+---
+
+**[LOG DE MEMÓRIA DA CAMPANHA]**
+
+- **Localização atual:** Pátio dos carreteiros, saída leste do Pouso, Dia 10, 16h50.
+- **NPCs presentes e relação:** Dois vigias aliados; Berric, suspeito ainda não abordado.
+- **Linha de missão ativa:** Auxiliar a Vigília na recuperação das mercadorias.
+- **Eventos cruciais:** Berric localizado, rastros compatíveis identificados e duas caixas suspeitas avistadas.
+- **Condições:** 30/30 PV | CA 16 | 1.375/2.700 XP | 68 PO, 8 PP e 7 PC | 23 flechas.
+
+**Nota do Mestre:** apliquei os bônus aos dados naturais fornecidos por você. Nenhum combate, apreensão ou confirmação definitiva da origem das caixas. Horário e detalhes do local adjudicados; nenhum XP adicional nesta etapa.
+
+**GitHub:** commit confirmado.
