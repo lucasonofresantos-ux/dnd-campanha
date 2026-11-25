@@ -218,9 +218,9 @@ character:
 campaign_time:
   calendar_system: "Asterion, dias relativos; nenhuma era/ano formal estabelecido"
   day: 10
-  time_of_day: "aproximadamente 08h10 do Dia 10"
+  time_of_day: "aproximadamente 08h40 do Dia 10"
   season: "final do outono"
-  elapsed_game_time: "Dia10 05h40–08h10, pesquisa documental e guarda do patrimônio."
+  elapsed_game_time: "Dia10 08h10–08h40, exame comparativo da correspondência reservada."
 location:
   continent: Asterion
   polity: "Terras Livres de Avenhar (homebrew), fora de Valdren"
@@ -230,9 +230,9 @@ location:
   travel_status: "Oito unidades operacionais; três estações recuperadas; sete níveis alimentados localmente. Prioridade manutenção interna, intervenção exterior suspensa. Reservas em inventário, Caminhos selados, cofre fechado e patrimônio preservado. Certificação integral pendente."
 scene:
   id: OPENING-001
-  status: "guardian_documents_examined_safe_closed_day10"
+  status: "council_reports_crosschecked_safe_closed_day10"
   current_npcs_present: ["UM-021, cooperativo"]
-  immediate_visible_situation: "Dia10 05h40–08h10: jogador autorizou investigar documentos escritório e cofre, não recolher dinheiro, devolver objetos e documentos ao cofre. Testes predefinidos CD17 diário 1d20+6 [18]=24 +Orientação1d4[2]=26; CD15 contabilidade com auxílio UM021 2d20kh1+6 [7,8] índice1=14 +1d4[4]=18; CD16 correspondência com auxílio 2d20kh1+6 [7,11] índice1=17 +1d4[4]=21; CD15 plantas 1d20+6 [9]=15 +1d4[3]=18. Todos sucesso, oito expressões realmente executadas por container.exec no turno, script /tmp/eron_401_dice.py reproduzido do GitHub, git hash-object d35af70119bf684ea055619bb10678a1c4b03bbb confirmado antes da execução, JSON retornados. Diário antigo parcialmente deteriorado: união sem submissão, uso estratégico Caminhos, recomendação fechar rota insegura; preocupação com segurança sem causa definitiva do Selamento. Livro distingue tesouro imperial, reservas estratégicas, fundos administrativos; 120 moedas ouro e 80 prata reserva administrativa, não tesouro geral, valor atual não confirmado. Caixa aberta, seis relatórios territoriais, Baraz-Khaz recomenda verificar extremidades antes de reativação; terminais remotos incomunicáveis, sobreviventes desconhecidos. Planta identifica suítes, câmaras Conselho, depósitos nível4 e galerias técnicas; sinete bronze autentica documentos, não abre Caminhos. Todos os objetos do cofre devolvidos, caixa aberta com lacre original guardado, diário e planta do escritório também guardados no cofre por interpretação declarada, cofre fechado; nenhuma apropriação, dinheiro pessoal56PO2PP7PC. +50XP investigação documental substantiva (distinta da descoberta/abertura), total1300/2700. PV30/30 CA16 slots2/2 Tinker4/4 inspiração disponível, Luz inativa, Orientação encerrada, sem dano, consumo, nova condição, gasto ou deslocamento. Exterior suspenso, Caminhos selados, manutenção interna contínua. Auditoria [400]: seis expressões anteriores não executadas em Python comprovadamente no histórico; acrescentar false sem apagar originais ou alterar narrativa/XP. Definições locais: conteúdo de documentos, duração e XP; nenhuma resolução definitiva do Selamento."
+  immediate_visible_situation: "Dia10 08h10–08h40: jogador pediu abrir e examinar caixa selada; mesma caixa já aberta [402], cofre reaberto com autorização, exame detalhado com cruzamento de datas e auxílio de UM021 (vantagem). CD16; 2d20kh1+6 rolls [12,20], kept_indices [1], total26; Orientação 1d4 [1] total1; combinado27 sucesso, 20 natural. Execução real container.exec /tmp/eron_403_dice.py hash d35af70119bf684ea055619bb10678a1c4b03bbb conferido antes das duas expressões, JSON retornados. Seis documentos pertencem mesmo ciclo administrativo; Karak-Mith minerais/extração, Barak-Zirak alimentos/distribuição, Khaz-Vardun manutenção/autonomia local, Dun-Khazâr prontidão legiões/segurança, Thoradin mercadorias/comércio, Baraz-Khaz segurança rúnica/verificar extremidades. Khaz-Vardun recomenda equipamentos essenciais independentes do Salão; UM021 explica possibilidade de continuidade independente dos Caminhos, não confirma sobreviventes. Nenhum outro objeto/compartimento oculto identificável. Documentos devolvidos, caixa ao cofre, porta fechada, nada recolhido; dinheiro pessoal56PO2PP7PC intacto. Sem XP adicional por mesma correspondência; XP1300/2700 PV30/30 CA16 recursos limitados intactos. Decisões locais: conteúdo adicional, tempo, CD, ajuda. Exterior suspenso e Caminhos selados. Auditoria [402]: oito expressões sem execução Python comprovada; acrescentar false sem apagar originais ou modificar acontecimentos/XP."
   discovered_traps:
     - location: "Trilha dos Corcos, junto ao riacho"
       state: disarmed_safe_wire_left_at_tree
@@ -258,7 +258,7 @@ scene:
   initiative: []
   rounds: 0
   dice_rolled: true
-  xp_awarded: true
+  xp_awarded: false
   reward_offered_but_not_accepted: null
   herd_contract_status: "Concluído Dia5 ~11h55; Mara confirmou três noites sem perdas, pagou 12 PO; +50 XP de resolução substantiva, reputação gratidão e respeito."
   investigation_offer: null
@@ -277,8 +277,8 @@ world:
 transcription:
   character_creation_history: sessions/transcripts/SESSION_0001_FULL.md
   narrative_session: sessions/transcripts/SESSION_0002_FULL.md
-  last_saved_player_turn: "[401] JOGADOR — examinar documentos e cofre sem apropriação."
-  last_saved_dm_turn: "[402] MESTRE — documentos examinados, cofre fechado, Dia10 08h10, XP1300."
+  last_saved_player_turn: "[403] JOGADOR — pede abrir e examinar a caixa selada, autoriza rolagem."
+  last_saved_dm_turn: "[404] MESTRE — correspondência aprofundada, cofre fechado, Dia10 08h40."
 notes:
   - "Primeira resposta de cena será salva literalmente e sem revelar preparativos de dm."
   - "Nunca tratar a aprovação da ficha como XP, nem mudar recursos automaticamente."
