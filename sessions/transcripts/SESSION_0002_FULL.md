@@ -13674,3 +13674,33 @@ Ela repousa a pena sobre a mesa.
 **Nota do Mestre:** Iria aceitou considerar os atenuantes, sem garantir absolvição. Nenhuma nova rolagem ou alteração de recursos.
 
 **GitHub:** commit confirmado.
+
+## [437] JOGADOR
+
+- queres ajuda para este Berric?
+
+## [438] MESTRE
+
+## Dia 10 — 16h33 | Posto da Vigília
+
+Iria olha pela janela, na direção em que os dois vigias partiram.
+
+— Se estiver disposto, aceito. Você conhece melhor os detalhes da investigação do que eles. Ainda deve conseguir alcançá-los antes que cheguem ao pátio dos carreteiros.
+
+— Ajude-os a identificar as mercadorias e descobrir se Berric está envolvido em outros roubos. Se for necessário detê-lo, deixe isso a cargo dos vigias. Prefiro recuperar as caixas sem derramamento de sangue.
+
+— Gostaria de descobrir também se Tavin foi o único a quem Berric fez esse tipo de proposta.
+
+---
+
+**[LOG DE MEMÓRIA DA CAMPANHA]**
+
+- **Localização atual:** Posto da Vigília, Dia 10, 16h33.
+- **NPCs presentes e relação:** Iria, amistosa e respeitosa.
+- **Linha de missão ativa:** Restauração de Thûn-Khazad; possibilidade de auxiliar na diligência contra Berric.
+- **Eventos cruciais:** Iria aceitou a oferta de ajuda.
+- **Condições:** 30/30 PV | CA 16 | 1.375/2.700 XP | 68 PO, 8 PP e 7 PC | 23 flechas.
+
+**Nota do Mestre:** nenhuma nova remuneração foi combinada, nem houve deslocamento ou rolagem. A diligência ainda está em andamento.
+
+**GitHub:** commit confirmado.
