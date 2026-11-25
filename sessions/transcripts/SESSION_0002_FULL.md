@@ -13527,3 +13527,44 @@ Ele não acrescenta nada ao depoimento. Lessa permanece nas proximidades.
 **Nota do Mestre:** rolagem executada em Python com o hash do script conferido. Reação e duração adjudicadas; nenhum XP ou pagamento.
 
 **GitHub:** commit confirmado.
+
+## [429] JOGADOR
+
+Persuasão 19
+Intuição 17
+- tavin, não existe vergonha em errar... Mas alguma coisa não está batendo e você sempre dá uma parada quando fala que trancou a porta, me conte oque aconteceu é melhor e me poupa tempo que eu vou descobrir, e oque falar se for um erro não sai daqui, e se tiver envolvido coloco como colaborou
+
+## [430] MESTRE
+
+## Dia 10 — 16h13 | Depósito de Neral Voss
+
+| Teste | Resultado |
+|---|---:|
+| Persuasão | 19 +4 = **23** |
+| Intuição | 17 +5 = **22** |
+
+Tavin permanece calado por alguns instantes. Olha na direção de Lessa e baixa a voz.
+
+— Está bem... Eu tranquei a porta, mas voltei a abri-la depois que Lessa saiu. Um carreteiro chamado Berric veio me procurar. Eu devia dinheiro a ele, e combinamos que a dívida seria quitada se eu permitisse que levasse as duas caixas.
+
+Ele abaixa a cabeça.
+
+— Vi quando colocou as caixas na carroça. Depois tranquei novamente o depósito. Na manhã seguinte, fingi que tinha acabado de descobrir o desaparecimento. Berric trabalha na Estrada do Cascalho. Não sei onde estão as mercadorias agora.
+
+— Por favor, diga à Vigília que eu colaborei.
+
+Pela expressão e pelo tom de voz, você percebe alívio por finalmente falar, misturado ao medo das consequências. A confissão parece sincera, embora ainda precise ser confrontada com outras evidências.
+
+---
+
+**[LOG DE MEMÓRIA DA CAMPANHA]**
+
+- **Localização atual:** Depósito de Neral Voss, Dia 10, 16h13.
+- **NPCs presentes e relação:** Tavin, cooperando e receoso; Lessa, nas proximidades.
+- **Linha de missão ativa:** Investigar as mercadorias desaparecidas — 8 PO.
+- **Eventos cruciais:** Tavin confessou participação e identificou Berric como responsável pela retirada das caixas.
+- **Condições:** 30/30 PV | CA 16 | 1.325/2.700 XP | 60 PO, 8 PP e 7 PC | 23 flechas.
+
+**Nota do Mestre:** aceitei os dados naturais informados, pois houve uma nova abordagem. A rolagem automática anterior não teve execução Python comprovada; corrigi seu registro, preservando a narrativa. Nenhum pagamento ou XP nesta etapa.
+
+**GitHub:** commit confirmado.
