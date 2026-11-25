@@ -12205,3 +12205,85 @@ A última ordem de serviço e as marcas são elementos locais do cenário. Nenhu
 **Auditoria:** não houve execução Python comprovada na recuperação anterior. Os oito resultados permanecem no histórico como não verificados, sem alterar os acontecimentos ou o XP.
 
 **GitHub:** commit confirmado; pendência anterior sincronizada.
+
+## [387] JOGADOR
+
+Pode rolar oque precisar e também para ligar no sistema central
+
+## [388] MESTRE
+
+### Comentário visível antes da narração
+
+Vou investigar os vestígios, localizar a unidade e, se houver condições de reparo, tentar restabelecer sua conexão com o Sistema Central.
+
+### Resposta
+
+## Dia 9 — 17h25 | Galeria técnica dos arquivos
+
+Você conjura Orientação e examina as marcas no piso com suas ferramentas de Funileiro.
+
+| Teste | Dados e modificadores | Total | Resultado |
+|---|---|---:|---|
+| Investigação dos vestígios | [6, 20] +6 +2 | 28 | Sucesso |
+
+As marcas correspondem ao arrastamento de uma estrutura metálica pesada. Seguindo-as, você encontra uma pequena câmara de transmissão rúnica. Junto à parede, um suporte metálico tombado prende a perna de um construto. A identificação em seu peito confirma: **UM-027**.
+
+Com auxílio de UM-012, você libera a unidade e examina suas conexões.
+
+| Teste | Dados e modificadores | Total | Resultado |
+|---|---|---:|---|
+| Funileiro — reparação | [18, 12] +6 | 24 | Sucesso |
+| Arcanismo — conexão | [5, 5] +6 +2 | 13 | Falha |
+| Arcanismo — diagnóstico pela estação | [19, 17] +6 +2 | 27 | Sucesso |
+
+Nos quatro testes, foi mantido o maior d20; os três bônus de +2 vieram de Orientação. Após a primeira tentativa de conexão falhar, você utiliza os registros técnicos da oficina recuperada para corrigir a sequência de sincronização. Reparar recupera um condutor não mágico fissurado, sem consumir peças.
+
+## Dia 9 — 18h10 | Oitava unidade operacional
+
+O construto se ergue. As runas em seu peito se iluminam, e uma voz metálica rompe o silêncio.
+
+— Unidade de manutenção 027. Especialidade: instrumentos rúnicos, circuitos de comunicação e equipamentos de arquivo.
+
+Uma breve pausa.
+
+— Conexão com o Sistema Central restabelecida. Autoridade do Guardião reconhecida.
+
+UM-027 recebe a ordem permanente de restauração e retorna à oficina acompanhado de vocês.
+
+<card gap={2}>
+  <grid columns={2}>
+    <grid-item>
+      <caption>Construtos operacionais</caption>
+      <title size="2xl" color="success">8</title>
+    </grid-item>
+    <grid-item>
+      <caption>Estações recuperadas</caption>
+      <title size="2xl" color="success">3/3</title>
+    </grid-item>
+  </grid>
+  <divider/>
+  <row>
+    <icon name="check-circle-filled" color="success"/>
+    UM-027 conectada ao Sistema Central
+  </row>
+  <row>
+    <icon name="check-circle-filled" color="success"/>
+    Oficina de instrumentos rúnicos em serviço
+  </row>
+</card>
+
+**+25 XP pela recuperação de UM-027. Total: 1.150/2.700 XP.**
+
+---
+
+**[LOG DE MEMÓRIA DA CAMPANHA]**
+
+- **Localização atual:** Oficina de instrumentos rúnicos, quinto nível, Dia 9, 18h10.
+- **NPCs presentes:** UM-012 e UM-027, cooperativas.
+- **Linha de missão ativa:** Restaurar integralmente o Salão dos Seis Caminhos.
+- **Eventos cruciais:** UM-027 recuperada e conectada; oito unidades operacionais.
+- **Condições:** 30/30 PV | CA 16 | 2/2 espaços de magia | 4/4 Magia do Funileiro | Inspiração Heroica disponível.
+
+**Nota do Mestre:** as sete expressões deste turno foram efetivamente executadas em Python, com hash do script conferido. Renovei Luz às 17h45, válida até 18h45. Defini a avaria, a especialidade, o tempo e os 25 XP como elementos locais do cenário. Nenhum recurso pessoal limitado foi gasto. A conexão da unidade não restabelece automaticamente a vigilância externa nem abre os Seis Caminhos.
+
+**GitHub:** commit confirmado.
