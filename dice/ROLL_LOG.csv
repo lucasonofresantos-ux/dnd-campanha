@@ -592,3 +592,5 @@ date,campaign_id,stage,attempt,expression,six_rolls_faces_in_order,six_attribute
 2026-11-25,ERON-RIVER-ASTERION-001,audit_unverified_npc_reaction_berric_arrest_day10,1,1d20,"17","17+0; kept index 0; execução não comprovada",17,false
 2026-11-25,ERON-RIVER-ASTERION-001,persuasion_berric_confession_player_day10,1,1d20+4,"18","18+4; informado jogador",22,true
 2026-11-25,ERON-RIVER-ASTERION-001,insight_berric_confession_player_day10,1,1d20+5,"19","19+5; informado jogador",24,true
+2026-11-25,ERON-RIVER-ASTERION-001,perception_followers_inn_day10,1,1d20+7,"6","6+7; kept index 0; Python executado",13,true
+2026-11-25,ERON-RIVER-ASTERION-001,perception_inn_hall_day10,1,1d20+7,"15","15+7; kept index 0; Python executado",22,true
