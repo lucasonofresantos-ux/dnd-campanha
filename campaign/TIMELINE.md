@@ -568,3 +568,5 @@ Dia10 16h15–16h30: Eron agradeceu a Tavin e retornou ao posto da Vigília para
 - [526] Dia12 09h42. Eron sugere interferência de terceiro. Celina relata ter passado de bota junto à cerca durante a busca; autoria da pegada incerta. Identifica Brasa pelo talho antigo na orelha esquerda e Pinta por mancha branca sob o queixo. Ambas tosquiadas e acostumadas a responder aos chamados uma da outra.
 
 - [528] Dia12 09h42–11h00. Sobrevivência 9 perde rastro no bebedouro. Percepção 13 localiza pasto pelos balidos. Brasa e Pinta identificadas vivas. Nilo admite ter aberto porteira para retirar cabrita; manta amorteceu barra, rasgou, caiu no córrego quando agarrou cabra. Nilo cercou e cuidou das ovelhas, adiou ir a Celina. Retalho compatível no balde. Devolução pendente. +25 XP =1450.
+
+- [530] Dia12 11h00–11h20. Eron acompanha Nilo na devolução de Brasa e Pinta ao curral. Nilo se explica, admite ter visto Celina procurando as ovelhas e entrega retalho a ela. Ela manda encher cocho e pretende levá-lo a Tomé depois do almoço. Caso encerrado; nenhum XP ou pagamento adicional.

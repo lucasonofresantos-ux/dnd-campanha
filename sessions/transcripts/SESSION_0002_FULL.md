@@ -15110,3 +15110,33 @@ Brasa e Pinta estão de pé, pastando, sem ferimentos visíveis. O relato de Nil
 - **Condições do jogador** · 30/30 PV, CA 16, **1.450/2.700 XP**. Saldo de 73 PO, 2 PP e 4 PC.
 
 **Commit confirmado no GitHub.**
+
+## [529] JOGADOR
+
+- O guri, vamos levar essas ovelhas para ela e voce se explica com ela, vamos
+
+### Mestre — andamento
+
+Nilo pega o balde e abre a passagem para Brasa e Pinta.
+
+## [530] MESTRE
+
+— Vamos. Eu conto — diz Nilo.
+
+Brasa vem atrás do balde que já conhece, e Pinta acompanha. Vocês sobem pelo caminho do córrego até o curral. Celina escuta o primeiro balido e larga no chão o cesto que está carregando. Abre a porteira, deixa as duas entrarem e passa a mão pelo lombo de cada uma. Só então percebe que Nilo ficou do lado de fora.
+
+O guri desamarra o retalho da alça do balde. — Dona Celina, fui eu. Abri a porteira pra tirar minha cabrita. Usei tua manta pra tranca não bater. A manta rasgou, as duas saíram e o pedaço grande caiu no córrego quando fui pegar a cabra. Consegui juntar as ovelhas lá no pasto. Eu sabia onde elas estavam. Devia ter vindo te avisar. Desculpa.
+
+Celina recebe o retalho. — Tu me viu passar chamando por elas, Nilo? — Ele baixa a cabeça e confirma. Ela leva um instante para responder. — Pois da próxima vez, responde. Mesmo que seja pra levar uma bronca. Agora enche o cocho delas. Depois do almoço, tu vai comigo falar com o Tomé.
+
+Nilo pega o balde de novo. Celina fecha a porteira e pousa a mão sobre a tranca. — Obrigada, Eron. Eu já tinha começado a achar que ia encontrar só os ossos. — Do lado de dentro, Pinta enfia o focinho no cesto caído. Celina o recolhe antes que ela alcance as roupas. — É, essa voltou boa mesmo.
+
+**[LOG DE MEMÓRIA DA CAMPANHA]**
+
+- **Localização atual** · Curral de Celina, Dia 12, cerca de 11h20.
+- **NPCs presentes e relação** · Celina, agradecida. Nilo assumiu a responsabilidade diante dela.
+- **Linha de missão ativa** · **Brasa e Pinta devolvidas. Caso encerrado para Eron.**
+- **Eventos cruciais ocorridos** · As duas ovelhas voltaram ao curral sem ferimentos aparentes. Nilo entregou o retalho a Celina. Ela pretende levá-lo ao moinho depois do almoço.
+- **Condições do jogador** · 30/30 PV, CA 16, 1.450/2.700 XP. Saldo de 73 PO, 2 PP e 4 PC.
+
+**Commit confirmado no GitHub.**
