@@ -7,7 +7,7 @@ homebrew:
 advancement:
   method: experience_points
   milestones_do_not_grant_levels: true
-  current_total_xp: 1150
+  current_total_xp: 1200
   next_level_xp: 2700
   level_up_pending: false
   level_up_note: "Nível total3 confirmado: Ladino1/Artífice2. Três planos e uma magia de 1º círculo pendentes; Bolsa Porta-Tudo criada."
@@ -21,7 +21,7 @@ character:
     Ladino: 1
     Artífice: 2
   character_level: 3
-  xp_total: 1150
+  xp_total: 1200
   xp_next_level: 2700
   hp_current: 30
   hp_max: 30
@@ -61,7 +61,7 @@ character:
     copper: 7
   inventory_reference: character/ERON_RIVER_LEVEL_01.md
   illumination:
-    light_cantrip: "Ativo em ferramenta desde Dia9 17h45, expira18h45, sem concentração."
+    light_cantrip: "Ativo em ferramenta desde Dia9 19h50, expira20h50, sem concentração."
     hooded_lantern_lit: false
     oil_flasks_spare: 4
     candles: 10
@@ -193,10 +193,10 @@ character:
   harvested_roe_deer_day6:
     fresh_meat_kg_approx: 0
     salted_meat_kg_approx: 0
-    salted_meat_in_custody_um019_kg_approx: 6.8
+    salted_meat_in_custody_um019_kg_approx: 6.45
     cooked_meat_consumed_day8_kg_approx: 0.25
     cooked_meat_consumed_day7_kg_approx: 0.4
-    salted_meat_custody_status: "Dia9 almoço ~0,35kg consumido, estoque em custódia UM019 ~6,80kg; refeições anteriores já deduzidas."
+    salted_meat_custody_status: "Dia9 jantar ~0,35kg consumido, estoque em custódia UM019 ~6,45kg; refeições anteriores já deduzidas."
     salted_meat_offered_on_ground_kg_approx: 2.5
     offered_meat_status: "Parcialmente lavada com água do cantil, deixada junto à loba; ingestão não confirmada."
     raw_hide: "1 pele crua salgada, não curtida"
@@ -218,21 +218,21 @@ character:
 campaign_time:
   calendar_system: "Asterion, dias relativos; nenhuma era/ano formal estabelecido"
   day: 9
-  time_of_day: "aproximadamente 18h12 do Dia 9"
+  time_of_day: "aproximadamente 20h05 do Dia 9"
   season: "final do outono"
-  elapsed_game_time: "Dia9 18h10–18h12, consulta de prioridades de restauração."
+  elapsed_game_time: "Dia9 18h12–20h05, jantar, deslocamento e recuperação circuito nível2."
 location:
   continent: Asterion
   polity: "Terras Livres de Avenhar (homebrew), fora de Valdren"
   area: "entroncamento da Estrada do Cascalho, próximo ao Pouso das Três Fontes"
   nearby: "encostas arborizadas da serra cujo monte mais alto é chamado Veyra"
-  exact_position: "Oficina de instrumentos rúnicos e arquivos, nível5 de Thûn-Khazad."
-  travel_status: "Oito unidades operacionais; estações nível1, nível4 e nível5 recuperadas; UM027 conectada. Reservas não integralmente inspecionadas, nível2 isolado, níveis3/7 operacionais, nível6 setores recuperados operacionais. Caminhos selados, vigilância exterior pendente, compartimento privativo fechado."
+  exact_position: "Salão das Seis Portas, nível2 de Thûn-Khazad, junto ao painel de distribuição."
+  travel_status: "Oito unidades operacionais; três estações recuperadas; sete níveis com alimentação local, nível2 circuito e comunicação recuperados. Reservas não integralmente inspecionadas, vigilância exterior pendente, Caminhos selados, compartimento privativo fechado. Certificação integral ainda pendente."
 scene:
   id: OPENING-001
-  status: "restoration_priorities_presented_day9"
+  status: "level2_circuit_operational_day9"
   current_npcs_present: ["UM-012, cooperativa", "UM-027, cooperativa", "Sistema Central, autoridade reconhecida"]
-  immediate_visible_situation: "Dia9 18h10–18h12: jogador perguntou como ajudar a restaurar Salão. UM027 consulta terminal e Sistema Central apresenta prioridades: recuperar circuito nível2 isolado (Guardião/unidades técnicas), vigilância acessos externos (Guardião/UM027), inventário reservas (UM025), água/saneamento/aquecimento (UM012/023), certificação energia/circuitos (UM014/017/027), verificar condições Seis Caminhos antes abertura (Guardião/Sistema). Recomenda nível2, sem afirmar abertura automática. Unidades continuam ordens permanentes; UM027 oferece acompanhar, ainda não deslocada. Sem ordens novas executadas, percentuais inventados, testes, XP, magia, dano ou gasto. 30/30PV CA16 XP1150/2700, Luz até18h45, recursos inalterados. Auditoria [388]: sete expressões sem chamada efetiva Python no histórico; acrescentar correções false e preservar acontecimentos/XP."
+  immediate_visible_situation: "Dia9 18h12–20h05: jogador solicitou jantar e autorizou rolagens até recuperar circuito nível2. Sistema encaminhou a UM019, refeição de ~0,35kg corço preparado e água consumida, custódia6,80→6,45kg, rações9 intactas. Chegada ao nível2 às18h50 acompanhado UM012/027. Luz renovada18h50 e19h50, expira20h50. Investigação INT+Funileiro vantagem 2d20kh1+6 [13,11] índice0 total19 +Orientação1d4[2]=21 sucesso CD15; Ferreiro DES auxílio 2d20kh1+7 [8,2] índice0=15 sucesso CD15; Arcanismo INT com Funileiro 2d20kh1+6 [20,11] índice0=26 +Orientação1d4[1]=27 sucesso CD17; Funileiro INT com auxílio teste sob carga 2d20kh1+6 [10,6] índice0=16 sucesso CD16. Seis expressões efetivamente executadas em três chamadas container.exec neste turno, script copiado do GitHub, hash git d35af70119bf684ea055619bb10678a1c4b03bbb conferido e JSON retornado. Reparar em suporte metálico não mágico rompido, alinhamento contatos, calibração com UM027, teste sob carga satisfatório; sem peças consumidas. Iluminação, distribuição e comunicação nível2 recuperadas; sete níveis alimentados em pelo menos setores locais, sem certificação integral. Portas com runas e diagnóstico disponível; seis selos mantidos, nenhum Caminho aberto nem condições remotas verificadas. Oito unidades operacionais, três estações recuperadas. Vigilância exterior recomendada, inventário e inspeções pendentes. +50XP pela recuperação substantiva circuito nível2 sem duplicação, total1200/2700. PV30/30 CA16 slots2/2 Tinker4/4 inspiração disponível 3d8, sem condição, gasto, dano. Luz ativa até20h50, Orientação encerrada. Decisões locais: porção, duração, avarias, CDs, ajuda, XP, escopo circuito; não abertura. Eron UM012 UM027 no salão, Sistema comunica."
   discovered_traps:
     - location: "Trilha dos Corcos, junto ao riacho"
       state: disarmed_safe_wire_left_at_tree
@@ -257,8 +257,8 @@ scene:
   combat: false
   initiative: []
   rounds: 0
-  dice_rolled: false
-  xp_awarded: false
+  dice_rolled: true
+  xp_awarded: true
   reward_offered_but_not_accepted: null
   herd_contract_status: "Concluído Dia5 ~11h55; Mara confirmou três noites sem perdas, pagou 12 PO; +50 XP de resolução substantiva, reputação gratidão e respeito."
   investigation_offer: null
@@ -277,8 +277,8 @@ world:
 transcription:
   character_creation_history: sessions/transcripts/SESSION_0001_FULL.md
   narrative_session: sessions/transcripts/SESSION_0002_FULL.md
-  last_saved_player_turn: "[389] JOGADOR — pergunta como ajudar restauração."
-  last_saved_dm_turn: "[390] MESTRE — relatório de prioridades, nível2 recomendado, Dia9 18h12."
+  last_saved_player_turn: "[391] JOGADOR — solicita jantar e recuperação circuito nível2."
+  last_saved_dm_turn: "[392] MESTRE — circuito nível2 recuperado, Dia9 20h05, XP1200."
 notes:
   - "Primeira resposta de cena será salva literalmente e sem revelar preparativos de dm."
   - "Nunca tratar a aprovação da ficha como XP, nem mudar recursos automaticamente."
