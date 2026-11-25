@@ -217,22 +217,22 @@ character:
   animal_handling_last: "Dia5 ~10h05: dado natural 14+3=17; loba e filhotes aceitam carinho."
 campaign_time:
   calendar_system: "Asterion, dias relativos; nenhuma era/ano formal estabelecido"
-  day: 8
-  time_of_day: "aproximadamente 12h50 do Dia 9"
+  day: 9
+  time_of_day: "aproximadamente 13h05 do Dia 9"
   season: "final do outono"
-  elapsed_game_time: "Dia9 12h15–12h50, criação da Bolsa Porta-Tudo ao fim do descanso, almoço e chegada à primeira estação."
+  elapsed_game_time: "Dia9 12h50–13h05, diagnóstico e reparo da porta da primeira estação."
 location:
   continent: Asterion
   polity: "Terras Livres de Avenhar (homebrew), fora de Valdren"
   area: "entroncamento da Estrada do Cascalho, próximo ao Pouso das Três Fontes"
   nearby: "encostas arborizadas da serra cujo monte mais alto é chamado Veyra"
-  exact_position: "Diante da porta fechada da estação de manutenção dos aposentos e recepção, primeiro nível de Thûn-Khazad."
-  travel_status: "Cinco unidades operacionais em manutenção permanente; alimentação local do nível1 recuperada, nível5 galeria iluminada, nível4 aguarda reparação, nível2 isolado, níveis3/7 operacionais, nível6 setores recuperados operacionais. Três estações sem resposta, Caminhos selados, compartimento privativo fechado. Eron Guardião autenticado."
+  exact_position: "Limiar da porta aberta da estação de manutenção dos aposentos e recepção, primeiro nível de Thûn-Khazad."
+  travel_status: "Cinco unidades operacionais em manutenção permanente; alimentação local do nível1 recuperada, nível5 galeria iluminada, nível4 aguarda reparação, nível2 isolado, níveis3/7 operacionais, nível6 setores recuperados operacionais. Três estações aguardam diagnóstico integral (uma acessível), Caminhos selados, compartimento privativo fechado. Eron Guardião autenticado."
 scene:
   id: OPENING-001
-  status: "awaiting_guardian_inspection_of_level1_maintenance_station_day9"
-  current_npcs_present: ["UM-012, cooperativa"]
-  immediate_visible_situation: "Dia9 12h15–12h50: jogador escolheu plano Bolsa Porta-Tudo e solicitou criá-la para aliviar carga, almoço e guia UM012 até estação sem resposta mais próxima, perguntou sobre vigilância externa. Artífice2 Eberron 2025, Replicate Magic Item: verificação efetiva web.run de https://dnd2024.wikidot.com/artificer:main (criação ao final descanso longo, ferramentas de funileiro em mãos, plano Bag of Holding permitido, sem sintonização, até2 itens distintos, 4 planos iniciais) e https://www.dndbeyond.com/magic-items/9228356-bag-of-holding (DMG2024/SRD: capacidade500lb/226,8kg, 64 pés³/1,81m³, peso5lb/2,27kg, retirada Utilize action, sobrecarga/perfuração/rasgo destroem e espalham conteúdo no Astral, outros espaços extradimensionais perigosos). Adjudicação expressa: como cena ainda no momento de finalizar descanso e nenhuma ação interveniente, aceita declaração de criação ao término do descanso Dia9 12h15, sem novo descanso, sem custo ou slot, ferramentas de funileiro em mãos, 1/4 planos conhecido e 1/2 itens ativos, outros3 planos e 1 magia preparada pendentes, nenhum segundo item criado. Item não permanente: desaparece 1d4 dias após morte do criador ou imediatamente ao substituir plano; conteúdo então aparece inofensivamente no espaço do item; não confundir com bolsa destruída por dano/sobrecarga. Guarda ferramentas pessoais, rações9, materiais de artesanato, pertences portáteis, moedas56PO2PP7PC e conteúdo das bolsas/mochila; armadura couro, espada curta, 2 adagas, arco curto, aljava/flechas e Marca da Bigorna Velada mantidas acessíveis, bolsa mágica carregada. Não retirar do estoque comum, não recolher carne sob custódia UM019, nem itens deixados com Durnak. Peso exato atual pendente conferência, não inventar; peso registrado103,88lb histórico anterior, não atual. UM021 agradeceu e explicou monitoramento interno de portas/circuitos conectados, sem informação visual exterior atual, dispositivos de vigilância próximos aos acessos precisam inspeção (detalhe de cenário adjudicado, não presume visão remota operante). UM019 serviu almoço de ~0,35kg de corço preparado e água, consumido, custódia7,15→6,80kg, rações9 intactas. UM012 atendeu guia e conduziu Eron por galeria lateral nível1 à estação mais próxima, porta bronze fechada, painel apagado e inscrição em Anão de manutenção dos aposentos e recepção. Não abriu, não investigou interior, não confirmou construto dentro; três estações sem resposta ainda pendentes. UM012 presente cooperativa, demais em funções. Sem novo teste, XP, dano, magia conjurada, gasto, descanso ou combate. 30/30PV CA16, XP1000/2700, Ladino1/Artífice2, slots2/2 Tinker4/4, inspiração, 3d8, Luz inativa, exaustão0. Ordem manutenção permanente segue, caminhos selados, exterior não verificado. Decisões locais: finalização do descanso para criação, porção e duração do almoço, localização da primeira estação, dispositivos de vigilância não verificados."
+  status: "level1_station_door_open_awaiting_construct_inspection_day9"
+  current_npcs_present: ["UM-012, cooperativa", "Construto imóvel não identificado, sem resposta"]
+  immediate_visible_situation: "Dia9 12h50–13h05: jogador autorizou rolar o necessário para abrir a porta da primeira estação. Retirou ferramentas da Bolsa Porta-Tudo e conjurou Orientação duas vezes, sem gasto de slots. Investigação com Funileiro vantagem 2d20kh1+6 [1,14] mantido índice1, total20, Orientação 1d4 [4], total24; Destreza/Ferreiro 1d20+7 [13] total20, Orientação 1d4 [4], total24; ambos sucesso (CD15). Execução real container.exec, script hash d35af70119bf684ea055619bb10678a1c4b03bbb verificado por git hash-object; quatro JSON retornados. Contato deslocado e travamento emperrado corrigidos sem consumo de peças. Porta aberta, oficina parcialmente iluminada, construto imóvel não identificado sobre plataforma, UM012 confirma ausência de resposta. Não examinou interior nem iniciou reparo do construto. Três estações ainda aguardam diagnóstico integral, uma acessível. Sem XP adicional por abertura isolada, dano, condição ou consumo de recursos limitados. 30/30PV, CA16, XP1000/2700, slots2/2, Tinker4/4, inspiração disponível. Decisões locais do Mestre: avaria, ferramentas aplicáveis, CDs, duração, construto visível e ausência de XP separado. Orientação encerrada; Luz inativa."
   discovered_traps:
     - location: "Trilha dos Corcos, junto ao riacho"
       state: disarmed_safe_wire_left_at_tree
@@ -257,7 +257,7 @@ scene:
   combat: false
   initiative: []
   rounds: 0
-  dice_rolled: false
+  dice_rolled: true
   xp_awarded: false
   reward_offered_but_not_accepted: null
   herd_contract_status: "Concluído Dia5 ~11h55; Mara confirmou três noites sem perdas, pagou 12 PO; +50 XP de resolução substantiva, reputação gratidão e respeito."
@@ -277,8 +277,8 @@ world:
 transcription:
   character_creation_history: sessions/transcripts/SESSION_0001_FULL.md
   narrative_session: sessions/transcripts/SESSION_0002_FULL.md
-  last_saved_player_turn: "[369] JOGADOR — escolhe Bolsa Porta-Tudo, solicita almoço, guia UM012 e informações de vigilância."
-  last_saved_dm_turn: "[370] MESTRE — bolsa criada, almoço consumido, primeira estação localizada, Dia9 12h50."
+  last_saved_player_turn: "[371] JOGADOR — autoriza rolagens até abrir porta."
+  last_saved_dm_turn: "[372] MESTRE — porta aberta, construto imóvel visível, Dia9 13h05."
 notes:
   - "Primeira resposta de cena será salva literalmente e sem revelar preparativos de dm."
   - "Nunca tratar a aprovação da ficha como XP, nem mudar recursos automaticamente."
