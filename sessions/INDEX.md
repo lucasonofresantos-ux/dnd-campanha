@@ -122,3 +122,5 @@
 - Atualização: sessão 0002 até [302], Dia7 06h05; núcleo parcialmente explorado, nome Thûn-Khazad conhecido, escada ao nível de serviço, XP550/900; dois dados executados.
 
 - Atualização: sessão 0002 até [304], Dia7 06h05; esclarecimento de vigília de aproximadamente 24h05, sem avanço temporal.
+
+- Atualização: sessão 0002 até [306], Dia7 14h20; descanso longo concluído, 9 rações, lanterna apagada com 110min; escolhas Artífice pendentes, XP550/900.

@@ -48,3 +48,5 @@ O repositório dnd-campanha armazena principalmente estado, resumos, decisões e
 
 ## Complemento oficial adotado — Artífice 2025
 Por escolha do jogador em [279], aplicar Artífice da publicação oficial *Eberron: Forge of the Artificer* (2025), compatível com as regras 2024. Referência oficial de alterações https://www.dndbeyond.com/posts/2106-whats-new-with-the-artificer-in-eberron-forge-of ; referência auxiliar para tabela e multiclasse https://dnd2024.wikidot.com/artificer:main . Não misturar Artífice 2019 ou UA com esta versão. A fonte não altera regras básicas do SRD nem impõe cenário de Eberron à campanha.
+
+- Verificação de regras em [306]: artigo oficial D&D Beyond e referência auxiliar Wikidot de Artífice 2025 efetivamente consultados, incluindo lista de magias; confirmação de 1 perícia na multiclasse, 2 truques eletivos mais Mending, 2 magias de 1º círculo preparadas e 2 espaços; troca de um truque eletivo e lista de preparadas após descanso longo. https://dnd2024.wikidot.com/artificer:spell-list

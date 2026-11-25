@@ -8851,3 +8851,125 @@ Eron ainda não possui níveis de exaustão registrados, mas está há mais de u
 **[LOG DE MEMÓRIA DA CAMPANHA]** — Núcleo de distribuição de Thûn-Khazad; nenhum NPC detectado; investigação do acesso ao Salão; rede auxiliar recuperada; 21/21 PV, CA 16, 550/900 XP. Nenhum tempo de jogo transcorreu.
 
 **GitHub:** transcrição atualizada, commit confirmado.
+
+
+## [305] JOGADOR
+
+Vou comer aqui e dormir, e oque eu preciso escolher para o artifice?
+
+## [306] MESTRE
+
+Vou registrar a refeição e o descanso de Eron, além de conferir as escolhas pendentes do Artífice conforme a versão de 2025 adotada na campanha.
+
+## Thûn-Khazad — Dia 7, 14h20
+
+Você se acomoda na pequena sala lateral do núcleo de distribuição, estende seus equipamentos de descanso, consome uma ração e bebe água do cantil. Aproveitando a iluminação cristalina, apaga a lanterna para economizar óleo.
+
+O ruído distante dos mecanismos acompanha seu sono. As oito horas de descanso transcorrem sem interrupções.
+
+<box border radius="lg" padding={3} gap={2}>
+  <row align="center">
+    <icon name="moon" size="xl" color="success"/>
+    **Descanso longo concluído**
+  </row>
+  <divider/>
+  <grid columns={2}>
+    <grid-item>
+      <caption>Pontos de vida</caption>
+      <title color="success" size="xl">21/21</title>
+    </grid-item>
+    <grid-item>
+      <caption>Dados de vida</caption>
+      <title size="xl">2d8</title>
+    </grid-item>
+    <grid-item>
+      <caption>Espaços de magia</caption>
+      <title size="xl">2/2</title>
+    </grid-item>
+    <grid-item>
+      <caption>Magia do Funileiro</caption>
+      <title size="xl">4/4</title>
+    </grid-item>
+    <grid-item>
+      <caption>Exaustão</caption>
+      <title size="xl">0</title>
+    </grid-item>
+    <grid-item>
+      <caption>Rações restantes</caption>
+      <title size="xl">9</title>
+    </grid-item>
+  </grid>
+  <divider/>
+  <row>
+    <icon name="check-circle" color="success"/>
+    Inspiração Heroica disponível
+  </row>
+</box>
+
+## Artífice — escolhas pendentes
+
+Conferi a versão oficial de 2025, *Eberron: Forge of the Artificer*, que adotamos para esta campanha. Como Eron é **Ladino 1 / Artífice 1**, faltam três escolhas: uma perícia, dois truques e duas magias de 1º círculo. <Cite refs={["turn496229view0","turn496229view2"]}/>
+
+### 1. Proficiência em perícia — escolha uma
+
+| Perícia | Bônus atual | Com proficiência |
+|---|---:|---:|
+| **Arcanismo** | +4 | **+6** |
+| História | +4 | +6 |
+| Natureza | +4 | +6 |
+| Medicina | +3 | +5 |
+
+Recomendo **Arcanismo**, especialmente para compreender fenômenos mágicos, runas e a tecnologia de Thûn-Khazad.
+
+### 2. Truques — escolha dois
+
+Você já recebe **Consertar (Mending)** automaticamente pela Magia do Funileiro, sem ocupar suas duas escolhas.
+
+| Truque | Utilidade |
+|---|---|
+| Orientação (Guidance) | +1d4 em testes de uma perícia escolhida, enquanto durar a magia. |
+| Luz (Light) | Iluminação sem consumir óleo. |
+| Mãos Mágicas (Mage Hand) | Manipular objetos à distância. |
+| Prestidigitação (Prestidigitation) | Limpar, aquecer, esfriar e produzir pequenos efeitos. |
+| Elementalismo (Elementalism) | Pequena manipulação dos elementos. |
+| Raio de Fogo (Fire Bolt) | Ataque mágico de 1d10 de fogo. |
+| Raio de Gelo (Ray of Frost) | 1d8 de frio e redução de deslocamento. |
+| Mensagem (Message) | Comunicação discreta à distância. |
+| Resistência (Resistance) | Reduz dano de um tipo escolhido. |
+
+Minha recomendação para sua exploração atual é **Orientação e Luz**. Você pode conjurar truques sem gastar espaços de magia.
+
+### 3. Magias de 1º círculo — escolha duas
+
+| Magia | Utilidade |
+|---|---|
+| Detectar Magia | Detectar fenômenos e auras mágicas. |
+| Identificar | Descobrir propriedades de objetos mágicos; exige pérola de 100 PO, reutilizável. |
+| Curar Ferimentos | Recuperar 2d8+4 PV. |
+| Alarme | Proteger uma área durante o descanso. |
+| Queda Suave | Evitar danos de queda. |
+| Fogo das Fadas | Revelar alvos invisíveis e favorecer ataques. |
+| Vida Falsa | Receber 2d4+4 PV temporários. |
+| Purificar Alimentos e Bebidas | Remover venenos e doenças de alimentos e bebidas não mágicos. |
+| Graxa | Criar uma área escorregadia. |
+
+Recomendo **Detectar Magia e Curar Ferimentos**, considerando que você está explorando sozinho.
+
+Essas são opções selecionadas da [lista completa de magias do Artífice](https://dnd2024.wikidot.com/artificer:spell-list). Você pode substituir suas magias preparadas e um dos truques eletivos ao concluir futuros descansos longos. <Cite refs={["turn492992view0","turn496229view0"]}/>
+
+**Você quer confirmar essa combinação ou escolher outras magias e perícia?**
+
+---
+
+**[LOG DE MEMÓRIA DA CAMPANHA]**
+
+- **Localização atual:** Sala lateral do núcleo de distribuição de Thûn-Khazad, Dia 7, 14h20.
+- **NPCs presentes e relação:** Nenhum detectado.
+- **Linha de missão ativa:** Explorar o nível de serviço e investigar o acesso ao Salão.
+- **Eventos cruciais:** Refeição e descanso longo concluídos.
+- **Condições:** 21/21 PV | CA 16 | 550/900 XP | Exaustão 0.
+- **Recursos:** 9 rações, 4 frascos de óleo em reserva, lanterna apagada com aproximadamente 1h50 de óleo restante.
+
+Nenhuma escolha de Artífice foi aplicada sem sua confirmação.
+
+**GitHub:** commit confirmado; transcrição, ficha, estado e cronologia atualizados.

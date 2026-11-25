@@ -54,14 +54,16 @@ character:
     copper: 7
   inventory_reference: character/ERON_RIVER_LEVEL_01.md
   illumination:
-    hooded_lantern_lit: true
+    hooded_lantern_lit: false
     oil_flasks_spare: 4
     candles: 10
     oil_loaded_at: "Dia7 ~02h10"
-    continuous_burn_until: "Dia7 ~08h10"
+    continuous_burn_until: null
+    oil_remaining_burn_minutes: 110
+    extinguished_at: "Dia7 ~06h20"
     bright_light_ft: 30
     additional_dim_light_ft: 30
-  waterskin: "Dia6 ~13h30: ~250ml usados para lavar carne; volume restante não aferido."
+  waterskin: "Dia7 ~06h05–06h20: bebeu água; volume restante não aferido."
   carrying_all_owned_equipment: false
   carrying_weight_lb_recorded: 103.88
   carrying_weight_note: "Carga anterior registrada 103,88 lb; caça Dia6 acrescenta 11 kg de carne e outros materiais sem peso exato aferido; carga estimada abaixo de 180 lb."
@@ -110,9 +112,9 @@ character:
     purchase: "Dia 2 ~07h10 em Olma Ramo, por 4PO4PP com 20% de desconto Artesão"
   rations:
     starting_full_days: 5
-    intact_full_days: 10
+    intact_full_days: 9
     partly_used_days: 0
-    food_offered: "Dia5 ~16h05 comprou 7 rações; 10 intactas, nenhuma consumida nesta interação."
+    food_offered: "Dia7 ~06h05–06h20: consumida 1 ração, 9 intactas."
   salvaged_materials:
     rabbit_raw_hide: "vendida a Belda Cortiça Dia 2 ~11h55"
     rabbit_ears: 0
@@ -197,21 +199,21 @@ character:
 campaign_time:
   calendar_system: "Asterion, dias relativos; nenhuma era/ano formal estabelecido"
   day: 7
-  time_of_day: "aproximadamente 06h05 do Dia 7"
+  time_of_day: "aproximadamente 14h20 do Dia 7"
   season: "final do outono"
-  elapsed_game_time: "Dia7 ~05h35–06h05, exploração do núcleo de distribuição."
+  elapsed_game_time: "Dia7 ~06h05–14h20, refeição e descanso longo de oito horas."
 location:
   continent: Asterion
   polity: "Terras Livres de Avenhar (homebrew), fora de Valdren"
   area: "entroncamento da Estrada do Cascalho, próximo ao Pouso das Três Fontes"
   nearby: "encostas arborizadas da serra cujo monte mais alto é chamado Veyra"
-  exact_position: "Núcleo de distribuição de Thûn-Khazad, junto à mesa de pedra negra."
-  travel_status: "Núcleo explorado parcialmente, escadaria ascendente e sala lateral identificadas."
+  exact_position: "Sala lateral do núcleo de distribuição de Thûn-Khazad."
+  travel_status: "Descanso longo concluído; nível de serviço não explorado."
 scene:
   id: OPENING-001
-  status: "awaiting_player_action_at_distribution_core_day7"
+  status: "awaiting_artificer_choices_after_long_rest_day7"
   current_npcs_present: []
-  immediate_visible_situation: "Dia7 ~05h35–06h05: jogador autorizou exploração e testes. Abriu porta destravada do núcleo técnico, percorreu corredor iluminado de blocos bem encaixados, chegou a câmara octogonal com pilares esculpidos com artesãos anões. Percepção13: ouviu ruído irregular além das paredes, origem indeterminada devido à vibração dos mecanismos. Investigação com vantagem26, proficiência em Investigação e ferramentas relevantes: interpretou placa/diagrama técnico sobre mesa de pedra negra, rede recuperada é pequena parte de instalação maior; diversas inscrições ilegíveis. Identificou nome THÛN-KHAZAD pela primeira vez, inscrição Núcleo de distribuição / Infraestrutura de serviço, símbolo montanha e bigorna cercado de seis símbolos, lembra Marca de Gruner mas não idêntico. Descobriu escadaria ascendente ampla e placa 'Acesso ao nível de serviço. Acesso ao Salão sujeito a autorização.' Pequena sala lateral visível com bancos de pedra, mesa e antigos suportes de ferramentas. Não percorreu escada nem examinou sala lateral em detalhe; nenhuma criatura detectada. +25 XP por descoberta substantiva de identificação do complexo e acesso a novo nível, total550/900 nível2. PV21/21 CA16 inspiração disponível, espaços2/2, Magia do Funileiro4/4, quatro óleos reserva, lanterna 2h05 até ~08h10; acordado ~24h05, nenhum descanso, sem exaustão automática. Nenhum dano, combate, coleta ou novo gasto. Execução real container.exec: git hash-object /tmp/eron_dice_current.py d35af70119bf684ea055619bb10678a1c4b03bbb conferido antes de execução; JSON 1d20+7 rolls[6],kept_indices[0],modifier7,total13; 2d20kh1+6 rolls[20,2],kept_indices[0],modifier6,total26."
+  immediate_visible_situation: "Dia7 ~06h05–06h20: jogador declarou comer e dormir aqui e perguntou escolhas Artífice. Eron acomodou-se na sala lateral do núcleo de distribuição, consumiu uma ração (10→9), bebeu água do cantil (volume não aferido), apagou lanterna ~06h20 (óleo carregado com 1h50 de queima restante, 4 frascos reserva). Descanso longo ininterrupto Dia7 ~06h20–14h20, sem encontro/dano ou teste necessário; PV21/21, 2d8 dados vida, exaustão0, espaços2/2, Magia do Funileiro4/4, inspiração heroica disponível, XP550/900 CA16. Permanece na sala lateral; escada não percorrida. Ruído distante persiste sem fonte identificada. Nenhuma magia conjurada, nenhuma escolha aplicada. Refeição e descanso autorizados, local e ração escolhidos pelo Mestre como execução logística da declaração. Mantida chave e outros pertences. Fontes realmente consultadas: artigo oficial D&D Beyond de Artífice 2025 https://www.dndbeyond.com/posts/2106-whats-new-with-the-artificer-in-eberron-forge-of e referência complementar https://dnd2024.wikidot.com/artificer:main e https://dnd2024.wikidot.com/artificer:spell-list; regras básicas 2024 D&D Beyond Rules Glossary, The Basics. Confirmadas escolhas pendentes: 1 perícia entre Arcanismo/História/Natureza/Medicina (Investigação, Percepção e Prestidigitação já proficientes); 2 truques eletivos além de Mending automático; 2 magias preparadas de 1º círculo, 2 espaços, 4 usos Tinker's Magic; substitui um truque eletivo e magias preparadas ao terminar descanso longo. Recomendados Arcanismo, Orientação, Luz, Detectar Magia e Curar Ferimentos, aguardando decisão."
   discovered_traps:
     - location: "Trilha dos Corcos, junto ao riacho"
       state: disarmed_safe_wire_left_at_tree
@@ -256,8 +258,8 @@ world:
 transcription:
   character_creation_history: sessions/transcripts/SESSION_0001_FULL.md
   narrative_session: sessions/transcripts/SESSION_0002_FULL.md
-  last_saved_player_turn: "[303] JOGADOR — pergunta tempo acordado."
-  last_saved_dm_turn: "[304] MESTRE — aproximadamente 24h05 acordado, sem avanço temporal."
+  last_saved_player_turn: "[305] JOGADOR — come, dorme e pergunta escolhas de Artífice."
+  last_saved_dm_turn: "[306] MESTRE — descanso concluído, opções Artífice verificadas e pendentes."
 notes:
   - "Primeira resposta de cena será salva literalmente e sem revelar preparativos de dm."
   - "Nunca tratar a aprovação da ficha como XP, nem mudar recursos automaticamente."
