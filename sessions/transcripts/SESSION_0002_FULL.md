@@ -10355,3 +10355,47 @@ O construto aguarda diante da passagem aberta.
 Nenhuma rolagem necessária. O reconhecimento da credencial não equivale ao reconhecimento de Eron como Guardião.
 
 **GitHub:** commit confirmado.
+
+
+## [341] JOGADOR
+
+- só se eu trouxer o Gruner aqui, mas isso vai demorar, me leve lá
+
+## [342] MESTRE
+
+— A presença de Gruner permitiria uma tentativa de identificação — responde UM-021. — Entretanto, sua ausência não impede a consulta aos registros autorizados. Acompanhe-me.
+
+Vocês atravessam a porta de bronze e percorrem uma galeria de aproximadamente vinte metros. Diferentemente dos alojamentos, este setor possui paredes ornamentadas, colunas polidas e inscrições preenchidas com metal dourado.
+
+UM-021 abre uma porta lateral, revelando uma ampla biblioteca. Centenas de livros, pergaminhos e placas metálicas estão distribuídos entre estantes de pedra. Algumas prateleiras desabaram, mas boa parte do acervo parece preservada.
+
+No centro da biblioteca existe uma grande mesa com um mapa gravado em sua superfície. Seis símbolos circundam a representação de uma montanha.
+
+— Arquivo administrativo do Salão dos Seis Caminhos. Os registros encontram-se classificados por assunto.
+
+O construto indica as inscrições nas estantes:
+
+- **Crônicas e fundação de Thûn-Khazad.**
+- **Territórios e cartografia.**
+- **Guardiões e Conselho dos Seis.**
+- **Engenharia e infraestrutura.**
+- **Registros populacionais.**
+- **Ordens e acontecimentos administrativos.**
+
+— Parte dos documentos pode estar deteriorada. Outros possuem restrições de consulta.
+
+UM-021 permanece junto à mesa.
+
+— Por onde deseja começar, Eron River?
+
+---
+
+**[LOG DE MEMÓRIA DA CAMPANHA]**
+
+- **Localização atual:** Arquivo administrativo de Thûn-Khazad, Dia 8, 06h02.
+- **NPCs presentes:** UM-021 e UM-017, cooperativos.
+- **Missão ativa:** Descobrir a história de Thûn-Khazad, o destino de seus habitantes e a origem da herança de Gruner.
+- **Eventos cruciais:** Entrada no arquivo histórico autorizada e realizada.
+- **Condições:** 21/21 PV | CA 16 | 725/900 XP.
+
+**GitHub:** commit confirmado.
