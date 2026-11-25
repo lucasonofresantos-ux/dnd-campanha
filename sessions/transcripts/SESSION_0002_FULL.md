@@ -13568,3 +13568,35 @@ Pela expressão e pelo tom de voz, você percebe alívio por finalmente falar, m
 **Nota do Mestre:** aceitei os dados naturais informados, pois houve uma nova abordagem. A rolagem automática anterior não teve execução Python comprovada; corrigi seu registro, preservando a narrativa. Nenhum pagamento ou XP nesta etapa.
 
 **GitHub:** commit confirmado.
+
+## [431] JOGADOR
+
+- pode deixar, vou colocar como fosse chantageado pela dívida e foi oque aconteceu e onde eu encontro este Berric
+
+## [432] MESTRE
+
+## Dia 10 — 16h15 | Depósito de Neral Voss
+
+Tavin respira fundo.
+
+— Obrigado, senhor. Ele me ofereceu quitar a dívida em troca das caixas. Eu aceitei... Não devia ter aceitado.
+
+Ele aponta na direção da estrada.
+
+— Berric costuma deixar a carroça no pátio dos carreteiros, na saída leste do povoado. Procure um galpão de madeira com portão verde. A carroça dele tem dois eixos e é puxada por uma mula castanha. Não sei se ele está lá agora.
+
+— É tudo o que sei.
+
+---
+
+**[LOG DE MEMÓRIA DA CAMPANHA]**
+
+- **Localização atual:** Depósito de Neral Voss, Dia 10, 16h15.
+- **NPCs presentes e relação:** Tavin, cooperativo; Lessa, nas proximidades.
+- **Linha de missão ativa:** Investigar as mercadorias desaparecidas — 8 PO.
+- **Eventos cruciais:** Local habitual e descrição da carroça de Berric obtidos.
+- **Condições:** 30/30 PV | CA 16 | 1.325/2.700 XP | 60 PO, 8 PP e 7 PC | 23 flechas.
+
+**Nota do Mestre:** Tavin confirmou a proposta de quitação da dívida, mas não uma ameaça explícita. O local e a descrição foram definidos pelo Mestre. Nenhuma nova rolagem ou alteração de recursos.
+
+**GitHub:** commit confirmado.
