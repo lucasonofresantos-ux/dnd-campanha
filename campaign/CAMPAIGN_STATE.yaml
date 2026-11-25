@@ -218,9 +218,9 @@ character:
 campaign_time:
   calendar_system: "Asterion, dias relativos; nenhuma era/ano formal estabelecido"
   day: 9
-  time_of_day: "aproximadamente 18h10 do Dia 9"
+  time_of_day: "aproximadamente 18h12 do Dia 9"
   season: "final do outono"
-  elapsed_game_time: "Dia9 17h25–18h10, localização, recuperação e conexão UM027."
+  elapsed_game_time: "Dia9 18h10–18h12, consulta de prioridades de restauração."
 location:
   continent: Asterion
   polity: "Terras Livres de Avenhar (homebrew), fora de Valdren"
@@ -230,9 +230,9 @@ location:
   travel_status: "Oito unidades operacionais; estações nível1, nível4 e nível5 recuperadas; UM027 conectada. Reservas não integralmente inspecionadas, nível2 isolado, níveis3/7 operacionais, nível6 setores recuperados operacionais. Caminhos selados, vigilância exterior pendente, compartimento privativo fechado."
 scene:
   id: OPENING-001
-  status: "um027_recovered_connected_day9"
-  current_npcs_present: ["UM-012, cooperativa", "UM-027, cooperativa"]
-  immediate_visible_situation: "Dia9 17h25–18h10: jogador autorizou rolar para localizar UM027 e conectar ao Sistema Central. Investigação vestígios INT/Funileiro vantagem 2d20kh1+6 [6,20] índice1 mantido26 +1d4[2]=28 sucesso CD15; marcas de estrutura metálica pesada, conduzem a câmara transmissão; UM027 presa por suporte tombado. UM012 ajuda liberar sem risco incerto; Funileiro INT com ajuda 2d20kh1+6 [18,12] índice0=24 sucesso CD15; Arcanismo com ferramentas 2d20kh1+6 [5,5] índice0=11 +1d4[2]=13 falha CD16; nova abordagem registros técnicos oficina 2d20kh1+6 [19,17] índice0=25 +1d4[2]=27 sucesso CD16. Sete expressões realmente executadas por três chamadas container.exec neste turno, hash script conferido d35af70119bf684ea055619bb10678a1c4b03bbb, JSON retornado. Orientação em três testes de perícia; Luz renovada17h45 até18h45; Mending em condutor não mágico fissurado. UM027 recuperada, especialidade instrumentos rúnicos/circuitos comunicação/equipamentos arquivo, conexão central confirmada, autoridade reconhecida, ordem manutenção permanente, retorno oficina com UM012 e Eron. Oito unidades operacionais, três estações recuperadas, Caminhos selados, nível2 isolado, vigilância exterior pendente. +25XP recuperação unidade, total1150/2700; 30/30PV CA16 slots2/2 Tinker4/4 inspiração 3d8, sem dano, condição, gasto ou consumo peças. Decisões locais: avaria, especialidade, tempo, CDs, XP, ajuda, abordagem de registros. Orientação encerrada."
+  status: "restoration_priorities_presented_day9"
+  current_npcs_present: ["UM-012, cooperativa", "UM-027, cooperativa", "Sistema Central, autoridade reconhecida"]
+  immediate_visible_situation: "Dia9 18h10–18h12: jogador perguntou como ajudar a restaurar Salão. UM027 consulta terminal e Sistema Central apresenta prioridades: recuperar circuito nível2 isolado (Guardião/unidades técnicas), vigilância acessos externos (Guardião/UM027), inventário reservas (UM025), água/saneamento/aquecimento (UM012/023), certificação energia/circuitos (UM014/017/027), verificar condições Seis Caminhos antes abertura (Guardião/Sistema). Recomenda nível2, sem afirmar abertura automática. Unidades continuam ordens permanentes; UM027 oferece acompanhar, ainda não deslocada. Sem ordens novas executadas, percentuais inventados, testes, XP, magia, dano ou gasto. 30/30PV CA16 XP1150/2700, Luz até18h45, recursos inalterados. Auditoria [388]: sete expressões sem chamada efetiva Python no histórico; acrescentar correções false e preservar acontecimentos/XP."
   discovered_traps:
     - location: "Trilha dos Corcos, junto ao riacho"
       state: disarmed_safe_wire_left_at_tree
@@ -257,8 +257,8 @@ scene:
   combat: false
   initiative: []
   rounds: 0
-  dice_rolled: true
-  xp_awarded: true
+  dice_rolled: false
+  xp_awarded: false
   reward_offered_but_not_accepted: null
   herd_contract_status: "Concluído Dia5 ~11h55; Mara confirmou três noites sem perdas, pagou 12 PO; +50 XP de resolução substantiva, reputação gratidão e respeito."
   investigation_offer: null
@@ -277,8 +277,8 @@ world:
 transcription:
   character_creation_history: sessions/transcripts/SESSION_0001_FULL.md
   narrative_session: sessions/transcripts/SESSION_0002_FULL.md
-  last_saved_player_turn: "[387] JOGADOR — autoriza rolar e conectar unidade."
-  last_saved_dm_turn: "[388] MESTRE — UM027 recuperada e conectada, Dia9 18h10, XP1150."
+  last_saved_player_turn: "[389] JOGADOR — pergunta como ajudar restauração."
+  last_saved_dm_turn: "[390] MESTRE — relatório de prioridades, nível2 recomendado, Dia9 18h12."
 notes:
   - "Primeira resposta de cena será salva literalmente e sem revelar preparativos de dm."
   - "Nunca tratar a aprovação da ficha como XP, nem mudar recursos automaticamente."
@@ -336,3 +336,5 @@ notes:
   - "Auditoria [380]: nove expressões sem execução Python comprovada, correções false acrescentadas; narrativa e XP preservados. [382] sem rolagens."
 
   - "Auditoria [384]: oito expressões sem execução Python comprovada; correções acrescentadas, sem alterar fatos ou XP. [386] nenhum dado novo."
+
+  - "Auditoria [388]: sete expressões sem execução Python comprovada; correções false acrescentadas, narrativa e XP preservados. [390] sem dados novos."
