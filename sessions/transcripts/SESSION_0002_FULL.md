@@ -14538,3 +14538,30 @@ A mula toma a rua a passo. O garoto ainda olha uma vez por cima do ombro. Da rod
 - **Condições do jogador** · 30/30 PV, CA 16, 1.400/2.700 XP. Saldo de **71 PO, 9 PP e 7 PC**.
 
 **Commit confirmado no GitHub.**
+
+## [489] JOGADOR
+
+Vou entrar e falar com a Alda
+- Alda como foi o dia?
+
+### Mestre — andamento
+
+Você deixa o quadro de avisos e entra no salão da hospedagem de Alda.
+
+## [490] MESTRE
+
+— Até o almoço, todo mundo com pressa. Depois do almoço, todo mundo com sono. Foi aí que eu consegui sentar — diz Alda.
+
+Ela está à mesa mais próxima do balcão, com um avental no colo. Dá mais um ponto no bolso que está remendando e corta a linha com a tesourinha.
+
+— A Bina passou aqui faz pouco. Veio trazer o pão e acabou me contando dos dois aventais dela. Pelo que entendi, você andou atrás de um caderno hoje. — Alda sacode o avental e passa a mão pelo bolso para conferir a costura. — Por aqui ninguém veio te procurar. E o teu dia, Eron? De manhã você ia só terminar umas flechas.
+
+**[LOG DE MEMÓRIA DA CAMPANHA]**
+
+- **Localização atual** · Salão da hospedagem de Alda, Pouso das Três Fontes. Dia 11, cerca de 16h20.
+- **NPCs presentes e relação** · Alda Tress, anfitriã e conhecida de Eron.
+- **Linha de missão ativa** · Nenhum serviço assumido. A pista do moinho continua em aberto.
+- **Eventos cruciais ocorridos** · Alda soube da busca pelo caderno por meio de Bina. Ninguém procurou Eron na hospedagem desde a manhã.
+- **Condições do jogador** · 30/30 PV, CA 16, 1.400/2.700 XP. Saldo de **71 PO, 9 PP e 7 PC**.
+
+**Commit confirmado no GitHub.**
