@@ -13792,3 +13792,38 @@ Você acompanha tudo sem ser descoberto. Até agora, Harl não tentou fugir nem 
 **Nota do Mestre:** a reação do NPC foi sorteada em Python com o script do repositório e hash conferido. Mantive os testes anteriores de Furtividade e Percepção de Eron, pois sua posição e atividade não mudaram. Nenhum XP adicional ou alteração de recursos.
 
 **GitHub:** commit confirmado.
+
+## [443] JOGADOR
+
+Eu saio e levanto a lona
+- Berric, então você é apenas um carroceiro e estas caixas vieram andando para cá?
+
+## [444] MESTRE
+
+## Dia 10 — 16h55 | Pátio dos carreteiros
+
+Você sai de trás da pilha de madeira e se aproxima do galpão. Com o vigia ao seu lado, levanta a lona, revelando duas caixas fechadas. Além das inscrições indicando tecidos e ferragens, ambas possuem as iniciais **N.V.** pintadas na madeira.
+
+Berric acompanha seus movimentos e, ao ouvir sua pergunta, franze o cenho.
+
+— Claro que não vieram andando! Fui contratado para transportá-las. Desde quando um carreteiro precisa saber de onde vem toda a mercadoria que carrega?
+
+O vigia olha para as caixas e depois para Berric.
+
+— Então quem contratou você?
+
+Berric permanece em silêncio. Harl observa a conversa a poucos metros de distância.
+
+---
+
+**[LOG DE MEMÓRIA DA CAMPANHA]**
+
+- **Localização atual:** Galpão do pátio dos carreteiros, Dia 10, 16h55.
+- **NPCs presentes e relação:** Dois vigias aliados; Berric, detido e defensivo; Harl, testemunha.
+- **Linha de missão ativa:** Recuperar as mercadorias e esclarecer possíveis cúmplices.
+- **Eventos cruciais:** Caixas descobertas com marca N.V.; Berric alega ter sido contratado.
+- **Condições:** 30/30 PV | CA 16 | 1.375/2.700 XP | 68 PO, 8 PP e 7 PC | 23 flechas.
+
+**Nota do Mestre:** nenhuma nova rolagem necessária. As marcas e a reação verbal foram adjudicadas; conteúdo e procedência ainda precisam de confirmação. A execução Python da reação anterior não foi comprovada; corrigi o registro, preservando a prisão.
+
+**GitHub:** commit confirmado.
