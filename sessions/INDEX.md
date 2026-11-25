@@ -152,3 +152,5 @@
 - Atualização: sessão 0002 até [332], Dia8 05h46; UM-017 presente, XP725/900.
 
 - Atualização: sessão 0002 até [334], Dia8 05h47; UM-017 indica administração como possível fonte histórica, XP725/900.
+
+- Atualização: sessão 0002 até [336], Dia8 05h53; UM-021 esclarece identidade geral de Thûn-Khazad e solicita credencial; XP725/900.

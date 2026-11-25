@@ -10209,3 +10209,42 @@ Após uma breve pausa, acrescenta:
 - **Condições:** 21/21 PV | CA 16 | 725/900 XP.
 
 **GitHub:** commit confirmado.
+
+
+## [335] JOGADOR
+
+- por favor e thun-khazad não me respondeu muita coisa, que cara isso é incrível
+
+## [336] MESTRE
+
+UM-017 vira a cabeça em sua direção.
+
+— Thûn-Khazad é o nome de todo o complexo, artesão. Não apenas destas instalações.
+
+O construto conduz você pelas galerias até a grande porta de bronze do acesso administrativo. UM-021 encontra-se junto à estação de recarga, examinando os mecanismos da porta.
+
+— Unidade 021, solicitação de assistência. O artesão deseja informações históricas sobre Thûn-Khazad.
+
+UM-021 interrompe sua atividade e se volta para você.
+
+— Thûn-Khazad era uma união de seis territórios anões, governados a partir do Salão dos Seis Caminhos. Este setor integra a infraestrutura de serviço do Salão.
+
+— Os registros históricos, administrativos e territoriais encontram-se além desta porta. Entretanto, o acesso é restrito.
+
+O construto olha para suas ferramentas.
+
+— Sua atividade de manutenção foi reconhecida pelas unidades deste nível, mas não consta uma autorização administrativa em seu nome.
+
+— **Possui alguma credencial de identificação, artesão?**
+
+---
+
+**[LOG DE MEMÓRIA DA CAMPANHA]**
+
+- **Localização atual:** Acesso administrativo, Dia 8, 05h53.
+- **NPCs presentes:** UM-017 e UM-021, cooperativos.
+- **Missão ativa:** Descobrir a história e o destino dos habitantes de Thûn-Khazad.
+- **Eventos cruciais:** Primeira confirmação da existência dos seis territórios e do Salão dos Seis Caminhos.
+- **Condições:** 21/21 PV | CA 16 | 725/900 XP.
+
+**GitHub:** commit confirmado.

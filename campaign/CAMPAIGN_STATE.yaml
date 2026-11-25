@@ -212,21 +212,21 @@ character:
 campaign_time:
   calendar_system: "Asterion, dias relativos; nenhuma era/ano formal estabelecido"
   day: 8
-  time_of_day: "aproximadamente 05h47 do Dia 8"
+  time_of_day: "aproximadamente 05h53 do Dia 8"
   season: "final do outono"
-  elapsed_game_time: "Dia8 05h46–05h47, diálogo sobre história e registros."
+  elapsed_game_time: "Dia8 05h47–05h53, deslocamento ao acesso administrativo e diálogo."
 location:
   continent: Asterion
   polity: "Terras Livres de Avenhar (homebrew), fora de Valdren"
   area: "entroncamento da Estrada do Cascalho, próximo ao Pouso das Três Fontes"
   nearby: "encostas arborizadas da serra cujo monte mais alto é chamado Veyra"
-  exact_position: "Dormitório limpo dos alojamentos dos artesãos e trabalhadores, nível de serviço de Thûn-Khazad."
+  exact_position: "Diante da porta de bronze do acesso administrativo, nível de serviço de Thûn-Khazad."
   travel_status: "Cinco unidades locais operacionais; porta administrativa e armário restrito fechados; cozinha funcional, cinco dormitórios investigados, sexto trancado."
 scene:
   id: OPENING-001
-  status: "awaiting_player_action_at_dormitories_day8"
-  current_npcs_present: ["UM-017, cooperativo, à porta do dormitório"]
-  immediate_visible_situation: "Dia8 05h46–05h47: Eron perguntou quem poderia explicar o lugar e o ocorrido. UM-017 identificou função do nível de serviço (manutenção da infraestrutura e alojamento dos artesãos), declarou não possuir atribuições históricas ou informação suficiente para explicar ausência de habitantes, indicou administração como responsável por registros oficiais e UM-021 como possível fonte de informações sobre acesso. Nenhum responsável pelo setor se apresentou desde reativação de UM-017. Ofereceu acompanhar Eron a UM-021, aguardando resposta. Não revelou causa de abandono, cronologia, destino dos habitantes ou estrutura remota; existência, integridade e acessibilidade atual dos registros não confirmadas. Decisão local de cenário: atribuições das unidades limitam conhecimento e administração mantinha registros oficiais. Sem deslocamento, rolagem, XP, magia, consumo ou dano; PV21/21 CA16 XP725/900, Luz inativa, UM-017 presente no dormitório."
+  status: "awaiting_player_response_to_credential_request_day8"
+  current_npcs_present: ["UM-017, cooperativo", "UM-021, cooperativo"]
+  immediate_visible_situation: "Dia8 05h47–05h53: Eron aceitou acompanhamento de UM-017 e comentou que nome Thûn-Khazad não explicava muito. UM-017 esclareceu nome do complexo e conduziu Eron pelo percurso conhecido e iluminado ao acesso administrativo. UM-021 junto à estação de recarga examinava mecanismos da porta; UM-017 apresentou solicitação de assistência. UM-021 informou que Thûn-Khazad era união de seis territórios anões governados a partir do Salão dos Seis Caminhos, este setor integra infraestrutura de serviço do Salão e registros históricos, administrativos e territoriais localizavam-se além da porta, com acesso restrito. Reconheceu atividades de manutenção pelas unidades, mas nenhuma autorização administrativa registrada em nome de Eron; solicitou credencial de identificação. Aguarda resposta, porta bronze permanece fechada; Marca da Bigorna Velada permanece na bolsa, não apresentada ou examinada, nenhuma autorização presumida. Informações de UM-021 limitadas ao seu serviço; não confirmou integridade dos arquivos, não revelou causa do desaparecimento ou destino dos habitantes, nomes dos territórios ou funcionamento dos Caminhos. Decisão local do Mestre: UM-021 conhece identificação geral institucional e localização dos registros; não possui autoridade ilimitada nem concede acesso automático. Nenhum teste, XP, magia, gasto, combate ou dano; PV21/21 CA16 XP725/900, Luz inativa, 9 rações, ~8,1kg carne em custódia UM-019."
   discovered_traps:
     - location: "Trilha dos Corcos, junto ao riacho"
       state: disarmed_safe_wire_left_at_tree
@@ -271,8 +271,8 @@ world:
 transcription:
   character_creation_history: sessions/transcripts/SESSION_0001_FULL.md
   narrative_session: sessions/transcripts/SESSION_0002_FULL.md
-  last_saved_player_turn: "[333] JOGADOR — pergunta quem pode explicar lugar e ocorrido."
-  last_saved_dm_turn: "[334] MESTRE — UM-017 indica administração, Dia8 05h47."
+  last_saved_player_turn: "[335] JOGADOR — aceita acompanhamento e comenta sobre Thûn-Khazad."
+  last_saved_dm_turn: "[336] MESTRE — UM-021 explica união de seis territórios e pede credencial, Dia8 05h53."
 notes:
   - "Primeira resposta de cena será salva literalmente e sem revelar preparativos de dm."
   - "Nunca tratar a aprovação da ficha como XP, nem mudar recursos automaticamente."
