@@ -8833,3 +8833,21 @@ Você está acordado há pouco mais de 24 horas. Ainda não realizou um descanso
 Nenhum descanso foi iniciado e nenhuma penalidade opcional de exaustão foi aplicada automaticamente.
 
 **GitHub:** commit confirmado; transcrição, estado, ficha, cronologia, XP e rolagens atualizados.
+
+
+## [303] JOGADOR
+
+(quanto tempo estou acordado?)
+
+## [304] MESTRE
+
+Você está acordado há aproximadamente **24 horas e 5 minutos**.
+
+- Acordou: Dia 6, por volta das 06h00.
+- Horário atual: Dia 7, 06h05.
+
+Eron ainda não possui níveis de exaustão registrados, mas está há mais de um dia sem dormir. Um descanso longo seria oportuno.
+
+**[LOG DE MEMÓRIA DA CAMPANHA]** — Núcleo de distribuição de Thûn-Khazad; nenhum NPC detectado; investigação do acesso ao Salão; rede auxiliar recuperada; 21/21 PV, CA 16, 550/900 XP. Nenhum tempo de jogo transcorreu.
+
+**GitHub:** transcrição atualizada, commit confirmado.

@@ -120,3 +120,5 @@
 - Atualização: sessão 0002 até [300], Dia7 05h35; proteção e circulação restauradas, distribuição local 6/6, núcleo técnico destravado, XP525/900. Três dados efetivamente executados.
 
 - Atualização: sessão 0002 até [302], Dia7 06h05; núcleo parcialmente explorado, nome Thûn-Khazad conhecido, escada ao nível de serviço, XP550/900; dois dados executados.
+
+- Atualização: sessão 0002 até [304], Dia7 06h05; esclarecimento de vigília de aproximadamente 24h05, sem avanço temporal.
