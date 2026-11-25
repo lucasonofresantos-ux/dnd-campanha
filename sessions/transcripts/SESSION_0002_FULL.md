@@ -13909,3 +13909,35 @@ Ela sorri discretamente.
 **Nota do Mestre:** concedidos 25 XP pela diligência posterior à investigação, sem repetir os 50 XP anteriores. Nenhuma remuneração adicional ou rolagem necessária. Horário e procedimentos definidos pelo Mestre.
 
 **GitHub:** commit confirmado.
+
+## [449] JOGADOR
+
+- sem problema, e se o voss quiser me pagar algo em agradecimento eu aceito, é costume supor principalmente em um caso assim, se arriscar por pouca coisa é idiotice, mas pelo jeito é assim que ele consegue dinheiro para chantagear os outros, mas verifique nas outras denúncias e roubos que aconteceram se não tem um padrão desse, não deve ter sido o primeiro
+
+## [450] MESTRE
+
+## Dia 10 — 17h22 | Posto da Vigília
+
+Iria assente e acrescenta uma observação ao relatório.
+
+— É uma possibilidade. Se Berric emprestava dinheiro e depois cobrava favores em vez de moedas, talvez existam outros comerciantes sendo roubados pelos próprios funcionários. Vou revisar as denúncias anteriores e verificar se há coincidências.
+
+— Quanto a Neral, farei questão de dizer que foi você quem localizou as mercadorias. Se ele quiser recompensá-lo pela recuperação, deixarei um recado na ferraria.
+
+Ela fecha o relatório.
+
+— Se encontrarmos algum padrão, você será informado. Mas, por enquanto, não temos provas de outros furtos cometidos por Berric.
+
+---
+
+**[LOG DE MEMÓRIA DA CAMPANHA]**
+
+- **Localização atual:** Posto da Vigília, Dia 10, 17h22.
+- **NPCs presentes e relação:** Iria, agradecida e respeitosa; vigias aliados; Berric, sob custódia.
+- **Linha de missão ativa:** Restauração de Thûn-Khazad.
+- **Eventos cruciais:** Vigília investigará possíveis ocorrências semelhantes; eventual gratificação de Neral será comunicada pela ferraria.
+- **Condições:** 30/30 PV | CA 16 | 1.400/2.700 XP | 68 PO, 8 PP e 7 PC | 23 flechas.
+
+**Nota do Mestre:** nenhuma gratificação confirmada, nenhum novo teste ou XP. A investigação da Vigília prosseguirá independentemente de Eron.
+
+**GitHub:** commit confirmado.
