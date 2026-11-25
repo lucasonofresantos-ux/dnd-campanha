@@ -56,8 +56,8 @@ character:
     armor_training: ["light", "medium", "shields"]
     tinkers_tools_proficient: true
   money:
-    gold: 56
-    silver: 2
+    gold: 60
+    silver: 8
     copper: 7
   inventory_reference: character/ERON_RIVER_LEVEL_01.md
   illumination:
@@ -199,25 +199,26 @@ character:
     salted_meat_custody_status: "Dia9 jantar ~0,35kg consumido, estoque em custódia UM019 ~6,45kg; refeições anteriores já deduzidas."
     salted_meat_offered_on_ground_kg_approx: 2.5
     offered_meat_status: "Parcialmente lavada com água do cantil, deixada junto à loba; ingestão não confirmada."
-    raw_hide: "1 pele crua salgada, não curtida"
+    raw_hide: "vendida a Belda Dia10 por 7PP"
     preservation_status: "Dia6 ~12h25: orelhas e miúdos salgados; tendões separados para secagem; ossos e galhadas limpos. Sem prazo de conservação garantido."
-    antler_stems: 2
-    ears: 2
-    long_bones: 2
-    sinew_bundles: 1
-    useful_offal: ["coração", "fígado"]
+    antler_stems: 0
+    ears: 0
+    long_bones: 0
+    sinew_bundles: 0
+    useful_offal: "coração e fígado salgados, recusados por Bram Dia10, permanecem em posse sem valor alimentar confirmado"
     preparation_result: "2d20kh1+5 [13,4] mantido 13+5=18, execução não comprovada; continuidade preservada"
   harvested_roe_deer_day10:
-    fresh_meat_kg_approx: 11
-    raw_hide: "1 pele crua em boas condições"
-    antler_stems: 2
-    ears: 2
-    long_bones: 2
-    sinew_bundles: 1
-    useful_offal: ["coração", "fígado"]
-    condition: "Crus, sem sal, sem venda; acondicionados na Bolsa Porta-Tudo."
+    fresh_meat_kg_approx: 0
+    fresh_meat_sold_kg_approx: 11
+    raw_hide: "vendida a Belda Dia10 por 6PP"
+    antler_stems: 0
+    ears: 0
+    long_bones: 0
+    sinew_bundles: 0
+    useful_offal: "vendidos a Bram Dia10 por 3PP"
+    condition: "Todos os produtos comercializados Dia10 por 35PP."
     estimated_added_weight_kg: 16
-    preparation_result: "2d20kh1+5 [20,11] mantido20+5=25, execução Python real verificada."
+    preparation_result: "2d20kh1+5 [20,11] mantido20+5=25, execução Python não comprovada, continuidade preservada."
   salt_supply:
     sacks: 2
     weight_kg_approx: 2.2
@@ -229,21 +230,21 @@ character:
 campaign_time:
   calendar_system: "Asterion, dias relativos; nenhuma era/ano formal estabelecido"
   day: 10
-  time_of_day: "aproximadamente 14h00 do Dia 10"
+  time_of_day: "aproximadamente 14h45 do Dia 10"
   season: "final do outono"
-  elapsed_game_time: "Dia10 10h07–14h00, saída de Thûn-Khazad, caça e retorno ao povoado."
+  elapsed_game_time: "Dia10 14h00–14h45, comércio e visita à ferraria."
 location:
   continent: Asterion
   polity: "Terras Livres de Avenhar (homebrew), fora de Valdren"
   area: "entroncamento da Estrada do Cascalho, próximo ao Pouso das Três Fontes"
   nearby: "encostas arborizadas da serra cujo monte mais alto é chamado Veyra"
-  exact_position: "Entrada do Pouso das Três Fontes."
+  exact_position: "Ferraria de Durnak, Pouso das Três Fontes."
   travel_status: "Eron retornou ao Pouso das Três Fontes. Thûn-Khazad: entrada original fechada e camuflada, sensores operacionais, oito unidades, manutenção interna e inventário contínuos, seis Caminhos selados. Nenhuma comunicação remota estabelecida."
 scene:
   id: OPENING-001
-  status: "returned_to_pouso_day10_after_hunt"
-  current_npcs_present: []
-  immediate_visible_situation: "Dia10 10h07–14h00: jogador autorizou todas as rolagens da saída/caça. Eron atravessa limiar, Marca em posse, entrada original fecha e se confunde com encosta, ordem de preservação da camuflagem e vigilância contínua permanece. Seis Caminhos selados. Execução REAL container.exec em quatro chamadas, /tmp/eron_415_dice.py reproduzido do GitHub com git hash-object d35af70119bf684ea055619bb10678a1c4b03bbb conferido; JSON: Furtividade 1d20+9 [3]=12, Percepção 1d20+7 [20]=27, Sobrevivência 1d20+5 [14]=19. Sem pessoas identificadas junto à saída, rastreio bem-sucedido, corço macho adulto ~20m, cobertura vegetal, furtividade suficiente ante percepção passiva 12, vantagem. Ataque 2d20kh1+7 [11,2] mantido índice0=18, acerto CA13; dano arco e Ataque Furtivo 2d6+5 [2,5]=12, abate (4PV). Aproveitamento com Coureiro/Sobrevivência 2d20kh1+5 [20,11] mantido índice0=25. 11kg carne fresca, pele crua boa1, galhadas2, orelhas2, ossos longos2, tendões1 feixe, coração e fígado1 cada; acondicionados na Bolsa Porta-Tudo, crus, sem sal ou venda; estimativa carga interna adicionada ~16kg. Flecha única disparada inutilizável, 18 aljava+5 reserva=23, perdidas/inutilizáveis10. Chega entrada Pouso das Três Fontes Dia10 14h00, nenhuma interação NPC, recados ainda desconhecidos. Saída da cidade Dia6, retorno Dia10. Sem dano, gasto monetário, magia, XP ou alimento consumido; 30/30PV CA16 XP1325/2700 slots2/2 Tinker4/4 inspiração disponível. Adjudicados tempo, rendimento e descarte; aproveitamento habitual da caça."
+  status: "durnak_message_iria_day10"
+  current_npcs_present: ["Durnak, amistoso"]
+  immediate_visible_situation: "Dia10 14h00–14h45: jogador vende toda caça disponível Dia10 e anterior, depois visita ferraria para recados. Belda compra duas peles (Dia10 6PP, Dia6 salgada 7PP), galhadas 2PP por par, tendões 1PP por feixe, ossos 5PC por par; Nessa orelhas 5PC por par; Bram compra 11kg carne fresca 22PP e coração/fígado Dia10 3PP, recusa miúdos antigos Dia6 e lebre por tempo armazenamento, permanecem em posse, sem valor alimentar confirmado, não descartados. Dia10 35PP, Dia6 11PP, total46PP=4PO6PP, saldo56PO2PP7PC→60PO8PP7PC. Carne salgada6,45kg em custódia UM019 não comercializada. Dia10 e Dia6 peles/galhadas/orelhas/ossos/tendões vendidos, carne Dia10 e miúdos Dia10 vendidos. Chegada ferraria14h45; Durnak amistoso confirma materiais guardados para sete flechas, entrega papel dobrado de Iria, que passou Dia9 solicitando encontro pessoal após retorno, motivo desconhecido. Durnak pergunta se caça foi boa. Nenhuma rolagem, XP, gasto extra, dano ou venda de patrimônio imperial. PV30/30 CA16 XP1325/2700 23 flechas. Auditoria [416]: seis expressões não tiveram chamada efetiva a Python comprovada, corrigidas por registros false, acontecimentos e inventário mantidos. Decisões locais: preços, conservação, horário, recado."
   discovered_traps:
     - location: "Trilha dos Corcos, junto ao riacho"
       state: disarmed_safe_wire_left_at_tree
@@ -268,7 +269,7 @@ scene:
   combat: false
   initiative: []
   rounds: 0
-  dice_rolled: true
+  dice_rolled: false
   xp_awarded: true
   reward_offered_but_not_accepted: null
   herd_contract_status: "Concluído Dia5 ~11h55; Mara confirmou três noites sem perdas, pagou 12 PO; +50 XP de resolução substantiva, reputação gratidão e respeito."
@@ -288,8 +289,8 @@ world:
 transcription:
   character_creation_history: sessions/transcripts/SESSION_0001_FULL.md
   narrative_session: sessions/transcripts/SESSION_0002_FULL.md
-  last_saved_player_turn: "[415] JOGADOR — autoriza todas as rolagens."
-  last_saved_dm_turn: "[416] MESTRE — corço abatido, retorno ao Pouso, Dia10 14h00."
+  last_saved_player_turn: "[417] JOGADOR — vende caça e procura recados na ferraria."
+  last_saved_dm_turn: "[418] MESTRE — vendas +46PP, recado Iria, Dia10 14h45."
 notes:
   - "Primeira resposta de cena será salva literalmente e sem revelar preparativos de dm."
   - "Nunca tratar a aprovação da ficha como XP, nem mudar recursos automaticamente."
