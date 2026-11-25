@@ -7,10 +7,10 @@ homebrew:
 advancement:
   method: experience_points
   milestones_do_not_grant_levels: true
-  current_total_xp: 575
+  current_total_xp: 600
   next_level_xp: 900
   level_up_pending: false
-  level_up_note: "Ladino1/Artífice1. Arcanismo, Prestidigitação e Curar Ferimentos confirmados; um truque e uma magia pendentes."
+  level_up_note: "Ladino1/Artífice1; escolhas iniciais de Artífice concluídas em [312]."
   rule: "Conceder XP por combate e ameaças resolvidas, investigação, exploração e desafios sociais substantivos; usar equivalências 2024, sem duplicação; registrar no XP_LOG.csv."
 character:
   id: ERON-RIVER
@@ -21,7 +21,7 @@ character:
     Ladino: 1
     Artífice: 1
   character_level: 2
-  xp_total: 575
+  xp_total: 600
   xp_next_level: 900
   hp_current: 21
   hp_max: 21
@@ -43,10 +43,10 @@ character:
     tinkers_magic_available: 4
     tinkers_magic_max: 4
     automatic_cantrips: ["Mending"]
-    elective_cantrips: ["Prestidigitation"]
-    elective_cantrips_pending: 1
-    prepared_level_1_spells: ["Cure Wounds"]
-    prepared_level_1_spells_pending: 1
+    elective_cantrips: ["Light", "Guidance"]
+    elective_cantrips_pending: 0
+    prepared_level_1_spells: ["Cure Wounds", "Detect Magic"]
+    prepared_level_1_spells_pending: 0
     skill_proficiency_pending: false
     skill_proficiency: "Arcanismo +6"
     armor_training: ["light", "medium", "shields"]
@@ -202,21 +202,21 @@ character:
 campaign_time:
   calendar_system: "Asterion, dias relativos; nenhuma era/ano formal estabelecido"
   day: 7
-  time_of_day: "aproximadamente 15h05 do Dia 7"
+  time_of_day: "aproximadamente 15h50 do Dia 7"
   season: "final do outono"
-  elapsed_game_time: "Dia7 14h40–15h05, aproximação e reparo do construto."
+  elapsed_game_time: "Dia7 15h05–15h50, investigação e abertura do depósito."
 location:
   continent: Asterion
   polity: "Terras Livres de Avenhar (homebrew), fora de Valdren"
   area: "entroncamento da Estrada do Cascalho, próximo ao Pouso das Três Fontes"
   nearby: "encostas arborizadas da serra cujo monte mais alto é chamado Veyra"
-  exact_position: "Galeria do nível de serviço de Thûn-Khazad, ao lado do construto e do carro de ferramentas."
-  travel_status: "Locomoção do construto recuperada; porta do depósito emperrada."
+  exact_position: "Entrada do depósito de serviço de Thûn-Khazad."
+  travel_status: "Porta reparada e aberta; depósito visível, ainda não inventariado."
 scene:
   id: OPENING-001
-  status: "awaiting_player_action_at_repaired_construct_day7"
-  current_npcs_present: ["Construto de manutenção, cooperativo e agradecido"]
-  immediate_visible_situation: "Dia7 14h40–15h05: jogador autorizou aproximação, reparo do construto e Consertar se necessário. Eron aproximou-se com ferramentas visíveis; construto parou, virou cabeça, emitiu dois estalos e flexionou articulação permitindo acesso, sem hostilidade. Investigação com vantagem 2d20kh1+6 [2,4] mantém4+6=10, falhou diagnóstico interno completo. Observou peça de sustentação fraturada no joelho; retirou componente, conjurou Mending sobre objeto destacado (uma fratura menor que 30cm), reinstalou e alinhou articulação, Destreza/Ferreiro 1d20+7 [12]+7=19 sucesso. Conjuração 1min, ferramentas como foco, sem slot ou uso de Tinker's Magic; não curou PV nem restaurou magia da criatura. Construto testou marcha sem arrastar pé, olhos âmbar, disse em Anão: 'Manutenção recebida. Agradecimento ao artesão. Tarefa pendente: transporte de ferramentas ao depósito de serviço. Acesso obstruído.' Apontou porta emperrada. Não é aliado controlado nem conferiu autorização administrativa; cooperativo em relação à manutenção. Porta ainda emperrada. +25XP pela resolução substantiva do problema de locomoção do construto, total575/900 nível2. PV21/21 CA16, inspiração disponível, espaços2/2, Magia do Funileiro4/4, 9 rações, 4 óleos, lanterna apagada com 110min. Nenhum gasto material pessoal, dano, combate ou coleta. Eron ao lado do construto. Execução Python real nesta interação: /tmp/eron_307_dice.py verificado por git hash-object d35af70119bf684ea055619bb10678a1c4b03bbb com test antes da execução. JSON rolls [2,4], kept_indices[1], modifier6,total10; rolls[12],kept_indices[0],modifier7,total19. Consultada regra oficial Mending 2024 https://www.dndbeyond.com/spells/2619033-mending."
+  status: "awaiting_player_action_at_service_depot_day7"
+  current_npcs_present: ["UM-017, construto de manutenção cooperativo"]
+  immediate_visible_situation: "Dia7 15h05–15h50: jogador finalizou escolhas iniciais Artífice: Luz e Orientação eletivos, Mending automático, Curar Ferimentos e Detectar Magia preparadas, Arcanismo+6. Prestidigitação (truque) retirada excepcionalmente durante finalização inicial, nunca utilizada; não altera perícia Prestidigitação nem regra futura de troca em descanso longo. Nova inspeção autorizada do construto com articulações acessíveis e Orientação: Investigação vantagem 2d20kh1+6 [7,16] mantém16+6=22; 1d4 [1] total23, sucesso. Identificou estrutura interna articulada, placas bronze/ferro, cristais rúnicos nas articulações, identificação UM-017, Unidade de manutenção / Serviço de transporte e conservação. Não encontrou outra fratura evidente comprometendo marcha; origem da energia mágica desconhecida. Nova conjuração Orientação para investigação da porta: 2d20kh1+6 [9,12] mantém12+6=18; 1d4 [3] total21, sucesso. Guia metálica inferior rompida, Consertar na peça fraturada, Destreza/Ferreiro 1d20+7 [17]+7=24 sucesso, realinhou mecanismo, porta deslizou lateralmente. UM-017 disse em Anão 'Obstrução eliminada. Retomando tarefa', empurrou carro ao depósito e começou a organizar ferramentas. Recinto ~12x8m iluminado, estantes, caixas, ferramentas antigas, barras de metais, componentes organizados; segunda bancada e armário reforçado rúnico ao fundo. Eron diante do depósito, sem inventariar, coletar, examinar armário ou operar bancada. +25 XP por desbloquear depósito (obstáculo distinto), total600/900 nível2. PV21/21 CA16 inspiração disponível, espaços2/2, Magia Funileiro4/4, 9 rações, 4 óleos, lanterna apagada 110min. Dois usos de Orientação, um Consertar, nenhum espaço gasto, nenhuma concentração remanescente. Nenhum dano ou combate. Execução real container.exec: git hash-object /tmp/eron_307_dice.py = d35af70119bf684ea055619bb10678a1c4b03bbb, test conferiu SHA antes da execução Python. Resultados JSON: 2d20kh1+6 rolls[7,16],kept_indices[1],modifier6,total22; 1d4 rolls[1],kept_indices[0],modifier0,total1; 2d20kh1+6 rolls[9,12],kept_indices[1],modifier6,total18; 1d4 rolls[3],kept_indices[0],modifier0,total3; 1d20+7 rolls[17],kept_indices[0],modifier7,total24. Totais combinados 23 e 21."
   discovered_traps:
     - location: "Trilha dos Corcos, junto ao riacho"
       state: disarmed_safe_wire_left_at_tree
@@ -261,8 +261,8 @@ world:
 transcription:
   character_creation_history: sessions/transcripts/SESSION_0001_FULL.md
   narrative_session: sessions/transcripts/SESSION_0002_FULL.md
-  last_saved_player_turn: "[309] JOGADOR — autoriza reparo do construto e Mending."
-  last_saved_dm_turn: "[310] MESTRE — Investigação10, Ferreiro19, Mending em peça; locomoção recuperada."
+  last_saved_player_turn: "[311] JOGADOR — finaliza magias, investiga e autoriza reparos."
+  last_saved_dm_turn: "[312] MESTRE — UM-017 identificado, porta recuperada; XP600/900."
 notes:
   - "Primeira resposta de cena será salva literalmente e sem revelar preparativos de dm."
   - "Nunca tratar a aprovação da ficha como XP, nem mudar recursos automaticamente."

@@ -9290,3 +9290,140 @@ Consertar foi utilizado na peça removida, não diretamente na criatura. O truqu
 - **Recursos:** 2/2 espaços de magia, 4/4 usos de Magia do Funileiro, 9 rações e 4 frascos de óleo.
 
 **GitHub:** commit confirmado; transcrição, ficha, estado, cronologia, XP e rolagens atualizados.
+
+
+## [311] JOGADOR
+
+Vou investigar novamente
+E também investigar e ver se consigo arrumar ou abrir a porta, e vou pegar oque recomendou e vou trocar prestidigitacao, vai ficar luz e orientação, das magias vou pegar as sugeridas por hora
+Pode rolar até arrumar a porta e pode usar oque precisar, reparar e rolar também tudo que precisar
+
+## [312] MESTRE
+
+Vou finalizar suas escolhas de Artífice, refazer a inspeção do construto com acesso direto às articulações e trabalhar na porta do depósito, usando as magias quando forem úteis.
+
+## Eron River — Artífice: escolhas concluídas
+
+<box border radius="lg" padding={3} gap={2}>
+  **Truques**
+  <row><icon name="wrench" color="success"/> Consertar (automático)</row>
+  <row><icon name="sun" color="#d7ad35"/> Luz</row>
+  <row><icon name="sparkles" color="#b68ad7"/> Orientação</row>
+  <divider/>
+  **Magias preparadas — 1º círculo**
+  <row><icon name="heart-pulse" color="success"/> Curar Ferimentos</row>
+  <row><icon name="scan-eye" color="#829ccf"/> Detectar Magia</row>
+  <divider/>
+  <caption>Arcanismo +6 | CD de magia 14 | Ataque mágico +6 | 2 espaços de magia</caption>
+</box>
+
+Como ainda estávamos finalizando suas escolhas iniciais e você não utilizou Prestidigitação, permitirei essa substituição agora. Nas próximas trocas, aplicaremos a regra do descanso longo.
+
+## Thûn-Khazad — Dia 7, 15h50
+
+### 1. Investigação do construto
+
+Você utiliza Orientação e solicita acesso novamente às articulações do construto. Ele permanece imóvel enquanto você examina os componentes.
+
+<card gap={2}>
+  **Investigação com vantagem + Orientação**
+  <row align="center">
+    {#each [{n:7,keep:false},{n:16,keep:true}] as d}
+      <box flex={1} align="center">
+        <svg viewBox="0 0 100 100" size="70px">
+          <polygon points="50,4 94,29 94,73 50,97 6,73 6,29" fill={d.keep?"#214b86":"#555b62"} stroke="#93b5dd" strokeWidth="2"/>
+          <path d="M50 4L23 65L94 73L50 4L77 65L6 73L50 4M6 29L77 65L94 29M23 65L77 65" fill="none" stroke="#93b5dd"/>
+          <text x="50" y="58" fontSize="29" fontWeight="bold" fill="white" textAnchor="middle">{d.n}</text>
+        </svg>
+        <caption>{d.keep?"Mantido":"Descartado"}</caption>
+      </box>
+    {/each}
+    <box flex={1} align="center">
+      <title size="2xl" color="success">23</title>
+      <caption>16 + 6 + 1</caption>
+    </box>
+  </row>
+  <caption>2d20kh1+6 → [7,16] → 22; Orientação 1d4 → [1]; total 23.</caption>
+</card>
+
+Desta vez, você compreende melhor sua construção. Uma estrutura interna articulada sustenta placas de bronze e ferro, enquanto pequenos cristais rúnicos interligam suas articulações. O construto não depende exclusivamente de engrenagens para se movimentar.
+
+Em seu peito, encontra uma pequena identificação gravada em anão:
+
+<box background="#35332d" theme="dark" radius="md" padding={3} gap={1}>
+  <icon name="cog" size="2xl" color="#c5ae80"/>
+  <title color="#ddc599" size="xl">UM-017</title>
+  Unidade de manutenção
+  <caption>Serviço de transporte e conservação</caption>
+</box>
+
+Não encontra outra fratura evidente que comprometa sua locomoção. Entretanto, a origem da energia mágica que o anima ainda permanece desconhecida.
+
+### 2. Reparação da porta
+
+<card gap={2}>
+  <row align="center">
+    <box flex={1} gap={1}>
+      **Investigação com vantagem + Orientação**
+      <caption>2d20kh1+6 → [9,12] → 12 mantido, 9 descartado.</caption>
+      <caption>1d4 → [3]</caption>
+      12 + 6 + 3 = 21
+    </box>
+    <title size="2xl" color="success">21</title>
+  </row>
+  <divider/>
+  <row align="center">
+    <box flex={1} gap={1}>
+      **Destreza — Ferramentas de Ferreiro**
+      <caption>1d20+7 → [17] + 7</caption>
+    </box>
+    <title size="2xl" color="success">24</title>
+  </row>
+  <caption>Todas as rolagens, incluindo os dois d4 de Orientação, executadas em Python com o rolador do repositório e hash conferido.</caption>
+</card>
+
+Você identifica uma ruptura na guia metálica inferior da porta. Utiliza Consertar para recuperar a peça fraturada e, com suas ferramentas de ferreiro, realinha o mecanismo de abertura.
+
+A porta desliza lateralmente.
+
+— Obstrução eliminada. Retomando tarefa — anuncia UM-017.
+
+O construto empurra seu carro para dentro do depósito.
+
+## Depósito de serviço
+
+O recinto possui aproximadamente doze metros de comprimento por oito de largura. A iluminação cristalina revela estantes metálicas, caixas de armazenamento, ferramentas antigas, barras de diferentes metais e componentes mecânicos organizados em compartimentos.
+
+Ao fundo, há uma segunda bancada de manutenção e um armário reforçado com inscrições rúnicas.
+
+UM-017 estaciona o carro junto a uma das estantes e começa a organizar as ferramentas.
+
+Você está diante de um depósito que ainda não foi inventariado.
+
+<row align="center">
+  <box flex={1} gap={1}>
+    <caption>Experiência — recuperação do acesso ao depósito</caption>
+    **600/900 XP — Nível 2**
+    <box height={2} radius="full" background="surface-tertiary" clip>
+      <box width="66.67%" height="100%" background="#26925b"/>
+    </box>
+  </box>
+  <title size="xl" color="success">+25 XP</title>
+</row>
+
+**O que você faz?**
+
+---
+
+**[LOG DE MEMÓRIA DA CAMPANHA]**
+
+- **Localização atual:** Entrada do depósito de serviço de Thûn-Khazad, Dia 7, 15h50.
+- **NPCs presentes e relação:** UM-017, construto cooperativo de manutenção.
+- **Linha de missão ativa:** Exploração do nível de serviço.
+- **Eventos cruciais:** Construto investigado, porta reparada, depósito acessível, escolhas do Artífice concluídas.
+- **Condições:** 21/21 PV | CA 16 | Nível 2 | Inspiração Heroica disponível.
+- **Recursos:** 2/2 espaços de magia, 4/4 usos de Magia do Funileiro, 9 rações, 4 frascos de óleo.
+
+Foram conjurados Orientação duas vezes e Consertar uma vez. Nenhum espaço de magia ou material pessoal foi consumido.
+
+**GitHub:** commit confirmado; transcrição, ficha, estado, cronologia, XP e rolagens atualizados.

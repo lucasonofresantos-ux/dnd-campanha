@@ -128,3 +128,5 @@
 - Atualização: sessão 0002 até [308], Dia7 14h40; escolhas parciais Artífice, construto avistado nível de serviço, XP550/900, três rolagens Python verificadas.
 
 - Atualização: sessão 0002 até [310], Dia7 15h05; construto de manutenção recuperou marcha e informou tarefa de transporte; XP575/900, dois testes Python e um truque.
+
+- Atualização: sessão 0002 até [312], Dia7 15h50; Artífice completo, UM-017 identificado, depósito destravado e aberto, XP600/900. Cinco expressões Python executadas e verificadas.
