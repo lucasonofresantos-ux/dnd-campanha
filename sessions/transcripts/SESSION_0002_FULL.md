@@ -13827,3 +13827,47 @@ Berric permanece em silêncio. Harl observa a conversa a poucos metros de distâ
 **Nota do Mestre:** nenhuma nova rolagem necessária. As marcas e a reação verbal foram adjudicadas; conteúdo e procedência ainda precisam de confirmação. A execução Python da reação anterior não foi comprovada; corrigi o registro, preservando a prisão.
 
 **GitHub:** commit confirmado.
+
+## [445] JOGADOR
+
+- hmmm, e chantagear o Tarvin pela dívida faz parte do serviço? Não é melhor falar agora que realmente pegou e oque de tão importante tem nessas caixas e quem contratou, que você não ia pegar estas caixas por nada, então tem alguém acima, assim você colabora isso consta no registro e o importante para nós é quem manda
+Persuasão 18 
+Intuição 19
+Naturais
+
+## [446] MESTRE
+
+## Dia 10 — 16h59 | Pátio dos carreteiros
+
+| Teste | Dado natural | Total |
+|---|---:|---:|
+| Persuasão | 18 +4 | **22** |
+| Intuição | 19 +5 | **24** |
+
+Ao ouvir o nome de Tavin, Berric perde parte da arrogância. Olha para as caixas e solta um longo suspiro.
+
+— Então aquele idiota contou tudo... Está bem. Fui eu. Propus perdoar a dívida dele se me deixasse levar as caixas. Pretendia vender as mercadorias em outro povoado.
+
+— Não existe ninguém acima de mim. Ninguém me contratou. São tecidos e ferramentas de ferro, mercadorias que consigo vender facilmente. Ainda nem tinha acertado um comprador.
+
+Pela mudança de postura e pela maneira como responde, você percebe que Berric parece estar sendo sincero agora. Não identifica sinais de que esteja protegendo algum mandante. A motivação aparente é simplesmente o lucro.
+
+Um dos vigias aperta os lábios.
+
+— Muito bem. Vamos registrar sua confissão.
+
+Harl permanece em silêncio, aguardando. As duas caixas continuam fechadas diante de você.
+
+---
+
+**[LOG DE MEMÓRIA DA CAMPANHA]**
+
+- **Localização atual:** Galpão dos carreteiros, Dia 10, 16h59.
+- **NPCs presentes e relação:** Dois vigias aliados; Berric, detido e cooperando; Harl, testemunha.
+- **Linha de missão ativa:** Conferir as mercadorias e esclarecer possíveis cúmplices.
+- **Eventos cruciais:** Berric confessou o furto e declarou ter agido por interesse próprio.
+- **Condições:** 30/30 PV | CA 16 | 1.375/2.700 XP | 68 PO, 8 PP e 7 PC | 23 flechas.
+
+**Nota do Mestre:** dados naturais fornecidos por você, sem rerrolagem. A confissão não comprova, por si só, a inexistência de outros envolvidos. Nenhum XP ou pagamento adicional nesta etapa.
+
+**GitHub:** commit confirmado.
