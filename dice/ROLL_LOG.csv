@@ -553,3 +553,8 @@ date,campaign_id,stage,attempt,expression,six_rolls_faces_in_order,six_attribute
 2026-11-25,ERON-RIVER-ASTERION-001,tinkers_repair_exterior_sensors_day10,1,2d20kh1+6,"16,17","17+6; kept index 1",23,true
 2026-11-25,ERON-RIVER-ASTERION-001,arcana_exterior_sensors_day10,1,2d20kh1+6,"2,14","14+6; kept index 1",20,true
 2026-11-25,ERON-RIVER-ASTERION-001,guidance_arcana_exterior_sensors_day10,1,1d4,"4","20+4=24",4,true
+2026-11-25,ERON-RIVER-ASTERION-001,audit_unverified_investigation_exterior_sensors_day10,1,2d20kh1+6,"4,15","15+6; kept index 1",21,false
+2026-11-25,ERON-RIVER-ASTERION-001,audit_unverified_guidance_investigation_exterior_sensors_day10,1,1d4,"2","21+2=23",2,false
+2026-11-25,ERON-RIVER-ASTERION-001,audit_unverified_tinkers_repair_exterior_sensors_day10,1,2d20kh1+6,"16,17","17+6; kept index 1",23,false
+2026-11-25,ERON-RIVER-ASTERION-001,audit_unverified_arcana_exterior_sensors_day10,1,2d20kh1+6,"2,14","14+6; kept index 1",20,false
+2026-11-25,ERON-RIVER-ASTERION-001,audit_unverified_guidance_arcana_exterior_sensors_day10,1,1d4,"4","20+4=24",4,false
