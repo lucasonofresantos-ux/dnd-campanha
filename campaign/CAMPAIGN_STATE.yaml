@@ -230,21 +230,21 @@ character:
 campaign_time:
   calendar_system: "Asterion, dias relativos; nenhuma era/ano formal estabelecido"
   day: 10
-  time_of_day: "aproximadamente 16h33 do Dia 10"
+  time_of_day: "aproximadamente 16h50 do Dia 10"
   season: "final do outono"
-  elapsed_game_time: "Dia10 16h32–16h33, oferta de auxílio à diligência."
+  elapsed_game_time: "Dia10 16h33–16h50, rastreamento e observação do pátio."
 location:
   continent: Asterion
   polity: "Terras Livres de Avenhar (homebrew), fora de Valdren"
   area: "entroncamento da Estrada do Cascalho, próximo ao Pouso das Três Fontes"
   nearby: "encostas arborizadas da serra cujo monte mais alto é chamado Veyra"
-  exact_position: "Posto da Vigília, Pouso das Três Fontes."
+  exact_position: "Pátio dos carreteiros, saída leste do Pouso, cobertura a 12m do galpão."
   travel_status: "Eron retornou ao Pouso das Três Fontes. Thûn-Khazad: entrada original fechada e camuflada, sensores operacionais, oito unidades, manutenção interna e inventário contínuos, seis Caminhos selados. Nenhuma comunicação remota estabelecida."
 scene:
   id: OPENING-001
-  status: "iria_berric_assistance_offer_day10"
-  current_npcs_present: ["Iria, amistosa e respeitosa"]
-  immediate_visible_situation: "Dia10 16h32–16h33: Eron oferece auxílio na diligência sobre Berric. Iria aceita auxílio voluntário, solicita alcançar os dois vigias enviados ao pátio dos carreteiros e ajudá-los a identificar as caixas e esclarecer a situação; eventual detenção e apreensão sob responsabilidade dos vigias, evitar confronto desnecessário. Não oferece nova remuneração neste momento. Eron ainda no posto, não aceitou expressamente os termos nem iniciou deslocamento. Resultado da diligência pendente. Nenhum dado, XP, gasto ou mudança de recursos."
+  status: "berric_yard_observation_day10"
+  current_npcs_present: ["Dois vigias aliados", "Berric, suspeito não abordado", "Outro carreteiro"]
+  immediate_visible_situation: "Dia10 16h33–16h50: Eron aceita auxiliar e avisa Iria que reagirá se atacado; ela recomenda defesa sem excesso. Segue ao pátio, retoma vestígios de rodas do depósito, usa dados naturais informados Sobrevivência18+5=23, Furtividade20+9=29, Percepção19+7=26. Identifica sequência descontínua de sulcos com característica de roda direita irregular compatível com carroça de dois eixos junto a galpão portão verde, mula castanha. Alcança dois vigias nas imediações antes de abordagem; observa de cobertura de pilhas de madeira a cerca de 12m do galpão. Ouve outro carreteiro chamar homem junto à carroça de Berric; Berric organiza cordas e carga. Pela abertura parcial do portão observa duas caixas sob lona deslocada, uma com inscrição de tecidos, outra com ferragens; identificação compatível com relato, ainda não autenticada por Neral/registro. Berric não identifica Eron; vigias não iniciaram abordagem, aguardam junto à entrada do pátio. Sem apreensão, combate, dano, XP, gasto ou pagamento; recursos inalterados. Adjudicados detalhes físicos, posições, horário e CDs. Nenhuma rolagem automática."
   discovered_traps:
     - location: "Trilha dos Corcos, junto ao riacho"
       state: disarmed_safe_wire_left_at_tree
@@ -269,7 +269,7 @@ scene:
   combat: false
   initiative: []
   rounds: 0
-  dice_rolled: false
+  dice_rolled: true
   xp_awarded: false
   reward_offered_but_not_accepted: null
   herd_contract_status: "Concluído Dia5 ~11h55; Mara confirmou três noites sem perdas, pagou 12 PO; +50 XP de resolução substantiva, reputação gratidão e respeito."
@@ -289,8 +289,8 @@ world:
 transcription:
   character_creation_history: sessions/transcripts/SESSION_0001_FULL.md
   narrative_session: sessions/transcripts/SESSION_0002_FULL.md
-  last_saved_player_turn: "[437] JOGADOR — oferece auxílio com Berric."
-  last_saved_dm_turn: "[438] MESTRE — Iria aceita auxílio, Dia10 16h33."
+  last_saved_player_turn: "[439] JOGADOR — rastreia Berric com dados18/20/19."
+  last_saved_dm_turn: "[440] MESTRE — localiza suspeito e caixas, Dia10 16h50."
 notes:
   - "Primeira resposta de cena será salva literalmente e sem revelar preparativos de dm."
   - "Nunca tratar a aprovação da ficha como XP, nem mudar recursos automaticamente."
