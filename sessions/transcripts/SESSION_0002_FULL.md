@@ -13642,3 +13642,35 @@ Iria abre uma gaveta, conta oito moedas de ouro e as coloca sobre a mesa.
 **Nota do Mestre:** concedidos 50 XP pela investigação completa, sem duplicação. A captura de Berric e a recuperação das caixas ainda não foram confirmadas. Nenhuma nova rolagem.
 
 **GitHub:** commit confirmado.
+
+## [435] JOGADOR
+
+- ele foi chantageado querendo ou não, então que isso conte no relatório e pegue leve com ele, ele realmente está envergonhado
+
+## [436] MESTRE
+
+## Dia 10 — 16h32 | Posto da Vigília
+
+Iria volta a pegar a pena e acrescenta algumas linhas ao relatório.
+
+— Está bem, Eron. Vou registrar que Berric se aproveitou da dívida de Tavin, que ele confessou voluntariamente e que, na sua avaliação, demonstrou arrependimento sincero.
+
+Ela repousa a pena sobre a mesa.
+
+— Não posso prometer que ficará sem punição, mas levarei essas circunstâncias em consideração. Não pretendo tratá-lo da mesma forma que o responsável por organizar o roubo.
+
+— Tem minha palavra quanto a isso.
+
+---
+
+**[LOG DE MEMÓRIA DA CAMPANHA]**
+
+- **Localização atual:** Posto da Vigília, Dia 10, 16h32.
+- **NPCs presentes e relação:** Iria, amistosa e respeitosa.
+- **Linha de missão ativa:** Restauração de Thûn-Khazad.
+- **Eventos cruciais:** Pedido de clemência e avaliação de Eron registrados no relatório.
+- **Condições:** 30/30 PV | CA 16 | 1.375/2.700 XP | 68 PO, 8 PP e 7 PC.
+
+**Nota do Mestre:** Iria aceitou considerar os atenuantes, sem garantir absolvição. Nenhuma nova rolagem ou alteração de recursos.
+
+**GitHub:** commit confirmado.
