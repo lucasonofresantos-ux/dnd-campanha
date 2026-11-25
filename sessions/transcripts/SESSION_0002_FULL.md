@@ -7478,3 +7478,118 @@ O mecanismo ainda não foi examinado.
 </card>
 
 **GitHub:** commit confirmado; transcrição, estado, cronologia e rolagens atualizados.
+
+
+## [275] JOGADOR
+
+Vou analisar e tentar arrumar e rolê também investigação e oq for preciso
+
+## [276] MESTRE
+
+Vou examinar a grade, a roda e o mecanismo de pressão. Se Eron identificar um reparo viável, resolvo a tentativa com as ferramentas que ele possui.
+
+## Monte Veyra — Dia 6, 17h20–17h55
+
+<card gap={3}>
+  **Investigação com vantagem — conhecimento de ferreiro**
+  <row align="center">
+    {#each [14,2] as n,i}
+      <box flex={1} align="center" gap={1}>
+        <svg viewBox="0 0 100 100" size="80px">
+          <polygon points="50,4 94,29 94,73 50,97 6,73 6,29" fill={i===0?"#214b86":"#555b62"} stroke="#93b5dd" strokeWidth="2"/>
+          <path d="M50 4L23 65L94 73L50 4L77 65L6 73L50 4M6 29L77 65L50 97L23 65L94 29" fill="none" stroke="#93b5dd"/>
+          <text x="50" y="54" fontSize="27" fontWeight="bold" fill="white" textAnchor="middle">{n}</text>
+        </svg>
+        <caption>{i===0?"Mantido":"Descartado"}</caption>
+      </box>
+    {/each}
+    <box flex={1} align="center">
+      <title size="2xl">20</title>
+      **14 + 6**
+    </box>
+  </row>
+  <divider/>
+  <row align="center">
+    <svg viewBox="0 0 100 100" size="70px">
+      <polygon points="50,4 94,29 94,73 50,97 6,73 6,29" fill="#214b86" stroke="#93b5dd" strokeWidth="2"/>
+      <path d="M50 4L23 65L94 73L50 4L77 65L6 73L50 4M6 29L77 65L50 97L23 65L94 29" fill="none" stroke="#93b5dd"/>
+      <text x="50" y="54" fontSize="27" fontWeight="bold" fill="white" textAnchor="middle">3</text>
+    </svg>
+    <box flex={1}>
+      **Destreza (Ferramentas de Ferreiro)**
+      <caption>1d20+7 → [3] + 7</caption>
+    </box>
+    <title size="2xl">10</title>
+  </row>
+  <caption>Ambas as rolagens efetivamente executadas em Python, com hash do script conferido.</caption>
+</card>
+
+Aproximando a lanterna do mecanismo, você remove uma pequena tampa metálica e encontra um conjunto de engrenagens, hastes e travas. A qualidade da fabricação é extraordinária, mesmo considerando os muitos sinais de deterioração.
+
+Sua experiência como ferreiro permite compreender boa parte do funcionamento.
+
+A roda movimenta a grade, mas existe um sistema de segurança que impede sua abertura enquanto determinado indicador de pressão estiver acionado.
+
+<box border radius="lg" padding={3}>
+  <svg viewBox="0 0 340 235" width="100%">
+    <rect x="10" y="10" width="320" height="210" rx="5" fill="#63665e" stroke="#92958c" strokeWidth="3"/>
+    <rect x="20" y="30" width="150" height="180" fill="#292e2c" stroke="#a3a39c" strokeWidth="5"/>
+    {#each [35,60,85,110,135,155] as x}
+      <path d={`M${x} 30V210`} stroke="#999b90" strokeWidth="6"/>
+    {/each}
+    <path d="M23 75H167M23 165H167" stroke="#999b90" strokeWidth="7"/>
+    <circle cx="218" cy="108" r="32" fill="#454943" stroke="#bdad8d" strokeWidth="5"/>
+    {#each [0,60,120] as a}
+      <path d="M188 108H248" transform={`rotate(${a} 218 108)`} stroke="#b9a98a" strokeWidth="5"/>
+    {/each}
+    <circle cx="218" cy="108" r="7" fill="#c4b69d"/>
+    <rect x="270" y="62" width="45" height="126" rx="3" fill="#353932" stroke="#a5a59a" strokeWidth="2"/>
+    <rect x="282" y="77" width="20" height="70" rx="3" fill="#212521"/>
+    <rect x="284" y="90" width="16" height="13" fill="#b07145"/>
+    <path d="M292 147V176H250" stroke="#b9a98a" strokeWidth="4" fill="none"/>
+    <circle cx="292" cy="96" r="15" fill="none" stroke="#e0ac60" strokeWidth="2" strokeDasharray="3 3"/>
+    <text x="95" y="23" fill="white" fontSize="10" textAnchor="middle">Grade fechada</text>
+    <text x="218" y="153" fill="white" fontSize="10" textAnchor="middle">Roda manual</text>
+    <text x="292" y="42" fill="white" fontSize="10" textAnchor="middle">Indicador</text>
+    <text x="292" y="54" fill="white" fontSize="10" textAnchor="middle">de pressão</text>
+    <text x="258" y="202" fill="#f4dfb9" fontSize="10" textAnchor="middle">Trava de segurança</text>
+  </svg>
+  <caption textAlign="center">Representação esquemática do mecanismo examinado.</caption>
+</box>
+
+### Diagnóstico
+
+- <text color="success" inline>**Grade:**</text> estrutura aparentemente íntegra.
+- <text color="success" inline>**Engrenagens:**</text> sem fraturas visíveis.
+- <text color="danger" inline>**Indicador de pressão:**</text> haste emperrada por oxidação.
+- <text color="warning" inline>**Trava de segurança:**</text> permanece acionada.
+- **Pressão interna:** impossível confirmar enquanto o indicador estiver emperrado.
+
+Você tenta liberar a haste utilizando suas ferramentas de ferreiro. Apesar de conseguir remover parte da oxidação superficial, a peça não se movimenta. Forçá-la ainda mais pode danificar o mecanismo.
+
+Ao examinar a parte inferior da caixa, encontra uma pequena conexão rosqueada, tampada, acompanhada de uma inscrição em anão:
+
+*“Acesso para equalização e inspeção de pressão.”*
+
+O ruído grave continua vindo das profundezas.
+
+A grade permanece fechada. Você ainda não mexeu nessa conexão.
+
+**O que você faz?**
+
+---
+
+**[LOG DE MEMÓRIA DA CAMPANHA]**
+
+- **Localização atual:** Patamar do nível inferior do Monte Veyra, 17h55.
+- **NPCs presentes e relação:** Nenhum detectado.
+- **Linha de missão ativa:** Investigar a fonte de energia e o acesso de manutenção.
+- **Eventos cruciais:** Mecanismo diagnosticado; reparo malsucedido; conexão de inspeção localizada.
+- **Condições:** 12/12 PV | CA 16 | Nível 1 — 275/300 XP | Inspiração Heroica disponível.
+- **Inventário:** Marca da Bigorna Velada na bolsa; lanterna com 2h15 de autonomia e 6 frascos de óleo em reserva.
+
+**XP:** nenhum ganho neste turno, pois o obstáculo ainda não foi superado.
+
+**Auditoria:** as duas rolagens da descida anterior foram apresentadas incorretamente como executadas em Python. Corrigi a classificação dos registros sem alterar a narrativa anterior. As duas rolagens deste turno foram realmente executadas e verificadas.
+
+**GitHub:** commit confirmado; transcrição, estado, cronologia e rolagens atualizados.

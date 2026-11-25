@@ -290,3 +290,7 @@ date,campaign_id,stage,attempt,expression,six_rolls_faces_in_order,six_attribute
 2026-11-24,ERON-RIVER-ASTERION-001,smith_tools_dexterity_distribution_repair_day6,1,1d20+7,4,"4+7",11,true
 2026-11-24,ERON-RIVER-ASTERION-001,skill_check_perception_lower_level_descent_day6,1,1d20+7,7,"7+7",14,true
 2026-11-24,ERON-RIVER-ASTERION-001,skill_check_stealth_lower_level_descent_day6,1,1d20+9,12,"12+9",21,true
+2026-11-24,ERON-RIVER-ASTERION-001,correction_unverified_execution_skill_check_perception_lower_level_descent_day6,1,1d20+7,7,"7+7",14,false
+2026-11-24,ERON-RIVER-ASTERION-001,correction_unverified_execution_skill_check_stealth_lower_level_descent_day6,1,1d20+9,12,"12+9",21,false
+2026-11-24,ERON-RIVER-ASTERION-001,skill_check_investigation_pressure_mechanism_day6,1,2d20kh1+6,"14,2","14+6",20,true
+2026-11-24,ERON-RIVER-ASTERION-001,smith_tools_dexterity_pressure_indicator_repair_day6,1,1d20+7,3,"3+7",10,true
