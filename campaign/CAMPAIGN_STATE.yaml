@@ -7,7 +7,7 @@ homebrew:
 advancement:
   method: experience_points
   milestones_do_not_grant_levels: true
-  current_total_xp: 1200
+  current_total_xp: 1250
   next_level_xp: 2700
   level_up_pending: false
   level_up_note: "Nível total3 confirmado: Ladino1/Artífice2. Três planos e uma magia de 1º círculo pendentes; Bolsa Porta-Tudo criada."
@@ -21,7 +21,7 @@ character:
     Ladino: 1
     Artífice: 2
   character_level: 3
-  xp_total: 1200
+  xp_total: 1250
   xp_next_level: 2700
   hp_current: 30
   hp_max: 30
@@ -218,21 +218,21 @@ character:
 campaign_time:
   calendar_system: "Asterion, dias relativos; nenhuma era/ano formal estabelecido"
   day: 10
-  time_of_day: "aproximadamente 04h32 do Dia 10"
+  time_of_day: "aproximadamente 05h40 do Dia 10"
   season: "final do outono"
-  elapsed_game_time: "Dia10 04h30–04h32, consulta de atividades internas."
+  elapsed_game_time: "Dia10 04h32–05h40, investigação da suíte e abertura do cofre."
 location:
   continent: Asterion
   polity: "Terras Livres de Avenhar (homebrew), fora de Valdren"
   area: "entroncamento da Estrada do Cascalho, próximo ao Pouso das Três Fontes"
   nearby: "encostas arborizadas da serra cujo monte mais alto é chamado Veyra"
-  exact_position: "Aposentos privativos do Guardião, nível1 de Thûn-Khazad."
-  travel_status: "Oito unidades operacionais; três estações recuperadas; sete níveis alimentados localmente. Prioridade manutenção interna; intervenção exterior suspensa até autorização. Reservas em inventário, Caminhos selados, compartimento privativo fechado. Certificação integral pendente."
+  exact_position: "Escritório privativo do Guardião, nível1 de Thûn-Khazad, cofre aberto."
+  travel_status: "Oito unidades operacionais; três estações recuperadas; sete níveis alimentados localmente. Prioridade manutenção interna; intervenção exterior suspensa. Reservas em inventário, Caminhos selados, cofre privativo aberto, conteúdo não recolhido, documentos pendentes. Certificação integral pendente."
 scene:
   id: OPENING-001
-  status: "internal_tasks_presented_day10"
+  status: "guardian_suite_investigated_safe_open_day10"
   current_npcs_present: ["UM-021, cooperativo"]
-  immediate_visible_situation: "Dia10 04h30–04h32: jogador perguntou o que ainda pode fazer dentro do Salão. UM021 apresentou possibilidades nos sete níveis: escritório e compartimento privativo nível1 (já estabelecidos, fechados/não examinados), câmaras Conselho e diagnóstico mecanismos sem abertura nível2, registros autoridade e funções administrativas nível3, inventário reservas nível4 com UM025, espaços pesquisa/arquivos técnicos nível5, armário restrito componentes de precisão já identificado e abastecimento nível6, fabricação/avaliação equipamentos nível7; pesquisa complementar arquivos sobre Guardiões/população/Grande Selamento sem garantir respostas. Recomenda aposentos pela proximidade e acesso solicitado mediante autoridade, mecanismo ainda não verificado. Oito unidades continuam manutenção interna; exterior suspenso, seis Caminhos selados. Nenhuma ação executada, novo deslocamento, teste, XP, magia, gasto ou dano. PV30/30 CA16 XP1200/2700, demais recursos inalterados. Eron junto UM021 nos aposentos, aguarda decisão."
+  immediate_visible_situation: "Dia10 04h32–05h40: Eron autorizou rolagens para investigar toda suíte e cofre. Investigação INT 1d20+6 [12]=18 +Orientação1d4[3]=21 sucesso CD15; dormitório mobiliário preservado e roupas deterioradas, banheiro banheira/lavatório/sanitários e tubulações quente/fria aquecimento pendente; sala estar lareira, móveis, utensílios bronze/prata, seis brasões; escritório escrivaninha, estantes, diário pessoal parcialmente deteriorado e planta sete níveis com galerias/passagens serviço, ambos permanecem sobre mesa, leitura integral pendente. Cofre embutido liga metálica, brasão Barba de Cobre, autenticação rúnica autorizada. Investigação INT+Funileiro vantagem 2d20kh1+6 [1,3] índice1 mantido9 +Orientação1d4[4]=13 falha CD16; nova abordagem esquema de manutenção e ajuda UM021 2d20kh1+6 [2,16] índice1=22 sucesso CD15, identifica articulação emperrada; Ferreiro DES com ajuda 2d20kh1+7 [15,11] índice0=22 sucesso CD15; corrigida sem peças/gasto, autenticação aceita e cofre aberto. Seis expressões realmente executadas em duas chamadas container.exec com script reproduzido e git hash-object d35af70119bf684ea055619bb10678a1c4b03bbb conferido; resultados JSON. Cofre seco contém 120 moedas ouro imperiais, 80 prata imperiais (circulação/valor atual não confirmado), 1 sinete oficial bronze Guardiões, 1 livro despesas/transferências, 1 caixa metálica lacrada inscrição Anão Correspondência reservada ao Guardião. Conselho dos Seis. Caixa não aberta, livro/diário não lidos integralmente; todos permanecem in situ, patrimônio sob administração, não adicionados a inventário pessoal. UM021 recomenda registro separado tesouro geral. +25XP investigação e +25XP cofre, total1250/2700; PV30/30 CA16 slots2/2 Tinker4/4 inspiração disponível 3d8, Luz inativa, Orientação encerrada, sem dano, peças, comida, gasto ou condição. Exterior suspenso, Caminhos selados, manutenção interna continua. Decisões locais: mobiliário, objetos, avaria, CDs, ajuda, duração, XP, conteúdos; ilustrações não canônicas."
   discovered_traps:
     - location: "Trilha dos Corcos, junto ao riacho"
       state: disarmed_safe_wire_left_at_tree
@@ -257,8 +257,8 @@ scene:
   combat: false
   initiative: []
   rounds: 0
-  dice_rolled: false
-  xp_awarded: false
+  dice_rolled: true
+  xp_awarded: true
   reward_offered_but_not_accepted: null
   herd_contract_status: "Concluído Dia5 ~11h55; Mara confirmou três noites sem perdas, pagou 12 PO; +50 XP de resolução substantiva, reputação gratidão e respeito."
   investigation_offer: null
@@ -277,8 +277,8 @@ world:
 transcription:
   character_creation_history: sessions/transcripts/SESSION_0001_FULL.md
   narrative_session: sessions/transcripts/SESSION_0002_FULL.md
-  last_saved_player_turn: "[397] JOGADOR — pergunta o que ainda pode fazer internamente."
-  last_saved_dm_turn: "[398] MESTRE — atividades internas apresentadas, Dia10 04h32."
+  last_saved_player_turn: "[399] JOGADOR — autoriza investigação suíte e cofre."
+  last_saved_dm_turn: "[400] MESTRE — suíte investigada, cofre aberto, Dia10 05h40, XP1250."
 notes:
   - "Primeira resposta de cena será salva literalmente e sem revelar preparativos de dm."
   - "Nunca tratar a aprovação da ficha como XP, nem mudar recursos automaticamente."
