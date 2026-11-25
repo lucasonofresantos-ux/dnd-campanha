@@ -15182,3 +15182,31 @@ Cada acerto bastou para abater uma lebre mesmo com o dano mínimo do arco.
 - **Condições do jogador** · 30/30 PV, CA 16, 1.450/2.700 XP. Saldo de 73 PO, 2 PP e 4 PC.
 
 **Commit confirmado no GitHub.**
+
+## [533] JOGADOR
+
+Vou usar concertar na flecha partida e vou vender as peles e os pés e levar a carne para a alda
+
+### Mestre — andamento
+
+Você junta as duas partes da flecha antes de entrar no Pouso.
+
+## [534] MESTRE
+
+Você alinha a haste partida e usa **Consertar**. Um minuto depois, a madeira voltou a ser uma peça só. Você gira a flecha entre os dedos, confere o alinhamento da ponta e a guarda na aljava. São **30 flechas utilizáveis** de novo.
+
+Belda abre as três peles sobre a bancada. Estão inteiras e recém-salgadas. Ela paga **2 PP por pele**. Nessa examina os três pés traseiros e paga **3 PC por pé**, considerando que ainda vai terminar de secá-los. Você recebe **6 PP e 9 PC** pelas duas vendas.
+
+Na hospedagem, Alda abre espaço na mesa da cozinha para os embrulhos de carne. Os miúdos continuam separados na tua bolsa. Ela pesa os cortes das três lebres, desconta o pano e olha o fiel da balança.
+
+— Quatro quilos, quase cravados. E hoje eu lembrei de pesar antes de pôr na panela — diz ela, com um sorriso. — **Te dou 1 PO pela carne toda.** Que me diz?
+
+**[LOG DE MEMÓRIA DA CAMPANHA]**
+
+- **Localização atual** · Cozinha de Alda, Pouso das Três Fontes. Dia 12, cerca de 16h45.
+- **NPCs presentes e relação** · Alda, interessada em comprar a carne.
+- **Linha de missão ativa** · Oferta de 1 PO pelos cerca de 4 kg de carne, aguardando tua resposta.
+- **Eventos cruciais ocorridos** · Flecha reparada. Três peles e três pés vendidos. Eron ainda tem 3 corações, 3 fígados, 6 rins, 6 orelhas, ossos e tendões.
+- **Condições do jogador** · 30/30 PV, CA 16, 1.450/2.700 XP. **20 flechas na aljava e 10 de reserva**. Saldo após as vendas de **73 PO, 9 PP e 3 PC**.
+
+**Commit confirmado no GitHub.**
