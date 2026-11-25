@@ -13384,3 +13384,60 @@ Ela aponta dois nomes anotados no pergaminho.
 **Nota do Mestre:** os detalhes da ocorrência foram definidos agora. Nenhuma rolagem, pagamento ou XP; a investigação ainda não começou.
 
 **GitHub:** commit confirmado.
+
+## [423] JOGADOR
+
+- tá vou lá agora e com sorte termino ainda hoje
+Sigo para ver o depósito e falar com o tavin e Lessa
+Pode rolar oque precisar
+
+## [424] MESTRE
+
+## Dia 10 — 15h15 | Depósito de Neral Voss
+
+O depósito é uma construção de pedra e madeira, com uma entrada larga para carga. O cheiro de madeira úmida, ferro e tecido impregna o interior. Tavin permite sua entrada após você explicar que está a serviço da Vigília.
+
+### Inspeção do depósito
+
+| Teste | Rolagem | Total |
+|---|---|---:|
+| Investigação + Ferramentas de Ladrão (vantagem) | 2d20kh1+6 → [~~16~~, 20] +6 | **26** |
+| Percepção | 1d20+7 → [12] +7 | **19** |
+
+Você examina minuciosamente a fechadura, o batente e as dobradiças. Não encontra marcas de violação, e o mecanismo funciona normalmente. Do lado de fora, junto ao acesso lateral, identifica sulcos de rodas de carroça parcialmente preservados no barro. Ainda não consegue determinar a qual carroça pertencem ou quando foram feitos.
+
+### 15h30 — Tavin, o encarregado
+
+— Eu mesmo tranquei a porta no fim do expediente. Quando voltei na manhã seguinte, as caixas tinham desaparecido. Não autorizei ninguém a retirá-las.
+
+Ele mostra uma chave de ferro que carrega no bolso.
+
+**Intuição:** 1d20+5 → [7] +5 = **12**.
+
+Tavin é reservado, mas você não consegue determinar se está escondendo alguma coisa.
+
+### 15h45 — Lessa, a ajudante
+
+Você conversa com ela separadamente.
+
+— Quando saí, a porta estava encostada. Achei que Tavin ainda estivesse trabalhando. Não vi ninguém retirar as caixas, nem sei quem entrou depois.
+
+**Intuição:** 1d20+5 → [1] +5 = **6**.
+
+Você não consegue avaliar a confiabilidade do depoimento dela.
+
+Os dois continuam disponíveis no depósito. O proprietário, Neral, ainda não foi entrevistado, e o livro de estoque permanece por consultar.
+
+---
+
+**[LOG DE MEMÓRIA DA CAMPANHA]**
+
+- **Localização atual:** Depósito de Neral Voss, Dia 10, 15h45.
+- **NPCs presentes e relação:** Tavin, reservado; Lessa, colaborativa.
+- **Linha de missão ativa:** Investigação das mercadorias desaparecidas — recompensa de 8 PO.
+- **Eventos cruciais:** Fechadura intacta, marcas de carroça encontradas e depoimentos divergentes.
+- **Condições:** 30/30 PV | CA 16 | 1.325/2.700 XP | 60 PO, 8 PP e 7 PC | 23 flechas.
+
+**Nota do Mestre:** quatro rolagens executadas em Python com o hash do script conferido. Nenhuma culpa comprovada, nenhum XP ou pagamento nesta etapa. A duração e os detalhes da inspeção foram adjudicados.
+
+**GitHub:** commit confirmado.
