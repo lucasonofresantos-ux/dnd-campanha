@@ -546,3 +546,10 @@ date,campaign_id,stage,attempt,expression,six_rolls_faces_in_order,six_attribute
 2026-11-25,ERON-RIVER-ASTERION-001,guidance_crosscheck_council_reports_day10,1,1d4,"1","26+1=27",1,true
 2026-11-25,ERON-RIVER-ASTERION-001,audit_unverified_investigation_crosscheck_council_reports_day10,1,2d20kh1+6,"12,20","20+6; kept index 1",26,false
 2026-11-25,ERON-RIVER-ASTERION-001,audit_unverified_guidance_crosscheck_council_reports_day10,1,1d4,"1","26+1=27",1,false
+2026-11-25,ERON-RIVER-ASTERION-001,stealth_player_exterior_sensors_day10,1,1d20+9,"18","18+9; informado jogador",27,true
+2026-11-25,ERON-RIVER-ASTERION-001,perception_player_exterior_sensors_day10,1,1d20+7,"20","20+7; informado jogador",27,true
+2026-11-25,ERON-RIVER-ASTERION-001,investigation_exterior_sensors_day10,1,2d20kh1+6,"4,15","15+6; kept index 1",21,true
+2026-11-25,ERON-RIVER-ASTERION-001,guidance_investigation_exterior_sensors_day10,1,1d4,"2","21+2=23",2,true
+2026-11-25,ERON-RIVER-ASTERION-001,tinkers_repair_exterior_sensors_day10,1,2d20kh1+6,"16,17","17+6; kept index 1",23,true
+2026-11-25,ERON-RIVER-ASTERION-001,arcana_exterior_sensors_day10,1,2d20kh1+6,"2,14","14+6; kept index 1",20,true
+2026-11-25,ERON-RIVER-ASTERION-001,guidance_arcana_exterior_sensors_day10,1,1d4,"4","20+4=24",4,true
