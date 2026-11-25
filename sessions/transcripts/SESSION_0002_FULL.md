@@ -13149,3 +13149,87 @@ Informe os três resultados naturais ou autorize que eu role por você.
 A entrada está temporariamente aberta para sua saída; o fechamento ocorrerá após a travessia. Os testes ainda não foram rolados.
 
 **GitHub:** commit confirmado.
+
+## [415] JOGADOR
+
+Pode rolar tudo
+
+## [416] MESTRE
+
+## Dia 10 — 10h07 | Monte Veyra
+
+Você atravessa a abertura, recupera a Marca da Bigorna Velada e observa a passagem se fechar atrás de você. A rocha volta a se confundir com a encosta.
+
+O ar frio da montanha e o cheiro da vegetação úmida contrastam com o ambiente subterrâneo. Você segue pela mata em direção ao Pouso das Três Fontes, procurando vestígios de caça.
+
+### Testes de deslocamento e caça
+
+| Teste | Rolagem | Total |
+|---|---|---:|
+| Furtividade | 1d20 [3] +9 | 12 |
+| Percepção | 1d20 [20] +7 | **27** |
+| Sobrevivência | 1d20 [14] +5 | **19** |
+
+Você não identifica ninguém nas proximidades da saída. Durante a descida, encontra pegadas recentes de um corço e, seguindo-as, avista um macho adulto alimentando-se entre os arbustos, a aproximadamente 20 metros.
+
+Aproveitando a cobertura da vegetação, você dispara com o arco curto.
+
+<card gap={2}>
+  <caption>Ataque com vantagem — 2d20kh1+7</caption>
+  <row align="center">
+    <box border radius="lg" padding={3}>
+      <title size="2xl">11</title>
+    </box>
+    <box border radius="lg" padding={3}>
+      <title size="2xl" color="secondary">~~2~~</title>
+    </box>
+    <title size="lg">+ 7 =</title>
+    <title size="2xl" color="success">18</title>
+  </row>
+  <divider/>
+  <caption>Dano com Ataque Furtivo — 2d6+5</caption>
+  <title size="xl">2 + 5 + 5 = 12</title>
+  <text color="success" weight="medium">Corço abatido.</text>
+</card>
+
+### Aproveitamento da caça
+
+Sobrevivência com Ferramentas de Coureiro:
+
+**2d20kh1+5 → [20, ~~11~~] +5 = 25.**
+
+Você consegue aproveitar bem a caça.
+
+| Material | Quantidade |
+|---|---:|
+| Carne fresca | 11 kg |
+| Pele crua em boas condições | 1 |
+| Galhadas | 2 |
+| Orelhas | 2 |
+| Ossos longos | 2 |
+| Feixe de tendões | 1 |
+| Coração e fígado | 1 de cada |
+
+A flecha disparada não está em condições de ser reutilizada. Restam 23 flechas.
+
+## Dia 10 — 14h00 | Pouso das Três Fontes
+
+Com os materiais da caça acondicionados na Bolsa Porta-Tudo, você chega às primeiras casas do povoado. A fumaça das chaminés sobe sobre os telhados, e o ruído dos martelos da ferraria mistura-se às conversas dos moradores.
+
+É a primeira vez que retorna ao povoado em quatro dias.
+
+Você ainda não conversou com ninguém para saber o que aconteceu durante sua ausência.
+
+---
+
+**[LOG DE MEMÓRIA DA CAMPANHA]**
+
+- **Localização atual:** Entrada do Pouso das Três Fontes, Dia 10, 14h00.
+- **NPCs presentes e relação:** Nenhum em interação direta.
+- **Linha de missão ativa:** Retorno à cidade e restauração de Thûn-Khazad.
+- **Eventos cruciais:** Entrada subterrânea fechada e camuflada; corço abatido; retorno ao povoado.
+- **Condições:** 30/30 PV | CA 16 | 1.325/2.700 XP | 23 flechas | 56 PO, 2 PP e 7 PC.
+
+**Nota do Mestre:** as seis expressões foram efetivamente executadas em Python com o hash do script conferido. Adotei o aproveitamento habitual da caça, sem consumir sal ou vender os materiais. O rendimento, a duração do trajeto e o descarte da flecha foram adjudicados. Nenhum XP adicional pela caça rotineira.
+
+**GitHub:** commit confirmado.
