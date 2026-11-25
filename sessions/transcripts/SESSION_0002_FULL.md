@@ -14093,3 +14093,40 @@ O povoado começa a despertar. Do lado de fora, comerciantes começam a abrir su
 **Nota do Mestre:** mantive o preço do desjejum anterior e defini o horário e o clima do amanhecer. Nenhuma nova rolagem ou XP. A chave do quarto continua em sua posse.
 
 **GitHub:** commit confirmado.
+
+## [459] JOGADOR
+
+-obrigado alda
+tomo um dafé da manhã e vou para a ferraria
+
+## [460] MESTRE
+
+## Dia 11 — 06h55 | Ferraria de Durnak Mão de Ferro
+
+— Disponha, Eron. Tenha um bom dia! — responde Alda.
+
+Depois de terminar o café da manhã, você segue para a ferraria. A névoa começa a se dissipar, e o cheiro de carvão queimado anuncia que Durnak já acendeu a forja.
+
+O anão está organizando suas ferramentas quando percebe sua chegada.
+
+— Bom dia, Eron! Chegou cedo. Não deixaram nenhum recado novo para você. Seus materiais continuam guardados, e a bancada está livre.
+
+Ele aponta para o armário da oficina.
+
+— Veio terminar aquelas flechas?
+
+**Fabricação pendente:** 7 flechas, aproximadamente 2 horas e 40 minutos de trabalho. Os materiais já estão pagos.
+
+---
+
+**[LOG DE MEMÓRIA DA CAMPANHA]**
+
+- **Localização atual:** Ferraria de Durnak, Dia 11, 06h55.
+- **NPCs presentes e relação:** Durnak, amistoso.
+- **Linha de missão ativa:** Restauração de Thûn-Khazad.
+- **Eventos cruciais:** Café da manhã concluído; chegada à ferraria; nenhum recado novo.
+- **Condições:** 30/30 PV | CA 16 | 1.400/2.700 XP | 67 PO, 4 PP e 7 PC | 23 flechas.
+
+**Nota do Mestre:** horário adjudicado; nenhuma nova despesa, rolagem ou XP. Fabricação ainda não iniciada. Chave do quarto permanece em sua posse.
+
+**GitHub:** commit confirmado.
