@@ -405,3 +405,11 @@ date,campaign_id,stage,attempt,expression,six_rolls_faces_in_order,six_attribute
 2026-11-25,ERON-RIVER-ASTERION-001,guidance_forge_conductor_day8,2,1d4,"3","20+3=23",3,true
 2026-11-25,ERON-RIVER-ASTERION-001,smith_dex_forge_valve_disassembly_day8,2,1d20+7,"16","16+7",23,true
 2026-11-25,ERON-RIVER-ASTERION-001,guidance_forge_valve_disassembly_day8,2,1d4,"2","23+2=25",2,true
+2026-11-25,ERON-RIVER-ASTERION-001,audit_unverified_guidance_great_forge_investigation_day8,2,1d4,"4","26+4=30",4,false
+2026-11-25,ERON-RIVER-ASTERION-001,audit_unverified_smith_dex_forge_valve_initial_day8,2,1d20+7,"6","6+7",13,false
+2026-11-25,ERON-RIVER-ASTERION-001,audit_unverified_guidance_forge_valve_initial_day8,2,1d4,"3","13+3=16",3,false
+2026-11-25,ERON-RIVER-ASTERION-001,audit_unverified_tinkers_int_forge_conductor_day8,2,1d20+6,"14","14+6",20,false
+2026-11-25,ERON-RIVER-ASTERION-001,audit_unverified_guidance_forge_conductor_day8,2,1d4,"3","20+3=23",3,false
+2026-11-25,ERON-RIVER-ASTERION-001,audit_unverified_smith_dex_forge_valve_disassembly_day8,2,1d20+7,"16","16+7",23,false
+2026-11-25,ERON-RIVER-ASTERION-001,audit_unverified_guidance_forge_valve_disassembly_day8,2,1d4,"2","23+2=25",2,false
+2026-11-25,ERON-RIVER-ASTERION-001,player_heroic_inspiration_not_applied_day8,2,1d20+7,"19","19+7",26,false
