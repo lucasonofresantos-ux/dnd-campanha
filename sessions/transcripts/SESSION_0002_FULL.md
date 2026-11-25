@@ -15322,3 +15322,27 @@ Você ainda está no posto. Pela porta aberta, dá para ver que restam algumas h
 - **Condições do jogador** · 30/30 PV, CA 16, 1.450/2.700 XP. Saldo de 73 PO, 9 PP e 3 PC.
 
 **Commit confirmado no GitHub.**
+
+## [543] JOGADOR
+
+- Tá vou lá ver isso com ele
+
+## [544] MESTRE
+
+**Dia 12 — aproximadamente 17h25 | Pouso das Três Fontes**
+
+— Certo. Obrigada, Eron — responde Iria.
+
+Você deixa o posto da Vigília e segue até o depósito de Neral e Lessa. O sol começa a desaparecer atrás das montanhas, e o vento frio anuncia mais uma noite de outono.
+
+Ao chegar, você encontra Tavin próximo à entrada do depósito, empilhando algumas caixas de madeira. Ele interrompe o trabalho ao perceber sua aproximação.
+
+— Ah, Eron! Aconteceu alguma coisa?
+
+
+**[LOG DE MEMÓRIA DA CAMPANHA]**
+- Localização Atual: Depósito de Neral e Lessa, Dia 12, 17h25.
+- NPCs Presentes e Relação: Tavin, conhecido da investigação anterior.
+- Linha de Missão Ativa: Apurar a origem e a data da dívida com Berric.
+- Eventos Cruciais Ocorridos: Tavin localizado.
+- Condições do Jogador: 30/30 PV, CA 16, 1.450/2.700 XP; 73 PO, 9 PP e 3 PC.
