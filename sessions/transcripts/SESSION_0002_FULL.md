@@ -13871,3 +13871,41 @@ Harl permanece em silêncio, aguardando. As duas caixas continuam fechadas diant
 **Nota do Mestre:** dados naturais fornecidos por você, sem rerrolagem. A confissão não comprova, por si só, a inexistência de outros envolvidos. Nenhum XP ou pagamento adicional nesta etapa.
 
 **GitHub:** commit confirmado.
+
+## [447] JOGADOR
+
+- eu achando que ia ter algo a mais... Bom vou acompanhar vocês até a aira e vamos levar as caixas também
+
+## [448] MESTRE
+
+## Dia 10 — 17h20 | Posto da Vigília
+
+Um dos vigias anota o nome de Harl e pede que permaneça disponível para esclarecimentos. O outro acomoda as caixas na própria carroça de Berric. Vocês seguem até o posto da Vigília, conduzindo o prisioneiro, sem incidentes pelo caminho.
+
+Iria ergue as sobrancelhas ao vê-los chegar.
+
+— Já voltaram? E ainda trouxeram as mercadorias!
+
+Os vigias relatam a confissão de Berric. Iria autoriza a abertura das caixas: uma contém tecidos dobrados e a outra, ferramentas de ferro. Ela manda chamar Neral para conferir a mercadoria e providenciar sua devolução.
+
+— Parece que resolvemos isso antes do anoitecer. Nem todo ladrão trabalha para uma organização criminosa, Eron. Às vezes é apenas ganância.
+
+Ela sorri discretamente.
+
+— Obrigada pela ajuda. Pode deixar o restante comigo.
+
+**Diligência concluída: +25 XP.** Total: 1.400/2.700 XP.
+
+---
+
+**[LOG DE MEMÓRIA DA CAMPANHA]**
+
+- **Localização atual:** Posto da Vigília, Dia 10, 17h20.
+- **NPCs presentes e relação:** Iria, agradecida; dois vigias aliados; Berric, sob custódia.
+- **Linha de missão ativa:** Restauração de Thûn-Khazad.
+- **Eventos cruciais:** Berric entregue à Vigília; duas caixas recuperadas; restituição ao proprietário pendente.
+- **Condições:** 30/30 PV | CA 16 | 1.400/2.700 XP | 68 PO, 8 PP e 7 PC | 23 flechas.
+
+**Nota do Mestre:** concedidos 25 XP pela diligência posterior à investigação, sem repetir os 50 XP anteriores. Nenhuma remuneração adicional ou rolagem necessária. Horário e procedimentos definidos pelo Mestre.
+
+**GitHub:** commit confirmado.
