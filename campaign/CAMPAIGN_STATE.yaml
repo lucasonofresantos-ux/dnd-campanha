@@ -56,7 +56,7 @@ character:
     armor_training: ["light", "medium", "shields"]
     tinkers_tools_proficient: true
   money:
-    gold: 69
+    gold: 71
     silver: 9
     copper: 7
   inventory_reference: character/ERON_RIVER_LEVEL_01.md
@@ -231,21 +231,21 @@ character:
 campaign_time:
   calendar_system: "Asterion, dias relativos; nenhuma era/ano formal estabelecido"
   day: 11
-  time_of_day: "Dia 11, cerca de 15h40"
+  time_of_day: "Dia 11, cerca de 16h15"
   season: "final do outono"
-  elapsed_game_time: "Dia 11, 15h15–15h40"
+  elapsed_game_time: "Dia 11, 15h40–16h15"
 location:
   continent: Asterion
   polity: "Terras Livres de Avenhar (homebrew), fora de Valdren"
   area: "entroncamento da Estrada do Cascalho, próximo ao Pouso das Três Fontes"
   nearby: "encostas arborizadas da serra cujo monte mais alto é chamado Veyra"
-  exact_position: "Estrada acima do vau junto à carroça reparada."
+  exact_position: "Junto ao quadro de avisos, Pouso das Três Fontes."
   travel_status: "Eron retornou ao Pouso das Três Fontes. Thûn-Khazad: entrada original fechada e camuflada, sensores operacionais, oito unidades, manutenção interna e inventário contínuos, seis Caminhos selados. Nenhuma comunicação remota estabelecida."
 scene:
   id: OPENING-001
-  status: "cart_repaired_day11"
+  status: "cart_paid_at_pouso_day11"
   current_npcs_present: ["Lena", "Filho de Lena"]
-  immediate_visible_situation: "Dia 11, 15h15–15h40. Investigação 18+6 e Orientação 1 = 25. Fenda única no cubo, reparada com Consertar. Roda remontada e testada sob carga na subida, sem novo teste. Lena oferece carona; 2 PO devidas na chegada. Eron ainda não aceitou carona."
+  immediate_visible_situation: "Dia 11, 15h40–16h15. Eron aceita carona e pede notícias. Lena relata lã preta comprida na grade do moinho a uma légua abaixo do vau e conversa com Celina, que perdeu duas ovelhas pretas tosquiadas há três noites. Casa com barco virado como galinheiro acima do moinho. Ao chegar ao pouso Lena paga 2 PO e remove aviso. Saldo 71 PO, 9 PP, 7 PC."
   discovered_traps:
     - location: "Trilha dos Corcos, junto ao riacho"
       state: disarmed_safe_wire_left_at_tree
@@ -290,8 +290,8 @@ world:
 transcription:
   character_creation_history: sessions/transcripts/SESSION_0001_FULL.md
   narrative_session: sessions/transcripts/SESSION_0002_FULL.md
-  last_saved_player_turn: "[483] JOGADOR — autoriza Orientação, reparo e Consertar."
-  last_saved_dm_turn: "[484] MESTRE — cubo reparado e carroça testada."
+  last_saved_player_turn: "[485] JOGADOR — aceita carona e pede notícias."
+  last_saved_dm_turn: "[486] MESTRE — relato do moinho e serviço pago."
 notes:
   - "Primeira resposta de cena será salva literalmente e sem revelar preparativos de dm."
   - "Nunca tratar a aprovação da ficha como XP, nem mudar recursos automaticamente."

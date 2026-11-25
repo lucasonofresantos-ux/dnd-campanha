@@ -589,3 +589,5 @@ Dia10 16h59–17h20: Eron acompanha os dois vigias na escolta de Berric até Iri
 - [476] Dia 11, 14h10–14h35. Investigação na banca 1d20+6 = [5]+6 = 11, inconclusiva. Bina confirma anotação. Na tinturaria rapaz abre a trouxa e entrega caderno azul seco a Eron. Devolução a Nara e recompensa de 1 PO pendentes.
 
 - [478] Dia 11, 14h45. Pela referência ao pacote, destino interpretado como Nara. Eron devolve o caderno, informa o ocorrido e recebe 1 PO. Saldo 69 PO, 9 PP e 7 PC. Filho de Lena junto ao quadro, serviço da carroça disponível por 2 PO.
+
+- [486] Dia 11, 15h40–16h15. Eron aceita carona e pede notícias. Lena relata lã preta comprida na grade do moinho a uma légua abaixo do vau e conversa com Celina, que perdeu duas ovelhas pretas tosquiadas há três noites. Casa com barco virado como galinheiro acima do moinho. Ao chegar ao pouso Lena paga 2 PO e remove aviso. Saldo 71 PO, 9 PP, 7 PC.

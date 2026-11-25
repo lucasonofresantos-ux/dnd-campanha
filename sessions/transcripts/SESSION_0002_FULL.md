@@ -14482,3 +14482,33 @@ Lena atrela a mula e a conduz pela subida. A carroça sai do cascalho molhado, j
 - **Condições do jogador** · 30/30 PV, CA 16, 1.400/2.700 XP. Saldo de **69 PO, 9 PP e 7 PC**. Os dois truques não consumiram espaços de magia.
 
 **Commit confirmado no GitHub.**
+
+## [485] JOGADOR
+
+- aceito sim e se puder me contar oque acontece por aqui ou por onde passou agradeço
+
+### Mestre — andamento
+
+Lena abre espaço no banco e entrega as rédeas ao filho para poder conversar contigo.
+
+## [486] MESTRE
+
+— Pois ontem eu passei no moinho, uma légua pra baixo do vau. O moleiro tava no meio do córrego, com a água na canela, tirando lã dos dentes da grade. Lã preta, comprida. Me mostrou um punhado e perguntou se eu tinha cruzado com algum rebanho. Desde a ponte eu só tinha visto duas cabras, e eram brancas.
+
+A roda dá um solavanco numa pedra. Lena escuta por um instante e, satisfeita com o som, continua.
+
+— Hoje de manhã encontrei a Celina, que lava roupa acima do moinho. Ela perdeu duas ovelhas pretas faz três noites. Eu contei da lã. Sabe o que ela me disse? “As minhas tão tosquiadas desde a última lua.” Fiquei de passar lá amanhã pra saber no que deu. Se algum dia for por aquelas bandas, procura a casa com um barco virado fazendo de galinheiro. É a dela.
+
+Quando vocês chegam ao **Pouso das Três Fontes**, o filho de Lena salta para segurar a mula. Lena tira **2 PO** da bolsa e te paga. Depois vai pessoalmente ao quadro e arranca o aviso da carroça.
+
+— Pronto. Antes que apareça outro querendo consertar a roda boa.
+
+**[LOG DE MEMÓRIA DA CAMPANHA]**
+
+- **Localização atual** · Pouso das Três Fontes, junto ao quadro de avisos. Dia 11, cerca de 16h15.
+- **NPCs presentes e relação** · Lena e o filho, agradecidos pelo reparo e de volta ao pouso.
+- **Linha de missão ativa** · Serviço da carroça concluído e pago. O relato do moinho ficou como pista, sem compromisso assumido.
+- **Eventos cruciais ocorridos** · Lena diz ter visto lã preta na grade do moinho. Segundo Celina, as duas ovelhas desaparecidas estavam tosquiadas.
+- **Condições do jogador** · 30/30 PV, CA 16, 1.400/2.700 XP. Saldo de **71 PO, 9 PP e 7 PC**.
+
+**Commit confirmado no GitHub.**
