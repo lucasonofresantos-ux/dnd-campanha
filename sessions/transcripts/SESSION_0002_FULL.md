@@ -12826,3 +12826,66 @@ Você devolve as moedas, o sinete, o livro, a caixa de correspondências e os do
 **Auditoria:** as seis expressões da investigação anterior não tiveram execução Python comprovada. Os resultados foram classificados como não verificados, sem alterar os acontecimentos ou o XP.
 
 **GitHub:** commit confirmado.
+
+## [403] JOGADOR
+
+A caixa selada vou abrir e examinar
+Pode rolar
+
+## [404] MESTRE
+
+## Dia 10 — 08h10 | Escritório do Guardião
+
+Você reabre o cofre e retira a caixa metálica de correspondências reservadas. O lacre já havia sido rompido durante a investigação anterior, mas, desta vez, você examina cada documento individualmente, comparando datas, assinaturas e anotações.
+
+**Investigação com vantagem e Orientação:**
+
+<card gap={2}>
+  <row align="center" justify="center">
+    <box border radius="lg" padding={3}>
+      <title size="2xl" color="secondary">~~12~~</title>
+    </box>
+    <box border radius="lg" padding={3}>
+      <title size="2xl" color="success">20</title>
+    </box>
+    <title size="lg">+ 6 + 1 =</title>
+    <title size="2xl" color="success">27</title>
+  </row>
+  <text textAlign="center" color="success">Sucesso — 20 natural</text>
+  <caption textAlign="center">Rolagem efetivamente executada em Python.</caption>
+</card>
+
+### Os seis documentos do Conselho
+
+| Território | Conteúdo do relatório |
+|---|---|
+| **Karak-Mith** | Reservas minerais e continuidade da extração. |
+| **Barak-Zirak** | Abastecimento alimentar e distribuição de mantimentos. |
+| **Khaz-Vardun** | Manutenção dos mecanismos e autonomia das instalações locais. |
+| **Dun-Khazâr** | Prontidão das legiões e segurança dos acessos. |
+| **Thoradin** | Movimentação de mercadorias e controle comercial. |
+| **Baraz-Khaz** | Segurança rúnica e verificação das extremidades dos Caminhos. |
+
+Ao comparar as datas e as referências cruzadas, você identifica um detalhe importante: os seis relatórios pertencem ao mesmo ciclo administrativo. O documento de Khaz-Vardun menciona a necessidade de manter os equipamentos essenciais dos territórios funcionando independentemente do Salão Central.
+
+— Guardião — comenta UM-021 —, isso significa que a interrupção dos Caminhos não implicava necessariamente a interrupção das atividades dos seis territórios. Entretanto, não dispomos de registros posteriores que confirmem sua sobrevivência.
+
+A caixa não contém outros objetos nem compartimentos ocultos identificáveis.
+
+## Dia 10 — 08h40
+
+Conforme sua instrução anterior, você devolve os seis documentos à caixa, guarda-a no cofre e fecha a porta. Nenhum objeto ou moeda é recolhido.
+
+---
+
+**[LOG DE MEMÓRIA DA CAMPANHA]**
+
+- **Localização atual:** Escritório do Guardião, primeiro nível.
+- **NPCs presentes:** UM-021, cooperativo.
+- **Linha de missão ativa:** Restauração interna de Thûn-Khazad.
+- **Eventos cruciais:** Identificada a previsão de autonomia técnica dos seis territórios.
+- **Condições:** 30/30 PV | CA 16 | 1.300/2.700 XP.
+
+**Nota do Mestre:** 2d20kh1+6 → [12, 20] → 20+6=26; Orientação 1d4 → [1]; total 27. Execução Python confirmada e hash do script conferido. As informações adicionais dos relatórios e os 30 minutos de investigação são definições do cenário. Não concedi XP novamente pela mesma correspondência. As oito expressões da interação anterior não tiveram execução Python comprovada; sua classificação foi corrigida sem alterar a narrativa ou o XP.
+
+**GitHub:** commit confirmado.
