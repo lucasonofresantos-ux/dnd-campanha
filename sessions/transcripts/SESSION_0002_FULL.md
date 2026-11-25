@@ -9427,3 +9427,128 @@ Você está diante de um depósito que ainda não foi inventariado.
 Foram conjurados Orientação duas vezes e Consertar uma vez. Nenhum espaço de magia ou material pessoal foi consumido.
 
 **GitHub:** commit confirmado; transcrição, ficha, estado, cronologia, XP e rolagens atualizados.
+
+
+## [313] JOGADOR
+
+Vou investigar este lugar pode rolar oque precisar e se tiver algo para arrumar pode rolar até arrumar, e se estiver escuro use luz em alguma coisa para economizar a lanterna
+
+## [314] MESTRE
+
+Vou examinar o depósito, a bancada e o armário rúnico, usando seus truques quando forem úteis e mantendo a lanterna apagada.
+
+## Thûn-Khazad — Dia 7, 16h55
+
+Enquanto UM-017 organiza as ferramentas, você começa a examinar o depósito. A iluminação do recinto funciona, mas algumas prateleiras e compartimentos permanecem escuros. Você conjura **Luz** sobre a fivela do seu cinto, mantendo as mãos livres e economizando óleo.
+
+### 1. Inventário do depósito
+
+<card gap={2}>
+  **Investigação com vantagem + Orientação**
+  <caption>2d20kh1+6 → [12, 1] → 12 mantido, 1 descartado.</caption>
+  <row align="center">
+    <box flex={1}>
+      Orientação: 1d4 → [2]
+
+      12 + 6 + 2
+    </box>
+    <title size="2xl" color="success">20</title>
+  </row>
+</card>
+
+Você encontra um depósito destinado à conservação da infraestrutura anã.
+
+| Material | Quantidade |
+|---|---:|
+| Barras de ferro | 12 |
+| Barras de aço | 6 |
+| Barras de cobre | 8 |
+| Barras de bronze | 4 |
+| Cristais condutores intactos | 5 |
+| Engrenagens de reposição | 18 |
+| Molas de diferentes dimensões | 9 |
+| Conjuntos de ferramentas de ferreiro | 2 |
+| Conjunto de ferramentas de funileiro | 1 |
+| Conjunto de ferramentas de pedreiro | 1 |
+
+Além desses materiais, existem caixas com parafusos, pinos, eixos, vedações e outras pequenas peças. Nada foi retirado do estoque para seu inventário pessoal.
+
+### 2. Armário rúnico
+
+<card gap={2}>
+  **Arcanismo + Orientação**
+  <caption>1d20+6 → [10]+6; 1d4 → [1]</caption>
+  <row align="center">
+    <text>10 + 6 + 1</text>
+    <spacer/>
+    <title size="xl" color="success">17</title>
+  </row>
+</card>
+
+Você identifica um mecanismo de autenticação rúnica no armário reforçado. Ele está alimentado e não apresenta defeitos evidentes.
+
+Uma inscrição em anão indica:
+
+*“Componentes de precisão — acesso restrito ao responsável de manutenção.”*
+
+O armário permanece trancado. Não se trata de um defeito a reparar.
+
+### 3. Segunda bancada de manutenção
+
+<card gap={2}>
+  **Destreza — Ferramentas de Funileiro**
+
+  | Tentativa | Rolagem | Resultado |
+  |---|---|---|
+  | Ajuste do contato | 1d20+7 → [6]+7 = 13 | <text color="danger">Falha</text> |
+  | Substituição da mola do contato | 1d20+7 → [16]+7 = 23 | <text color="success">Sucesso</text> |
+</card>
+
+Você substitui uma pequena mola defeituosa utilizando uma peça do próprio depósito. A bancada volta a funcionar, revelando três serviços disponíveis.
+
+<box theme="dark" background="#182622" radius="lg" padding={3} gap={3}>
+  <title color="#a5e6c2" size="lg">ESTAÇÃO DE MANUTENÇÃO</title>
+  <divider color="#426154"/>
+  {#each [["clipboard-list","Controle de estoque"],["wrench","Reparação de componentes"],["cog","Diagnóstico de unidades de manutenção"]] as item}
+    <row align="center">
+      <icon name={item[0]} color="#79d6a3" size="xl"/>
+      <text color="#d9e6dd">{item[1]}</text>
+    </row>
+  {/each}
+  <divider color="#426154"/>
+  <text color="#79d6a3" textAlign="center">OPERACIONAL</text>
+</box>
+
+UM-017 interrompe sua atividade por um instante e observa a bancada.
+
+— Estação de manutenção disponível. Diagnóstico de unidades autorizado.
+
+Ele volta a organizar as ferramentas.
+
+<row align="center">
+  <box flex={1} gap={1}>
+    <caption>Experiência — recuperação da estação de manutenção</caption>
+    **625/900 XP — Nível 2**
+    <box height={2} radius="full" background="surface-tertiary" clip>
+      <box width="69.44%" height="100%" background="#26925b"/>
+    </box>
+  </box>
+  <title size="xl" color="success">+25 XP</title>
+</row>
+
+**O que você faz?**
+
+---
+
+**[LOG DE MEMÓRIA DA CAMPANHA]**
+
+- **Localização atual:** Depósito de serviço de Thûn-Khazad, Dia 7, 16h55.
+- **NPCs presentes e relação:** UM-017, cooperativo.
+- **Linha de missão ativa:** Explorar o nível de serviço e investigar o acesso ao Salão.
+- **Eventos cruciais:** Estoque identificado; bancada recuperada; armário de acesso restrito localizado.
+- **Condições:** 21/21 PV | CA 16 | Nível 2 | Inspiração Heroica disponível.
+- **Recursos:** 2/2 espaços de magia, 4/4 usos de Magia do Funileiro, 9 rações e 4 frascos de óleo.
+
+Renovei Luz às 16h50, com duração até 17h50. A lanterna continua apagada. Foram usados dois lançamentos de Orientação e uma mola do depósito, restando oito molas no estoque. As seis rolagens foram efetivamente executadas em Python com o script do repositório e hash conferido.
+
+**GitHub:** commit confirmado; transcrição, ficha, estado, cronologia, XP e rolagens atualizados.

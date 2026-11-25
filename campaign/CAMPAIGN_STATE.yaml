@@ -7,7 +7,7 @@ homebrew:
 advancement:
   method: experience_points
   milestones_do_not_grant_levels: true
-  current_total_xp: 600
+  current_total_xp: 625
   next_level_xp: 900
   level_up_pending: false
   level_up_note: "Ladino1/Artífice1; escolhas iniciais de Artífice concluídas em [312]."
@@ -21,7 +21,7 @@ character:
     Ladino: 1
     Artífice: 1
   character_level: 2
-  xp_total: 600
+  xp_total: 625
   xp_next_level: 900
   hp_current: 21
   hp_max: 21
@@ -57,6 +57,7 @@ character:
     copper: 7
   inventory_reference: character/ERON_RIVER_LEVEL_01.md
   illumination:
+    light_cantrip: "Fivela do cinto; renovado Dia7 ~16h50, expira ~17h50; sem concentração."
     hooded_lantern_lit: false
     oil_flasks_spare: 4
     candles: 10
@@ -202,21 +203,21 @@ character:
 campaign_time:
   calendar_system: "Asterion, dias relativos; nenhuma era/ano formal estabelecido"
   day: 7
-  time_of_day: "aproximadamente 15h50 do Dia 7"
+  time_of_day: "aproximadamente 16h55 do Dia 7"
   season: "final do outono"
-  elapsed_game_time: "Dia7 15h05–15h50, investigação e abertura do depósito."
+  elapsed_game_time: "Dia7 15h50–16h55, inventário, exame de armário e recuperação de bancada."
 location:
   continent: Asterion
   polity: "Terras Livres de Avenhar (homebrew), fora de Valdren"
   area: "entroncamento da Estrada do Cascalho, próximo ao Pouso das Três Fontes"
   nearby: "encostas arborizadas da serra cujo monte mais alto é chamado Veyra"
-  exact_position: "Entrada do depósito de serviço de Thûn-Khazad."
-  travel_status: "Porta reparada e aberta; depósito visível, ainda não inventariado."
+  exact_position: "Depósito de serviço de Thûn-Khazad, junto à bancada recuperada."
+  travel_status: "Depósito inventariado parcialmente, bancada operacional, armário restrito fechado."
 scene:
   id: OPENING-001
-  status: "awaiting_player_action_at_service_depot_day7"
+  status: "awaiting_player_action_at_repaired_service_depot_bench_day7"
   current_npcs_present: ["UM-017, construto de manutenção cooperativo"]
-  immediate_visible_situation: "Dia7 15h05–15h50: jogador finalizou escolhas iniciais Artífice: Luz e Orientação eletivos, Mending automático, Curar Ferimentos e Detectar Magia preparadas, Arcanismo+6. Prestidigitação (truque) retirada excepcionalmente durante finalização inicial, nunca utilizada; não altera perícia Prestidigitação nem regra futura de troca em descanso longo. Nova inspeção autorizada do construto com articulações acessíveis e Orientação: Investigação vantagem 2d20kh1+6 [7,16] mantém16+6=22; 1d4 [1] total23, sucesso. Identificou estrutura interna articulada, placas bronze/ferro, cristais rúnicos nas articulações, identificação UM-017, Unidade de manutenção / Serviço de transporte e conservação. Não encontrou outra fratura evidente comprometendo marcha; origem da energia mágica desconhecida. Nova conjuração Orientação para investigação da porta: 2d20kh1+6 [9,12] mantém12+6=18; 1d4 [3] total21, sucesso. Guia metálica inferior rompida, Consertar na peça fraturada, Destreza/Ferreiro 1d20+7 [17]+7=24 sucesso, realinhou mecanismo, porta deslizou lateralmente. UM-017 disse em Anão 'Obstrução eliminada. Retomando tarefa', empurrou carro ao depósito e começou a organizar ferramentas. Recinto ~12x8m iluminado, estantes, caixas, ferramentas antigas, barras de metais, componentes organizados; segunda bancada e armário reforçado rúnico ao fundo. Eron diante do depósito, sem inventariar, coletar, examinar armário ou operar bancada. +25 XP por desbloquear depósito (obstáculo distinto), total600/900 nível2. PV21/21 CA16 inspiração disponível, espaços2/2, Magia Funileiro4/4, 9 rações, 4 óleos, lanterna apagada 110min. Dois usos de Orientação, um Consertar, nenhum espaço gasto, nenhuma concentração remanescente. Nenhum dano ou combate. Execução real container.exec: git hash-object /tmp/eron_307_dice.py = d35af70119bf684ea055619bb10678a1c4b03bbb, test conferiu SHA antes da execução Python. Resultados JSON: 2d20kh1+6 rolls[7,16],kept_indices[1],modifier6,total22; 1d4 rolls[1],kept_indices[0],modifier0,total1; 2d20kh1+6 rolls[9,12],kept_indices[1],modifier6,total18; 1d4 rolls[3],kept_indices[0],modifier0,total3; 1d20+7 rolls[17],kept_indices[0],modifier7,total24. Totais combinados 23 e 21."
+  immediate_visible_situation: "Dia7 15h50–16h55: jogador autorizou investigação do depósito, reparos e novas tentativas viáveis, Luz quando escuro. Conjurou Luz na fivela do cinto para compartimentos escuros, renovada ~16h50, termina ~17h50; lanterna apagada, 110min de óleo carregado, 4 óleos reserva. Investigação com vantagem e Orientação: [12,1] mantém12+6=18, d4[2] total20; inventário local: ferro12 barras, aço6, cobre8, bronze4, cristais condutores intactos5, engrenagens18, molas9 inicialmente, conjuntos de Ferreiro2, Funileiro1, Pedreiro1, caixas de parafusos/pinos/eixos/vedações e peças miúdas sem contagem. Nenhuma coleta pessoal. Armário: Arcanismo [10]+6=16, Orientação d4[1] total17; mecanismo rúnico de autenticação operante, inscrição 'Componentes de precisão — acesso restrito ao responsável de manutenção.' Trancado, não forçado, conteúdo não inspecionado. Segunda bancada: Destreza/Funileiro [6]+7=13 falha no ajuste do contato; nova abordagem substituição de mola defeituosa com peça local [16]+7=23 sucesso; estoque molas passa9→8; bancada operacional, serviços Controle de estoque, Reparação de componentes, Diagnóstico de unidades de manutenção. UM-017 disse em Anão 'Estação de manutenção disponível. Diagnóstico de unidades autorizado.' Voltou a organizar ferramentas; nenhum serviço selecionado. +25XP pela recuperação funcional distinta da segunda bancada, total625/900 nível2. PV21/21 CA16 inspiração disponível, espaços2/2, Magia Funileiro4/4, 9 rações, sem dano, combate, gasto pessoal ou concentração restante. Dois usos de Orientação e Luz (inicial e renovação), sem espaços gastos; nenhuma outra magia. Eron dentro do depósito. Rolagens realmente executadas em container.exec, script reconstruído /tmp/eron_313_dice.py, hash git d35af70119bf684ea055619bb10678a1c4b03bbb conferido antes dos comandos. Ordem efetiva: 2d20kh1+6 rolls[12,1] kept_indices[0] modifier6 total18; 1d4 rolls[2] kept_indices[0] modifier0 total2; 1d20+7 rolls[6] kept_indices[0] modifier7 total13; 1d20+6 rolls[10] kept_indices[0] modifier6 total16; 1d4 rolls[1] kept_indices[0] modifier0 total1; 1d20+7 rolls[16] kept_indices[0] modifier7 total23. Apresentação agrupada por tarefa."
   discovered_traps:
     - location: "Trilha dos Corcos, junto ao riacho"
       state: disarmed_safe_wire_left_at_tree
@@ -261,8 +262,8 @@ world:
 transcription:
   character_creation_history: sessions/transcripts/SESSION_0001_FULL.md
   narrative_session: sessions/transcripts/SESSION_0002_FULL.md
-  last_saved_player_turn: "[311] JOGADOR — finaliza magias, investiga e autoriza reparos."
-  last_saved_dm_turn: "[312] MESTRE — UM-017 identificado, porta recuperada; XP600/900."
+  last_saved_player_turn: "[313] JOGADOR — investiga depósito, autoriza reparos e Luz quando necessário."
+  last_saved_dm_turn: "[314] MESTRE — depósito inventariado parcialmente, bancada recuperada, XP625."
 notes:
   - "Primeira resposta de cena será salva literalmente e sem revelar preparativos de dm."
   - "Nunca tratar a aprovação da ficha como XP, nem mudar recursos automaticamente."

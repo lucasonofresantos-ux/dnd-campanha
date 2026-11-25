@@ -347,3 +347,9 @@ date,campaign_id,stage,attempt,expression,six_rolls_faces_in_order,six_attribute
 2026-11-24,ERON-RIVER-ASTERION-001,skill_check_investigation_depot_door_day7,2,2d20kh1+6,"9,12","12+6",18,true
 2026-11-24,ERON-RIVER-ASTERION-001,guidance_depot_door_day7,2,1d4,3,"18+3=21 (combined check)",3,true
 2026-11-24,ERON-RIVER-ASTERION-001,smith_tools_dexterity_depot_door_repair_day7,2,1d20+7,17,"17+7",24,true
+2026-11-24,ERON-RIVER-ASTERION-001,investigation_service_depot_day7,2,2d20kh1+6,"12,1","12+6",18,true
+2026-11-24,ERON-RIVER-ASTERION-001,guidance_investigation_service_depot_day7,2,1d4,"2","2",2,true
+2026-11-24,ERON-RIVER-ASTERION-001,tinkers_dex_service_bench_contact_day7,2,1d20+7,"6","6+7",13,true
+2026-11-24,ERON-RIVER-ASTERION-001,arcana_service_depot_cabinet_day7,2,1d20+6,"10","10+6",16,true
+2026-11-24,ERON-RIVER-ASTERION-001,guidance_arcana_service_depot_cabinet_day7,2,1d4,"1","1",1,true
+2026-11-24,ERON-RIVER-ASTERION-001,tinkers_dex_service_bench_spring_replacement_day7,2,1d20+7,"16","16+7",23,true
