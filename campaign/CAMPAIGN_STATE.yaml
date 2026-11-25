@@ -203,21 +203,21 @@ character:
 campaign_time:
   calendar_system: "Asterion, dias relativos; nenhuma era/ano formal estabelecido"
   day: 7
-  time_of_day: "aproximadamente 16h57 do Dia 7"
+  time_of_day: "aproximadamente 17h02 do Dia 7"
   season: "final do outono"
-  elapsed_game_time: "Dia7 16h55–16h57, diálogo com UM-017."
+  elapsed_game_time: "Dia7 16h57–17h02, consulta diagnóstica."
 location:
   continent: Asterion
   polity: "Terras Livres de Avenhar (homebrew), fora de Valdren"
   area: "entroncamento da Estrada do Cascalho, próximo ao Pouso das Três Fontes"
   nearby: "encostas arborizadas da serra cujo monte mais alto é chamado Veyra"
   exact_position: "Depósito de serviço de Thûn-Khazad, junto à bancada recuperada."
-  travel_status: "Depósito inventariado parcialmente, bancada operacional, armário restrito fechado."
+  travel_status: "Diagnóstico local consultado; quatro unidades a verificar; armário restrito fechado."
 scene:
   id: OPENING-001
-  status: "awaiting_player_action_at_repaired_service_depot_bench_day7"
+  status: "awaiting_player_action_after_unit_diagnostics_day7"
   current_npcs_present: ["UM-017, construto de manutenção cooperativo"]
-"Dia7 15h50–16h55: jogador autorizou investigação do depósito, reparos e novas tentativas viáveis, Luz quando escuro. Conjurou Luz na fivela do cinto para compartimentos escuros, renovada ~16h50, termina ~17h50; lanterna apagada, 110min de óleo carregado, 4 óleos reserva. Investigação com vantagem e Orientação: [12,1] mantém12+6=18, d4[2] total20; inventário local: ferro12 barras, aço6, cobre8, bronze4, cristais condutores intactos5, engrenagens18, molas9 inicialmente, conjuntos de Ferreiro2, Funileiro1, Pedreiro1, caixas de parafusos/pinos/eixos/vedações e peças miúdas sem contagem. Nenhuma coleta pessoal. Armário: Arcanismo [10]+6=16, Orientação d4[1] total17; mecanismo rúnico de autenticação operante, inscrição 'Componentes de precisão — acesso restrito ao responsável de manutenção.' Trancado, não forçado, conteúdo não inspecionado. Segunda bancada: Destreza/Funileiro [6]+7=13 falha no ajuste do contato; nova abordagem substituição de mola defeituosa com peça local [16]+7=23 sucesso; estoque molas passa9→8; bancada operacional, serviços Controle de estoque, Reparação de componentes, Diagnóstico de unidades de manutenção. UM-017 disse em Anão 'Estação de manutenção disponível. Diagnóstico de unidades autorizado.' Voltou a organizar ferramentas; nenhum serviço selecionado. +25XP pela recuperação funcional distinta da segunda bancada, total625/900 nível2. PV21/21 CA16 inspiração disponível, espaços2/2, Magia Funileiro4/4, 9 rações, sem dano, combate, gasto pessoal ou concentração restante. Dois usos de Orientação e Luz (inicial e renovação), sem espaços gastos; nenhuma outra magia. Eron dentro do depósito. Rolagens realmente executadas em container.exec, script reconstruído /tmp/eron_313_dice.py, hash git d35af70119bf684ea055619bb10678a1c4b03bbb conferido antes dos comandos. Ordem efetiva: 2d20kh1+6 rolls[12,1] kept_indices[0] modifier6 total18; 1d4 rolls[2] kept_indices[0] modifier0 total2; 1d20+7 rolls[6] kept_indices[0] modifier7 total13; 1d20+6 rolls[10] kept_indices[0] modifier6 total16; 1d4 rolls[1] kept_indices[0] modifier0 total1; 1d20+7 rolls[16] kept_indices[0] modifier7 total23. Apresentação agrupada por tarefa. Dia7 16h55–16h57: Eron perguntou a UM-017 se existem outras unidades e o que é o alojamento. UM-017 confirmou outras unidades de manutenção registradas neste nível, estado operacional desconhecido, recomendou estação de diagnóstico; alojamentos destinados a repouso dos trabalhadores, artesãos e responsáveis pelo serviço, com quartos, instalações sanitárias e refeitório, ocupação atual desconhecida; unidades não necessitam alojamentos. Retomou organização de ferramentas. Eron permanece no depósito, sem uso de serviços, sem deslocamento, testes, XP ou consumo. PV21/21 CA16 XP625/900, Luz até17h50. Nenhuma nova criatura encontrada."
+  immediate_visible_situation: "Dia7 16h57–17h02: Eron selecionou diagnóstico de unidades na bancada operacional, sem teste. Cinco registros locais: UM-017 depósito, operacional, locomoção restabelecida; UM-012 instalações sanitárias, falha mecânica, articulação do braço bloqueada; UM-014 oficina de serviço, falha de alimentação, reserva insuficiente; UM-019 refeitório último registro, sem resposta; UM-021 acesso administrativo último registro, sem resposta. Últimos setores conhecidos, não posições exatas garantidas. UM-017 informa que unidades podem ser examinadas no local ou transportadas à estação quando possível. Referência à sinalização dos quatro setores neste nível. Nenhuma outra unidade encontrada fisicamente, examinada ou reparada; nenhum deslocamento, XP, dado, magia ou gasto. Eron na estação do depósito, PV21/21 CA16 XP625/900, espaços2/2, Tinker4/4, Luz até17h50."
   discovered_traps:
     - location: "Trilha dos Corcos, junto ao riacho"
       state: disarmed_safe_wire_left_at_tree

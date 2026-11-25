@@ -9591,3 +9591,55 @@ Ele retorna à organização das ferramentas. Até agora, você não encontrou n
 Nenhuma rolagem necessária para esta conversa.
 
 **GitHub:** commit confirmado; transcrição e estado atualizados.
+
+
+## [317] JOGADOR
+
+Vou ver a estação de diagnóstico se tem mais unidades precisando de manutenção
+
+## [318] MESTRE
+
+## Thûn-Khazad — Dia 7, 17h02
+
+Você seleciona a função de diagnóstico na bancada. Os cristais da superfície se iluminam e, após alguns instantes, aparecem cinco registros de unidades de manutenção vinculadas a este nível.
+
+<box theme="dark" background="#182622" radius="lg" padding={3} gap={3}>
+  <title color="#a5e6c2" size="lg">DIAGNÓSTICO DE UNIDADES</title>
+  <caption color="#a5c4b4">Nível de serviço — 5 unidades registradas</caption>
+  {#each [{id:"UM-017",loc:"Depósito de serviço",status:"Operacional",detail:"Locomoção restabelecida",color:"#79d6a3",ico:"check-circle"},{id:"UM-012",loc:"Instalações sanitárias",status:"Falha mecânica",detail:"Articulação do braço bloqueada",color:"#e6b765",ico:"wrench"},{id:"UM-014",loc:"Oficina de serviço",status:"Falha de alimentação",detail:"Reserva de energia insuficiente",color:"#e6b765",ico:"battery-low"},{id:"UM-019",loc:"Refeitório — último registro",status:"Sem resposta",detail:"Condição atual desconhecida",color:"#a1a9ad",ico:"circle-help"},{id:"UM-021",loc:"Acesso administrativo — último registro",status:"Sem resposta",detail:"Condição atual desconhecida",color:"#a1a9ad",ico:"circle-help"}] as u}
+    <divider color="#426154"/>
+    <row align="start">
+      <icon name={u.ico} color={u.color} size="lg"/>
+      <box flex={1} gap={1}>
+        **{u.id}** — {u.loc}
+        <text size="sm" color={u.color}>{u.status}</text>
+        <caption color="#bacbc2">{u.detail}</caption>
+      </box>
+    </row>
+  {/each}
+</box>
+
+Há **duas unidades com falhas confirmadas e outras duas sem comunicação**. Os registros indicam os últimos setores conhecidos, mas não garantem que elas ainda estejam exatamente nesses locais.
+
+UM-017 aproxima-se da bancada e observa os indicadores.
+
+— Manutenção corretiva necessária. As unidades podem ser examinadas no local ou transportadas à estação, quando possível.
+
+Na lateral do painel, você encontra uma referência à sinalização das instalações sanitárias, da oficina, do refeitório e do acesso administrativo, todos neste mesmo nível.
+
+**O que você faz?**
+
+---
+
+**[LOG DE MEMÓRIA DA CAMPANHA]**
+
+- **Localização atual:** Estação de manutenção do depósito, Dia 7, 17h02.
+- **NPCs presentes e relação:** UM-017, cooperativo.
+- **Linha de missão ativa:** Explorar o nível de serviço; quatro unidades a verificar.
+- **Eventos cruciais:** Cinco unidades registradas no nível de serviço; duas apresentam falhas e duas não respondem.
+- **Condições:** 21/21 PV | CA 16 | 625/900 XP | Nível 2.
+- **Recursos:** 2/2 espaços de magia, 4/4 usos de Magia do Funileiro, Luz ativa até 17h50.
+
+Nenhum teste necessário para consultar o diagnóstico. Nenhuma unidade adicional foi reparada.
+
+**GitHub:** commit confirmado; transcrição e estado atualizados.

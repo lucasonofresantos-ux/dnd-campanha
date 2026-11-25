@@ -134,3 +134,5 @@
 - Atualização: sessão 0002 até [314], Dia7 16h55; depósito inventariado, bancada recuperada, armário restrito fechado, XP625/900; seis dados executados.
 
 - Atualização: sessão 0002 até [316], Dia7 16h57, diálogo com UM-017.
+
+- Atualização: sessão 0002 até [318], Dia7 17h02; diagnóstico de cinco unidades locais consultado; quatro a verificar.
