@@ -230,21 +230,21 @@ character:
 campaign_time:
   calendar_system: "Asterion, dias relativos; nenhuma era/ano formal estabelecido"
   day: 10
-  time_of_day: "aproximadamente 15h00 do Dia 10"
+  time_of_day: "aproximadamente 15h45 do Dia 10"
   season: "final do outono"
-  elapsed_game_time: "Dia10 14h55–15h00, aceitação e detalhes da investigação."
+  elapsed_game_time: "Dia10 15h00–15h45, inspeção e entrevistas iniciais."
 location:
   continent: Asterion
   polity: "Terras Livres de Avenhar (homebrew), fora de Valdren"
   area: "entroncamento da Estrada do Cascalho, próximo ao Pouso das Três Fontes"
   nearby: "encostas arborizadas da serra cujo monte mais alto é chamado Veyra"
-  exact_position: "Posto da Vigília, Pouso das Três Fontes."
+  exact_position: "Depósito de Neral Voss, próximo à Estrada do Cascalho."
   travel_status: "Eron retornou ao Pouso das Três Fontes. Thûn-Khazad: entrada original fechada e camuflada, sensores operacionais, oito unidades, manutenção interna e inventário contínuos, seis Caminhos selados. Nenhuma comunicação remota estabelecida."
 scene:
   id: OPENING-001
-  status: "iria_missing_goods_accepted_day10"
-  current_npcs_present: ["Iria, amistosa e profissional"]
-  immediate_visible_situation: "Dia10 14h55–15h00: Eron aceitou investigar desaparecimento de duas caixas de tecidos e ferramentas de ferro do depósito de Neral Voss junto à Estrada do Cascalho. Última conferência Dia8 fim da tarde; falta notada Dia9 manhã. Iria relata versões divergentes: encarregado Tavin diz ter trancado a porta; ajudante Lessa diz tê-la visto encostada antes de sair. Sem sinais evidentes de arrombamento segundo inspeção inicial. Livro de estoque com Neral; Iria autoriza inspeção e entrevistas, não busca forçada ou prisão, pede relato fundamentado. 8PO após investigação, sem adiantamento; hoje ou amanhã, urgência pela perda de vestígios. Eron ainda no posto, sem iniciar investigação. Nenhum dado, XP, gasto, dano ou mudança de recursos. Detalhes da ocorrência definidos pelo Mestre."
+  status: "iria_missing_goods_initial_inquiry_day10"
+  current_npcs_present: ["Tavin, reservado", "Lessa, colaborativa"]
+  immediate_visible_situation: "Dia10 15h00–15h45: Eron foi ao depósito de Neral Voss, examinou entrada e entorno e conversou separadamente com Tavin e Lessa. Investigação INT+Ferramentas de Ladrão 2d20kh1+6 [16,20] mantido índice1=26; Percepção 1d20+7 [12]=19; Intuição Tavin 1d20+5 [7]=12; Intuição Lessa 1d20+5 [1]=6. Quatro expressões realmente executadas via container.exec, script /tmp/eron_423_dice.py hash d35af70119bf684ea055619bb10678a1c4b03bbb igual ao blob do GitHub. Fechadura e batente sem vestígios de violação, mecanismo funcional; marcas de rodas parcialmente preservadas no barro junto ao acesso lateral, sem individualizar carroça/data. Tavin diz que trancou ao fim do expediente, mostra chave, nega ter autorizado retirada; Lessa diz que viu a porta encostada quando saiu, não viu quem entrou ou retirou caixas. Intuição inconclusiva para ambos; nenhuma culpa demonstrada. Neral não entrevistado, livro de estoque não consultado. Eron no depósito com ambos disponíveis, sem busca forçada ou prisão. Nenhum dano, gasto, magia, pagamento ou XP nesta etapa; recursos inalterados. Decisões locais: duração, CDs, detalhes físicos e falas."
   discovered_traps:
     - location: "Trilha dos Corcos, junto ao riacho"
       state: disarmed_safe_wire_left_at_tree
@@ -269,11 +269,11 @@ scene:
   combat: false
   initiative: []
   rounds: 0
-  dice_rolled: false
+  dice_rolled: true
   xp_awarded: false
   reward_offered_but_not_accepted: null
   herd_contract_status: "Concluído Dia5 ~11h55; Mara confirmou três noites sem perdas, pagou 12 PO; +50 XP de resolução substantiva, reputação gratidão e respeito."
-  investigation_offer: "Aceita Dia10 15h00; 8PO após investigação fundamentada; depósito de Neral Voss, duas caixas desaparecidas; início pendente."
+  investigation_offer: "Aceita Dia10 15h00; 8PO após investigação fundamentada; depósito de Neral Voss, duas caixas desaparecidas; investigação iniciada, inspeção e entrevistas preliminares realizadas."
   iria_future_contact: "Ferraria de Durnak Mão de Ferro; recados para futuras contratações, sem compromisso."
   alda_message_arrangement: "Anotar nomes e motivos declarados por quem procurar Eron, informar somente ausência e retorno sem data, não divulgar destino. Nenhum recado novo."
   investigation_contract_status: "Concluído Dia5 ~15h40, 5 PO e 50 XP recebidos. Patrulha recolheu três laços na encosta, origens específicas não discriminadas. Dia5 20h15 Odran admitiu instalação e concordou em comparecer à guarda no Dia6; penalidade pendente. Patrulha retornou ao povoado às ~21h45; dois vigias encaminhados ao posto com arames."
@@ -289,8 +289,8 @@ world:
 transcription:
   character_creation_history: sessions/transcripts/SESSION_0001_FULL.md
   narrative_session: sessions/transcripts/SESSION_0002_FULL.md
-  last_saved_player_turn: "[421] JOGADOR — aceita e solicita detalhes."
-  last_saved_dm_turn: "[422] MESTRE — detalhes da ocorrência, Dia10 15h00."
+  last_saved_player_turn: "[423] JOGADOR — vai ao depósito, entrevista e autoriza rolagens."
+  last_saved_dm_turn: "[424] MESTRE — inspeção e entrevistas iniciais, Dia10 15h45."
 notes:
   - "Primeira resposta de cena será salva literalmente e sem revelar preparativos de dm."
   - "Nunca tratar a aprovação da ficha como XP, nem mudar recursos automaticamente."
