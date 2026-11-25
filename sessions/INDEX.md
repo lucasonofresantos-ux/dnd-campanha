@@ -262,3 +262,5 @@
 - [534] Dia12 16h10–16h45. Consertar reunifica a flecha: 20 aljava, 10 reserva. Belda paga 6PP por três peles e Nessa 9PC por três pés. Saldo 73PO9PP3PC. Carne ~4kg na mesa de Alda para negociação, oferta de 1PO pendente. Miúdos, orelhas, ossos e tendões com Eron.
 
 - [536] Dia12 16h50. Alda aceita ~4kg carne de lebre por jantar, banho quente e pernoite no quarto 3 até Dia13. Carne entregue e chave com Eron. Sem pagamento em moedas; nenhum serviço ainda usufruído. Miúdos com Eron.
+
+- [538] Dia12 17h05. Eron saiu da hospedagem e chegou à ferraria. Balança funciona na venda de cobre. Durnak entrega bilhete de Iria, que achou outra denúncia de comerciante diferente e quer conferir detalhe da entrega das caixas; disponível no posto hoje até anoitecer ou amanhã após troca da guarda. Sem compromisso assumido.

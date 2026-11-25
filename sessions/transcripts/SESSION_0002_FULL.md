@@ -15236,3 +15236,31 @@ Alda tira a carne da balança, cobre a travessa e te entrega a chave. Da panela 
 - **Condições do jogador** · 30/30 PV, CA 16, 1.450/2.700 XP. Saldo de **73 PO, 9 PP e 3 PC**.
 
 **Commit confirmado no GitHub.**
+
+## [537] JOGADOR
+
+- Tá cedo ainda vou na Ferreira ver se tem novidades
+
+### Mestre — andamento
+
+— Vai lá, Eron. A costela fica guardada — responde Alda.
+
+## [538] MESTRE
+
+Quando você chega à ferraria, Durnak está pesando um pedaço de cobre na balança que você consertou. Ele troca o metal e os pesos de prato. O ponteiro para no mesmo lugar. O vendedor confere, satisfeito, e Durnak conta as moedas na mão dele.
+
+— Dessa vez a gente acertou o preço de primeira. — Durnak guarda os pesos na gaveta. — Ah, Eron, a Iria passou aqui depois do almoço. Deixou recado pra ti, como combinado.
+
+Ele te entrega um bilhete dobrado. Na letra de Iria, lê-se: *“Eron, achei outra denúncia nos registros. O nome do comerciante é diferente, mas tem um detalhe sobre a entrega das caixas que eu queria conferir contigo. Hoje fico no posto até o anoitecer. Se vier amanhã, me procura depois da troca da guarda.”*
+
+— Foi só isso que ela deixou. Quer sentar um pouco? Acabei de passar a vassoura nesse banco.
+
+**[LOG DE MEMÓRIA DA CAMPANHA]**
+
+- **Localização atual** · Ferraria de Durnak, Dia 12, cerca de 17h05.
+- **NPCs presentes e relação** · Durnak Mão de Ferro, parceiro de ofício e contato para os recados da Vigília.
+- **Linha de missão ativa** · Iria pede ajuda para comparar uma denúncia anterior com o caso das caixas. Eron ainda não assumiu compromisso.
+- **Eventos cruciais ocorridos** · Bilhete de Iria recebido. Ela estará no posto até o anoitecer ou amanhã após a troca da guarda.
+- **Condições do jogador** · 30/30 PV, CA 16, 1.450/2.700 XP. Saldo de **73 PO, 9 PP e 3 PC**. Chave do quarto 3 em mãos. Jantar e banho reservados com Alda.
+
+**Commit confirmado no GitHub.**
