@@ -12441,3 +12441,70 @@ A voz do Sistema Central ecoa pelo ambiente:
 **Nota do Mestre:** utilizei Orientação duas vezes, Reparar e Luz, renovada às 18h50 e 19h50. Nenhum espaço de magia, componente de reposição ou uso de Magia do Funileiro foi consumido. Os 50 XP, a porção do jantar e a duração dos reparos são decisões do Mestre. Alimentação energética não equivale à recuperação integral de todos os equipamentos.
 
 **GitHub:** commit confirmado.
+
+## [393] JOGADOR
+
+- então faça o diagnostico e a quanto tempo eu entrei aqui
+
+## [394] MESTRE
+
+## Dia 9 — 20h10 | Salão das Seis Portas
+
+— Iniciando diagnóstico, Guardião.
+
+As runas ao redor das seis portas pulsam sucessivamente. UM-027 acompanha as informações apresentadas no terminal, enquanto o Sistema Central verifica os circuitos locais sem desativar os selos.
+
+### Diagnóstico dos Seis Caminhos
+
+| Destino | Especialidade | Situação |
+|---|---|---|
+| Karak-Mith | Mineração | Selado |
+| Barak-Zirak | Agricultura | Selado |
+| Khaz-Vardun | Engenharia | Selado |
+| Dun-Khazâr | Defesa militar | Selado |
+| Thoradin | Comércio e transporte | Selado |
+| Baraz-Khaz | Conhecimento e runas | Selado |
+
+— Os seis mecanismos locais respondem ao diagnóstico. Nenhuma comunicação com os territórios foi estabelecida. Não posso confirmar as condições das passagens ou a existência de habitantes do outro lado.
+
+### Vigilância e infraestrutura
+
+| Sistema | Diagnóstico |
+|---|---|
+| Geração principal | Operacional |
+| Distribuição pelos sete níveis | Alimentada |
+| Unidades de manutenção | 8 operacionais |
+| Estações de manutenção recuperadas | 3 de 3 |
+| Vigilância exterior | Sem sinal; inspeção física necessária |
+| Reservas estratégicas | Inventário em andamento |
+| Água, saneamento e aquecimento | Inspeção complementar necessária |
+
+— Recomendo inspecionar o circuito de vigilância junto ao vestíbulo de acesso original. UM-027 poderá auxiliá-lo.
+
+### Tempo desde sua chegada
+
+— Segundo a cronologia disponível, Guardião, sua entrada ocorreu aproximadamente às 14h08 do sexto dia. Agora são 20h10 do nono dia.
+
+<card gap={1}>
+  <caption>Tempo dentro de Thûn-Khazad</caption>
+  <title size="2xl">3 dias e 6 horas</title>
+  <caption>Aproximadamente 78 horas, incluindo os períodos de descanso.</caption>
+</card>
+
+— Desde então, não há registro de que tenha retornado à superfície.
+
+---
+
+**[LOG DE MEMÓRIA DA CAMPANHA]**
+
+- **Localização atual:** Salão das Seis Portas, segundo nível, Dia 9, 20h10.
+- **NPCs presentes:** UM-012, UM-027 e Sistema Central.
+- **Linha de missão ativa:** Restaurar Thûn-Khazad.
+- **Eventos cruciais:** Diagnóstico local das seis portas concluído; vigilância exterior ainda indisponível.
+- **Condições:** 30/30 PV | CA 16 | 1.200/2.700 XP.
+
+Nenhuma rolagem necessária para a consulta. O horário de entrada foi conferido na cronologia da campanha. O diagnóstico local não confirma a integridade dos Caminhos nem autoriza sua abertura.
+
+**Auditoria:** a execução Python das seis expressões da interação anterior não está comprovada; corrigi sua classificação, preservando os acontecimentos e o XP.
+
+**GitHub:** commit confirmado.
