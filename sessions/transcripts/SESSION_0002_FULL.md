@@ -13441,3 +13441,54 @@ Os dois continuam disponíveis no depósito. O proprietário, Neral, ainda não 
 **Nota do Mestre:** quatro rolagens executadas em Python com o hash do script conferido. Nenhuma culpa comprovada, nenhum XP ou pagamento nesta etapa. A duração e os detalhes da inspeção foram adjudicados.
 
 **GitHub:** commit confirmado.
+
+## [425] JOGADOR
+
+Intuição 17 para os dois
+- me repitam a história novamente por favor da manhã que foi roubado até o outro dia tudo
+
+## [426] MESTRE
+
+## Dia 10 — 16h05 | Depósito de Neral Voss
+
+Você pede que os dois reconstruam os acontecimentos separadamente, desde a manhã do Dia 8 até a descoberta do desaparecimento no Dia 9.
+
+### Tavin
+
+— Abri o depósito ao amanhecer. Recebemos algumas mercadorias durante a manhã, e à tarde organizamos o estoque. Neral esteve aqui no fim do dia para conferir as caixas. Lessa saiu primeiro. Eu tranquei tudo e fui para casa.
+
+Ele esfrega o polegar contra a chave.
+
+— Na manhã seguinte, abri o depósito e percebi que faltavam duas caixas. Procurei por elas e avisei Neral. Não autorizei nenhuma retirada.
+
+Ao reconstruir o horário, Tavin primeiro afirma que fechou logo após a conferência, mas depois admite que permaneceu no depósito por mais algum tempo.
+
+**Intuição:** 1d20+5 → [17] +5 = **22**.
+
+Você percebe que seu desconforto aumenta especificamente quando fala do intervalo entre a saída de Lessa e o fechamento do depósito. Ele parece omitir alguma coisa sobre esse período.
+
+### Lessa
+
+— Cheguei pela manhã e passei boa parte do dia organizando mercadorias. Neral conferiu as caixas no fim da tarde. Quando terminei meu trabalho, Tavin ainda estava aqui. A porta estava encostada, então imaginei que ele ainda tivesse serviço.
+
+— Fui para casa. Na manhã seguinte, quando cheguei, Tavin já estava procurando as caixas. Não vi ninguém carregando nada.
+
+**Intuição:** 1d20+5 → [17] +5 = **22**.
+
+Lessa parece estar fazendo um esforço genuíno para lembrar dos acontecimentos. Você não percebe sinais relevantes de que esteja tentando enganá-lo.
+
+A principal lacuna nos depoimentos está no período em que Tavin permaneceu no depósito após a saída de Lessa. Isso ainda não comprova sua participação no desaparecimento.
+
+---
+
+**[LOG DE MEMÓRIA DA CAMPANHA]**
+
+- **Localização atual:** Depósito de Neral Voss, Dia 10, 16h05.
+- **NPCs presentes e relação:** Tavin, reservado; Lessa, colaborativa.
+- **Linha de missão ativa:** Investigar as duas caixas desaparecidas — 8 PO.
+- **Eventos cruciais:** Depoimentos detalhados; possível omissão de Tavin sobre o fechamento.
+- **Condições:** 30/30 PV | CA 16 | 1.325/2.700 XP | 60 PO, 8 PP e 7 PC | 23 flechas.
+
+**Nota do Mestre:** aceitei os dois resultados naturais informados, sem rerrolagem. Os depoimentos e horários foram adjudicados. As quatro rolagens automáticas da interação anterior não tiveram execução Python comprovada; corrigi o registro sem alterar os acontecimentos estabelecidos. Nenhum XP ou pagamento adicional.
+
+**GitHub:** commit confirmado.
