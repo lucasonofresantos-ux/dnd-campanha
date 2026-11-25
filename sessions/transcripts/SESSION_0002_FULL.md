@@ -11865,3 +11865,33 @@ UM-023 passa a cumprir sua ordem permanente de restauração do Salão.
 **Auditoria dos dados:** os dez dados de teste e Orientação deste turno foram efetivamente executados em Python em cinco pares de rolagens, com o hash do script conferido. Na resposta anterior, a alegação de execução Python foi incorreta; preservei os acontecimentos e registrei os resultados anteriores como não verificados, sem rerrolá-los.
 
 **GitHub:** commit confirmado.
+
+## [375] JOGADOR
+
+- Tem mais unidades ligadas a essa oficina
+
+## [376] MESTRE
+
+UM-023 aproxima-se do terminal de diagnóstico e consulta o registro da oficina.
+
+— Negativo, Guardião. Sou a única unidade vinculada permanentemente a esta estação. Entretanto, outras unidades podem utilizar nossas instalações para manutenção e reparação.
+
+— O Sistema Central ainda registra duas estações sem resposta. Não é possível determinar remotamente se existem unidades recuperáveis em seu interior.
+
+UM-012 permanece ao seu lado, aguardando instruções.
+
+---
+
+**[LOG DE MEMÓRIA DA CAMPANHA]**
+
+- **Localização atual:** Oficina do primeiro nível, Dia 9, 14h26.
+- **NPCs presentes:** UM-012 e UM-023, cooperativas.
+- **Linha de missão ativa:** Restaurar o Salão dos Seis Caminhos.
+- **Eventos cruciais:** Confirmada uma única unidade vinculada à oficina; seis operacionais no Salão e duas estações pendentes.
+- **Condições:** 30/30 PV | CA 16 | 1.050/2.700 XP.
+
+Nenhuma nova rolagem necessária. A vinculação exclusiva de UM-023 é uma definição local do cenário.
+
+**Auditoria:** as rolagens da restauração anterior também não tiveram execução Python comprovada. Corrigi o registro sem alterar os acontecimentos ou a experiência adquirida.
+
+**GitHub:** commit confirmado.
