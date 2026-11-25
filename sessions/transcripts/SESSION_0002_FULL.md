@@ -7910,3 +7910,61 @@ Sua lanterna possui apenas quinze minutos de óleo restante.
 **Auditoria:** as rolagens do deslocamento anterior não têm execução Python comprovada; registros corrigidos sem alterar a narrativa. Neste turno, utilizei exclusivamente os resultados que você informou.
 
 **GitHub:** commit confirmado; transcrição, XP, ficha, estado, cronologia e rolagens atualizados.
+
+
+## [283] JOGADOR
+
+Eu autorizo
+
+## [284] MESTRE
+
+Vou acionar a distribuição auxiliar, mantendo isolado o ramal danificado do salão superior.
+
+## Monte Veyra — Dia 6, 20h00
+
+Você aciona o comando de autorização. O painel emite um breve som metálico, seguido por uma sequência de estalos no interior da estação.
+
+As inscrições âmbar tornam-se verdes. Os condutores cristalinos começam a emitir uma luminosidade azulada, que se propaga pelas canaletas em direção aos níveis superiores.
+
+Um a um, pequenos cristais embutidos nas paredes da câmara se acendem. Após horas de exploração na escuridão, você finalmente consegue enxergar o ambiente sem depender exclusivamente da lanterna.
+
+<box background="#172521" theme="dark" radius="lg" padding={4} gap={3}>
+  <title size="lg" color="#a5e6c2">SISTEMA DE DISTRIBUIÇÃO AUXILIAR</title>
+  <divider color="#426154"/>
+  {#each [["Geração térmica","Operacional",true],["Distribuição principal da estação","Ativa",true],["Iluminação de manutenção","Ativa",true],["Ramal do salão superior","Isolado",false],["Oficina de manutenção","Sem alimentação",false]] as item}
+    <row align="center">
+      <icon name={item[2]?"check-circle":"alert-triangle"} color={item[2]?"#79d6a3":"#e6b765"}/>
+      <box flex={1} gap={0}>
+        <text color="#d9e6dd">{item[0]}</text>
+      </box>
+      <text color={item[2]?"#79d6a3":"#e6b765"} weight="medium">{item[1]}</text>
+    </row>
+  {/each}
+  <divider color="#426154"/>
+  <text textAlign="center" color="#79d6a3">DISTRIBUIÇÃO AUXILIAR AUTORIZADA</text>
+</box>
+
+Com a iluminação restabelecida, você percebe uma segunda passagem na extremidade da câmara, anteriormente encoberta pela escuridão. Sobre ela, uma inscrição anã:
+
+**“Galeria de inspeção — acesso ao coletor central.”**
+
+A estação permanece em funcionamento. A caixa defeituosa do salão superior continua isolada, impedindo que a energia alcance a oficina que você reparou anteriormente.
+
+Sua lanterna ainda possui dez minutos de autonomia.
+
+**O que você faz?**
+
+---
+
+**[LOG DE MEMÓRIA DA CAMPANHA]**
+
+- **Localização atual:** Estação de conversão térmica, Monte Veyra, Dia 6, 20h00.
+- **NPCs presentes e relação:** Nenhum detectado.
+- **Linha de missão ativa:** Restabelecer a rede de distribuição de energia.
+- **Eventos cruciais:** Distribuição auxiliar autorizada, iluminação da estação recuperada e acesso ao coletor central identificado.
+- **Condições:** 21/21 PV | CA 16 | Nível 2 | 350/900 XP | Inspiração Heroica disponível.
+- **Recursos:** 2/2 espaços de magia, 4/4 usos de Magia do Funileiro; lanterna com 10 minutos de autonomia e 6 frascos de óleo em reserva.
+
+Nenhum teste adicional foi necessário para acionar o equipamento já reparado. Nenhum XP adicional.
+
+**GitHub:** commit confirmado; transcrição, estado e cronologia atualizados.

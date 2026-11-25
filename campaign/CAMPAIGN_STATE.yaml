@@ -197,21 +197,21 @@ character:
 campaign_time:
   calendar_system: "Asterion, dias relativos; nenhuma era/ano formal estabelecido"
   day: 6
-  time_of_day: "aproximadamente 19h55 do Dia 6"
+  time_of_day: "aproximadamente 20h00 do Dia 6"
   season: "final do outono"
-  elapsed_game_time: "Dia6 ~18h45–19h55, diagnóstico, reparo e teste local da estação térmica."
+  elapsed_game_time: "Dia6 ~19h55–20h00, autorização da distribuição auxiliar."
 location:
   continent: Asterion
   polity: "Terras Livres de Avenhar (homebrew), fora de Valdren"
   area: "entroncamento da Estrada do Cascalho, próximo ao Pouso das Três Fontes"
   nearby: "encostas arborizadas da serra cujo monte mais alto é chamado Veyra"
   exact_position: "Estação de conversão térmica do Monte Veyra, junto ao painel de comando."
-  travel_status: "Geração auxiliar operacional, distribuição externa isolada; permanece no painel."
+  travel_status: "Distribuição auxiliar ativa, ramal superior isolado; galeria de inspeção identificada, não percorrida."
 scene:
   id: OPENING-001
-  status: "awaiting_player_action_at_thermal_distribution_panel_day6"
+  status: "awaiting_player_action_at_powered_thermal_station_day6"
   current_npcs_present: []
-  immediate_visible_situation: "Dia6 ~18h45–19h55: jogador informou faces naturais 19 e 20 para investigação e reparos. Investigação 1d20+6 [19]+6=25; Destreza (Ferramentas de Ferreiro) 1d20+7 [20]+7=27. Aceitas sem rerrolagem. Examinou plataforma e componentes acessíveis; identificou uso de calor profundo para gerar energia transmitida por condutores metálicos/cristalinos. Recuperou válvula de circulação travada, acoplamento desalinhado e conexão interrompida no painel; ferramentas Ferreiro/Funileiro, sem peças pessoais consumidas. Testou partida local, estrutura vibrou, condutores iluminaram, painel âmbar; fonte térmica disponível, circulação ativa, geração auxiliar ativa, distribuição externa isolada. Inscrição: Alimentação auxiliar disponível. Aguardando autorização de distribuição. Caixa superior permanece isolada e defeituosa, nenhuma alimentação externa confirmada. +50 XP por reparo e validação de estação auxiliar distinta, total350/900, nível2. PV21/21, CA16, inspiração disponível, espaços2/2, Magia do Funileiro4/4, nenhum feitiço usado. Lanterna 15min até ~20h10, seis óleos reserva; Marca na bolsa. Nenhum combate, dano, criatura detectada, coleta ou deslocamento adicional; permanece no painel. Auditoria [280]: não consta execução Python efetiva das duas rolagens anteriores no histórico disponível de ferramentas; preservar valores narrativos e acrescentar correções false. [282]: faces 19 e 20 informadas pelo jogador; nenhuma execução Python necessária, nenhuma rolagem adicional."
+  immediate_visible_situation: "Dia6 ~19h55–20h00: jogador autorizou distribuição auxiliar; Eron acionou comando de autorização no painel, sem teste novo (operação normal de estação já reparada/testada). Painel verde; condutores azuis luminosos em direção aos níveis superiores; cristais de iluminação de manutenção da câmara acenderam. Painel: geração térmica operacional, distribuição principal da estação ativa, iluminação de manutenção ativa, ramal do salão superior isolado, oficina de manutenção sem alimentação; DISTRIBUIÇÃO AUXILIAR AUTORIZADA. Segunda passagem avistada na extremidade da câmara com inscrição anã 'Galeria de inspeção — acesso ao coletor central.' Não percorrida. Não liberar ramal defeituoso nem presumir alimentação geral ou iluminação de todos os níveis. Eron permanece junto ao painel, PV21/21 CA16 XP350/900 nível2, inspiração disponível, espaços2/2, Magia do Funileiro4/4, Marca na bolsa, lanterna acesa com 10min até ~20h10, seis óleos reserva. Sem XP adicional (comando de estação já premiada), dano, combate, coleta ou gasto adicional além da queima contínua."
   discovered_traps:
     - location: "Trilha dos Corcos, junto ao riacho"
       state: disarmed_safe_wire_left_at_tree
@@ -256,8 +256,8 @@ world:
 transcription:
   character_creation_history: sessions/transcripts/SESSION_0001_FULL.md
   narrative_session: sessions/transcripts/SESSION_0002_FULL.md
-  last_saved_player_turn: "[281] JOGADOR — informa 19 e 20 naturais para investigação e reparo."
-  last_saved_dm_turn: "[282] MESTRE — Investigação25, reparo27; geração auxiliar ativa; +50 XP."
+  last_saved_player_turn: "[283] JOGADOR — autoriza distribuição auxiliar."
+  last_saved_dm_turn: "[284] MESTRE — distribuição auxiliar ativa; galeria ao coletor identificada."
 notes:
   - "Primeira resposta de cena será salva literalmente e sem revelar preparativos de dm."
   - "Nunca tratar a aprovação da ficha como XP, nem mudar recursos automaticamente."

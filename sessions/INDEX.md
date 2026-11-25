@@ -100,3 +100,5 @@
 - Atualização: sessão 0002 até [280], Dia6 18h45; Ladino1/Artífice1, 21 PV, 300XP; estação térmica localizada, equipamento ainda não examinado; escolhas eletivas pendentes; dados atuais verificados.
 
 - Atualização: sessão 0002 até [282], Dia6 19h55; geração auxiliar recuperada e testada, distribuição isolada, XP350/900; dados do jogador 19 e 20 naturais. Auditoria [280].
+
+- Atualização: sessão 0002 até [284], Dia6 20h00; distribuição auxiliar e iluminação da estação ativas, ramal superior isolado; galeria de inspeção identificada. Nenhuma rolagem nova ou XP.
