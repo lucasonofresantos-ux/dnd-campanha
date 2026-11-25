@@ -11226,3 +11226,92 @@ Aceitei excepcionalmente o 19 natural que ainda não havia sido aplicado. Sua In
 **Auditoria:** as quatro rolagens da busca anterior não possuem execução Python comprovada; registrei a correção sem alterar os acontecimentos.
 
 **GitHub:** commit confirmado.
+
+
+## [359] JOGADOR
+
+- vamos lá então e tomara que dê tudo certo
+
+## [360] MESTRE
+
+— Iniciando verificação das proteções — anuncia UM-021.
+
+Você acompanha os indicadores enquanto UM-017 permanece junto ao mecanismo de interrupção de emergência. Gradualmente, a matriz recebe uma pequena parcela da energia geotérmica.
+
+<card gap={2}>
+  <caption>Ferramentas de Funileiro — Teste de segurança</caption>
+  <row align="center">
+    <box flex={1} gap={1}>
+      **1d20 + 6 + 1d4**
+      Dados: [11] + 6 + 3 de Orientação
+    </box>
+    <title size="2xl" color="success">20</title>
+  </row>
+  <text color="success">Sucesso — CD 17</text>
+</card>
+
+— Proteções operacionais. Autorização de partida em modo de manutenção concedida.
+
+Você aciona o mecanismo de ativação.
+
+Inicialmente, sente apenas uma leve vibração sob seus pés. Então, as enormes engrenagens começam a girar. Os condutores se iluminam, as matrizes rúnicas brilham intensamente e um som grave ressoa pelas profundezas da montanha.
+
+Pela primeira vez desde sua chegada, a Grande Forja produz sua própria energia.
+
+<card gap={3}>
+  <row align="center">
+    <icon name="flame" size="2xl" color="#d68b36"/>
+    <title size="lg">GRANDE FORJA DE THÛN-KHAZAD</title>
+  </row>
+  <divider/>
+  {#each ["Captação geotérmica","Matriz de conversão","Reguladores de energia","Proteções de emergência","Geração principal","Conexão com o Núcleo das Runas"] as item}
+    <row align="center">
+      {item}
+      <spacer/>
+      <text color="success" weight="medium" size="sm">Operacional</text>
+    </row>
+  {/each}
+  <divider/>
+  <row>
+    Seis Caminhos
+    <spacer/>
+    <text color="secondary">Selados</text>
+  </row>
+  <row>
+    Distribuição geral
+    <spacer/>
+    <text color="secondary">Aguardando inspeção</text>
+  </row>
+</card>
+
+UM-021 permanece voltado para o painel durante alguns segundos.
+
+— Geração principal restabelecida. Procedimento de recuperação concluído.
+
+Uma nova inscrição surge na interface:
+
+**REGISTRO DE CONTINGÊNCIA DISPONÍVEL NO NÚCLEO DAS RUNAS.**
+
+— Artesão Eron River, o Sistema solicita sua presença no Núcleo.
+
+<row align="center">
+  <box flex={1} gap={1}>
+    <caption>Experiência — Reativação da Grande Forja</caption>
+    **1.000 XP acumulados**
+  </box>
+  <title color="success" size="xl">+50 XP</title>
+</row>
+
+---
+
+**[LOG DE MEMÓRIA DA CAMPANHA]**
+
+- **Localização atual:** Grande Forja, Dia 9, 02h35.
+- **NPCs presentes:** UM-017 e UM-021, cooperativos.
+- **Missão ativa:** Consultar o registro de contingência no Núcleo das Runas.
+- **Eventos cruciais:** Grande Forja reativada com segurança; geração principal restabelecida.
+- **Condições:** 21/21 PV | CA 16 | 1.000 XP | Nível 3 pendente de escolha de classe.
+
+A rolagem e o d4 de Orientação foram executados em Python neste turno, com o hash do script conferido. Nenhum espaço de magia ou Inspiração Heroica foi gasto. A reativação da forja não abriu os Caminhos nem autorizou a distribuição geral.
+
+**GitHub:** commit confirmado.
