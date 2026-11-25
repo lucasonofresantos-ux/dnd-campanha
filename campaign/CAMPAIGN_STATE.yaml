@@ -86,11 +86,11 @@ character:
   guardian_authority: "Guardião dos Seis Caminhos autenticado no Sistema Central, Dia9 02h58, por sucessão extraordinária e aceitação expressa; territórios desconectados não consultados."
   trained_owned_tool: "Ferramentas de Funileiro (propriedade e proficiência Artífice1)"
   ammo:
-    shortbow_arrows_in_quiver: 20
+    shortbow_arrows_in_quiver: 19
     shortbow_arrows_spare: 10
     shortbow_arrows_crafted_total: 20
     shortbow_arrows_fired_unrecovered: 0
-    shortbow_arrows_lost_unusable: 10
+    shortbow_arrows_lost_unusable: 11
     damaged_arrow_recovered_day6: 1
     damaged_arrow_salvage: "Ponta e penas aproveitáveis; ainda montadas na flecha quebrada."
     unrecovered_arrow_location: "Oito flechas perdidas até Dia5; uma inutilizada Dia6, encontrada quebrada; uma inutilizada Dia10 na caça."
@@ -222,9 +222,10 @@ character:
     estimated_added_weight_kg: 16
     preparation_result: "2d20kh1+5 [20,11] mantido20+5=25, execução Python não comprovada, continuidade preservada."
   harvested_roe_deer_day11: "Dia 11, 16h25–19h10. Caça na Trilha dos Corços: Sobrevivência 25, Furtividade 22, ataque crítico 27, dano 16, aproveitamento 21. Flecha recuperada intacta. Pele salgada (1 kg consumido, 1,2 kg restante), duas orelhas, duas galhadas, quatro ossos longos, dois feixes de tendões e dentes em posse. 11 kg de carne incluindo costelar, mais coração e fígado entregues a Alda. Troca quitada, jantar servido ainda não consumido, banho aquecendo e quarto 3 garantido. Restante vendido no Dia12; nada da caça Dia11 em posse."
+  harvested_hares_day12: "Dia12 11h20–16h10. Retorno caçando três lebres. Tentativa inicial falha, nova área produtiva. Três disparos, duas flechas recuperadas, uma quebrada. Restam 19+10 flechas. Três peles e três pés traseiros salgados com 400g; 800g sal restantes. Bolsa: ~4kg carne fresca, 3 corações, 3 fígados, 6 rins, 6 orelhas, ossos, tendões, peles e pés. Todos em posse; nada entregue a Alda."
   salt_supply:
     sacks: 2
-    weight_kg_approx: 1.2
+    weight_kg_approx: 0.8
     purpose: "Conservação de carne, peles e outros materiais; Dia6 gastou 3kg em preparo."
   animal_first_aid:
     wolf_forepaw: "Dia5 ~10h05: exame confirmou cicatrização completa, mobilidade normal, sem dor aparente; cuidados concluídos."
@@ -233,21 +234,21 @@ character:
 campaign_time:
   calendar_system: "Asterion, dias relativos; nenhuma era/ano formal estabelecido"
   day: 12
-  time_of_day: "Dia 12, cerca de 11h20"
+  time_of_day: "Dia 12, cerca de 16h10"
   season: "final do outono"
-  elapsed_game_time: "Dia 12, 11h00–11h20"
+  elapsed_game_time: "Dia 12, 11h20–16h10"
 location:
   continent: Asterion
   polity: "Terras Livres de Avenhar (homebrew), fora de Valdren"
   area: "entroncamento da Estrada do Cascalho, próximo ao Pouso das Três Fontes"
   nearby: "encostas arborizadas da serra cujo monte mais alto é chamado Veyra"
-  exact_position: "Curral de Celina."
-  travel_status: "Retornou do pasto ao curral com Nilo, Brasa e Pinta."
+  exact_position: "Entrada do Pouso das Três Fontes."
+  travel_status: "Retorno do curral de Celina, caçada concluída."
 scene:
   id: OPENING-001
-  status: "sheep_returned_day12"
-  current_npcs_present: ["Celina", "Nilo", "Brasa", "Pinta"]
-  immediate_visible_situation: "Dia12 11h00–11h20. Eron acompanha Nilo na devolução de Brasa e Pinta ao curral. Nilo se explica, admite ter visto Celina procurando as ovelhas e entrega retalho a ela. Ela manda encher cocho e pretende levá-lo a Tomé depois do almoço. Caso encerrado; nenhum XP ou pagamento adicional."
+  status: "hare_hunt_complete_day12"
+  current_npcs_present: []
+  immediate_visible_situation: "Dia12 11h20–16h10. Retorno caçando três lebres. Tentativa inicial falha, nova área produtiva. Três disparos, duas flechas recuperadas, uma quebrada. Restam 19+10 flechas. Três peles e três pés traseiros salgados com 400g; 800g sal restantes. Bolsa: ~4kg carne fresca, 3 corações, 3 fígados, 6 rins, 6 orelhas, ossos, tendões, peles e pés. Todos em posse; nada entregue a Alda."
   discovered_traps:
     - location: "Trilha dos Corcos, junto ao riacho"
       state: disarmed_safe_wire_left_at_tree
@@ -292,8 +293,8 @@ world:
 transcription:
   character_creation_history: sessions/transcripts/SESSION_0001_FULL.md
   narrative_session: sessions/transcripts/SESSION_0002_FULL.md
-  last_saved_player_turn: "[529] JOGADOR — leva as ovelhas e pede que Nilo se explique."
-  last_saved_dm_turn: "[530] MESTRE — devolução a Celina e explicação de Nilo."
+  last_saved_player_turn: "[531] JOGADOR — caça lebres e guarda produtos."
+  last_saved_dm_turn: "[532] MESTRE — três lebres e retorno."
 notes:
   - "Primeira resposta de cena será salva literalmente e sem revelar preparativos de dm."
   - "Nunca tratar a aprovação da ficha como XP, nem mudar recursos automaticamente."

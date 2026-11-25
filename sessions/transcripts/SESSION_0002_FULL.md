@@ -15140,3 +15140,45 @@ Nilo pega o balde de novo. Celina fecha a porteira e pousa a mão sobre a tranca
 - **Condições do jogador** · 30/30 PV, CA 16, 1.450/2.700 XP. Saldo de 73 PO, 2 PP e 4 PC.
 
 **Commit confirmado no GitHub.**
+
+## [531] JOGADOR
+
+- Ah se era isso então está tudo certo, vou indo então
+
+No caminho de volta vou caçar algumas lebres, pode rolar até caçar umas 3 ou 4 e saquear elas, vou salgar a pele e conservar o pé, a carne e os miúdos não vão para a Alda
+
+### Mestre — andamento
+
+Eron se despede de Celina e procura sinais de lebre no caminho de volta. A carne e os miúdos ficam com ele, separados das peles e dos pés.
+
+## [532] MESTRE
+
+— Boa volta, Eron — diz Celina. Quando você dobra a curva, Nilo já está de volta com o primeiro balde de água.
+
+**Você abate três lebres no caminho de volta.** A primeira hora rende só um desvio: as marcas junto ao córrego são antigas e acabam no cascalho. Mais acima, você encontra brotos recém-roídos na borda de um campo de restolho. Ao longo da tarde, aparecem três lebres em pontos diferentes dessa faixa de capim. São três disparos, um por presa. Você recolhe duas flechas inteiras. A terceira está partida.
+
+Com as ferramentas de coureiro, você tira as três peles inteiras, salga cada uma e separa **um pé traseiro de cada lebre** para conservar. Usa cerca de **400 g de sal** nas peles e nos pés. Ao chegar à entrada do Pouso, leva na Bolsa Porta-Tudo **cerca de 4 kg de carne fresca**, três corações, três fígados e seis rins, além das peles, dos pés, de seis orelhas, ossos e tendões aproveitáveis. A carne e os miúdos ficam em embrulhos separados, em tua posse. A salga das peles e dos pés começou hoje.
+
+**Rolagens**
+
+| Ação | Resultado |
+|---|---|
+| Sobrevivência junto ao córrego | `1d20+5` → [1] + 5 = **6** |
+| Furtividade na caçada | `1d20+9` → [14] + 9 = **23** |
+| Sobrevivência na borda do campo | `1d20+5` → [11] + 5 = **16** |
+| Arco curto, primeira lebre | `2d20kh1+7` → [10, 8], mantém 10 → **17** |
+| Arco curto, segunda lebre | `2d20kh1+7` → [11, 15], mantém 15 → **22** |
+| Arco curto, terceira lebre | `2d20kh1+7` → [12, 1], mantém 12 → **19** |
+| Sobrevivência com ferramentas de coureiro | `2d20kh1+5` → [19, 9], mantém 19 + 5 = **24** |
+
+Cada acerto bastou para abater uma lebre mesmo com o dano mínimo do arco.
+
+**[LOG DE MEMÓRIA DA CAMPANHA]**
+
+- **Localização atual** · Entrada do Pouso das Três Fontes, Dia 12, cerca de 16h10.
+- **NPCs presentes e relação** · Celina e Nilo ficaram no curral.
+- **Linha de missão ativa** · Caçada concluída. Toda a caça permanece com Eron.
+- **Eventos cruciais ocorridos** · Três lebres aproveitadas. Três peles e três pés traseiros em conservação. Restam **800 g de sal** e **29 flechas**.
+- **Condições do jogador** · 30/30 PV, CA 16, 1.450/2.700 XP. Saldo de 73 PO, 2 PP e 4 PC.
+
+**Commit confirmado no GitHub.**

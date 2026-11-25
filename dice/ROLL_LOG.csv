@@ -612,3 +612,10 @@ date,campaign_id,stage,attempt,expression,six_rolls_faces_in_order,six_attribute
 2026-11-25,ERON-RIVER-ASTERION-001,gate_guidance_day12,1,1d4,"1","Orientação; total combinado 27; Python executado",1,true
 2026-11-25,ERON-RIVER-ASTERION-001,sheep_tracking_day12,1,1d20+5,"4","4+5; Python executado",9,true
 2026-11-25,ERON-RIVER-ASTERION-001,sheep_listening_day12,1,1d20+7,"6","6+7; Python executado",13,true
+2026-11-25,ERON-RIVER-ASTERION-001,hare_day12_track_creek,1,1d20+5,"1","kept 0; mod 5; Python executado",6,true
+2026-11-25,ERON-RIVER-ASTERION-001,hare_day12_stealth,1,1d20+9,"14","kept 0; mod 9; Python executado",23,true
+2026-11-25,ERON-RIVER-ASTERION-001,hare_day12_track_field,1,1d20+5,"11","kept 0; mod 5; Python executado",16,true
+2026-11-25,ERON-RIVER-ASTERION-001,hare_day12_attack_1,1,2d20kh1+7,"10,8","kept 0; mod 7; Python executado",17,true
+2026-11-25,ERON-RIVER-ASTERION-001,hare_day12_attack_2,1,2d20kh1+7,"11,15","kept 1; mod 7; Python executado",22,true
+2026-11-25,ERON-RIVER-ASTERION-001,hare_day12_attack_3,1,2d20kh1+7,"12,1","kept 0; mod 7; Python executado",19,true
+2026-11-25,ERON-RIVER-ASTERION-001,hare_day12_harvest,1,2d20kh1+5,"19,9","kept 0; mod 5; Python executado",24,true

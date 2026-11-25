@@ -601,3 +601,5 @@ Dia10 16h59–17h20: Eron acompanha os dois vigias na escolta de Berric até Iri
 - [510] Dia12 08h35. Investigação [17]+6 e Orientação [2]=25. Tecido de lã preta com bainha sobre galho entalado retém detritos na abertura. Levantar temporariamente restabelece fluxo e soltar reproduz falha. Tomé testemunha. Origem e remoção pendentes. +25 XP, total 1425.
 
 - [528] Dia12 09h42–11h00. Sobrevivência 9 perde rastro no bebedouro. Percepção 13 localiza pasto pelos balidos. Brasa e Pinta identificadas vivas. Nilo admite ter aberto porteira para retirar cabrita; manta amorteceu barra, rasgou, caiu no córrego quando agarrou cabra. Nilo cercou e cuidou das ovelhas, adiou ir a Celina. Retalho compatível no balde. Devolução pendente. +25 XP =1450.
+
+- [532] Dia12 11h20–16h10. Retorno caçando três lebres. Tentativa inicial falha, nova área produtiva. Três disparos, duas flechas recuperadas, uma quebrada. Restam 19+10 flechas. Três peles e três pés traseiros salgados com 400g; 800g sal restantes. Bolsa: ~4kg carne fresca, 3 corações, 3 fígados, 6 rins, 6 orelhas, ossos, tendões, peles e pés. Todos em posse; nada entregue a Alda.
