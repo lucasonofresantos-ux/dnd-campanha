@@ -212,9 +212,9 @@ character:
 campaign_time:
   calendar_system: "Asterion, dias relativos; nenhuma era/ano formal estabelecido"
   day: 8
-  time_of_day: "aproximadamente 05h46 do Dia 8"
+  time_of_day: "aproximadamente 05h47 do Dia 8"
   season: "final do outono"
-  elapsed_game_time: "Dia8 05h45–05h46, chamada a UM-017."
+  elapsed_game_time: "Dia8 05h46–05h47, diálogo sobre história e registros."
 location:
   continent: Asterion
   polity: "Terras Livres de Avenhar (homebrew), fora de Valdren"
@@ -226,7 +226,7 @@ scene:
   id: OPENING-001
   status: "awaiting_player_action_at_dormitories_day8"
   current_npcs_present: ["UM-017, cooperativo, à porta do dormitório"]
-  immediate_visible_situation: "Dia8 05h45–05h46: Eron perguntou por UM-017 ou unidade administrativa. UM-017, limpando corredor adjacente, ouviu e apareceu à porta do dormitório; confirmou UM-021 no acesso administrativo, função manutenção daquele setor, e perguntou se Eron necessita assistência. Eron permanece no dormitório; UM-017 cooperativo presente, sem mudança de autorização administrativa. Nenhum dado, XP, deslocamento do personagem, magia, gasto, dano ou mudança de inventário. PV21/21 CA16 XP725/900; Luz inativa, 9 rações e ~8,1kg carne salgada em custódia UM-019. Decisão local de cenário: UM-017 continuava limpeza do corredor próximo, ao alcance da voz."
+  immediate_visible_situation: "Dia8 05h46–05h47: Eron perguntou quem poderia explicar o lugar e o ocorrido. UM-017 identificou função do nível de serviço (manutenção da infraestrutura e alojamento dos artesãos), declarou não possuir atribuições históricas ou informação suficiente para explicar ausência de habitantes, indicou administração como responsável por registros oficiais e UM-021 como possível fonte de informações sobre acesso. Nenhum responsável pelo setor se apresentou desde reativação de UM-017. Ofereceu acompanhar Eron a UM-021, aguardando resposta. Não revelou causa de abandono, cronologia, destino dos habitantes ou estrutura remota; existência, integridade e acessibilidade atual dos registros não confirmadas. Decisão local de cenário: atribuições das unidades limitam conhecimento e administração mantinha registros oficiais. Sem deslocamento, rolagem, XP, magia, consumo ou dano; PV21/21 CA16 XP725/900, Luz inativa, UM-017 presente no dormitório."
   discovered_traps:
     - location: "Trilha dos Corcos, junto ao riacho"
       state: disarmed_safe_wire_left_at_tree
@@ -271,8 +271,8 @@ world:
 transcription:
   character_creation_history: sessions/transcripts/SESSION_0001_FULL.md
   narrative_session: sessions/transcripts/SESSION_0002_FULL.md
-  last_saved_player_turn: "[331] JOGADOR — pergunta por UM-017 ou unidade administrativa."
-  last_saved_dm_turn: "[332] MESTRE — UM-017 atende à porta, Dia8 05h46."
+  last_saved_player_turn: "[333] JOGADOR — pergunta quem pode explicar lugar e ocorrido."
+  last_saved_dm_turn: "[334] MESTRE — UM-017 indica administração, Dia8 05h47."
 notes:
   - "Primeira resposta de cena será salva literalmente e sem revelar preparativos de dm."
   - "Nunca tratar a aprovação da ficha como XP, nem mudar recursos automaticamente."

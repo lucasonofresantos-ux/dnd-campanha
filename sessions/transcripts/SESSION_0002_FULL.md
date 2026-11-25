@@ -10174,3 +10174,38 @@ O construto inclina ligeiramente a cabeça.
 - **Condições:** 21/21 PV | CA 16 | 725/900 XP.
 
 **GitHub:** commit confirmado.
+
+
+## [333] JOGADOR
+
+- quero saber quem pode me explicar oque era esse lugar e oque aconteceu
+
+## [334] MESTRE
+
+UM-017 permanece imóvel durante alguns segundos antes de responder em anão:
+
+— Estas instalações pertencem a Thûn-Khazad. Este nível foi destinado à manutenção da infraestrutura e ao alojamento dos artesãos responsáveis por seu funcionamento.
+
+— Minhas atribuições não incluem registros históricos. Não possuo informações suficientes para explicar a ausência dos habitantes.
+
+O construto aponta na direção do acesso administrativo.
+
+— Os registros oficiais eram mantidos pela administração. A unidade 021 poderá fornecer informações sobre o acesso a esses registros.
+
+Após uma breve pausa, acrescenta:
+
+— Nenhum responsável pelo setor apresentou-se desde minha reativação.
+
+— Deseja que eu o acompanhe até a unidade 021?
+
+---
+
+**[LOG DE MEMÓRIA DA CAMPANHA]**
+
+- **Localização atual:** Alojamentos de Thûn-Khazad, Dia 8, 05h47.
+- **NPCs presentes:** UM-017, cooperativo.
+- **Missão ativa:** Investigar a história e o desaparecimento dos habitantes de Thûn-Khazad.
+- **Eventos cruciais:** A administração foi indicada como possível fonte de registros históricos.
+- **Condições:** 21/21 PV | CA 16 | 725/900 XP.
+
+**GitHub:** commit confirmado.

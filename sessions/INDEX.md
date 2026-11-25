@@ -150,3 +150,5 @@
 - Atualização: sessão 0002 até [330], Dia8 05h45; refeição e sono, sem novo descanso longo, XP725/900; auditoria das duas rolagens [328] corrigida.
 
 - Atualização: sessão 0002 até [332], Dia8 05h46; UM-017 presente, XP725/900.
+
+- Atualização: sessão 0002 até [334], Dia8 05h47; UM-017 indica administração como possível fonte histórica, XP725/900.
