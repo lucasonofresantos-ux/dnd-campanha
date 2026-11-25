@@ -13352,3 +13352,35 @@ Ela afasta os registros e indica uma cadeira.
 Rolagem executada em Python, com hash do script conferido. A ausência de um perseguidor identificado não garante que ninguém esteja observando você. A ocorrência, a remuneração e o horário são adjudicações do Mestre; nenhum pagamento ou XP foi concedido.
 
 **GitHub:** commit confirmado.
+
+## [421] JOGADOR
+
+- aceito só me passa os detalhes, se eu não começar hoje começo amanhã a investigação
+
+## [422] MESTRE
+
+## Dia 10 — 15h00 | Posto da Vigília
+
+Iria concorda e retira uma folha de pergaminho debaixo dos registros.
+
+— O comerciante se chama Neral Voss. Ele possui um depósito próximo à Estrada do Cascalho. Duas caixas desapareceram: uma contendo tecidos e a outra, ferramentas de ferro. A última conferência foi feita anteontem, no fim da tarde. O desaparecimento foi percebido ontem pela manhã.
+
+Ela aponta dois nomes anotados no pergaminho.
+
+— Tavin, o encarregado, afirma que trancou o depósito antes de sair. Lessa, a ajudante, diz que viu a porta encostada antes de ir embora. Nossa inspeção inicial não encontrou sinais evidentes de arrombamento. Neral tem o livro de controle das mercadorias. Vou autorizar você a examinar o depósito e conversar com os envolvidos, mas qualquer prisão ou busca forçada deve passar pela Vigília.
+
+— São oito peças de ouro pela investigação. Não precisa necessariamente recuperar as mercadorias, mas preciso de um relato fundamentado. Pode começar amanhã, se preferir. Só tenha em mente que os vestígios não ficam mais frescos com o passar do tempo.
+
+---
+
+**[LOG DE MEMÓRIA DA CAMPANHA]**
+
+- **Localização atual:** Posto da Vigília, Pouso das Três Fontes, Dia 10, 15h00.
+- **NPCs presentes e relação:** Iria, amistosa e profissional.
+- **Linha de missão ativa:** Investigar o desaparecimento das duas caixas; restauração de Thûn-Khazad em andamento.
+- **Eventos cruciais:** Serviço aceito por 8 PO; informações iniciais recebidas.
+- **Condições:** 30/30 PV | CA 16 | 1.325/2.700 XP | 60 PO, 8 PP e 7 PC | 23 flechas.
+
+**Nota do Mestre:** os detalhes da ocorrência foram definidos agora. Nenhuma rolagem, pagamento ou XP; a investigação ainda não começou.
+
+**GitHub:** commit confirmado.
