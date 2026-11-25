@@ -57,7 +57,7 @@ character:
     tinkers_tools_proficient: true
   money:
     gold: 67
-    silver: 5
+    silver: 4
     copper: 7
   inventory_reference: character/ERON_RIVER_LEVEL_01.md
   illumination:
@@ -109,6 +109,7 @@ character:
     private_room: 3
     room_paid: true
     dinner_paid_and_consumed: true
+    breakfast_day11: "Pago 1PP; servido 06h30, consumo ainda não concluído."
     cost_gold: 1
     cost_silver: 3
     temporary_room_key: "Chave do quarto 3 recebida Dia10; em posse, devolver ao sair."
@@ -230,21 +231,21 @@ character:
 campaign_time:
   calendar_system: "Asterion, dias relativos; nenhuma era/ano formal estabelecido"
   day: 11
-  time_of_day: "aproximadamente 04h30 do Dia 11"
+  time_of_day: "aproximadamente 06h30 do Dia 11"
   season: "final do outono"
-  elapsed_game_time: "Dia10 17h45–Dia11 04h30, jantar, banho e descanso longo."
+  elapsed_game_time: "Dia11 04h30–06h30, amanhecer e desjejum."
 location:
   continent: Asterion
   polity: "Terras Livres de Avenhar (homebrew), fora de Valdren"
   area: "entroncamento da Estrada do Cascalho, próximo ao Pouso das Três Fontes"
   nearby: "encostas arborizadas da serra cujo monte mais alto é chamado Veyra"
-  exact_position: "Posto de Descanso de Alda Tress, quarto 3."
+  exact_position: "Salão do Posto de Descanso de Alda Tress."
   travel_status: "Eron retornou ao Pouso das Três Fontes. Thûn-Khazad: entrada original fechada e camuflada, sensores operacionais, oito unidades, manutenção interna e inventário contínuos, seis Caminhos selados. Nenhuma comunicação remota estabelecida."
 scene:
   id: OPENING-001
-  status: "alda_inn_rest_completed_day11"
-  current_npcs_present: []
-  immediate_visible_situation: "Dia10 17h45–Dia11 04h30: Eron terminou jantar, tomou banho quente no quarto3 e dormiu por volta de18h30, acordando04h30 após noite sem interrupção. Descanso longo válido (10h de repouso, último descanso válido Dia9 12h15); PV30/30, slots1º círculo2/2, Tinker4/4, dados de vida3d8, inspiração heroica já disponível, sem condição. Próximo início de descanso longo elegível Dia11 20h30. Jantar e banho inclusos na despesa anterior, chave em posse, saldo67PO5PP7PC, 23 flechas, XP1400/2700. Nenhum novo pagamento, gasto, teste ou XP. Eron acordado no quarto, ainda não deixou hospedagem; horário adjudicado para acordar cedo. Nenhuma notícia da Vigília recebida."
+  status: "alda_breakfast_day11"
+  current_npcs_present: ["Alda, amistosa"]
+  immediate_visible_situation: "Dia11 04h30–06h30: Eron aguardou amanhecer no quarto, desceu ao salão, pediu desjejum e perguntou a Alda se havia recados. Alda serviu dois ovos, pão fresco, queijo e leite quente por 1PP (mesmo preço Dia6); saldo67PO5PP7PC→67PO4PP7PC. Alda informou que ninguém deixou recado desde retorno de Eron; permanece válida combinação de recados da Vigília pela ferraria. Refeição servida, Eron no salão; chave quarto3 em posse, sem saída da hospedagem. Nenhum gasto de ração, teste, XP, dano ou outra alteração. Amanhecer e clima local adjudicados; nenhum novo resultado da Vigília comunicado a Eron."
   discovered_traps:
     - location: "Trilha dos Corcos, junto ao riacho"
       state: disarmed_safe_wire_left_at_tree
@@ -289,8 +290,8 @@ world:
 transcription:
   character_creation_history: sessions/transcripts/SESSION_0001_FULL.md
   narrative_session: sessions/transcripts/SESSION_0002_FULL.md
-  last_saved_player_turn: "[455] JOGADOR — termina jantar, banho e dorme para acordar cedo."
-  last_saved_dm_turn: "[456] MESTRE — descanso longo concluído, Dia11 04h30."
+  last_saved_player_turn: "[457] JOGADOR — aguarda amanhecer, pede café e recados."
+  last_saved_dm_turn: "[458] MESTRE — desjejum e ausência de recados, Dia11 06h30."
 notes:
   - "Primeira resposta de cena será salva literalmente e sem revelar preparativos de dm."
   - "Nunca tratar a aprovação da ficha como XP, nem mudar recursos automaticamente."
