@@ -387,3 +387,21 @@ date,campaign_id,stage,attempt,expression,six_rolls_faces_in_order,six_attribute
 2026-11-25,ERON-RIVER-ASTERION-001,guidance_rune_core_repair_day8,2,1d4,"1","19+1=20 (combined check)",1,true
 2026-11-25,ERON-RIVER-ASTERION-001,tinkers_int_rune_core_calibration_day8,2,1d20+6,"19","19+6",25,true
 2026-11-25,ERON-RIVER-ASTERION-001,guidance_rune_core_calibration_day8,2,1d4,"1","25+1=26 (combined check)",1,true
+2026-11-25,ERON-RIVER-ASTERION-001,audit_unverified_investigation_rune_core_initial_day8,2,2d20kh1+6,"2,1","2+6",8,false
+2026-11-25,ERON-RIVER-ASTERION-001,audit_unverified_guidance_rune_core_initial_day8,2,1d4,"2","8+2=10",2,false
+2026-11-25,ERON-RIVER-ASTERION-001,audit_unverified_investigation_rune_core_schematics_day8,2,2d20kh1+6,"3,3","3+6",9,false
+2026-11-25,ERON-RIVER-ASTERION-001,audit_unverified_guidance_rune_core_schematics_day8,2,1d4,"3","9+3=12",3,false
+2026-11-25,ERON-RIVER-ASTERION-001,audit_unverified_investigation_rune_core_bench_day8,2,2d20kh1+6,"9,7","9+6",15,false
+2026-11-25,ERON-RIVER-ASTERION-001,audit_unverified_guidance_rune_core_bench_day8,2,1d4,"3","15+3=18",3,false
+2026-11-25,ERON-RIVER-ASTERION-001,audit_unverified_smith_dex_rune_core_repair_day8,2,1d20+7,"12","12+7",19,false
+2026-11-25,ERON-RIVER-ASTERION-001,audit_unverified_guidance_rune_core_repair_day8,2,1d4,"1","19+1=20",1,false
+2026-11-25,ERON-RIVER-ASTERION-001,audit_unverified_tinkers_int_rune_core_calibration_day8,2,1d20+6,"19","19+6",25,false
+2026-11-25,ERON-RIVER-ASTERION-001,audit_unverified_guidance_rune_core_calibration_day8,2,1d4,"1","25+1=26",1,false
+2026-11-25,ERON-RIVER-ASTERION-001,player_investigation_great_forge_day8,2,1d20+6,"20","20+6",26,true
+2026-11-25,ERON-RIVER-ASTERION-001,guidance_great_forge_investigation_day8,2,1d4,"4","26+4=30",4,true
+2026-11-25,ERON-RIVER-ASTERION-001,smith_dex_forge_valve_initial_day8,2,1d20+7,"6","6+7",13,true
+2026-11-25,ERON-RIVER-ASTERION-001,guidance_forge_valve_initial_day8,2,1d4,"3","13+3=16",3,true
+2026-11-25,ERON-RIVER-ASTERION-001,tinkers_int_forge_conductor_day8,2,1d20+6,"14","14+6",20,true
+2026-11-25,ERON-RIVER-ASTERION-001,guidance_forge_conductor_day8,2,1d4,"3","20+3=23",3,true
+2026-11-25,ERON-RIVER-ASTERION-001,smith_dex_forge_valve_disassembly_day8,2,1d20+7,"16","16+7",23,true
+2026-11-25,ERON-RIVER-ASTERION-001,guidance_forge_valve_disassembly_day8,2,1d4,"2","23+2=25",2,true

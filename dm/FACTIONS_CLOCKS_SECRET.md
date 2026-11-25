@@ -362,3 +362,6 @@
 
 
 - Dia8 20h10: tempo independente avançou até recuperação parcial do Núcleo das Runas; nenhuma notícia exterior verificada por Eron. Grande Forja inativa e Caminhos selados, não avançar relogios como se rede já estivesse ativa.
+
+
+- Dia8 23h25: tempo independente avançou; geração central ainda inativa, Caminhos selados; nenhum acontecimento externo confirmado por Eron.
