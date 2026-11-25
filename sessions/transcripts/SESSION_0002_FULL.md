@@ -9204,3 +9204,89 @@ O construto ainda não demonstrou ter percebido sua presença. A aproximadamente
 Nenhuma magia foi conjurada, nenhum XP adicional concedido e as duas escolhas restantes continuam abertas.
 
 **GitHub:** commit confirmado; transcrição, ficha, estado, cronologia e rolagens atualizados.
+
+
+## [309] JOGADOR
+
+Vou arrumar ele pode rolar oque precisar e se precisar usar reparo pode usar
+
+## [310] MESTRE
+
+Vou avaliar a reação do construto à sua aproximação e examinar a perna danificada antes de decidir se o truque Consertar é necessário.
+
+## Thûn-Khazad — Dia 7, 15h05
+
+Você sai de trás da esquina e se aproxima com suas ferramentas à mostra. O construto interrompe o movimento, vira a cabeça em sua direção e emite dois breves estalos metálicos.
+
+Ao perceber sua aproximação da perna danificada, ele permanece imóvel e flexiona a articulação, permitindo o acesso.
+
+<card gap={3}>
+  <row align="center">
+    <box flex={1} gap={1}>
+      **Investigação com vantagem**
+      <caption>2d20kh1+6 → [2, 4]</caption>
+      <caption>4 mantido, 2 descartado</caption>
+      <text color="danger" size="sm">Falha — diagnóstico completo</text>
+    </box>
+    <title size="2xl">10</title>
+  </row>
+  <divider/>
+  <row align="center">
+    <box flex={1} gap={1}>
+      **Destreza — Ferramentas de Ferreiro**
+      <caption>1d20+7 → [12] + 7</caption>
+      <text color="success" size="sm">Sucesso — reparo mecânico</text>
+    </box>
+    <title size="2xl" color="success">19</title>
+  </row>
+  <divider/>
+  <row align="center">
+    <icon name="wand-sparkles" color="success" size="xl"/>
+    <box flex={1} gap={1}>
+      **Consertar (Mending)**
+      <caption>1 minuto de conjuração</caption>
+      <caption>Nenhum espaço de magia consumido</caption>
+    </box>
+  </row>
+  <caption>Rolagens executadas em Python, com o script do repositório e hash verificado.</caption>
+</card>
+
+Você não consegue compreender completamente o funcionamento interno do construto, mas identifica uma peça de sustentação fraturada junto ao joelho. Retira o componente, conjura Consertar sobre ele e o reinstala, corrigindo o alinhamento da articulação.
+
+O construto se ergue e movimenta a perna recuperada. Dá alguns passos, agora sem arrastar o pé pelo chão. Seus olhos brilham em âmbar.
+
+Uma voz metálica, grave e pausada, pronuncia em anão:
+
+— Manutenção recebida. Agradecimento ao artesão. Tarefa pendente: transporte de ferramentas ao depósito de serviço. Acesso obstruído.
+
+Ele aponta para a porta emperrada.
+
+O reparo da perna foi bem-sucedido, embora você ainda não conheça a extensão de suas capacidades mágicas.
+
+<row align="center">
+  <box flex={1} gap={1}>
+    <caption>Experiência — recuperação do construto</caption>
+    **575/900 XP — Nível 2**
+    <box height={2} radius="full" background="surface-tertiary" clip>
+      <box width="63.89%" height="100%" background="#26925b"/>
+    </box>
+  </box>
+  <title color="success" size="xl">+25 XP</title>
+</row>
+
+Consertar foi utilizado na peça removida, não diretamente na criatura. O truque repara objetos fisicamente, mas não restaura sua magia nem recupera automaticamente PV do construto. <Cite ref="turn539102search1"/>
+
+**O que você faz?**
+
+---
+
+**[LOG DE MEMÓRIA DA CAMPANHA]**
+
+- **Localização atual:** Galeria do nível de serviço de Thûn-Khazad, Dia 7, 15h05.
+- **NPCs presentes e relação:** Construto de manutenção, cooperativo e agradecido; não subordinado a Eron.
+- **Linha de missão ativa:** Explorar o nível de serviço.
+- **Eventos cruciais:** Perna do construto reparada; depósito de serviço identificado.
+- **Condições:** 21/21 PV | CA 16 | Nível 2 | Inspiração Heroica disponível.
+- **Recursos:** 2/2 espaços de magia, 4/4 usos de Magia do Funileiro, 9 rações e 4 frascos de óleo.
+
+**GitHub:** commit confirmado; transcrição, ficha, estado, cronologia, XP e rolagens atualizados.

@@ -126,3 +126,5 @@
 - Atualização: sessão 0002 até [306], Dia7 14h20; descanso longo concluído, 9 rações, lanterna apagada com 110min; escolhas Artífice pendentes, XP550/900.
 
 - Atualização: sessão 0002 até [308], Dia7 14h40; escolhas parciais Artífice, construto avistado nível de serviço, XP550/900, três rolagens Python verificadas.
+
+- Atualização: sessão 0002 até [310], Dia7 15h05; construto de manutenção recuperou marcha e informou tarefa de transporte; XP575/900, dois testes Python e um truque.
