@@ -15294,3 +15294,31 @@ Iria pousa a pena para te ouvir. Você se lembra de Tavin admitir a dívida part
 - **Condições do jogador** · 30/30 PV, CA 16, 1.450/2.700 XP. Saldo de 73 PO, 9 PP e 3 PC. Jantar, banho e quarto 3 garantidos na hospedagem de Alda.
 
 **Commit confirmado no GitHub.**
+
+## [541] JOGADOR
+
+- Não, não perguntei isso, mas posso ver
+
+### Mestre — andamento
+
+Iria molha a ponta da pena e anota tua resposta ao lado do depoimento de Tavin.
+
+## [542] MESTRE
+
+— Pode, sim. Ele já confiou em você uma vez. Se topar conversar de novo, pergunta quando Berric emprestou o dinheiro e pra quê. Se houve alguém por perto, melhor ainda. E deixa o outro registro aqui comigo por enquanto. Quero ouvir de que data o próprio Tavin se lembra antes de falar nessas três semanas.
+
+Iria fecha o livro mais antigo e deixa o de Neral aberto para a tinta secar.
+
+— Eu começaria pelo depósito do Neral, onde você falou com ele. Se já tiver saído, a Lessa talvez saiba onde encontrá-lo. Quando voltar, me traz as palavras dele, principalmente o que Berric disse na hora de emprestar. Foi o jeito de falar em “acertar uma conta” que me fez abrir esse livro de novo.
+
+Você ainda está no posto. Pela porta aberta, dá para ver que restam algumas horas de luz.
+
+**[LOG DE MEMÓRIA DA CAMPANHA]**
+
+- **Localização atual** · Posto da Vigília, Dia 12, cerca de 17h17.
+- **NPCs presentes e relação** · Iria, contando com Eron para uma nova conversa com Tavin.
+- **Linha de missão ativa** · Apurar a origem e a data da dívida de Tavin com Berric, as palavras usadas no acordo e possíveis testemunhas.
+- **Eventos cruciais ocorridos** · Eron esclareceu que não fez essas perguntas no primeiro depoimento. Iria indicou o depósito de Neral como ponto de partida. O paradeiro atual de Tavin ainda é incerto.
+- **Condições do jogador** · 30/30 PV, CA 16, 1.450/2.700 XP. Saldo de 73 PO, 9 PP e 3 PC.
+
+**Commit confirmado no GitHub.**

@@ -235,9 +235,9 @@ character:
 campaign_time:
   calendar_system: "Asterion, dias relativos; nenhuma era/ano formal estabelecido"
   day: 12
-  time_of_day: "Dia 12, cerca de 17h15"
+  time_of_day: "Dia 12, cerca de 17h17"
   season: "final do outono"
-  elapsed_game_time: "Dia 12, 17h05–17h15"
+  elapsed_game_time: "Dia 12, 17h15–17h17"
 location:
   continent: Asterion
   polity: "Terras Livres de Avenhar (homebrew), fora de Valdren"
@@ -249,7 +249,7 @@ scene:
   id: OPENING-001
   status: "iria_previous_report_day12"
   current_npcs_present: ["Iria"]
-  immediate_visible_situation: "Dia12 17h15. Eron chega ao posto da Vigília. Iria apresenta ocorrência três semanas antes do caso Neral: outro comerciante, quatro caixas recebidas, uma ausente pela manhã, fechadura íntegra. Encarregado declarou que carreteiro sem nome retornou após fechar para acertar uma conta. Iria pergunta se Tavin relatou origem ou data da dívida; detalhes não registrados. Vínculo entre casos incerto."
+  immediate_visible_situation: "Dia12 17h17. Eron confirma que não perguntou sobre a origem/data da dívida e oferece verificar. Iria pede ouvir Tavin sem antecipar registro anterior, colher data, motivo, palavras e eventuais testemunhas. Sugere depósito de Neral e Lessa; paradeiro não confirmado. Eron permanece no posto."
   discovered_traps:
     - location: "Trilha dos Corcos, junto ao riacho"
       state: disarmed_safe_wire_left_at_tree
@@ -294,8 +294,8 @@ world:
 transcription:
   character_creation_history: sessions/transcripts/SESSION_0001_FULL.md
   narrative_session: sessions/transcripts/SESSION_0002_FULL.md
-  last_saved_player_turn: "[539] JOGADOR — procura Iria no posto."
-  last_saved_dm_turn: "[540] MESTRE — Iria compara os depoimentos."
+  last_saved_player_turn: "[541] JOGADOR — oferece verificar a dívida."
+  last_saved_dm_turn: "[542] MESTRE — Iria indica nova conversa com Tavin."
 notes:
   - "Primeira resposta de cena será salva literalmente e sem revelar preparativos de dm."
   - "Nunca tratar a aprovação da ficha como XP, nem mudar recursos automaticamente."
