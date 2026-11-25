@@ -12935,3 +12935,94 @@ Nenhum teste necessário nesta conversa. A inspeção dos sensores está autoriz
 **Correção de registro:** as duas expressões da interação anterior não foram efetivamente executadas em Python, apesar da afirmação anterior. Os registros foram corrigidos, sem modificar os acontecimentos ou o XP.
 
 **GitHub:** commit confirmado.
+
+## [407] JOGADOR
+
+- vamos lá, mas antes quero garantir que ninguém esteja vendo do lado de fora
+Furtividade 18
+Percepção 20
+Natural e se não tiver ninguém vamos arrumar os sensores externos e pode rolar oque precisar até ter arrumado
+
+## [408] MESTRE
+
+### Comentário visível antes da narração
+
+Vou usar os dois resultados que você informou para verificar os arredores da entrada antes de iniciar qualquer reparo externo.
+
+### Resposta
+
+## Dia 10 — 09h10 | Vestíbulo de acesso
+
+Acompanhado de UM-027, você retorna à passagem pela qual entrou em Thûn-Khazad. Utiliza a Marca da Bigorna Velada para abrir discretamente a entrada e observar a mata.
+
+| Teste | Dado informado | Modificador | Total |
+|---|---:|---:|---:|
+| Furtividade | 18 | +9 | **27** |
+| Percepção | 20 natural | +7 | **27** |
+
+O vento movimenta as copas das árvores. Você escuta pássaros e observa pequenos animais entre as raízes. Não identifica pessoas, vigias, acampamentos ou sinais recentes de presença humana nas imediações examinadas.
+
+Não há indícios de que esteja sendo observado.
+
+### Recuperação dos sensores exteriores
+
+UM-027 identifica dois dispositivos de observação ocultos nas rochas próximas à entrada. Seus condutores apresentam deterioração, mas os componentes rúnicos estão preservados.
+
+Com suas ferramentas e o auxílio do construto, você inicia os reparos.
+
+| Teste | Rolagem | Total | Resultado |
+|---|---|---:|---|
+| Investigação | [~~4~~, 15] +6 +2 | 23 | <text color="success">Sucesso</text> |
+| Ferramentas de Funileiro | [~~16~~, 17] +6 | 23 | <text color="success">Sucesso</text> |
+| Arcanismo | [~~2~~, 14] +6 +4 | 24 | <text color="success">Sucesso</text> |
+
+Orientação forneceu os bônus de +2 e +4. Os cinco dados de teste e Orientação foram gerados pelo script Python do repositório (cinco expressões, incluindo as rolagens com vantagem).
+
+## Dia 10 — 10h05 | Vigilância recuperada
+
+Após reparar os condutores e calibrar os dispositivos, você retorna ao vestíbulo e fecha a passagem.
+
+— Comunicação estabelecida — informa UM-027.
+
+A voz do Sistema Central manifesta-se pelo terminal de manutenção:
+
+— Guardião, os dispositivos exteriores estão transmitindo novamente. Nenhuma presença humana detectada na área monitorada.
+
+<card gap={3}>
+  <title>Diagnóstico de segurança</title>
+  {#each ["Sensor de observação da entrada","Sensor de observação da aproximação","Transmissão ao Sistema Central","Monitoramento contínuo"] as item}
+    <row align="center">
+      <icon name="check-circle-filled" color="success" size="lg"/>
+      <box flex={1}>{item}</box>
+      <text color="success" size="sm">Operacional</text>
+    </row>
+  {/each}
+  <divider/>
+  <row align="center">
+    <icon name="lock" color="secondary"/>
+    Entrada original fechada
+  </row>
+  <row align="center">
+    <icon name="lock" color="secondary"/>
+    Seis Caminhos selados
+  </row>
+  <caption>A vigilância abrange as imediações da entrada, não toda a montanha.</caption>
+</card>
+
+— Durante sua ausência, poderei registrar movimentos dentro do campo de observação e informá-lo quando retornar.
+
+**+25 XP pela recuperação do sistema de vigilância.**
+
+---
+
+**[LOG DE MEMÓRIA DA CAMPANHA]**
+
+- **Localização atual:** Vestíbulo original de Thûn-Khazad, Dia 10, 10h05.
+- **NPCs presentes:** UM-027 e Sistema Central, cooperativos.
+- **Linha de missão ativa:** Preparar o retorno à cidade e manter a restauração interna.
+- **Eventos cruciais:** Dois sensores recuperados e conectados; acesso original fechado; nenhuma presença humana detectada.
+- **Condições:** 30/30 PV | CA 16 | 1.325/2.700 XP | 2/2 espaços de magia | 4/4 Magia do Funileiro.
+
+**Nota do Mestre:** os dois d20 informados por você foram aceitos sem rerrolagem. As cinco expressões adicionais (oito faces de dados) foram efetivamente executadas em Python, com hash do script conferido. Utilizei Reparar nos condutores não mágicos e Orientação duas vezes. Nenhuma peça de reposição ou recurso limitado foi consumido. A quantidade de sensores, o alcance local, as avarias, a duração e os 25 XP foram definidos pelo Mestre. A ausência de pessoas detectadas não garante que toda a região esteja deserta.
+
+**GitHub:** commit confirmado.
