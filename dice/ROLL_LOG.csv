@@ -353,3 +353,12 @@ date,campaign_id,stage,attempt,expression,six_rolls_faces_in_order,six_attribute
 2026-11-24,ERON-RIVER-ASTERION-001,arcana_service_depot_cabinet_day7,2,1d20+6,"10","10+6",16,true
 2026-11-24,ERON-RIVER-ASTERION-001,guidance_arcana_service_depot_cabinet_day7,2,1d4,"1","1",1,true
 2026-11-24,ERON-RIVER-ASTERION-001,tinkers_dex_service_bench_spring_replacement_day7,2,1d20+7,"16","16+7",23,true
+
+2026-11-24,ERON-RIVER-ASTERION-001,investigation_um012_day7,2,2d20kh1+6,"17,3","17+6",23,true
+2026-11-24,ERON-RIVER-ASTERION-001,guidance_um012_day7,2,1d4,"4","4",4,true
+2026-11-24,ERON-RIVER-ASTERION-001,smith_dex_um012_day7,2,1d20+7,"19","19+7",26,true
+2026-11-24,ERON-RIVER-ASTERION-001,investigation_um014_day7,2,2d20kh1+6,"18,10","18+6",24,true
+2026-11-24,ERON-RIVER-ASTERION-001,guidance_um014_day7,2,1d4,"3","3",3,true
+2026-11-24,ERON-RIVER-ASTERION-001,tinkers_int_um014_contact_alignment_day7,2,1d20+6,"2","2+6",8,true
+2026-11-24,ERON-RIVER-ASTERION-001,tinkers_int_um014_contact_replacement_day7,2,1d20+6,"1","1+6",7,true
+2026-11-24,ERON-RIVER-ASTERION-001,tinkers_int_um014_crystal_replacement_day7,2,1d20+6,"17","17+6",23,true

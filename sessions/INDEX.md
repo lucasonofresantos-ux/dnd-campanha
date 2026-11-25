@@ -136,3 +136,5 @@
 - Atualização: sessão 0002 até [316], Dia7 16h57, diálogo com UM-017.
 
 - Atualização: sessão 0002 até [318], Dia7 17h02; diagnóstico de cinco unidades locais consultado; quatro a verificar.
+
+- Atualização: sessão 0002 até [320], Dia7 18h55; UM-012 e UM-014 operacionais, 675/900 XP, oito rolagens executadas.

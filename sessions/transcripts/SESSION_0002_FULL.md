@@ -9643,3 +9643,120 @@ Na lateral do painel, você encontra uma referência à sinalização das instal
 Nenhum teste necessário para consultar o diagnóstico. Nenhuma unidade adicional foi reparada.
 
 **GitHub:** commit confirmado; transcrição e estado atualizados.
+
+
+## [319] JOGADOR
+
+- Me leve até às duas vamos concertar elas
+Pode rolar oque precisar e usar também concertar se for preciso e orientação até às duas estarem concertadas
+
+## [320] MESTRE
+
+Vou acompanhar UM-017 até as duas unidades com falhas confirmadas, usando Orientação e Consertar quando forem aplicáveis aos reparos.
+
+## Thûn-Khazad — Dia 7, 17h35
+
+— Solicitação de manutenção aceita. Acompanhe-me, artesão.
+
+UM-017 abandona temporariamente a organização do depósito e conduz você pelos corredores do nível de serviço.
+
+### UM-012 — Instalações sanitárias
+
+Vocês chegam a uma ampla instalação com lavatórios de pedra, tubulações de bronze e compartimentos individuais. Próximo a uma das tubulações, um construto está imóvel, com o braço esquerdo dobrado e a articulação bloqueada.
+
+<card gap={2}>
+  **Investigação com vantagem + Orientação**
+  <caption>2d20kh1+6 → [17, 3] → 17 mantido</caption>
+  <row align="center">
+    <box flex={1}>17 + 6 + 4 (Orientação: 1d4 → [4])</box>
+    <title size="2xl" color="success">27</title>
+  </row>
+  <divider/>
+  **Destreza — Ferramentas de Ferreiro**
+  <row align="center">
+    <box flex={1}>1d20+7 → [19] + 7</box>
+    <title size="2xl" color="success">26</title>
+  </row>
+</card>
+
+Você identifica uma pequena fratura no anel de sustentação do cotovelo. Remove o componente, utiliza Consertar e reinstala a peça, liberando a articulação.
+
+O construto estende o braço, abre e fecha a mão e gira o pulso.
+
+— Unidade UM-012. Capacidade mecânica restabelecida. Agradecimento registrado.
+
+UM-012 retoma a inspeção das tubulações sanitárias.
+
+<row align="center">
+  <icon name="check-circle" color="success" size="lg"/>
+  **UM-012 — Operacional**
+</row>
+
+### UM-014 — Oficina de serviço
+
+UM-017 conduz você até outra oficina, diferente daquela que recuperou nos níveis inferiores. Encontram UM-014 sentado junto a uma estação de alimentação, com os olhos fracamente iluminados.
+
+**Investigação com vantagem + Orientação:** 2d20kh1+6 → [18, 10] → 18 mantido; 1d4 → [3]. Total: **18 + 6 + 3 = 27.**
+
+O circuito de recarga apresenta falhas. Você começa a trabalhar.
+
+| Inteligência — Ferramentas de Funileiro | Rolagem | Resultado |
+|---|---|---|
+| Realinhamento dos contatos | 1d20+6 → [2]+6 = 8 | Falha |
+| Substituição de contato danificado | 1d20+6 → [1]+6 = 7 | Falha |
+| Diagnóstico em bancada e substituição do cristal condutor | 1d20+6 → [17]+6 = 23 | Sucesso |
+
+As duas primeiras tentativas não resolvem o problema. Com auxílio de UM-017, você transporta o componente de alimentação até a bancada do depósito. Ali, identifica um cristal que perde a capacidade de conduzir energia sob carga. Substitui-o por um dos cristais intactos do estoque e reinstala o componente.
+
+A estação volta a recarregar a unidade. Seus olhos ganham intensidade e, depois de alguns minutos, UM-014 se levanta.
+
+— Alimentação estabilizada. Retomando atividades de manutenção.
+
+## Dia 7, 18h55 — Situação das unidades
+
+<box background="#182622" theme="dark" radius="lg" padding={3} gap={2}>
+  {#each [["UM-012","Instalações sanitárias","Operacional",true],["UM-014","Oficina de serviço","Operacional",true],["UM-017","Acompanhando Eron","Operacional",true],["UM-019","Refeitório","Sem resposta",false],["UM-021","Acesso administrativo","Sem resposta",false]] as u}
+    <row align="center">
+      <icon name={u[3]?"check-circle":"circle-help"} color={u[3]?"#79d6a3":"#a1a9ad"}/>
+      <box flex={1} gap={1}>
+        **{u[0]}**
+        <caption color="#bacbc2">{u[1]}</caption>
+      </box>
+      <text color={u[3]?"#79d6a3":"#a1a9ad"} size="sm">{u[2]}</text>
+    </row>
+    <divider color="#426154"/>
+  {/each}
+  <text color="#79d6a3" textAlign="center">3 de 5 unidades com funcionamento confirmado</text>
+</box>
+
+UM-017 volta-se para você.
+
+— Manutenção das unidades 012 e 014 concluída. Permanecem duas unidades sem comunicação.
+
+<row align="center">
+  <box flex={1} gap={1}>
+    <caption>Experiência — recuperação de duas unidades</caption>
+    **675/900 XP — Nível 2**
+    <box height={2} radius="full" background="surface-tertiary" clip>
+      <box width="75%" height="100%" background="#26925b"/>
+    </box>
+  </box>
+  <title color="success" size="xl">+50 XP</title>
+</row>
+
+**O que você faz?**
+
+---
+
+**[LOG DE MEMÓRIA DA CAMPANHA]**
+
+- **Localização atual:** Oficina de serviço, Thûn-Khazad, Dia 7, 18h55.
+- **NPCs presentes e relação:** UM-017 e UM-014, cooperativos; UM-012 nas instalações sanitárias.
+- **Linha de missão ativa:** Explorar o nível de serviço; localizar as duas unidades sem comunicação.
+- **Eventos cruciais:** UM-012 e UM-014 recuperadas; três unidades operacionais.
+- **Condições:** 21/21 PV | CA 16 | Nível 2 | Inspiração Heroica disponível.
+- **Recursos:** 2/2 espaços de magia, 4/4 usos de Magia do Funileiro, 9 rações e 4 frascos de óleo.
+
+Foram utilizados dois lançamentos de Orientação e um de Consertar. Renovei Luz às 18h40 para trabalhar no interior do componente, com duração até 19h40. O estoque do depósito perdeu um cristal condutor e um contato de reposição; restam quatro cristais intactos. As oito rolagens foram realmente executadas em Python, e as falhas foram mantidas. Nenhum espaço de magia foi gasto.
+
+**GitHub:** commit confirmado; transcrição, ficha, estado, cronologia, XP e rolagens atualizados.
