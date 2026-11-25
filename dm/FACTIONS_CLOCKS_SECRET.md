@@ -378,3 +378,5 @@ Preparação do Mestre antes de apresentar detalhes em [422]. Ocorrência não r
 - Dia10 16h05: reconstrução detalhada nova abordagem, Intuição22 em ambos supera CDs14/12. Tavin hesita no intervalo de saída de Lessa e fechamento, sem confessar ou nomear Berric; Lessa mantém relato genuíno. Não revelar verdade por Intuição. Sem mudança comprovada no relógio de Berric. Auditoria [424]: quatro rolagens não comprovadas, correções false; narrativa preservada.
 
 - Dia10 16h08: Persuasão10 falha CD15 (admissão parcial) e não atinge limiar20 (revelação do cúmplice), definidos antes do sorteio. Tavin mantém mentira e reage defensivamente, sem sair ainda; nenhuma notícia a Berric confirmada. Sem XP ou mudança de relógio além do tempo transcorrido.
+
+- Dia10 16h13: nova abordagem com possibilidade de colaboração, Persuasão23 ultrapassa limiar20, Intuição22 supera CD14. Tavin confessa participação e identifica Berric, motivo dívida; localização da carga não conhecida por Tavin. Pede registro da cooperação. Não há alerta a Berric confirmado; relógio de partida inalterado. Auditoria [428]: rolagem não comprovada, correção false sem modificar fatos.
