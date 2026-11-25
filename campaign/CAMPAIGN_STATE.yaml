@@ -231,21 +231,21 @@ character:
 campaign_time:
   calendar_system: "Asterion, dias relativos; nenhuma era/ano formal estabelecido"
   day: 11
-  time_of_day: "Dia 11, cerca de 15h15"
+  time_of_day: "Dia 11, cerca de 15h40"
   season: "final do outono"
-  elapsed_game_time: "Dia 11, 14h45–15h15"
+  elapsed_game_time: "Dia 11, 15h15–15h40"
 location:
   continent: Asterion
   polity: "Terras Livres de Avenhar (homebrew), fora de Valdren"
   area: "entroncamento da Estrada do Cascalho, próximo ao Pouso das Três Fontes"
   nearby: "encostas arborizadas da serra cujo monte mais alto é chamado Veyra"
-  exact_position: "Saída do vau do córrego, junto à carroça de Lena."
+  exact_position: "Estrada acima do vau junto à carroça reparada."
   travel_status: "Eron retornou ao Pouso das Três Fontes. Thûn-Khazad: entrada original fechada e camuflada, sensores operacionais, oito unidades, manutenção interna e inventário contínuos, seis Caminhos selados. Nenhuma comunicação remota estabelecida."
 scene:
   id: OPENING-001
-  status: "cart_at_ford_day11"
+  status: "cart_repaired_day11"
   current_npcs_present: ["Lena", "Filho de Lena"]
-  immediate_visible_situation: "Dia 11, 14h45–15h15. Filho de Lena guia Eron ao vau. Lena calçou outra roda e soltou a mula. Roda traseira inclinada para dentro, marca na caixa e lasca junto ao cubo. Eron avalia viabilidade. Investigação +6 pendente. 2 PO na chegada ao pouso."
+  immediate_visible_situation: "Dia 11, 15h15–15h40. Investigação 18+6 e Orientação 1 = 25. Fenda única no cubo, reparada com Consertar. Roda remontada e testada sob carga na subida, sem novo teste. Lena oferece carona; 2 PO devidas na chegada. Eron ainda não aceitou carona."
   discovered_traps:
     - location: "Trilha dos Corcos, junto ao riacho"
       state: disarmed_safe_wire_left_at_tree
@@ -290,8 +290,8 @@ world:
 transcription:
   character_creation_history: sessions/transcripts/SESSION_0001_FULL.md
   narrative_session: sessions/transcripts/SESSION_0002_FULL.md
-  last_saved_player_turn: "[481] JOGADOR — segue o guia para avaliar a carroça."
-  last_saved_dm_turn: "[482] MESTRE — chegada ao vau e inspeção visual."
+  last_saved_player_turn: "[483] JOGADOR — autoriza Orientação, reparo e Consertar."
+  last_saved_dm_turn: "[484] MESTRE — cubo reparado e carroça testada."
 notes:
   - "Primeira resposta de cena será salva literalmente e sem revelar preparativos de dm."
   - "Nunca tratar a aprovação da ficha como XP, nem mudar recursos automaticamente."

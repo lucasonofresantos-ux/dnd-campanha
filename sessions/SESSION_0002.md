@@ -329,3 +329,5 @@ Auditoria [270]: no histórico não consta execução efetiva Python para Percep
 - [480] Dia 11, 14h45. Eron pergunta onde está a carroça. Filho de Lena indica descida à direita junto ao salgueiro partido na Estrada do Cascalho, meia hora até o vau. Relata roda torta ao sair da água e se oferece como guia. Nenhuma partida ou aceitação.
 
 - [482] Dia 11, 14h45–15h15. Filho de Lena guia Eron ao vau. Lena calçou outra roda e soltou a mula. Roda traseira inclinada para dentro, marca na caixa e lasca junto ao cubo. Eron avalia viabilidade. Investigação +6 pendente. 2 PO na chegada ao pouso.
+
+- [484] Dia 11, 15h15–15h40. Investigação 18+6 e Orientação 1 = 25. Fenda única no cubo, reparada com Consertar. Roda remontada e testada sob carga na subida, sem novo teste. Lena oferece carona; 2 PO devidas na chegada. Eron ainda não aceitou carona.

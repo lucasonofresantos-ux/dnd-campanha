@@ -14452,3 +14452,33 @@ Para descobrir de onde saiu a lasca e avaliar o reparo, **role Inteligência (In
 - **Condições do jogador** · 30/30 PV, CA 16, 1.400/2.700 XP. Saldo de 69 PO, 9 PP e 7 PC.
 
 **Commit confirmado no GitHub.**
+
+## [483] JOGADOR
+
+Role com orientação para analisar e também pode rolar oque precisar para arrumar e se der use concertar para acelerar o trabalho
+
+### Mestre — andamento
+
+Eron usa Orientação antes de examinar a roda. Vou rolar o teste e resolver o reparo conforme o que ele encontrar.
+
+## [484] MESTRE
+
+**Investigação com Orientação** · `1d20+6` → [18] + 6 = 24. `1d4` → [1]. **Total 25.**
+
+Você limpa a graxa em volta da lasca e pede a Lena que balance a roda de leve. A ponta do eixo fica firme. É no cubo que uma fenda abre e fecha sob a pressão. A lasca ainda está presa por uma ponta e encaixa na borda da fenda. Os raios estão firmes. Dá para salvar a roda ali mesmo.
+
+Com a carroça calçada, Lena te ajuda a erguer e apoiar o eixo. Você retira a roda, alinha as bordas da madeira e usa **Consertar**. Ao fim de um minuto, passa a unha onde estava a fenda: a madeira está lisa. Você remonta a roda e a gira à mão. Agora ela passa pela marca na caixa com um dedo de folga a cada volta.
+
+Lena atrela a mula e a conduz pela subida. A carroça sai do cascalho molhado, já com todo o peso sobre a roda. No trecho plano, Lena para, volta para examinar o cubo e abre um sorriso.
+
+— Nem roçou. Sobe aí, Eron. Te poupo a caminhada e te pago as duas de ouro no pouso, como combinei.
+
+**[LOG DE MEMÓRIA DA CAMPANHA]**
+
+- **Localização atual** · Estrada acima do vau, Dia 11, cerca de 15h40.
+- **NPCs presentes e relação** · Lena, satisfeita com o reparo, e o filho dela.
+- **Linha de missão ativa** · **Carroça reparada e testada com carga.** Pagamento de **2 PO** na chegada ao Pouso das Três Fontes.
+- **Eventos cruciais ocorridos** · Eron identificou a fenda no cubo e a fechou com Consertar. A roda passou pela subida sem raspar.
+- **Condições do jogador** · 30/30 PV, CA 16, 1.400/2.700 XP. Saldo de **69 PO, 9 PP e 7 PC**. Os dois truques não consumiram espaços de magia.
+
+**Commit confirmado no GitHub.**
