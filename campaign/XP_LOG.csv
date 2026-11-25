@@ -22,3 +22,5 @@ ERON-S0002-SERVICE-DEPOT-BENCH-REPAIR-001,ERON-RIVER-ASTERION-001,SESSION_0002,7
 
 ERON-S0002-UM012-REPAIR-001,ERON-RIVER-ASTERION-001,SESSION_0002,7,17:35,Eron River,noncombat_environmental_repair,"Recuperação da articulação do braço UM-012",25,1,25,650,2,"Investigação27 Ferreiro26, Mending em componente separado; tarefa distinta"
 ERON-S0002-UM014-REPAIR-001,ERON-RIVER-ASTERION-001,SESSION_0002,7,18:55,Eron River,noncombat_environmental_repair,"Recuperação da alimentação de UM-014 com substituição de contato e cristal",25,1,25,675,2,"Investigação27 Funileiro8 e7 falhas, abordagem de bancada23 sucesso; peças locais consumidas"
+ERON-S0002-UM019-REPAIR-001,ERON-RIVER-ASTERION-001,SESSION_0002,7,19:35,Eron River,noncombat_environmental_repair,"Localização e recuperação de UM-019 sob estante tombada",25,1,25,700,2,"Percepção24 Investigação25 Ferreiro19; Mending em peça removida"
+ERON-S0002-UM021-REPAIR-001,ERON-RIVER-ASTERION-001,SESSION_0002,7,20:30,Eron River,noncombat_environmental_repair,"Localização e recuperação da alimentação de UM-021",25,1,25,725,2,"Percepção9 falha, Investigação25 nova abordagem, Funileiro21; Mending em condutor isolado"

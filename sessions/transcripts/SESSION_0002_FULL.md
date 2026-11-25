@@ -9760,3 +9760,117 @@ UM-017 volta-se para você.
 Foram utilizados dois lançamentos de Orientação e um de Consertar. Renovei Luz às 18h40 para trabalhar no interior do componente, com duração até 19h40. O estoque do depósito perdeu um cristal condutor e um contato de reposição; restam quatro cristais intactos. As oito rolagens foram realmente executadas em Python, e as falhas foram mantidas. Nenhum espaço de magia foi gasto.
 
 **GitHub:** commit confirmado; transcrição, ficha, estado, cronologia, XP e rolagens atualizados.
+
+
+## [321] JOGADOR
+
+- me ajude a encontrar as outras duas, quero concertar elas
+Pode rolar e usar oque precisar até terminar de concerta as duas
+
+## [322] MESTRE
+
+Vou seguir com UM-017 até os últimos setores registrados, localizar as duas unidades e tentar recuperá-las conforme os danos encontrados.
+
+## Thûn-Khazad — Dia 7, 19h35
+
+— Solicitação aceita. Último registro da unidade 019: refeitório. Acompanhe-me, artesão.
+
+UM-017 conduz você por uma galeria até um salão comprido, ocupado por grandes mesas de pedra e bancos cobertos de poeira. Nas paredes há relevos representando anões reunidos para refeições.
+
+### Unidade UM-019 — Refeitório
+
+<card gap={2}>
+  | Teste | Rolagem | Total |
+  |---|---|---:|
+  | Percepção | 1d20+7 → [17]+7 | **24** |
+  | Investigação com vantagem | 2d20kh1+6 → [15,7], mantém 15 | 21 |
+  | Orientação | 1d4 → [4] | +4 |
+  | Investigação final | 15+6+4 | **25** |
+  | Destreza — Ferreiro | 1d20+7 → [12]+7 | **19** |
+</card>
+
+Você avista uma mão metálica sob uma estante tombada na área de serviço do refeitório. Com auxílio de UM-017 e de seu pé de cabra, consegue liberar o construto.
+
+Um pino de sustentação está fraturado e uma conexão interna se soltou com o impacto. Você utiliza Consertar no pino removido, realinha a articulação e reconecta o componente.
+
+Os olhos do construto se acendem.
+
+— Unidade 019. Interrupção de serviço encerrada. Iniciando organização do refeitório.
+
+Ele se ergue e começa a recolher os utensílios espalhados pelo chão.
+
+<row align="center">
+  <icon name="check-circle" color="success" size="lg"/>
+  **UM-019 — Operacional**
+</row>
+
+### Unidade UM-021 — Acesso administrativo
+
+A galeria seguinte termina diante de uma porta de bronze, ladeada por duas colunas. Inicialmente, você não encontra a unidade. Após examinar os condutores e os encaixes de serviço, identifica um nicho lateral oculto pela coluna.
+
+<card gap={2}>
+  | Teste | Rolagem | Total |
+  |---|---|---:|
+  | Percepção | 1d20+7 → [2]+7 | 9 — falha |
+  | Investigação com vantagem | 2d20kh1+6 → [4,18], mantém 18 | 24 |
+  | Orientação | 1d4 → [1] | +1 |
+  | Investigação final | 18+6+1 | **25** |
+  | Inteligência — Funileiro | 1d20+6 → [15]+6 | **21** |
+</card>
+
+UM-021 está recolhido em uma estação de recarga, completamente imóvel. Um condutor rompido interrompeu sua alimentação. Você isola o circuito, utiliza Consertar na peça danificada e restabelece a conexão.
+
+Alguns minutos depois, o construto abre os olhos e sai do nicho.
+
+— Unidade 021 operacional. Retomando manutenção do acesso administrativo. Acesso reservado a pessoal autorizado.
+
+A porta de bronze continua fechada.
+
+## Dia 7, 20h30 — Diagnóstico das unidades
+
+<box theme="dark" background="#182622" radius="lg" padding={3} gap={2}>
+  {#each [["UM-012","Instalações sanitárias"],["UM-014","Oficina de serviço"],["UM-017","Acompanhando Eron"],["UM-019","Refeitório"],["UM-021","Acesso administrativo"]] as u}
+    <row align="center">
+      <icon name="check-circle" color="#79d6a3"/>
+      <box flex={1} gap={1}>
+        **{u[0]}**
+        <caption color="#bacbc2">{u[1]}</caption>
+      </box>
+      <text color="#79d6a3" size="sm">Operacional</text>
+    </row>
+    <divider color="#426154"/>
+  {/each}
+  <title color="#79d6a3" textAlign="center" size="lg">5/5 unidades recuperadas</title>
+</box>
+
+UM-017 inclina ligeiramente a cabeça.
+
+— Manutenção das unidades deste nível concluída. Agradecimento registrado, artesão.
+
+<row align="center">
+  <box flex={1} gap={1}>
+    <caption>Experiência — recuperação das duas unidades restantes</caption>
+    **725/900 XP — Nível 2**
+    <box height={2} radius="full" background="surface-tertiary" clip>
+      <box width="80.56%" height="100%" background="#26925b"/>
+    </box>
+  </box>
+  <title color="success" size="xl">+50 XP</title>
+</row>
+
+**O que você faz?**
+
+---
+
+**[LOG DE MEMÓRIA DA CAMPANHA]**
+
+- **Localização atual:** Diante do acesso administrativo do nível de serviço, Thûn-Khazad, Dia 7, 20h30.
+- **NPCs presentes e relação:** UM-017 e UM-021, cooperativos.
+- **Linha de missão ativa:** Explorar o nível de serviço e investigar o acesso ao Salão.
+- **Eventos cruciais:** As cinco unidades registradas estão operacionais. Porta administrativa ainda fechada.
+- **Condições:** 21/21 PV | CA 16 | Nível 2 | Inspiração Heroica disponível.
+- **Recursos:** 2/2 espaços de magia, 4/4 usos de Magia do Funileiro, 9 rações, 4 frascos de óleo.
+
+Utilizei Orientação e Consertar duas vezes cada, e renovei Luz às 19h40, até 20h40. Não foram consumidos materiais do depósito nem espaços de magia. As oito rolagens foram executadas em Python com o script do repositório e hash verificado. A falha de Percepção foi preservada, exigindo uma busca mais demorada. O funcionamento das unidades não concede autorização administrativa.
+
+**GitHub:** commit confirmado; transcrição, ficha, estado, cronologia, XP e rolagens atualizados.
