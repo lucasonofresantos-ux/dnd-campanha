@@ -56,8 +56,8 @@ character:
     armor_training: ["light", "medium", "shields"]
     tinkers_tools_proficient: true
   money:
-    gold: 68
-    silver: 8
+    gold: 67
+    silver: 5
     copper: 7
   inventory_reference: character/ERON_RIVER_LEVEL_01.md
   illumination:
@@ -111,10 +111,10 @@ character:
     dinner_paid_and_consumed: true
     cost_gold: 1
     cost_silver: 3
-    temporary_room_key: "chave de ferro do quarto 3, deverá ser devolvida ao encerrar hospedagem"
-    long_rest_started: true
-    long_rest_completed: true
-    rest_completion: "Dia6 ~06h15, descanso ininterrupto iniciado Dia5 ~22h15; banho tomado, chave em posse."
+    temporary_room_key: "Chave do quarto 3 recebida Dia10; em posse, devolver ao sair."
+    long_rest_started: false
+    long_rest_completed: false
+    rest_completion: "Hospedagem Dia10, jantar e banho concluídos 18h10; descanso longo ainda não iniciado."
   medical_supplies:
     healer_kit:
       quantity: 1
@@ -230,21 +230,21 @@ character:
 campaign_time:
   calendar_system: "Asterion, dias relativos; nenhuma era/ano formal estabelecido"
   day: 10
-  time_of_day: "aproximadamente 17h22 do Dia 10"
+  time_of_day: "aproximadamente 18h10 do Dia 10"
   season: "final do outono"
-  elapsed_game_time: "Dia10 17h20–17h22, recomendações à Vigília."
+  elapsed_game_time: "Dia10 17h22–18h10, hospedagem, jantar e banho."
 location:
   continent: Asterion
   polity: "Terras Livres de Avenhar (homebrew), fora de Valdren"
   area: "entroncamento da Estrada do Cascalho, próximo ao Pouso das Três Fontes"
   nearby: "encostas arborizadas da serra cujo monte mais alto é chamado Veyra"
-  exact_position: "Posto da Vigília, Pouso das Três Fontes."
+  exact_position: "Posto de Descanso de Alda Tress, quarto 3."
   travel_status: "Eron retornou ao Pouso das Três Fontes. Thûn-Khazad: entrada original fechada e camuflada, sensores operacionais, oito unidades, manutenção interna e inventário contínuos, seis Caminhos selados. Nenhuma comunicação remota estabelecida."
 scene:
   id: OPENING-001
-  status: "berric_diligence_completed_day10"
-  current_npcs_present: ["Iria, agradecida", "Dois vigias aliados", "Berric, sob custódia"]
-  immediate_visible_situation: "Dia10 17h22: Eron informa que aceita eventual gratificação voluntária de Neral Voss e sugere cruzar denúncias e furtos anteriores com dívidas, acesso interno e revenda de mercadorias. Iria aceita comunicar a Neral a participação de Eron e revisar registros de ocorrências, credores e carreteiros, sem presumir culpa em outros crimes. Nenhuma gratificação oferecida ou recebida ainda; Eron permanece livre no posto. Sem teste, XP ou alteração de recursos."
+  status: "alda_inn_room3_day10"
+  current_npcs_present: ["Alda, amistosa, no salão", "Hóspedes comuns no salão"]
+  immediate_visible_situation: "Dia10 17h22–18h10: Eron informou Iria que estará na hospedagem esta noite, foi ao Posto de Descanso de Alda Tress, pediu quarto privativo, jantar primeiro e banho depois. Percepção trajeto 1d20+7 [6]=13; não identificou indício claro de seguimento, sem certeza absoluta. Percepção salão 1d20+7 [15]=22; observou frequentadores habituais e viajantes, sem atenção incomum ou ameaça aparente. Ambas executadas de fato em container.exec /tmp/eron_451_dice.py, hash Git d35af70119bf684ea055619bb10678a1c4b03bbb confirmado, índices mantidos 0. Alda disponibilizou quarto3 com jantar e banho pelo mesmo preço anterior 1PO3PP; saldo68PO8PP7PC→67PO5PP7PC. Jantar consumido, banho tomado, chave do quarto em posse; Eron no quarto, ainda acordado, nenhum descanso longo iniciado. Sem gasto de rações, dano, XP, magia ou outra condição. Horário, disponibilidade, frequentadores e serviço adjudicados."
   discovered_traps:
     - location: "Trilha dos Corcos, junto ao riacho"
       state: disarmed_safe_wire_left_at_tree
@@ -269,7 +269,7 @@ scene:
   combat: false
   initiative: []
   rounds: 0
-  dice_rolled: false
+  dice_rolled: true
   xp_awarded: false
   reward_offered_but_not_accepted: null
   herd_contract_status: "Concluído Dia5 ~11h55; Mara confirmou três noites sem perdas, pagou 12 PO; +50 XP de resolução substantiva, reputação gratidão e respeito."
@@ -289,8 +289,8 @@ world:
 transcription:
   character_creation_history: sessions/transcripts/SESSION_0001_FULL.md
   narrative_session: sessions/transcripts/SESSION_0002_FULL.md
-  last_saved_player_turn: "[449] JOGADOR — sugere revisão de denúncias e aceita eventual gratificação."
-  last_saved_dm_turn: "[450] MESTRE — Iria concorda, Dia10 17h22."
+  last_saved_player_turn: "[451] JOGADOR — hospedagem, jantar, banho e Percepção."
+  last_saved_dm_turn: "[452] MESTRE — quarto3, Dia10 18h10."
 notes:
   - "Primeira resposta de cena será salva literalmente e sem revelar preparativos de dm."
   - "Nunca tratar a aprovação da ficha como XP, nem mudar recursos automaticamente."
