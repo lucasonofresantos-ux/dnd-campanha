@@ -12552,3 +12552,45 @@ Você dorme durante oito horas, sem interrupções. Ao despertar, encontra UM-02
 **Nota de regras:** você dormiu das 20h30 às 04h30, mas ainda não decorreram 24 horas desde a conclusão do último descanso longo, às 12h15 do Dia 9. Portanto, não concedi novamente seus benefícios mecânicos. Seus recursos já estavam completos. Nenhuma rolagem necessária; as atividades rotineiras das unidades não conferiram XP.
 
 **GitHub:** commit confirmado.
+
+## [397] JOGADOR
+
+- aqui dentro oque eu ainda posso fazer?
+
+## [398] MESTRE
+
+UM-021 consulta seus registros antes de responder em anão:
+
+— Guardião, a infraestrutura principal já foi recuperada. As unidades conseguem executar grande parte da manutenção sem sua intervenção direta. Entretanto, ainda existem setores e registros que merecem sua atenção pessoal.
+
+| Local | O que ainda pode fazer |
+|---|---|
+| **1º nível — Aposentos do Guardião** | Investigar seu escritório, documentos e compartimento de segurança privativo, ainda fechado. |
+| **2º nível — Salão das Seis Portas** | Inspecionar as câmaras do Conselho e os mecanismos dos Caminhos, mantendo os selos ativos. |
+| **3º nível — Núcleo das Runas** | Examinar os registros de autoridade e as funções administrativas do Sistema Central. |
+| **4º nível — Reservas estratégicas** | Auxiliar UM-025 no inventário e avaliar os materiais disponíveis. |
+| **5º nível — Aposentos e estudo** | Explorar os espaços de pesquisa e consultar os arquivos técnicos. |
+| **6º nível — Serviços** | Inspecionar o armário restrito de componentes de precisão e verificar as instalações de abastecimento. |
+| **7º nível — Grande Forja** | Estudar a fabricação de componentes e verificar a capacidade dos equipamentos recuperados. |
+
+— Também podemos aprofundar a pesquisa sobre os antigos Guardiões, os registros populacionais e as circunstâncias do Grande Selamento. Os arquivos já consultados não responderam a todas essas questões.
+
+UM-021 aponta para a porta do escritório de sua suíte.
+
+— Recomendo começar pelos seus próprios aposentos. O antigo Guardião possuía um compartimento privativo que ainda não examinamos. Sua autoridade atual permite solicitar o acesso, embora ainda seja necessário verificar o mecanismo.
+
+— Enquanto isso, as oito unidades continuarão recuperando as instalações internas e informarão qualquer avaria que exija sua intervenção.
+
+---
+
+**[LOG DE MEMÓRIA DA CAMPANHA]**
+
+- **Localização atual:** Aposentos do Guardião, primeiro nível, Dia 10, 04h32.
+- **NPCs presentes:** UM-021, cooperativo.
+- **Linha de missão ativa:** Restauração interna e investigação de Thûn-Khazad.
+- **Eventos cruciais:** Levantamento das atividades pendentes; escritório e compartimento privativo ainda não examinados.
+- **Condições:** 30/30 PV | CA 16 | 1.200/2.700 XP.
+
+Nenhuma rolagem necessária. As atividades apresentadas são possibilidades, não ações já realizadas. A manutenção externa continua suspensa.
+
+**GitHub:** commit confirmado.
