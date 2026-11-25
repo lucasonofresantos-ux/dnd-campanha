@@ -230,9 +230,9 @@ character:
 campaign_time:
   calendar_system: "Asterion, dias relativos; nenhuma era/ano formal estabelecido"
   day: 10
-  time_of_day: "aproximadamente 16h30 do Dia 10"
+  time_of_day: "aproximadamente 16h32 do Dia 10"
   season: "final do outono"
-  elapsed_game_time: "Dia10 16h15–16h30, relatório e conclusão do contrato."
+  elapsed_game_time: "Dia10 16h30–16h32, pedido de clemência para Tavin."
 location:
   continent: Asterion
   polity: "Terras Livres de Avenhar (homebrew), fora de Valdren"
@@ -243,8 +243,8 @@ location:
 scene:
   id: OPENING-001
   status: "iria_missing_goods_contract_completed_day10"
-  current_npcs_present: ["Iria, amistosa e satisfeita"]
-  immediate_visible_situation: "Dia10 16h15–16h30: Eron agradeceu a Tavin e retornou ao posto da Vigília para entregar relatório. Transmitiu constatações da fechadura intacta, marcas de rodas, depoimentos divergentes, confissão de Tavin, pressão da dívida e colaboração, identificação de Berric e local habitual da carroça. Iria registra colaboração e distingue proposta de quitação de ameaça comprovada. Considera investigação fundamentada e contrato cumprido, paga 8PO; saldo60PO8PP7PC→68PO8PP7PC. +50XP por resolução investigativa substantiva integrada, total1375/2700, sem duplicação. Iria ordena a dois vigias verificar o pátio e localizar Berric; recuperação e prisão ainda não confirmadas. Eron permanece no posto com Iria, livre para outros compromissos. Sem rolagem, dano, gasto, magia ou outra alteração de recursos. Tempo, resposta e XP adjudicados."
+  current_npcs_present: ["Iria, amistosa e respeitosa"]
+  immediate_visible_situation: "Dia10 16h30–16h32: Eron reforçou perante Iria sua avaliação de que Tavin sofreu chantagem pela dívida, demonstrou vergonha e merece tratamento brando. Iria anotou expressamente avaliação do investigador, exploração da dívida, colaboração voluntária e arrependimento observado; comprometeu-se a considerar atenuantes e não tratar Tavin como autor principal, sem prometer absolvição ou pena. Ameaça explícita não demonstrada. Contrato já concluído; nenhuma nova rolagem, XP, pagamento ou gasto. Resultado das diligências ainda pendente."
   discovered_traps:
     - location: "Trilha dos Corcos, junto ao riacho"
       state: disarmed_safe_wire_left_at_tree
@@ -270,7 +270,7 @@ scene:
   initiative: []
   rounds: 0
   dice_rolled: false
-  xp_awarded: true
+  xp_awarded: false
   reward_offered_but_not_accepted: null
   herd_contract_status: "Concluído Dia5 ~11h55; Mara confirmou três noites sem perdas, pagou 12 PO; +50 XP de resolução substantiva, reputação gratidão e respeito."
   investigation_offer: "Concluída Dia10 16h30; 8PO pagos e 50XP concedidos. Vigília prossegue com localização de Berric e recuperação das caixas."
@@ -289,8 +289,8 @@ world:
 transcription:
   character_creation_history: sessions/transcripts/SESSION_0001_FULL.md
   narrative_session: sessions/transcripts/SESSION_0002_FULL.md
-  last_saved_player_turn: "[433] JOGADOR — retorna à contratante e entrega relatório."
-  last_saved_dm_turn: "[434] MESTRE — contrato concluído, Dia10 16h30."
+  last_saved_player_turn: "[435] JOGADOR — pede clemência para Tavin."
+  last_saved_dm_turn: "[436] MESTRE — Iria registra atenuantes, Dia10 16h32."
 notes:
   - "Primeira resposta de cena será salva literalmente e sem revelar preparativos de dm."
   - "Nunca tratar a aprovação da ficha como XP, nem mudar recursos automaticamente."
