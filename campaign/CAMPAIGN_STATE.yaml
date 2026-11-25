@@ -57,7 +57,7 @@ character:
     copper: 7
   inventory_reference: character/ERON_RIVER_LEVEL_01.md
   illumination:
-    light_cantrip: "Fivela do cinto; renovado Dia7 ~19h40, expira ~20h40; sem concentração."
+    light_cantrip: "Fivela do cinto; renovado Dia7 ~20h40, expira ~21h40; sem concentração."
     hooded_lantern_lit: false
     oil_flasks_spare: 4
     candles: 10
@@ -205,21 +205,21 @@ character:
 campaign_time:
   calendar_system: "Asterion, dias relativos; nenhuma era/ano formal estabelecido"
   day: 7
-  time_of_day: "aproximadamente 20h38 do Dia 7"
+  time_of_day: "aproximadamente 21h13 do Dia 7"
   season: "final do outono"
-  elapsed_game_time: "Dia7 20h31–20h38, transporte de carne e chegada aos dormitórios."
+  elapsed_game_time: "Dia7 20h38–21h13, inspeção dos alojamentos."
 location:
   continent: Asterion
   polity: "Terras Livres de Avenhar (homebrew), fora de Valdren"
   area: "entroncamento da Estrada do Cascalho, próximo ao Pouso das Três Fontes"
   nearby: "encostas arborizadas da serra cujo monte mais alto é chamado Veyra"
-  exact_position: "Corredor dos alojamentos dos artesãos e trabalhadores, diante da primeira porta entreaberta, nível de serviço de Thûn-Khazad."
-  travel_status: "Cinco unidades locais operacionais; porta administrativa e armário restrito fechados; cozinha funcional, dormitórios ainda não inspecionados."
+  exact_position: "Alojamentos dos artesãos e trabalhadores, nível de serviço de Thûn-Khazad; cinco dormitórios acessíveis investigados."
+  travel_status: "Cinco unidades locais operacionais; porta administrativa e armário restrito fechados; cozinha funcional, cinco dormitórios investigados, sexto trancado."
 scene:
   id: OPENING-001
   status: "awaiting_player_action_at_dormitories_day7"
   current_npcs_present: ["UM-017, cooperativo"]
-  immediate_visible_situation: "Dia7 20h31–20h38: Eron pediu a UM-017 ajuda para levar carne ao refeitório e depois conduzi-lo aos dormitórios. UM-017 ajudou no transporte; 8,5kg de carne salgada de corço transferidos integralmente do inventário carregado para custódia de UM-019 no refeitório, preparo pendente. UM-019 examinou carne e verificou abastecimento de água e equipamento de cocção, ambos funcionais; iniciará retirada do excesso de sal e preparo, avisará quando pronta. Nenhuma porção consumida, rendimento ou conservação final não aferidos. UM-017 conduziu Eron à galeria dos alojamentos dos artesãos e trabalhadores, portas de madeira reforçadas com bronze, primeira entreaberta, duas camas de estrutura de pedra, armário, escrivaninha, arca, tecidos deteriorados e poeira visíveis do limiar. Eron no corredor com UM-017, quarto ainda não inspecionado; ocupação e segurança não verificadas. UM-021 permanece no acesso administrativo; demais unidades em seus setores. Nenhuma rolagem, magia, XP, combate ou gasto adicional. PV21/21 CA16 XP725/900, 9 rações, espaços2/2, Tinker4/4, Luz até20h40. Decisões locais do Mestre: cozinha funcional para rotinas básicas e descrição visível do primeiro dormitório; nenhum saque, reparo ou descanso declarado."
+  immediate_visible_situation: "Dia7 20h38–21h13: Eron pediu a UM-017 condução e investigação/percepção geral dos alojamentos. Renovou Luz na fivela às20h40 conforme autorização anterior (expira21h40). Percepção 1d20+7 [1]+7=8, falha CD14; Investigação 1d20+6 [13]+6=19, sucesso CD14. 1 natural não constitui falha automática em teste de habilidade; falhou pelo total. Dois testes agregados para busca do setor acessível, sem Orientação nem vantagem. Execução real container.exec, git hash-object /tmp/eron_327_dice.py = d35af70119bf684ea055619bb10678a1c4b03bbb verificado por test antes das duas chamadas Python; kept_indices[0] ambos. Seis dormitórios coletivos, cinco acessíveis e um trancado; vinte camas de pedra nas áreas acessíveis, sala convivência, lavanderia não testada, rouparia deteriorada e ligação às instalações sanitárias sob UM-012. Achados locais não coletados: 10 armários madeira, 10 arcas (algumas vazias e outras fechadas; estas não abertas), 5 escrivaninhas, 3 lamparinas bronze, 2 bacias cobre, 1 conjunto utensílios costura, 1 tabuleiro com peças pedra, 1 livro de registros de ocupação em Anão não lido. Tecidos e colchões deteriorados, estruturas de pedra preservadas. Percepção baixa limita confirmação de perigos e detalhes ocultos. UM-017 ofereceu limpeza, ainda sem aceite; permanece com Eron nos alojamentos. UM-019 segue com 8,5kg de carne em custódia, preparo não confirmado concluído. Nenhum saque, reparo, descanso, dano, combate, XP ou gasto adicional. PV21/21 CA16 XP725/900, slots2/2 Tinker4/4, 9 rações, 4 óleos reserva, lanterna apagada 110min. Quantidades e estado dos recintos são decisões de cenário homebrew, não regras; não revelar conteúdo do livro ou quarto trancado até ação do jogador."
   discovered_traps:
     - location: "Trilha dos Corcos, junto ao riacho"
       state: disarmed_safe_wire_left_at_tree
@@ -244,7 +244,7 @@ scene:
   combat: false
   initiative: []
   rounds: 0
-  dice_rolled: false
+  dice_rolled: true
   xp_awarded: false
   reward_offered_but_not_accepted: null
   herd_contract_status: "Concluído Dia5 ~11h55; Mara confirmou três noites sem perdas, pagou 12 PO; +50 XP de resolução substantiva, reputação gratidão e respeito."
@@ -264,8 +264,8 @@ world:
 transcription:
   character_creation_history: sessions/transcripts/SESSION_0001_FULL.md
   narrative_session: sessions/transcripts/SESSION_0002_FULL.md
-  last_saved_player_turn: "[325] JOGADOR — solicita transporte de carne e condução aos dormitórios."
-  last_saved_dm_turn: "[326] MESTRE — carne entregue ao refeitório, dormitórios localizados, XP725."
+  last_saved_player_turn: "[327] JOGADOR — solicita investigação e percepção dos alojamentos."
+  last_saved_dm_turn: "[328] MESTRE — alojamentos investigados, livro de ocupação encontrado, XP725."
 notes:
   - "Primeira resposta de cena será salva literalmente e sem revelar preparativos de dm."
   - "Nunca tratar a aprovação da ficha como XP, nem mudar recursos automaticamente."

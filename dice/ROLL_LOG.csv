@@ -370,3 +370,5 @@ date,campaign_id,stage,attempt,expression,six_rolls_faces_in_order,six_attribute
 2026-11-24,ERON-RIVER-ASTERION-001,investigation_um021_day7,2,2d20kh1+6,"4,18","18+6",24,true
 2026-11-24,ERON-RIVER-ASTERION-001,guidance_um021_day7,2,1d4,"1","1",1,true
 2026-11-24,ERON-RIVER-ASTERION-001,tinkers_int_um021_day7,2,1d20+6,"15","15+6",21,true
+2026-11-24,ERON-RIVER-ASTERION-001,perception_dormitories_day7,2,1d20+7,"1","1+7",8,true
+2026-11-24,ERON-RIVER-ASTERION-001,investigation_dormitories_day7,2,1d20+6,"13","13+6",19,true

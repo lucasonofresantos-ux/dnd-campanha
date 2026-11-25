@@ -9960,3 +9960,105 @@ UM-017 permanece ao seu lado, no corredor.
 Nenhuma rolagem foi necessária para o transporte e deslocamento. A carne ainda não está pronta, e a entrega não garante sua conservação indefinida.
 
 **GitHub:** commit confirmado; transcrição, estado, ficha e cronologia atualizados.
+
+
+## [327] JOGADOR
+
+- vamos olhar os alojamento e os dormitórios, me leve lá 
+Role investigação e percepção para todo alojamento e dormitórios
+
+## [328] MESTRE
+
+## Thûn-Khazad — Alojamentos
+<caption>Dia 7 — 20h38</caption>
+
+— Acompanhe-me, artesão.
+
+UM-017 percorre o corredor, indicando os diferentes compartimentos destinados aos antigos trabalhadores.
+
+Você renova o truque **Luz** na fivela do cinto e começa a investigação.
+
+<card gap={3}>
+  <row align="center">
+    <svg viewBox="0 0 100 100" size="76px">
+      <polygon points="50,4 94,29 94,71 50,96 6,71 6,29" fill="#742d35" stroke="#d08181" strokeWidth="2"/>
+      <path d="M50 4L22 63L94 29L78 63L50 96L22 63L6 29L78 63Z" fill="none" stroke="#d08181" strokeWidth="1.2"/>
+      <path d="M22 63L78 63L50 15Z" fill="#91404a" stroke="#d08181"/>
+      <text x="50" y="54" fontSize="29" fontWeight="bold" fill="white" textAnchor="middle">1</text>
+    </svg>
+    <box flex={1} gap={1}>
+      **Percepção**
+      <caption>1d20+7 → [1]+7</caption>
+      <title size="2xl" color="danger" tabularNums={true}>8</title>
+      <text color="danger" size="sm">Falha</text>
+    </box>
+  </row>
+  <divider/>
+  <row align="center">
+    <svg viewBox="0 0 100 100" size="76px">
+      <polygon points="50,4 94,29 94,71 50,96 6,71 6,29" fill="#244c83" stroke="#83b4ed" strokeWidth="2"/>
+      <path d="M50 4L22 63L94 29L78 63L50 96L22 63L6 29L78 63Z" fill="none" stroke="#83b4ed" strokeWidth="1.2"/>
+      <path d="M22 63L78 63L50 15Z" fill="#3568a5" stroke="#83b4ed"/>
+      <text x="50" y="54" fontSize="25" fontWeight="bold" fill="white" textAnchor="middle">13</text>
+    </svg>
+    <box flex={1} gap={1}>
+      **Investigação**
+      <caption>1d20+6 → [13]+6</caption>
+      <title size="2xl" color="success" tabularNums={true}>19</title>
+      <text color="success" size="sm">Sucesso</text>
+    </box>
+  </row>
+</card>
+
+### Estrutura dos alojamentos
+
+O setor possui seis dormitórios coletivos, dos quais cinco estão acessíveis, além de dependências de uso comum.
+
+| Dependência | Quantidade | Estado aparente |
+|---|---:|---|
+| Dormitórios coletivos | 6 | Um trancado |
+| Camas de pedra | 20 nas salas acessíveis | Estruturas preservadas |
+| Sala de convivência | 1 | Mobiliário preservado |
+| Lavanderia | 1 | Não testada |
+| Rouparia | 1 | Tecidos deteriorados |
+| Instalações sanitárias | 1 setor conectado | UM-012 em manutenção |
+
+### Resultado da investigação
+
+Nos cinco dormitórios acessíveis e nas dependências comuns, você encontra:
+
+- 10 armários individuais de madeira.
+- 10 arcas pessoais, algumas vazias e outras fechadas.
+- 5 escrivaninhas.
+- 3 lamparinas de bronze.
+- 2 bacias de cobre.
+- 1 conjunto de utensílios de costura.
+- 1 tabuleiro de jogo com peças de pedra.
+- 1 livro de registros de ocupação, escrito em anão, sobre uma escrivaninha.
+
+A maioria das roupas, cobertores e colchões está deteriorada. As estruturas de pedra, entretanto, permanecem em boas condições.
+
+O resultado baixo de Percepção impede uma avaliação confiável de detalhes discretos e possíveis perigos ocultos. As arcas fechadas não foram abertas, e o dormitório trancado continua inacessível.
+
+UM-017 observa o estado das camas.
+
+— Alojamentos necessitam de limpeza e substituição dos materiais de repouso. A unidade 012 está realizando manutenção das instalações sanitárias.
+
+— Posso iniciar a limpeza dos dormitórios.
+
+**O que você faz?**
+
+---
+
+**[LOG DE MEMÓRIA DA CAMPANHA]**
+
+- **Localização atual:** Alojamentos de Thûn-Khazad, Dia 7, aproximadamente 21h13.
+- **NPCs presentes:** UM-017, cooperativo.
+- **Missão ativa:** Explorar e recuperar as instalações subterrâneas.
+- **Eventos cruciais:** Cinco dormitórios e dependências comuns investigados; livro de ocupação localizado; um dormitório permanece trancado.
+- **Condições:** 21/21 PV | CA 16 | 725/900 XP.
+- **Recursos:** Luz ativa até 21h40. Carne sob responsabilidade de UM-019. Nenhum objeto recolhido.
+
+As duas rolagens foram executadas em Python com o script do repositório, de hash conferido. A Luz foi renovada conforme sua autorização anterior, sem gastar espaços de magia.
+
+**GitHub:** commit confirmado; transcrição, estado, ficha, cronologia e rolagens atualizados.
