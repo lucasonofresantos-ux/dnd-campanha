@@ -14253,3 +14253,31 @@ Com os pratos vazios, você ergue de leve o braço da balança e o solta. Ele os
 - **Condições do jogador** · 30/30 PV, CA 16, 1.400/2.700 XP. Saldo de 68 PO, 4 PP e 7 PC.
 
 **Commit confirmado no GitHub.**
+
+## [469] JOGADOR
+
+Pode rolar oque precisar até concertar e se precisar usar concerto também pode
+
+### Mestre — atualização de andamento
+
+Vou rolar a Investigação com vantagem e seguir com o reparo. Eron pode usar o truque Consertar se encontrar uma quebra que ele consiga reparar.
+
+## [470] MESTRE
+
+**Investigação com vantagem** · `2d20kh1+6` → [3, 10]. Mantém 10, descarta 3. **10 + 6 = 16.**
+
+Sob a luz da porta, você vê um risco claro no metal, à esquerda do pivô. Ao inclinar o braço da balança, descobre o que faz o estalo. Uma das faces do apoio central está rachada. Quando recebe peso, a fenda abre o bastante para o pivô escorregar e prender o braço de viés.
+
+Você retira o braço, mantém as bordas da rachadura encostadas e usa **Consertar**. Ao fim de um minuto, o metal está inteiro. Com as ferramentas de funileiro, você reassenta o pivô e monta os pratos. Vazios, eles oscilam até parar na mesma altura. Durnak repete a prova com os pesos, troca os lados e bate de leve na bancada. O ponteiro balança e volta ao centro nas três vezes.
+
+— Agora posso chamar o homem do cobre pra pesar aquele pedaço de novo. — Durnak conta **cinco peças de prata** na tua mão. — Obrigado, Eron.
+
+**[LOG DE MEMÓRIA DA CAMPANHA]**
+
+- **Localização atual** · Ferraria de Durnak, Dia 11, por volta das 13h55.
+- **NPCs presentes e relação** · Durnak Mão de Ferro, ferreiro e parceiro de ofício.
+- **Linha de missão ativa** · Serviço da balança concluído e pago.
+- **Eventos cruciais ocorridos** · Apoio central reparado com Consertar. Durnak conferiu a pesagem.
+- **Condições do jogador** · 30/30 PV, CA 16, 1.400/2.700 XP. Saldo de **68 PO, 9 PP e 7 PC**. O truque não consumiu espaço de magia.
+
+**Commit confirmado no GitHub.**

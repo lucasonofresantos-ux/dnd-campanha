@@ -315,3 +315,5 @@ Auditoria [270]: no histórico não consta execução efetiva Python para Percep
 - [466] Dia 11, 13h35. Durnak oferece 5 PP para reparar a balança até amanhã cedo. Oferta pendente.
 
 - [468] Dia 11, cerca de 13h35. Eron aceita consertar a balança por 5 PP até amanhã cedo. Estalo localizado no apoio central. Aguarda Investigação +6 com vantagem pelo uso das ferramentas de funileiro. Nenhuma rolagem ou pagamento.
+
+- [470] Dia 11, 13h35–13h55. Investigação com vantagem [3, 10] +6 = 16. Apoio rachado diagnosticado e reparado com Consertar. Balança remontada, pesagem conferida, Durnak paga 5 PP. Saldo 68 PO, 9 PP, 7 PC.
