@@ -558,3 +558,9 @@ date,campaign_id,stage,attempt,expression,six_rolls_faces_in_order,six_attribute
 2026-11-25,ERON-RIVER-ASTERION-001,audit_unverified_tinkers_repair_exterior_sensors_day10,1,2d20kh1+6,"16,17","17+6; kept index 1",23,false
 2026-11-25,ERON-RIVER-ASTERION-001,audit_unverified_arcana_exterior_sensors_day10,1,2d20kh1+6,"2,14","14+6; kept index 1",20,false
 2026-11-25,ERON-RIVER-ASTERION-001,audit_unverified_guidance_arcana_exterior_sensors_day10,1,1d4,"4","20+4=24",4,false
+2026-11-25,ERON-RIVER-ASTERION-001,stealth_departure_hunt_day10,1,1d20+9,"3","3+9",12,true
+2026-11-25,ERON-RIVER-ASTERION-001,perception_departure_hunt_day10,1,1d20+7,"20","20+7",27,true
+2026-11-25,ERON-RIVER-ASTERION-001,survival_track_hunt_day10,1,1d20+5,"14","14+5",19,true
+2026-11-25,ERON-RIVER-ASTERION-001,shortbow_attack_hunt_day10,1,2d20kh1+7,"11,2","11+7; kept index 0",18,true
+2026-11-25,ERON-RIVER-ASTERION-001,shortbow_sneak_damage_hunt_day10,1,2d6+5,"2,5","2+5+5; kept both",12,true
+2026-11-25,ERON-RIVER-ASTERION-001,survival_leatherworker_hunt_day10,1,2d20kh1+5,"20,11","20+5; kept index 0",25,true
