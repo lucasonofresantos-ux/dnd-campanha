@@ -13492,3 +13492,38 @@ A principal lacuna nos depoimentos está no período em que Tavin permaneceu no 
 **Nota do Mestre:** aceitei os dois resultados naturais informados, sem rerrolagem. Os depoimentos e horários foram adjudicados. As quatro rolagens automáticas da interação anterior não tiveram execução Python comprovada; corrigi o registro sem alterar os acontecimentos estabelecidos. Nenhum XP ou pagamento adicional.
 
 **GitHub:** commit confirmado.
+
+## [427] JOGADOR
+
+- tarvin, você se esqueceu de fechar a porta ou estava ciente que seriam roubadas? Melhor admitir um erro que virar suspeito
+Role persuasão
+
+## [428] MESTRE
+
+## Dia 10 — 16h08 | Depósito de Neral Voss
+
+**Persuasão:** 1d20+4 → [6] +4 = **10**.
+
+Tavin aperta a chave na mão e endireita a postura.
+
+— Eu tranquei a porta, senhor. Não sabia que aquelas caixas seriam roubadas. Já disse tudo isso à Vigília.
+
+Seu tom torna-se defensivo.
+
+— Trabalho para Neral há anos. Se o senhor acha que estou envolvido, então apresente alguma prova.
+
+Ele não acrescenta nada ao depoimento. Lessa permanece nas proximidades.
+
+---
+
+**[LOG DE MEMÓRIA DA CAMPANHA]**
+
+- **Localização atual:** Depósito de Neral Voss, Dia 10, 16h08.
+- **NPCs presentes e relação:** Tavin, defensivo; Lessa, colaborativa.
+- **Linha de missão ativa:** Investigar as mercadorias desaparecidas — 8 PO.
+- **Eventos cruciais:** Persuasão não conseguiu obter novas informações de Tavin.
+- **Condições:** 30/30 PV | CA 16 | 1.325/2.700 XP | 60 PO, 8 PP e 7 PC | 23 flechas.
+
+**Nota do Mestre:** rolagem executada em Python com o hash do script conferido. Reação e duração adjudicadas; nenhum XP ou pagamento.
+
+**GitHub:** commit confirmado.
