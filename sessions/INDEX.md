@@ -178,3 +178,5 @@
 - Atualização: sessão 0002 até [358], Dia9 01h55; matriz reparada, teste sob carga pendente, XP950, nível3 pendente; auditoria da busca anterior.
 
 - Atualização: sessão 0002 até [360], Dia9 02h35; Grande Forja operacional, registro de contingência disponível, Caminhos selados, XP1000, classe pendente.
+
+- Atualização: sessão 0002 até [362], Dia9 02h55; Ladino1/Artífice2, XP1000/2700, diretriz de sucessão revelada, aceitação pendente.

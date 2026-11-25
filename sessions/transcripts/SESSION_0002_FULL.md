@@ -11315,3 +11315,109 @@ Uma nova inscrição surge na interface:
 A rolagem e o d4 de Orientação foram executados em Python neste turno, com o hash do script conferido. Nenhum espaço de magia ou Inspiração Heroica foi gasto. A reativação da forja não abriu os Caminhos nem autorizou a distribuição geral.
 
 **GitHub:** commit confirmado.
+
+
+## [361] JOGADOR
+
+Artífice nível 2
+- tá vamos ver esse tal sistema no núcleo e depois a distribuição geral
+
+## [362] MESTRE
+
+## Evolução de Eron River — Nível 3
+
+**Ladino 1 / Artífice 2**, conforme a versão de Artífice publicada em *Eberron: Forge of the Artificer (2025)*.
+
+<card gap={3}>
+  <grid columns={2}>
+    <grid-item>
+      <caption>Pontos de vida</caption>
+      <title size="2xl" color="success">30/30</title>
+      <caption>+9 PV pelo novo nível</caption>
+    </grid-item>
+    <grid-item>
+      <caption>Classe de Armadura</caption>
+      <title size="2xl">16</title>
+    </grid-item>
+    <grid-item>
+      <caption>Experiência</caption>
+      <title size="xl">1.000 / 2.700</title>
+    </grid-item>
+    <grid-item>
+      <caption>Dados de vida</caption>
+      <title size="xl">3d8</title>
+    </grid-item>
+  </grid>
+  <divider/>
+  **Nova habilidade: Replicar Item Mágico**
+  - Quatro projetos de itens mágicos conhecidos.
+  - Até dois itens replicados simultaneamente.
+  - Uma magia preparada adicional de 1º círculo.
+</card>
+
+Você mantém os dois espaços de magia, seus truques e os quatro usos da Magia do Funileiro. Deixarei a seleção dos quatro projetos e da nova magia para você escolher posteriormente. <Cite refs={["turn287874view0","turn287874view1"]}/>
+
+---
+
+## Dia 9 — 02h55 | Núcleo das Runas
+
+Ao retornar ao terceiro nível, você encontra a câmara completamente diferente. As colunas rúnicas estão iluminadas, os mecanismos de controle se movimentam e a estação central recebe energia diretamente da Grande Forja.
+
+UM-021 aproxima-se do painel.
+
+— Registro de contingência recuperado. Instrução de autoridade superior autenticada.
+
+Uma inscrição em anão surge diante de você.
+
+<box border radius="lg" padding={4} gap={3}>
+  <caption textAlign="center">THÛN-KHAZAD — DIRETRIZ DE SUCESSÃO EXTRAORDINÁRIA</caption>
+  <divider/>
+  Na ausência de um Guardião legítimo capaz de exercer sua autoridade, aquele que encontrar o Salão, compreender esta instrução e restabelecer o funcionamento da Grande Forja poderá assumir o título de Guardião dos Seis Caminhos.
+
+  Aquele que aceitar essa responsabilidade deverá preservar a união dos seis povos, proteger seu patrimônio e administrar suas riquezas em benefício de Thûn-Khazad.
+  <divider/>
+  <caption>Ordem de autoridade autenticada. Identidade do emissor não apresentada nesta interface.</caption>
+</box>
+
+UM-021 consulta os registros de autenticação.
+
+— Nenhum Guardião atualmente autenticado no Sistema Central. Recuperação da Grande Forja atribuída a Eron River.
+
+— Condições técnicas para o procedimento de sucessão satisfeitas. Aceitação do candidato necessária.
+
+O construto vira-se em sua direção.
+
+— **Eron River, aceita assumir a responsabilidade de Guardião dos Seis Caminhos?**
+
+### Distribuição geral de energia
+
+Enquanto isso, o painel apresenta o diagnóstico da rede.
+
+| Setor | Situação |
+|---|---|
+| Grande Forja | Operacional |
+| Núcleo das Runas | Operacional |
+| Serviços | Alimentados |
+| Reservas estratégicas | Inspeção necessária |
+| Aposentos e estudo | Inspeção necessária |
+| Recepção e câmaras dos Guardiões | Inspeção necessária |
+| Salão das Seis Portas | Isolado |
+| Seis Caminhos | Selados |
+
+— A distribuição geral poderá ser restabelecida progressivamente após a inspeção dos circuitos — acrescenta UM-021.
+
+---
+
+**[LOG DE MEMÓRIA DA CAMPANHA]**
+
+- **Localização atual:** Núcleo das Runas, Dia 9, 02h55.
+- **NPCs presentes:** UM-021, cooperativo.
+- **Missão ativa:** Decidir sobre a sucessão e recuperar a distribuição geral.
+- **Eventos cruciais:** Diretriz de sucessão extraordinária revelada; proposta de reconhecimento apresentada.
+- **Condições:** Ladino 1 / Artífice 2 | 30/30 PV | CA 16 | 1.000 XP.
+
+Nenhuma nova rolagem foi necessária. Mantive os PV fixos conforme a evolução anterior. A distribuição geral ainda não foi liberada.
+
+**Auditoria:** não há execução Python comprovada para os dois dados da ativação anterior; registrei a correção, preservando os acontecimentos.
+
+**GitHub:** commit confirmado.

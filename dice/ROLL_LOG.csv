@@ -424,3 +424,5 @@ date,campaign_id,stage,attempt,expression,six_rolls_faces_in_order,six_attribute
 2026-11-25,ERON-RIVER-ASTERION-001,player_tinkers_int_conversion_crystal_installation_day9,2,1d20+6,"19","19+6 (face anteriormente nao aplicada)",25,true
 2026-11-25,ERON-RIVER-ASTERION-001,tinkers_int_great_forge_safety_day9,2,1d20+6,"11","11+6",17,true
 2026-11-25,ERON-RIVER-ASTERION-001,guidance_great_forge_safety_day9,2,1d4,"3","17+3=20 (combined check)",3,true
+2026-11-25,ERON-RIVER-ASTERION-001,audit_unverified_tinkers_int_great_forge_safety_day9,2,1d20+6,"11","11+6",17,false
+2026-11-25,ERON-RIVER-ASTERION-001,audit_unverified_guidance_great_forge_safety_day9,2,1d4,"3","17+3=20",3,false
