@@ -417,3 +417,8 @@ date,campaign_id,stage,attempt,expression,six_rolls_faces_in_order,six_attribute
 2026-11-25,ERON-RIVER-ASTERION-001,guidance_conversion_crystal_search_day9,2,1d4,"3","21+3=24",3,true
 2026-11-25,ERON-RIVER-ASTERION-001,arcana_conversion_crystal_day9,2,1d20+6,"20","20+6",26,true
 2026-11-25,ERON-RIVER-ASTERION-001,guidance_conversion_crystal_arcana_day9,2,1d4,"4","26+4=30",4,true
+2026-11-25,ERON-RIVER-ASTERION-001,audit_unverified_investigation_conversion_crystal_day9,2,2d20kh1+6,"15,14","15+6",21,false
+2026-11-25,ERON-RIVER-ASTERION-001,audit_unverified_guidance_conversion_crystal_search_day9,2,1d4,"3","21+3=24",3,false
+2026-11-25,ERON-RIVER-ASTERION-001,audit_unverified_arcana_conversion_crystal_day9,2,1d20+6,"20","20+6",26,false
+2026-11-25,ERON-RIVER-ASTERION-001,audit_unverified_guidance_conversion_crystal_arcana_day9,2,1d4,"4","26+4=30",4,false
+2026-11-25,ERON-RIVER-ASTERION-001,player_tinkers_int_conversion_crystal_installation_day9,2,1d20+6,"19","19+6 (face anteriormente nao aplicada)",25,true
