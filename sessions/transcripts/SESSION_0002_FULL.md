@@ -12287,3 +12287,48 @@ UM-027 recebe a ordem permanente de restauração e retorna à oficina acompanha
 **Nota do Mestre:** as sete expressões deste turno foram efetivamente executadas em Python, com hash do script conferido. Renovei Luz às 17h45, válida até 18h45. Defini a avaria, a especialidade, o tempo e os 25 XP como elementos locais do cenário. Nenhum recurso pessoal limitado foi gasto. A conexão da unidade não restabelece automaticamente a vigilância externa nem abre os Seis Caminhos.
 
 **GitHub:** commit confirmado.
+
+## [389] JOGADOR
+
+- oque mais eu posso fazer para ajudar a colocar este lugar em ordem?
+
+## [390] MESTRE
+
+UM-027 conecta-se ao terminal da oficina. Após alguns instantes, a voz grave do Sistema Central se manifesta em anão.
+
+— Guardião, as oito unidades recuperadas já permitem executar grande parte da manutenção ordinária. Entretanto, existem intervenções que ainda exigem sua capacidade de artesão e sua autoridade.
+
+— Apresentando relatório de prioridades.
+
+| Prioridade | Serviço pendente | Responsabilidade |
+|---|---|---|
+| 1 | Restabelecer o circuito do segundo nível, Salão das Seis Portas | Guardião e unidades técnicas |
+| 2 | Recuperar os dispositivos de vigilância dos acessos externos | Guardião e UM-027 |
+| 3 | Inspecionar as reservas estratégicas e concluir o inventário | UM-025, com apoio quando necessário |
+| 4 | Verificar abastecimento, saneamento e aquecimento dos aposentos | UM-012 e UM-023 |
+| 5 | Certificar a distribuição de energia e a integridade dos circuitos | UM-014, UM-017 e UM-027 |
+| 6 | Verificar as condições dos Seis Caminhos antes de qualquer abertura | Guardião e Sistema Central |
+
+— Recomendo sua intervenção no segundo nível. É o único nível inteiramente isolado da nossa rede. A recuperação de seus circuitos permitirá avaliar as condições das Seis Portas, mas não autorizará automaticamente sua abertura.
+
+— Quanto às demais tarefas, podemos prosseguir sob suas ordens permanentes e comunicar-lhe as avarias que excederem nossas capacidades.
+
+UM-027 volta-se para você.
+
+— Posso acompanhá-lo para auxiliar nos circuitos rúnicos, Guardião.
+
+---
+
+**[LOG DE MEMÓRIA DA CAMPANHA]**
+
+- **Localização atual:** Oficina de instrumentos rúnicos, quinto nível, Dia 9, 18h12.
+- **NPCs presentes:** UM-012, UM-027 e Sistema Central, cooperativos.
+- **Linha de missão ativa:** Restaurar integralmente o Salão dos Seis Caminhos.
+- **Eventos cruciais:** Prioridades de restauração identificadas; segundo nível permanece isolado.
+- **Condições:** 30/30 PV | CA 16 | 1.150/2.700 XP.
+
+Nenhuma nova rolagem necessária. As prioridades são recomendações do Sistema, não ordens executadas nem garantia de reparo. Não atribuí percentual de recuperação sem diagnóstico integral.
+
+**Auditoria:** não houve execução Python comprovada na recuperação de UM-027; os sete resultados anteriores foram registrados como não verificados, preservando os acontecimentos e o XP.
+
+**GitHub:** commit confirmado.
