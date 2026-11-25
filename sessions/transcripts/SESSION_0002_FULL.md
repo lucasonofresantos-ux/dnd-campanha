@@ -11624,3 +11624,67 @@ Ao despertar, você ouve uma batida na porta.
 As unidades realizaram tarefas rotineiras de manutenção, sem testes ou XP adicionais. As três estações não confirmam a existência de três novos construtos. A recuperação de 100% permanece como objetivo, não como resultado já alcançado.
 
 **GitHub:** commit confirmado.
+
+
+## [369] JOGADOR
+
+Vou fazer uma bolsa porta tudo, assim posso guardar minhas coisas ali tirando dos bolsos e até da bolsa e ficar mais leve
+
+- Por favor um almoço e peça para a 12 me levar na estação de manutenção sem resposta mais próxima, e lá já vejo oque pode ser feito, e parabéns pelo trabalho, consegue ver oque acontece do lado de fora ou próximo as portas?
+
+## [370] MESTRE
+
+## Bolsa Porta-Tudo — Replicar Item Mágico
+
+Como você acabou de concluir seu descanso longo, pode utilizar sua habilidade de Artífice 2 para criar a Bolsa Porta-Tudo.
+
+<row align="center" gap={3}>
+  <AsyncImage query="Dungeons Dragons 2024 Bag of Holding magical leather bag item illustration" aspectRatio="1:1" maxWidth="116px" fit="contain"/>
+  <box flex={1} gap={1}>
+    **Bolsa Porta-Tudo (Bag of Holding)**
+    <caption>Item maravilhoso incomum</caption>
+    - Capacidade: 226,8 kg.
+    - Volume: aproximadamente 1,81 m³.
+    - Peso próprio: 2,27 kg, independentemente do conteúdo.
+    - Não exige sintonização.
+  </box>
+</row>
+
+<Cite refs={["turn802175view1","turn802175view2"]}/>
+
+Você guarda suas ferramentas, provisões, materiais de artesanato, pertences e moedas na bolsa. Mantém suas armas, aljava, armadura e a Marca da Bigorna Velada acessíveis.
+
+**Projetos conhecidos: 1/4. Itens replicados: 1/2.** Nenhum gasto de ouro ou espaço de magia.
+
+---
+
+— Agradecimento registrado, Guardião — responde UM-021.
+
+— Atualmente, podemos monitorar as condições internas das portas e dos circuitos conectados. Entretanto, não possuímos informações visuais atualizadas do exterior. Será necessária uma inspeção dos dispositivos de vigilância próximos aos acessos.
+
+UM-019 traz seu almoço, composto de carne de corço preparada e água. Depois da refeição, UM-012 apresenta-se à porta.
+
+— Acompanhamento solicitado. A estação de manutenção sem resposta mais próxima encontra-se neste mesmo nível.
+
+## Dia 9 — 12h50 | Estação de manutenção
+
+UM-012 conduz você por uma galeria lateral até uma porta de bronze, junto à qual existe um pequeno painel apagado.
+
+— Estação de manutenção dos aposentos e da recepção. Nenhuma resposta aos comandos de diagnóstico.
+
+A porta encontra-se fechada. Você percebe uma inscrição em anão indicando a função de manutenção do primeiro nível.
+
+---
+
+**[LOG DE MEMÓRIA DA CAMPANHA]**
+
+- **Localização atual:** Estação de manutenção do primeiro nível, Dia 9, 12h50.
+- **NPCs presentes:** UM-012, cooperativa.
+- **Missão ativa:** Recuperar as estações de manutenção e investigar a vigilância externa.
+- **Eventos cruciais:** Bolsa Porta-Tudo criada; almoço consumido; primeira estação localizada.
+- **Condições:** 30/30 PV | CA 16 | 1.000/2.700 XP.
+- **Provisões:** 9 rações e aproximadamente 6,80 kg de carne salgada sob custódia de UM-019.
+
+**Nota do Mestre:** considerei sua criação da bolsa como a finalização do descanso longo que acabou de ocorrer. A carga exata ainda precisa ser recalculada; nenhum pertence foi descartado. A estação ainda não foi investigada e nenhuma rolagem foi necessária.
+
+**GitHub:** commit confirmado.

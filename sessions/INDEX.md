@@ -186,3 +186,5 @@
 - Atualização: sessão 0002 até [366], Dia9 03h02; comunicação vocal em Anão e aposentos identificados, XP1000/2700.
 
 - Atualização: sessão 0002 até [368], Dia9 12h15; ordens permanentes de manutenção, descanso longo, três estações sem resposta, XP1000/2700.
+
+- Atualização: sessão 0002 até [370], Dia9 12h50; Bolsa Porta-Tudo criada, primeira estação localizada, XP1000/2700.
