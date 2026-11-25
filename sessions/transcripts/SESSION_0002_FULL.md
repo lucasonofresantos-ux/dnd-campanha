@@ -14938,3 +14938,29 @@ Ao ver o pano que você trouxe, Celina limpa as mãos na saia e vem até a cerca
 - **Condições do jogador** · 30/30 PV, CA 16, 1.425/2.700 XP. Saldo de 73 PO, 2 PP e 4 PC.
 
 **Commit confirmado no GitHub.**
+
+## [517] JOGADOR
+
+- Estava preso na comporta do canal que toca a roda d'água do moinho, era isso que estava trancando o canal
+
+### Mestre — andamento
+
+Celina abre o pano sobre a cerca para ver quanto da manta sobrou.
+
+## [518] MESTRE
+
+— Então era isso que o Tomé tinha na mão. Com aquele tufinho, como é que eu ia reconhecer a minha manta? — Celina alisa a bainha com os três pontos verdes. — Obrigada por trazer. Eu dava por perdida.
+
+Ela olha por cima do ombro e aponta para uma porteira baixa, do outro lado do terreiro.
+
+— A última vez que vi a manta inteira, tava pendurada ali. Eu tinha acabado de recolher as ovelhas e contei todas antes de passar a tranca. Quando fui soltar o rebanho de manhã, faltavam duas. Só dei pela falta da manta mais tarde, na hora de cobrir o cesto. — Ela recolhe o pano da cerca. — Se quiser ver, pode entrar. Tem uma coisa naquela porteira que eu queria te mostrar.
+
+**[LOG DE MEMÓRIA DA CAMPANHA]**
+
+- **Localização atual** · Cerca do terreiro de Celina, Dia 12, cerca de 09h25.
+- **NPCs presentes e relação** · Celina, agradecida pela devolução da manta, convida Eron a examinar a porteira.
+- **Linha de missão ativa** · Apurar o desaparecimento das duas ovelhas e o percurso da manta até o moinho.
+- **Eventos cruciais ocorridos** · Segundo Celina, a manta estava na porteira na última noite em que ela contou o rebanho completo. O tecido recuperado ficou com ela.
+- **Condições do jogador** · 30/30 PV, CA 16, 1.425/2.700 XP. Saldo de 73 PO, 2 PP e 4 PC.
+
+**Commit confirmado no GitHub.**

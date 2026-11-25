@@ -233,9 +233,9 @@ character:
 campaign_time:
   calendar_system: "Asterion, dias relativos; nenhuma era/ano formal estabelecido"
   day: 12
-  time_of_day: "Dia 12, cerca de 09h20"
+  time_of_day: "Dia 12, cerca de 09h25"
   season: "final do outono"
-  elapsed_game_time: "Dia 12, 09h10–09h20"
+  elapsed_game_time: "Dia 12, 09h20–09h25"
 location:
   continent: Asterion
   polity: "Terras Livres de Avenhar (homebrew), fora de Valdren"
@@ -247,7 +247,7 @@ scene:
   id: OPENING-001
   status: "celina_visit_day12"
   current_npcs_present: ["Celina"]
-  immediate_visible_situation: "Dia12 09h10–09h20. Tomé consente. Eron leva o tecido molhado até Celina. Pano estendido na trave da cerca. Celina identifica três pontos de linha verde feitos por ela na bainha da manta de cobrir o cesto de roupa. Dava falta há dias e pergunta onde foi achada. Ovelhas seguem desaparecidas."
+  immediate_visible_situation: "Dia12 09h25. Eron explica a obstrução. Celina recolhe a manta recuperada, que diz ter visto na porteira ao trancar o rebanho completo; na manhã seguinte faltavam duas ovelhas e mais tarde notou a manta ausente. Convida Eron a examinar porteira. Eron ainda na cerca."
   discovered_traps:
     - location: "Trilha dos Corcos, junto ao riacho"
       state: disarmed_safe_wire_left_at_tree
@@ -292,8 +292,8 @@ world:
 transcription:
   character_creation_history: sessions/transcripts/SESSION_0001_FULL.md
   narrative_session: sessions/transcripts/SESSION_0002_FULL.md
-  last_saved_player_turn: "[515] JOGADOR — leva tecido até Celina."
-  last_saved_dm_turn: "[516] MESTRE — Celina reconhece a manta."
+  last_saved_player_turn: "[517] JOGADOR — explica onde achou a manta."
+  last_saved_dm_turn: "[518] MESTRE — Celina recorda a porteira."
 notes:
   - "Primeira resposta de cena será salva literalmente e sem revelar preparativos de dm."
   - "Nunca tratar a aprovação da ficha como XP, nem mudar recursos automaticamente."
