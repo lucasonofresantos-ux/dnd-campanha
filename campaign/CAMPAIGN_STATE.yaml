@@ -218,21 +218,21 @@ character:
 campaign_time:
   calendar_system: "Asterion, dias relativos; nenhuma era/ano formal estabelecido"
   day: 9
-  time_of_day: "aproximadamente 16h05 do Dia 9"
+  time_of_day: "aproximadamente 16h20 do Dia 9"
   season: "final do outono"
-  elapsed_game_time: "Dia9 14h45–16h05, reparo da estação nível4 e UM025."
+  elapsed_game_time: "Dia9 16h05–16h20, deslocamento guiado à terceira estação."
 location:
   continent: Asterion
   polity: "Terras Livres de Avenhar (homebrew), fora de Valdren"
   area: "entroncamento da Estrada do Cascalho, próximo ao Pouso das Três Fontes"
   nearby: "encostas arborizadas da serra cujo monte mais alto é chamado Veyra"
-  exact_position: "Interior da estação de manutenção das reservas estratégicas, nível4 de Thûn-Khazad."
+  exact_position: "Diante da porta fechada da estação de instrumentos rúnicos e arquivos, nível5 de Thûn-Khazad."
   travel_status: "Sete unidades operacionais; estações nível1 e nível4 operacionais, reservas estratégicas não integralmente inspecionadas, nível5 galeria iluminada, nível2 isolado, níveis3/7 operacionais, nível6 setores recuperados operacionais. Uma estação sem resposta, Caminhos selados, vigilância exterior pendente, compartimento privativo fechado."
 scene:
   id: OPENING-001
-  status: "level4_station_and_um025_operational_day9"
-  current_npcs_present: ["UM-012, cooperativa", "UM-025, cooperativa"]
-  immediate_visible_situation: "Dia9 14h45–16h05: jogador autorizou rolar para recuperar a segunda estação nível4. Luz em ferramenta14h45, renovada15h45 até16h45; três Orientações aplicadas a Investigação/Arcanismo, não aos testes exclusivos de ferramenta; Mending em condutor não mágico fissurado removido. Diagnóstico porta Investigação+Funileiro 2d20kh1+6 [17,15] índice0=23 +1d4[2]=25 sucesso; Ferreiro Destreza 1d20+7 [10]=17 sucesso; diagnóstico UM025 Investigação+Funileiro 2d20kh1+6 [19,15] índice0=25 +1d4[1]=26 sucesso; Funileiro INT 1d20+6 [1]=7 falha; nova abordagem circuito desmontado em bancada com ajuda UM012 2d20kh1+6 [2,14] índice1=20 sucesso; Arcanismo+Funileiro 2d20kh1+6 [3,14] índice1=20 +1d4[4]=24 sucesso. CDs15; nove expressões executadas de fato em container.exec neste turno, script hash git d35af70119bf684ea055619bb10678a1c4b03bbb conferido antes da primeira execução. Pino deformado corrigido, porta aberta; estação maior com equipamentos de logística, UM025 especializada armazenamento/inventário/movimentação/conservação recuperada. Uma peça de reposição (fusível rúnico) da própria estação consumida, não do depósito comum. Falha consumiu tempo, sem dano. Iluminação, bancada, equipamentos, diagnóstico e comunicação recuperados; UM025 reconhece Guardião, ordem permanente, inicia inspeção instalações armazenamento. Sete unidades operacionais e uma estação restante sem resposta. Reservas do nível4 não integralmente inspecionadas, Caminhos selados, vigilância exterior pendente. +25XP unidade e +25XP estação (inclui porta sem duplicação), total1100/2700; 30/30PV CA16 slots2/2 Tinker4/4 inspiração disponível, 3d8, sem condição, exaustão0, Orientação encerrada, Luz ativa até16h45. Decisões locais: identificação, avarias, componente local, ferramentas, ajuda, CDs, duração, XP e escopo estação. Nenhum recurso pessoal limitado gasto."
+  status: "awaiting_inspection_level5_station_day9"
+  current_npcs_present: ["UM-012, cooperativa"]
+  immediate_visible_situation: "Dia9 16h05–16h20: jogador solicita seguir à próxima estação; UM012 guia Eron ao nível5 (aposentos e estudo), até terceira e última estação sem resposta, inscrição Anão instrumentos rúnicos e arquivos; porta bronze fechada, painel apagado, runa âmbar intermitente indica alimentação residual. UM025 permanece nível4 inspecionando armazenamento. Interior não investigado, nenhuma unidade adicional confirmada. Sete unidades operacionais, uma estação pendente, Caminhos selados. Definições locais: localização, duração, configuração visível. Sem teste, XP, magia, dano ou gasto. Luz ativa até16h45. Auditoria [380]: nove expressões sem chamada real ao executor Python; entradas false acrescentadas sem apagar originais; narrativa e XP preservados."
   discovered_traps:
     - location: "Trilha dos Corcos, junto ao riacho"
       state: disarmed_safe_wire_left_at_tree
@@ -257,8 +257,8 @@ scene:
   combat: false
   initiative: []
   rounds: 0
-  dice_rolled: true
-  xp_awarded: true
+  dice_rolled: false
+  xp_awarded: false
   reward_offered_but_not_accepted: null
   herd_contract_status: "Concluído Dia5 ~11h55; Mara confirmou três noites sem perdas, pagou 12 PO; +50 XP de resolução substantiva, reputação gratidão e respeito."
   investigation_offer: null
@@ -277,8 +277,8 @@ world:
 transcription:
   character_creation_history: sessions/transcripts/SESSION_0001_FULL.md
   narrative_session: sessions/transcripts/SESSION_0002_FULL.md
-  last_saved_player_turn: "[379] JOGADOR — autoriza rolar para recuperar segunda estação."
-  last_saved_dm_turn: "[380] MESTRE — estação nível4 e UM025 recuperadas, Dia9 16h05, XP1100."
+  last_saved_player_turn: "[381] JOGADOR — solicita seguir à próxima oficina."
+  last_saved_dm_turn: "[382] MESTRE — chegada à estação nível5, porta fechada, Dia9 16h20."
 notes:
   - "Primeira resposta de cena será salva literalmente e sem revelar preparativos de dm."
   - "Nunca tratar a aprovação da ficha como XP, nem mudar recursos automaticamente."
@@ -332,3 +332,5 @@ notes:
   - "Auditoria [372]: não ocorreu execução Python real na interação anterior. Quatro entradas false acrescentadas sem apagar originais; narrativa preservada. [374] execução real container.exec e hash verificado."
 
   - "Auditoria [374]: dez expressões sem execução Python comprovada; correções false adicionadas, acontecimentos e XP preservados. [376] sem rolagens."
+
+  - "Auditoria [380]: nove expressões sem execução Python comprovada, correções false acrescentadas; narrativa e XP preservados. [382] sem rolagens."
