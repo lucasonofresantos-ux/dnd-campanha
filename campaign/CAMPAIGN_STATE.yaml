@@ -7,7 +7,7 @@ homebrew:
 advancement:
   method: experience_points
   milestones_do_not_grant_levels: true
-  current_total_xp: 1100
+  current_total_xp: 1125
   next_level_xp: 2700
   level_up_pending: false
   level_up_note: "Nível total3 confirmado: Ladino1/Artífice2. Três planos e uma magia de 1º círculo pendentes; Bolsa Porta-Tudo criada."
@@ -21,7 +21,7 @@ character:
     Ladino: 1
     Artífice: 2
   character_level: 3
-  xp_total: 1100
+  xp_total: 1125
   xp_next_level: 2700
   hp_current: 30
   hp_max: 30
@@ -61,7 +61,7 @@ character:
     copper: 7
   inventory_reference: character/ERON_RIVER_LEVEL_01.md
   illumination:
-    light_cantrip: "Ativo em ferramenta desde Dia9 15h45, expira16h45, sem concentração."
+    light_cantrip: "Ativo em ferramenta desde Dia9 16h45, expira17h45, sem concentração."
     hooded_lantern_lit: false
     oil_flasks_spare: 4
     candles: 10
@@ -218,21 +218,21 @@ character:
 campaign_time:
   calendar_system: "Asterion, dias relativos; nenhuma era/ano formal estabelecido"
   day: 9
-  time_of_day: "aproximadamente 16h20 do Dia 9"
+  time_of_day: "aproximadamente 17h25 do Dia 9"
   season: "final do outono"
-  elapsed_game_time: "Dia9 16h05–16h20, deslocamento guiado à terceira estação."
+  elapsed_game_time: "Dia9 17h15–17h25, consulta e deslocamento em busca de UM027."
 location:
   continent: Asterion
   polity: "Terras Livres de Avenhar (homebrew), fora de Valdren"
   area: "entroncamento da Estrada do Cascalho, próximo ao Pouso das Três Fontes"
   nearby: "encostas arborizadas da serra cujo monte mais alto é chamado Veyra"
-  exact_position: "Diante da porta fechada da estação de instrumentos rúnicos e arquivos, nível5 de Thûn-Khazad."
-  travel_status: "Sete unidades operacionais; estações nível1 e nível4 operacionais, reservas estratégicas não integralmente inspecionadas, nível5 galeria iluminada, nível2 isolado, níveis3/7 operacionais, nível6 setores recuperados operacionais. Uma estação sem resposta, Caminhos selados, vigilância exterior pendente, compartimento privativo fechado."
+  exact_position: "Galeria técnica dos arquivos, nível5 de Thûn-Khazad, diante de passagem lateral escura."
+  travel_status: "Sete unidades operacionais; estações nível1, nível4 e nível5 recuperadas; UM027 registrada, não localizada. Reservas não integralmente inspecionadas, nível2 isolado, níveis3/7 operacionais, nível6 setores recuperados operacionais. Caminhos selados, vigilância exterior pendente, compartimento privativo fechado."
 scene:
   id: OPENING-001
-  status: "awaiting_inspection_level5_station_day9"
+  status: "awaiting_investigation_um027_traces_day9"
   current_npcs_present: ["UM-012, cooperativa"]
-  immediate_visible_situation: "Dia9 16h05–16h20: jogador solicita seguir à próxima estação; UM012 guia Eron ao nível5 (aposentos e estudo), até terceira e última estação sem resposta, inscrição Anão instrumentos rúnicos e arquivos; porta bronze fechada, painel apagado, runa âmbar intermitente indica alimentação residual. UM025 permanece nível4 inspecionando armazenamento. Interior não investigado, nenhuma unidade adicional confirmada. Sete unidades operacionais, uma estação pendente, Caminhos selados. Definições locais: localização, duração, configuração visível. Sem teste, XP, magia, dano ou gasto. Luz ativa até16h45. Auditoria [380]: nove expressões sem chamada real ao executor Python; entradas false acrescentadas sem apagar originais; narrativa e XP preservados."
+  immediate_visible_situation: "Dia9 17h15–17h25: jogador solicita procurar UM027. UM012 consulta registro da oficina recuperada; última ordem de serviço encaminhou UM027 à galeria técnica dos arquivos para manutenção dos instrumentos de transmissão rúnica, sem registro de retorno. Eron e UM012 seguem até galeria e, a cerca de15m da entrada, marcas antigas de arrastamento visíveis na pedra (percepção passiva17, sem teste), seguem à passagem lateral escura não monitorada. UM027 ainda não localizada; teste de Investigação+6 solicitado, vantagem se ferramentas de Funileiro pertinentes e Orientação +1d4 se conjurada, aguarda dado/autorizações; não entrou passagem. Sete construtos, três estações restauradas, caminhos selados. Luz ativa até17h45, 30/30PV CA16 XP1125/2700, slots2/2 Tinker4/4, inspiração disponível. Sem novo XP, rolagem, dano ou gasto. Auditoria [384]: oito expressões sem execução comprovada no histórico; preservar resultados narrativos e XP, acrescentar correções false. Recuperação anterior consta em ficha, XP e cronologia; reconciliar estado e transcrição integral a partir das mensagens visíveis."
   discovered_traps:
     - location: "Trilha dos Corcos, junto ao riacho"
       state: disarmed_safe_wire_left_at_tree
@@ -277,8 +277,8 @@ world:
 transcription:
   character_creation_history: sessions/transcripts/SESSION_0001_FULL.md
   narrative_session: sessions/transcripts/SESSION_0002_FULL.md
-  last_saved_player_turn: "[381] JOGADOR — solicita seguir à próxima oficina."
-  last_saved_dm_turn: "[382] MESTRE — chegada à estação nível5, porta fechada, Dia9 16h20."
+  last_saved_player_turn: "[385] JOGADOR — solicita procurar UM027."
+  last_saved_dm_turn: "[386] MESTRE — galeria técnica, aguarda Investigação, Dia9 17h25."
 notes:
   - "Primeira resposta de cena será salva literalmente e sem revelar preparativos de dm."
   - "Nunca tratar a aprovação da ficha como XP, nem mudar recursos automaticamente."
@@ -334,3 +334,5 @@ notes:
   - "Auditoria [374]: dez expressões sem execução Python comprovada; correções false adicionadas, acontecimentos e XP preservados. [376] sem rolagens."
 
   - "Auditoria [380]: nove expressões sem execução Python comprovada, correções false acrescentadas; narrativa e XP preservados. [382] sem rolagens."
+
+  - "Auditoria [384]: oito expressões sem execução Python comprovada; correções acrescentadas, sem alterar fatos ou XP. [386] nenhum dado novo."
