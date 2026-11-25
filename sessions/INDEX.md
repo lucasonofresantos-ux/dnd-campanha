@@ -260,3 +260,5 @@
 - [532] Dia12 11h20–16h10. Retorno caçando três lebres. Tentativa inicial falha, nova área produtiva. Três disparos, duas flechas recuperadas, uma quebrada. Restam 19+10 flechas. Três peles e três pés traseiros salgados com 400g; 800g sal restantes. Bolsa: ~4kg carne fresca, 3 corações, 3 fígados, 6 rins, 6 orelhas, ossos, tendões, peles e pés. Todos em posse; nada entregue a Alda.
 
 - [534] Dia12 16h10–16h45. Consertar reunifica a flecha: 20 aljava, 10 reserva. Belda paga 6PP por três peles e Nessa 9PC por três pés. Saldo 73PO9PP3PC. Carne ~4kg na mesa de Alda para negociação, oferta de 1PO pendente. Miúdos, orelhas, ossos e tendões com Eron.
+
+- [536] Dia12 16h50. Alda aceita ~4kg carne de lebre por jantar, banho quente e pernoite no quarto 3 até Dia13. Carne entregue e chave com Eron. Sem pagamento em moedas; nenhum serviço ainda usufruído. Miúdos com Eron.

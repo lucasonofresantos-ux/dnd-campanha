@@ -15210,3 +15210,29 @@ Na hospedagem, Alda abre espaço na mesa da cozinha para os embrulhos de carne. 
 - **Condições do jogador** · 30/30 PV, CA 16, 1.450/2.700 XP. **20 flechas na aljava e 10 de reserva**. Saldo após as vendas de **73 PO, 9 PP e 3 PC**.
 
 **Commit confirmado no GitHub.**
+
+## [535] JOGADOR
+
+- Que tal o mesmo negócio de ontem? Quarto comida e banho?
+
+### Mestre — andamento
+
+Alda deixa a carne na balança e olha para o gancho da chave do quarto três.
+
+## [536] MESTRE
+
+— Fechado, Eron. As três lebres pelo jantar de hoje, um banho quente e o quarto três até amanhã. E você ainda vai poder me dizer se acertei o ponto das costelas de ontem.
+
+Alda tira a carne da balança, cobre a travessa e te entrega a chave. Da panela junto ao fogo vem cheiro de corço com cebola. Ela põe água para aquecer e volta a mexer o caldo.
+
+— Quando quiser jantar, é só puxar um banco. Vou guardar um pedaço de costela pra você antes que aquele homem do nabo apareça.
+
+**[LOG DE MEMÓRIA DA CAMPANHA]**
+
+- **Localização atual** · Cozinha de Alda, Dia 12, cerca de 16h50.
+- **NPCs presentes e relação** · Alda, anfitriã, aceitou a troca.
+- **Linha de missão ativa** · Troca quitada. Jantar, banho quente e pernoite no quarto 3 garantidos.
+- **Eventos cruciais ocorridos** · Alda recebeu os cerca de 4 kg de carne de lebre. A chave voltou para Eron. Os miúdos continuam na bolsa dele.
+- **Condições do jogador** · 30/30 PV, CA 16, 1.450/2.700 XP. Saldo de **73 PO, 9 PP e 3 PC**.
+
+**Commit confirmado no GitHub.**

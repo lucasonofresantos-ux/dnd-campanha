@@ -105,6 +105,7 @@ character:
     status: completed
     remaining_materials_location: "Materiais do projeto consumidos; 20 flechas concluídas; nenhuma sobra estabelecida."
   accommodation:
+    day12_barter: "Dia12 16h50. Alda aceita ~4kg carne de lebre por jantar, banho quente e pernoite no quarto 3 até Dia13. Carne entregue e chave com Eron. Sem pagamento em moedas; nenhum serviço ainda usufruído. Miúdos com Eron."
     day11_barter: "Quitada e usufruída. Banho, jantar, quarto 3 e café do Dia 12 consumados."
     inn: "Posto de Descanso de Alda Tress"
     private_room: 3
@@ -113,7 +114,7 @@ character:
     breakfast_day11: "Pago 1PP; consumido antes da chegada à ferraria 06h55."
     cost_gold: 1
     cost_silver: 3
-    temporary_room_key: "Chave do quarto 3 devolvida a Alda Dia12."
+    temporary_room_key: "Chave 3 novamente entregue a Eron para a noite do Dia12."
     long_rest_started: true
     long_rest_completed: true
     rest_completion: "Dia12 04h30; descanso longo completo, noite sem interrupção."
@@ -222,7 +223,7 @@ character:
     estimated_added_weight_kg: 16
     preparation_result: "2d20kh1+5 [20,11] mantido20+5=25, execução Python não comprovada, continuidade preservada."
   harvested_roe_deer_day11: "Dia 11, 16h25–19h10. Caça na Trilha dos Corços: Sobrevivência 25, Furtividade 22, ataque crítico 27, dano 16, aproveitamento 21. Flecha recuperada intacta. Pele salgada (1 kg consumido, 1,2 kg restante), duas orelhas, duas galhadas, quatro ossos longos, dois feixes de tendões e dentes em posse. 11 kg de carne incluindo costelar, mais coração e fígado entregues a Alda. Troca quitada, jantar servido ainda não consumido, banho aquecendo e quarto 3 garantido. Restante vendido no Dia12; nada da caça Dia11 em posse."
-  harvested_hares_day12: "Dia12 16h10–16h45. Consertar reunifica a flecha: 20 aljava, 10 reserva. Belda paga 6PP por três peles e Nessa 9PC por três pés. Saldo 73PO9PP3PC. Carne ~4kg na mesa de Alda para negociação, oferta de 1PO pendente. Miúdos, orelhas, ossos e tendões com Eron."
+  harvested_hares_day12: "Dia12 16h10–16h45. Consertar reunifica a flecha: 20 aljava, 10 reserva. Belda paga 6PP por três peles e Nessa 9PC por três pés. Saldo 73PO9PP3PC. Carne ~4kg na mesa de Alda para negociação, carne entregue em troca da estadia, jantar e banho. Miúdos, orelhas, ossos e tendões com Eron."
   salt_supply:
     sacks: 2
     weight_kg_approx: 0.8
@@ -234,9 +235,9 @@ character:
 campaign_time:
   calendar_system: "Asterion, dias relativos; nenhuma era/ano formal estabelecido"
   day: 12
-  time_of_day: "Dia 12, cerca de 16h45"
+  time_of_day: "Dia 12, cerca de 16h50"
   season: "final do outono"
-  elapsed_game_time: "Dia 12, 16h10–16h45"
+  elapsed_game_time: "Dia 12, 16h45–16h50"
 location:
   continent: Asterion
   polity: "Terras Livres de Avenhar (homebrew), fora de Valdren"
@@ -246,9 +247,9 @@ location:
   travel_status: "Eron chegou à cozinha após passar por Belda e Nessa."
 scene:
   id: OPENING-001
-  status: "alda_hare_offer_day12"
+  status: "alda_hare_barter_day12"
   current_npcs_present: ["Alda Tress"]
-  immediate_visible_situation: "Dia12 16h10–16h45. Consertar reunifica a flecha: 20 aljava, 10 reserva. Belda paga 6PP por três peles e Nessa 9PC por três pés. Saldo 73PO9PP3PC. Carne ~4kg na mesa de Alda para negociação, oferta de 1PO pendente. Miúdos, orelhas, ossos e tendões com Eron."
+  immediate_visible_situation: "Dia12 16h50. Alda aceita ~4kg carne de lebre por jantar, banho quente e pernoite no quarto 3 até Dia13. Carne entregue e chave com Eron. Sem pagamento em moedas; nenhum serviço ainda usufruído. Miúdos com Eron."
   discovered_traps:
     - location: "Trilha dos Corcos, junto ao riacho"
       state: disarmed_safe_wire_left_at_tree
@@ -293,8 +294,8 @@ world:
 transcription:
   character_creation_history: sessions/transcripts/SESSION_0001_FULL.md
   narrative_session: sessions/transcripts/SESSION_0002_FULL.md
-  last_saved_player_turn: "[533] JOGADOR — conserta flecha, vende peles e pés e leva carne a Alda."
-  last_saved_dm_turn: "[534] MESTRE — vendas e oferta de Alda."
+  last_saved_player_turn: "[535] JOGADOR — propõe quarto, comida e banho."
+  last_saved_dm_turn: "[536] MESTRE — troca aceita e chave entregue."
 notes:
   - "Primeira resposta de cena será salva literalmente e sem revelar preparativos de dm."
   - "Nunca tratar a aprovação da ficha como XP, nem mudar recursos automaticamente."
