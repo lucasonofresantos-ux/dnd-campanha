@@ -61,7 +61,7 @@ character:
     copper: 7
   inventory_reference: character/ERON_RIVER_LEVEL_01.md
   illumination:
-    light_cantrip: "Ativo em ferramenta desde Dia9 19h50, expira20h50, sem concentração."
+    light_cantrip: "Inativo; expirou Dia9 20h50."
     hooded_lantern_lit: false
     oil_flasks_spare: 4
     candles: 10
@@ -73,9 +73,9 @@ character:
     additional_dim_light_ft: 30
   underground_sleep:
     last_long_rest_finished: "Dia9 12h15"
-    sleep_started: "Dia9 04h15"
-    sleep_finished: "Dia9 12h15"
-    new_long_rest_benefits: true
+    sleep_started: "Dia9 20h30"
+    sleep_finished: "Dia10 04h30"
+    new_long_rest_benefits: false
     next_long_rest_earliest_start: "Dia10 04h15"
   waterskin: "Dia7 ~06h05–06h20: bebeu água; volume restante não aferido."
   carrying_all_owned_equipment: false
@@ -217,22 +217,22 @@ character:
   animal_handling_last: "Dia5 ~10h05: dado natural 14+3=17; loba e filhotes aceitam carinho."
 campaign_time:
   calendar_system: "Asterion, dias relativos; nenhuma era/ano formal estabelecido"
-  day: 9
-  time_of_day: "aproximadamente 20h10 do Dia 9"
+  day: 10
+  time_of_day: "aproximadamente 04h30 do Dia 10"
   season: "final do outono"
-  elapsed_game_time: "Dia9 20h05–20h10, diagnóstico local e consulta de tempo."
+  elapsed_game_time: "Dia9 20h10–Dia10 04h30, retorno aos aposentos e sono."
 location:
   continent: Asterion
   polity: "Terras Livres de Avenhar (homebrew), fora de Valdren"
   area: "entroncamento da Estrada do Cascalho, próximo ao Pouso das Três Fontes"
   nearby: "encostas arborizadas da serra cujo monte mais alto é chamado Veyra"
-  exact_position: "Salão das Seis Portas, nível2 de Thûn-Khazad, junto ao painel de distribuição."
-  travel_status: "Oito unidades operacionais; três estações recuperadas; sete níveis com alimentação local, nível2 circuito e comunicação recuperados. Reservas não integralmente inspecionadas, vigilância exterior pendente, Caminhos selados, compartimento privativo fechado. Certificação integral ainda pendente."
+  exact_position: "Aposentos privativos do Guardião, nível1 de Thûn-Khazad."
+  travel_status: "Oito unidades operacionais; três estações recuperadas; sete níveis alimentados localmente. Prioridade manutenção interna; intervenção exterior suspensa até autorização. Reservas em inventário, Caminhos selados, compartimento privativo fechado. Certificação integral pendente."
 scene:
   id: OPENING-001
-  status: "level2_diagnostics_complete_surveillance_pending_day9"
-  current_npcs_present: ["UM-012, cooperativa", "UM-027, cooperativa", "Sistema Central, autoridade reconhecida"]
-  immediate_visible_situation: "Dia9 20h05–20h10: Eron solicitou diagnóstico e tempo desde entrada. Sistema e UM027 executam consulta automática dos seis mecanismos locais: Karak-Mith, Barak-Zirak, Khaz-Vardun, Dun-Khazâr, Thoradin e Baraz-Khaz respondem localmente, todos selados, nenhum território remoto em comunicação, integridade de passagens e habitantes desconhecidos; sem abertura. Geração principal operacional, sete níveis alimentados localmente, oito unidades, três estações recuperadas, vigilância exterior sem sinal, inventário em andamento, saneamento/aquecimento requer inspeção; recomenda circuito vigilância junto vestíbulo original, UM027 oferece ajuda. Cronologia confirma ingresso Dia6 ~14h06–14h08, considerado ~14h08; Dia9 20h10 = ~3d6h02 (~78h), sem saída registrada, inclui descansos. Definições locais: resposta dos mecanismos locais e recomendação de inspeção, não certificação de passagem. Sem dado novo, XP, magia, gasto ou dano, Luz ativa até20h50. Auditoria [392]: seis expressões sem execução Python comprovada, correções false acrescentadas e fatos/XP preservados."
+  status: "guardian_awake_day10_internal_restoration_priority"
+  current_npcs_present: ["UM-021, cooperativo"]
+  immediate_visible_situation: "Dia9 20h10–Dia10 04h30: jogador anunciou dormir e ordenou manter prioridade restauração de tudo exceto área externa por ora. Sistema confirmou prioridade interna, suspensão de intervenções externas até autorização e manutenção dos seis selos. UM012 guiou Eron aos aposentos privativos nível1, cama preparada, quarto limpo e iluminação funcional. Sono sem interrupções Dia9 20h30–Dia10 04h30, 8h, sem novo benefício mecânico de descanso longo porque último terminou Dia9 12h15, intervalo entre términos16h15 (<24h); último descanso válido permanece, próximo início elegível Dia10 04h15. Luz expirou Dia9 20h50. Oito unidades trabalharam em manutenção ordinária durante sono: UM012 limpeza/saneamento, UM014 equipamentos, UM017 transporte/estrutura, UM019 cozinha/mantimentos, UM021 coordenação/registros, UM023 hidráulica/aquecimento, UM025 inventário, UM027 circuitos internos; relatório UM021 junto porta04h30. Circuitos recuperados permanecem operantes, nenhum trabalho exterior, nenhum novo setor integralmente certificado, nenhum Caminho aberto. Ordem permanente alterada para excluir área externa temporariamente; não presumir inventário concluído. Sem testes, XP, consumo de alimento, dano, gasto, nova magia ou renovação de recursos. PV30/30 CA16 XP1200/2700 slots2/2 Tinker4/4 inspiração disponível 3d8 exaustão0. Decisões locais: deslocamento20min, sono8h sem interrupção, manutenção ordinária e horário relatório."
   discovered_traps:
     - location: "Trilha dos Corcos, junto ao riacho"
       state: disarmed_safe_wire_left_at_tree
@@ -277,8 +277,8 @@ world:
 transcription:
   character_creation_history: sessions/transcripts/SESSION_0001_FULL.md
   narrative_session: sessions/transcripts/SESSION_0002_FULL.md
-  last_saved_player_turn: "[393] JOGADOR — solicita diagnóstico e tempo desde entrada."
-  last_saved_dm_turn: "[394] MESTRE — diagnóstico local das portas, ~78h desde entrada, Dia9 20h10."
+  last_saved_player_turn: "[395] JOGADOR — dormir e manter prioridade interna, excluindo exterior."
+  last_saved_dm_turn: "[396] MESTRE — desperta Dia10 04h30, relatório UM021, sem novo benefício de descanso longo."
 notes:
   - "Primeira resposta de cena será salva literalmente e sem revelar preparativos de dm."
   - "Nunca tratar a aprovação da ficha como XP, nem mudar recursos automaticamente."
