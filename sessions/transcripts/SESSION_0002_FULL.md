@@ -8425,3 +8425,93 @@ Nenhum XP adicional por enquanto: o coletor foi diagnosticado, mas não recupera
 **Auditoria:** as três rolagens atuais têm execução Python comprovada. As quatro rolagens da oficina do turno anterior não têm execução comprovada no histórico disponível; corrigi a classificação, preservando os acontecimentos.
 
 **GitHub:** commit confirmado; transcrição, estado, ficha, cronologia e rolagens atualizados.
+
+
+## [295] JOGADOR
+
+17 e 18 para fazer funcionar direito
+
+## [296] MESTRE
+
+Vou aplicar os dois resultados naturais ao reparo mecânico e à recuperação do circuito de controle, verificando se o coletor pode funcionar sem liberar setores ainda desconhecidos.
+
+## Monte Veyra — Dia 6, 23h55
+
+<card gap={3}>
+  {#each [{name:"Destreza — Ferramentas de Ferreiro",die:17,mod:7},{name:"Inteligência — Ferramentas de Funileiro",die:18,mod:6}] as r}
+    <row align="center">
+      <svg viewBox="0 0 100 100" size="76px">
+        <polygon points="50,4 94,29 94,73 50,97 6,73 6,29" fill="#214b86" stroke="#93b5dd" strokeWidth="2"/>
+        <path d="M50 4L23 65L94 73L50 4L77 65L6 73L50 4M6 29L77 65L50 97L23 65L94 29" stroke="#93b5dd" fill="none"/>
+        <text x="50" y="58" fontSize="29" fontWeight="bold" fill="white" textAnchor="middle">{r.die}</text>
+      </svg>
+      <box flex={1} gap={1}>
+        **{r.name}**
+        <caption>{`1d20+${r.mod} → [${r.die}] + ${r.mod}`}</caption>
+        <text size="sm" color="success">Sucesso</text>
+      </box>
+      <title size="2xl" color="success">{r.die+r.mod}</title>
+    </row>
+  {/each}
+  <caption>Resultados naturais informados pelo jogador.</caption>
+</card>
+
+Após verificar as dimensões dos componentes danificados, você retorna à oficina para buscar o pino fabricado e um dos cristais calibrados. Ambos são compatíveis com o coletor.
+
+De volta à câmara, você recupera o condutor rompido, substitui o pino defeituoso, libera o mecanismo de distribuição e instala o cristal de reposição no circuito de controle.
+
+Quando conclui a manutenção e inicia o teste local, um ruído metálico profundo ecoa pela câmara. O coletor começa a girar lentamente sobre sua base. As seis linhas de distribuição se iluminam junto ao equipamento, e as runas do painel tornam-se legíveis.
+
+<box background="#172521" theme="dark" radius="lg" padding={4} gap={3}>
+  <title size="lg" color="#a5e6c2">COLETOR CENTRAL</title>
+  <caption>Diagnóstico interno</caption>
+  <divider color="#426154"/>
+  {#each ["Alimentação principal","Mecanismo de distribuição","Painel de controle","Comunicação local"] as item}
+    <row align="center">
+      <icon name="check-circle" color="#79d6a3"/>
+      <box flex={1}><text color="#d9e6dd">{item}</text></box>
+      <text color="#79d6a3" weight="medium">Operacional</text>
+    </row>
+  {/each}
+  <divider color="#426154"/>
+  <text color="#e6b765" textAlign="center">CIRCUITOS SETORIAIS AGUARDANDO INSPEÇÃO</text>
+</box>
+
+A iluminação da câmara se acende. Acima da pesada porta metálica ao fundo, uma inscrição anteriormente invisível começa a brilhar:
+
+**NÍVEL DE DISTRIBUIÇÃO — ACESSO AO NÚCLEO**
+
+As duas passagens laterais também possuem inscrições:
+
+- **Esquerda:** Reservatório e circulação.
+- **Direita:** Controle e proteção da rede.
+
+A porta ao fundo permanece fechada. O coletor está recuperado, mas os circuitos externos ainda não foram liberados.
+
+<card gap={2}>
+  <caption>Experiência — recuperação do coletor central</caption>
+  <title size="xl" color="success">+50 XP</title>
+  **475/900 XP — Nível 2**
+  <box height={2} radius="full" background="surface-tertiary" clip>
+    <box width="52.78%" height="100%" background="#26925b"/>
+  </box>
+</card>
+
+**O que você faz?**
+
+---
+
+**[LOG DE MEMÓRIA DA CAMPANHA]**
+
+- **Localização atual:** Câmara do coletor central, Monte Veyra, Dia 6, 23h55.
+- **NPCs presentes e relação:** Nenhum detectado.
+- **Linha de missão ativa:** Inspecionar os circuitos setoriais e explorar o acesso ao núcleo.
+- **Eventos cruciais:** Coletor recuperado; três acessos identificados.
+- **Condições:** 21/21 PV | CA 16 | Ladino 1 / Artífice 1 | Inspiração Heroica disponível.
+- **Recursos:** 2/2 espaços de magia, 4/4 usos de Magia do Funileiro, cinco frascos de óleo em reserva e 2h15 de autonomia da lanterna.
+
+Utilizei o pino e um cristal da oficina para os reparos; o eixo e o outro cristal continuam lá. Nenhuma magia foi consumida.
+
+**Auditoria:** as rolagens anteriores da galeria não têm execução Python comprovada no histórico disponível; corrigi sua classificação, sem alterar os acontecimentos. Neste turno, utilizei apenas os dados informados por você.
+
+**GitHub:** commit confirmado; transcrição, ficha, estado, cronologia, XP e rolagens atualizados.

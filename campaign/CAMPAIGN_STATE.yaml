@@ -7,7 +7,7 @@ homebrew:
 advancement:
   method: experience_points
   milestones_do_not_grant_levels: true
-  current_total_xp: 425
+  current_total_xp: 475
   next_level_xp: 900
   level_up_pending: false
   level_up_note: "Nível 2 aplicado: Ladino1/Artífice1. Perícia e magias eletivas pendentes."
@@ -21,7 +21,7 @@ character:
     Ladino: 1
     Artífice: 1
   character_level: 2
-  xp_total: 425
+  xp_total: 475
   xp_next_level: 900
   hp_current: 21
   hp_max: 21
@@ -197,21 +197,21 @@ character:
 campaign_time:
   calendar_system: "Asterion, dias relativos; nenhuma era/ano formal estabelecido"
   day: 6
-  time_of_day: "aproximadamente 22h35 do Dia 6"
+  time_of_day: "aproximadamente 23h55 do Dia 6"
   season: "final do outono"
-  elapsed_game_time: "Dia6 ~22h05–22h35, exploração da galeria e diagnóstico do coletor."
+  elapsed_game_time: "Dia6 ~22h35–23h55, busca de peças, reparo e teste local do coletor."
 location:
   continent: Asterion
   polity: "Terras Livres de Avenhar (homebrew), fora de Valdren"
   area: "entroncamento da Estrada do Cascalho, próximo ao Pouso das Três Fontes"
   nearby: "encostas arborizadas da serra cujo monte mais alto é chamado Veyra"
   exact_position: "Câmara do coletor central do Monte Veyra, diante do equipamento."
-  travel_status: "Galeria percorrida, coletor diagnosticado, duas passagens e porta ainda não exploradas."
+  travel_status: "Coletor recuperado, circuitos setoriais isolados; três acessos identificados e não percorridos."
 scene:
   id: OPENING-001
-  status: "awaiting_player_action_at_central_collector_day6"
+  status: "awaiting_player_action_at_repaired_central_collector_day6"
   current_npcs_present: []
-  immediate_visible_situation: "Dia6 ~22h05–22h35: Eron deixou oficina, retornou à estação térmica operacional, entrou na galeria de inspeção estreita junto a canal de água. Após ~60m, pedra solta cedeu sob pé; Percepção11 não detectou previamente, resistência DES16 evitou queda, sem dano. Chegou a câmara maior com coletor central, seis conjuntos de condutores, alimentação parcial, maioria dos cristais apagados. Investigação com vantagem24 (proficiências pertinentes) identificou ruptura de um condutor de alimentação, bloqueio físico do mecanismo de distribuição, painel parcialmente alimentado sem comunicação com circuitos seguintes. Inscrição anã COLETOR CENTRAL; Distribuição setorial; Inspeção e controle de alimentação; Conexões setoriais bloqueadas. Duas passagens laterais e porta pesada no fundo, nenhuma explorada. Eron diante do coletor; não operou, não reparou. Estoque de peças permanece na oficina; compatibilidade não confirmada. PV21/21 CA16 XP425/900, inspiração disponível, espaços2/2, Magia do Funileiro4/4, lanterna 3h35 até Dia7 ~02h10, cinco óleos reserva. Nenhuma criatura detectada, nenhum combate, coleta, XP ou gasto adicional. Execução real [294] container.exec: git hash-object /tmp/eron_dice_roller.py = d35af70119bf684ea055619bb10678a1c4b03bbb; test conferiu SHA antes de executar. Ordem efetiva Python: Percepção 1d20+7 rolls[4], kept_indices[0], modifier7,total11; Investigação 2d20kh1+6 rolls[18,14], kept_indices[0],modifier6,total24; resistência DES 1d20+7 rolls[9],kept_indices[0],modifier7,total16. Apresentação em ordem narrativa Percepção, resistência, Investigação. Auditoria [292]: quatro dados anteriores não têm execução Python comprovada no histórico disponível; manter resultados e narrativa, acrescentar correções false."
+  immediate_visible_situation: "Dia6 ~22h35–23h55: jogador informou 17 e 18 para reparo. Destreza/Ferreiro 1d20+7 [17]+7=24 e Inteligência/Funileiro 1d20+6 [18]+6=24, faces informadas pelo jogador, sem Python. Verificou compatibilidade, retornou à oficina e trouxe pino fabricado e um cristal calibrado; ambos instalados no coletor (estoque oficina restante: eixo recuperado, um cristal calibrado; três armários fechados). Recuperou condutor rompido, substituiu pino defeituoso, liberou mecanismo e instalou cristal no controle. Teste local: coletor gira lentamente, seis linhas iluminadas junto ao dispositivo, painel informa alimentação, mecanismo, controle, comunicação local operacionais; circuitos setoriais aguardam inspeção, não liberados. Iluminação da câmara acesa. Inscrições Anão: porta ao fundo 'NÍVEL DE DISTRIBUIÇÃO — ACESSO AO NÚCLEO', esquerda 'Reservatório e circulação', direita 'Controle e proteção da rede'. Porta fechada, passagens não exploradas. +50 XP por recuperação funcional local do coletor, total475/900, nível2. PV21/21 CA16 inspiração disponível, espaços2/2, Magia do Funileiro4/4; lanterna 2h15 até Dia7 ~02h10, cinco óleos reserva; sem dano, combate, coleta pessoal ou gasto de material próprio. Eron permanece diante do coletor. Auditoria [294]: no histórico de ferramentas disponível não consta execução Python efetiva das três rolagens anteriores; preservar fatos e resultados narrativos e acrescentar registros de correção false. [296] dados físicos informados pelo jogador, sem alegação de execução Python."
   discovered_traps:
     - location: "Trilha dos Corcos, junto ao riacho"
       state: disarmed_safe_wire_left_at_tree
@@ -256,8 +256,8 @@ world:
 transcription:
   character_creation_history: sessions/transcripts/SESSION_0001_FULL.md
   narrative_session: sessions/transcripts/SESSION_0002_FULL.md
-  last_saved_player_turn: "[293] JOGADOR — explora galeria e autoriza testes."
-  last_saved_dm_turn: "[294] MESTRE — Percepção11, resistência16, Investigação24; coletor localizado."
+  last_saved_player_turn: "[295] JOGADOR — informa 17 e 18 para reparo."
+  last_saved_dm_turn: "[296] MESTRE — Ferreiro24 Funileiro24, coletor recuperado, +50 XP."
 notes:
   - "Primeira resposta de cena será salva literalmente e sem revelar preparativos de dm."
   - "Nunca tratar a aprovação da ficha como XP, nem mudar recursos automaticamente."

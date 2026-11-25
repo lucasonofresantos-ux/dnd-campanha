@@ -319,3 +319,8 @@ date,campaign_id,stage,attempt,expression,six_rolls_faces_in_order,six_attribute
 2026-11-24,ERON-RIVER-ASTERION-001,skill_check_perception_inspection_gallery_day6,2,1d20+7,4,"4+7",11,true
 2026-11-24,ERON-RIVER-ASTERION-001,skill_check_investigation_central_collector_day6,2,2d20kh1+6,"18,14","18+6",24,true
 2026-11-24,ERON-RIVER-ASTERION-001,dexterity_save_slipping_gallery_day6,2,1d20+7,9,"9+7",16,true
+2026-11-24,ERON-RIVER-ASTERION-001,correction_unverified_execution_skill_check_perception_inspection_gallery_day6,2,1d20+7,4,"4+7",11,false
+2026-11-24,ERON-RIVER-ASTERION-001,correction_unverified_execution_skill_check_investigation_central_collector_day6,2,2d20kh1+6,"18,14","18+6",24,false
+2026-11-24,ERON-RIVER-ASTERION-001,correction_unverified_execution_dexterity_save_slipping_gallery_day6,2,1d20+7,9,"9+7",16,false
+2026-11-24,ERON-RIVER-ASTERION-001,player_reported_smith_tools_dexterity_central_collector_repair_day6,2,1d20+7,17,"17+7",24,false
+2026-11-24,ERON-RIVER-ASTERION-001,player_reported_tinkers_tools_intelligence_central_collector_control_day6,2,1d20+6,18,"18+6",24,false
