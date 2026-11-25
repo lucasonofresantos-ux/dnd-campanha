@@ -8036,3 +8036,88 @@ Como o defeito já foi diagnosticado anteriormente, não será necessário repet
 Utilizei um frasco de óleo para permitir a continuidade da manutenção. Nenhum dado foi rolado ainda.
 
 **GitHub:** commit confirmado; transcrição, estado, ficha e cronologia atualizados.
+
+
+## [287] JOGADOR
+
+Pode rolar o teste de reparo e os demais testes necessários para restabelecer a alimentação do salão superior e da oficina.
+
+## [288] MESTRE
+
+Vou resolver o reparo da caixa e, se funcionar, verificar se a energia realmente chega à oficina.
+
+## Monte Veyra — Dia 6, 20h12–20h50
+
+<card gap={3}>
+  <row align="center">
+    <svg viewBox="0 0 100 100" size="86px">
+      <polygon points="50,4 94,29 94,73 50,97 6,73 6,29" fill="#214b86" stroke="#93b5dd" strokeWidth="2"/>
+      <path d="M50 4L23 65L94 73L50 4L77 65L6 73L50 4M6 29L77 65L50 97L23 65L94 29M23 65L77 65" fill="none" stroke="#93b5dd"/>
+      <text x="50" y="58" fontSize="29" fontWeight="bold" fill="white" textAnchor="middle">15</text>
+    </svg>
+    <box flex={1} gap={1}>
+      **Destreza (Ferramentas de Ferreiro)**
+      <caption>1d20+7 → [15] + 7</caption>
+      <text color="success">Sucesso</text>
+    </box>
+    <title size="2xl" color="success">22</title>
+  </row>
+  <caption>Rolagem efetivamente executada em Python com secrets.randbelow() e hash do script do GitHub verificado.</caption>
+</card>
+
+Você desmonta cuidadosamente a articulação da caixa de distribuição, recupera o pino oxidado e corrige o desalinhamento dos condutores. Depois de remontar o mecanismo e conferir suas conexões, você restabelece a alimentação do ramal.
+
+Os cristais das seis colunas do salão começam a brilhar. Relevos de antigas construções anãs, antes escondidos pela penumbra, tornam-se perfeitamente visíveis.
+
+Você retorna à oficina de manutenção para verificar os reparos anteriores. Os dois cristais que havia substituído recebem energia normalmente. A bancada se ilumina e pequenos símbolos rúnicos aparecem sobre sua superfície.
+
+<box border radius="lg" padding={3} gap={1}>
+  **Rede de alimentação recuperada**
+  {#each ["Estação de conversão térmica","Condutores principais","Caixa de distribuição superior","Salão de distribuição auxiliar","Oficina de manutenção"] as item,i}
+    {#if i>0}
+      <row justify="center">
+        <icon name="arrow-down" color="success"/>
+      </row>
+    {/if}
+    <row background="surface-secondary" radius="md" padding={3}>
+      <icon name="check-circle" color="success" size="xl"/>
+      <box flex={1} gap={0}>
+        **{item}**
+        <caption>Alimentação confirmada</caption>
+      </box>
+    </row>
+  {/each}
+</box>
+
+Na bancada da oficina, uma inscrição luminosa em anão torna-se legível:
+
+*“Sistema de manutenção disponível. Aguardando seleção de serviço.”*
+
+Os três armários da oficina continuam fechados e ainda não foram examinados.
+
+<card gap={2}>
+  <caption>Experiência adquirida</caption>
+  <title size="xl" color="success">+50 XP</title>
+  <text size="sm">25 XP pelo reparo da distribuição e 25 XP pela confirmação do funcionamento do reparo anterior da oficina.</text>
+  **400/900 XP — Nível 2**
+  <box height={2} radius="full" background="surface-tertiary" clip>
+    <box width="44.44%" height="100%" background="#26925b"/>
+  </box>
+</card>
+
+**O que você faz?**
+
+---
+
+**[LOG DE MEMÓRIA DA CAMPANHA]**
+
+- **Localização atual:** Oficina de manutenção do Monte Veyra, Dia 6, 20h50.
+- **NPCs presentes e relação:** Nenhum detectado.
+- **Linha de missão ativa:** Exploração da estrutura subterrânea.
+- **Eventos cruciais:** Alimentação auxiliar restabelecida no salão superior e na oficina; bancada rúnica disponível.
+- **Condições:** 21/21 PV | CA 16 | Ladino 1 / Artífice 1 | Inspiração Heroica disponível.
+- **Recursos:** 2/2 espaços de magia, 4/4 usos de Magia do Funileiro, 5 frascos de óleo em reserva e 5h20 de autonomia da lanterna.
+
+Nenhum teste adicional foi necessário para confirmar a alimentação visível. Os demais setores da montanha ainda não tiveram seu funcionamento verificado.
+
+**GitHub:** commit confirmado; transcrição, XP, ficha, cronologia, estado e rolagem atualizados.

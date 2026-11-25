@@ -104,3 +104,5 @@
 - Atualização: sessão 0002 até [284], Dia6 20h00; distribuição auxiliar e iluminação da estação ativas, ramal superior isolado; galeria de inspeção identificada. Nenhuma rolagem nova ou XP.
 
 - Atualização: sessão 0002 até [286], Dia6 20h12; retornou à caixa superior, energia a montante, 5 óleos reserva; teste Ferreiro +7 pendente.
+
+- Atualização: sessão 0002 até [288], Dia6 20h50; reparo Ferreiro22 verificado, ramal superior e oficina alimentados, XP400/900; bancada rúnica aguardando ação.

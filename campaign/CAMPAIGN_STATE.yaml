@@ -7,7 +7,7 @@ homebrew:
 advancement:
   method: experience_points
   milestones_do_not_grant_levels: true
-  current_total_xp: 350
+  current_total_xp: 400
   next_level_xp: 900
   level_up_pending: false
   level_up_note: "Nível 2 aplicado: Ladino1/Artífice1. Perícia e magias eletivas pendentes."
@@ -21,7 +21,7 @@ character:
     Ladino: 1
     Artífice: 1
   character_level: 2
-  xp_total: 350
+  xp_total: 400
   xp_next_level: 900
   hp_current: 21
   hp_max: 21
@@ -197,21 +197,21 @@ character:
 campaign_time:
   calendar_system: "Asterion, dias relativos; nenhuma era/ano formal estabelecido"
   day: 6
-  time_of_day: "aproximadamente 20h12 do Dia 6"
+  time_of_day: "aproximadamente 20h50 do Dia 6"
   season: "final do outono"
-  elapsed_game_time: "Dia6 ~20h00–20h12, retorno e preparação de reparo."
+  elapsed_game_time: "Dia6 ~20h12–20h50, reparo da caixa e validação da oficina."
 location:
   continent: Asterion
   polity: "Terras Livres de Avenhar (homebrew), fora de Valdren"
   area: "entroncamento da Estrada do Cascalho, próximo ao Pouso das Três Fontes"
   nearby: "encostas arborizadas da serra cujo monte mais alto é chamado Veyra"
-  exact_position: "Salão de distribuição auxiliar do Monte Veyra, junto à caixa metálica."
-  travel_status: "Retorno concluído; caixa alimentada a montante e isolada a jusante; teste de reparo pendente."
+  exact_position: "Oficina de manutenção do Monte Veyra, junto à bancada rúnica."
+  travel_status: "Ramal superior e oficina alimentados; bancada disponível, nenhum serviço selecionado."
 scene:
   id: OPENING-001
-  status: "awaiting_smith_tools_repair_roll_upper_distribution_day6"
+  status: "awaiting_player_action_at_powered_workshop_day6"
   current_npcs_present: []
-  immediate_visible_situation: "Dia6 ~20h00–20h12: jogador declarou reparar o necessário para energia chegar à oficina e ramal superior. Eron retornou pelo corredor conhecido e grade aberta, subiu escada ao salão auxiliar. Sem nova rolagem de deslocamento: percurso conhecido, fuga de vapor previamente identificada evitável; nenhuma circunstância nova observada. Na caixa, condutores a montante agora fracamente azulados, a jusante apagados; isolamento mantido. Lanterna reabastecida por necessidade de manutenção e deslocamento (um frasco de reserva usado ~20h10, cinco restantes, autonomia até Dia7 ~02h10 se contínua). Preparou ferramentas Ferreiro/Funileiro, abordagem diferente: desmontar articulação para recuperar pino e alinhar conexão. Diagnóstico anterior suficiente; solicitado teste Destreza/Ferreiro 1d20+7, aguardando dado ou autorização, nenhum resultado/reparo novo ainda. PV21/21 CA16 XP350/900, inspiração disponível, espaços2/2, Magia do Funileiro4/4. Nenhum dano, coleta ou XP novo."
+  immediate_visible_situation: "Dia6 ~20h12–20h50: jogador autorizou rolagem de reparo. Execução real em container.exec: /tmp/eron_dice_roller.py reconstruído do GitHub, git hash-object d35af70119bf684ea055619bb10678a1c4b03bbb conferido com test antes da execução; JSON expression 1d20+7, rolls [15], kept_indices [0], modifier7, total22. Desmontou articulação, recuperou pino oxidado, corrigiu alinhamento dos condutores e remontou; conferiu conexões e restabeleceu ramal. Cristais das seis colunas do salão acenderam, relevos de construções anãs visíveis. Retornou à oficina, verificou alimentação dos dois cristais substituídos anteriormente; bancada iluminada e símbolos rúnicos visíveis, inscrição em Anão 'Sistema de manutenção disponível. Aguardando seleção de serviço.' Três armários fechados não examinados. Eron permanece junto à bancada, nenhum serviço selecionado. +25 XP pelo reparo confirmado da distribuição e +25 XP pela validação do reparo anterior da linha local da oficina, até então sem XP; total400/900 nível2. PV21/21 CA16 inspiração disponível, espaços2/2, Magia do Funileiro4/4, Marca na bolsa, lanterna 5h20 até Dia7 ~02h10, cinco óleos reserva. Nenhuma criatura detectada, sem dano, combate, coleta ou novos gastos. Nenhuma rolagem adicional necessária para verificar a iluminação e alimentação visíveis."
   discovered_traps:
     - location: "Trilha dos Corcos, junto ao riacho"
       state: disarmed_safe_wire_left_at_tree
@@ -256,8 +256,8 @@ world:
 transcription:
   character_creation_history: sessions/transcripts/SESSION_0001_FULL.md
   narrative_session: sessions/transcripts/SESSION_0002_FULL.md
-  last_saved_player_turn: "[285] JOGADOR — pretende recuperar ramal superior e oficina."
-  last_saved_dm_turn: "[286] MESTRE — retorno, óleo reabastecido, teste Ferreiro +7 pendente."
+  last_saved_player_turn: "[287] JOGADOR — autoriza rolagens necessárias ao reparo e validação."
+  last_saved_dm_turn: "[288] MESTRE — Ferreiro22, salão e oficina alimentados; +50XP."
 notes:
   - "Primeira resposta de cena será salva literalmente e sem revelar preparativos de dm."
   - "Nunca tratar a aprovação da ficha como XP, nem mudar recursos automaticamente."
