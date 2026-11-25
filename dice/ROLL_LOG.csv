@@ -610,3 +610,5 @@ date,campaign_id,stage,attempt,expression,six_rolls_faces_in_order,six_attribute
 2026-11-25,ERON-RIVER-ASTERION-001,mill_guidance_day12,1,1d4,"2","Orientação; total combinado 25; Python executado",2,true
 2026-11-25,ERON-RIVER-ASTERION-001,gate_investigation_day12,1,1d20+6,"20","20+6; Python executado",26,true
 2026-11-25,ERON-RIVER-ASTERION-001,gate_guidance_day12,1,1d4,"1","Orientação; total combinado 27; Python executado",1,true
+2026-11-25,ERON-RIVER-ASTERION-001,sheep_tracking_day12,1,1d20+5,"4","4+5; Python executado",9,true
+2026-11-25,ERON-RIVER-ASTERION-001,sheep_listening_day12,1,1d20+7,"6","6+7; Python executado",13,true

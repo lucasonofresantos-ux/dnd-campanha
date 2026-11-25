@@ -15074,3 +15074,39 @@ Celina dobra a manta no antebraço. Do outro lado da porteira, uma ovelha enfia 
 - **Condições do jogador** · 30/30 PV, CA 16, 1.425/2.700 XP. Saldo de 73 PO, 2 PP e 4 PC.
 
 **Commit confirmado no GitHub.**
+
+## [527] JOGADOR
+
+- vou dá uma olhada
+
+Role oque precisar até encontrar essas ovelhas e descobrir oque aconteceu
+
+### Mestre — andamento
+
+Eron começa pelas marcas de casco que saem da porteira em direção ao córrego.
+
+## [528] MESTRE
+
+Na descida para o córrego, os cascos se misturam às marcas do rebanho inteiro. Você perde quase uma hora seguindo uma trilha que termina no bebedouro de Celina. Já no caminho de volta, ouve um balido curto. Espera. Do outro lado de uma sebe, um segundo animal responde. A passagem fica escondida pelo capim alto. Ela dá num pasto comprido entre a sebe e uma curva do córrego. **As duas ovelhas estão ali, vivas**. Uma vira a cabeça e mostra o talho na orelha esquerda. A outra ergue o focinho para o chamado dela, expondo a mancha branca sob o queixo.
+
+Na entrada do pasto, um rapaz recolhe um balde de água. Quando você pergunta pelas ovelhas, ele pousa o balde e mostra um retalho preto amarrado à alça. A borda está rasgada na diagonal e tem um vinco engordurado.
+
+— Fui eu que abri a porteira. Minha cabrita tinha entrado no curral da dona Celina. Era tarde, achei que conseguia tirar ela sem acordar ninguém. Pus a manta debaixo da barra pra madeira não bater. A cabrita escapuliu e essas duas vieram atrás. Quando puxei a manta, ela rasgou. Fechei a porteira, peguei o pedaço maior e fui atrás dos bichos. Na beira do córrego, larguei o pano pra agarrar a cabra. Vi ele ir embora na água.
+
+Ele diz que conseguiu cercar as duas ovelhas naquele pasto. Desde então vem trazendo água. Quando você pergunta por que ainda estão ali, ele baixa os olhos para o balde.
+
+— Na primeira manhã, eu devia ter batido na porta dela. Na segunda, já tinha que explicar por que não bati na primeira. Meu nome é **Nilo**. A dona Celina tá muito brava?
+
+Brasa e Pinta estão de pé, pastando, sem ferimentos visíveis. O relato de Nilo explica a barra fechada, os fios no sebo e a manta levada até o moinho. Celina ainda espera no curral.
+
+**Rolagens** · Sobrevivência: `1d20+5` → [4] + 5 = **9**. Percepção: `1d20+7` → [6] + 7 = **13**. O rastro se perdeu no bebedouro. Na volta, o segundo balido permitiu localizar o pasto.
+
+**[LOG DE MEMÓRIA DA CAMPANHA]**
+
+- **Localização atual** · Pasto junto à curva do córrego, Dia 12, cerca de 11h00.
+- **NPCs presentes e relação** · Nilo, que admitiu ter aberto a porteira, e as duas ovelhas de Celina.
+- **Linha de missão ativa** · Busca e investigação concluídas. A devolução das ovelhas e a conversa com Celina estão pendentes.
+- **Eventos cruciais ocorridos** · Brasa e Pinta identificadas pelas marcas descritas. Nilo apresentou um retalho compatível e contou como a manta caiu no córrego. **+25 XP** pela localização das ovelhas e pela elucidação do desaparecimento.
+- **Condições do jogador** · 30/30 PV, CA 16, **1.450/2.700 XP**. Saldo de 73 PO, 2 PP e 4 PC.
+
+**Commit confirmado no GitHub.**
