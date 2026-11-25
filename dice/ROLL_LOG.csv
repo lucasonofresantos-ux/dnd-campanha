@@ -463,3 +463,12 @@ date,campaign_id,stage,attempt,expression,six_rolls_faces_in_order,six_attribute
 2026-11-25,ERON-RIVER-ASTERION-001,tinkers_bench_um025_station_day9,2,2d20kh1+6,"2,14","14+6; kept index 1",20,true
 2026-11-25,ERON-RIVER-ASTERION-001,arcana_reactivation_um025_station_day9,1,2d20kh1+6,"3,14","14+6; kept index 1",20,true
 2026-11-25,ERON-RIVER-ASTERION-001,guidance_reactivation_um025_station_day9,1,1d4,"4","20+4=24",4,true
+2026-11-25,ERON-RIVER-ASTERION-001,audit_unverified_investigation_door_um025_station_day9,1,2d20kh1+6,"17,15","17+6; kept index 0",23,false
+2026-11-25,ERON-RIVER-ASTERION-001,audit_unverified_guidance_door_um025_station_day9,1,1d4,"2","23+2=25",2,false
+2026-11-25,ERON-RIVER-ASTERION-001,audit_unverified_smith_door_um025_station_day9,1,1d20+7,"10","10+7",17,false
+2026-11-25,ERON-RIVER-ASTERION-001,audit_unverified_investigation_construct_um025_station_day9,1,2d20kh1+6,"19,15","19+6; kept index 0",25,false
+2026-11-25,ERON-RIVER-ASTERION-001,audit_unverified_guidance_construct_um025_station_day9,1,1d4,"1","25+1=26",1,false
+2026-11-25,ERON-RIVER-ASTERION-001,audit_unverified_tinkers_initial_um025_station_day9,1,1d20+6,"1","1+6",7,false
+2026-11-25,ERON-RIVER-ASTERION-001,audit_unverified_tinkers_bench_um025_station_day9,2,2d20kh1+6,"2,14","14+6; kept index 1",20,false
+2026-11-25,ERON-RIVER-ASTERION-001,audit_unverified_arcana_reactivation_um025_station_day9,1,2d20kh1+6,"3,14","14+6; kept index 1",20,false
+2026-11-25,ERON-RIVER-ASTERION-001,audit_unverified_guidance_reactivation_um025_station_day9,1,1d4,"4","20+4=24",4,false
