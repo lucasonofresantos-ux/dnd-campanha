@@ -233,21 +233,21 @@ character:
 campaign_time:
   calendar_system: "Asterion, dias relativos; nenhuma era/ano formal estabelecido"
   day: 12
-  time_of_day: "Dia 12, cerca de 08h35"
+  time_of_day: "Dia 12, cerca de 09h05"
   season: "final do outono"
-  elapsed_game_time: "Dia 12, 08h20–08h35"
+  elapsed_game_time: "Dia 12, 08h35–09h05"
 location:
   continent: Asterion
   polity: "Terras Livres de Avenhar (homebrew), fora de Valdren"
   area: "entroncamento da Estrada do Cascalho, próximo ao Pouso das Três Fontes"
   nearby: "encostas arborizadas da serra cujo monte mais alto é chamado Veyra"
-  exact_position: "Tomada d’água do moinho."
+  exact_position: "Moinho de Tomé, junto à moagem."
   travel_status: "Chegou ao moinho após deixar o pouso e vender os materiais."
 scene:
   id: OPENING-001
-  status: "mill_intake_day12"
+  status: "mill_flow_restored_day12"
   current_npcs_present: ["Tomé, moleiro"]
-  immediate_visible_situation: "Dia12 08h35. Investigação [17]+6 e Orientação [2]=25. Tecido de lã preta com bainha sobre galho entalado retém detritos na abertura. Levantar temporariamente restabelece fluxo e soltar reproduz falha. Tomé testemunha. Origem e remoção pendentes. +25 XP, total 1425."
+  immediate_visible_situation: "Dia12 08h35–09h05. Sem nova rolagem, Eron e Tomé desobstruem a tomada. Pano de lã preta com bainha preservado na margem. Galho e folhas removidos, grade e comporta íntegras. Vazão estável e saco inteiro de centeio moído. Origem do tecido pendente."
   discovered_traps:
     - location: "Trilha dos Corcos, junto ao riacho"
       state: disarmed_safe_wire_left_at_tree
@@ -292,8 +292,8 @@ world:
 transcription:
   character_creation_history: sessions/transcripts/SESSION_0001_FULL.md
   narrative_session: sessions/transcripts/SESSION_0002_FULL.md
-  last_saved_player_turn: "[509] JOGADOR — autoriza investigação com Orientação."
-  last_saved_dm_turn: "[510] MESTRE — obstrução diagnosticada."
+  last_saved_player_turn: "[511] JOGADOR — solicita concluir o reparo."
+  last_saved_dm_turn: "[512] MESTRE — canal livre e moagem confirmada."
 notes:
   - "Primeira resposta de cena será salva literalmente e sem revelar preparativos de dm."
   - "Nunca tratar a aprovação da ficha como XP, nem mudar recursos automaticamente."

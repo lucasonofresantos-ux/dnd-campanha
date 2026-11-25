@@ -357,3 +357,5 @@ Auditoria [270]: no histórico não consta execução efetiva Python para Percep
 - [508] Dia12 08h20. Tomé, o moleiro, aceita ajuda e mostra a tomada d’água. Marcas da haste e do poste alinhadas, água passa pela grade, superfície treme numa lateral. Relata remoção de lã e breve retomada. Autoriza exame e oferece operar comporta se pedido. Sem teste nem diagnóstico.
 
 - [510] Dia12 08h35. Investigação [17]+6 e Orientação [2]=25. Tecido de lã preta com bainha sobre galho entalado retém detritos na abertura. Levantar temporariamente restabelece fluxo e soltar reproduz falha. Tomé testemunha. Origem e remoção pendentes. +25 XP, total 1425.
+
+- [512] Dia12 08h35–09h05. Sem nova rolagem, Eron e Tomé desobstruem a tomada. Pano de lã preta com bainha preservado na margem. Galho e folhas removidos, grade e comporta íntegras. Vazão estável e saco inteiro de centeio moído. Origem do tecido pendente.

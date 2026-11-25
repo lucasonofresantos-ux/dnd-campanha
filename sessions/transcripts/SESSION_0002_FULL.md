@@ -14856,3 +14856,31 @@ Você descobriu por que a moagem falhava. Ao mexer na lã, Tomé abria passagem 
 - **Condições do jogador** · 30/30 PV, CA 16, **1.425/2.700 XP**. Dois espaços de 1º círculo disponíveis. Saldo de 73 PO, 2 PP e 4 PC.
 
 **Commit confirmado no GitHub.**
+
+## [511] JOGADOR
+
+Role oque precisar até concertar isso
+
+### Mestre — andamento
+
+Tomé fica junto à haste da comporta enquanto você apanha a vara de limpeza.
+
+## [512] MESTRE
+
+Tomé firma a haste um palmo acima da marca. Com a vara, você engata a bainha e enrola o pano em volta da ponta. A água atravessa a abertura assim que a lã se desprende do galho. Você traz o tecido inteiro para a margem. Agora dá para ver a forquilha presa entre duas varas da grade. Você a solta, puxa o galho para fora e recolhe o último bolo de folhas. A grade está inteira, e a comporta corre livre nas guias. Com a obstrução à vista e a ajuda de Tomé, o serviço dispensa nova rolagem.
+
+Tomé devolve a haste à marca de faca. O canal volta a encher até a faixa molhada da madeira. Lá embaixo, a roda pega embalo. A prova vem quando Tomé abre a moega: desta vez, o centeio passa entre as mós até o fim do saco. **A vazão se mantém e o moinho volta a moer com carga.**
+
+— Ontem eu mal conseguia encher uma medida sem ter que largar tudo. — Tomé deixa a farinha recém-moída escorrer por entre os dedos. — Obrigado, Eron. Agora posso chamar o pessoal que ficou esperando.
+
+O pano de lã preta ficou estendido na margem, com a bainha inteira e visível.
+
+**[LOG DE MEMÓRIA DA CAMPANHA]**
+
+- **Localização atual** · Moinho de Tomé, Dia 12, cerca de 09h05.
+- **NPCs presentes e relação** · Tomé, agradecido, retomou a moagem.
+- **Linha de missão ativa** · Falha do moinho resolvida. A origem do pano continua em aberto.
+- **Eventos cruciais ocorridos** · Eron retirou o pano, o galho e os detritos. Tomé confirmou a vazão estável durante a moagem de um saco de centeio.
+- **Condições do jogador** · 30/30 PV, CA 16, 1.425/2.700 XP. Dois espaços de 1º círculo disponíveis. Saldo de 73 PO, 2 PP e 4 PC.
+
+**Commit confirmado no GitHub.**
