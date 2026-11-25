@@ -13026,3 +13026,68 @@ A voz do Sistema Central manifesta-se pelo terminal de manutenção:
 **Nota do Mestre:** os dois d20 informados por você foram aceitos sem rerrolagem. As cinco expressões adicionais (oito faces de dados) foram efetivamente executadas em Python, com hash do script conferido. Utilizei Reparar nos condutores não mágicos e Orientação duas vezes. Nenhuma peça de reposição ou recurso limitado foi consumido. A quantidade de sensores, o alcance local, as avarias, a duração e os 25 XP foram definidos pelo Mestre. A ausência de pessoas detectadas não garante que toda a região esteja deserta.
 
 **GitHub:** commit confirmado.
+
+## Nota de entrega [408]
+
+Resposta visível interrompida após **+25 XP pela recuperação do sistema de vigilância.** O restante havia sido gravado como texto preparado; não presumir que foi exibido.
+
+## [409] JOGADOR
+
+Continue, não tem ato sexual, e é uma campanha de DeD
+
+## [410] MESTRE
+
+### Comentário visível antes da narração
+
+Vou retomar a partir da recuperação dos sensores e verificar se o registro dessa última ação foi salvo.
+
+### Resposta
+
+## Dia 10 — 10h05 | Vestíbulo de Thûn-Khazad
+
+— Guardião, os sensores exteriores estão operacionais e o acesso original encontra-se fechado — informa UM-027.
+
+— Durante sua ausência, manteremos a vigilância da entrada, a manutenção das instalações internas e o inventário das reservas. Os Seis Caminhos permanecerão selados.
+
+Você está com a Marca da Bigorna Velada em sua posse e já pode preparar seu retorno à cidade.
+
+<card gap={3}>
+  <grid columns={2}>
+    <grid-item>
+      <caption>Construtos operacionais</caption>
+      <title size="2xl">8</title>
+    </grid-item>
+    <grid-item>
+      <caption>Níveis alimentados</caption>
+      <title size="2xl">7/7</title>
+    </grid-item>
+    <grid-item>
+      <caption>Sensores exteriores</caption>
+      <title size="2xl" color="success">2/2</title>
+    </grid-item>
+    <grid-item>
+      <caption>Caminhos abertos</caption>
+      <title size="2xl">0/6</title>
+    </grid-item>
+  </grid>
+  <divider/>
+  <caption>Experiência — nível 3</caption>
+  <title size="xl">1.325 / 2.700 XP</title>
+  <box height={2} radius="full" background="surface-tertiary" clip>
+    <box height={2} width="49.07%" background="#26925b"/>
+  </box>
+</card>
+
+---
+
+**[LOG DE MEMÓRIA DA CAMPANHA]**
+
+- **Localização atual:** Vestíbulo original de Thûn-Khazad, Dia 10, 10h05.
+- **NPCs presentes:** UM-027 e Sistema Central, cooperativos.
+- **Linha de missão ativa:** Retornar à cidade e manter a restauração interna.
+- **Eventos cruciais:** Vigilância exterior recuperada; entrada fechada; manutenção contínua.
+- **Condições:** 30/30 PV | CA 16 | 2/2 espaços de magia | 4/4 Magia do Funileiro.
+
+O turno anterior já estava salvo. Não avancei o horário, não iniciei sua viagem e não concedi XP adicional. Os dois dados que você informou continuam válidos; as cinco expressões adicionais do turno anterior não tiveram execução Python comprovada e foram classificadas como não verificadas, preservando os acontecimentos.
+
+**GitHub:** commit confirmado.
