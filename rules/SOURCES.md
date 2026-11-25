@@ -44,3 +44,7 @@ Regras deliberadamente aprovadas para esta mesa ficam em HOUSE_RULES.md. Uma dec
 Não armazenar neste repositório cópias não autorizadas de livros, aventuras ou outros materiais comerciais. Materiais de terceiros devem ser identificados como tais. Aventuras e conteúdo comercial só serão usados dentro dos limites de acesso legítimo do usuário ou de fontes autorizadas.
 
 O repositório dnd-campanha armazena principalmente estado, resumos, decisões e registros da campanha; ele não deve funcionar como cópia de livros comerciais.
+
+
+## Complemento oficial adotado — Artífice 2025
+Por escolha do jogador em [279], aplicar Artífice da publicação oficial *Eberron: Forge of the Artificer* (2025), compatível com as regras 2024. Referência oficial de alterações https://www.dndbeyond.com/posts/2106-whats-new-with-the-artificer-in-eberron-forge-of ; referência auxiliar para tabela e multiclasse https://dnd2024.wikidot.com/artificer:main . Não misturar Artífice 2019 ou UA com esta versão. A fonte não altera regras básicas do SRD nem impõe cenário de Eberron à campanha.

@@ -9,8 +9,8 @@ advancement:
   milestones_do_not_grant_levels: true
   current_total_xp: 300
   next_level_xp: 900
-  level_up_pending: true
-  level_up_note: "Limiar nível 2 alcançado; aguarda escolha de classe e PV; benefícios não aplicados."
+  level_up_pending: false
+  level_up_note: "Nível 2 aplicado: Ladino1/Artífice1. Perícia e magias eletivas pendentes."
   rule: "Conceder XP por combate e ameaças resolvidas, investigação, exploração e desafios sociais substantivos; usar equivalências 2024, sem duplicação; registrar no XP_LOG.csv."
 character:
   id: ERON-RIVER
@@ -19,11 +19,12 @@ character:
   species: Humano
   class_levels:
     Ladino: 1
-  character_level: 1
+    Artífice: 1
+  character_level: 2
   xp_total: 300
   xp_next_level: 900
-  hp_current: 12
-  hp_max: 12
+  hp_current: 21
+  hp_max: 21
   ac: 16
   initiative: 7
   passive_perception: 17
@@ -32,7 +33,21 @@ character:
   conditions: []
   exhaustion: 0
   heroic_inspiration: true
-  hit_dice_available: "1d8"
+  hit_dice_available: "2d8"
+  artificer:
+    source: "Eberron: Forge of the Artificer (2025)"
+    spell_save_dc: 14
+    spell_attack_bonus: 6
+    level_1_slots_available: 2
+    level_1_slots_max: 2
+    tinkers_magic_available: 4
+    tinkers_magic_max: 4
+    automatic_cantrips: ["Mending"]
+    elective_cantrips_pending: 2
+    prepared_level_1_spells_pending: 2
+    skill_proficiency_pending: true
+    armor_training: ["light", "medium", "shields"]
+    tinkers_tools_proficient: true
   money:
     gold: 56
     silver: 2
@@ -52,7 +67,7 @@ character:
   carrying_weight_note: "Carga anterior registrada 103,88 lb; caça Dia6 acrescenta 11 kg de carne e outros materiais sem peso exato aferido; carga estimada abaixo de 180 lb."
   carrying_capacity_lb: 180
   known_personal_item: "Marca da Bigorna Velada recuperada e guardada na bolsa; acionou abertura e fechamento da porta externa, atualmente fechada."
-  untrained_owned_tool: "Ferramentas de Funileiro (propriedade, sem proficiência)"
+  trained_owned_tool: "Ferramentas de Funileiro (propriedade e proficiência Artífice1)"
   ammo:
     shortbow_arrows_in_quiver: 19
     shortbow_arrows_spare: 5
@@ -182,21 +197,21 @@ character:
 campaign_time:
   calendar_system: "Asterion, dias relativos; nenhuma era/ano formal estabelecido"
   day: 6
-  time_of_day: "aproximadamente 18h35 do Dia 6"
+  time_of_day: "aproximadamente 18h45 do Dia 6"
   season: "final do outono"
-  elapsed_game_time: "Dia6 ~17h55–18h35, reparo concluído e abertura testada."
+  elapsed_game_time: "Dia6 ~18h35–18h45, deslocamento até estação térmica."
 location:
   continent: Asterion
   polity: "Terras Livres de Avenhar (homebrew), fora de Valdren"
   area: "entroncamento da Estrada do Cascalho, próximo ao Pouso das Três Fontes"
   nearby: "encostas arborizadas da serra cujo monte mais alto é chamado Veyra"
-  exact_position: "Patamar do nível inferior do Monte Veyra, diante da grade aberta."
-  travel_status: "Grade reparada e aberta; corredor não percorrido; escolha de nível pendente."
+  exact_position: "Entrada da estação de conversão térmica do Monte Veyra, diante da plataforma."
+  travel_status: "Grade atravessada; corredor percorrido; equipamento térmico não examinado."
 scene:
   id: OPENING-001
-  status: "awaiting_level_up_choice_at_open_grate_day6"
+  status: "awaiting_player_action_at_thermal_station_day6"
   current_npcs_present: []
-  immediate_visible_situation: "Dia6 ~17h55–18h35: exame da conexão de inspeção permitiu isolar indicador, verificar pressão local insuficiente para bloqueio. Desmontou articulação, removeu oxidação, realinhou haste e remontou; indicador em repouso, trava recolhida, roda acionada para teste, grade abriu. Corredor com grossas tubulações, ar morno, ruído mais intenso; Eron não atravessou. Alimentação não restabelecida, derivação anterior continua isolada. +25 XP por resolução verificada de obstáculo de manutenção distinto; total300 XP, limiar nível2 alcançado, escolha de classe pendente, ficha e benefícios de nível1 mantidos até escolha. PV12/12 CA16, inspiração disponível, disco na bolsa, lanterna 1h35 até ~20h10, seis óleos reserva. Sem dano, coleta ou combate. Auditoria [276]: as duas rolagens anteriores não tiveram execução Python comprovada; manter narrativa e acrescentar registros false. [278] execução real por container.exec, hash d35af70119bf684ea055619bb10678a1c4b03bbb conferido; Investigação 2d20kh1+6 [7,11], kept_indices [1], total17; Destreza/Ferreiro 1d20+7 [19], kept_indices [0], total26."
+  immediate_visible_situation: "Dia6 ~18h35–18h45: jogador escolheu Artífice 1, personagem agora Ladino1/Artífice1, nível total2, XP300/900. Artífice oficial Eberron: Forge of the Artificer (2025), regras 2024; DES20 INT19 satisfazem pré-requisitos. PV fixos 5+CON2+Vigoroso2=9 adicionais, 21/21; 2d8 disponíveis; CA16, PB+2, iniciativa+7, Percepção passiva17. Treinamento armaduras médias e escudos, proficiência Funileiro, perícia adicional pendente; 2 espaços de 1º círculo disponíveis, 2 truques e 2 magias de 1º círculo pendentes de escolha; Mending automático, Tinker's Magic 4/4 por descanso longo, CD14, ataque mágico+6. Sem equipamento gratuito, nenhuma magia usada. Percepção23 e Furtividade18 executadas. Atravessou grade, corredor ~30m com tubulações quentes/frias; percebeu fuga pequena de vapor e evitou, sem dano. Chegou à entrada de câmara industrial com estrutura cilíndrica, válvulas, engrenagens, canal de água sob plataforma, painel apagado. Leu placa anã ESTAÇÃO DE CONVERSÃO TÉRMICA; Unidade de alimentação auxiliar; Circuito de circulação; Controle de distribuição; Verificar o circuito antes da partida. Ruído aparentemente do canal, nenhuma criatura detectada. Equipamento não examinado, alimentação não restabelecida, derivação anterior permanece isolada. Lanterna 1h25 até ~20h10, 6 óleos reserva; Marca na bolsa, inspiração disponível. Nenhum XP novo ou gasto. Auditoria [278]: não consta execução Python efetiva das duas rolagens anteriores; preservar valores e narrativa, acrescentar linhas false. [280]: execução efetiva por container.exec, hash d35af70119bf684ea055619bb10678a1c4b03bbb verificado por git hash-object e test; Percepção 1d20+7 rolls [16], kept_indices [0], modifier7,total23; Furtividade 1d20+9 rolls [9], kept_indices [0], modifier9,total18."
   discovered_traps:
     - location: "Trilha dos Corcos, junto ao riacho"
       state: disarmed_safe_wire_left_at_tree
@@ -241,8 +256,8 @@ world:
 transcription:
   character_creation_history: sessions/transcripts/SESSION_0001_FULL.md
   narrative_session: sessions/transcripts/SESSION_0002_FULL.md
-  last_saved_player_turn: "[277] JOGADOR — autoriza novas abordagens e rolagens de reparo."
-  last_saved_dm_turn: "[278] MESTRE — Investigação17, reparo26; grade aberta; +25XP, nível2 pendente de escolha."
+  last_saved_player_turn: "[279] JOGADOR — escolhe Artífice e segue explorando."
+  last_saved_dm_turn: "[280] MESTRE — nível2 aplicado, Percepção23 Furtividade18; estação térmica localizada."
 notes:
   - "Primeira resposta de cena será salva literalmente e sem revelar preparativos de dm."
   - "Nunca tratar a aprovação da ficha como XP, nem mudar recursos automaticamente."
@@ -276,3 +291,5 @@ notes:
   - "Auditoria [274]: não houve execução Python efetiva das duas rolagens do turno anterior, apesar da alegação. Valores narrativos preservados, novas linhas false no ROLL_LOG.csv. [276] ambas executadas de fato por container.exec, script d35af70119bf684ea055619bb10678a1c4b03bbb conferido; JSON Investigação 2d20kh1+6 rolls [14,2], kept_indices [0], modifier 6, total20; Destreza/Ferreiro 1d20+7 rolls [3], kept_indices [0], modifier7, total10."
 
   - "Auditoria [276]: as duas rolagens anteriores não tiveram execução Python comprovada; manter narrativa e acrescentar registros false. [278] execução real por container.exec, hash d35af70119bf684ea055619bb10678a1c4b03bbb conferido; Investigação 2d20kh1+6 [7,11], kept_indices [1], total17; Destreza/Ferreiro 1d20+7 [19], kept_indices [0], total26."
+
+  - "Auditoria [278]: não consta execução Python efetiva das duas rolagens anteriores; preservar valores e narrativa, acrescentar linhas false. [280]: execução efetiva por container.exec, hash d35af70119bf684ea055619bb10678a1c4b03bbb verificado por git hash-object e test; Percepção 1d20+7 rolls [16], kept_indices [0], modifier7,total23; Furtividade 1d20+9 rolls [9], kept_indices [0], modifier9,total18."

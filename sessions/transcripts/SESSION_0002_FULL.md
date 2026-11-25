@@ -7689,3 +7689,121 @@ Eron alcançou a experiência necessária para o nível 2. Você deseja continua
 **Auditoria:** as duas rolagens do turno anterior não foram efetivamente executadas em Python, apesar da afirmação anterior. Os registros foram corrigidos, sem alterar os acontecimentos. As duas rolagens atuais têm execução comprovada.
 
 **GitHub:** a primeira tentativa de gravação excedeu o limite de operações. Na segunda tentativa, commit confirmado; transcrição, XP, ficha, cronologia, estado e rolagens atualizados.
+
+
+## [279] JOGADOR
+
+Nível de artifice 
+Vou seguir pode rolar oque precisar para seguir 
+
+## [280] MESTRE
+
+Vou aplicar o primeiro nível de Artífice à ficha de Eron, conferir as regras de multiclasse e resolver a exploração além da grade com rolagens reais.
+
+# Eron River — Nível 2
+
+<card gap={3}>
+  <title size="xl">Ladino 1 / Artífice 1</title>
+  <grid columns={2}>
+    <grid-item>
+      <caption>Pontos de vida</caption>
+      <title size="2xl" color="success">21/21</title>
+    </grid-item>
+    <grid-item>
+      <caption>Classe de Armadura</caption>
+      <title size="2xl">16</title>
+    </grid-item>
+    <grid-item>
+      <caption>Experiência</caption>
+      <title size="lg">300/900 XP</title>
+      <box height={2} radius="full" background="surface-tertiary" clip>
+        <box width="33.33%" height="100%" background="#26925b"/>
+      </box>
+    </grid-item>
+    <grid-item>
+      <caption>Dados de vida</caption>
+      <title size="lg">2d8</title>
+    </grid-item>
+  </grid>
+</card>
+
+## Benefícios adquiridos de Artífice
+
+Utilizaremos a versão oficial de *Eberron: Forge of the Artificer* (2025), compatível com D&D 2024. <Cite refs={["turn447226view0","turn447226view1"]}/>
+
+- **PV adicionais:** 9 (valor fixo 5 + Constituição 2 + Vigoroso 2). Adotei o valor fixo para este nível, sem rolar PV.
+- Proficiência com Ferramentas de Funileiro, que você já possui.
+- Treinamento com armaduras médias e escudos.
+- Uma nova proficiência em perícia, à sua escolha.
+- Dois espaços de magia de 1º círculo.
+- Dois truques à escolha, além de **Reparar (Mending)**, adquirido automaticamente.
+- Duas magias de 1º círculo à escolha.
+
+**CD das magias:** 14. **Ataque mágico:** +6.
+
+Você também adquire a Magia do Funileiro (*Tinker's Magic*), permitindo criar determinados equipamentos mundanos temporários, quatro vezes por descanso longo.
+
+As escolhas de perícia e magias ficam pendentes para você definir posteriormente. Nenhuma magia será utilizada automaticamente.
+
+---
+
+## Monte Veyra — Dia 6, 18h45
+
+<card gap={3}>
+  {#each [{name:"Percepção",die:16,mod:7},{name:"Furtividade",die:9,mod:9}] as r}
+    <row align="center">
+      <svg viewBox="0 0 100 100" size="76px">
+        <polygon points="50,4 94,29 94,73 50,97 6,73 6,29" fill="#214b86" stroke="#93b5dd" strokeWidth="2"/>
+        <path d="M50 4L23 65L94 73L50 4L77 65L6 73L50 4M6 29L77 65L50 97L23 65L94 29" fill="none" stroke="#93b5dd"/>
+        <text x="50" y="58" fontSize="29" fontWeight="bold" fill="white" textAnchor="middle">{r.die}</text>
+      </svg>
+      <box flex={1} gap={1}>
+        **{r.name}**
+        <caption>{`1d20+${r.mod} → [${r.die}] + ${r.mod}`}</caption>
+      </box>
+      <title size="2xl">{r.die+r.mod}</title>
+    </row>
+  {/each}
+  <caption>Ambas as rolagens efetivamente executadas em Python, com hash do script do GitHub conferido.</caption>
+</card>
+
+Você atravessa a grade e avança por um corredor de aproximadamente 30 metros. As tubulações acompanham as paredes, sustentadas por robustos suportes de metal. Algumas estão frias; outras irradiam calor suficiente para aquecer o ambiente.
+
+Sua percepção permite identificar uma tubulação cuja junta apresenta uma pequena fuga de vapor. Você evita passar diretamente diante dela e prossegue sem se ferir.
+
+O corredor desemboca em uma câmara industrial. Ao erguer a lanterna, você distingue uma enorme estrutura cilíndrica de metal, cercada por válvulas, engrenagens e grossas conexões. Um canal escavado na rocha transporta água corrente abaixo de uma plataforma de manutenção.
+
+O ruído que vinha ouvindo parece originar-se desse canal.
+
+Junto à plataforma há um painel de comando, completamente apagado, e uma placa em anão.
+
+<box background="#353a38" theme="dark" radius="md" padding={4}>
+  <title textAlign="center" size="lg">ESTAÇÃO DE CONVERSÃO TÉRMICA</title>
+  <divider color="#777c74"/>
+  <text textAlign="center">Unidade de alimentação auxiliar</text>
+  <text textAlign="center">Circuito de circulação</text>
+  <text textAlign="center">Controle de distribuição</text>
+  <divider color="#777c74"/>
+  <text textAlign="center" color="#e8c88b">Verificar o circuito antes da partida.</text>
+</box>
+
+A estrutura não apresenta sinais visíveis de funcionamento, apesar da água corrente e do calor ambiental. Nenhuma criatura foi detectada.
+
+Você está na entrada da câmara, diante da plataforma. Ainda não examinou o equipamento.
+
+**O que você faz?**
+
+---
+
+**[LOG DE MEMÓRIA DA CAMPANHA]**
+
+- **Localização atual:** Estação de conversão térmica, Monte Veyra, Dia 6, 18h45.
+- **NPCs presentes e relação:** Nenhum detectado.
+- **Linha de missão ativa:** Investigar e restabelecer a alimentação de energia.
+- **Eventos cruciais:** Multiclasse de Artífice adquirida; grade atravessada; estação térmica localizada.
+- **Condições:** 21/21 PV | CA 16 | Nível 2 | 300/900 XP | Inspiração Heroica disponível.
+- **Recursos:** 2/2 espaços de magia, 4/4 usos de Magia do Funileiro; lanterna com 1h25 de autonomia e 6 frascos de óleo em reserva.
+
+**Auditoria:** as duas rolagens do reparo anterior não possuem execução Python comprovada. Mantive os acontecimentos e corrigi o registro. As rolagens de Percepção e Furtividade deste turno foram efetivamente executadas e verificadas.
+
+**GitHub:** commit confirmado; transcrição, ficha, estado, cronologia e rolagens atualizados.
