@@ -426,3 +426,7 @@ date,campaign_id,stage,attempt,expression,six_rolls_faces_in_order,six_attribute
 2026-11-25,ERON-RIVER-ASTERION-001,guidance_great_forge_safety_day9,2,1d4,"3","17+3=20 (combined check)",3,true
 2026-11-25,ERON-RIVER-ASTERION-001,audit_unverified_tinkers_int_great_forge_safety_day9,2,1d20+6,"11","11+6",17,false
 2026-11-25,ERON-RIVER-ASTERION-001,audit_unverified_guidance_great_forge_safety_day9,2,1d4,"3","17+3=20",3,false
+2026-11-25,ERON-RIVER-ASTERION-001,investigation_tinkers_level1_station_door_day9,1,2d20kh1+6,"1,14","14+6; kept index 1",20,true
+2026-11-25,ERON-RIVER-ASTERION-001,guidance_investigation_level1_station_door_day9,1,1d4,"4","20+4=24",4,true
+2026-11-25,ERON-RIVER-ASTERION-001,dex_smith_level1_station_door_day9,1,1d20+7,"13","13+7",20,true
+2026-11-25,ERON-RIVER-ASTERION-001,guidance_dex_smith_level1_station_door_day9,1,1d4,"4","20+4=24",4,true
