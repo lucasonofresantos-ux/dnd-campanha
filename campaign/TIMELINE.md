@@ -512,3 +512,5 @@ Dia10 16h15–16h30: Eron agradeceu a Tavin e retornou ao posto da Vigília para
 - [470] Dia 11, 13h35–13h55. Investigação com vantagem [3, 10] +6 = 16. Apoio rachado diagnosticado e reparado com Consertar. Balança remontada, pesagem conferida, Durnak paga 5 PP. Saldo 68 PO, 9 PP, 7 PC.
 
 - [472] Dia 11, 14h05. Quadro de avisos do Pouso. Lena oferece 2 PO quando a carroça parada no vau chegar ao pouso. Filho presente como guia; vau a meia hora a pé. Nara oferece 1 PO pela devolução do caderno azul até o anoitecer; banca a três portas. Nenhum serviço aceito.
+
+- [474] Dia 11, 14h10. Banca de Nara. Eron começa a apurar o desaparecimento do caderno. Nara relata anotação corrigida de Bina, trouxa de meadas retirada pelo rapaz da tinturaria, ida aos fundos e pena encontrada no chão. Permite examinar a banca. Forno na esquina, tinturaria junto ao córrego. Carroça não aceita.

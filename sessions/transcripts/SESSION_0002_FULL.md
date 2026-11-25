@@ -14309,3 +14309,34 @@ Pouco depois das duas, você chega ao quadro de avisos do **Pouso das Três Font
 - **Condições do jogador** · 30/30 PV, CA 16, 1.400/2.700 XP. Saldo de 68 PO, 9 PP e 7 PC.
 
 **Commit confirmado no GitHub.**
+
+## [473] JOGADOR
+
+Vou até a tecelã primeiro
+- boa noite, vim pelo caderno, quando foi a última vez que viu e pode me contar oque fez no dia que desapareceu
+
+### Mestre — andamento
+
+Você encontra Nara atrás do balcão, ainda com uma peça de linho aberta. Ao ouvir a pergunta, ela larga o tecido.
+
+## [474] MESTRE
+
+— Boa tarde, moço. Foi hoje, pouco antes do meio-dia. A última vez que pus a mão nele foi pra anotar o sinal da Bina, a padeira. Ela encomendou dois aventais. Lembro porque escrevi “três”, e ela mesma apontou o erro. Risquei, escrevi “dois” e deixei o caderno aberto aqui, com a pena atravessada na página.
+
+Nara indica a ponta do balcão mais próxima da rua.
+
+— De manhã eu tinha aberto a banca, varrido e pendurado as amostras. Depois que a Bina saiu, o rapaz da tinturaria veio buscar uma trouxa. Puxei o pano pardo pra cima do balcão, embrulhei as meadas e amarrei com barbante. Ele levou a trouxa e eu fui aos fundos lavar a tinta dos dedos. Quando voltei pra fechar pro almoço, encontrei a pena no chão. Foi aí que dei falta do caderno. Desatei até o meu avental pra ver se tinha enfiado ele no bolso por costume.
+
+Ela limpa as mãos no avental antes de tocar no linho outra vez.
+
+— A Bina trabalha no forno da esquina. O rapaz eu conheço de vista, faz as entregas da tinturaria junto ao córrego. Se quiser olhar aqui, pode passar pra trás do balcão. Já mexi bastante nas fazendas desde que postei o aviso.
+
+**[LOG DE MEMÓRIA DA CAMPANHA]**
+
+- **Localização atual** · Banca de Nara, Pouso das Três Fontes. Dia 11, cerca de 14h10.
+- **NPCs presentes e relação** · Nara, a tecelã, respondeu às perguntas e permitiu examinar a banca.
+- **Linha de missão ativa** · Localizar o caderno azul de Nara. Recompensa de **1 PO** pela devolução até o anoitecer.
+- **Eventos cruciais ocorridos** · Segundo Nara, Bina viu o caderno aberto. A retirada da trouxa e a ida aos fundos ocorreram antes de Nara perceber a falta. Ela encontrou a pena no chão.
+- **Condições do jogador** · 30/30 PV, CA 16, 1.400/2.700 XP. Saldo de 68 PO, 9 PP e 7 PC.
+
+**Commit confirmado no GitHub.**

@@ -231,21 +231,21 @@ character:
 campaign_time:
   calendar_system: "Asterion, dias relativos; nenhuma era/ano formal estabelecido"
   day: 11
-  time_of_day: "Dia 11, cerca de 14h05"
+  time_of_day: "Dia 11, cerca de 14h10"
   season: "final do outono"
-  elapsed_game_time: "Dia 11, 13h55–14h05"
+  elapsed_game_time: "Dia 11, 14h05–14h10"
 location:
   continent: Asterion
   polity: "Terras Livres de Avenhar (homebrew), fora de Valdren"
   area: "entroncamento da Estrada do Cascalho, próximo ao Pouso das Três Fontes"
   nearby: "encostas arborizadas da serra cujo monte mais alto é chamado Veyra"
-  exact_position: "Quadro de avisos do Pouso das Três Fontes."
+  exact_position: "Banca de Nara, Pouso das Três Fontes."
   travel_status: "Eron retornou ao Pouso das Três Fontes. Thûn-Khazad: entrada original fechada e camuflada, sensores operacionais, oito unidades, manutenção interna e inventário contínuos, seis Caminhos selados. Nenhuma comunicação remota estabelecida."
 scene:
   id: OPENING-001
-  status: "notice_board_day11"
-  current_npcs_present: ["Filho de Lena, guia", "Nara, à vista"]
-  immediate_visible_situation: "Dia 11, 14h05. Quadro de avisos do Pouso. Lena oferece 2 PO quando a carroça parada no vau chegar ao pouso. Filho presente como guia; vau a meia hora a pé. Nara oferece 1 PO pela devolução do caderno azul até o anoitecer; banca a três portas. Nenhum serviço aceito."
+  status: "nara_interview_day11"
+  current_npcs_present: ["Nara, tecelã"]
+  immediate_visible_situation: "Dia 11, 14h10. Banca de Nara. Eron começa a apurar o desaparecimento do caderno. Nara relata anotação corrigida de Bina, trouxa de meadas retirada pelo rapaz da tinturaria, ida aos fundos e pena encontrada no chão. Permite examinar a banca. Forno na esquina, tinturaria junto ao córrego. Carroça não aceita."
   discovered_traps:
     - location: "Trilha dos Corcos, junto ao riacho"
       state: disarmed_safe_wire_left_at_tree
@@ -290,8 +290,8 @@ world:
 transcription:
   character_creation_history: sessions/transcripts/SESSION_0001_FULL.md
   narrative_session: sessions/transcripts/SESSION_0002_FULL.md
-  last_saved_player_turn: "[471] JOGADOR — despede-se e consulta quadro."
-  last_saved_dm_turn: "[472] MESTRE — dois avisos de trabalho."
+  last_saved_player_turn: "[473] JOGADOR — pergunta a Nara pelo caderno."
+  last_saved_dm_turn: "[474] MESTRE — relato de Nara."
 notes:
   - "Primeira resposta de cena será salva literalmente e sem revelar preparativos de dm."
   - "Nunca tratar a aprovação da ficha como XP, nem mudar recursos automaticamente."
