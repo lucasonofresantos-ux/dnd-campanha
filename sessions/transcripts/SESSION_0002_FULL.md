@@ -8121,3 +8121,53 @@ Os três armários da oficina continuam fechados e ainda não foram examinados.
 Nenhum teste adicional foi necessário para confirmar a alimentação visível. Os demais setores da montanha ainda não tiveram seu funcionamento verificado.
 
 **GitHub:** commit confirmado; transcrição, XP, ficha, cronologia, estado e rolagem atualizados.
+
+
+## [289] JOGADOR
+
+- que serviços?
+
+## [290] MESTRE
+
+## Monte Veyra — Oficina de manutenção
+
+Ao pronunciar essas palavras, você não recebe nenhuma resposta sonora. Entretanto, ao observar os símbolos luminosos da bancada, reconhece inscrições em anão que correspondem a diferentes funções.
+
+<box background="#172521" theme="dark" radius="lg" padding={4} gap={3}>
+  <row align="center">
+    <icon name="settings" color="#8ad6b1" size="xl"/>
+    <title color="#a5e6c2" size="lg">SERVIÇOS DE MANUTENÇÃO</title>
+  </row>
+  <divider color="#426154"/>
+  {#each [{icon:"activity",name:"Diagnóstico de rede",desc:"Identificação de falhas nos circuitos conectados."},{icon:"hammer",name:"Reparação de componentes",desc:"Assistência no reparo de peças mecânicas."},{icon:"gem",name:"Calibração cristalina",desc:"Ajuste dos cristais condutores de energia."},{icon:"cog",name:"Fabricação de componentes",desc:"Produção de peças mediante fornecimento de matéria-prima."},{icon:"book-open",name:"Arquivo técnico",desc:"Esquemas construtivos e registros de manutenção."}] as item}
+    <row align="center" gap={3}>
+      <icon name={item.icon} color="#8ad6b1" size="xl"/>
+      <box flex={1} gap={1}>
+        <text color="#c8edda" weight="medium">{item.name}</text>
+        <text color="#a5b9af" size="sm">{item.desc}</text>
+      </box>
+    </row>
+    <divider color="#426154"/>
+  {/each}
+  <text color="#e6b765" textAlign="center" size="sm">AGUARDANDO SELEÇÃO DE SERVIÇO</text>
+</box>
+
+À direita da bancada, você observa uma pequena superfície circular cercada por runas. À esquerda, existem encaixes de diferentes dimensões, aparentemente destinados a prender componentes durante os trabalhos.
+
+Pelo seu conhecimento de ferreiro e artífice, você reconhece que se trata de uma oficina especializada na manutenção da tecnologia anã. Entretanto, ainda não sabe se todas as funções estão operacionais.
+
+Os três armários permanecem fechados.
+
+**O que você faz?**
+
+---
+
+**[LOG DE MEMÓRIA DA CAMPANHA]**
+- **Localização atual:** Oficina de manutenção, Monte Veyra, Dia 6, 20h52.
+- **NPCs presentes e relação:** Nenhum detectado.
+- **Linha de missão ativa:** Exploração e investigação da tecnologia anã.
+- **Eventos cruciais:** Cinco serviços da bancada identificados; nenhum acionado.
+- **Condições:** 21/21 PV | CA 16 | Nível 2 | 400/900 XP | Inspiração Heroica disponível.
+- **Recursos:** 2/2 espaços de magia, 4/4 usos de Magia do Funileiro, 5 frascos de óleo em reserva.
+
+**GitHub:** commit confirmado; transcrição, estado e cronologia atualizados.
