@@ -192,3 +192,5 @@
 - [464] Dia 11, 09h35–13h35. Eron aceita e conclui a encomenda de Durnak: duas enxadas e uma foice reparadas, quatro braçadeiras prontas. Almoço fornecido, 1 PO recebida. Saldo 68 PO, 4 PP e 7 PC. Sem teste ou XP.
 
 - [466] Dia 11, 13h35. Durnak oferece 5 PP para reparar a balança até amanhã cedo. Oferta pendente.
+
+- [468] Dia 11, cerca de 13h35. Eron aceita consertar a balança por 5 PP até amanhã cedo. Estalo localizado no apoio central. Aguarda Investigação +6 com vantagem pelo uso das ferramentas de funileiro. Nenhuma rolagem ou pagamento.

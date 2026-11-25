@@ -14227,3 +14227,29 @@ Ele deixa a balança montada e os dois pesos ao teu alcance.
 - **Condições do jogador** · 30/30 PV, CA 16, 1.400/2.700 XP. Saldo de 68 PO, 4 PP e 7 PC.
 
 **Commit confirmado no GitHub.**
+
+## [467] JOGADOR
+
+- aceito sim, deixa eu arrumar isso
+
+### Mestre — atualização de andamento
+
+Vou conferir na ficha o bônus de Eron para examinar a balança.
+
+## [468] MESTRE
+
+— Fechado. Vou deixar os pesos aqui contigo — diz Durnak, abrindo espaço na bancada.
+
+Com os pratos vazios, você ergue de leve o braço da balança e o solta. Ele oscila, dá aquele estalinho e para com o prato esquerdo um pouco abaixo do direito. Desta vez, com a bancada quieta, dá pra ouvir que o som vem do apoio central.
+
+**Role Inteligência (Investigação) com vantagem, usando suas ferramentas de funileiro** para descobrir o que prende o movimento. Eron tem proficiência tanto na perícia quanto nas ferramentas. A expressão é **2d20kh1 + 6**. Pode me passar os dois resultados naturais ou dizer “pode rolar”.
+
+**[LOG DE MEMÓRIA DA CAMPANHA]**
+
+- **Localização atual** · Bancada de Durnak, Dia 11, por volta das 13h35.
+- **NPCs presentes e relação** · Durnak, ferreiro que contratou Eron.
+- **Linha de missão ativa** · Consertar a balança até amanhã cedo por **5 PP**, pagas na entrega.
+- **Eventos cruciais ocorridos** · Serviço aceito. O estalo vem do apoio central. Diagnóstico em andamento.
+- **Condições do jogador** · 30/30 PV, CA 16, 1.400/2.700 XP. Saldo de 68 PO, 4 PP e 7 PC.
+
+**Commit confirmado no GitHub.**
