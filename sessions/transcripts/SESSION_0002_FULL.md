@@ -14512,3 +14512,29 @@ Quando vocês chegam ao **Pouso das Três Fontes**, o filho de Lena salta para s
 - **Condições do jogador** · 30/30 PV, CA 16, 1.400/2.700 XP. Saldo de **71 PO, 9 PP e 7 PC**.
 
 **Commit confirmado no GitHub.**
+
+## [487] JOGADOR
+
+- boa viagem e tenta não quebrar outra roda
+
+### Mestre — andamento
+
+O filho de Lena solta uma risada antes que a mãe consiga responder.
+
+## [488] MESTRE
+
+— Ouviu, mãe? — diz o garoto. — Da próxima vez a senhora deixa eu escolher por onde passar.
+
+— Você escolheu na ida, filho. Foi por isso que voltou com as calças molhadas. — Lena dobra o aviso, guarda no bolso e te acena. — Boa tarde, Eron. Se passar pelo moinho antes de mim, dê lembranças à Celina.
+
+A mula toma a rua a passo. O garoto ainda olha uma vez por cima do ombro. Da roda vem só o ruído do aro no cascalho.
+
+**[LOG DE MEMÓRIA DA CAMPANHA]**
+
+- **Localização atual** · Quadro de avisos do Pouso das Três Fontes, Dia 11, cerca de 16h15.
+- **NPCs presentes e relação** · Lena e o filho, amistosos, seguem viagem.
+- **Linha de missão ativa** · Nenhum serviço assumido. A pista do moinho continua em aberto.
+- **Eventos cruciais ocorridos** · Eron se despediu de Lena e do filho.
+- **Condições do jogador** · 30/30 PV, CA 16, 1.400/2.700 XP. Saldo de **71 PO, 9 PP e 7 PC**.
+
+**Commit confirmado no GitHub.**

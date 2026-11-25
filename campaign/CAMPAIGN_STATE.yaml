@@ -233,7 +233,7 @@ campaign_time:
   day: 11
   time_of_day: "Dia 11, cerca de 16h15"
   season: "final do outono"
-  elapsed_game_time: "Dia 11, 15h40–16h15"
+  elapsed_game_time: "Dia 11, cerca de 16h15"
 location:
   continent: Asterion
   polity: "Terras Livres de Avenhar (homebrew), fora de Valdren"
@@ -244,8 +244,8 @@ location:
 scene:
   id: OPENING-001
   status: "cart_paid_at_pouso_day11"
-  current_npcs_present: ["Lena", "Filho de Lena"]
-  immediate_visible_situation: "Dia 11, 15h40–16h15. Eron aceita carona e pede notícias. Lena relata lã preta comprida na grade do moinho a uma légua abaixo do vau e conversa com Celina, que perdeu duas ovelhas pretas tosquiadas há três noites. Casa com barco virado como galinheiro acima do moinho. Ao chegar ao pouso Lena paga 2 PO e remove aviso. Saldo 71 PO, 9 PP, 7 PC."
+  current_npcs_present: []
+  immediate_visible_situation: "Dia 11, cerca de 16h15. Eron deseja boa viagem. Lena e o filho se despedem e seguem com a carroça; Eron permanece no quadro. Lena pede lembranças a Celina se Eron passar pelo moinho."
   discovered_traps:
     - location: "Trilha dos Corcos, junto ao riacho"
       state: disarmed_safe_wire_left_at_tree
@@ -290,8 +290,8 @@ world:
 transcription:
   character_creation_history: sessions/transcripts/SESSION_0001_FULL.md
   narrative_session: sessions/transcripts/SESSION_0002_FULL.md
-  last_saved_player_turn: "[485] JOGADOR — aceita carona e pede notícias."
-  last_saved_dm_turn: "[486] MESTRE — relato do moinho e serviço pago."
+  last_saved_player_turn: "[487] JOGADOR — deseja boa viagem."
+  last_saved_dm_turn: "[488] MESTRE — despedida de Lena e do filho."
 notes:
   - "Primeira resposta de cena será salva literalmente e sem revelar preparativos de dm."
   - "Nunca tratar a aprovação da ficha como XP, nem mudar recursos automaticamente."

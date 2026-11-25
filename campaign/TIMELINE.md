@@ -526,3 +526,5 @@ Dia10 16h15–16h30: Eron agradeceu a Tavin e retornou ao posto da Vigília para
 - [484] Dia 11, 15h15–15h40. Investigação 18+6 e Orientação 1 = 25. Fenda única no cubo, reparada com Consertar. Roda remontada e testada sob carga na subida, sem novo teste. Lena oferece carona; 2 PO devidas na chegada. Eron ainda não aceitou carona.
 
 - [486] Dia 11, 15h40–16h15. Eron aceita carona e pede notícias. Lena relata lã preta comprida na grade do moinho a uma légua abaixo do vau e conversa com Celina, que perdeu duas ovelhas pretas tosquiadas há três noites. Casa com barco virado como galinheiro acima do moinho. Ao chegar ao pouso Lena paga 2 PO e remove aviso. Saldo 71 PO, 9 PP, 7 PC.
+
+- [488] Dia 11, cerca de 16h15. Eron deseja boa viagem. Lena e o filho se despedem e seguem com a carroça; Eron permanece no quadro. Lena pede lembranças a Celina se Eron passar pelo moinho.
