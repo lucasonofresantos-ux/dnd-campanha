@@ -78,7 +78,7 @@ character:
   carrying_weight_lb_recorded: 103.88
   carrying_weight_note: "Carga anterior registrada 103,88 lb; caça Dia6 acrescenta 11 kg de carne e outros materiais sem peso exato aferido; carga estimada abaixo de 180 lb."
   carrying_capacity_lb: 180
-  known_personal_item: "Marca da Bigorna Velada recuperada e guardada na bolsa; acionou abertura e fechamento da porta externa, atualmente fechada."
+  known_personal_item: "Marca da Bigorna Velada em mãos, apresentada a UM-021; acionou abertura e fechamento da porta externa, atualmente fechada; tipo reconhecido visualmente, permissões não verificadas."
   trained_owned_tool: "Ferramentas de Funileiro (propriedade e proficiência Artífice1)"
   ammo:
     shortbow_arrows_in_quiver: 19
@@ -212,9 +212,9 @@ character:
 campaign_time:
   calendar_system: "Asterion, dias relativos; nenhuma era/ano formal estabelecido"
   day: 8
-  time_of_day: "aproximadamente 05h53 do Dia 8"
+  time_of_day: "aproximadamente 05h54 do Dia 8"
   season: "final do outono"
-  elapsed_game_time: "Dia8 05h47–05h53, deslocamento ao acesso administrativo e diálogo."
+  elapsed_game_time: "Dia8 05h53–05h54, apresentação da Marca e relato de adoção."
 location:
   continent: Asterion
   polity: "Terras Livres de Avenhar (homebrew), fora de Valdren"
@@ -224,9 +224,9 @@ location:
   travel_status: "Cinco unidades locais operacionais; porta administrativa e armário restrito fechados; cozinha funcional, cinco dormitórios investigados, sexto trancado."
 scene:
   id: OPENING-001
-  status: "awaiting_player_response_to_credential_request_day8"
+  status: "awaiting_player_name_and_credential_insertion_day8"
   current_npcs_present: ["UM-017, cooperativo", "UM-021, cooperativo"]
-  immediate_visible_situation: "Dia8 05h47–05h53: Eron aceitou acompanhamento de UM-017 e comentou que nome Thûn-Khazad não explicava muito. UM-017 esclareceu nome do complexo e conduziu Eron pelo percurso conhecido e iluminado ao acesso administrativo. UM-021 junto à estação de recarga examinava mecanismos da porta; UM-017 apresentou solicitação de assistência. UM-021 informou que Thûn-Khazad era união de seis territórios anões governados a partir do Salão dos Seis Caminhos, este setor integra infraestrutura de serviço do Salão e registros históricos, administrativos e territoriais localizavam-se além da porta, com acesso restrito. Reconheceu atividades de manutenção pelas unidades, mas nenhuma autorização administrativa registrada em nome de Eron; solicitou credencial de identificação. Aguarda resposta, porta bronze permanece fechada; Marca da Bigorna Velada permanece na bolsa, não apresentada ou examinada, nenhuma autorização presumida. Informações de UM-021 limitadas ao seu serviço; não confirmou integridade dos arquivos, não revelou causa do desaparecimento ou destino dos habitantes, nomes dos territórios ou funcionamento dos Caminhos. Decisão local do Mestre: UM-021 conhece identificação geral institucional e localização dos registros; não possui autoridade ilimitada nem concede acesso automático. Nenhum teste, XP, magia, gasto, combate ou dano; PV21/21 CA16 XP725/900, Luz inativa, 9 rações, ~8,1kg carne em custódia UM-019."
+  immediate_visible_situation: "Dia8 05h53–05h54: Eron apresentou Marca da Bigorna Velada e contou que abriu porta externa, herança familiar recebida de seu pai por adoção Gruner Barba de Cobre, que o reconheceu descendente apesar de não possuir sangue anão. UM-021 reconheceu visualmente tipo de Marca e associou sobrenome Barba de Cobre à linhagem dos Guardiões dos Seis Caminhos, não confirmou genealogia de Gruner nem autoridade de Eron. Explicou que posse e adoção não bastam para autenticação, exigindo registros; apontou painel de bronze com cavidade circular junto à porta e solicitou inserção para verificar permissões, além de nome completo. Eron ainda não respondeu nem inseriu disco; permanece em suas mãos, porta fechada, sem autorização concedida. Decisão local de cenário: unidade administrativa conhece símbolos institucionais; painel permite testar credencial, não equivale a autenticação bem-sucedida; não definir direitos, parentesco biológico, cargo ou permissões antes da verificação. Respeitar adoção canônica por Gruner. Nenhum dado, XP, magia, combate, gasto ou dano; PV21/21 CA16 XP725/900, UM-017 e UM-021 presentes cooperativos."
   discovered_traps:
     - location: "Trilha dos Corcos, junto ao riacho"
       state: disarmed_safe_wire_left_at_tree
@@ -271,8 +271,8 @@ world:
 transcription:
   character_creation_history: sessions/transcripts/SESSION_0001_FULL.md
   narrative_session: sessions/transcripts/SESSION_0002_FULL.md
-  last_saved_player_turn: "[335] JOGADOR — aceita acompanhamento e comenta sobre Thûn-Khazad."
-  last_saved_dm_turn: "[336] MESTRE — UM-021 explica união de seis territórios e pede credencial, Dia8 05h53."
+  last_saved_player_turn: "[337] JOGADOR — apresenta Marca e explica adoção por Gruner."
+  last_saved_dm_turn: "[338] MESTRE — Marca reconhecida, painel indicado, nome solicitado, Dia8 05h54."
 notes:
   - "Primeira resposta de cena será salva literalmente e sem revelar preparativos de dm."
   - "Nunca tratar a aprovação da ficha como XP, nem mudar recursos automaticamente."

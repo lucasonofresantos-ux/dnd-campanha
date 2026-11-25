@@ -10248,3 +10248,42 @@ O construto olha para suas ferramentas.
 - **Condições:** 21/21 PV | CA 16 | 725/900 XP.
 
 **GitHub:** commit confirmado.
+
+
+## [337] JOGADOR
+
+- credencial... Bem tenho isso aqui, sei que abriu a porta mas é deq família, herdei de um dos meus pais, Gruner Barba de cobre, e ele me deu me reconhecendo como descente apesar de não ter o sangue anão
+
+## [338] MESTRE
+
+Ao ver o pequeno disco metálico em sua mão, UM-021 aproxima a cabeça para examinar a bigorna, a montanha e os seis sulcos gravados em sua superfície.
+
+— Marca da Bigorna Velada. Identificação reconhecida.
+
+Ao ouvir o sobrenome de Gruner, o construto permanece em silêncio por alguns instantes.
+
+— Barba de Cobre... Nome da linhagem dos Guardiões dos Seis Caminhos.
+
+UM-017 interrompe seus movimentos e volta a cabeça em sua direção.
+
+— Contudo — prossegue UM-021 —, a posse da Marca e a descendência por adoção não são suficientes para autenticar sua autoridade. Essa verificação exige consulta aos registros.
+
+O construto aponta para um pequeno painel de bronze ao lado da porta, onde existe uma cavidade circular semelhante àquela que você encontrou na entrada da montanha.
+
+— Insira a Marca neste dispositivo. Podemos verificar quais permissões ela possui.
+
+— Qual é o seu nome completo, descendente de Gruner?
+
+---
+
+**[LOG DE MEMÓRIA DA CAMPANHA]**
+
+- **Localização atual:** Acesso administrativo, Dia 8, 05h54.
+- **NPCs presentes:** UM-017 e UM-021, cooperativos.
+- **Missão ativa:** Investigar Thûn-Khazad e a origem da herança de Gruner.
+- **Eventos cruciais:** Reconhecimento da Marca da Bigorna Velada e associação do sobrenome Barba de Cobre aos antigos Guardiões.
+- **Condições:** 21/21 PV | CA 16 | 725/900 XP.
+
+A Marca permanece em suas mãos. Nenhuma autorização foi concedida até o momento.
+
+**GitHub:** commit confirmado.
