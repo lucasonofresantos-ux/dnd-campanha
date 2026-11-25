@@ -14281,3 +14281,31 @@ Você retira o braço, mantém as bordas da rachadura encostadas e usa **Consert
 - **Condições do jogador** · 30/30 PV, CA 16, 1.400/2.700 XP. Saldo de **68 PO, 9 PP e 7 PC**. O truque não consumiu espaço de magia.
 
 **Commit confirmado no GitHub.**
+
+## [471] JOGADOR
+
+- obrigado e que sua forja nunca apague, vou ver o quadro de avisos se tem mais algo que eu possa fazer ainda hoje
+
+### Mestre — atualização de andamento
+
+Vou conferir onde fica o quadro e quais avisos Eron já viu.
+
+## [472] MESTRE
+
+— E que sempre encontre fogo aceso quando voltar, Eron — responde Durnak, erguendo a mão suja de carvão.
+
+Pouco depois das duas, você chega ao quadro de avisos do **Pouso das Três Fontes**, debaixo do beiral que dá para a Estrada do Cascalho. Dois bilhetes oferecem trabalho para esta tarde.
+
+**Carroça parada no vau — 2 PO.** “Preciso de alguém que entenda de roda e eixo. A carroça ainda está de pé. Pago quando ela chegar ao pouso.” Quem assina é **Lena**, uma carreteira. Um rapaz de calças molhadas até o joelho espera junto ao quadro para guiar quem aceitar. Ao ver você lendo, ele acrescenta baixinho: — Dá meia hora a pé. Minha mãe ficou lá com a mula.
+
+**Caderno de encomendas desaparecido — 1 PO pela devolução.** **Nara, a tecelã**, escreve que abriu o caderno esta manhã para anotar uma venda. Quando foi fechar a banca, o caderno de capa azul tinha sumido. “Tem as medidas e o sinal pago de cada freguês. Preciso dele até o anoitecer.” O bilhete indica a banca de tecidos, a três portas do quadro. Daqui você vê uma mulher atrás do balcão, desenrolando peças de linho e apalpando as dobras.
+
+**[LOG DE MEMÓRIA DA CAMPANHA]**
+
+- **Localização atual** · Quadro de avisos do Pouso das Três Fontes, Dia 11, cerca de 14h05.
+- **NPCs presentes e relação** · Filho de Lena junto ao quadro. Nara à vista na banca. Primeiro contato com ambos.
+- **Linha de missão ativa** · Dois serviços disponíveis nesta tarde, ambos por aceitar.
+- **Eventos cruciais ocorridos** · Eron despediu-se de Durnak e leu os avisos.
+- **Condições do jogador** · 30/30 PV, CA 16, 1.400/2.700 XP. Saldo de 68 PO, 9 PP e 7 PC.
+
+**Commit confirmado no GitHub.**
